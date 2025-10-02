@@ -36,6 +36,7 @@ ar-consulting.ch
 ar-corporate-photography.ch
 ar-coworkspace.ch
 ar-creative.ch
+ar-decor.ch
 ar-design.ch
 ar-dev.ch
 ar-developer.ch
@@ -679,7 +680,6 @@ aran.ch
 arana.ch
 aranacare-zug.ch
 aranacare.ch
-aranacaremittelland.ch
 aranacarepflege.ch
 aranacarepflegeteam.ch
 aranacarezug.ch
@@ -778,7 +778,6 @@ araratchallenge.ch
 araratjuice.ch
 araratkebab.ch
 araratquintet.ch
-araratrestaurantfribourg.ch
 ararch.ch
 ararchitecte.ch
 ararchitecture.ch
@@ -980,7 +979,6 @@ arbasta.ch
 arbastrom.ch
 arbate.ch
 arbatherm.ch
-arbau.ch
 arbaudie.ch
 arbaumanagement.ch
 arbauten.ch
@@ -998,7 +996,9 @@ arbe-ag.ch
 arbe.ch
 arbeaute.ch
 arbedachung.ch
+arbedlivingapartments.ch
 arbedlivinghotel.ch
+arbedmicroliving.ch
 arbedo-castione24.ch
 arbedocastione.ch
 arbedsmartcenter.ch
@@ -1331,7 +1331,6 @@ arbeitsinklusion.ch
 arbeitsinspektorat.ch
 arbeitsintegration-basel.ch
 arbeitsintegration-baselland.ch
-arbeitsintegration-bern.ch
 arbeitsintegration-bl.ch
 arbeitsintegration-bs.ch
 arbeitsintegration-schweiz.ch
@@ -1742,7 +1741,6 @@ arbeitswelt.ch
 arbeitswelten.ch
 arbeitswelterfahrung.ch
 arbeitsweltpsychologin.ch
-arbeitswiss.ch
 arbeitsyoga.ch
 arbeitszeit-erfassen.ch
 arbeitszeit-ist-lebenszeit.ch
@@ -1934,11 +1932,7 @@ arbitrium-consult.ch
 arbitrium.ch
 arbitrivault.ch
 arbitrox-ai.ch
-arbitrox-app.ch
-arbitrox-official.ch
-arbitrox-offiziell.ch
 arbius.ch
-arbivex.ch
 arbiz.ch
 arbk.ch
 arblaw.ch
@@ -2074,7 +2068,6 @@ arbor-restaurant.ch
 arbor-shop.ch
 arbor.ch
 arbora-paysagistes.ch
-arbora-saules.ch
 arbora.ch
 arborabaumpflege.ch
 arborag.ch
@@ -2880,7 +2873,6 @@ arch-hilp.ch
 arch-idee.ch
 arch-image.ch
 arch-imf.ch
-arch-immo-zumwald.ch
 arch-immo.ch
 arch-infogroup.ch
 arch-ing.ch
@@ -3808,6 +3800,7 @@ archis-sa.ch
 archis.ch
 archisa.ch
 archisaticino.ch
+archiscalo.ch
 archiscan.ch
 archiscloud.ch
 archiscout.ch
@@ -4746,6 +4739,7 @@ architekturvermessung.ch
 architekturvermessungen.ch
 architekturvermittlung-ag-so.ch
 architekturvermittlung-so.ch
+architekturvermittlung.ch
 architekturversicherung.ch
 architekturvertraege.ch
 architekturvetterli.ch
@@ -4950,7 +4944,6 @@ archivandelfingen.ch
 archivanlagen.ch
 archivar.ch
 archivare.ch
-archivaria.ch
 archivart.ch
 archivarte-galerie.ch
 archivarte.ch
@@ -5051,6 +5044,7 @@ archivesjeanmonnet.ch
 archivesjeanpiaget.ch
 archivesletemps.ch
 archivesmigros.ch
+archivesmlf.ch
 archivesne.ch
 archivesnumeriques.ch
 archivesoleil.ch
@@ -5543,6 +5537,7 @@ arcomec.ch
 arcomed-dev.ch
 arcomed.ch
 arcomedia.ch
+arcominera.ch
 arcomp.ch
 arcomushingteam.ch
 arcon-ag.ch
@@ -5765,6 +5760,7 @@ arcticvacation.ch
 arcticversicherung.ch
 arcticvoices.ch
 arcticwear.ch
+arcticwin.ch
 arcticwolf.ch
 arctik21.ch
 arctika-group.ch
@@ -6076,6 +6072,7 @@ ardiva.ch
 ardivagroup.ch
 ardival.ch
 ardive.ch
+ardizaun.ch
 ardizio-toitures.ch
 ardizio.ch
 ardizzone.ch
@@ -6774,15 +6771,17 @@ arenz.ch
 areo.ch
 areoh.ch
 areola-pigmentation.ch
+areola-tattoo.ch
 areola.ch
 areolapigmentierung.ch
+areolapmu.ch
 areolarekonstruktionaarau.ch
 areolarekonstruktionbasel.ch
 areolarekonstruktionlausanne.ch
 areolarekonstruktionschwyz.ch
 areolarekonstruktionsolothurn.ch
+areolatattoo.ch
 areolatattoobern.ch
-areolatattoointerlaken.ch
 areolatattooluzern.ch
 areolatattoothun.ch
 areolatattoozurich.ch
@@ -6851,6 +6850,7 @@ arescapital.ch
 arescare-teufen.ch
 arescare.ch
 arescareteufen.ch
+arescasino.ch
 aresceylan.ch
 aresclimb.ch
 aresconstruction.ch
@@ -6873,6 +6873,7 @@ aresnet.ch
 arespedroli.ch
 arespi.ch
 aresplan.ch
+arespremium.ch
 arespro.ch
 aress.ch
 aressecurity.ch
@@ -7155,6 +7156,7 @@ argegubri.ch
 argehasli.ch
 argehome.ch
 argehuw.ch
+argelato.ch
 argelli.ch
 argemedia.ch
 argemibufano.ch
@@ -7188,7 +7190,6 @@ argentcomptant.ch
 argentdepoche.ch
 argenterie.ch
 argenti.ch
-argentiarreda.ch
 argentiere.ch
 argentiereadvisors.ch
 argentierecapital.ch
@@ -7264,7 +7265,6 @@ argetohu.ch
 argetoma.ch
 argeton.ch
 argetra.ch
-argetunnel.ch
 argev.ch
 argeville.ch
 argewa.ch
@@ -7788,7 +7788,6 @@ aria-compressa-svizzera.ch
 aria-consulting.ch
 aria-institut.ch
 aria-jewelry.ch
-aria-life.ch
 aria-line.ch
 aria-residence.ch
 aria-residences.ch
@@ -8841,7 +8840,6 @@ arkid.ch
 arkie.ch
 arkigroup.ch
 arkimage.ch
-arkimed.ch
 arkimia.ch
 arkimmo.ch
 arkimo.ch
@@ -9024,6 +9022,7 @@ arld.ch
 arle.ch
 arlecchino-luzern.ch
 arlecchino.ch
+arlekincasino.ch
 arlekino.ch
 arlema.ch
 arlen-goldmeer.ch
@@ -9089,6 +9088,7 @@ arlettejost.ch
 arlettekobler.ch
 arlettekoch-zofingen.ch
 arlettekoch.ch
+arlettemuenger.ch
 arletteochsner.ch
 arlettesormani.ch
 arlettezurbuchen.ch
@@ -9112,6 +9112,7 @@ arlindaismajli.ch
 arlindajeti.ch
 arlindo.ch
 arlindsalihi.ch
+arline.ch
 arlinea.ch
 arling.ch
 arlington-aam.ch
@@ -9217,7 +9218,6 @@ armadongkalisg.ch
 armae.ch
 armaf.ch
 armafix.ch
-armaflex.ch
 armaform.ch
 armagbuero.ch
 armageddon.ch
@@ -10185,6 +10185,7 @@ arnaudschaer.ch
 arnaudschnegg.ch
 arnaudsoltermann.ch
 arnaudverdon.ch
+arnaudwist.ch
 arnaudzill.ch
 arnaultdegeer.ch
 arnauserrano.ch
@@ -10956,6 +10957,7 @@ aromalyme.ch
 aromamarketing.ch
 aromamassage-madelien.ch
 aromamassage-technik.ch
+aromamassage.ch
 aromamax.ch
 aromambiance.ch
 aromamed-synapse-release.ch
@@ -11409,11 +11411,9 @@ arosa5c.ch
 arosa76.ch
 arosaalpineholiday.ch
 arosaapartments.ch
-arosabaer.ch
 arosabaeren.ch
 arosabaerenland.ch
 arosabaerenwald.ch
-arosabear.ch
 arosabears.ch
 arosabergbahnen.ch
 arosabergferien.ch
@@ -11952,7 +11952,6 @@ arreghini.ch
 arregulo.ch
 arreha.ch
 arrenbrecht.ch
-arrenergie.ch
 arreno-atelier.ch
 arreno-mechanics.ch
 arrepiado-velho.ch
@@ -11984,6 +11983,7 @@ arreza.ch
 arrgh.ch
 arrgi-swiss.ch
 arrgp.ch
+arrh.ch
 arrharrplanachaux.ch
 arrhenius.ch
 arrhvv.ch
@@ -12018,6 +12018,7 @@ arrigotriulzi.ch
 arrima.ch
 arrimieten.ch
 arringger.ch
+arrinvest.ch
 arrissoules.ch
 arrital.ch
 arriu.ch
@@ -12696,7 +12697,6 @@ art-bauberatungen.ch
 art-beat.ch
 art-beatrice.ch
 art-beaute.ch
-art-beauty.ch
 art-bedding.ch
 art-bee.ch
 art-bellelay.ch
@@ -13491,7 +13491,6 @@ art-restore.ch
 art-riegel.ch
 art-rium-studios.ch
 art-roli.ch
-art-romeny.ch
 art-rosage.ch
 art-rose.ch
 art-rosenegg.ch
@@ -14202,7 +14201,6 @@ artbylella.ch
 artbylife.ch
 artbylilio.ch
 artbyliviahaas.ch
-artbym.ch
 artbymagdalena.ch
 artbymanuel.ch
 artbymeiling.ch
@@ -14267,7 +14265,6 @@ artcello.ch
 artceltique.ch
 artcenter.ch
 artcenter468.ch
-artcenterbasel.ch
 artcenterzuerich.ch
 artcentre.ch
 artcentrebasel.ch
@@ -14411,7 +14408,6 @@ artcube21.ch
 artcubes.ch
 artcuellarnathan.ch
 artcuir.ch
-artcuisine.ch
 artculina.ch
 artculinaire.ch
 artculinar.ch
@@ -14746,7 +14742,6 @@ arteboden.ch
 artebreve.ch
 artebru.ch
 artebuersti.ch
-artebur.ch
 artec-cowork.ch
 artec-design.ch
 artec-holding.ch
@@ -15029,7 +15024,6 @@ artek.ch
 arteka.ch
 artekaelin.ch
 artekag.ch
-artekah.ch
 artekatia.ch
 artekdesign.ch
 artekeramik.ch
@@ -15509,6 +15503,7 @@ artessen.ch
 artessence.ch
 artessio.ch
 artessoires.ch
+artessportakademie.ch
 artesta.ch
 artestate.ch
 artestetic.ch
@@ -15616,7 +15611,6 @@ artexpo.ch
 artexpress.ch
 artexsolutions.ch
 artextension.ch
-artextmedia.ch
 artextravagant.ch
 artexwatch.ch
 arteyalegria.ch
@@ -15814,7 +15808,6 @@ artgeneve-montecarlo.ch
 artgeneve.ch
 artgenie.ch
 artgenoss.ch
-artgenossen.ch
 artgentharius.ch
 artgentur-jacqueline.ch
 artgerecht-bern.ch
@@ -16008,7 +16001,6 @@ arthogaerten.ch
 artholding.ch
 artholz-tschirky.ch
 artholz.ch
-arthomas.ch
 arthome.ch
 arthopan.ch
 arthopeinture.ch
@@ -16154,7 +16146,6 @@ arthur-waser-stiftung.ch
 arthur-waser.ch
 arthur-welti.ch
 arthur-wernly.ch
-arthur-wipf.ch
 arthur.ch
 arthura.ch
 arthuradams.ch
@@ -16500,6 +16491,7 @@ artig-design.ch
 artig-metall.ch
 artig.ch
 artigall.ch
+artige.ch
 artigenal.ch
 artigeniale.ch
 artiger.ch
@@ -16507,7 +16499,6 @@ artiges.ch
 artigia.ch
 artigianale.ch
 artigianato-orientale.ch
-artigianato-rustici.ch
 artigianato.ch
 artigianatobetlemme.ch
 artigianatodelticino.ch
@@ -16537,7 +16528,6 @@ artigianodellegno.ch
 artigianodelsoftware.ch
 artigianodelvetro.ch
 artigianogilles.ch
-artigianorestorante.ch
 artiglia.ch
 artiglieria.ch
 artigmetall.ch
@@ -17222,7 +17212,6 @@ artistic-collection.ch
 artistic-digital.ch
 artistic-hands.ch
 artistic-institut.ch
-artistic-visions.ch
 artistic.ch
 artistica-event.ch
 artistica.ch
@@ -17660,6 +17649,7 @@ artmodul.ch
 artmoe.ch
 artmonaco.ch
 artmoney.ch
+artmonia-coiffure.ch
 artmonie-massage.ch
 artmonie.ch
 artmontage.ch
@@ -17701,7 +17691,6 @@ artnat.ch
 artnathur.ch
 artnatur.ch
 artnatural.ch
-artnature.ch
 artnco.ch
 artncollar.ch
 artncream.ch
@@ -17895,7 +17884,6 @@ artofmusic.ch
 artofnail.ch
 artofnails-alagna.ch
 artofnails-fribourg.ch
-artofnails.ch
 artofnailsandbeauty.ch
 artofnature.ch
 artofnet.ch
@@ -17933,6 +17921,7 @@ artofscent.ch
 artofschmid.ch
 artofsd.ch
 artofsecret.ch
+artofselling.ch
 artofservice.ch
 artofshirts.ch
 artofshopping.ch
@@ -18041,7 +18030,6 @@ artonface.ch
 artonglass.ch
 artonhorse.ch
 artonica.ch
-artonice-event.ch
 artonice.ch
 artoniceyoungtalents.ch
 artonis.ch
@@ -18096,7 +18084,6 @@ artorius.ch
 artoriuswealth.ch
 artoro.ch
 artort.ch
-artort24.ch
 artos-branding.ch
 artos-hotel.ch
 artos-interlaken.ch
@@ -18168,7 +18155,6 @@ artphilein.ch
 artphones.ch
 artphoto.ch
 artphotographie.ch
-artphotography.ch
 artphotos.ch
 artphotospeich.ch
 artphotowyss.ch
@@ -18616,7 +18602,6 @@ artstadtbern.ch
 artstaette.ch
 artstage.ch
 artstation-zuerich.ch
-artstation.ch
 artstationshowroom.ch
 artstechs.ch
 artsthera.ch
@@ -19047,6 +19032,9 @@ artxm.ch
 artxonglass.ch
 artxpic.ch
 artxpress.ch
+artxtra-architektur.ch
+artxtra-immo.ch
+artxtra-immobilien.ch
 artxtra.ch
 artxyz.ch
 arty-farty.ch
@@ -19102,7 +19090,6 @@ artzeel.ch
 artziig.ch
 artzilla.ch
 artzipan.ch
-artzoo.ch
 artzoom.ch
 artzoul.ch
 artzt-vitality.ch
@@ -19529,6 +19516,7 @@ arvst.ch
 arvu-stuba.ch
 arvudia.ch
 arvum.ch
+arvuna.ch
 arvut.ch
 arvy.ch
 arw-auto.ch
@@ -20045,7 +20033,6 @@ arztpraxis-bollinger.ch
 arztpraxis-brunnen.ch
 arztpraxis-bucher.ch
 arztpraxis-burgdorf.ch
-arztpraxis-burgerhaus.ch
 arztpraxis-buttisholz.ch
 arztpraxis-chabloz.ch
 arztpraxis-churfirsten.ch

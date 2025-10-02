@@ -40,6 +40,7 @@ ps-basel.ch
 ps-bau-generalunternehmen.ch
 ps-bau.ch
 ps-bazenheid.ch
+ps-bb.ch
 ps-be.ch
 ps-belfaux.ch
 ps-bellinzona.ch
@@ -121,7 +122,6 @@ ps-fitness.ch
 ps-foerderverein.ch
 ps-food.ch
 ps-forever.ch
-ps-foto.ch
 ps-fotografie.ch
 ps-fr-ville.ch
 ps-fr.ch
@@ -205,14 +205,12 @@ ps-luzern.ch
 ps-m.ch
 ps-magazin.ch
 ps-malerei.ch
-ps-management.ch
 ps-marbach.ch
 ps-marketing.ch
 ps-marly.ch
 ps-martigny.ch
 ps-masch.ch
 ps-maschwanden.ch
-ps-massagno.ch
 ps-media.ch
 ps-medical.ch
 ps-meggen.ch
@@ -405,7 +403,6 @@ ps24.ch
 ps25-intranet.ch
 ps25-tarif.ch
 ps25.ch
-ps2play.ch
 ps2world.ch
 ps3-spiele.ch
 ps3.proswiss.ch
@@ -571,6 +568,7 @@ psba.ch
 psbackup.ch
 psbag.ch
 psbalgach.ch
+psbau-generalunternehmen.ch
 psbau.ch
 psbauleitung.ch
 psbaumanagement.ch
@@ -794,6 +792,7 @@ psfahrzeugteile.ch
 psffoundation.ch
 psffund.ch
 psfh.ch
+psfilm.ch
 psfischer.ch
 psfitness.ch
 psflamatt.ch
@@ -1262,7 +1261,6 @@ psoriasis-patient.ch
 psoriasis-patienten.ch
 psoriasis-underdiehaut.ch
 psoriasis-unterdiehaut.ch
-psoriasis-vitiligo.ch
 psoriasis-vulgaris.ch
 psoriasis-zentrum.ch
 psoriasis.ch
@@ -1757,7 +1755,6 @@ psy-med-zug.ch
 psy-moga.ch
 psy-mont.ch
 psy-montreux.ch
-psy-morges.ch
 psy-mueller.ch
 psy-n-co.ch
 psy-nature.ch
@@ -2245,7 +2242,6 @@ psychiatrische-dienste.ch
 psychiatrische-ergotherapie.ch
 psychiatrische-kinder-jugend-spitex.ch
 psychiatrische-klinik.ch
-psychiatrische-pflege.ch
 psychiatrische-praxis-kusturica.ch
 psychiatrische-praxis-stgallen.ch
 psychiatrische-praxis-winterthur.ch
@@ -2353,7 +2349,6 @@ psycho-onkologie.ch
 psycho-physiognomik-kongress.ch
 psycho-physiognomik.ch
 psycho-praxis-marti.ch
-psycho-praxis.ch
 psycho-profi.ch
 psycho-sexo-therapie.ch
 psycho-smile.ch
@@ -2982,6 +2977,7 @@ psychomotricite-lutry.ch
 psychomotricite-nyon.ch
 psychomotricite-suisse.ch
 psychomotricite.ch
+psychomotricitepetiteenfance.ch
 psychomotricitesuisse.ch
 psychomotsystemique.ch
 psychonaut.ch
@@ -3099,7 +3095,6 @@ psychosozialeberatung-weberwiki.ch
 psychosozialeberatung-zuerich.ch
 psychosozialeberatung.ch
 psychosozialeberatungen.ch
-psychosozialeberatungmentaltrainingaarau.ch
 psychosozialegesundheit.ch
 psychosozialepeerarbeit.ch
 psychosozialer-berater.ch
@@ -3331,6 +3326,7 @@ psychotherapie-cina.ch
 psychotherapie-clara7.ch
 psychotherapie-claudia-schildknecht.ch
 psychotherapie-claudia-winkler.ch
+psychotherapie-claus.ch
 psychotherapie-coaching.ch
 psychotherapie-coeppicus.ch
 psychotherapie-collas.ch
@@ -4237,7 +4233,6 @@ psychpflege-beo.ch
 psychpflegebeo.ch
 psychpflegeost.ch
 psychprax.ch
-psychrxinnovations.ch
 psychsafety.ch
 psychsolution.ch
 psychspitex.ch
@@ -4310,6 +4305,7 @@ psyfiie.ch
 psyfile.ch
 psyfiles.ch
 psyfinder.ch
+psyfireshows.ch
 psyflon.ch
 psyflow.ch
 psyfokus.ch

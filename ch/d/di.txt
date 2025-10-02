@@ -155,6 +155,7 @@ dia-logos.ch
 dia-logue.ch
 dia-n.ch
 dia-nails.ch
+dia-orama.ch
 dia-reinigungen.ch
 dia-scannen.ch
 dia-suisse.ch
@@ -1028,6 +1029,7 @@ dialogmanager.ch
 dialogmanufaktur.ch
 dialogmarketing-expo.ch
 dialogmarketing-messe.ch
+dialogmarketing-schweiz.ch
 dialogmarketing.ch
 dialogmarketing24.ch
 dialogmarketingexpo.ch
@@ -1195,7 +1197,6 @@ dialysis-switzerland.ch
 dialysis.ch
 dialysisathome.ch
 dialysismasters.ch
-dialz.ch
 diam-bouchon.ch
 diam-kork.ch
 diam-sa.ch
@@ -1374,7 +1375,6 @@ diamantring.ch
 diamantrose.ch
 diamants-infos.ch
 diamants.ch
-diamantsabatier.ch
 diamantsaege.ch
 diamantscheiben.ch
 diamantschildkroeten.ch
@@ -1411,6 +1411,7 @@ diamcoupe-sa.ch
 diamcoupe.ch
 diamdiam.ch
 diamdiamonds.ch
+diamea.ch
 diamech.ch
 diamed-lucerne.ch
 diamed-luzern.ch
@@ -1468,6 +1469,7 @@ diamond-cosmetic.ch
 diamond-cosmetics.ch
 diamond-cube.ch
 diamond-customs-gmbh.ch
+diamond-cutting-tools.ch
 diamond-defence.ch
 diamond-defense.ch
 diamond-designs.ch
@@ -1483,6 +1485,7 @@ diamond-event-saal.ch
 diamond-events.ch
 diamond-extensions.ch
 diamond-factory.ch
+diamond-fahrzeuge.ch
 diamond-fo.ch
 diamond-geneva.ch
 diamond-gmbh.ch
@@ -1524,7 +1527,6 @@ diamond-sailing.ch
 diamond-seller.ch
 diamond-sellers.ch
 diamond-service.ch
-diamond-services.ch
 diamond-shape.ch
 diamond-shop.ch
 diamond-software.ch
@@ -1810,6 +1812,7 @@ diana-brig.ch
 diana-brunner.ch
 diana-buzzurro.ch
 diana-carter.ch
+diana-christen.ch
 diana-consulting.ch
 diana-conthey.ch
 diana-dance.ch
@@ -3555,7 +3558,6 @@ die-drei-koenige.ch
 die-drei-musketiere.ch
 die-drei.ch
 die-dreizehnte-fee.ch
-die-dritte-meinung.ch
 die-dritte-seite.ch
 die-drogistin.ch
 die-druckereien.ch
@@ -3703,7 +3705,6 @@ die-filzwerkstatt.ch
 die-finanzberater.ch
 die-finanzexperten.ch
 die-finanzpsychologin.ch
-die-finanzspezialisten.ch
 die-fincabauer.ch
 die-firmen-lotsen.ch
 die-firmenfahne.ch
@@ -3801,7 +3802,6 @@ die-gefaessspezialisten.ch
 die-geila-sicha.ch
 die-geissens-realestate.ch
 die-geissens.ch
-die-geisterschule.ch
 die-gelaendermacher.ch
 die-gelbe-hypothek.ch
 die-gelbe-identifikation.ch
@@ -4058,7 +4058,6 @@ die-it-weisen.ch
 die-it.ch
 die-jacots.ch
 die-jaeger.ch
-die-jeans.ch
 die-jobmacher.ch
 die-jugendherberge.ch
 die-jugendherbergen.ch
@@ -4724,7 +4723,6 @@ die-regierung.ch
 die-regiomesse.ch
 die-reichtumsformel.ch
 die-reifen.ch
-die-reifenwechsel.ch
 die-reinigungsprodukte.ch
 die-reinigungsunternehmen.ch
 die-reise-apotheke.ch
@@ -5285,8 +5283,12 @@ die-zehn-besten.ch
 die-zehn.ch
 die-zeichner.ch
 die-zeit-ist-reif.ch
+die-zeit-milliardaerin.ch
+die-zeit-millionaerin.ch
 die-zeiten-aendern-sich.ch
 die-zeitgeister.ch
+die-zeitmilliardaerin.ch
+die-zeitmillionaerin.ch
 die-zeitung.ch
 die-zeltbauer.ch
 die-zeltvermietung.ch
@@ -5671,7 +5673,6 @@ diebieris.ch
 diebilder.ch
 diebilderei.ch
 diebildermanufaktur.ch
-diebildgeberin.ch
 diebildhauer.ch
 diebildhauerei.ch
 diebildmacher-innen.ch
@@ -6158,7 +6159,6 @@ diefinanzierungsexperten.ch
 diefinanzkanzlei.ch
 diefinanzplanerin.ch
 diefinanzplanerinnen.ch
-diefinanzspezialisten.ch
 diefinderei.ch
 diefirma.ch
 diefirmenboerse.ch
@@ -6433,7 +6433,6 @@ diegobachmann.ch
 diegobachmannrubio.ch
 diegoballi.ch
 diegobally.ch
-diegobar.ch
 diegobaratti.ch
 diegobaumann.ch
 diegobenaglio.ch
@@ -6604,7 +6603,6 @@ diehaftanstalt.ch
 diehalde.ch
 diehalters.ch
 diehand.ch
-diehandchirurgen.ch
 diehandgraveurin.ch
 diehandlaufprofis.ch
 diehandleserin.ch
@@ -7172,7 +7170,6 @@ dielibelle.ch
 dieliberalen.ch
 dielichtagentur.ch
 dielichtberater.ch
-dielichtmacher.ch
 dielichtquelle.ch
 dielichtung.ch
 dielichtvilla.ch
@@ -7688,7 +7685,6 @@ dienerdiener.ch
 dienerfinancial.ch
 dienerhaus.ch
 dienerimmo.ch
-dienerkutschenfahrten.ch
 dienermedia.ch
 dienerpartner.ch
 dienerrechtsanwalt.ch
@@ -8242,7 +8238,6 @@ dieregionruft.ch
 diereichsten.ch
 diereichsten300.ch
 diereichtumsformel.ch
-diereifenwechsel.ch
 diereihe.ch
 diereinigungskoenige.ch
 diereise-post.ch
@@ -8303,6 +8298,7 @@ dierotationsdrucker.ch
 dierotenseiten.ch
 dieroteseite.ch
 dierotetante.ch
+dierre-suisse.ch
 dierre-tueren.ch
 dierre.ch
 diers.ch
@@ -8793,7 +8789,6 @@ diesunddasausholz.ch
 diesunddasirgendwas.ch
 diesuonen.ch
 diesuonenimwallis.ch
-diesuperhomies.ch
 diesuperidee.ch
 diesuperkids.ch
 diesuperkraft.ch
@@ -9693,12 +9688,15 @@ diezehnbesten.ch
 diezehnschweizer.ch
 diezeichner.ch
 diezeichnerinnen.ch
+diezeit-milliardaerin.ch
+diezeit-millionaerin.ch
 diezeit.ch
 diezeitenaendernsich.ch
 diezeitgeister.ch
 diezeitmacher.ch
 diezeitmanufaktur.ch
 diezeitmaschine.ch
+diezeitmillionaerin.ch
 diezeitschriften.ch
 diezeitung.ch
 diezel.ch
@@ -10252,7 +10250,6 @@ digi-trafo.ch
 digi-train.ch
 digi-tresor.ch
 digi-treuhand.ch
-digi-trolley.ch
 digi-tron.ch
 digi-trust.ch
 digi-tudi.ch
@@ -10403,6 +10400,7 @@ digicom-medien.ch
 digicom-services.ch
 digicom-solutions.ch
 digicom.ch
+digicomcrea.ch
 digicomm.ch
 digicomp-academie.ch
 digicomp-academy.ch
@@ -11042,7 +11040,6 @@ digital-achat.ch
 digital-achtsam.ch
 digital-action-plan.ch
 digital-action.ch
-digital-ad.ch
 digital-adieu.ch
 digital-adoption.ch
 digital-ads-schweiz.ch
@@ -11510,7 +11507,6 @@ digital-industry.ch
 digital-inflatables.ch
 digital-influencer.ch
 digital-innovation-partner.ch
-digital-innovation-week.ch
 digital-innovators.ch
 digital-ins-alter.ch
 digital-insight.ch
@@ -11554,7 +11550,6 @@ digital-ledger.ch
 digital-legacy.ch
 digital-legal.ch
 digital-lemon.ch
-digital-lenses.ch
 digital-li.ch
 digital-liberal.ch
 digital-liberale-allianz.ch
@@ -12097,7 +12092,6 @@ digitalachtsam.ch
 digitalact.ch
 digitalaction.ch
 digitalactionplan.ch
-digitalad.ch
 digitaladept.ch
 digitaladmin.ch
 digitaladoption.ch
@@ -12117,7 +12111,6 @@ digitalafterlife.ch
 digitalaftermarket.ch
 digitalage.ch
 digitalagence.ch
-digitalagency.ch
 digitalagencyme.ch
 digitalagenda.ch
 digitalagent.ch
@@ -12284,7 +12277,6 @@ digitalboard.ch
 digitalboardacademy.ch
 digitalboathouse.ch
 digitalbodyguard.ch
-digitalbook.ch
 digitalbooker.ch
 digitalbookingapp.ch
 digitalbooks.ch
@@ -13097,7 +13089,6 @@ digitaleratgeber.ch
 digitaleraugenstress.ch
 digitalerbau.ch
 digitalerben.ch
-digitalerbeweisspeicher.ch
 digitalerbrief.ch
 digitalercfo.ch
 digitalerdialog.ch
@@ -13436,6 +13427,7 @@ digitalgeek.ch
 digitalgeld.ch
 digitalgen.ch
 digitalgeneration.ch
+digitalgeneve.ch
 digitalgenial.ch
 digitalgenius.ch
 digitalgeniuslab.ch
@@ -13644,6 +13636,7 @@ digitalis-music.ch
 digitalis-studios.ch
 digitalis.ch
 digitalisation-ia.ch
+digitalisation-intendance-hotellerie-elfswiss.ch
 digitalisation-lingerie-buanderie-en-ems.ch
 digitalisation-rapport.ch
 digitalisation-rh.ch
@@ -13687,7 +13680,6 @@ digitalisierung-kmu.ch
 digitalisierung-marketing.ch
 digitalisierung-schule.ch
 digitalisierung-schweiz.ch
-digitalisierung-service.ch
 digitalisierung-sportverein.ch
 digitalisierung-treuhand.ch
 digitalisierung-vertrieb.ch
@@ -13860,7 +13852,6 @@ digitallegal.ch
 digitallegalhistory.ch
 digitallehren.ch
 digitallehrer.ch
-digitallenses.ch
 digitallernen.ch
 digitalleverage.ch
 digitalli.ch
@@ -13922,7 +13913,6 @@ digitalmarketing-academy.ch
 digitalmarketing-agency.ch
 digitalmarketing-agentur-aargau.ch
 digitalmarketing-agentur.ch
-digitalmarketing-fuer-kmu.ch
 digitalmarketing-jobs.ch
 digitalmarketing-kmu-schweiz.ch
 digitalmarketing-luzern.ch
@@ -14157,6 +14147,7 @@ digitalpencorp.ch
 digitalpeople.ch
 digitalperformance.ch
 digitalperformancecenter.ch
+digitalperipatetics.ch
 digitalpersoenlich.ch
 digitalpersona.ch
 digitalpersonal.ch
@@ -14281,9 +14272,7 @@ digitalquad.ch
 digitalquality.ch
 digitalquick.ch
 digitalradar-krankenhaus.ch
-digitalradar-schweiz.ch
 digitalradar.ch
-digitalradarschweiz.ch
 digitalradio-schweiz.ch
 digitalradio-swiss.ch
 digitalradio.ch
@@ -14529,7 +14518,6 @@ digitalsuccess.ch
 digitalsuccessstory.ch
 digitalsufficiency.ch
 digitalsuisse.ch
-digitalsuite.ch
 digitalsummit.ch
 digitalsummiteer.ch
 digitalsun.ch
@@ -15038,6 +15026,7 @@ digits-protect.ch
 digits.ch
 digitsprotect.ch
 digitssear.ch
+digitsummit.ch
 digitswiss.ch
 digitt.ch
 digittec.ch
@@ -15478,7 +15467,6 @@ dildoparty.ch
 dildoqueen.ch
 dildos.ch
 dildoscout24.ch
-dildosex.ch
 dildoshop.ch
 dildotopia.ch
 dildoworld.ch
@@ -15776,6 +15764,7 @@ dimaioconsulting.ch
 dimak.ch
 dimako.ch
 dimama.ch
+dimama8916.ch
 dimambro.ch
 diman.ch
 dimanche-egliseviva.ch
@@ -15830,7 +15819,6 @@ dimarzio.ch
 dimarzo.ch
 dimas.ch
 dimashembull.ch
-dimasi.ch
 dimasiconsulting.ch
 dimasigarage.ch
 dimasport.ch
@@ -16878,6 +16866,7 @@ dinnercatering.ch
 dinnerchurch.ch
 dinnerclub.ch
 dinnercrime.ch
+dinnerdata.ch
 dinnerdate.ch
 dinnerdating.ch
 dinnerdeal.ch
@@ -16899,7 +16888,6 @@ dinnerly.ch
 dinnermusic.ch
 dinnernight.ch
 dinnernow.ch
-dinnerparty.ch
 dinnerpercussion.ch
 dinnershow.ch
 dinnershows.ch
@@ -17121,6 +17109,7 @@ dintheer.ch
 dintheertreuhand.ch
 dinti-wash.ch
 dintikon.ch
+dintikon2018.ch
 dintikon24.ch
 dintirestaurantphoenixlounge.ch
 dintraum.ch
@@ -17323,6 +17312,7 @@ diorasis.ch
 diorbeauty.ch
 diore.ch
 diorenzo.ch
+diorifa-concierge.ch
 dioriscoiffure.ch
 diorit.ch
 dioro.ch
@@ -17592,7 +17582,6 @@ diplomeo.ch
 diplomes-federaux.ch
 diplomes.ch
 diplomesfederaux.ch
-diplomfeier.ch
 diplomgarantie.ch
 diplomhandelsschule.ch
 diplomhgkfhnw.ch
@@ -18008,7 +17997,6 @@ directleasing.ch
 directline.ch
 directlink-server.ch
 directlocation.ch
-directly.ch
 directmac.ch
 directmaiihouse.ch
 directmail.ch
@@ -18214,7 +18202,6 @@ direkt-vom-hof.ch
 direkt-work.ch
 direkt-zum-ziel.ch
 direkt.ch
-direkt24.ch
 direkta.ch
 direktabfabrik.ch
 direktabfeld.ch
@@ -19191,7 +19178,6 @@ discountis.ch
 discountjurist.ch
 discountkontaktlinsen.ch
 discountkreuzfahrten.ch
-discountladen.ch
 discountland.ch
 discountlaw.ch
 discountlens-shop.ch
@@ -19239,8 +19225,6 @@ discountzahnklinik.ch
 discountzertifikate.ch
 discours-libre.ch
 discours-suisse.ch
-discours.ch
-discourse-tabac.ch
 discourse.ch
 discoursehosting.ch
 discourses.ch
@@ -19471,6 +19455,7 @@ discussions.ch
 discussit.ch
 discusworld.ch
 discuter-ensemble.ch
+discutons.ch
 discwerk.ch
 discworld.ch
 disdacultura.ch
@@ -19487,6 +19472,7 @@ disdonc.ch
 disdrelec.ch
 disduo.ch
 dise.ch
+disease-awareness.ch
 disease-x.ch
 disease.ch
 diseasecompression.ch
@@ -19575,7 +19561,6 @@ disglow.ch
 disgmues.ch
 disgprofil.ch
 disgroove.ch
-disgschaenk.ch
 disgsicht.ch
 disgtraining.ch
 disguise-events.ch
@@ -19624,7 +19609,6 @@ disinfect-care.ch
 disinfect.ch
 disinfectant.ch
 disinfected.ch
-disinfection.ch
 disinfestati.ch
 disinfestazione.ch
 disinfestazioneticino.ch
@@ -19940,7 +19924,6 @@ display-reparaturen.ch
 display-sales.ch
 display-shop.ch
 display-solutions.ch
-display-spiegelt.ch
 display-star.ch
 display-studio.ch
 display-team.ch
@@ -20131,6 +20114,7 @@ disque-dur.ch
 disque.ch
 disquebleu.ch
 disquerouge.ch
+disques.ch
 disquesoffice.ch
 disqzert.ch
 disr-tec.ch
@@ -20251,7 +20235,6 @@ distantrea.ch
 distantsolution.ch
 distanz.ch
 distanzberatung.ch
-distanzen.ch
 distanzhalter.ch
 distanzhandel.ch
 distanzhuelse.ch
@@ -20508,7 +20491,6 @@ distributionconcept.ch
 distributiondeflyers.ch
 distributionen.ch
 distributioniode.ch
-distributions.ch
 distributionslogistik.ch
 distributionsoligor.ch
 distributionswiss.ch
@@ -20874,7 +20856,6 @@ diuno.ch
 diuriflux.ch
 diurnist.ch
 diurnum.ch
-diusa.ch
 diuuk.ch
 diuwin.ch
 div-imp.ch
@@ -22131,7 +22112,6 @@ dizy24.ch
 dizz.ch
 dizzip.ch
 dizzis-homemade.ch
-dizzle.ch
 dizzler.ch
 dizzu.ch
 dizzus.ch

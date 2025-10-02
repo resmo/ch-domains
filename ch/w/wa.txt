@@ -19,6 +19,7 @@ wa-innenarchitektur.ch
 wa-laser.ch
 wa-lauft.ch
 wa-live-test.ch
+wa-livetest2.ch
 wa-network.ch
 wa-research.ch
 wa-risk-management.ch
@@ -587,7 +588,6 @@ wackelbilder.ch
 wackeldackel.ch
 wackeldackelshop.ch
 wackelfrei.ch
-wackelkontakt.ch
 wackelregal.ch
 wackelregale.ch
 wackelturnen.ch
@@ -798,14 +798,18 @@ waechter-consulting.ch
 waechter-garage.ch
 waechter-gjallarhorn.ch
 waechter-group.ch
+waechter-guard.ch
 waechter-maler.ch
 waechter-partner.ch
+waechter-sicherheit.ch
+waechter-systems.ch
 waechter-textilreinigung.ch
 waechter.ch
 waechterag.ch
 waechtergarage.ch
 waechtermail.ch
 waechterswerkstatt.ch
+waechtersystems.ch
 waechterus.ch
 waeck.ch
 waecken.ch
@@ -827,7 +831,6 @@ waedensville.ch
 waedenswil-entdecken.ch
 waedenswil-muldenservice.ch
 waedenswil-piercing.ch
-waedenswil-rechtsanwalt.ch
 waedenswil-reinigungsfirma.ch
 waedenswil-tattoo.ch
 waedenswil-taxi.ch
@@ -1246,6 +1249,7 @@ waermeisolationen.ch
 waermeisolierung.ch
 waermekabine.ch
 waermekabinen.ch
+waermekissen.ch
 waermekompresse.ch
 waermekongress.ch
 waermekraftkopplung.ch
@@ -1468,7 +1472,6 @@ waertvou.ch
 waertvou21-3.ch
 waes.ch
 waesch-bar.ch
-waeschbi.ch
 waesche-abwurf.ch
 waesche-alarm.ch
 waesche-klammer.ch
@@ -1645,7 +1648,6 @@ waffelecke.ch
 waffeleisen.ch
 waffeli.ch
 waffelier.ch
-waffelitos.ch
 waffeljost.ch
 waffelkhur.ch
 waffelking.ch
@@ -1939,6 +1941,7 @@ wager.ch
 wagerenhof-intranet.ch
 wagerenhof-spenden.ch
 wagerenhof.ch
+wagerlandcasino.ch
 wagerswil.ch
 wagerswiler-oldtimertreffen.ch
 wages.ch
@@ -2627,6 +2630,7 @@ wahrheitskugel.ch
 wahrheitsministerium.ch
 wahrheitssuche.ch
 wahrheitssuchende.ch
+wahrheitstraeger.ch
 wahrheitswirkung.ch
 wahrheitundwindows.ch
 wahrig.ch
@@ -3082,6 +3086,7 @@ wakeuplight.ch
 wakeupmanagement.ch
 wakeupnow.ch
 wakeuptea.ch
+wakeupwrld.ch
 wakeupzurich.ch
 wakewalensee.ch
 wakeweeks.ch
@@ -3398,7 +3403,6 @@ waldapp.ch
 waldappenzell.ch
 waldarbeiter.ch
 waldarbeiterinstruktion.ch
-waldarena-gurmels.ch
 waldarena.ch
 waldart-waldort.ch
 waldart.ch
@@ -4040,7 +4044,6 @@ waldis-druck.ch
 waldis-group.ch
 waldis-gruppe.ch
 waldis-immobilien.ch
-waldis-partner.ch
 waldis-pizza-shop.ch
 waldis-planen.ch
 waldis-planing.ch
@@ -4086,7 +4089,6 @@ waldkantine-duebendorf.ch
 waldkantine.ch
 waldkapital.ch
 waldkatze.ch
-waldkatzen-sanuye.ch
 waldkatzen.ch
 waldkauz.ch
 waldkauzbushcraft.ch
@@ -5043,7 +5045,6 @@ walker-s.ch
 walker-schweiz.ch
 walker-service.ch
 walker-sgd.ch
-walker-sopowski.ch
 walker-trauerbegleitung.ch
 walker-vermietung.ch
 walker-works.ch
@@ -6607,7 +6608,6 @@ walterscheid.ch
 walterschelling.ch
 walterschilt.ch
 walterschmid.ch
-walterschneebeli-partner.ch
 walterschneider.ch
 walterschoch.ch
 walterschuerch.ch
@@ -6884,7 +6884,6 @@ walz-trends.ch
 walz-vital.ch
 walz.ch
 walzasphalt-zulassung.ch
-walzblei.ch
 walzbrienz.ch
 walzdruck.ch
 walze.ch
@@ -7012,7 +7011,6 @@ wampower.ch
 wamps.ch
 wampuel.ch
 wamran.ch
-wams-bar.ch
 wams.ch
 wamser-batra.ch
 wamsler.ch
@@ -7061,6 +7059,7 @@ wand-ag.ch
 wand-agency.ch
 wand-agentur.ch
 wand-art.ch
+wand-bedrucken.ch
 wand-bild.ch
 wand-boden-garten.ch
 wand-deckenbau.ch
@@ -7070,6 +7069,7 @@ wand-deko-metall.ch
 wand-dekor.ch
 wand-design.ch
 wand-designer.ch
+wand-druck.ch
 wand-gestaltung.ch
 wand-heizung.ch
 wand-kunst.ch
@@ -7447,6 +7447,7 @@ wandergruppemaur.ch
 wandergruppeoberrieden.ch
 wanderguide.ch
 wanderguru.ch
+wandergwunder.ch
 wanderhaendler.ch
 wanderhaft.ch
 wanderherberge.ch
@@ -7548,7 +7549,6 @@ wanderlusthomes.ch
 wanderlustig.ch
 wanderma.ch
 wandermagazin-schweiz.ch
-wandermagazin.ch
 wandermagazinschweiz.ch
 wandermagie.ch
 wandermagnet.ch
@@ -7696,6 +7696,7 @@ wanderriegezurzach.ch
 wanderritt-fotografie-graubuenden.ch
 wanderritt-fotografie-schweiz.ch
 wanderritt-fotografie.ch
+wanderroute.ch
 wanderrucksack.ch
 wanderrucksaecke.ch
 wanderruf.ch
@@ -8343,11 +8344,9 @@ wannernet.ch
 wanneroptik.ch
 wannerpartner.ch
 wannerpartnerimmo.ch
-wanners-twanner.ch
 wanners.ch
 wannersanitaer.ch
 wannersgourmet.ch
-wannerstwanner.ch
 wannertoys.ch
 wannertrans.ch
 wannertransport.ch
@@ -8676,6 +8675,7 @@ warenlager-luzern.ch
 warenlager-mieten.ch
 warenlager.ch
 warenlagermieten.ch
+warenland.ch
 warenlift.ch
 warenlifte.ch
 warenlokal.ch
@@ -8758,7 +8758,6 @@ warinmassage.ch
 warinna-thai-massage.ch
 warinna.ch
 wario.ch
-wariogmbh.ch
 waris-pharma.ch
 waris.ch
 warispharma.ch
@@ -9399,7 +9398,6 @@ wasauemr.ch
 wasb.ch
 wasbasteln.ch
 wasbe.ch
-wasbedeutetbaer.ch
 wasbewegtdi.ch
 wasbezahltman.ch
 wasbruchsch.ch
@@ -11207,7 +11205,6 @@ wassertropfenfotos.ch
 wassertuermli.ch
 wassertuning.ch
 wasserturm-souvenirshop.ch
-wasserturm-waggis.ch
 wasserturm.ch
 wasserturmplatz.ch
 wasserturmstein.ch
@@ -11742,6 +11739,7 @@ watchesandco.ch
 watchesandculture.ch
 watchesanddreams.ch
 watchesandjewels.ch
+watchesandwined.ch
 watchesandwonders-geneva.ch
 watchesandwonders.ch
 watchesandwondersgeneva.ch
@@ -11762,6 +11760,7 @@ watchesroyalty.ch
 watchessoires.ch
 watchestheguide.ch
 watchestowonder.ch
+watcheswined.ch
 watchesworld.ch
 watchevolution.ch
 watchexclusive.ch
@@ -11865,6 +11864,7 @@ watchmyhome.ch
 watchmyshop.ch
 watchmywatch.ch
 watchmyweight.ch
+watchn.ch
 watchncars.ch
 watchnco.ch
 watchnext.ch
@@ -12003,7 +12003,6 @@ watco.ch
 watcotec.ch
 wate-sonderanfertigungen.ch
 wate.ch
-wateaconsulting.ch
 wateag.ch
 watec-ag.ch
 watec.ch
@@ -12205,6 +12204,7 @@ waterforumswitzerland.ch
 waterforwater.ch
 waterforyou.ch
 waterfront-llc.ch
+waterfront-properties.ch
 waterfront-software.ch
 waterfrontadvisory.ch
 waterfrontfestival.ch
@@ -12528,10 +12528,8 @@ watt-bin-ich.ch
 watt-concept.ch
 watt-contracting.ch
 watt-else.ch
-watt-flix.ch
 watt-is.ch
 watt-law.ch
-watt-mining.ch
 watt-news.ch
 watt-peak.ch
 watt-sa.ch
@@ -12617,7 +12615,6 @@ wattly.ch
 wattmap.ch
 wattmaster.ch
 wattmatters.ch
-wattmining.ch
 wattmoves.ch
 wattner.ch
 wattnews.ch
@@ -12674,6 +12671,7 @@ wattuneed.ch
 wattup.ch
 wattupswiss.ch
 watture.ch
+wattvision.ch
 wattwat.ch
 wattwerk.ch
 wattwerkag.ch
@@ -13222,6 +13220,7 @@ way2fit.ch
 way2go.ch
 way2high.ch
 way2life.ch
+way2much.ch
 way2tech-sa.ch
 way2women.ch
 way2work.ch

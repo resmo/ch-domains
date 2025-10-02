@@ -69,7 +69,6 @@ ihc-alv.ch
 ihc-cobras.ch
 ihc-freunde.ch
 ihc-grenchen.ch
-ihc-staefa.ch
 ihc-stansstad.ch
 ihc-uri.ch
 ihc.ch
@@ -87,7 +86,6 @@ ihcr.ch
 ihcroadrunners.ch
 ihcs.ch
 ihcsf.ch
-ihcstaefa.ch
 ihcstars.ch
 ihct.ch
 ihcthurgau.ch
@@ -211,7 +209,6 @@ ihht-sensetal.ch
 ihht-solothurn.ch
 ihht-sport.ch
 ihht-studio.ch
-ihht-suisse.ch
 ihht-swiss.ch
 ihht-therapie-aarau.ch
 ihht-therapie.ch
@@ -277,6 +274,8 @@ ihk-thurgau.ch
 ihk-tv.ch
 ihk.ch
 ihkacademy.ch
+ihkb.ch
+ihkbern.ch
 ihkkunsttherapie.ch
 ihknits.ch
 ihksg.ch
@@ -327,6 +326,7 @@ ihomelab-events.ch
 ihomelab-projects.ch
 ihomelab.ch
 ihomeli.ch
+ihomepages.ch
 ihomes.ch
 ihometec.ch
 ihop.ch
@@ -1021,7 +1021,6 @@ ihrgeld.ch
 ihrgeruest.ch
 ihrgeruestbauer.ch
 ihrgeschaeft.ch
-ihrgeschenk.ch
 ihrgeschirrverleih.ch
 ihrgesundheitsoptiker.ch
 ihrgesundheitsprofi.ch

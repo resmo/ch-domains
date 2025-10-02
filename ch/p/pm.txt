@@ -389,7 +389,6 @@ pme-assistance.ch
 pme-businessworld.ch
 pme-candidats-election.ch
 pme-capital.ch
-pme-ch.ch
 pme-check.ch
 pme-coaching.ch
 pme-com.ch
@@ -427,6 +426,7 @@ pme-impact.ch
 pme-industries.ch
 pme-info.ch
 pme-informatique.ch
+pme-jura.ch
 pme-kmu.ch
 pme-lead4swiss.ch
 pme-leaders.ch
@@ -566,7 +566,6 @@ pmestore.ch
 pmesuccession.ch
 pmesuccessions.ch
 pmesupport.ch
-pmethinking.ch
 pmetool.ch
 pmetoolbox.ch
 pmeurotrading.ch

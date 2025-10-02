@@ -4,7 +4,6 @@ vo-ag.ch
 vo-ba.ch
 vo-buur-zo-buur.ch
 vo-ci.ch
-vo-club.ch
 vo-compta.ch
 vo-cycles.ch
 vo-da.ch
@@ -224,6 +223,7 @@ vocat.ch
 vocate.ch
 vocatino.ch
 vocation-music-award.ch
+vocation.ch
 vocational-guidance.ch
 vocational.ch
 vocationaleducation.ch
@@ -425,7 +425,6 @@ voefondationactif.ch
 voefrw.ch
 voegasser.ch
 voege.ch
-voegel-optik-mathis.ch
 voegel-taxi.ch
 voegel.ch
 voegele-bausupport.ch
@@ -1078,6 +1077,7 @@ voggensperger-brennholz.ch
 voggensperger-gartenpflege.ch
 voggensperger-immobilien.ch
 voggensperger-installationen.ch
+voggensperger-training.ch
 voggensperger.ch
 voggesser.ch
 voggi.ch
@@ -1876,7 +1876,6 @@ voipon.ch
 voipone-archiv.ch
 voipone.ch
 voippbx.ch
-voippro.ch
 voipprovider.ch
 voipschweiz.ch
 voipselect.ch
@@ -1922,7 +1921,6 @@ voirfilms.ch
 voirie.ch
 voiries.ch
 voirin.ch
-voirlemondeautrement.ch
 voirloin.ch
 voirol-buch.ch
 voirol.ch
@@ -2008,7 +2006,6 @@ voitures.ch
 voitures2reves.ch
 voituresachatromandie.ch
 voituresdelacote.ch
-voituresefficaces.ch
 voitureselectriques.ch
 voituresfamiliales.ch
 voituresoccasion.ch
@@ -2045,6 +2042,7 @@ voixdelausanne.ch
 voixdelinvisible.ch
 voixdepalmyre.ch
 voixdesalpes.ch
+voixdesames.ch
 voixdesanimaux.ch
 voixdessouvenirs.ch
 voixdevie.ch
@@ -2700,6 +2698,7 @@ volkskraftwerk.ch
 volkskraftwerke.ch
 volkskrankenkasse.ch
 volkskrankheiten-heilen.ch
+volkskredit.ch
 volkskreuzfahrt.ch
 volkskreuzfahrten.ch
 volkskultur.ch
@@ -2713,7 +2712,6 @@ volkskunstmuseum.ch
 volkslauf.ch
 volkslied.ch
 volksliedarchiv.ch
-volkslieder.ch
 volksliederarchiv.ch
 volkslift.ch
 volksliga.ch
@@ -3165,7 +3163,6 @@ volleyballgruppeschaffhausen.ch
 volleyballjona.ch
 volleyballlager.ch
 volleyballmanager.ch
-volleyballnacht.ch
 volleyballneuenhof.ch
 volleyballplausch-zuerich.ch
 volleyballschule.ch
@@ -3391,7 +3388,6 @@ vollliberierung.ch
 vollm8.ch
 vollmacht-vorlage.ch
 vollmacht.ch
-vollmacht24.ch
 vollmachten.ch
 vollmann.ch
 vollmar-reklame.ch
@@ -3881,6 +3877,7 @@ voltfish.ch
 voltgrade.ch
 voltgreen.ch
 voltguard.ch
+volthaus.ch
 volti-della-memoria.ch
 volti.ch
 voltic.ch
@@ -4812,6 +4809,7 @@ von-mann-zu-mann.ch
 von-marchion.ch
 von-matt.ch
 von-may.ch
+von-media.ch
 von-meinem-hof.ch
 von-meiss.ch
 von-mengershausen.ch
@@ -4957,6 +4955,7 @@ vonarb-bike.ch
 vonarb-fotografie.ch
 vonarb.ch
 vonarbmaler.ch
+vonarburg-christbaum.ch
 vonarburg-consulting.ch
 vonarburg-gmbh.ch
 vonarburg-huber.ch
@@ -5578,6 +5577,7 @@ vonmattshop.ch
 vonmaw.ch
 vonmay.ch
 vonmaydell.ch
+vonmedia-ag.ch
 vonmedia.ch
 vonmeiss-law.ch
 vonmeiss.ch
@@ -6098,7 +6098,6 @@ voqueer.ch
 voqus.ch
 voquz.ch
 vor-dem-sturm.ch
-vor-die-tuer.ch
 vor-langer-zyt.ch
 vor-ort-foto.ch
 vor-ort-support.ch
@@ -6556,7 +6555,6 @@ vorkurs-luzern.ch
 vorkurs-muristalden.ch
 vorkurs-olten.ch
 vorkurs-online.ch
-vorkurs-plus.ch
 vorkurs-propaedeutikum.ch
 vorkurs-rapperswil.ch
 vorkurs-romanshorn.ch
@@ -6566,7 +6564,6 @@ vorkurs-solothurn.ch
 vorkurs-stgallen.ch
 vorkurs-vorkurse.ch
 vorkurs-zug.ch
-vorkurs.ch
 vorkursaarau.ch
 vorkursbaar.ch
 vorkursbasel.ch
@@ -6773,6 +6770,7 @@ vorsorge-anders-denken.ch
 vorsorge-app.ch
 vorsorge-atelier.ch
 vorsorge-auftrag.ch
+vorsorge-ausweis.ch
 vorsorge-baselland.ch
 vorsorge-berater-finden.ch
 vorsorge-berater.ch
@@ -7335,6 +7333,7 @@ vorwerkthermomixfriend.ch
 vorwerrk.ch
 vorwerts.ch
 voryu.ch
+voryxayieldora.ch
 vorzeigehund.ch
 vorzeiger.ch
 vorzeitige-kundigung.ch
@@ -7532,6 +7531,7 @@ vostaxes.ch
 vostbu.ch
 vostech.ch
 vosti.ch
+vostin.ch
 vostok.ch
 vostokclothing.ch
 vostra-farmacia.ch
@@ -7654,7 +7654,6 @@ votingsystem.ch
 votingtool.ch
 votinion.ch
 votis.ch
-votivus.ch
 votnet.ch
 votographie.ch
 voton-arbon.ch
@@ -7723,7 +7722,6 @@ votre-jardinier.ch
 votre-job-dna.ch
 votre-jobs-dna.ch
 votre-kit-web.ch
-votre-libre-passage.ch
 votre-logement.ch
 votre-lutin.ch
 votre-maison.ch
@@ -7914,7 +7912,6 @@ votronic-produkte.ch
 votronic-swiss.ch
 votronic.ch
 votronicprodukte.ch
-vott.ch
 votta-automazioni.ch
 votta-gips-bau.ch
 votta-glass-art.ch
@@ -8176,6 +8173,7 @@ voxelte.ch
 voxelwerk.ch
 voxelworld.ch
 voxensemble.ch
+voxethica.ch
 voxetpapyrus.ch
 voxeus.ch
 voxeway.ch
@@ -8642,6 +8640,7 @@ voyant-dasilva-suisse.ch
 voyant-fabien.ch
 voyant-frederic.ch
 voyant-geneve.ch
+voyant-george-marino.ch
 voyant-guerisseur-duamel.ch
 voyant-guerisseur-foutango.ch
 voyant-guerisseur-sangare.ch
@@ -8654,7 +8653,6 @@ voyant-medium-adama.ch
 voyant-medium-africain.ch
 voyant-medium-benjamin.ch
 voyant-medium-dialouke.ch
-voyant-medium-guerisseur.ch
 voyant-medium-kara.ch
 voyant-medium-kirti.ch
 voyant-medium-kodayba.ch
@@ -8688,7 +8686,6 @@ voyemo.ch
 voyeur.ch
 voyeurcam.ch
 voyeure.ch
-voyeuree.ch
 voyeurismus.ch
 voyeurland.ch
 voyeurs.ch

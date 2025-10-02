@@ -30,7 +30,6 @@ ds-be.ch
 ds-beauty.ch
 ds-bern.ch
 ds-box.ch
-ds-broker.ch
 ds-buchhaltungen.ch
 ds-business.ch
 ds-c.ch
@@ -165,7 +164,6 @@ ds-renovation.ch
 ds-retail.ch
 ds-rieben.ch
 ds-road.ch
-ds-s.ch
 ds-sa.ch
 ds-salon-bern.ch
 ds-salon-marti.ch
@@ -193,12 +191,9 @@ ds-store-bern.ch
 ds-store.ch
 ds-stores.ch
 ds-style.ch
-ds-suisse.ch
 ds-suite.ch
 ds-svc.ch
 ds-svp.ch
-ds-swiss.ch
-ds-switzerland.ch
 ds-tech.ch
 ds-technik.ch
 ds-thurgau.ch
@@ -818,6 +813,8 @@ dsm-gymnastik.ch
 dsm-ikao.ch
 dsm-lehre.ch
 dsm-online.ch
+dsm-sanitaer-service.ch
+dsm-sanitaer.ch
 dsm-schweiz.ch
 dsm-solutions.ch
 dsm-suisse.ch

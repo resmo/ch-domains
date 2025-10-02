@@ -181,7 +181,6 @@ bs-s.ch
 bs-san.ch
 bs-sanitaire.ch
 bs-schluesseldienst.ch
-bs-schluesseldienst24.ch
 bs-schreiner.ch
 bs-schuerfraupen.ch
 bs-schwarzsee.ch
@@ -407,6 +406,7 @@ bsc-adliswil.ch
 bsc-ag.ch
 bsc-aquila.ch
 bsc-bottenwil.ch
+bsc-brandschutz.ch
 bsc-bueetigen.ch
 bsc-chur.ch
 bsc-cigars.ch
@@ -606,7 +606,6 @@ bsetzi-stei.ch
 bsetzistei-seife.ch
 bsetzistei.ch
 bsew.ch
-bsexpert.ch
 bsf-ag.ch
 bsf-forel.ch
 bsf-hochdorf.ch
@@ -619,6 +618,7 @@ bsf11.ch
 bsfa.ch
 bsfacilityservice.ch
 bsfactory.ch
+bsfautomatisiert.ch
 bsfconsulting.ch
 bsff.ch
 bsfh-lernende.ch
@@ -963,7 +963,6 @@ bspace.ch
 bspag.ch
 bspahni.ch
 bspaint.ch
-bsparring.ch
 bspartner.ch
 bsparts.ch
 bspass.ch
@@ -971,6 +970,7 @@ bspayone-siehabendiewahl.ch
 bspayone.ch
 bspconstruction.ch
 bspd.ch
+bspe.ch
 bspeak.ch
 bsped-logistic.ch
 bsped-logistics.ch

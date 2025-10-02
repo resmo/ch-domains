@@ -1,6 +1,5 @@
 11-1.ch
 11-11-11.ch
-11-11-baden.ch
 11-11.ch
 11-97.ch
 11-bar.ch
@@ -81,6 +80,7 @@
 112ink.ch
 112langzeitmiete.ch
 112longtimerent.ch
+112robot.ch
 113.ch
 1131.ch
 1133.ch
@@ -168,7 +168,6 @@
 11club.ch
 11cmace.ch
 11coach.ch
-11d.ch
 11data.ch
 11days.ch
 11degrees.ch

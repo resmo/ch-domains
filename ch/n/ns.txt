@@ -135,6 +135,7 @@ ns.bruemmer-extrusion.ch
 ns.buggymess.ch
 ns.bzshosting.ch
 ns.cabinetpodologie.ch
+ns.carlifting.ch
 ns.carrierwerk.ch
 ns.carrierwork.ch
 ns.carrierworx.ch
@@ -179,7 +180,6 @@ ns.direktel24.ch
 ns.direkttel.ch
 ns.direkttel24.ch
 ns.dissem.ch
-ns.dith.ch
 ns.djsatwork.ch
 ns.dnab.ch
 ns.dnslab.ch
@@ -619,6 +619,7 @@ ns01.sbs.ch
 ns01.schulen-huenenberg.ch
 ns01.sednait.ch
 ns01.server-base.ch
+ns01.sevencloud.ch
 ns01.skvnet.ch
 ns01.sotero.ch
 ns01.stauffachercharpentes.ch
@@ -681,6 +682,7 @@ ns02.roha.ch
 ns02.sbs.ch
 ns02.sednait.ch
 ns02.server-base.ch
+ns02.sevencloud.ch
 ns02.skvnet.ch
 ns02.sotero.ch
 ns02.stauffachercharpentes.ch
@@ -885,6 +887,7 @@ ns1.anrac.ch
 ns1.anschau.ch
 ns1.antanet.ch
 ns1.anthonydieperink.ch
+ns1.antonio-renovation.ch
 ns1.anwesend.ch
 ns1.anycastdns.ch
 ns1.anydns.ch
@@ -929,6 +932,7 @@ ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
 ns1.assh.ch
+ns1.assistancepc.ch
 ns1.asso-philomene.ch
 ns1.association-emmanuel-bakena.ch
 ns1.asstra.ch
@@ -1048,7 +1052,6 @@ ns1.berm.ch
 ns1.bern.ch
 ns1.bernex-autrement.ch
 ns1.bernmobil.ch
-ns1.besashop.ch
 ns1.besashopbiel.ch
 ns1.bestchoicemassagen.ch
 ns1.bestewimpernseren.ch
@@ -1195,6 +1198,7 @@ ns1.c4all.ch
 ns1.ca-i.ch
 ns1.caduff.ch
 ns1.cahiersaufeu.ch
+ns1.caissedepargnedenyon.ch
 ns1.call-up.ch
 ns1.caloi.ch
 ns1.cam2cam-sexcams.ch
@@ -1236,6 +1240,7 @@ ns1.center.ch
 ns1.centinated.ch
 ns1.cernievillers.ch
 ns1.cf-vs.ch
+ns1.cfarm.ch
 ns1.cgicorner.ch
 ns1.cgps.ch
 ns1.ch
@@ -1845,7 +1850,6 @@ ns1.futurio.ch
 ns1.fvab.ch
 ns1.fwg-ba.ch
 ns1.fws-demo.ch
-ns1.fxconverter.ch
 ns1.g-web.ch
 ns1.gabit.ch
 ns1.gaerta.ch
@@ -1951,6 +1955,7 @@ ns1.gracy.ch
 ns1.graessle.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
+ns1.grb-renovation.ch
 ns1.grd-renovation.ch
 ns1.gregorich.ch
 ns1.grellhost.ch
@@ -2072,7 +2077,6 @@ ns1.hostboutique.ch
 ns1.hostby.ch
 ns1.hostcloud.ch
 ns1.hostfactory.ch
-ns1.hostgalaxy.ch
 ns1.hostgarden.ch
 ns1.hostify.ch
 ns1.hosting-atprovider.ch
@@ -2125,7 +2129,6 @@ ns1.hxh.ch
 ns1.hydrtreu.ch
 ns1.hylight.ch
 ns1.hyperdots.ch
-ns1.hyperkreativ.ch
 ns1.hyperspeed.ch
 ns1.hypotheke.ch
 ns1.hzmo.ch
@@ -2176,6 +2179,7 @@ ns1.in2ition.ch
 ns1.in4out.ch
 ns1.incide.ch
 ns1.inetworx.ch
+ns1.ineurop.ch
 ns1.inf-brun.ch
 ns1.infinity.ch
 ns1.infinityweb.ch
@@ -2431,7 +2435,6 @@ ns1.lamadrina.ch
 ns1.lamatouren.ch
 ns1.lamenuiseriegenevoise.ch
 ns1.lancer.ch
-ns1.lanconnection.ch
 ns1.landescape.ch
 ns1.landwirtschaft.ch
 ns1.lanexperts.ch
@@ -2493,9 +2496,7 @@ ns1.local-host.ch
 ns1.lockpfosten.ch
 ns1.locuscloud.ch
 ns1.loeen.ch
-ns1.loet-kraetze.ch
 ns1.loetkompetenz.ch
-ns1.loetkraetze.ch
 ns1.loewingert.ch
 ns1.logex-web.ch
 ns1.logging.ch
@@ -3063,7 +3064,6 @@ ns1.poissonlacneuchatel.ch
 ns1.poissonsuisse.ch
 ns1.pokebowlsuisse.ch
 ns1.polenord.ch
-ns1.policecorruption.ch
 ns1.poljpocket.ch
 ns1.polyalert-test.ch
 ns1.polyalert.ch
@@ -3094,13 +3094,11 @@ ns1.ppp3.ch
 ns1.ppremote.ch
 ns1.prama.ch
 ns1.prax.ch
-ns1.praxis-psychotherapie-sargans.ch
 ns1.praxis-weissenstein.ch
 ns1.pre.ch
 ns1.predesnoyers.ch
 ns1.premiumcontent.ch
 ns1.premotec.ch
-ns1.prensa.ch
 ns1.pri.ch
 ns1.prime-host.ch
 ns1.printhirsch.ch
@@ -3286,7 +3284,6 @@ ns1.rtpdns.ch
 ns1.rubansdor.ch
 ns1.ruckzuck-design.ch
 ns1.rundb.ch
-ns1.ruth-rr-beauty.ch
 ns1.rutishauser.ch
 ns1.rxr.ch
 ns1.s-business.ch
@@ -3526,6 +3523,7 @@ ns1.sscloud.ch
 ns1.stabilionet.ch
 ns1.stadtundland.ch
 ns1.staempfli.ch
+ns1.staempfliserver.ch
 ns1.stafin.ch
 ns1.stagecolor.ch
 ns1.stageone.ch
@@ -3896,7 +3894,6 @@ ns1.wajo-cloud.ch
 ns1.waldhus.ch
 ns1.waldvogelcomputer.ch
 ns1.walterengineering.ch
-ns1.walzblei.ch
 ns1.wambo.ch
 ns1.wanon.ch
 ns1.waren-treuhand.ch
@@ -4330,6 +4327,7 @@ ns2.anrac.ch
 ns2.anschau.ch
 ns2.antanet.ch
 ns2.anthonydieperink.ch
+ns2.antonio-renovation.ch
 ns2.anwesend.ch
 ns2.anycastdns.ch
 ns2.anydns.ch
@@ -4377,6 +4375,7 @@ ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
 ns2.assh.ch
+ns2.assistancepc.ch
 ns2.asso-philomene.ch
 ns2.association-emmanuel-bakena.ch
 ns2.asstra.ch
@@ -4495,7 +4494,6 @@ ns2.bergtouren.ch
 ns2.berm.ch
 ns2.bern.ch
 ns2.bernmobil.ch
-ns2.besashop.ch
 ns2.besashopbiel.ch
 ns2.bestchoicemassagen.ch
 ns2.bestewimpernseren.ch
@@ -4630,6 +4628,7 @@ ns2.ca-i.ch
 ns2.cabinetpodologie.ch
 ns2.caduff.ch
 ns2.cahiersaufeu.ch
+ns2.caissedepargnedenyon.ch
 ns2.call-up.ch
 ns2.calnet.ch
 ns2.cam2cam-sexcams.ch
@@ -4639,6 +4638,7 @@ ns2.campusequipment.ch
 ns2.canberg.ch
 ns2.cantinedigitale.ch
 ns2.caracal.ch
+ns2.carlifting.ch
 ns2.carolineferriol.ch
 ns2.carpetarian.ch
 ns2.carreview.ch
@@ -4670,6 +4670,7 @@ ns2.centinated.ch
 ns2.cer.ch
 ns2.cernievillers.ch
 ns2.cf-vs.ch
+ns2.cfarm.ch
 ns2.cgicorner.ch
 ns2.ch
 ns2.chabbeypiller.ch
@@ -5257,7 +5258,6 @@ ns2.futurio.ch
 ns2.fvab.ch
 ns2.fwg-ba.ch
 ns2.fws-demo.ch
-ns2.fxconverter.ch
 ns2.g-web.ch
 ns2.gabit.ch
 ns2.gaerta.ch
@@ -5360,6 +5360,7 @@ ns2.gracy.ch
 ns2.graessle.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
+ns2.grb-renovation.ch
 ns2.grd-renovation.ch
 ns2.greatsite.ch
 ns2.gregorich.ch
@@ -5476,7 +5477,6 @@ ns2.hostblock.ch
 ns2.hostboutique.ch
 ns2.hostby.ch
 ns2.hostcloud.ch
-ns2.hostgalaxy.ch
 ns2.hostify.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
@@ -5530,7 +5530,6 @@ ns2.hvarnet.ch
 ns2.hxh.ch
 ns2.hydrtreu.ch
 ns2.hylight.ch
-ns2.hyperkreativ.ch
 ns2.hyperspeed.ch
 ns2.hypotheke.ch
 ns2.hzmo.ch
@@ -5581,6 +5580,7 @@ ns2.in2ition.ch
 ns2.in4out.ch
 ns2.incide.ch
 ns2.inetworx.ch
+ns2.ineurop.ch
 ns2.inf-brun.ch
 ns2.infinitesolutions.ch
 ns2.infinity.ch
@@ -5823,7 +5823,6 @@ ns2.lamadrina.ch
 ns2.lamatouren.ch
 ns2.lamenuiseriegenevoise.ch
 ns2.lancer.ch
-ns2.lanconnection.ch
 ns2.landescape.ch
 ns2.landolt-network.ch
 ns2.landwirtschaft.ch
@@ -5887,9 +5886,7 @@ ns2.local-host.ch
 ns2.lockpfosten.ch
 ns2.locuscloud.ch
 ns2.loeen.ch
-ns2.loet-kraetze.ch
 ns2.loetkompetenz.ch
-ns2.loetkraetze.ch
 ns2.loewingert.ch
 ns2.logex-web.ch
 ns2.logging.ch
@@ -6411,7 +6408,6 @@ ns2.poissonlacneuchatel.ch
 ns2.poissonsuisse.ch
 ns2.pokebowlsuisse.ch
 ns2.polenord.ch
-ns2.policecorruption.ch
 ns2.poljpocket.ch
 ns2.polyalert-test.ch
 ns2.polyalert.ch
@@ -6446,12 +6442,10 @@ ns2.ppp3.ch
 ns2.ppremote.ch
 ns2.prama.ch
 ns2.prax.ch
-ns2.praxis-psychotherapie-sargans.ch
 ns2.pre.ch
 ns2.predesnoyers.ch
 ns2.premiumcontent.ch
 ns2.premotec.ch
-ns2.prensa.ch
 ns2.pri.ch
 ns2.prime-host.ch
 ns2.printhirsch.ch
@@ -6630,7 +6624,6 @@ ns2.rtpdns.ch
 ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
 ns2.rundb.ch
-ns2.ruth-rr-beauty.ch
 ns2.rxr.ch
 ns2.s-business.ch
 ns2.s-informatik.ch
@@ -6871,6 +6864,7 @@ ns2.sry-myls.ch
 ns2.sscloud.ch
 ns2.stabilionet.ch
 ns2.stadtundland.ch
+ns2.staempfliserver.ch
 ns2.stafin.ch
 ns2.stagecolor.ch
 ns2.stageone.ch
@@ -6951,7 +6945,6 @@ ns2.swiss-farmers.ch
 ns2.swiss-full.ch
 ns2.swiss-made-store.ch
 ns2.swiss-pc.ch
-ns2.swiss-train.ch
 ns2.swiss21.ch
 ns2.swiss365.ch
 ns2.swiss4ward.ch
@@ -7235,7 +7228,6 @@ ns2.waermedaemmung-schweiz.ch
 ns2.wahaca.ch
 ns2.wajo-cloud.ch
 ns2.walterengineering.ch
-ns2.walzblei.ch
 ns2.wambo.ch
 ns2.wanon.ch
 ns2.waren-treuhand.ch
@@ -7524,6 +7516,7 @@ ns3.artugo.ch
 ns3.as2.ch
 ns3.asebo.ch
 ns3.askben.ch
+ns3.assistancepc.ch
 ns3.atraxs.ch
 ns3.aurafilm.ch
 ns3.auroranet.ch
@@ -7803,7 +7796,6 @@ ns3.hugy.ch
 ns3.hunderunde.ch
 ns3.hunzikernet.ch
 ns3.hxh.ch
-ns3.hyperkreativ.ch
 ns3.iapc.ch
 ns3.ictpark.ch
 ns3.idiap.ch
@@ -8143,7 +8135,6 @@ ns3.sum.ch
 ns3.sumasoft.ch
 ns3.sunrise.ch
 ns3.swiss-dt.ch
-ns3.swiss-train.ch
 ns3.swisscloudhosting.ch
 ns3.swissdigicert.ch
 ns3.swissfintechinnovationlab.ch
@@ -8758,7 +8749,6 @@ nsctsacarrozzeria.ch
 nsd.brg.ch
 nsd.ch
 nsdag.ch
-nsdap.ch
 nsdconstruction.ch
 nsdesign.ch
 nsdestinations.ch

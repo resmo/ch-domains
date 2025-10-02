@@ -88,13 +88,8 @@ cr-unit.ch
 cr-units.ch
 cr-vet.ch
 cr-vs.ch
-cr-web.ch
 cr1-network.ch
 cr1.ch
-cr22-shopmde.ch
-cr22de.ch
-cr22de2.ch
-cr22it.ch
 cr2m.ch
 cr3-managers.ch
 cr34tors.ch
@@ -294,7 +289,6 @@ craftbrewer.ch
 craftbrewersunited.ch
 craftbrewery.ch
 craftbuilding.ch
-craftbutler.ch
 craftcamp.ch
 craftcanning.ch
 craftcare.ch
@@ -374,9 +368,9 @@ craftingdragon.ch
 craftingfuture.ch
 craftingfutures.ch
 craftinggames.ch
-craftingproductions.ch
 craftingshop.ch
 craftingstore.ch
+craftipaws.ch
 craftiq.ch
 craftival.ch
 craftivity.ch
@@ -399,6 +393,7 @@ craftmemories.ch
 craftmet.ch
 craftmodell.ch
 craftmyweb.ch
+craftneon.ch
 craftnvo.ch
 craftofcontent.ch
 craftoffood.ch
@@ -829,7 +824,6 @@ cranio-mensch-sein.ch
 cranio-mercier.ch
 cranio-merk.ch
 cranio-michaela.ch
-cranio-mila.ch
 cranio-mildner.ch
 cranio-mirjamgysi.ch
 cranio-mlb.ch
@@ -1069,6 +1063,7 @@ craniobymaja.ch
 craniobymaya.ch
 craniocare.ch
 craniocast.ch
+craniocenter.ch
 craniocentre.ch
 craniocheck.ch
 craniochur.ch
@@ -1314,6 +1309,7 @@ craniosacral-vasi.ch
 craniosacral-vasicek.ch
 craniosacral-vivianehaas.ch
 craniosacral-wallis.ch
+craniosacral-wildbolz.ch
 craniosacral-winterthur.ch
 craniosacral-zofingen.ch
 craniosacral-zuerich.ch
@@ -1888,7 +1884,6 @@ crazy-pets.ch
 crazy-piano.ch
 crazy-pianos.ch
 crazy-pizza.ch
-crazy-points.ch
 crazy-price.ch
 crazy-princess.ch
 crazy-print.ch
@@ -2058,7 +2053,6 @@ crazygameslacote.ch
 crazygastro.ch
 crazygecko.ch
 crazygelato.ch
-crazygenevainktattoo.ch
 crazygirl.ch
 crazygirls.ch
 crazygirlz.ch
@@ -3122,6 +3116,7 @@ creanorm.ch
 creanouk.ch
 creanov.ch
 creanova-bau.ch
+creanova-marketing.ch
 creanova-portmann.ch
 creanova.ch
 creanovabau.ch
@@ -3667,6 +3662,7 @@ creating-space.ch
 creating-the-unique.ch
 creating-time.ch
 creating.ch
+creatingbalance.ch
 creatingbeautifulsmiles.ch
 creatingbridges.ch
 creatingbusiness.ch
@@ -3873,7 +3869,6 @@ creationdomi.ch
 creatione.ch
 creationeliane.ch
 creationenergyresear.ch
-creationentreprise.ch
 creationentreprisesuisse.ch
 creationerie-cornelia.ch
 creationerie.ch
@@ -4426,6 +4421,7 @@ creativecomputer.ch
 creativecomputing.ch
 creativecomputinglab.ch
 creativecon.ch
+creativeconcept-gmbh.ch
 creativeconcept.ch
 creativeconceptdesign.ch
 creativeconcepts.ch
@@ -4625,6 +4621,7 @@ creativeseo.ch
 creativeservice.ch
 creativeservices.ch
 creativeshop.ch
+creativeshopinfo.ch
 creativesign.ch
 creativesites.ch
 creativeslab-videos.ch
@@ -4660,7 +4657,6 @@ creativesync.ch
 creativesyndicate.ch
 creativetalent.ch
 creativetalk.ch
-creativetaste.ch
 creativetatsch.ch
 creativete.ch
 creativeteam.ch
@@ -4970,7 +4966,6 @@ creavibes.ch
 creavida-mader.ch
 creavida.ch
 creaview.ch
-creavin.ch
 creavino.ch
 creavion.ch
 creavis.ch
@@ -6257,7 +6252,6 @@ crepsli.ch
 crepsy.ch
 crepuscolo.ch
 crepuscule.ch
-crequipements.ch
 crer.ch
 cres-gmbh.ch
 cres-nyon.ch
@@ -6525,6 +6519,7 @@ crettenand-automobiles.ch
 crettenand-immo.ch
 crettenand-immobilier.ch
 crettenand-informatique.ch
+crettenand-montagne.ch
 crettenand-osteopathie.ch
 crettenand-schaller.ch
 crettenand-vetroz.ch
@@ -6873,7 +6868,6 @@ crimer.ch
 crimeradar.ch
 crimerooms.ch
 crimes-et-enquetes.ch
-crimes.ch
 crimescanner.ch
 crimescene.ch
 crimescenecleaner.ch
@@ -7298,6 +7292,7 @@ cristiangarasto.ch
 cristianguevara.ch
 cristianhernandez.ch
 cristianhofmann.ch
+cristiani-gmbh.ch
 cristiani-umzuege.ch
 cristiani.ch
 cristianiskeys.ch
@@ -7417,7 +7412,6 @@ cristinavega.ch
 cristinaviaggi.ch
 cristinawey.ch
 cristinazanini.ch
-cristinesekt.ch
 cristini-art.ch
 cristini-partner.ch
 cristinia.ch
@@ -7451,7 +7445,11 @@ crisybags.ch
 crisys.ch
 crit-icon.ch
 crit.ch
+critair-vignette.ch
+critair-vignettes.ch
 critair.ch
+critairvignette.ch
+critairvignettes.ch
 critalu.ch
 critarion.ch
 critch.ch
@@ -7570,6 +7568,7 @@ criz.ch
 criz201.ch
 crizal.ch
 crizaluv.ch
+crizp.ch
 crj-deko-design.ch
 crj-immoviager.ch
 crj.ch
@@ -7825,7 +7824,6 @@ crno.ch
 crns.ch
 crnt.ch
 cro-bonus.ch
-cro-camp.ch
 cro-ga.ch
 cro-magnon.ch
 cro-mo.ch
@@ -7841,11 +7839,13 @@ croads.ch
 croak.ch
 croatia-apartments.ch
 croatia-finest.ch
+croatia-key.ch
 croatia-uzwil.ch
 croatia-yachting.ch
 croatia.ch
 croatiabus.ch
 croatiabus24.ch
+croatiakey.ch
 croatialove.ch
 croatianum.ch
 croatiaretreats.ch
@@ -8199,6 +8199,7 @@ crok-cookie.ch
 crokeo.ch
 croket.ch
 crokette.ch
+crokey.ch
 croki.ch
 crokinole.ch
 crokost.ch
@@ -8267,6 +8268,7 @@ cronblochschmid.ch
 crone-tattoostudio.ch
 crone.ch
 croner.ch
+cronergmbh.ch
 cronet-sagl.ch
 cronica.ch
 cronics.ch
@@ -8400,6 +8402,7 @@ croquety.ch
 croqufreeson.ch
 croquis.ch
 croqulavie.ch
+croqulune-fribourg.ch
 croqumenus.ch
 croquons-local.ch
 croqutacarotte.ch
@@ -8905,7 +8908,6 @@ crosslauf.ch
 crosslaw.ch
 crossle.ch
 crosslearning.ch
-crosslend.ch
 crosslife.ch
 crosslines.ch
 crosslink.ch
@@ -8999,15 +9001,19 @@ crossreference.ch
 crossreha.ch
 crossreifen.ch
 crossrent.ch
+crossroad-band.ch
 crossroad-festival.ch
+crossroad-music.ch
 crossroad-soft.ch
 crossroad-thurgau.ch
 crossroad.ch
 crossroad25.ch
 crossroadautomotive.ch
+crossroadband.ch
 crossroadbikeclub.ch
 crossroadcycles.ch
 crossroadgroup.ch
+crossroadmusic.ch
 crossroadranch.ch
 crossroadrock.ch
 crossroads-band.ch
@@ -9229,6 +9235,7 @@ crowder.ch
 crowderland.ch
 crowders.ch
 crowdestate.ch
+crowdestates.ch
 crowdfair.ch
 crowdfarm.ch
 crowdfarming.ch
@@ -9509,7 +9516,6 @@ crownpokertables.ch
 crownrealestate.ch
 crownrelo.ch
 crownrobotic.ch
-crowns.ch
 crownsbarbershop.ch
 crownservices.ch
 crownsite.ch
@@ -9521,6 +9527,7 @@ crownswiss.ch
 crowntechnics.ch
 crownwallet.ch
 crownworldmobility.ch
+crownzilla.ch
 crows.ch
 crowsfreebiker.ch
 crowsnest.ch
@@ -9998,7 +10005,6 @@ cruneo-comparateur-croisieres.ch
 cruneo.ch
 crunn.ch
 cruntch.ch
-crupars.ch
 cruriche.ch
 crus.ch
 crusa.ch
@@ -10380,6 +10386,7 @@ crypticbit.ch
 crypticcobra.ch
 crypticfoxconsulting.ch
 cryptick.ch
+crypticplus.ch
 cryptics.ch
 crypticum.ch
 cryptid.ch
@@ -10529,6 +10536,7 @@ crypto-legal.ch
 crypto-lernen.ch
 crypto-lex.ch
 crypto-litigation.ch
+crypto-lounge.ch
 crypto-lugano.ch
 crypto-lunch.ch
 crypto-mail.ch
@@ -11221,6 +11229,7 @@ cryptorecht.ch
 cryptorecover.ch
 cryptorecovery.ch
 cryptoreflex.ch
+cryptoreport.ch
 cryptoreporting.ch
 cryptoresear.ch
 cryptoresearch.ch
@@ -11286,7 +11295,6 @@ cryptosphere.ch
 cryptospiele.ch
 cryptosponsoring.ch
 cryptosport.ch
-cryptospot.ch
 cryptoss.ch
 cryptostairway.ch
 cryptostakes.ch

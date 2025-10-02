@@ -247,7 +247,6 @@ tc-trainingcenter.ch
 tc-trainingscenter.ch
 tc-trin.ch
 tc-trustcenter.ch
-tc-tschiertschen.ch
 tc-ubs-luzern-zug.ch
 tc-uetendorf.ch
 tc-uetikon.ch
@@ -931,7 +930,6 @@ tclv.ch
 tclvd.ch
 tcm-5-balance.ch
 tcm-a-lienhard.ch
-tcm-aarau.ch
 tcm-aargau.ch
 tcm-adam.ch
 tcm-adriana.ch
@@ -1174,10 +1172,10 @@ tcm-kraftpunkt.ch
 tcm-kreis3.ch
 tcm-ksm.ch
 tcm-kuenzler.ch
+tcm-kuessnacht.ch
 tcm-kunlun.ch
 tcm-kunz.ch
 tcm-kyma.ch
-tcm-label.ch
 tcm-lan.ch
 tcm-lana.ch
 tcm-lang.ch
@@ -1612,6 +1610,7 @@ tcmeyrin.ch
 tcmfabianpfitscher.ch
 tcmfachverband.ch
 tcmfachverbandschweiz.ch
+tcmfan.ch
 tcmfelber.ch
 tcmflow.ch
 tcmfood.ch

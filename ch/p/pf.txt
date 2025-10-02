@@ -1056,7 +1056,6 @@ pfarrei-raron.ch
 pfarrei-reiden-wikon.ch
 pfarrei-reussbuehl.ch
 pfarrei-rheinfelden.ch
-pfarrei-rickenbach.ch
 pfarrei-risch.ch
 pfarrei-root.ch
 pfarrei-rothenburg.ch
@@ -1898,6 +1897,7 @@ pferdedecken-mieten.ch
 pferdedecken-reinigen.ch
 pferdedecken-reinigung.ch
 pferdedecken-waschen.ch
+pferdedecken.ch
 pferdedeckenmeister.ch
 pferdedeckenmieten.ch
 pferdedeckenreinigen.ch
@@ -2094,6 +2094,7 @@ pferdeko.ch
 pferdekolik.ch
 pferdekommunikation.ch
 pferdekompass.ch
+pferdekompetenz-zentrum.ch
 pferdekompetenz.ch
 pferdekompetenzen.ch
 pferdekompetenzzentrum.ch
@@ -2141,7 +2142,6 @@ pferdemedizin.ch
 pferdemensch.ch
 pferdemenschen.ch
 pferdemesse-bern.ch
-pferdemesse.ch
 pferdemessebern.ch
 pferdemetzger.ch
 pferdemetzgerei-michel.ch
@@ -2163,6 +2163,7 @@ pferdenahrung.ch
 pferdenarr.ch
 pferdenase.ch
 pferdenatur.ch
+pferdenaturell.ch
 pferdenest-premium.ch
 pferdenest.ch
 pferdenestpremium.ch
@@ -2754,8 +2755,6 @@ pfiffico.ch
 pfiffig-be.ch
 pfiffig-gmbh.ch
 pfiffig.ch
-pfiffiges.ch
-pfiffigs.ch
 pfiffikus-gewuerze.ch
 pfiffikus.ch
 pfiffikuss-gewuerze.ch
@@ -3697,6 +3696,7 @@ pflege-hf.ch
 pflege-hilfe-zuhause.ch
 pflege-hilfe.ch
 pflege-hitzkirch.ch
+pflege-hochdorf.ch
 pflege-holzerei.ch
 pflege-im-alter.ch
 pflege-im-vergleich.ch
@@ -3719,6 +3719,7 @@ pflege-kompass.ch
 pflege-kongress.ch
 pflege-kongresse.ch
 pflege-learning.ch
+pflege-leben.ch
 pflege-lehre.ch
 pflege-leicht.ch
 pflege-lernen.ch
@@ -3729,7 +3730,6 @@ pflege-management.ch
 pflege-mediathek.ch
 pflege-messe.ch
 pflege-mittel.ch
-pflege-mittelland.ch
 pflege-naturnah.ch
 pflege-netz.ch
 pflege-netzwerk.ch
@@ -3828,7 +3828,6 @@ pflege24-7.ch
 pflege24.ch
 pflege360grad.ch
 pflege365.ch
-pflegeaarau.ch
 pflegeabc.ch
 pflegeagentur-ohliger.ch
 pflegeagentur.ch
@@ -4181,6 +4180,7 @@ pflegeland-schweiz.ch
 pflegeland.ch
 pflegelandschweiz.ch
 pflegelearning.ch
+pflegeleben.ch
 pflegeleicht.ch
 pflegeleichter.ch
 pflegeleistung.ch
@@ -4277,7 +4277,6 @@ pflegepersonal-schweiz.ch
 pflegepersonal-suche.ch
 pflegepersonal-verleih.ch
 pflegepersonal.ch
-pflegepersonal24.ch
 pflegepersonalschweiz.ch
 pflegepersonalshop.ch
 pflegepersonalverleih.ch
@@ -4371,10 +4370,8 @@ pflegeservice24.ch
 pflegesessel.ch
 pflegesesselzen.ch
 pflegeshop.ch
-pflegesolothurn.ch
 pflegespaeher.ch
 pflegesparen.ch
-pflegespezialist.ch
 pflegespezialisten.ch
 pflegespitex.ch
 pflegespringer.ch
@@ -4401,7 +4398,6 @@ pflegetag.ch
 pflegetaggeldversicherung.ch
 pflegetalent.ch
 pflegetasche.ch
-pflegeteam-mittelland.ch
 pflegeteam-papillon.ch
 pflegeteam-zug.ch
 pflegeteam-zugerberg.ch
@@ -4411,7 +4407,6 @@ pflegeteam2000.ch
 pflegeteamaranacare.ch
 pflegeteamausserschwyz.ch
 pflegeteambeiderbasel.ch
-pflegeteammittelland.ch
 pflegeteamschweiz.ch
 pflegeteamschwyz.ch
 pflegeteamsempachersee.ch
@@ -4595,7 +4590,6 @@ pflichtverteidiger.ch
 pflieger.ch
 pflitsch.ch
 pflkbaumanagement.ch
-pflock.ch
 pflopf.ch
 pflotschdaeppeler.ch
 pflotschhoger.ch

@@ -151,7 +151,6 @@ fc-players.ch
 fc-plo-1930.ch
 fc-polizei.ch
 fc-portalban-gletterens.ch
-fc-post.ch
 fc-prez.ch
 fc-puplinge.ch
 fc-regensdorf.ch
@@ -676,6 +675,8 @@ fcfeststursen.ch
 fcfetignymeniere.ch
 fcfetignymenieres.ch
 fcfeuerthalen.ch
+fcff.ch
+fcfformation.ch
 fcfi-conseils-services.ch
 fcfi.ch
 fcfink.ch
@@ -792,7 +793,6 @@ fcgrandson.ch
 fcgranges.ch
 fcgreifensee.ch
 fcgrimisuat.ch
-fcgrolley.ch
 fcgrone.ch
 fcgrosswangen.ch
 fcgrotkreuz.ch
@@ -1326,7 +1326,6 @@ fcsaxon.ch
 fcsaxonsports.ch
 fcsb.ch
 fcsbetriebsag.ch
-fcsc.ch
 fcscapital.ch
 fcscapitalmarkets.ch
 fcschaffhausen-nachwuchs.ch
@@ -1396,7 +1395,6 @@ fcsionkidscamps.ch
 fcsionpourtous.ch
 fcsionshop.ch
 fcsirnach.ch
-fcsiviriez.ch
 fcsl.ch
 fcslavia.ch
 fcslo-association.ch
@@ -1448,8 +1446,6 @@ fcstettlen08.ch
 fcstleonard.ch
 fcstmargrethen.ch
 fcstpaul.ch
-fcstpauli-merchandising.ch
-fcstpauli-shop.ch
 fcsubingen.ch
 fcsuchy.ch
 fcsuedstern.ch

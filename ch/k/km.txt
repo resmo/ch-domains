@@ -1,6 +1,7 @@
 km-access.ch
 km-ag.ch
 km-arch.ch
+km-architecture.ch
 km-avocat.ch
 km-beauty.ch
 km-c.ch
@@ -126,7 +127,6 @@ kmb.ch
 kmb2.ch
 kmbag.ch
 kmbasel.ch
-kmbau.ch
 kmbaumanagement.ch
 kmbcosmetics.ch
 kmbd.ch
@@ -393,6 +393,7 @@ kmservice.ch
 kmservices.ch
 kmsg.ch
 kmshair.ch
+kmshirt.ch
 kmsk.ch
 kmsm.ch
 kmsoft.ch
@@ -461,6 +462,7 @@ kmu-advisory.ch
 kmu-ag.ch
 kmu-agent.ch
 kmu-ai-agent.ch
+kmu-ai-skills-lab.ch
 kmu-ai-training.ch
 kmu-ai.ch
 kmu-akademie.ch
@@ -540,7 +542,6 @@ kmu-callcenter.ch
 kmu-callin.ch
 kmu-campus-schweiz.ch
 kmu-campus.ch
-kmu-card.ch
 kmu-cash.ch
 kmu-cast.ch
 kmu-cembra.ch
@@ -742,6 +743,7 @@ kmu-kauf-verkauf.ch
 kmu-kauf.ch
 kmu-kaufen.ch
 kmu-ki-kompetenz.ch
+kmu-ki-skills-lab.ch
 kmu-ki.ch
 kmu-klopfen.ch
 kmu-komitee.ch
@@ -940,6 +942,7 @@ kmu-service.ch
 kmu-services.ch
 kmu-sicherheit.ch
 kmu-siva.ch
+kmu-skills-lab.ch
 kmu-so.ch
 kmu-socialmedia.ch
 kmu-soft.ch
@@ -952,7 +955,6 @@ kmu-solutions.ch
 kmu-sourcing.ch
 kmu-sparring-partner.ch
 kmu-sparringcoach.ch
-kmu-spezialist.ch
 kmu-square.ch
 kmu-staerken.ch
 kmu-stammtisch.ch
@@ -1629,7 +1631,6 @@ kmuwb.ch
 kmuweb.ch
 kmuwebagentur.ch
 kmuwebbox.ch
-kmuwebdesign.ch
 kmuwebseite.ch
 kmuwebseiten.ch
 kmuwebservice.ch

@@ -15,6 +15,7 @@ dn-t.ch
 dn-transports.ch
 dn1.verteilungsmonitor.ch
 dn2.verteilungsmonitor.ch
+dn24.ch
 dn2m.ch
 dn42.ch
 dn5.ch
@@ -238,7 +239,6 @@ dnholding.ch
 dnhp.ch
 dnhs.ch
 dni-label.ch
-dni-quest.ch
 dni.ch
 dnia.ch
 dniairport.ch
@@ -1332,5 +1332,5 @@ dny.ch
 dnz-avocats.ch
 dnz-umzug.ch
 dnz.ch
-dnzr.ch
+dnzr-prod.ch
 dnzscriptsserversecurity.ch

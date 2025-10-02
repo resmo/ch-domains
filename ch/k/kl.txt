@@ -266,7 +266,6 @@ klang-akzente-shop.ch
 klang-akzente.ch
 klang-am-see.ch
 klang-arche.ch
-klang-art.ch
 klang-atelier-17.ch
 klang-atelier.ch
 klang-atem-stimme.ch
@@ -323,7 +322,6 @@ klang-labor.ch
 klang-liege-therapie.ch
 klang-magie.ch
 klang-massage-therapie.ch
-klang-massage.ch
 klang-meditation.ch
 klang-medizin-academy.ch
 klang-medizin-belsito.ch
@@ -333,7 +331,6 @@ klang-medizin.ch
 klang-meggen.ch
 klang-meile.ch
 klang-mentoring.ch
-klang-mittenaegeri.ch
 klang-mobil.ch
 klang-momente.ch
 klang-muehle.ch
@@ -352,7 +349,6 @@ klang-reise.ch
 klang-resonanz.ch
 klang-schafft-ordnung.ch
 klang-schale.ch
-klang-schalen.ch
 klang-schloss-hallwyl.ch
 klang-schmiede.ch
 klang-schoepfli.ch
@@ -681,7 +677,6 @@ klangnetz.ch
 klangnidra.ch
 klango.ch
 klangoase-thal.ch
-klangoase.ch
 klangoni.ch
 klangoquell.ch
 klangort.ch
@@ -785,7 +780,10 @@ klangspezialist.ch
 klangspeziallist.ch
 klangsphaere.ch
 klangspiel.ch
+klangspiele-open-air.ch
+klangspiele-openair.ch
 klangspiele.ch
+klangspieleopenair.ch
 klangspielwelt.ch
 klangspirit.ch
 klangsprache.ch
@@ -1255,6 +1253,7 @@ klarfix-asani.ch
 klarfixasani.ch
 klarform.ch
 klarformat.ch
+klarfunk.ch
 klargehen.ch
 klargeist.ch
 klargelegt.ch
@@ -1502,6 +1501,7 @@ klasse-duc.ch
 klasse-eichenberger-weber.ch
 klasse-erni-savoldelli.ch
 klasse-fitze-rupalti.ch
+klasse-foti.ch
 klasse-gerber.ch
 klasse-haederli-fuerst.ch
 klasse-hanflaender.ch
@@ -1552,6 +1552,7 @@ klasseclean.ch
 klassedietrich.ch
 klassedozent.ch
 klasseflury.ch
+klassefoti.ch
 klassehandschin.ch
 klasseinbewegung.ch
 klassejob.ch
@@ -1689,7 +1690,6 @@ klassestyle.ch
 klassetraeff.ch
 klassevogel.ch
 klassevola.ch
-klassewuerth.ch
 klassi.ch
 klassifest.ch
 klassik-am-dom.ch
@@ -1943,7 +1943,6 @@ klausburri.ch
 klauscarvalhobuderer.ch
 klausch.ch
 klausdurrer.ch
-klause-ranch.ch
 klause.ch
 klausegger.ch
 klauseggertrio.ch
@@ -2250,6 +2249,7 @@ klavierunterricht-thun.ch
 klavierunterricht-wallisellen.ch
 klavierunterricht-zu-hause.ch
 klavierunterricht-zuerich.ch
+klavierunterrichtbasel.ch
 klavierunterrichtinbasel.ch
 klavierunterrichtluzern.ch
 klavierunterrichtplus.ch
@@ -3290,7 +3290,6 @@ kleinesleuchtzebra.ch
 kleinesonne.ch
 kleinesorchesterdersinne.ch
 kleinespatent.ch
-kleinespielwelten.ch
 kleinesstachelschwein.ch
 kleinesstudio.ch
 kleinestadt.ch
@@ -3482,6 +3481,7 @@ kleinluetzel.ch
 kleinluetzel24.ch
 kleinluetzelbunker.ch
 kleinluetzlerlaendlersunntig.ch
+kleinmann.ch
 kleinmaschinen-schweiz.ch
 kleinmaschinen-shop.ch
 kleinmaschinen-suisse.ch
@@ -3685,7 +3685,6 @@ kleintierklinik-buchholz.ch
 kleintierklinik-burgdorf.ch
 kleintierklinik-dietlikon.ch
 kleintierklinik-duebendorf.ch
-kleintierklinik-ebnet.ch
 kleintierklinik-flury.ch
 kleintierklinik-glarus.ch
 kleintierklinik-glattfeld.ch
@@ -4102,7 +4101,6 @@ klenzebaum.ch
 klenzi.ch
 kleo-botanicals.ch
 kleo-conseil.ch
-kleo.ch
 kleoelmer.ch
 kleoevents.ch
 kleofas.ch
@@ -4355,7 +4353,6 @@ kletterzentrum-tg.ch
 kletterzentrum.ch
 kletterzentrumchur.ch
 klettgau-garage.ch
-klettgau-immobilien.ch
 klettgau-sonne.ch
 klettgau.ch
 klettgau24.ch
@@ -4809,7 +4806,6 @@ klima-offensive.ch
 klima-partner.ch
 klima-pavillon.ch
 klima-pfaffnau.ch
-klima-plattform.ch
 klima-plus.ch
 klima-politik.ch
 klima-positiv.ch
@@ -4900,9 +4896,9 @@ klimaanlage-zentrum.ch
 klimaanlage.ch
 klimaanlagecenter.ch
 klimaanlagen-center.ch
-klimaanlagen-installateure.ch
 klimaanlagen-klimatechnik.ch
 klimaanlagen-mobile-klimageraete.ch
+klimaanlagen-ms.ch
 klimaanlagen-schweiz.ch
 klimaanlagen-shop.ch
 klimaanlagen-zentrum.ch
@@ -5083,7 +5079,6 @@ klimagerechtigkeit-jetzt.ch
 klimagerechtigkeit-quiz.ch
 klimagerechtigkeit.ch
 klimagerechtigkeitsinitiative.ch
-klimageschichten.ch
 klimagesetz-jetzt.ch
 klimagespraeche-schweiz.ch
 klimagespraeche.ch
@@ -5966,7 +5961,6 @@ kliniksound.ch
 klinikstanna.ch
 klinikstelle.ch
 klinikstellen.ch
-kliniksterben.ch
 klinikstgeorg.ch
 kliniksusenberg.ch
 klinikswiss.ch
@@ -6011,7 +6005,6 @@ klinischesozialarbeit.ch
 klinischesozialearbeit.ch
 klinischestudien.ch
 klinitas.ch
-klink-chemie.ch
 klink.ch
 klinke-garten.ch
 klinke.ch
@@ -6917,9 +6910,7 @@ klubzentrale.ch
 klubzurgutenhoffnung.ch
 kluc.ch
 kluck.ch
-klucker-ag.ch
 klucker.ch
-kluckerag.ch
 kluckert.ch
 kludge.ch
 kludi-schweiz.ch
@@ -6982,6 +6973,7 @@ klugscheisser-papier.ch
 klugscheisser.ch
 klugscheisserchen.ch
 klugscheisserpapier.ch
+klugscheisserpauli.ch
 klugsen.ch
 klugsolutions.ch
 klugsparen.ch

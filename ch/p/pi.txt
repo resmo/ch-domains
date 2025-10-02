@@ -39,7 +39,6 @@ pi-network.ch
 pi-news.ch
 pi-nie.ch
 pi-nut.ch
-pi-on.ch
 pi-pa-po.ch
 pi-pa-sa-kurier.ch
 pi-parfums.ch
@@ -116,6 +115,7 @@ pia-loretz.ch
 pia-maria.ch
 pia-massage.ch
 pia-medical-personnel.ch
+pia-medical.ch
 pia-montagne.ch
 pia-musik.ch
 pia-personnel.ch
@@ -136,6 +136,7 @@ pia-test-super-ndd-du-turfu.ch
 pia-ulrich.ch
 pia-weibel.ch
 pia.ch
+pia24.ch
 piaandrea-foglia.ch
 piaandthedogs.ch
 piaar.ch
@@ -143,7 +144,6 @@ piaarnold.ch
 piaas.ch
 piab.ch
 piabanderini.ch
-piabisang.ch
 piabovis.ch
 piabuerki.ch
 piabuob.ch
@@ -172,7 +172,6 @@ piacerecaffe.ch
 piacerecasella.ch
 piacereciao.ch
 piacerecooperativa.ch
-piaceredelgusto.ch
 piaceredonna.ch
 piacereprosecco.ch
 piaceresvizzero.ch
@@ -313,6 +312,7 @@ piamaria-brugger.ch
 piamaria.ch
 piamariabrugger.ch
 piamaurer.ch
+piamedical.ch
 piameier.ch
 piameo.ch
 piamkun.ch
@@ -748,6 +748,7 @@ piao.ch
 piaodermatt.ch
 piaparpan.ch
 piaperrenkartenpoint.ch
+piapersonal.ch
 piapetri.ch
 piaphilippe.ch
 piapiapia.ch
@@ -926,7 +927,6 @@ piazza-meraviglia.ch
 piazza-nuova.ch
 piazza-oberwil.ch
 piazza-patriarca.ch
-piazza-piante.ch
 piazza-pizza-winterthur.ch
 piazza-pizzakebab-haus.ch
 piazza-restaurant.ch
@@ -1164,6 +1164,7 @@ picasso.ch
 picassoandco.ch
 picassoasia.ch
 picassoautomotive.ch
+picassobeauty.ch
 picassobusinesscenter.ch
 picassoengineering.ch
 picassol.ch
@@ -1181,7 +1182,6 @@ picatrex.ch
 picatzo.ch
 picavera.ch
 picaverlag.ch
-picavis.ch
 picayune.ch
 picazam.ch
 picazur-encadrement.ch
@@ -1314,7 +1314,6 @@ piccolino-kinderboerse.ch
 piccolino-muttenz.ch
 piccolino.ch
 piccolinofraubrunnen.ch
-piccolinopizzakurierexpress.ch
 piccolinosecondhand.ch
 piccolipassi-handmade.ch
 piccolipassi.ch
@@ -1472,7 +1471,6 @@ picibi.ch
 picin.ch
 picinelli.ch
 piciotti.ch
-picit.ch
 pick-a-bike.ch
 pick-a-car.ch
 pick-andomx.ch
@@ -1779,7 +1777,6 @@ pickupexpress.ch
 pickupforcash.ch
 pickupforlife.ch
 pickupgear.ch
-pickupkafi.ch
 pickupmatte.ch
 pickupme.ch
 pickupmycar.ch
@@ -2104,7 +2101,6 @@ pictoplus.ch
 pictopoint.ch
 pictopolis.ch
 pictor.ch
-pictorama.ch
 pictorem.ch
 pictorex.ch
 pictori.ch
@@ -2311,7 +2307,6 @@ pidelo.ch
 pideria.ch
 piderit.ch
 pidgi.ch
-pidgin.ch
 pidi-moebel.ch
 pidi.ch
 pidiflott.ch
@@ -2662,7 +2657,6 @@ piercingfribourg.ch
 piercinggaby.ch
 piercinggutschein.ch
 piercinghouse-lotzwil.ch
-piercinginterlaken.ch
 piercingkoniz.ch
 piercingkurs.ch
 piercingkurse.ch
@@ -3471,6 +3465,7 @@ pigione-in-uso-nella-localita.ch
 pigioni-accessibili.ch
 pigioniaccessibili.ch
 pigki.ch
+piglab.ch
 piglet.ch
 pigli.ch
 piglia-piglia.ch
@@ -3632,7 +3627,6 @@ pija.ch
 pijab.ch
 pije.ch
 pijeans.ch
-pijena.ch
 pijones.ch
 pik-ar.ch
 pik-arch.ch
@@ -3715,6 +3709,7 @@ pikestorm.ch
 pikett-administrativhaft.ch
 pikett-asyl.ch
 pikett-dienst.ch
+pikett-fachanwalt-strafrecht.ch
 pikett-glattal.ch
 pikett-handwerker.ch
 pikett-strafverteidigung.ch
@@ -3726,10 +3721,12 @@ pikettapp.ch
 pikettdienst.ch
 pikettdienst24.ch
 pikettdienste.ch
+pikettfachanwaltstrafrecht.ch
 pikettgruppe5.ch
 piketthandwerker.ch
 pikettmeister.ch
 pikettservice.ch
+pikettstrafrecht.ch
 pikettuhr.ch
 pikettverein-frick.ch
 pikettverteidiger.ch
@@ -3933,7 +3930,6 @@ pilates-form.ch
 pilates-forme.ch
 pilates-fribourg.ch
 pilates-gandillet.ch
-pilates-geneve.ch
 pilates-gstaad.ch
 pilates-home.ch
 pilates-horgen.ch
@@ -4198,7 +4194,6 @@ pilateskurier.ch
 pilateskurs.ch
 pilateskurse.ch
 pilateslancy.ch
-pilateslaufen.ch
 pilatesliebefeld.ch
 pilateslife.ch
 pilateslings.ch
@@ -4459,6 +4454,7 @@ pilatusindoor.ch
 pilatuskebabpizza.ch
 pilatuskette.ch
 pilatuskiss.ch
+pilatuslachs.ch
 pilatusland.ch
 pilatuslodge.ch
 pilatuslogistik.ch
@@ -4614,7 +4610,6 @@ pilgernundwandern.ch
 pilgerort-schoenthal.ch
 pilgerpass.ch
 pilgerpost.ch
-pilgerreise.ch
 pilgerreisen.ch
 pilgerreisenews.ch
 pilgerreisennews.ch
@@ -4682,7 +4677,6 @@ pilierpro.ch
 pilierpublic.ch
 piliers-suisses.ch
 piliersuisse.ch
-pilierx.ch
 pilif.ch
 piliflix.ch
 piligrims.ch
@@ -4738,6 +4732,7 @@ pillars.ch
 pillarsofplenty.ch
 pillarsured.ch
 pillarthree.ch
+pillarum.ch
 pillarx.ch
 pillasport.ch
 pillaswitzerland.ch
@@ -5312,7 +5307,6 @@ pimagix.ch
 pimagroup.ch
 pimail.ch
 pimako.ch
-pimali-association.ch
 pimam.ch
 piman-ch.ch
 piman-consultants.ch
@@ -5326,7 +5320,6 @@ pimanet.ch
 pimaofficeselection.ch
 pimaprima.ch
 pimar.ch
-pimark.ch
 pimarkt.ch
 pimart.ch
 pimas.ch
@@ -5681,7 +5674,6 @@ pinballwizard.ch
 pinbar.ch
 pinbet.ch
 pinbina.ch
-pinboard-magnettafel.ch
 pinboard.ch
 pinboard24.ch
 pinbox.ch
@@ -5740,6 +5732,7 @@ pindoc.ch
 pindor.ch
 pindot.ch
 pindown.ch
+pindrinks.ch
 pindrop.ch
 pindu.ch
 pinduoduo.ch
@@ -5751,6 +5744,7 @@ pine-restaurant.ch
 pine-tree.ch
 pine.ch
 pinea-restaurant.ch
+pinea.ch
 pineaconsult.ch
 pineal.ch
 pinealin.ch
@@ -5801,7 +5795,6 @@ pinepizzeria.ch
 pinesa.ch
 pineshot.ch
 pinet.ch
-pineta.ch
 pinetics.ch
 pinetina.ch
 pinetree-consulting.ch
@@ -6152,6 +6145,7 @@ pink-week.ch
 pink-x-chaos.ch
 pink-x.ch
 pink-yeti.ch
+pink-zebra.ch
 pink.ch
 pink2black.ch
 pink4betti.ch
@@ -6235,6 +6229,7 @@ pinkerton.ch
 pinkeschnauze.ch
 pinkevents.ch
 pinkfairy.ch
+pinkfee.ch
 pinkfinance.ch
 pinkfis.ch
 pinkfish.ch
@@ -6501,7 +6496,6 @@ pinntext.ch
 pinnula.ch
 pinnwand-vermietung.ch
 pinnwand.ch
-pinnwand24.ch
 pino-maler.ch
 pino-pepe.ch
 pino-platreriepeinture.ch
@@ -6616,7 +6610,6 @@ pinoylechon.ch
 pinoymoviepedia.ch
 pinoymovies.ch
 pinoystore.ch
-pinoz.ch
 pinpain.ch
 pinpharm.ch
 pinphysio.ch
@@ -7176,7 +7169,6 @@ pipeconsult.ch
 pipedream.ch
 pipedrive.ch
 pipedrone.ch
-pipeexperts.ch
 pipefest.ch
 pipefinder.ch
 pipek.ch
@@ -7195,6 +7187,7 @@ pipenbaher.ch
 pipenews.ch
 pipeprinter.ch
 pipeprinting.ch
+piper-cigars.ch
 piper-club.ch
 piper-spin.ch
 piper.ch
@@ -7302,6 +7295,7 @@ pipolymechanic-craft.ch
 pipomolo.ch
 pipon.ch
 piponia.ch
+pipool.ch
 pipop.ch
 pipore.ch
 piportfolio.ch
@@ -7466,7 +7460,6 @@ pirani.ch
 piranja.ch
 piranjas.ch
 piranoiak.ch
-piraon.ch
 pirari.ch
 piras.ch
 pirassay.ch
@@ -7619,7 +7612,6 @@ piratino-pizzakurier.ch
 piratino-pizzeria.ch
 piratino.ch
 piratino2.ch
-piratino2pizzakurier.ch
 piratino2zurich.ch
 piratinviaggio.ch
 piratisierer.ch
@@ -7825,6 +7817,7 @@ pirots2.ch
 pirots4.ch
 pirotta.ch
 pirou.ch
+pirouette-aigle.ch
 pirouette-by-anastasiia.ch
 pirouette-cacahuete-gland.ch
 pirouette-lti.ch
@@ -7846,7 +7839,6 @@ pirracchio.ch
 pirrami.ch
 pirrello.ch
 pirrera.ch
-pirri.ch
 pirro.ch
 pirroconsulting.ch
 pirromedia.ch
@@ -8090,6 +8082,7 @@ pisciniste-geneve.ch
 pisciniste-lausanne.ch
 pisciniste-neuchatel.ch
 pisciniste-nyon.ch
+pisciniste.ch
 piscinistes.ch
 piscinistevaud.ch
 piscis.ch
@@ -8134,7 +8127,6 @@ pism-medical.ch
 piso-ag.ch
 piso.ch
 pisoag.ch
-pisoc.ch
 pisocpictures.ch
 pisoft.ch
 pisoli.ch
@@ -8314,7 +8306,6 @@ pistolenclub-villnachern.ch
 pistolenclub-wintersingen.ch
 pistolenclub.ch
 pistolenergy.ch
-pistolengriff.ch
 pistolenklub-kaiserstuhl.ch
 pistolenklub-seen.ch
 pistolenklub.ch
@@ -8462,6 +8453,7 @@ pitarogmbh-unterlagsboeden.ch
 pitaroyal.ch
 pitaroyale.ch
 pitart.ch
+pitas.ch
 pitasch.ch
 pitastic.ch
 pitasty.ch
@@ -8663,6 +8655,7 @@ pitschen.ch
 pitschenschreinerei.ch
 pitschgi-taschen.ch
 pitschi.ch
+pitschicoin.ch
 pitschiscrea.ch
 pitschlis.ch
 pitschmann-work.ch
@@ -9021,7 +9014,6 @@ pivotallabs.ch
 pivotalresear.ch
 pivotaltracker.ch
 pivotbike.ch
-pivotcycles.ch
 pivotpoint.ch
 pivotpointswiss.ch
 pivots.ch
@@ -9234,6 +9226,7 @@ pixel24.ch
 pixel3000.ch
 pixel365.ch
 pixel3d.ch
+pixel3dprints.ch
 pixel7.ch
 pixel8.ch
 pixel83.ch
@@ -10264,7 +10257,6 @@ pizza-arlecchino.ch
 pizza-arte.ch
 pizza-ascona.ch
 pizza-asporto-locarno.ch
-pizza-au-daellikon.ch
 pizza-au-feu-bois.ch
 pizza-au-feu-de-bois.ch
 pizza-aurora-wetzikon.ch
@@ -10489,7 +10481,6 @@ pizza-kaadis.ch
 pizza-kalo.ch
 pizza-kappelen.ch
 pizza-karton.ch
-pizza-kebab-bueri.ch
 pizza-kebab-de-lucens.ch
 pizza-kebab-du-maupas-lausanne.ch
 pizza-kebab-du-village.ch
@@ -10582,7 +10573,6 @@ pizza-malibu.ch
 pizza-mamma-mia.ch
 pizza-mammamia.ch
 pizza-man.ch
-pizza-mania-rieden.ch
 pizza-mania.ch
 pizza-mare-liebefeld.ch
 pizza-mario.ch
@@ -10602,7 +10592,6 @@ pizza-mia-express.ch
 pizza-mia-fribourg.ch
 pizza-mia-strengelbach.ch
 pizza-mia.ch
-pizza-michelangelo.ch
 pizza-milano-zh.ch
 pizza-milano.ch
 pizza-milanos-lausanne.ch
@@ -10611,7 +10600,6 @@ pizza-mobil.ch
 pizza-mobile.ch
 pizza-momos-roadrunner.ch
 pizza-monthey.ch
-pizza-moogi.ch
 pizza-more.ch
 pizza-muenchenstein.ch
 pizza-muttenz.ch
@@ -10736,7 +10724,6 @@ pizza-station-sevelen.ch
 pizza-station.ch
 pizza-stella.ch
 pizza-storch.ch
-pizza-store-allschwil.ch
 pizza-store-vevey.ch
 pizza-store.ch
 pizza-subito.ch
@@ -10858,7 +10845,6 @@ pizzabahnhof.ch
 pizzabakary.ch
 pizzabakarymia.ch
 pizzabakers-nidau.ch
-pizzabakersnidau.ch
 pizzaband.ch
 pizzabar-liebefeld.ch
 pizzabar.ch
@@ -10995,7 +10981,6 @@ pizzadiecilocarno.ch
 pizzadiecisolduno.ch
 pizzadienst.ch
 pizzadienste.ch
-pizzadieti.ch
 pizzadijean.ch
 pizzadinapoli.ch
 pizzadisco.ch
@@ -11022,7 +11007,6 @@ pizzaecublens.ch
 pizzaeglisau.ch
 pizzaelasagne.ch
 pizzaelba.ch
-pizzaepastacorriereufficiale.ch
 pizzaepastalaqualita.ch
 pizzaepinsa.ch
 pizzaepiu.ch
@@ -11032,7 +11016,6 @@ pizzaevent.ch
 pizzaevents.ch
 pizzaeverydaybasel.ch
 pizzaexpo.ch
-pizzaexpress-casa-ditalia.ch
 pizzaexpress-geneve.ch
 pizzaexpress-massimo.ch
 pizzaexpress-schenkon.ch
@@ -11162,7 +11145,6 @@ pizzaiolo.ch
 pizzaioloaarberg.ch
 pizzaiolobargen.ch
 pizzaiolobargenbargen.ch
-pizzaiolobern-bern.ch
 pizzaiolobern.ch
 pizzaiolobumpliz.ch
 pizzaiolocontest.ch
@@ -11171,7 +11153,6 @@ pizzaioloseftigen.ch
 pizzaiolosiselen.ch
 pizzaioloswisscup.ch
 pizzaitalia-biel.ch
-pizzaitaliabiel.ch
 pizzaitaly.ch
 pizzajardin.ch
 pizzajet.ch
@@ -11183,7 +11164,6 @@ pizzajungecrudtligen-alchenfluh.ch
 pizzajungeczuerichbirmensdorferstrasse.ch
 pizzajura.ch
 pizzajurabernois.ch
-pizzakaenguru.ch
 pizzakallnach.ch
 pizzakappelen.ch
 pizzakarton.ch
@@ -11301,7 +11281,6 @@ pizzakurier-volante.ch
 pizzakurier-vulcano.ch
 pizzakurier-winterthur.ch
 pizzakurier-yoyo.ch
-pizzakurier-zelgli.ch
 pizzakurier-zueri.ch
 pizzakurier-zuerich.ch
 pizzakurier-zug.ch
@@ -11312,9 +11291,7 @@ pizzakurier500.ch
 pizzakurier99.ch
 pizzakurieradliswil.ch
 pizzakurieramore.ch
-pizzakurierararat.ch
 pizzakurierarbailo.ch
-pizzakurierarmando.ch
 pizzakurierarte.ch
 pizzakurieravanti.ch
 pizzakurierbauma.ch
@@ -11339,19 +11316,16 @@ pizzakurierkrone.ch
 pizzakurierlacandida.ch
 pizzakurierlangelo.ch
 pizzakurierlangnauimemmental.ch
-pizzakurierlasera.ch
 pizzakurierlavita.ch
 pizzakurierlessio-altdorf.ch
 pizzakurierlessio.ch
 pizzakurierlochergut-zuerich.ch
-pizzakurierluxor.ch
 pizzakuriermediterran.ch
 pizzakuriermonarca.ch
 pizzakuriernapoli.ch
 pizzakuriernonnateresastaefa.ch
 pizzakuriernord-niederurnen.ch
 pizzakuriernord.ch
-pizzakuriernordniederurnen.ch
 pizzakurieroasedapepino.ch
 pizzakurieroberland.ch
 pizzakurierpicasso.ch
@@ -11410,7 +11384,6 @@ pizzalocanda.ch
 pizzalocarno.ch
 pizzaloeoeli.ch
 pizzalotto-hunzenschwil.ch
-pizzalottohunzenschwil.ch
 pizzalove.ch
 pizzalover.ch
 pizzalovers.ch
@@ -11481,7 +11454,6 @@ pizzamolini.ch
 pizzamonarca.ch
 pizzamondo.ch
 pizzamonster.ch
-pizzamoogi.ch
 pizzamore.ch
 pizzamoretti.ch
 pizzamuensingen.ch
@@ -11577,7 +11549,6 @@ pizzapiccolo.ch
 pizzapink.ch
 pizzapino.ch
 pizzapinocchio.ch
-pizzapipazabieler.ch
 pizzapippo.ch
 pizzapirat.ch
 pizzapirata.ch
@@ -11633,12 +11604,10 @@ pizzarianuvola.ch
 pizzariders.ch
 pizzariehen.ch
 pizzariosa.ch
-pizzarito.ch
 pizzariviera.ch
 pizzarivieradepuis1990-latour-de-peilz.ch
 pizzarkurier-imperium.ch
 pizzaroadrunner-neuhausenamrheinfall.ch
-pizzaroadrunner.ch
 pizzaroadrunnerneuhausenamrheinfall.ch
 pizzaroberto-stgallen.ch
 pizzaroberto.ch
@@ -11649,7 +11618,6 @@ pizzaroma-luzern.ch
 pizzaroma-wikon.ch
 pizzaroma.ch
 pizzaromabern.ch
-pizzaromaimcheers.ch
 pizzaromakriens.ch
 pizzaromawikon.ch
 pizzarossi.ch
@@ -11661,7 +11629,6 @@ pizzarotti.ch
 pizzaroyal.ch
 pizzart.ch
 pizzaruswil-ruswil.ch
-pizzaruswil.ch
 pizzas-fraiches.ch
 pizzas-kits.ch
 pizzas.ch
@@ -11716,7 +11683,6 @@ pizzastein.ch
 pizzastern.ch
 pizzasternen.ch
 pizzastop.ch
-pizzastore.ch
 pizzastube.ch
 pizzastudio.ch
 pizzastyle.ch
@@ -11819,6 +11785,7 @@ pizzazz.ch
 pizzbab.ch
 pizzburger.ch
 pizze.ch
+pizzecore.ch
 pizzella.ch
 pizzelli.ch
 pizzen.ch
@@ -11859,7 +11826,6 @@ pizzeria-bahnhof-lotzwil.ch
 pizzeria-bako.ch
 pizzeria-bar-5star-zuerich.ch
 pizzeria-barbarossa-sankt-gallen.ch
-pizzeria-bel-air.ch
 pizzeria-bella-mare.ch
 pizzeria-bella-terrace-lommiswil.ch
 pizzeria-bella-terrace.ch
@@ -12011,10 +11977,8 @@ pizzeria-hirschthal.ch
 pizzeria-hofgut.ch
 pizzeria-hofmatt.ch
 pizzeria-host.ch
-pizzeria-il-castello.ch
 pizzeria-il-cerchio-kuesnacht.ch
 pizzeria-il-cortile.ch
-pizzeria-il-palazzetto.ch
 pizzeria-il-vento-berneck.ch
 pizzeria-illeone.ch
 pizzeria-ilsogno.ch
@@ -12174,7 +12138,6 @@ pizzeria-pronto-schaan.ch
 pizzeria-pronto.ch
 pizzeria-pulverturm.ch
 pizzeria-puntoverde.ch
-pizzeria-rank.ch
 pizzeria-rebstock.ch
 pizzeria-regina.ch
 pizzeria-renato.ch
@@ -12332,7 +12295,6 @@ pizzeriaalquadrato.ch
 pizzeriaalto.ch
 pizzeriaamici-stgallen.ch
 pizzeriaamici.ch
-pizzeriaamicistgallen.ch
 pizzeriaamore.ch
 pizzeriaamoremio.ch
 pizzeriaangolinopandaasianfood.ch
@@ -12350,7 +12312,6 @@ pizzeriabales.ch
 pizzeriabasilico.ch
 pizzeriabasilicomo.ch
 pizzeriabellanapoli.ch
-pizzeriabellissimo.ch
 pizzeriabelvedere.ch
 pizzeriabeo.ch
 pizzeriaberetta.ch
@@ -12393,7 +12354,6 @@ pizzeriadagiorgo.ch
 pizzeriadagiovanni-buchs.ch
 pizzeriadagiovanni.ch
 pizzeriadagliamici.ch
-pizzeriadalbedych.ch
 pizzeriadalcapobycafmhli.ch
 pizzeriadamichele.ch
 pizzeriadamodesto.ch
@@ -12473,7 +12433,6 @@ pizzeriahggli.ch
 pizzeriaifiglidinapoli.ch
 pizzeriailcastello.ch
 pizzeriailcortile.ch
-pizzeriailgusto.ch
 pizzeriailyana.ch
 pizzeriaindernaehe.ch
 pizzeriaitalia.ch
@@ -12512,7 +12471,6 @@ pizzerialaperla.ch
 pizzerialapiazza.ch
 pizzerialaposta.ch
 pizzerialaposte.ch
-pizzerialarcodolce.ch
 pizzerialaregina.ch
 pizzerialarosa.ch
 pizzerialarosareinach.ch
@@ -12644,7 +12602,6 @@ pizzeriataverna.ch
 pizzeriatavolacalda.ch
 pizzeriateaaroni.ch
 pizzeriatell.ch
-pizzeriatestarossa.ch
 pizzeriateufen.ch
 pizzeriatime.ch
 pizzeriativoli.ch
@@ -12671,7 +12628,6 @@ pizzeriawinznau.ch
 pizzeriawinznauwinznau.ch
 pizzeriazorbas.ch
 pizzeriazorroexpress-gams.ch
-pizzeriazorroexpress.ch
 pizzeriazurich.ch
 pizzeriazurmuehle.ch
 pizzerien.ch

@@ -86,7 +86,6 @@ my-artdeco.ch
 my-artist.ch
 my-artists.ch
 my-artresin.ch
-my-artshop.ch
 my-ascona.ch
 my-asiri.ch
 my-assessment.ch
@@ -192,7 +191,6 @@ my-boost.ch
 my-bootik.ch
 my-bootique.ch
 my-boshi-wolle.ch
-my-bottle.ch
 my-bourg.ch
 my-boutique.ch
 my-box24.ch
@@ -246,7 +244,6 @@ my-canal.ch
 my-cannabis.ch
 my-cap.ch
 my-capital.ch
-my-capuns.ch
 my-car-clean.ch
 my-car-hotel.ch
 my-car-life.ch
@@ -354,7 +351,6 @@ my-com.ch
 my-commerce.ch
 my-commerzbank.ch
 my-compact-home.ch
-my-company-car.ch
 my-company.ch
 my-compta.ch
 my-conciergerie.ch
@@ -609,6 +605,7 @@ my-facade.ch
 my-face.ch
 my-facelift.ch
 my-factoring.ch
+my-fairrank.ch
 my-familiy.ch
 my-familizy.ch
 my-family-office.ch
@@ -998,7 +995,6 @@ my-lean.ch
 my-learn-buddy.ch
 my-learn.ch
 my-learning-buddy.ch
-my-learning-space.ch
 my-learning.ch
 my-leasing.ch
 my-lebens-energie.ch
@@ -1086,6 +1082,7 @@ my-magazines.ch
 my-magicshop.ch
 my-magnets.ch
 my-magnum.ch
+my-mail.ch
 my-mailbox.ch
 my-maler.ch
 my-man-can.ch
@@ -1151,9 +1148,7 @@ my-mindeststandards.ch
 my-mindfoodness.ch
 my-mindmotion.ch
 my-mini-event.ch
-my-mini-me.ch
 my-mini.ch
-my-minime.ch
 my-minus.ch
 my-mission-is-your-decision.ch
 my-mitsubishi.ch
@@ -1187,6 +1182,7 @@ my-music.ch
 my-mvb.ch
 my-mxns.ch
 my-mythos.ch
+my-n8n-server.ch
 my-nab.ch
 my-nachmieter.ch
 my-nails.ch
@@ -1616,7 +1612,6 @@ my-smile.ch
 my-smoothie.ch
 my-snacky.ch
 my-so.ch
-my-social-tv.ch
 my-socialcard.ch
 my-socialmedia.ch
 my-socks.ch
@@ -1690,7 +1685,6 @@ my-studium.ch
 my-stuff.ch
 my-stweg.ch
 my-styl.ch
-my-style.ch
 my-stylebox.ch
 my-styling.ch
 my-sugar-babe.ch
@@ -1704,7 +1698,6 @@ my-sun.ch
 my-sunny-side-up.ch
 my-sunrise.ch
 my-sup.ch
-my-super-test-domain.ch
 my-superbrands.ch
 my-superfoods.ch
 my-supply.ch
@@ -1717,6 +1710,7 @@ my-survival.ch
 my-sushi.ch
 my-sustainability.ch
 my-suva.ch
+my-svaeasy.ch
 my-sweeper.ch
 my-sweethome.ch
 my-sweety.ch
@@ -1938,7 +1932,6 @@ my-web.ch
 my-webagency.ch
 my-webcopy.ch
 my-webdesign.ch
-my-webdesigner.ch
 my-webid.ch
 my-weblife.ch
 my-weblogin.ch
@@ -2197,6 +2190,7 @@ myafricangirl.ch
 myafroshop.ch
 myafs.ch
 myafterpay.ch
+myafterworkclub.ch
 myag.ch
 myagathon.ch
 myage.ch
@@ -2649,7 +2643,6 @@ mybat.ch
 mybath.ch
 mybathbrand.ch
 mybati.ch
-mybatiment.ch
 mybatrenovation.ch
 mybattery.ch
 mybau.ch
@@ -2794,10 +2787,10 @@ mybesa.ch
 mybesson.ch
 mybest-shop.ch
 mybest.ch
-mybestbrand.ch
 mybestbrands.ch
 mybestbusiness.ch
 mybestcar.ch
+mybestcasino.ch
 mybestcloud.ch
 mybestcoach.ch
 mybestcompany.ch
@@ -3069,7 +3062,6 @@ mybooks.ch
 mybookstore.ch
 myboomer.ch
 mybooq.ch
-myboost.ch
 mybooster.ch
 myboosties.ch
 mybootcamp.ch
@@ -3323,7 +3315,6 @@ mycalifornia.ch
 mycaliforniadream.ch
 mycaliventure.ch
 mycall.ch
-mycalm.ch
 mycalmy.ch
 mycalo.ch
 mycalories.ch
@@ -3395,7 +3386,6 @@ mycardiacvalve.ch
 mycardio.ch
 mycardis.ch
 mycardocuments.ch
-mycards.ch
 mycardshop.ch
 mycardz.ch
 mycare-safety.ch
@@ -3449,7 +3439,6 @@ mycarrepnet.ch
 mycarrot.ch
 mycars.ch
 mycars24.ch
-mycarservice.ch
 mycarsharing.ch
 mycarspa.ch
 mycart.ch
@@ -3795,7 +3784,6 @@ myclinicsagl.ch
 myclinicspinalflow.ch
 myclinique.ch
 myclio.ch
-myclip.ch
 myclips.ch
 mycloby.ch
 myclock.ch
@@ -3872,7 +3860,6 @@ mycochleaimplant.ch
 mycocker.ch
 mycockpit.ch
 mycoco.ch
-mycocoon.ch
 mycocooningandmore.ch
 mycocooninghome.ch
 mycocoonstore.ch
@@ -3941,9 +3928,7 @@ mycomonthey.ch
 mycomp.ch
 mycompanion.ch
 mycompanion24.ch
-mycompany-car.ch
 mycompany.ch
-mycompanycar.ch
 mycompanyco2.ch
 mycompanydna.ch
 mycompanydomain.ch
@@ -4336,7 +4321,6 @@ mydeckel.ch
 mydeco.ch
 mydecoandmore.ch
 mydecobox.ch
-mydecochoice.ch
 mydecor.ch
 mydecorator.ch
 mydecouverte.ch
@@ -4652,6 +4636,7 @@ mydrice.ch
 mydrink.ch
 mydrinkcontrol.ch
 mydrinkonline.ch
+mydrinkshop.ch
 mydrip.ch
 mydrivalia.ch
 mydrive.ch
@@ -4998,7 +4983,6 @@ myev.ch
 myeval.ch
 myevent-planner.ch
 myevent.ch
-myeventdj.ch
 myeventnavigator.ch
 myeventpackage.ch
 myeventplanner.ch
@@ -5494,6 +5478,7 @@ myfrequency.ch
 myfreseniuskabi.ch
 myfresh.ch
 myfreshdelmonte.ch
+myfreshdrink.ch
 myfrey.ch
 myfreya.ch
 myfribourg-culture.ch
@@ -5635,6 +5620,7 @@ mygeneva.ch
 mygenevaconcierge.ch
 mygenie.ch
 mygenion.ch
+mygenius.ch
 mygenmabstory.ch
 mygeno.ch
 mygenteel.ch
@@ -6187,7 +6173,6 @@ myhomecontrol.ch
 myhomecraft.ch
 myhomedesk.ch
 myhomedirect.ch
-myhomefapa.ch
 myhomefs.ch
 myhomegarden.ch
 myhomegate.ch
@@ -6227,11 +6212,9 @@ myhomeservice.ch
 myhomeservice24.ch
 myhomeshop24.ch
 myhomespring.ch
-myhomestage.ch
 myhomestay.ch
 myhomestory.ch
 myhomestuff.ch
-myhomestyling.ch
 myhomestylist.ch
 myhomeswisshome.ch
 myhometransprojekt.ch
@@ -6634,6 +6617,7 @@ myjobcoaching.ch
 myjobcompany.ch
 myjobdesign.ch
 myjobdna.ch
+myjobestsuisse.ch
 myjobex.ch
 myjobhunter.ch
 myjobinmap.ch
@@ -6882,6 +6866,7 @@ myksuite.ch
 myksw.ch
 mykubuntu.ch
 mykuckuck.ch
+mykudlov.ch
 mykuesnacht.ch
 mykugelhopf.ch
 mykuh.ch
@@ -7008,6 +6993,7 @@ mylbb.ch
 mylbudget.ch
 myld.ch
 myle-bern.ch
+myle-restaurant.ch
 myle.ch
 mylea.ch
 myleaco.ch
@@ -7511,6 +7497,7 @@ mymacz.ch
 mymada.ch
 mymaeder.ch
 mymag24.ch
+mymagazine.ch
 mymagazines.ch
 mymagic.ch
 mymagicalenergy.ch
@@ -7528,6 +7515,7 @@ mymagistral.ch
 mymagnet.ch
 mymagnets.ch
 mymaid.ch
+mymail.ch
 mymail24.ch
 mymail365.ch
 mymail42.ch
@@ -7600,6 +7588,7 @@ mymat.ch
 mymatch.ch
 mymatcha.ch
 mymatchaharmony.ch
+mymatchamoments.ch
 mymate.ch
 mymateco.ch
 mymatelas.ch
@@ -7709,6 +7698,7 @@ mymerchandise.ch
 mymerida.ch
 mymerzaesthetics.ch
 mymerzaestheticslonayplo.ch
+mymesis.ch
 mymesource.ch
 mymessage.ch
 mymessage4you.ch
@@ -7774,7 +7764,6 @@ myminicakes.ch
 myminigolf.ch
 myminijob.ch
 myminimalist.ch
-myminime.ch
 myminiserver.ch
 myministry.ch
 myminotel.ch
@@ -7887,7 +7876,6 @@ mymovie.ch
 mymoving.ch
 mymovingpartner.ch
 mymovit.ch
-mymovmnt.ch
 mymoya.ch
 mymoyo.ch
 mymp.ch
@@ -8185,6 +8173,7 @@ myntopia.ch
 myntpro.ch
 myntree.ch
 myntro.ch
+myntrocollect.ch
 mynttree.ch
 mynude.ch
 mynudgeplan.ch
@@ -8432,6 +8421,7 @@ myopie-lausanne.ch
 myopie-management.ch
 myopie-praxis.ch
 myopie.ch
+myopiebrille.ch
 myopiecenter.ch
 myopiecentrum.ch
 myopieklinik.ch
@@ -8736,7 +8726,6 @@ mypepperhub.ch
 myperca.ch
 myperenoel.ch
 myperf.ch
-myperfectapp.ch
 myperfectbrands.ch
 myperfectcar.ch
 myperfectcoverletter.ch
@@ -8918,6 +8907,7 @@ mypipo.ch
 mypircher.ch
 mypistor.ch
 mypit.ch
+mypita.ch
 mypitch.ch
 mypix.ch
 mypixel.ch
@@ -9165,6 +9155,7 @@ myprintshop.ch
 myprinz.ch
 myprivacy.ch
 myprivacydelights.ch
+myprivatbox.ch
 myprivate-places.ch
 myprivate-search.ch
 myprivate.ch
@@ -9775,7 +9766,6 @@ myrtabuschor.ch
 myrtacampomori.ch
 myrtadenia.ch
 myrtafischer.ch
-myrtagrob-rituale.ch
 myrtaholinger.ch
 myrtakaelin.ch
 myrtaramel.ch
@@ -10099,7 +10089,6 @@ mysexycamgirl.ch
 mysexyhomepage.ch
 mysexypartner.ch
 mysexyswitzerland.ch
-mysezon.ch
 mysf.ch
 mysg.ch
 mysgp.ch
@@ -10386,7 +10375,6 @@ mysocialengagement.ch
 mysocialmediamentor.ch
 mysocialnetworks.ch
 mysocialstart.ch
-mysocialtv.ch
 mysociety.ch
 mysocken.ch
 mysocks.ch
@@ -10448,7 +10436,6 @@ mysonderegger.ch
 mysong.ch
 mysongs.ch
 mysonicdx.ch
-mysono.ch
 mysook.ch
 mysoom.ch
 mysophie.ch
@@ -10649,6 +10636,7 @@ mysterie.ch
 mysteriendramen.ch
 mysteriendramenensemble-basel.ch
 mysterienschule.ch
+mysteriesdasoriginal.ch
 mysterio.ch
 mysterion.ch
 mysterioso.ch
@@ -10861,7 +10849,6 @@ mystique-mix.ch
 mystique-peinture.ch
 mystique-pole-dance.ch
 mystique-watches.ch
-mystique.ch
 mystiquehall.ch
 mystiquemix.ch
 mystiqueroom.ch
@@ -10982,7 +10969,6 @@ mysuggest.ch
 mysugr.ch
 mysuiseki.ch
 mysuisse.ch
-mysuissecard.ch
 mysuisselogin.ch
 mysuissess.ch
 mysuite.ch
@@ -11051,6 +11037,8 @@ mysustainablerealestate.ch
 mysuunto.ch
 mysuva.ch
 mysv.ch
+mysva-easy.ch
+mysvaeasy.ch
 mysvag.ch
 mysvd.ch
 mysvit.ch
@@ -11067,7 +11055,6 @@ mysweetchalet.ch
 mysweetcountry.ch
 mysweetdays.ch
 mysweetdiscoveries.ch
-mysweetdog.ch
 mysweeterland.ch
 mysweetescape.ch
 mysweetheart.ch
@@ -11313,7 +11300,6 @@ myswitch.ch
 myswitzerhand.ch
 myswitzerladen.ch
 myswitzerland.ch
-myswitzerlandcard.ch
 myswitzerlandcasino.ch
 myswitzerlandcasinos.ch
 myswitzerlandmail.ch
@@ -11348,7 +11334,6 @@ myszkbblackcard.ch
 myszkowski.ch
 myt.ch
 myta.ch
-mytab.ch
 mytabak.ch
 mytabakonline.ch
 mytabeka.ch
@@ -11398,7 +11383,6 @@ mytap.ch
 mytapit.ch
 mytas.ch
 mytaste.ch
-mytasteaway.ch
 mytasty.ch
 mytatil.ch
 mytattooconvention.ch
@@ -11517,8 +11501,6 @@ mytess.ch
 mytessin.ch
 mytest.ch
 mytestdomain.ch
-mytestdomain1.ch
-mytestdomain2.ch
 mytestlab.ch
 mytestpage.ch
 mytests.ch
@@ -11853,7 +11835,6 @@ mytoys-gifting.ch
 mytoys-gifts.ch
 mytoys-group.ch
 mytoys-gruppe.ch
-mytoys-hilft.ch
 mytoys-kartenmacherei.ch
 mytoys-kindergeburtstag.ch
 mytoys-online.ch
@@ -11870,7 +11851,6 @@ mytoysgifting.ch
 mytoysgifts.ch
 mytoysgroup.ch
 mytoysgruppe.ch
-mytoyshilft.ch
 mytoyskartenmacherei.ch
 mytoyspersonalisiertegeschenke.ch
 mytoyspresents.ch
@@ -11906,7 +11886,6 @@ mytrainingfactory.ch
 mytrains.ch
 mytrainticket.ch
 mytraiteur.ch
-mytrans.ch
 mytransfer.ch
 mytransfers.ch
 mytransit.ch
@@ -12071,7 +12050,6 @@ myunidays.ch
 myunifarco.ch
 myuniform.ch
 myuniforme.ch
-myuniformes.ch
 myunifr.ch
 myunihockeyshop.ch
 myunikat.ch
@@ -12186,11 +12164,11 @@ myvelo.ch
 myvelopartner.ch
 myvelvetpaw.ch
 myvelvetpaws.ch
-myvenise.ch
 myvenita.ch
 myventure.ch
 myvenue.ch
 myveo.ch
+myveonis.ch
 myver-sellerie.ch
 myverbier.ch
 myvergleich.ch
@@ -12294,7 +12272,6 @@ myvisiontv.ch
 myvisits.ch
 myvisual.ch
 myvisuals.ch
-myvisure.ch
 myvita-plus.ch
 myvita.ch
 myvitae.ch
@@ -12317,6 +12294,7 @@ myvivapizza.ch
 myvivenda.ch
 myvivo.ch
 myvivoy.ch
+myvizion.ch
 myvizual.ch
 myvkazu.ch
 myvku-lu.ch
