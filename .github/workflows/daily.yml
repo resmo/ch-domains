@@ -1,0 +1,28 @@
+name: Daily Update .ch Domains
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+jobs:
+  run-daily-task:
+    name: update
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Run daily update script
+        run: |
+          ./query.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ./ch
+          git commit -m 'Daily update of latest .ch domains' || echo "No changes to commit"
+          git push origin HEAD:main
