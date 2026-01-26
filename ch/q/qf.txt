@@ -1,7 +1,7 @@
-qf-1.ch
 qf-cars.ch
 qf-immo.ch
-qf1.ch
+qf2.ch
+qfab.ch
 qfag.ch
 qfaktur.ch
 qfc.ch
@@ -14,13 +14,15 @@ qfe.ch
 qfellas.ch
 qff.ch
 qfg.ch
+qfh.ch
 qfi.ch
 qfiber.ch
+qfiberswiss.ch
 qfield.ch
 qfin-finishing.ch
+qfinis.ch
 qfiniti.ch
 qfire.ch
-qfis.ch
 qfive95.ch
 qfix.ch
 qfixx.ch
@@ -31,7 +33,6 @@ qflm.ch
 qfm.ch
 qfn.ch
 qfo.ch
-qfood.ch
 qforce.ch
 qfort.ch
 qfortticino.ch
@@ -44,5 +45,6 @@ qfrbern.ch
 qfs-konto.ch
 qfs.ch
 qft.ch
+qfuture.ch
 qfx.ch
 qfy.ch

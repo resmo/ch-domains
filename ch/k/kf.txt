@@ -37,7 +37,6 @@ kfa-tg.ch
 kfa-thurgau.ch
 kfa.ch
 kfaber.ch
-kfabrik.ch
 kfag.ch
 kfaktor.ch
 kfaktory.ch
@@ -99,11 +98,11 @@ kfg-safenwil.ch
 kfg-sargans.ch
 kfg.ch
 kfga.ch
-kfgb.ch
 kfgl.ch
 kfgonzen.ch
 kfh-hypotheken.ch
 kfh.ch
+kfh2026.ch
 kfhg.ch
 kfhinfo.ch
 kfhm.ch
@@ -136,6 +135,7 @@ kfka.ch
 kfkag.ch
 kfkalender.ch
 kfkfrutigen.ch
+kfkn.ch
 kfks.ch
 kfl.ch
 kfla.ch
@@ -159,6 +159,7 @@ kfm-switzerland.ch
 kfm.ch
 kfmail.ch
 kfmakeup.ch
+kfmanagement.ch
 kfmanager.ch
 kfmapp.ch
 kfmcrew.ch
@@ -186,15 +187,11 @@ kfmv-winterthur.ch
 kfmv-zuerich.ch
 kfmv-zurich.ch
 kfmv.ch
-kfmvseminare.ch
 kfmvwbp.ch
 kfmvwinterthur.ch
-kfmvzuerich.ch
 kfn-ag.ch
 kfn.ch
-kfnc.ch
 kfnmail.ch
-kfntgeneve.ch
 kfnuba.ch
 kfnubaswiss.ch
 kfo-aarau.ch
@@ -218,6 +215,7 @@ kfo-faessler.ch
 kfo-frutigen.ch
 kfo-glattbrugg.ch
 kfo-hensel.ch
+kfo-hochbord.ch
 kfo-interlaken.ch
 kfo-jaun.ch
 kfo-kandertal.ch
@@ -239,6 +237,7 @@ kfo-spalentor.ch
 kfo-stans.ch
 kfo-steinenring.ch
 kfo-suisse.ch
+kfo-thun.ch
 kfo-uschter77.ch
 kfo-uster77.ch
 kfo-uzwil.ch
@@ -253,7 +252,9 @@ kfo-zuerich.ch
 kfo.ch
 kfoaargau.ch
 kfofrutigen.ch
+kfohochbord.ch
 kfokandertal.ch
+kfokreditafinanz.ch
 kfol.ch
 kfollow.ch
 kfom.ch
@@ -270,12 +271,13 @@ kfp-shop.ch
 kfp.ch
 kfpe.ch
 kfpeinture.ch
+kfperformance.ch
 kfpersonaltraining.ch
 kfphotography.ch
+kfprestige.ch
 kfprinz.ch
 kfr-fileservices.ch
 kfr.ch
-kfrancis.ch
 kfreiburghaus.ch
 kfreprog.ch
 kfretz.ch
@@ -284,10 +286,8 @@ kfrmediothek.ch
 kfrnv.ch
 kfro.ch
 kfrs.ch
-kfrsport.ch
 kfs-immo.ch
 kfs-kanal-service.ch
-kfs-metall.ch
 kfs-naters.ch
 kfs-schweiz.ch
 kfs-werbegestaltung.ch
@@ -299,15 +299,10 @@ kfskanalservice.ch
 kfsolution.ch
 kfssg.ch
 kfswiss.ch
-kft-design.ch
-kft-web.ch
 kft.ch
-kftdesign.ch
 kftg.ch
 kftplus.ch
-kfu.ch
 kfv-arlesheim.ch
-kfv-bl.ch
 kfv-gr.ch
 kfv-zeiningen.ch
 kfv-zh.ch
@@ -324,7 +319,6 @@ kfweb.ch
 kfx.ch
 kfy.ch
 kfz-anhaenger.ch
-kfz-ankauf.ch
 kfz-anzeigen.ch
 kfz-boxx.ch
 kfz-dealer.ch
@@ -355,7 +349,6 @@ kfz-schadenexpert.ch
 kfz-schutzdecken.ch
 kfz-service.ch
 kfz-shop.ch
-kfz-steuer.ch
 kfz-technik.ch
 kfz-teile.ch
 kfz-tool.ch
@@ -364,7 +357,6 @@ kfz-versicherung.ch
 kfz-versicherungen.ch
 kfz-werkstatt.ch
 kfz-werkzeug-mieten.ch
-kfz-zulassung.ch
 kfz.ch
 kfz24.ch
 kfzag.ch
@@ -386,7 +378,7 @@ kfzmarkt.ch
 kfzpflegewelt.ch
 kfzrechner.ch
 kfzsachverstaendiger.ch
-kfzschaden-melden.ch
+kfzschluesseldienst.ch
 kfzservice.ch
 kfzservices.ch
 kfzshop.ch

@@ -1,3 +1,4 @@
+b--family.ch
 b--ger.ch
 b--s.ch
 b-1.ch
@@ -7,10 +8,12 @@ b-12.ch
 b-15.ch
 b-18.ch
 b-180.ch
+b-19.ch
 b-2-b.ch
 b-2-c.ch
 b-2.ch
 b-20.ch
+b-21.ch
 b-22.ch
 b-28.ch
 b-3.ch
@@ -34,7 +37,6 @@ b-a-n-k.ch
 b-a-p.ch
 b-a-r-f.ch
 b-a-r.ch
-b-a-s-t-a.ch
 b-a-s.ch
 b-a-schweiz-bau.ch
 b-a-thaimassage.ch
@@ -55,14 +57,12 @@ b-agility.ch
 b-ahead.ch
 b-ai.ch
 b-air.ch
-b-alance.ch
 b-alined.ch
 b-allami.ch
 b-allmend.ch
 b-am.ch
 b-amiasan.ch
 b-and-b.ch
-b-and-j.ch
 b-apart.ch
 b-app.ch
 b-ar.ch
@@ -98,6 +98,7 @@ b-b-z.ch
 b-b.ch
 b-badmoebel.ch
 b-balance.ch
+b-bam.ch
 b-banking.ch
 b-barefoot.ch
 b-barista.ch
@@ -140,6 +141,7 @@ b-boo.ch
 b-boog.ch
 b-books.ch
 b-bordi.ch
+b-bornemann.ch
 b-bot.ch
 b-box.ch
 b-boy.ch
@@ -157,7 +159,6 @@ b-bsolargmbh.ch
 b-bt.ch
 b-btrading.ch
 b-buehlmann.ch
-b-buehne.ch
 b-bundi.ch
 b-burkhard.ch
 b-business-solutions.ch
@@ -234,6 +235,7 @@ b-cool.ch
 b-corp.ch
 b-cosmetic.ch
 b-cosmetics.ch
+b-counting.ch
 b-creation.ch
 b-creativ.ch
 b-creative.ch
@@ -243,6 +245,7 @@ b-ct.ch
 b-ctc.ch
 b-cub.ch
 b-cube.ch
+b-cuisine.ch
 b-culture.ch
 b-cure.ch
 b-cut.ch
@@ -250,7 +253,6 @@ b-cycle.ch
 b-cycles.ch
 b-d-b.ch
 b-d-esign.ch
-b-d-l.ch
 b-d-s-m.ch
 b-d-test.ch
 b-d-v.ch
@@ -267,7 +269,6 @@ b-design-vinyl.ch
 b-design.ch
 b-designer.ch
 b-designs.ch
-b-dev.ch
 b-digital.ch
 b-direct.ch
 b-divers.ch
@@ -320,6 +321,7 @@ b-epic.ch
 b-epicagency.ch
 b-ernst.ch
 b-ersthelfer.ch
+b-essential.ch
 b-estate.ch
 b-esthetics.ch
 b-et-m.ch
@@ -349,6 +351,7 @@ b-fehr.ch
 b-fenster.ch
 b-fercher.ch
 b-fit.ch
+b-fitpromo.ch
 b-fix.ch
 b-flat.ch
 b-flava.ch
@@ -360,8 +363,10 @@ b-flexioninvestors.ch
 b-flexionpartners.ch
 b-floor.ch
 b-floorag.ch
+b-fly.ch
 b-folio.ch
 b-fon.ch
+b-food.ch
 b-force.ch
 b-forge.ch
 b-form.ch
@@ -402,7 +407,6 @@ b-good.ch
 b-gourmet.ch
 b-graf.ch
 b-grafik.ch
-b-grafikdesign.ch
 b-green.ch
 b-group.ch
 b-groupe.ch
@@ -452,6 +456,7 @@ b-immo.ch
 b-immobilien.ch
 b-immobilier.ch
 b-impact.ch
+b-impresadipulizie.ch
 b-in-den-urlaub.ch
 b-in-susch.ch
 b-in.ch
@@ -469,7 +474,6 @@ b-inspired.ch
 b-inspiring.ch
 b-integrated.ch
 b-intense.ch
-b-interiors-realestate.ch
 b-international.ch
 b-invest.ch
 b-investigations.ch
@@ -483,6 +487,7 @@ b-itm.ch
 b-itmedia.ch
 b-its.ch
 b-itservices.ch
+b-itsolutions.ch
 b-iur.ch
 b-j-reno-deco.ch
 b-j.ch
@@ -500,13 +505,13 @@ b-kom.ch
 b-kommunikation.ch
 b-kompetent.ch
 b-komplex-vitamine.ch
-b-komplex.ch
 b-komplexintercell.ch
 b-koncept.ch
 b-kos.ch
 b-kreativ.ch
 b-kreis.ch
 b-krypto.ch
+b-kultur.ch
 b-kurti.ch
 b-l-c.ch
 b-l-d.ch
@@ -519,7 +524,6 @@ b-lamparter.ch
 b-lang.ch
 b-laubscher.ch
 b-law.ch
-b-leaf.ch
 b-learning.ch
 b-leben.ch
 b-legal.ch
@@ -557,13 +561,12 @@ b-lufi.ch
 b-lutz.ch
 b-luved.ch
 b-lux.ch
-b-luxe-hair.ch
-b-luxe.ch
 b-lyss.ch
 b-m-a.ch
 b-m-b.ch
 b-m-c.ch
 b-m-e.ch
+b-m-g.ch
 b-m-h.ch
 b-m-i.ch
 b-m-k.ch
@@ -579,7 +582,6 @@ b-mail-300.ch
 b-mail.ch
 b-major.ch
 b-malen.ch
-b-maler.ch
 b-manage.ch
 b-managed.ch
 b-management.ch
@@ -605,7 +607,6 @@ b-mendel.ch
 b-mercatura.ch
 b-met.ch
 b-metallbau.ch
-b-metalldesign.ch
 b-mg.ch
 b-mgmt.ch
 b-mh.ch
@@ -636,7 +637,6 @@ b-neuenschwander.ch
 b-news.ch
 b-next.ch
 b-nextgroup.ch
-b-nker.ch
 b-no-b.ch
 b-no.ch
 b-nokaj.ch
@@ -681,23 +681,21 @@ b-partnerag.ch
 b-pay.ch
 b-pe.ch
 b-peinture.ch
-b-performanz.ch
 b-permit.ch
 b-photography.ch
-b-pi.ch
 b-pictures.ch
 b-plan.ch
 b-planing.ch
 b-planung.ch
 b-platform.ch
 b-platine.ch
-b-plus-f.ch
 b-plus.ch
 b-pocket.ch
 b-point.ch
 b-positive.ch
 b-post-10000.ch
 b-post-300.ch
+b-post.ch
 b-pr-m.ch
 b-pr.ch
 b-pragmatic.ch
@@ -708,7 +706,6 @@ b-profil.ch
 b-projects.ch
 b-projekt.ch
 b-properties.ch
-b-property.ch
 b-ps.ch
 b-public.ch
 b-punkt.ch
@@ -775,7 +772,6 @@ b-s-s.ch
 b-s-treuhand.ch
 b-s.ch
 b-safe.ch
-b-safer.ch
 b-safety.ch
 b-safety24.ch
 b-sante.ch
@@ -784,6 +780,7 @@ b-saunier-moery.ch
 b-sc.ch
 b-sch.ch
 b-schein.ch
+b-schleuniger.ch
 b-schlunegger.ch
 b-schmuck.ch
 b-schneider.ch
@@ -802,6 +799,7 @@ b-secure.ch
 b-secureservices.ch
 b-seite.ch
 b-sensible.ch
+b-server.ch
 b-services.ch
 b-sf.ch
 b-shakers.ch
@@ -811,6 +809,7 @@ b-sharpe.ch
 b-shic.ch
 b-shop.ch
 b-shopping.ch
+b-si.ch
 b-side.ch
 b-sidemanagement.ch
 b-sides.ch
@@ -820,7 +819,6 @@ b-sis.ch
 b-site.ch
 b-sky.ch
 b-smart-assist.ch
-b-smart-bank.ch
 b-smart.ch
 b-smart4.ch
 b-smartbar.ch
@@ -854,10 +852,12 @@ b-spoke.ch
 b-sport.ch
 b-sports.ch
 b-spot.ch
+b-square.ch
 b-squash.ch
 b-st.ch
 b-staff.ch
 b-stage.ch
+b-stein.ch
 b-stickt.ch
 b-stoff.ch
 b-stoffe.ch
@@ -866,6 +866,7 @@ b-stone.ch
 b-store.ch
 b-storenservice.ch
 b-strategy.ch
+b-street.ch
 b-strong.ch
 b-structure.ch
 b-stucki-treuhand.ch
@@ -887,6 +888,7 @@ b-t-w.ch
 b-t.ch
 b-ta.ch
 b-tailor.ch
+b-targeting.ch
 b-tasty.ch
 b-tattoo-zh.ch
 b-tax.ch
@@ -902,7 +904,6 @@ b-technical.ch
 b-technologies.ch
 b-telligent.ch
 b-texleder.ch
-b-thankful.ch
 b-there.ch
 b-today.ch
 b-ton.ch
@@ -929,11 +930,13 @@ b-tweed.ch
 b-tween.ch
 b-u-c-h.ch
 b-u-n.ch
+b-u-nique.ch
 b-u-z.ch
 b-u.ch
 b-und-a.ch
 b-und-g.ch
 b-und-o.ch
+b-und-p.ch
 b-und-r.ch
 b-und-s.ch
 b-uniq.ch
@@ -963,7 +966,6 @@ b-vertrieb.ch
 b-vg.ch
 b-view.ch
 b-virtual.ch
-b-visible.ch
 b-visions.ch
 b-visual.ch
 b-visuals.ch
@@ -977,7 +979,6 @@ b-w-a.ch
 b-w-b.ch
 b-w-f.ch
 b-w-r.ch
-b-w-s.ch
 b-w.ch
 b-ware.ch
 b-web.ch
@@ -989,6 +990,7 @@ b-weishaupt.ch
 b-welcome.ch
 b-well.ch
 b-well24.ch
+b-wellcoaching.ch
 b-werk-bildung.ch
 b-werk.ch
 b-werk11.ch
@@ -1002,13 +1004,12 @@ b-wirken.ch
 b-wirkt.ch
 b-wise.ch
 b-works.ch
-b-wt.ch
 b-wusst-sein.ch
 b-wusst.ch
 b-x.ch
 b-y-b.ch
+b-y-x.ch
 b-y.ch
-b-yachts.ch
 b-yoga.ch
 b-yond.ch
 b-you.ch

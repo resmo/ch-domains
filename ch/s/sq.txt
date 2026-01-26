@@ -24,11 +24,11 @@ sq1qi.ch
 sq2.ch
 sq24.ch
 sq8.ch
+sq9.ch
 sqa.ch
 sqag.ch
 sqahorn.ch
 sqaix.ch
-sqalar.ch
 sqale.ch
 sqam.ch
 sqan.ch
@@ -91,6 +91,7 @@ sql-performance-explained.ch
 sql-server-backup.ch
 sql-watcher.ch
 sql.ch
+sql4a-download.ch
 sql4automation.ch
 sqlab.ch
 sqladmin.ch
@@ -102,7 +103,6 @@ sqlcloud.ch
 sqlcluster.ch
 sqldatenbank.ch
 sqldb.ch
-sqlguru.ch
 sqli-digital-experience.ch
 sqli.ch
 sqlidigitalexperience.ch
@@ -111,7 +111,6 @@ sqlite.ch
 sqliving.ch
 sqlledger.ch
 sqlmonitoring.ch
-sqlnosql.ch
 sqlperformanceexplained.ch
 sqlprodukte.ch
 sqlprofi.ch
@@ -135,6 +134,7 @@ sqn.ch
 sqnt.ch
 sqnz.ch
 sqo.ch
+sqoc.ch
 sqohalaetzschwarzenburg.ch
 sqone.ch
 sqooba.ch
@@ -145,6 +145,7 @@ sqp.ch
 sqpc.ch
 sqpr.ch
 sqpro.ch
+sqproduct.ch
 sqproducts.ch
 sqps.ch
 sqq.ch
@@ -172,16 +173,17 @@ sqs-group.ch
 sqs-shop.ch
 sqs.ch
 sqsag.ch
+sqscapital.ch
 sqsconsulting.ch
 sqships.ch
 sqsn.ch
 sqsolutions.ch
 sqsrv.ch
-sqt-bio-microneedling.ch
 sqt-biomicroneedling.ch
 sqt-suisse.ch
 sqt-swiss.ch
 sqt.ch
+sqtalwind.ch
 sqtd.ch
 sqtec.ch
 sqtest.ch
@@ -190,6 +192,7 @@ sqti.ch
 sqtms.ch
 sqts.ch
 squ.ch
+squ4n.ch
 squ4re.ch
 squa.ch
 squaball.ch
@@ -199,6 +202,7 @@ squadbotik.ch
 squadbusters.ch
 squadgroup.ch
 squadhelp.ch
+squadlink.ch
 squadplanner.ch
 squadquity.ch
 squadra-mosquito.ch
@@ -222,7 +226,6 @@ squadrat-architekten.ch
 squadrat.ch
 squadratuermli.ch
 squadrawork.ch
-squadro.ch
 squadron-combat.ch
 squadron.ch
 squadron42.ch
@@ -234,6 +237,7 @@ squal.ch
 squalan.ch
 squale.ch
 squalepictures.ch
+squalewatches.ch
 squality.ch
 squalli.ch
 squallisolution.ch
@@ -246,8 +250,6 @@ squan.ch
 squap.ch
 squape.ch
 squar.ch
-squar3.ch
-squaratti.ch
 square-architectes.ch
 square-bar.ch
 square-bars.ch
@@ -258,7 +260,6 @@ square-d.ch
 square-gambetta.ch
 square-gold.ch
 square-immobilier.ch
-square-int.ch
 square-investments.ch
 square-it.ch
 square-kloten.ch
@@ -332,6 +333,7 @@ squarely.ch
 squaremeter.ch
 squaremoon.ch
 squarenest.ch
+squarenews.ch
 squareone-coaching.ch
 squareone.ch
 squareoneresources.ch
@@ -360,7 +362,6 @@ squarimo.ch
 squarinvest.ch
 squark.ch
 squarlo.ch
-squartefano.ch
 squash-arena.ch
 squash-baselland.ch
 squash-bellach.ch
@@ -389,6 +390,7 @@ squashaddict.ch
 squasharena-sursee.ch
 squasharena.ch
 squasharenasursee.ch
+squashatelier.ch
 squashbern.ch
 squashbuebe.ch
 squashburgdorf.ch
@@ -432,6 +434,7 @@ squashpark.ch
 squashpay.ch
 squashpirates.ch
 squashplayermagazine.ch
+squashpoint.ch
 squashromandie.ch
 squashschwyz.ch
 squashshop.ch
@@ -455,24 +458,25 @@ squaw.ch
 squawk-ai.ch
 squawk.ch
 squawkai.ch
+squd.ch
 squdde.ch
+squdo.ch
 squeak.ch
 squeaker.ch
-squeaky.ch
-squeakysneaks.ch
 squeal.ch
 squeasy.ch
 squeder.ch
 squee.ch
-squeegee.ch
 squeez-records.ch
 squeez.ch
 squeezbee.ch
 squeeze-geneve.ch
 squeeze.ch
 squeezebuddy.ch
+squeezed.ch
 squeezer.ch
 squeezy.ch
+squeezymedia.ch
 squel.ch
 squeng.ch
 squer.ch
@@ -482,7 +486,6 @@ squi.ch
 squib.ch
 squibble.ch
 squid-design.ch
-squid-game-london.ch
 squid-games-studios.ch
 squid-games.ch
 squid-masks.ch
@@ -500,7 +503,6 @@ squido.ch
 squids.ch
 squidstudio.ch
 squidtec.ch
-squidtextil.ch
 squidy.ch
 squiek.ch
 squier.ch
@@ -511,9 +513,7 @@ squiis.ch
 squilat.ch
 squillaci.ch
 squindo.ch
-squipe.ch
 squipp.ch
-squircle.ch
 squireblatti.ch
 squiredesign.ch
 squirella.ch
@@ -526,8 +526,6 @@ squirlart.ch
 squirrally.ch
 squirrel-degens.ch
 squirrel.ch
-squirrelcapital.ch
-squirrelcapitalfund.ch
 squirreldegens.ch
 squirrelfruit.ch
 squirro-gpt.ch
@@ -549,18 +547,18 @@ squisitocigars.ch
 squitch.ch
 squitiongco.ch
 squitofree.ch
-squitos.ch
 squitty.ch
+squittyclub.ch
 squivee.ch
 squix.ch
 squiz.ch
+squizy.ch
 squizz.ch
 squla.ch
 squola.ch
 squri.ch
 squrl.ch
 squua.ch
-sqv2.ch
 sqvape.ch
 sqvapeshop.ch
 sqw.ch

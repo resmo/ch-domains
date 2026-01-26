@@ -50,7 +50,7 @@ h-art-mut.ch
 h-artvision.ch
 h-ausfuehrungen.ch
 h-automation.ch
-h-b-p.ch
+h-b-c.ch
 h-b.ch
 h-badertscher.ch
 h-base-telesales.ch
@@ -59,7 +59,9 @@ h-base.ch
 h-base3.ch
 h-bauleitung.ch
 h-bb.ch
+h-bc.ch
 h-bi.ch
+h-bisol.ch
 h-blumer.ch
 h-bm.ch
 h-boot.ch
@@ -75,7 +77,7 @@ h-c-m.ch
 h-c-p.ch
 h-c.ch
 h-care.ch
-h-chf.ch
+h-cio.ch
 h-cirs.ch
 h-clearing.ch
 h-clofinancial.ch
@@ -91,7 +93,6 @@ h-concept.ch
 h-connect.ch
 h-consult.ch
 h-consulting.ch
-h-cs.ch
 h-csc.ch
 h-d-bern.ch
 h-d-certified.ch
@@ -103,7 +104,6 @@ h-d-moenchaltorf.ch
 h-d-neuchatel.ch
 h-d-occasion.ch
 h-d-r.ch
-h-d-s.ch
 h-d-shop.ch
 h-d-solothurn.ch
 h-d-switzerland.ch
@@ -136,7 +136,6 @@ h-e-y.ch
 h-e.ch
 h-eart.ch
 h-eat.ch
-h-ede.ch
 h-eden.ch
 h-einz.ch
 h-electronics.ch
@@ -154,12 +153,10 @@ h-faktura.ch
 h-finance.ch
 h-flachs.ch
 h-flex.ch
-h-flug.ch
 h-fm.ch
 h-fmea.ch
 h-fokus.ch
 h-forrer.ch
-h-forte.ch
 h-foto.ch
 h-fr.ch
 h-froehlich-ag.ch
@@ -186,7 +183,6 @@ h-h.ch
 h-haus.ch
 h-hauser.ch
 h-hconcept.ch
-h-hebetechnik.ch
 h-helfenstein.ch
 h-hero.ch
 h-hgmbh.ch
@@ -272,7 +268,7 @@ h-m-c.ch
 h-m-care.ch
 h-m-g.ch
 h-m-k.ch
-h-m-s.ch
+h-m-m.ch
 h-m.ch
 h-made.ch
 h-mail.ch
@@ -286,6 +282,7 @@ h-media.ch
 h-meier.ch
 h-meisterag.ch
 h-metallique.ch
+h-mgt.ch
 h-modell.ch
 h-modul.ch
 h-moser.ch
@@ -301,6 +298,7 @@ h-networks.ch
 h-nevel.ch
 h-ni.ch
 h-np.ch
+h-null.ch
 h-nutrition.ch
 h-o-b.ch
 h-o-f.ch
@@ -314,6 +312,7 @@ h-o-ped.ch
 h-o-t-e-l-s.ch
 h-o-z.ch
 h-o.ch
+h-och-events.ch
 h-och.ch
 h-of.ch
 h-online.ch
@@ -331,16 +330,13 @@ h-pa.ch
 h-page.ch
 h-pages.ch
 h-partner.ch
-h-pd.ch
 h-pec.ch
 h-peter-racing.ch
 h-peter.ch
 h-pfotenschule.ch
 h-pharm.ch
 h-pharmazie-benchmark.ch
-h-place.ch
 h-plan-bauplanung.ch
-h-plan-immo.ch
 h-plan-ing.ch
 h-plan.ch
 h-planet.ch
@@ -350,10 +346,8 @@ h-plus.ch
 h-pme.ch
 h-power.ch
 h-praxis.ch
-h-presso.ch
 h-pro-service.ch
 h-pro.ch
-h-prod.ch
 h-productions.ch
 h-projekte.ch
 h-protect.ch
@@ -361,7 +355,6 @@ h-ptr.ch
 h-quer.ch
 h-r-b.ch
 h-r-r.ch
-h-r-r1.ch
 h-r.ch
 h-ramseier.ch
 h-rb.ch
@@ -385,6 +378,7 @@ h-s-l.ch
 h-s-mels.ch
 h-s-montagen.ch
 h-s-quality-service.ch
+h-s-s.ch
 h-s-service-batiments.ch
 h-s.ch
 h-sails.ch
@@ -397,12 +391,10 @@ h-sh.ch
 h-shop.ch
 h-sicherheit.ch
 h-siegenthaler.ch
-h-singh.ch
 h-so.ch
 h-solution.ch
 h-solve.ch
 h-spez.ch
-h-station.ch
 h-steiner-ag.ch
 h-stiftung.ch
 h-stoller.ch
@@ -411,6 +403,7 @@ h-studio-ar.ch
 h-supplier.ch
 h-supply.ch
 h-t-b.ch
+h-t-i.ch
 h-t-p.ch
 h-t.ch
 h-tag.ch
@@ -421,7 +414,6 @@ h-teamgmbh.ch
 h-tec.ch
 h-tech.ch
 h-technik.ch
-h-technologies.ch
 h-teuscherag.ch
 h-therm.ch
 h-tipp.ch
@@ -434,7 +426,6 @@ h-treuhand.ch
 h-tu.ch
 h-two.ch
 h-u-b.ch
-h-u-m-a-n.ch
 h-u-p.ch
 h-u-steger.ch
 h-u.ch
@@ -444,7 +435,6 @@ h-v-gbg.ch
 h-v-t.ch
 h-v-u.ch
 h-v.ch
-h-vauclair.ch
 h-vision.ch
 h-visuals.ch
 h-vogelsanger.ch
@@ -452,6 +442,7 @@ h-vondamm.ch
 h-vs.ch
 h-vv.ch
 h-w-g.ch
+h-w-p-loertscher.ch
 h-w.ch
 h-walder.ch
 h-watcher.ch
@@ -461,6 +452,7 @@ h-webbuilder.ch
 h-webshop.ch
 h-werk.ch
 h-wildhaber.ch
+h-wise.ch
 h-world.ch
 h-ws.ch
 h-x.ch

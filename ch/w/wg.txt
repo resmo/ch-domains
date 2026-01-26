@@ -17,7 +17,6 @@ wg-butler.ch
 wg-care.ch
 wg-check.ch
 wg-chramershus.ch
-wg-consulting.ch
 wg-drehpunkt.ch
 wg-espenstrasse.ch
 wg-finden.ch
@@ -39,8 +38,6 @@ wg-immosearch.ch
 wg-invest.ch
 wg-joder.ch
 wg-jurablick.ch
-wg-kiste.ch
-wg-konzept.ch
 wg-lenzburg.ch
 wg-lettenhof.ch
 wg-magellan.ch
@@ -65,6 +62,7 @@ wg-paradieshof.ch
 wg-partner.ch
 wg-partners.ch
 wg-party.ch
+wg-planer.ch
 wg-rainallee.ch
 wg-realitaet.ch
 wg-recovery-chur.ch
@@ -78,7 +76,6 @@ wg-schweiz.ch
 wg-sennwald.ch
 wg-solidar.ch
 wg-story.ch
-wg-stube.ch
 wg-suche.ch
 wg-sunnmatt.ch
 wg-talholz-bottmingen.ch
@@ -86,14 +83,15 @@ wg-talholz.ch
 wg-team.ch
 wg-treuhand.ch
 wg-verlag.ch
+wg-vermieten.ch
 wg-villa.ch
 wg-vogelbach.ch
 wg-wettstein.ch
 wg-winterthur.ch
 wg-wohnung.ch
 wg-zaepfehus.ch
+wg-zimmer-finden.ch
 wg-zimmer-interlaken.ch
-wg-zimmer-mieten.ch
 wg-zimmer.ch
 wg-zum-schloessli.ch
 wg-zur-eiche.ch
@@ -114,11 +112,11 @@ wg4.ch
 wg47.ch
 wg4you.ch
 wg6.ch
-wg60up.ch
 wg9.ch
 wga-allenwinden.ch
 wga-spiez.ch
 wga.ch
+wgaba.ch
 wgadmin.ch
 wgael.ch
 wgag.ch
@@ -150,7 +148,6 @@ wgbrainstorm.ch
 wgbreite.ch
 wgbrueggli.ch
 wgbs.ch
-wgbuddies.ch
 wgbuehl.ch
 wgbuendnerstrasse.ch
 wgbutler.ch
@@ -177,6 +174,7 @@ wgeichhorn.ch
 wgelato.ch
 wgeosoft.ch
 wgestion.ch
+wget.ch
 wgf.ch
 wgfilou.ch
 wgfinstersee.ch
@@ -221,11 +219,11 @@ wgit.ch
 wgj.ch
 wgk.ch
 wgk10.ch
-wgkiste.ch
 wgkohlplatz.ch
 wgl-burgdorf.ch
 wgl.ch
 wglab.ch
+wglan.ch
 wglandhof.ch
 wglaufenstrasse.ch
 wglauser.ch
@@ -251,12 +249,10 @@ wgneuewelt.ch
 wgneustart.ch
 wgniederholz.ch
 wgnr.ch
-wgnt.ch
 wgo-oberrueti.ch
 wgo.ch
 wgoberfreifeld.ch
 wgoe.ch
-wgonzalez.ch
 wgoo.ch
 wgoodcompany.ch
 wgora.ch
@@ -265,13 +261,13 @@ wgp-muttenz.ch
 wgp.ch
 wgpartners.ch
 wgparty.ch
+wgplaner.ch
 wgplus.ch
 wgportal.ch
 wgq.ch
 wgr-rotkreuz.ch
 wgr.ch
 wgraphic.ch
-wgrappi.ch
 wgrb.ch
 wgrcommunication.ch
 wgremingerstiftung.ch
@@ -285,6 +281,7 @@ wgroup.ch
 wgroupsuisse.ch
 wgrp.ch
 wgs-bb.ch
+wgs-gmbh.ch
 wgs-massage.ch
 wgs-sunehalde.ch
 wgs.ch
@@ -350,5 +347,6 @@ wgzimmer.ch
 wgzimmerinterlaken.ch
 wgzimmersuche.ch
 wgzimmertoesstal.ch
+wgzug.ch
 wgzumblauen.ch
 wgzumikon.ch

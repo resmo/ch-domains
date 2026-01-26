@@ -15,6 +15,7 @@ fn-holzbau.ch
 fn-informatik.ch
 fn-kino.ch
 fn-libro.ch
+fn-motor.ch
 fn-multimanagement.ch
 fn-net.ch
 fn-neuenkirch.ch
@@ -22,7 +23,6 @@ fn-online.ch
 fn-photography.ch
 fn-portfolio.ch
 fn-radio.ch
-fn-reg.ch
 fn-reise-kiosk.ch
 fn-reisekiosk.ch
 fn-solutions.ch
@@ -30,7 +30,6 @@ fn-taxi.ch
 fn-vivo.ch
 fn-werkzeug.ch
 fn-werkzeuge.ch
-fn-win.ch
 fn07.ch
 fn1.ch
 fn2.ch
@@ -75,12 +74,10 @@ fnautomobile.ch
 fnavarro.ch
 fnb-bau.ch
 fnb-connect.ch
-fnb-fenster.ch
 fnb-fensterhandel.ch
 fnb-law.ch
 fnb-myanmar-support.ch
 fnb-support-myanmar.ch
-fnb-tool.ch
 fnb.ch
 fnbalance.ch
 fnbau.ch
@@ -93,6 +90,7 @@ fnbuergin.ch
 fnc.ch
 fncapitalag.ch
 fnch.ch
+fnci.ch
 fncid.ch
 fnclaw.ch
 fncleanroom.ch
@@ -112,6 +110,7 @@ fnec.ch
 fneg.ch
 fner.ch
 fnerd.ch
+fnerds.ch
 fnet-lab.ch
 fnet.ch
 fnetcore.ch
@@ -131,6 +130,7 @@ fngng.ch
 fngroup.ch
 fnh-group.ch
 fnh-training.ch
+fnh.ch
 fnhb-ag.ch
 fnhb.ch
 fnhg.ch
@@ -146,7 +146,6 @@ fnicolier.ch
 fnimmobau.ch
 fnissels.ch
 fnj.ch
-fnjinkdesigns.ch
 fnk.ch
 fnkino.ch
 fnky.ch
@@ -179,7 +178,6 @@ fnpdigital.ch
 fnpg.ch
 fnpglive.ch
 fnplan.ch
-fnplus.ch
 fnproject.ch
 fnps.ch
 fnq.ch

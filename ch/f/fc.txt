@@ -22,6 +22,7 @@ fc-besa.ch
 fc-bettlach.ch
 fc-bevaix.ch
 fc-bex.ch
+fc-biberist.ch
 fc-birsfelden.ch
 fc-blau-weiss-erlenbach.ch
 fc-blauweiss-erlenbach.ch
@@ -31,6 +32,7 @@ fc-bramois.ch
 fc-buelach.ch
 fc-bwo.ch
 fc-cadenazzo.ch
+fc-cc.ch
 fc-celerina.ch
 fc-central.ch
 fc-champagne.ch
@@ -41,7 +43,6 @@ fc-chermignon.ch
 fc-cheseaux.ch
 fc-chilesport.ch
 fc-cmc.ch
-fc-coaching.ch
 fc-collinadoro.ch
 fc-colombier.ch
 fc-comete.ch
@@ -56,7 +57,6 @@ fc-courfaivre.ch
 fc-courrendlin-courroux.ch
 fc-courroux-courrendlin.ch
 fc-cpm.ch
-fc-cps.ch
 fc-cs.ch
 fc-csl.ch
 fc-cugy-montet-aumont-murist.ch
@@ -89,11 +89,13 @@ fc-fotografie.ch
 fc-freienbach.ch
 fc-froideville.ch
 fc-gams.ch
+fc-gastronomie.ch
 fc-gerlafingen.ch
 fc-glane-nord.ch
 fc-glattfelden.ch
 fc-gossau-frauen.ch
 fc-gossau.ch
+fc-grandson.ch
 fc-granges-paccot.ch
 fc-grone.ch
 fc-gruppe.ch
@@ -141,7 +143,6 @@ fc-niederbipp.ch
 fc-niederwil.ch
 fc-oberdorf.ch
 fc-oberrieden.ch
-fc-oberwallis.ch
 fc-optic.ch
 fc-oranje.ch
 fc-orsieres.ch
@@ -149,7 +150,6 @@ fc-pc.ch
 fc-photography.ch
 fc-players.ch
 fc-plo-1930.ch
-fc-polizei.ch
 fc-portalban-gletterens.ch
 fc-prez.ch
 fc-puplinge.ch
@@ -178,7 +178,6 @@ fc-solothurn.ch
 fc-solutions.ch
 fc-sonnenberg.ch
 fc-st-maurice.ch
-fc-st-silvester.ch
 fc-staefa.ch
 fc-steckborn.ch
 fc-steg.ch
@@ -187,9 +186,11 @@ fc-suisse.ch
 fc-sursee.ch
 fc-suryoye.ch
 fc-svizzera.ch
+fc-sys.ch
 fc-taegerwilen.ch
 fc-technik.ch
 fc-thun.ch
+fc-tls.ch
 fc-translation.ch
 fc-translations.ch
 fc-troistorrents.ch
@@ -197,7 +198,6 @@ fc-uhj.ch
 fc-united.ch
 fc-untervaz.ch
 fc-urnaesch.ch
-fc-uz.ch
 fc-valais.ch
 fc-veltheim.ch
 fc-vernayaz.ch
@@ -220,6 +220,10 @@ fc170.ch
 fc2s.ch
 fc4y.ch
 fc72homefurniture.ch
+fc8000.ch
+fc8400.ch
+fc8413.ch
+fc8472.ch
 fc88.ch
 fc90.ch
 fca-fanshop.ch
@@ -262,12 +266,12 @@ fcafleetservices.ch
 fcaforum.ch
 fcag.ch
 fcagfiduciaire.ch
-fcagno.ch
 fcagroup.ch
 fcaheritage.ch
 fcai.ch
 fcaigle.ch
 fcaigle1897.ch
+fcajm.ch
 fcal.ch
 fcalbania.ch
 fcall.ch
@@ -297,6 +301,7 @@ fcappenzell.ch
 fcaproz.ch
 fcaquila.ch
 fcarbon.ch
+fcard.ch
 fcardon.ch
 fcarisch.ch
 fcarisdorf.ch
@@ -340,7 +345,6 @@ fcb.ch
 fcb1913.ch
 fcb2020.ch
 fcb4ever.ch
-fcb8.ch
 fcbaar-juniorenlager.ch
 fcbaar-supporter-vereinigung.ch
 fcbaar.ch
@@ -359,7 +363,7 @@ fcbasel.ch
 fcbasel1.ch
 fcbaselesports.ch
 fcbaselfanshop.ch
-fcbaselkritik.ch
+fcbaselgaming.ch
 fcbaselshirt.ch
 fcbaselshirts.ch
 fcbaseltrikot.ch
@@ -388,7 +392,6 @@ fcbelprahon.ch
 fcberingen.ch
 fcbern.ch
 fcbern1894.ch
-fcberoche.ch
 fcbesa-biel.ch
 fcbesa.ch
 fcbesa05.ch
@@ -397,7 +400,6 @@ fcbethlehem-cup.ch
 fcbethlehem.ch
 fcbf.ch
 fcbfan1.ch
-fcbfanclubs.ch
 fcbfanshop.ch
 fcbforum.ch
 fcbfrauen.ch
@@ -476,6 +478,7 @@ fcbulle.ch
 fcbundesfinanz.ch
 fcbure.ch
 fcburgelon.ch
+fcburger.ch
 fcbursinsrolleperroy.ch
 fcbussigny.ch
 fcbuttikon.ch
@@ -486,6 +489,7 @@ fcbvb.ch
 fcbw.ch
 fcbwe.ch
 fcbzuerich.ch
+fcc-fsd.ch
 fcc-vd.ch
 fcc.ch
 fccadenazzo.ch
@@ -499,8 +503,8 @@ fccdataprivacy.ch
 fccdf.ch
 fcceresio.ch
 fccframework.ch
-fccg.ch
 fccge.ch
+fccgj.ch
 fccgroup.ch
 fcch.ch
 fcchain.ch
@@ -531,8 +535,8 @@ fccmobilityworks.ch
 fccn.ch
 fccnet.ch
 fcco.ch
+fccoaching.ch
 fccoeuve.ch
-fccoffrane.ch
 fccoheran.ch
 fccollexbossy.ch
 fccollinadoro.ch
@@ -547,6 +551,7 @@ fccornaux.ch
 fccossonay.ch
 fccourchapoix.ch
 fccourgevaux.ch
+fccourrendlin.ch
 fccourt.ch
 fccourtepineshop.ch
 fccourtetelle.ch
@@ -570,6 +575,7 @@ fcdagmersellen.ch
 fcdardanet.ch
 fcdardania.ch
 fcdavos.ch
+fcdc-nendaz2024.ch
 fcdc.ch
 fcdd.ch
 fcdd15.ch
@@ -585,6 +591,7 @@ fcdg.ch
 fcdhaciers.ch
 fcdiaspora.ch
 fcdiaspora2014.ch
+fcdidi.ch
 fcdielsdorf.ch
 fcdiepoldsau-schmitter.ch
 fcdiepoldsau.ch
@@ -689,6 +696,7 @@ fcfm.ch
 fcfontainemelon.ch
 fcfontenais.ch
 fcfootballtickets.ch
+fcforarri.ch
 fcfortuna.ch
 fcfortunaolten.ch
 fcfortunathun.ch
@@ -726,7 +734,6 @@ fcg-suisse.ch
 fcg-svizzera.ch
 fcg-swiss.ch
 fcg-switzerland.ch
-fcg-wil.ch
 fcg-winti.ch
 fcg.ch
 fcga.ch
@@ -793,6 +800,7 @@ fcgrandson.ch
 fcgranges.ch
 fcgreifensee.ch
 fcgrimisuat.ch
+fcgrolley.ch
 fcgrone.ch
 fcgrosswangen.ch
 fcgrotkreuz.ch
@@ -821,7 +829,6 @@ fchapp.ch
 fchappius.ch
 fchappuis.ch
 fchausen.ch
-fchaustechnik.ch
 fchaute-gruyere.ch
 fchaute-sarine.ch
 fchc.ch
@@ -856,12 +863,13 @@ fcil.ch
 fciliria.ch
 fcimmo.ch
 fcimmobilier.ch
+fcin.ch
 fcindustrie.ch
 fcindustrieturicum.ch
-fcinnerschweiz.ch
 fcins.ch
 fcinteriordesign.ch
 fcinterlaken.ch
+fcintervention.ch
 fcintragna.ch
 fcis-partners.ch
 fcis.ch
@@ -887,6 +895,8 @@ fck1905.ch
 fckappel.ch
 fckappelerhof.ch
 fckb.ch
+fckbigt.ch
+fckbigte.ch
 fckbook.ch
 fckcncr.ch
 fckconsulenze.ch
@@ -897,6 +907,7 @@ fckeramik.ch
 fckerns.ch
 fckerzers.ch
 fckestenholz.ch
+fckfren.ch
 fckickers.ch
 fckickersbasel.ch
 fckinggeschenk.ch
@@ -930,6 +941,7 @@ fckuessnacht.ch
 fckuettigen.ch
 fckulm.ch
 fckuma.ch
+fckurde.ch
 fckw.ch
 fckwknss.ch
 fcl-archiv.ch
@@ -940,6 +952,7 @@ fcl-frauen.ch
 fcl-fussballkultur.ch
 fcl-hospitality.ch
 fcl-museum.ch
+fcl-pilatusblick.ch
 fcl-schiedsrichter.ch
 fcl-shop.ch
 fcl-spitzenfussballfrauen.ch
@@ -1032,6 +1045,8 @@ fcluzern.ch
 fcluzernfrauen.ch
 fclvolleyball.ch
 fclwomen.ch
+fcm-app.ch
+fcm-investments.ch
 fcm-lab.ch
 fcm-online.ch
 fcm-protector.ch
@@ -1062,6 +1077,7 @@ fcmbell.ch
 fcme.ch
 fcmedia.ch
 fcmeggen.ch
+fcmeilen-familydays.ch
 fcmeilen.ch
 fcmelchtal.ch
 fcmelide.ch
@@ -1075,12 +1091,14 @@ fcmg.ch
 fcmge.ch
 fcmiege.ch
 fcmilka.ch
+fcmladost.ch
 fcmoderna.ch
 fcmoehlin-riburg.ch
 fcmoenchaltorf.ch
 fcmoerel-filet.ch
 fcmoerel.ch
 fcmontagny.ch
+fcmontbrelloz-finances.ch
 fcmontbrelloz.ch
 fcmontgoulin.ch
 fcmonthey.ch
@@ -1109,6 +1127,7 @@ fcmurten.ch
 fcmusei.ch
 fcmusicpublishing.ch
 fcmutschellen.ch
+fcmv28.ch
 fcn-fasnacht.ch
 fcn-gruempi.ch
 fcn.ch
@@ -1213,12 +1232,13 @@ fcpoliez.ch
 fcpolizei.ch
 fcpoloniabasel.ch
 fcporrentruy.ch
+fcporto.ch
 fcporza.ch
-fcpost.ch
 fcprangins.ch
 fcpratteln.ch
 fcprilly-sports.ch
 fcprilly.ch
+fcprillysports.ch
 fcprintsenendaz.ch
 fcprishtina.ch
 fcpromotions.ch
@@ -1226,7 +1246,6 @@ fcpuplinge.ch
 fcpx.ch
 fcq.ch
 fcqr.ch
-fcr-2023.ch
 fcr-ge.ch
 fcr-valais.ch
 fcracingbcn.ch
@@ -1242,7 +1261,6 @@ fcrbironico.ch
 fcrebstein.ch
 fcrechthalten-stursen.ch
 fcrechthaltenstursen.ch
-fcreconvilier.ch
 fcred-star.ch
 fcregensdorf.ch
 fcreggina-kefikon.ch
@@ -1253,6 +1271,8 @@ fcremigen.ch
 fcrenens.ch
 fcrf.ch
 fcrg17.ch
+fcrh.ch
+fcrhaezuens.ch
 fcrheineck.ch
 fcrheineck2.ch
 fcrheinfelden.ch
@@ -1268,7 +1288,6 @@ fcriva.ch
 fcriviera.ch
 fcrj-juniorinnen.ch
 fcrj.ch
-fcrjbosna.ch
 fcroche.ch
 fcroeschenz.ch
 fcroggwil.ch
@@ -1387,7 +1406,6 @@ fcsignal.ch
 fcsins.ch
 fcsion-feminin.ch
 fcsion-online.ch
-fcsion-valais.ch
 fcsion.ch
 fcsion4ever.ch
 fcsionforever.ch
@@ -1395,6 +1413,7 @@ fcsionkidscamps.ch
 fcsionpourtous.ch
 fcsionshop.ch
 fcsirnach.ch
+fcsiviriez.ch
 fcsl.ch
 fcslavia.ch
 fcslo-association.ch
@@ -1417,12 +1436,13 @@ fcspreitenbach.ch
 fcspycher.ch
 fcsr.ch
 fcsrbija-zh.ch
+fcsrbija1968.ch
 fcsrbija1968basel.ch
+fcss.ch
 fcssa.ch
 fcsstadion.ch
 fcstaad.ch
 fcstabio.ch
-fcstadelausanneouchy.ch
 fcstadenyonnais-sa.ch
 fcstadtbus.ch
 fcstadtverwaltung.ch
@@ -1447,13 +1467,13 @@ fcstleonard.ch
 fcstmargrethen.ch
 fcstpaul.ch
 fcsubingen.ch
-fcsuchy.ch
 fcsuedstern.ch
 fcsuhr.ch
 fcsuisse.ch
 fcsursee.ch
 fcsuryoye.ch
 fcsvizzera.ch
+fcswiss.ch
 fcswissair.ch
 fct-belfaux.ch
 fct-switzerland.ch
@@ -1519,8 +1539,6 @@ fcueberstorf.ch
 fcuefa.ch
 fcuitikon.ch
 fcukinflava.ch
-fcukof.ch
-fcukoff.ch
 fcultras.ch
 fcumzug.ch
 fcunited.ch
@@ -1533,6 +1551,7 @@ fcuster.ch
 fcuster1909.ch
 fcutzenstorf.ch
 fcuznach.ch
+fcuzwil-junioren.ch
 fcuzwil.ch
 fcv-vwg.ch
 fcv.ch
@@ -1560,8 +1579,6 @@ fcversoix.ch
 fcvetroz.ch
 fcveveysports.ch
 fcveveysports05.ch
-fcvg.ch
-fcvg2022.ch
 fcvicques.ch
 fcviktoria.ch
 fcvillazvillarimboud.ch
@@ -1581,7 +1598,6 @@ fcvuadens.ch
 fcvuisternensmezieres.ch
 fcvully-sport.ch
 fcvv.ch
-fcw-events.ch
 fcw-forum.ch
 fcw-frauen.ch
 fcw-geisterspiel.ch
@@ -1599,6 +1615,7 @@ fcwalchwil.ch
 fcwald.ch
 fcwalde.ch
 fcwalenstadt.ch
+fcwallbach-supporter.ch
 fcwallbach.ch
 fcwallis.ch
 fcwallisellen.ch
@@ -1665,12 +1682,14 @@ fcz-1896.ch
 fcz-academy.ch
 fcz-business-club.ch
 fcz-fanshop.ch
+fcz-forum.ch
 fcz-frauen.ch
 fcz-museum.ch
 fcz-senioren.ch
 fcz-solothurn.ch
 fcz-supporter.ch
 fcz-tv.ch
+fcz-yallo.ch
 fcz.ch
 fcz1000.ch
 fcz1000erclub.ch

@@ -24,7 +24,6 @@ fg-bueroservice.ch
 fg-buttisholz.ch
 fg-cars.ch
 fg-cie.ch
-fg-con.ch
 fg-consulting.ch
 fg-control.ch
 fg-degersheim.ch
@@ -39,8 +38,6 @@ fg-escholzmatt.ch
 fg-etancheite.ch
 fg-fanegg.ch
 fg-feusisberg.ch
-fg-finance-groupe.ch
-fg-financegroupe.ch
 fg-fontainier.ch
 fg-foto.ch
 fg-frauenfeld.ch
@@ -57,6 +54,7 @@ fg-haustechnik.ch
 fg-hauswartungen.ch
 fg-hauswirtschaft-hotellerie.ch
 fg-health.ch
+fg-henau.ch
 fg-herisau.ch
 fg-hofstetten-so.ch
 fg-i.ch
@@ -85,6 +83,7 @@ fg-melchtal.ch
 fg-menuiseriecharpente.ch
 fg-montagen.ch
 fg-multiservices.ch
+fg-naturopathie.ch
 fg-next.ch
 fg-niedergoesgen.ch
 fg-oberriet.ch
@@ -148,6 +147,7 @@ fgam.ch
 fgamedia.ch
 fganet.ch
 fgantenbein.ch
+fgap.ch
 fgapatrimoine.ch
 fgarbr.ch
 fgarchitecte.ch
@@ -156,6 +156,7 @@ fgarchitetto.ch
 fgas.ch
 fgasi.ch
 fgastro.ch
+fgautomobile.ch
 fgb-agency.ch
 fgb-bau.ch
 fgb-baumanagement.ch
@@ -166,7 +167,6 @@ fgb.ch
 fgbasel.ch
 fgbd.ch
 fgbenken.ch
-fgbernburgfeld.ch
 fgbg.ch
 fgbgeno.ch
 fgbichwil.ch
@@ -184,8 +184,8 @@ fgcas.ch
 fgcbasel.ch
 fgch.ch
 fgchilis.ch
+fgcimmobilier.ch
 fgcl.ch
-fgcloud.ch
 fgcmedia.ch
 fgcoaching-hypnose.ch
 fgcon.ch
@@ -225,10 +225,10 @@ fger.ch
 fgerber.ch
 fgetancheite.ch
 fgeu.ch
-fgevent.ch
 fgevents.ch
 fgez.ch
 fgf.ch
+fgfalke-programming.ch
 fgfashion.ch
 fgfau.ch
 fgfc.ch
@@ -237,6 +237,7 @@ fgflawil.ch
 fgfp.ch
 fgfricktal.ch
 fgfrtesting.ch
+fgfs.ch
 fgg-b2b.ch
 fgg-bc.ch
 fgg-gastro.ch
@@ -248,13 +249,13 @@ fgg.ch
 fggaehwil.ch
 fggarten.ch
 fggommiswald.ch
+fggroupgmbh.ch
 fggs.ch
 fgh.ch
 fghamburger.ch
 fghattrick.ch
 fgheiden.ch
 fghj.ch
-fghjkl.ch
 fghl.ch
 fgho.ch
 fgholding.ch
@@ -276,7 +277,9 @@ fginvestments.ch
 fgipe.ch
 fgir.ch
 fgirl.ch
+fgirlescort.ch
 fgirls.ch
+fgirlsescorts.ch
 fgit.ch
 fgj.ch
 fgjf.ch
@@ -295,12 +298,10 @@ fglauser.ch
 fglaw.ch
 fglm.ch
 fglpp.ch
-fgluntz.ch
 fgluzern.ch
 fgm-c.ch
 fgm-event.ch
 fgm-gu.ch
-fgm-renovation.ch
 fgm.ch
 fgmail.ch
 fgmaler.ch
@@ -329,7 +330,6 @@ fgnz.ch
 fgo.ch
 fgoart.ch
 fgobbo.ch
-fgoberbueren.ch
 fgoe.ch
 fgoetsch.ch
 fgonin.ch
@@ -341,7 +341,6 @@ fgp-bl.ch
 fgp-gesundheit.ch
 fgp-immo.ch
 fgp-immobilien.ch
-fgp-sarl.ch
 fgp-swiss.ch
 fgp-swissalps.ch
 fgp-swissandalps.ch
@@ -354,7 +353,6 @@ fgpetroli.ch
 fgpf.ch
 fgpfaeffikon.ch
 fgpfister.ch
-fgpfisteraward.ch
 fgpfisterstiftung.ch
 fgph.ch
 fgpi.ch
@@ -407,6 +405,7 @@ fgsarnen.ch
 fgsbk.ch
 fgsc.ch
 fgschaenis.ch
+fgschoenenwegen.ch
 fgselhofen.ch
 fgservices.ch
 fgsfds12345.ch
@@ -437,9 +436,9 @@ fgtc.ch
 fgtclb.ch
 fgte.ch
 fgtechnology.ch
+fgtgmbh.ch
 fgth.ch
 fgticino.ch
-fgtlri.ch
 fgtr.ch
 fgtransport.ch
 fgtreuhand.ch
@@ -449,7 +448,6 @@ fgub.ch
 fguex.ch
 fgug.ch
 fguide.ch
-fguntern.ch
 fgus.ch
 fgut-handel.ch
 fgut.ch
@@ -463,7 +461,6 @@ fgv-baeumlihof.ch
 fgv-bernsuedwest.ch
 fgv-birsfelden.ch
 fgv-bottmingen.ch
-fgv-buchrain.ch
 fgv-buchs.ch
 fgv-buelach.ch
 fgv-caguils.ch
@@ -522,7 +519,6 @@ fgvsteinhausen.ch
 fgvw.ch
 fgvwiedikon.ch
 fgvza.ch
-fgw-widen.ch
 fgw.ch
 fgwaengi.ch
 fgwalchwil.ch

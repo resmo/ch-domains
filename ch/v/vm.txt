@@ -15,7 +15,6 @@ vm-co.ch
 vm-connect.ch
 vm-consulting.ch
 vm-dauerhaftehaarentfernung.ch
-vm-design.ch
 vm-dev.ch
 vm-energies.ch
 vm-entretien.ch
@@ -30,6 +29,7 @@ vm-gruppe.ch
 vm-hosting.ch
 vm-immobau.ch
 vm-immobilien.ch
+vm-immobilier.ch
 vm-intertrust.ch
 vm-it.ch
 vm-koester.ch
@@ -53,11 +53,12 @@ vm-switzerland.ch
 vm-team.ch
 vm-tec.ch
 vm-tg.ch
+vm-thewedding.ch
 vm-tierpsychologiesarina.ch
 vm-travel.ch
 vm-treuhand.ch
 vm-up.ch
-vm-visuals.ch
+vm-vionnet-motos.ch
 vm-walo.ch
 vm1.ch
 vm10.ch
@@ -79,6 +80,7 @@ vmails.ch
 vmam.ch
 vmamusic.ch
 vman.ch
+vmandach.ch
 vmaoo.ch
 vmapartners-consulting.ch
 vmapartners.ch
@@ -137,7 +139,6 @@ vmc-schupfart.ch
 vmc-selzach.ch
 vmc-silenen.ch
 vmc-spiringen.ch
-vmc-wiedikon.ch
 vmc-wilchingen.ch
 vmc.ch
 vmc2123.ch
@@ -162,6 +163,7 @@ vmcmuhen.ch
 vmcniederglatt.ch
 vmcompass.ch
 vmcomputer.ch
+vmconcept.ch
 vmconnect.ch
 vmcrafz.ch
 vmcrheinfall.ch
@@ -170,10 +172,8 @@ vmcsteinen.ch
 vmcu.ch
 vmcv.ch
 vmcvservice.ch
-vmcw.ch
 vmcz.ch
 vmd.ch
-vmdata.ch
 vmdent.ch
 vmdentiste.ch
 vmdesign.ch
@@ -200,9 +200,11 @@ vmenager.ch
 vmengineering.ch
 vmepayroll.ch
 vmesh.ch
+vmeste.ch
 vmetz.ch
 vmeunion.ch
 vmex.ch
+vmeyer.ch
 vmeyrat.ch
 vmf-holding.ch
 vmf.ch
@@ -228,7 +230,6 @@ vmh-consulting.ch
 vmh.ch
 vmhaustechnik.ch
 vmhg.ch
-vmhgroup.ch
 vmhost.ch
 vmhosting.ch
 vmhp.ch
@@ -242,10 +243,12 @@ vmigliano.ch
 vmind.ch
 vminstitut.ch
 vmisch.ch
+vmischler.ch
 vmitechnologies.ch
 vmix.ch
 vmj.ch
 vmjo.ch
+vmk-detailing.ch
 vmk-krone.ch
 vmk-lifecoaching.ch
 vmk.ch
@@ -262,6 +265,7 @@ vmlp.ch
 vmlsuisse.ch
 vmlyrx.ch
 vmm.ch
+vmmalerei.ch
 vmmd.ch
 vmmecanique.ch
 vmmm.ch
@@ -281,6 +285,7 @@ vmoda.ch
 vmode.ch
 vmodigitalbusiness.ch
 vmogroup.ch
+vmoibt.ch
 vmoney.ch
 vmoret.ch
 vmori.ch
@@ -300,7 +305,6 @@ vmpag.ch
 vmparade.ch
 vmpavocat.ch
 vmpavocats.ch
-vmpc.ch
 vmph.ch
 vmpianezzi.ch
 vmpraxis-zurich.ch
@@ -319,11 +323,13 @@ vmrenov.ch
 vmrenovation.ch
 vmrenovswiss.ch
 vmroptimum.ch
+vmrp.ch
 vmrwheels.ch
 vms-ag.ch
 vms-ams.ch
 vms-energie.ch
 vms-fmb.ch
+vms-global.ch
 vms-hoyer.ch
 vms-jahresbericht.ch
 vms-mvm.ch
@@ -334,7 +340,6 @@ vms.ch
 vmsa.ch
 vmsails.ch
 vmschweiz.ch
-vmsear.ch
 vmservice.ch
 vmservices.ch
 vmsg.ch
@@ -342,7 +347,6 @@ vmsgmbh.ch
 vmsgroup-hoyer.ch
 vmsgroup.ch
 vmsgrouphoyer.ch
-vmsh.ch
 vmshoyer.ch
 vmsm.ch
 vmsmenopause.ch
@@ -376,6 +380,7 @@ vmv-coiffeur-barber.ch
 vmv-elektro.ch
 vmv.ch
 vmvendingmanagement.ch
+vmvionnetmotos.ch
 vmw-services.ch
 vmw.ch
 vmwald.ch

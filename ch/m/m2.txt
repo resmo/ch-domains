@@ -40,8 +40,9 @@ m20areal.ch
 m21-bildung.ch
 m21-bildungsmedien.ch
 m21.ch
-m21ag.ch
+m212.ch
 m21k.ch
+m22-ag.ch
 m224.ch
 m225.ch
 m22c.ch
@@ -51,7 +52,6 @@ m24.ch
 m241-245.ch
 m25.ch
 m261icf.ch
-m27.ch
 m272.ch
 m289-1.ch
 m289-2.ch
@@ -61,15 +61,14 @@ m2act.ch
 m2ag.ch
 m2amiga.ch
 m2antislip.ch
+m2apla-gmbh.ch
 m2apla.ch
 m2app.ch
-m2ark.ch
 m2b-piccolo.ch
 m2b.ch
 m2bau-gmbh.ch
 m2bau.ch
 m2bconsulting.ch
-m2bcryo.ch
 m2beaute.ch
 m2binformatique.ch
 m2brands.ch
@@ -82,6 +81,7 @@ m2concept.ch
 m2conseil.ch
 m2conseils.ch
 m2consult.ch
+m2consulting.ch
 m2creations.ch
 m2d-verbier.ch
 m2day.ch
@@ -108,6 +108,7 @@ m2group.ch
 m2h-ingenierie.ch
 m2h.ch
 m2habitat.ch
+m2holzbau.ch
 m2home.ch
 m2i.ch
 m2ict.ch
@@ -125,7 +126,6 @@ m2l-lv.ch
 m2l-sa.ch
 m2l.ch
 m2larchitekten.ch
-m2linvest.ch
 m2m-app.ch
 m2m-cloud.ch
 m2m-coin.ch
@@ -139,7 +139,6 @@ m2m-shop.ch
 m2m-tantra.ch
 m2m.ch
 m2m3.ch
-m2mcastione.ch
 m2mcoin.ch
 m2mcorp.ch
 m2me.ch
@@ -151,11 +150,13 @@ m2mind.ch
 m2mplatform.ch
 m2mportal.ch
 m2msec.ch
+m2n.ch
 m2o-architecture.ch
 m2o.ch
 m2orthodontie.ch
 m2p-games.ch
 m2p.ch
+m2parkett.ch
 m2pgames.ch
 m2pictures.ch
 m2projects.ch
@@ -170,7 +171,6 @@ m2s-2015.ch
 m2s-expert.ch
 m2s-fiduciaire.ch
 m2s.ch
-m2sclean.ch
 m2search.ch
 m2services.ch
 m2sfiduciaire.ch
@@ -188,6 +188,7 @@ m2te.ch
 m2thrive.ch
 m2ti.ch
 m2trading.ch
+m2u.ch
 m2uc.ch
 m2urban.ch
 m2v.ch

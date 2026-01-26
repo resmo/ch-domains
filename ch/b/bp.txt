@@ -6,10 +6,12 @@ bp-architekten.ch
 bp-architektur.ch
 bp-art.ch
 bp-asgs.ch
+bp-automobile.ch
 bp-avantage.ch
 bp-avocats.ch
 bp-azione.ch
 bp-bau.ch
+bp-baupartner.ch
 bp-baurealisation.ch
 bp-baurealisationag.ch
 bp-betrieblicher-mentor.ch
@@ -25,6 +27,7 @@ bp-consulting.ch
 bp-design.ch
 bp-dummy.ch
 bp-e.ch
+bp-efektiv.ch
 bp-elektro.ch
 bp-engineering.ch
 bp-event-software.ch
@@ -32,6 +35,7 @@ bp-f.ch
 bp-feinmechanik.ch
 bp-fnd.ch
 bp-gehrig.ch
+bp-global.ch
 bp-grafik.ch
 bp-group.ch
 bp-handelsagentur.ch
@@ -60,7 +64,6 @@ bp-reinigungen-winterthur.ch
 bp-reinigungen.ch
 bp-resin.ch
 bp-s.ch
-bp-sa.ch
 bp-scan2mail.ch
 bp-solutions-juridiques.ch
 bp-solutions.ch
@@ -78,7 +81,6 @@ bp-technik.ch
 bp-trading.ch
 bp-vantaggi.ch
 bp-vorteil.ch
-bp-web.ch
 bp-wedding.ch
 bp1.ch
 bp2.ch
@@ -86,12 +88,7 @@ bp2c.ch
 bp2m.ch
 bp3.ch
 bp4.ch
-bp5.ch
-bp6.ch
 bp7.ch
-bp8.ch
-bp9.ch
-bp98.ch
 bpa-ag.ch
 bpa-free-stopcocks.ch
 bpa-frei.ch
@@ -135,6 +132,7 @@ bpatg.ch
 bpatger.ch
 bpatreuhand.ch
 bpay.ch
+bpb-ag.ch
 bpb-baechler.ch
 bpb-basel.ch
 bpb-be.ch
@@ -142,6 +140,7 @@ bpb-consulting.ch
 bpb-rheintal.ch
 bpb.ch
 bpbag.ch
+bpbau-gmbh.ch
 bpbau.ch
 bpbauag.ch
 bpbaupartner.ch
@@ -151,8 +150,6 @@ bpbetrieblichermentor.ch
 bpbg.ch
 bpbitumen.ch
 bpbitumes.ch
-bpbl.ch
-bpbm.ch
 bpbo.ch
 bpbox.ch
 bpbroker.ch
@@ -165,9 +162,7 @@ bpc157.ch
 bpcag.ch
 bpcardscustomer.ch
 bpcardservice.ch
-bpcarrelage.ch
 bpcbt.ch
-bpcconsulting.ch
 bpce.ch
 bpcf.ch
 bpcgroup.ch
@@ -184,6 +179,7 @@ bpconnect.ch
 bpcons.ch
 bpconseilsetgestion.ch
 bpconstruction.ch
+bpconsulting.ch
 bpcs.ch
 bpct.ch
 bpcuisines.ch
@@ -193,26 +189,23 @@ bpcz.ch
 bpd.ch
 bpdesign.ch
 bpdg.ch
+bpdr-suisse.ch
 bpdr.ch
-bpdzenith.ch
 bpe-angus.ch
 bpe-baumanagement.ch
 bpe-global.ch
 bpe-gruposantander.ch
 bpe-logistics.ch
-bpe-projets.ch
 bpe.ch
 bpeaeqt.ch
 bpeaeqtasia.ch
 bper-suisse.ch
 bper.ch
-bperfect.ch
 bperformx.ch
 bperny.ch
 bperrin.ch
 bperse.ch
 bpersuisse.ch
-bpeter-arts.ch
 bpeter.ch
 bpetergst.ch
 bpevents.ch
@@ -222,7 +215,6 @@ bpexpress.ch
 bpextranet.ch
 bpf-entreprise.ch
 bpf-facility-services.ch
-bpf.ch
 bpfassaden.ch
 bpfentreprise.ch
 bpfi.ch
@@ -285,8 +277,8 @@ bping.ch
 bpingenieure.ch
 bpini.ch
 bpinifilmfoto.ch
-bpintl.ch
 bpinvest.ch
+bpip.ch
 bpisuisse.ch
 bpit.ch
 bpiu.ch
@@ -325,7 +317,9 @@ bplus.ch
 bpluse.ch
 bplusg.ch
 bplusl.ch
+bplusm.ch
 bplv.ch
+bpm-ag.ch
 bpm-agri.ch
 bpm-assechement.ch
 bpm-bauplus.ch
@@ -346,7 +340,6 @@ bpm-exclusive.ch
 bpm-festival.ch
 bpm-flow.ch
 bpm-foundation.ch
-bpm-gis.ch
 bpm-heritage.ch
 bpm-joos.ch
 bpm-lease.ch
@@ -421,6 +414,7 @@ bpmlease.ch
 bpmm.ch
 bpmmaildrop.ch
 bpmmotorbike.ch
+bpmms.ch
 bpmmts.ch
 bpmn.ch
 bpmo.ch
@@ -433,7 +427,6 @@ bpmservices.ch
 bpmsoftware.ch
 bpmsolutions.ch
 bpmstation.ch
-bpmstrada.ch
 bpmswitzerland.ch
 bpmsystem.ch
 bpmsysteme.ch
@@ -479,7 +472,6 @@ bppulse.ch
 bpq.ch
 bpr-ag.ch
 bpr-biopharm-resources.ch
-bpr-solutions.ch
 bpr-swiss.ch
 bpr.ch
 bpr23.ch
@@ -554,7 +546,6 @@ bpsarl.ch
 bpsconsulting.ch
 bpservice.ch
 bpsgmbh.ch
-bpshandel.ch
 bpshop.ch
 bpshopmurten.ch
 bpsl.ch
@@ -608,6 +599,7 @@ bpun.ch
 bpunkt.ch
 bpunktwerk.ch
 bpv.ch
+bpventures.ch
 bpvg.ch
 bpvz.ch
 bpw-aarau.ch

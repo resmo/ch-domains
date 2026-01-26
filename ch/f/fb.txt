@@ -2,7 +2,6 @@ fb-a.ch
 fb-abzm.ch
 fb-ag.ch
 fb-bau.ch
-fb-baumanagement.ch
 fb-beratung.ch
 fb-bodentechnik.ch
 fb-brandschutz.ch
@@ -14,6 +13,7 @@ fb-constructions.ch
 fb-consulting.ch
 fb-consultinggmbh.ch
 fb-couvreur-ferblantier-bulle.ch
+fb-cuisines.ch
 fb-digital-solutions.ch
 fb-distribution.ch
 fb-dorneckberg.ch
@@ -54,6 +54,7 @@ fb-matchcom.ch
 fb-nettoyage.ch
 fb-peinture-sarl.ch
 fb-pipe.ch
+fb-plm-consulting.ch
 fb-pp.ch
 fb-recycling.ch
 fb-regionzofingen.ch
@@ -63,6 +64,7 @@ fb-service-nettoyage.ch
 fb-services.ch
 fb-sicherheitstransporte.ch
 fb-solutions.ch
+fb-spezialbau.ch
 fb-steakhouse.ch
 fb-studen.ch
 fb-support.ch
@@ -78,7 +80,6 @@ fb-trocknungsservice.ch
 fb-webdesign.ch
 fb-wohnmobil.ch
 fb-zentrum.ch
-fb0104.ch
 fb1.ch
 fb11.ch
 fb21.ch
@@ -97,8 +98,6 @@ fba-productions.ch
 fba-schweiz.ch
 fba-shop.ch
 fba-switzerland.ch
-fba-tier.ch
-fba-tiere.ch
 fba-treuhand.ch
 fba.ch
 fbaausbildung.ch
@@ -165,6 +164,7 @@ fbconstructions.ch
 fbconsulenze.ch
 fbconsult.ch
 fbconsultant.ch
+fbconsulting.ch
 fbcorse.ch
 fbcosmetic.ch
 fbcpartners.ch
@@ -189,6 +189,7 @@ fbeato.ch
 fbeauty.ch
 fbec.ch
 fbeck.ch
+fbehk.ch
 fbeimmo.ch
 fbengineering.ch
 fber.ch
@@ -235,7 +236,6 @@ fbgdr.ch
 fbgdulac.ch
 fbgdulac43.ch
 fbgerance.ch
-fbgewinnspiel.ch
 fbgipser.ch
 fbgraphiques.ch
 fbgzh.ch
@@ -278,6 +278,7 @@ fbj-cs.ch
 fbj-ing.ch
 fbj.ch
 fbjb.ch
+fbjelonic.ch
 fbjh.ch
 fbjona.ch
 fbk-beratung.ch
@@ -299,7 +300,6 @@ fbkplus.ch
 fbl-brandschutz.ch
 fbl-functional-kinetics.ch
 fbl-haustechnik.ch
-fbl-miletic.ch
 fbl-schweiz.ch
 fbl.ch
 fblack.ch
@@ -350,7 +350,6 @@ fbn-switzerland.ch
 fbn.ch
 fbn2.ch
 fbnacademy.ch
-fbnature.ch
 fbnb.ch
 fbnbls.ch
 fbnconseil.ch
@@ -381,6 +380,7 @@ fbox.ch
 fboxen.ch
 fboy.ch
 fbp-bau.ch
+fbp-construction.ch
 fbp-peinture.ch
 fbp-renovation.ch
 fbp.ch
@@ -390,7 +390,6 @@ fbpartnerag.ch
 fbphoto.ch
 fbphotography.ch
 fbpins.ch
-fbplatrerie.ch
 fbproduct.ch
 fbq-controlling.ch
 fbq.ch
@@ -430,6 +429,7 @@ fbservice.ch
 fbsg.ch
 fbsicherheitstransporte.ch
 fbsockelart.ch
+fbspezialbau.ch
 fbsr.ch
 fbsrevolutie.ch
 fbstudio.ch
@@ -462,7 +462,6 @@ fbtransport.ch
 fbtt.ch
 fbu.ch
 fbuholzer.ch
-fbun.ch
 fburi.ch
 fburkard.ch
 fburkart.ch
@@ -500,3 +499,4 @@ fbyw.ch
 fbz-zurzach.ch
 fbz.ch
 fbzb.ch
+fbzn.ch

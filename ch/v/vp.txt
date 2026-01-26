@@ -13,14 +13,15 @@ vp-deal.ch
 vp-ffm.ch
 vp-gadget.ch
 vp-group.ch
-vp-hauswartungen.ch
+vp-homes.ch
 vp-hypnose.ch
 vp-icube.ch
 vp-location.ch
 vp-luks.ch
-vp-media.ch
 vp-p.ch
+vp-partenaires.ch
 vp-platrerie-peinture.ch
+vp-prog.ch
 vp-renovation.ch
 vp-smart.ch
 vp-solutions.ch
@@ -45,6 +46,7 @@ vpacademy.ch
 vpack.ch
 vpad.ch
 vpag.ch
+vpagent.ch
 vpap.ch
 vparch.ch
 vparchitecture.ch
@@ -53,8 +55,8 @@ vpartner.ch
 vpartners.ch
 vpas.ch
 vpasa.ch
-vpasna.ch
 vpassurancesimmobilier.ch
+vpatest.ch
 vpauto.ch
 vpaweb.ch
 vpay.ch
@@ -64,7 +66,6 @@ vpb.ch
 vpbank.ch
 vpbankswissladiesopen.ch
 vpberatungen.ch
-vpbhend.ch
 vpbo.ch
 vpbridgecapital.ch
 vpbubble.ch
@@ -79,10 +80,10 @@ vpcapturingmoments.ch
 vpch.ch
 vpchat.ch
 vpci.ch
+vpcimport.ch
 vpcm.ch
 vpconseil.ch
 vpconseils.ch
-vpconsulting.ch
 vpcostanzo.ch
 vpcswiss.ch
 vpcustomercare.ch
@@ -198,7 +199,6 @@ vpm-partners.ch
 vpm-schweiz.ch
 vpm.ch
 vpmag.ch
-vpmail.ch
 vpmedia.ch
 vpms.ch
 vpmubs.ch
@@ -242,6 +242,7 @@ vpnportal.ch
 vpnpreisigag.ch
 vpns.ch
 vpnschweiz.ch
+vpnsecure.ch
 vpnserver.ch
 vpnservice.ch
 vpnsjg.ch
@@ -252,7 +253,6 @@ vpnswiss.ch
 vpntest.ch
 vpntester.ch
 vpntunnel.ch
-vpnverbindung.ch
 vpnvypr.ch
 vpnwat.ch
 vpo.ch
@@ -300,6 +300,7 @@ vpr.ch
 vpracingfuels.ch
 vpriv.ch
 vprm.ch
+vpro.ch
 vprod.ch
 vproductions.ch
 vproietto-storen.ch
@@ -323,6 +324,7 @@ vps-stiftung.ch
 vps-tec-worm.ch
 vps-testsystem.ch
 vps.ch
+vps2-grognuz.ch
 vps24.ch
 vpsadmin.ch
 vpsdeal.ch
@@ -338,6 +340,7 @@ vpsp.ch
 vpspace.ch
 vpsprod.ch
 vpsserver.ch
+vpsservers.ch
 vpstrap.ch
 vpsumercamp.ch
 vpsummer-camp.ch
@@ -368,7 +371,6 @@ vpv-partners.ch
 vpv-zh.ch
 vpv.ch
 vpventures.ch
-vpvfiduciaire.ch
 vpvoyage.ch
 vpvoyages.ch
 vpvpartners.ch

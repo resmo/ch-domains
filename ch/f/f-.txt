@@ -14,6 +14,8 @@ f-39.ch
 f-3a.ch
 f-4-a.ch
 f-4-h.ch
+f-4-u.ch
+f-4-y.ch
 f-5.ch
 f-500.ch
 f-7.ch
@@ -49,6 +51,7 @@ f-automobile.ch
 f-b-g.ch
 f-b-haener.ch
 f-b-i.ch
+f-b-spezialbau.ch
 f-b-tec.ch
 f-b.ch
 f-banderet.ch
@@ -85,7 +88,6 @@ f-carusoetfils.ch
 f-ce.ch
 f-chen.ch
 f-ciardo.ch
-f-ck.ch
 f-clement.ch
 f-cloud.ch
 f-cm.ch
@@ -103,7 +105,6 @@ f-d-v.ch
 f-d.ch
 f-da.ch
 f-design-landscape.ch
-f-design.ch
 f-diamante.ch
 f-domizil.ch
 f-duc.ch
@@ -114,12 +115,12 @@ f-e-m.ch
 f-e-n-s-t-e-r.ch
 f-e-p.ch
 f-e-r-i-e-n.ch
-f-e-r.ch
 f-e-s.ch
 f-e-u.ch
 f-e-w.ch
 f-e.ch
 f-echafaudages.ch
+f-eeel.ch
 f-eie.ch
 f-eins.ch
 f-ektiv.ch
@@ -158,14 +159,12 @@ f-girls.ch
 f-gonzalez.ch
 f-graf.ch
 f-group.ch
-f-gt.ch
 f-gz.ch
 f-h-ag.ch
 f-h.ch
 f-haenni.ch
 f-halter.ch
 f-hauri.ch
-f-hc.ch
 f-heche.ch
 f-hegel.ch
 f-helder.ch
@@ -181,6 +180,7 @@ f-i-carrosserie.ch
 f-i-e-r.ch
 f-i-n.ch
 f-i-p.ch
+f-i-r.ch
 f-i-s.ch
 f-i-t.ch
 f-i.ch
@@ -198,6 +198,7 @@ f-invest-office.ch
 f-invest.ch
 f-isogips.ch
 f-it.ch
+f-it4you.ch
 f-itservices.ch
 f-j-b.ch
 f-j.ch
@@ -212,10 +213,10 @@ f-kaufmann.ch
 f-keller-treuhand.ch
 f-keller.ch
 f-kling.ch
+f-ko.ch
 f-kon.ch
 f-l-a-s-h.ch
 f-l-o-r-e-n-c-e.ch
-f-l-o-w.ch
 f-l-y.ch
 f-l.ch
 f-lab.ch
@@ -244,7 +245,6 @@ f-michel.ch
 f-mk.ch
 f-morina.ch
 f-motors.ch
-f-muellersoehne.ch
 f-my-ster.ch
 f-myster.ch
 f-n-l.ch
@@ -271,12 +271,12 @@ f-p.ch
 f-pa.ch
 f-pack.ch
 f-partenaires.ch
+f-partner.ch
 f-pc.ch
 f-personal.ch
 f-piperis.ch
+f-plan.ch
 f-plus-b.ch
-f-plus.ch
-f-pro.ch
 f-project.ch
 f-q.ch
 f-r-e-e-your-business.ch
@@ -296,7 +296,7 @@ f-rib.ch
 f-richter.ch
 f-ritter.ch
 f-roethlisberger-ag.ch
-f-royer.ch
+f-rs.ch
 f-runge.ch
 f-s-c.ch
 f-s-e.ch
@@ -325,7 +325,7 @@ f-solution.ch
 f-solutions.ch
 f-sp.ch
 f-stats.ch
-f-store.ch
+f-stop.ch
 f-style.ch
 f-swissbau.ch
 f-t-c.ch
@@ -356,7 +356,6 @@ f-u-t-u-r-e.ch
 f-u-x.ch
 f-u.ch
 f-u17.ch
-f-und-b.ch
 f-und-f.ch
 f-ux.ch
 f-v-a.ch

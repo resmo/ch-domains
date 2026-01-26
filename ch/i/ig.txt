@@ -12,11 +12,9 @@ ig-aikido.ch
 ig-akkordeon.ch
 ig-akrohalle.ch
 ig-albatros.ch
-ig-albishof.ch
 ig-aletsch.ch
 ig-allmend.ch
 ig-alpenpaesse.ch
-ig-alter-buelach.ch
 ig-altstadt.ch
 ig-alvra.ch
 ig-ambulanz-goms.ch
@@ -31,7 +29,6 @@ ig-attraktiveswettingen.ch
 ig-ausbildungsverpflichtung.ch
 ig-b.ch
 ig-baetterkinden.ch
-ig-bahnhofluzern.ch
 ig-bank.ch
 ig-basi.ch
 ig-basisdemokratie.ch
@@ -108,6 +105,7 @@ ig-drb.ch
 ig-dreifach.ch
 ig-dreifachnutzung.ch
 ig-dreispitz.ch
+ig-e.ch
 ig-ebs.ch
 ig-ecocapsule.ch
 ig-ed.ch
@@ -140,7 +138,6 @@ ig-felsenhof2.ch
 ig-feuerwerk.ch
 ig-feuerwerkoberwilen.ch
 ig-fiescheralp.ch
-ig-fika.ch
 ig-finanzen.ch
 ig-fisch-fleisch.ch
 ig-fislisbach.ch
@@ -158,6 +155,7 @@ ig-flughafen.ch
 ig-fluglaerm.ch
 ig-foto.ch
 ig-fr.ch
+ig-frauen-gr.ch
 ig-frauenmuseum.ch
 ig-frauenstimmen-wb.ch
 ig-frauenstimmen.ch
@@ -194,7 +192,7 @@ ig-grundversorgung.ch
 ig-gsteigwiler.ch
 ig-gundeli.ch
 ig-haba-regio-aarau.ch
-ig-halbanschluss-nein.ch
+ig-hadlaubstrasse.ch
 ig-hallenbad-blumenwies.ch
 ig-hallenbad-region-aarau.ch
 ig-hanf.ch
@@ -203,9 +201,11 @@ ig-hardstrasse.ch
 ig-hbb.ch
 ig-hbsz.ch
 ig-hfwi.ch
+ig-historischer-oeffentlicher-verkehr-schaffhausen.ch
 ig-hobel.ch
 ig-hochsaison.ch
 ig-hoerakustik.ch
+ig-hoev-sh.ch
 ig-holding-tools.ch
 ig-hsh.ch
 ig-huenenbergsee.ch
@@ -221,6 +221,7 @@ ig-jsj.ch
 ig-jugend-modellbau.ch
 ig-jungreben.ch
 ig-junkerstrasse-nein.ch
+ig-ka.ch
 ig-kammgarn.ch
 ig-kanderdelta.ch
 ig-kanu.ch
@@ -248,9 +249,7 @@ ig-kultur-wil.ch
 ig-kultur-winterthur.ch
 ig-kultur.ch
 ig-kulturachse.ch
-ig-kulturlandschaft.ch
 ig-kunkels.ch
-ig-kunst.ch
 ig-kunsttherapie.ch
 ig-kv.ch
 ig-laendlicher-raum.ch
@@ -270,12 +269,12 @@ ig-leimenstrasse.ch
 ig-lein.ch
 ig-lenzburg.ch
 ig-limmat.ch
+ig-ljiljan.ch
 ig-ls.ch
 ig-lu.ch
 ig-luene.ch
 ig-luetisburg.ch
 ig-luftentfeuchter.ch
-ig-luzern.ch
 ig-mamob.ch
 ig-manor-bahnhofstrasse.ch
 ig-marina.ch
@@ -289,6 +288,7 @@ ig-medizinische-grundversorgung.ch
 ig-meggen.ch
 ig-mehrzweckhalle-loehningen.ch
 ig-mensch.ch
+ig-metalli.ch
 ig-mgs.ch
 ig-microdosing.ch
 ig-milizfeuerwehr.ch
@@ -362,11 +362,12 @@ ig-prooberentfelden.ch
 ig-proriva.ch
 ig-prosuhr.ch
 ig-ptx.ch
+ig-q.ch
 ig-quartiererhaltung.ch
 ig-radsport-uri.ch
 ig-radsport.ch
-ig-rebberg-kirche-grafenried.ch
 ig-reben.ch
+ig-recht.ch
 ig-reiden.ch
 ig-resources.ch
 ig-rettet-benglen.ch
@@ -415,6 +416,7 @@ ig-seetal-plus.ch
 ig-seezelg.ch
 ig-selnau.ch
 ig-seltene-krankheiten.ch
+ig-shs.ch
 ig-sicherewege-muri-guemligen.ch
 ig-sicherheit.ch
 ig-sihlau.ch
@@ -445,7 +447,6 @@ ig-sportvereine-baden.ch
 ig-spycher.ch
 ig-stammgleis.ch
 ig-steinacker.ch
-ig-steini.ch
 ig-sternenhalde.ch
 ig-steuern-adligenswil.ch
 ig-stockengut.ch
@@ -454,7 +455,7 @@ ig-strasse-zh.ch
 ig-strasse-zuerich.ch
 ig-sud.ch
 ig-sulgenost.ch
-ig-swiss-camino.ch
+ig-sunnewis.ch
 ig-swisscowboy.ch
 ig-swissmade.ch
 ig-swissmetro-ng.ch
@@ -477,17 +478,17 @@ ig-uem.ch
 ig-uhwm.ch
 ig-umfahrung-chappele.ch
 ig-umfahrungsstrasse-allschwil.ch
-ig-unbb.ch
 ig-ungeimpfte.ch
 ig-ungeimpften.ch
 ig-unserhochdorf.ch
-ig-unterdorf.ch
 ig-ups.ch
 ig-urserental.ch
 ig-us-car.ch
 ig-usim.ch
 ig-velo-frauenfeld.ch
+ig-velo-schwyz.ch
 ig-velo.ch
+ig-vereine-oberwil.ch
 ig-vereine.ch
 ig-verkehr-einsiedeln.ch
 ig-verkehr.ch
@@ -511,16 +512,18 @@ ig-wil.ch
 ig-wiler-sueden.ch
 ig-winterthur.ch
 ig-wipf.ch
+ig-witsberg.ch
 ig-wohnen.ch
 ig-wonnenstein.ch
 ig-worbergeschichte.ch
 ig-wueri.ch
 ig-yacht-service.ch
+ig-zeichnerberufe.ch
 ig-zenlauinen.ch
 ig-zentrum-hardbruecke.ch
 ig-zfdn.ch
-ig-zollhaus.ch
 ig-zollweiden.ch
+ig-zuercherstrasse.ch
 ig-zuerichlive.ch
 ig-zug.ch
 ig-zukunft-hombi.ch
@@ -553,6 +556,7 @@ iga-restaurierung.ch
 iga-sosracisme.ch
 iga-sursee.ch
 iga.ch
+igaa.ch
 igaargauersport.ch
 igab-cipa.ch
 igab.ch
@@ -567,7 +571,6 @@ igaescherfeld.ch
 igaf.ch
 igafua.ch
 igag.ch
-igago.ch
 igahv.ch
 igaia.ch
 igaircargo.ch
@@ -582,7 +585,6 @@ igakis-weihnachtspost.ch
 igakis.ch
 igalanti.ch
 igalbatros.ch
-igalbishof.ch
 igallia.ch
 igalmi.ch
 igaltbau.ch
@@ -633,7 +635,6 @@ igb-ag.ch
 igb-group.ch
 igb-immobilien.ch
 igb-mri.ch
-igb-swiss.ch
 igb-tierrettung.ch
 igb-vetsch.ch
 igb-zh.ch
@@ -646,7 +647,6 @@ igba-pro-egli.ch
 igba.ch
 igbadifull.ch
 igbag.ch
-igbahnhofluzern.ch
 igbank.ch
 igbasenfreunde.ch
 igbb.ch
@@ -685,7 +685,6 @@ igbtag.ch
 igbts.ch
 igbus.ch
 igbuttwil.ch
-igbuw-wolfenschiessen.ch
 igbv.ch
 igbw.ch
 igbwi.ch
@@ -712,10 +711,10 @@ igcy.ch
 igd.ch
 igda.ch
 igdag.ch
+igdatagsc.ch
 igdd.ch
 igdemo.ch
 igdeponiesicherheit.ch
-igdesig.ch
 igdesign.ch
 igdetailhandel.ch
 igdgrueter.ch
@@ -734,7 +733,6 @@ igduedingen.ch
 ige-heig-vd.ch
 ige-intern.ch
 ige-ipi.ch
-ige-xao.ch
 ige.ch
 igea-altstaetten.ch
 igea-praxis.ch
@@ -781,6 +779,7 @@ igel-net.ch
 igel-print.ch
 igel-schweiz.ch
 igel-swiss.ch
+igel-zug.ch
 igel.ch
 igelab.ch
 igelati.ch
@@ -808,12 +807,14 @@ igelhilfe-innerschweiz.ch
 igelhilfe-jura.ch
 igelhilfe-luzern.ch
 igelhilfe-mittelland.ch
+igelhilfe-ostschweiz.ch
 igelhilfe-schaffhausen.ch
 igelhilfe-schweiz.ch
 igelhilfe-schwyz.ch
 igelhilfe-solothurn.ch
 igelhilfe-thurgau.ch
 igelhilfe-wallis.ch
+igelhilfe-zg.ch
 igelhilfe-zuerich.ch
 igelhilfe-zug.ch
 igelhilfe.ch
@@ -829,7 +830,6 @@ igelihuus.ch
 igelkarte.ch
 igelkontrolle.ch
 igelkreis.ch
-igelle.ch
 igelmaps.ch
 igelmels.ch
 igelnest-oberbaselbiet.ch
@@ -840,9 +840,9 @@ igelpflegestation-hittnau.ch
 igelpflegestation.ch
 igelprint.ch
 igelspuerhunde.ch
-igelstachelbart.ch
 igelstation-aargau.ch
 igelstation-auw.ch
+igelstation-heiden.ch
 igelstation-hinwil.ch
 igelstation-hittnau.ch
 igelstation-kollbrunn.ch
@@ -874,9 +874,9 @@ igenea.ch
 igeneration.ch
 igenergie.ch
 igenergiesh.ch
+igeneva.ch
 igeneve-rh.ch
 igeneve-services.ch
-igeneve-web.ch
 igeneve.ch
 igeneve360.ch
 igeneverh.ch
@@ -898,7 +898,6 @@ igepaadoc.ch
 igepagroup.ch
 igepir.ch
 iger.ch
-igercostruzioni.ch
 igerdgas.ch
 igere.ch
 igerfrischungsgetraenke.ch
@@ -912,7 +911,6 @@ igetbetter.ch
 igethi.ch
 igetmc.ch
 igetu.ch
-igetusedto.ch
 igeuroairport.ch
 igever.ch
 igewa.ch
@@ -959,11 +957,13 @@ igfue.ch
 igfueg.ch
 igfuerigen.ch
 igfussgaengerbasel.ch
+igfutura.ch
 igfw.ch
 igfwilen.ch
 igfww.ch
 igfz.ch
 igg-basel.ch
+igg-berguen.ch
 igg-cifab.ch
 igg-gundeli.ch
 igg-nepalese-church-adelaide.ch
@@ -1025,13 +1025,12 @@ ighallvida.ch
 ighammer.ch
 ighandelchur.ch
 ighanf.ch
+ighanfbau.ch
 ighanfkalk.ch
 ighardturm.ch
-ighaza.ch
 igho.ch
 ighofberg.ch
 ighofbergplus.ch
-igholding.ch
 igholz.ch
 igholztoggenburg.ch
 ighornkuh-uri.ch
@@ -1071,11 +1070,8 @@ igienediariazione.ch
 igieneorale.ch
 igienista.ch
 igienistadentale.ch
-igienistalindapoletti.ch
-igiftcard.ch
 igiftcards.ch
 igiganti.ch
-igikai.ch
 igim.ch
 igimcs.ch
 igindex.ch
@@ -1091,7 +1087,6 @@ igio.ch
 igip.ch
 igipco.ch
 igipop.ch
-igips.ch
 igirlboyphone.ch
 igirlcase.ch
 igis-welt.ch
@@ -1202,7 +1197,6 @@ iglesias-coaching.ch
 iglesias.ch
 iglhmm.ch
 iglicht.ch
-iglimezini.ch
 iglis.ch
 iglk.ch
 iglmarinesolutions.ch
@@ -1221,12 +1215,12 @@ igloo22225.ch
 igloobase.ch
 iglooblocks.ch
 iglooconsulting.ch
-igloodejade.ch
 iglooglouglou.ch
 igloohome-valais.ch
 igloohome.ch
 igloojunior.ch
 igloolo.ch
+igloorestaurant.ch
 igloos.ch
 iglooshop.ch
 igloosoftware.ch
@@ -1234,7 +1228,6 @@ igloostore.ch
 iglootion.ch
 iglos.ch
 iglosas.ch
-iglow.ch
 iglowphysalis.ch
 iglr.ch
 igls-lareschs.ch
@@ -1244,6 +1237,7 @@ iglu-dorf.ch
 iglu-group.ch
 iglu-hotel.ch
 iglu-uebernachtung.ch
+iglu-village.ch
 iglu-volketswil.ch
 iglu-zauberwald.ch
 iglu.ch
@@ -1270,6 +1264,7 @@ igm-cloud.ch
 igm-concept.ch
 igm-gaesi.ch
 igm-immobilier.ch
+igm-so.ch
 igm-suisse.ch
 igm.ch
 igma-treuhand.ch
@@ -1304,7 +1299,6 @@ igmg.ch
 igmgtow.ch
 igmib-bbf.ch
 igmib.ch
-igmilizfeuerwehr.ch
 igmimmobilier.ch
 igmiv.ch
 igmofa.ch
@@ -1319,7 +1313,6 @@ igmru.ch
 igmsagl.ch
 igmservices.ch
 igmtbzh.ch
-igmultengut.ch
 igmusikbasel.ch
 igmw.ch
 ign-design.ch
@@ -1332,11 +1325,14 @@ igna-glarus.ch
 igna.ch
 ignace.ch
 ignacesupp.ch
+ignachhaltigertourismus.ch
 ignaciolamas.ch
 ignaciolopez.ch
 ignacy.ch
 ignaglarus.ch
 ignasius.ch
+ignat.ch
+ignatica.ch
 ignatio.ch
 ignatioskonstantin.ch
 ignatius.ch
@@ -1346,13 +1342,13 @@ ignaz-werner-jans-kunst.ch
 ignaz-werner-jans.ch
 ignaz-wrobel.ch
 ignaz.ch
-ignazfischer.ch
 ignazfurger.ch
 ignazio.ch
 ignaziocassis.ch
 ignazvoser.ch
 ignazwalker.ch
 igndesign.ch
+ignemo.ch
 igneo.ch
 igneos-films.ch
 igneos.ch
@@ -1361,7 +1357,6 @@ igneous.ch
 ignes.ch
 ignescent.ch
 ignestzh.ch
-igneubad.ch
 igneugass.ch
 igneuhegi.ch
 igneus.ch
@@ -1370,6 +1365,7 @@ igngroup.ch
 ignh.ch
 igni.ch
 ignia.ch
+ignibet.ch
 ignic.ch
 igniculus.ch
 ignight.ch
@@ -1383,11 +1379,13 @@ ignis-protec.ch
 ignis-protect.ch
 ignis-salutem.ch
 ignis-sport.ch
+ignis-swiss.ch
 ignis.ch
 ignisaeternum.ch
 ignisblockchain.ch
 ignisconcept.ch
 ignisexperience.ch
+ignisleep.ch
 ignismedialab.ch
 ignisprotec.ch
 ignisprotect.ch
@@ -1403,7 +1401,6 @@ igniteconsulting.ch
 ignited.ch
 ignitedmail.ch
 ignitedtoday.ch
-ignitee.ch
 igniteforward.ch
 igniteglobalteam.ch
 igniteinnovation.ch
@@ -1412,6 +1409,7 @@ ignitestudios.ch
 ignitethatspark.ch
 ignition.ch
 ignitiondesign.ch
+ignitionpoint.ch
 ignitionrock.ch
 ignito.ch
 ignitus-restaurant.ch
@@ -1435,6 +1433,7 @@ ignm-vs.ch
 ignm-zentralschweiz.ch
 ignm-zuerich.ch
 ignoble.ch
+ignoramus.ch
 ignoranz.ch
 ignorator.ch
 ignord.ch
@@ -1442,6 +1441,7 @@ ignore.ch
 ignorieren.ch
 ignotus.ch
 ignpetroleum.ch
+igns.ch
 ignservice.ch
 igntog.ch
 ignv.ch
@@ -1461,6 +1461,7 @@ igoberaargau.ch
 igoberau.ch
 igoberkulm.ch
 igodoc.ch
+igoe.ch
 igoeb.ch
 igoelysia.ch
 igoennmier.ch
@@ -1481,7 +1482,6 @@ igolfstats.ch
 igom.ch
 igomed.ch
 igonbertolotti.ch
-igonik.ch
 igonomic.ch
 igoo.ch
 igood.ch
@@ -1523,6 +1523,7 @@ igorjankovic.ch
 igorkeller.ch
 igorkorol.ch
 igorkuzmic.ch
+igorletina.ch
 igormartinek.ch
 igormichellod.ch
 igorochoa.ch
@@ -1545,8 +1546,8 @@ igot.ch
 igot365.ch
 igotech.ch
 igotit.ch
-igotlun.ch
 igotronics.ch
+igotthis.ch
 igou-r.ch
 igourmet.ch
 igoutdoor.ch
@@ -1561,7 +1562,6 @@ igp-sport.ch
 igp-strub.ch
 igp-technologies.ch
 igp-textiles.ch
-igp-vorsorge.ch
 igp-zuger-kirschtorte.ch
 igp-zugerkirschtorte.ch
 igp.ch
@@ -1573,6 +1573,7 @@ igpf.ch
 igpfans.ch
 igpferd.ch
 igpgastrowochen.ch
+igphelper.ch
 igphoto.ch
 igpk.ch
 igplm.ch
@@ -1580,6 +1581,7 @@ igpoolwehr.ch
 igpp.ch
 igpps.ch
 igpre.ch
+igpresent.ch
 igprivatesportanlagen.ch
 igprobauma.ch
 igprobuchsi.ch
@@ -1591,6 +1593,7 @@ igpromittellandwald.ch
 igpromurianer.ch
 igprozuba.ch
 igps.ch
+igpsarl.ch
 igpse.ch
 igpsport.ch
 igpt.ch
@@ -1605,7 +1608,9 @@ igpunkt.ch
 igpv.ch
 igpvb.ch
 igpz.ch
-igqk-ciqe.ch
+igpzmeienberg.ch
+igq-status.ch
+igq.ch
 igqk-cique.ch
 igqost.ch
 igqostschweiz.ch
@@ -1635,12 +1640,15 @@ igraph.ch
 igraphix.ch
 igraumplanung.ch
 igravur.ch
+igrcposeidon.ch
 igre.ch
 igrec.ch
 igreco.ch
 igreels.ch
+igreen.ch
 igreenswiss.ch
 igreenworld.ch
+igreeny.ch
 igrejashekinah.ch
 igrejauniversal.ch
 igrem.ch
@@ -1665,7 +1673,6 @@ igros.ch
 igrosengarten.ch
 igrot.ch
 igrotefabrik.ch
-igrotum.ch
 igroup.ch
 igrow.ch
 igrowled.ch
@@ -1673,7 +1680,6 @@ igrowth.ch
 igrp.ch
 igrqc.ch
 igrr-meilen.ch
-igrservices.ch
 igrsnw.ch
 igrunder.ch
 igruyere.ch
@@ -1681,7 +1687,6 @@ igrw.ch
 igs-ag.ch
 igs-beratungen.ch
 igs-bildung.ch
-igs-buhlmann.ch
 igs-ch.ch
 igs-dev.ch
 igs-dienstleistungen.ch
@@ -1722,6 +1727,7 @@ igsertig.ch
 igsev.ch
 igsf-ag.ch
 igsf.ch
+igsfs.ch
 igsgsv.ch
 igsh-first.ch
 igship.ch
@@ -1748,6 +1754,7 @@ igspielgruppenschweiz.ch
 igspitzestei.ch
 igsponsoring.ch
 igsport-gossau.ch
+igsport-maur.ch
 igsport-olten.ch
 igsport-pfaeffikon.ch
 igsport-staefa.ch
@@ -1762,7 +1769,6 @@ igsportschweiz.ch
 igsportsg.ch
 igsportspeicher.ch
 igsportstadt-sg.ch
-igsporttoto-sg.ch
 igsportvereineaarau.ch
 igsr.ch
 igss.ch
@@ -1782,13 +1788,13 @@ igsuedufer.ch
 igsuisse-christbaum.ch
 igsv-luzern.ch
 igsv.ch
+igsvluzern.ch
 igsw.ch
 igswissshop.ch
 igsz.ch
 igt-ag.ch
 igt-heig-vd.ch
 igt-heig.ch
-igt-luzern.ch
 igt-sh.ch
 igt-swiss.ch
 igt-tauchen.ch
@@ -1837,7 +1843,6 @@ iguara.ch
 iguard.ch
 igub.ch
 igud.ch
-igudar.ch
 iguess.ch
 igug.ch
 iguga.ch
@@ -1846,7 +1851,6 @@ iguini.ch
 igujaeggi.ch
 igum.ch
 igumbi.ch
-igunbb.ch
 igur.ch
 igus.ch
 igusa.ch
@@ -1869,6 +1873,7 @@ igvelo-oberaargau.ch
 igvelo.ch
 igveloamriswil.ch
 igvelobern.ch
+igvelohtg.ch
 igveloolten.ch
 igvelowinterthur.ch
 igverkehr.ch
@@ -1886,7 +1891,6 @@ igvmediaoffers.ch
 igvmediasales.ch
 igvt.ch
 igvtravel.ch
-igvtravels.ch
 igvz.ch
 igw-schweiz.ch
 igw-uta.ch
@@ -1923,7 +1927,7 @@ igww.ch
 igx.ch
 igy.ch
 igyachtservice.ch
-igz-zofingen.ch
+igz-shop.ch
 igz.ch
 igzdt.ch
 igzeit.ch

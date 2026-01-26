@@ -8,7 +8,6 @@ p-21.ch
 p-26.ch
 p-27.ch
 p-3d.ch
-p-4-c.ch
 p-4.ch
 p-5.ch
 p-9.ch
@@ -27,16 +26,15 @@ p-aa.ch
 p-ac.ch
 p-ad.ch
 p-ag.ch
-p-air.ch
 p-alig.ch
 p-all.ch
 p-alm.ch
 p-amichel.ch
 p-andenmatten.ch
-p-app.ch
 p-arc.ch
 p-arch-b.ch
 p-arch.ch
+p-art-ages.ch
 p-art-y.ch
 p-art.ch
 p-arts.ch
@@ -44,13 +42,11 @@ p-assessments-careers.ch
 p-assessments.ch
 p-b-a.ch
 p-b-i.ch
-p-b-m.ch
 p-b-s.ch
 p-b-y.ch
 p-b.ch
 p-bacher.ch
 p-ball.ch
-p-bass.ch
 p-bau.ch
 p-baumanagement.ch
 p-beratung.ch
@@ -58,6 +54,7 @@ p-berger-consulting.ch
 p-bm.ch
 p-booking.ch
 p-bridge-inkasso.ch
+p-bs.ch
 p-build.ch
 p-burri.ch
 p-by.ch
@@ -67,7 +64,6 @@ p-c-e.ch
 p-c-g.ch
 p-c-immobilier.ch
 p-c-r.ch
-p-c-s.ch
 p-c.ch
 p-cad.ch
 p-call.ch
@@ -104,12 +100,10 @@ p-d-v.ch
 p-d.ch
 p-das.ch
 p-dat.ch
-p-data.ch
 p-deda.ch
 p-design.ch
 p-deux.ch
 p-dev.ch
-p-dienst.ch
 p-digital.ch
 p-discovery.ch
 p-displays.ch
@@ -156,7 +150,6 @@ p-gruppe.ch
 p-guards.ch
 p-guhl.ch
 p-h-a.ch
-p-h-e.ch
 p-h-i.ch
 p-h-marketing.ch
 p-h-o-t-o.ch
@@ -217,6 +210,7 @@ p-kt.ch
 p-kubli.ch
 p-l-i.ch
 p-l.ch
+p-lab.ch
 p-landolt.ch
 p-landschaftsarchitektur.ch
 p-laser.ch
@@ -225,6 +219,7 @@ p-lindberg.ch
 p-line.ch
 p-m-c.ch
 p-m-e.ch
+p-m-esthetics.ch
 p-m-facility.ch
 p-m-p.ch
 p-m-s.ch
@@ -299,7 +294,6 @@ p-production.ch
 p-profil.ch
 p-properties.ch
 p-propre-nettoyages.ch
-p-python.ch
 p-qm.ch
 p-qmb.ch
 p-qr.ch
@@ -315,7 +309,6 @@ p-ramadani.ch
 p-ramberi.ch
 p-refine.ch
 p-reichenstein.ch
-p-reidhaar.ch
 p-report.ch
 p-ries.ch
 p-rom.ch
@@ -354,7 +347,6 @@ p-shot100.ch
 p-sidler.ch
 p-sighthounds.ch
 p-soft.ch
-p-solaire.ch
 p-solutions.ch
 p-sonderegger.ch
 p-source.ch
@@ -384,7 +376,6 @@ p-trucks.ch
 p-ts.ch
 p-u-r.ch
 p-u-s.ch
-p-u.ch
 p-ub.ch
 p-und-s.ch
 p-v-energie.ch
@@ -401,6 +392,7 @@ p-wash.ch
 p-watch.ch
 p-wave.ch
 p-waves.ch
+p-way.ch
 p-wb.ch
 p-wealth.ch
 p-weber.ch
@@ -410,6 +402,9 @@ p-werder.ch
 p-windhunde.ch
 p-wirth.ch
 p-woman.ch
+p-wyss.ch
+p-x-j.ch
+p-x.ch
 p-xel.ch
 p-xr.ch
 p-y33.ch

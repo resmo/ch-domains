@@ -1,7 +1,6 @@
 wm-14.ch
 wm-2026.ch
 wm-2028.ch
-wm-a.ch
 wm-aquatec.ch
 wm-architectes.ch
 wm-architektur.ch
@@ -12,6 +11,7 @@ wm-bauconsulting.ch
 wm-baudienstleistung.ch
 wm-baudienstleistungen.ch
 wm-bauleitung.ch
+wm-baumandat.ch
 wm-beiz.ch
 wm-beizli.ch
 wm-bier.ch
@@ -20,6 +20,7 @@ wm-coop.ch
 wm-corner.ch
 wm-data.ch
 wm-dev.ch
+wm-energie-zukunft-schweiz.ch
 wm-energie.ch
 wm-fahrzeugteile.ch
 wm-fanartikel.ch
@@ -39,7 +40,6 @@ wm-immo.ch
 wm-immobilien.ch
 wm-karten.ch
 wm-kat.ch
-wm-legal.ch
 wm-live.ch
 wm-media.ch
 wm-medien.ch
@@ -90,6 +90,7 @@ wm10.ch
 wm100.ch
 wm2023.ch
 wm2025.ch
+wm2026-tippspiel.ch
 wm2026.ch
 wm2026fribourg.ch
 wm2026tippspiel.ch
@@ -108,10 +109,12 @@ wmaerki.ch
 wmag.ch
 wmail.ch
 wmak.ch
+wmalvier.ch
 wman.ch
 wmapo.ch
 wmarch.ch
 wmarkt.ch
+wmas.ch
 wmat.ch
 wmathys.ch
 wmautohaus.ch
@@ -128,11 +131,11 @@ wmbrille.ch
 wmc-360.ch
 wmc-cf.ch
 wmc-einsiedeln.ch
+wmc-fid.ch
 wmc-finance.ch
 wmc-healthcare.ch
 wmc-holding.ch
 wmc-media.ch
-wmc-online.ch
 wmc-sinterstar.ch
 wmc-swiss.ch
 wmc-ventures.ch
@@ -158,11 +161,11 @@ wmd-capital.ch
 wmd-service.ch
 wmd.ch
 wmdata.ch
-wmdb.ch
 wmdcapital.ch
 wmdesignevents.ch
 wmdi.ch
 wmdruck.ch
+wmdworld.ch
 wme-therapie.ch
 wme.ch
 wmechanik.ch
@@ -190,7 +193,6 @@ wmfocus.ch
 wmfoerderer.ch
 wmfolientechnik.ch
 wmforum.ch
-wmfoto.ch
 wmftg.ch
 wmfts.ch
 wmfun.ch
@@ -228,7 +230,6 @@ wmkat-plus.ch
 wmkat.ch
 wmkatplus.ch
 wmkick.ch
-wmkpartner.ch
 wmkr.ch
 wmkt.ch
 wmkworld.ch
@@ -300,7 +301,6 @@ wmrenovation.ch
 wmreply.ch
 wmrevision.ch
 wmroseag.ch
-wmruettimann.ch
 wms-ag.ch
 wms-biel.ch
 wms-boxing.ch
@@ -327,6 +327,7 @@ wmsg.ch
 wmsgroup.ch
 wmshop.ch
 wmsi.ch
+wmsimmobilien.ch
 wmsolution.ch
 wmsolutions.ch
 wmssoftware.ch
@@ -342,6 +343,7 @@ wmteam.ch
 wmtec.ch
 wmtech.ch
 wmtgarage.ch
+wmthur.ch
 wmticket.ch
 wmtickets.ch
 wmtipps.ch
@@ -362,7 +364,6 @@ wmu.ch
 wmv.ch
 wmvps.ch
 wmvr.ch
-wmw-immobilien.ch
 wmw-schlosserei.ch
 wmw-wassermanufaktur.ch
 wmw.ch
@@ -375,6 +376,7 @@ wmx.ch
 wmxhost.ch
 wmxswiss.ch
 wmy.ch
+wmyb.ch
 wmz.ch
 wmzlc.ch
 wmzuerich.ch

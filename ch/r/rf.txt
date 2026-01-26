@@ -1,4 +1,5 @@
 rf-ag.ch
+rf-arch.ch
 rf-arte.ch
 rf-automobile.ch
 rf-baerenstark.ch
@@ -10,6 +11,7 @@ rf-capital.ch
 rf-clean.ch
 rf-consulting-lifestyle.ch
 rf-consulting.ch
+rf-costruire-e-abitare.ch
 rf-education-group.ch
 rf-education-groupe.ch
 rf-education.ch
@@ -18,6 +20,7 @@ rf-fahrausbildung.ch
 rf-fintech.ch
 rf-foundation.ch
 rf-garage.ch
+rf-grillcatering.ch
 rf-group.ch
 rf-groupe.ch
 rf-holzbauplanung.ch
@@ -31,12 +34,14 @@ rf-immosan.ch
 rf-informatique.ch
 rf-it-consult.ch
 rf-it.ch
+rf-kampagnen.ch
 rf-klima.ch
 rf-konzept.ch
 rf-law-llc.ch
 rf-law.ch
 rf-lebensfreude.ch
 rf-legal.ch
+rf-mail.ch
 rf-management.ch
 rf-montagen.ch
 rf-n.ch
@@ -52,8 +57,8 @@ rf-sense.ch
 rf-solution.ch
 rf-sound.ch
 rf-strategies.ch
+rf-swit.ch
 rf-tech.ch
-rf-techsupport.ch
 rf-tours.ch
 rf-treuhand.ch
 rf-u.ch
@@ -85,6 +90,7 @@ rfbauplanung.ch
 rfbeam.ch
 rfbeteiligungen.ch
 rfbkunst.ch
+rfbodensysteme.ch
 rfbox.ch
 rfbs.ch
 rfbstudio.ch
@@ -116,7 +122,6 @@ rfcs.ch
 rfd-rational-kuechen.ch
 rfd.ch
 rfdconseils.ch
-rfde.ch
 rfdesign.ch
 rfdeveloppement.ch
 rfdg.ch
@@ -131,10 +136,13 @@ rfehlmann.ch
 rfehr.ch
 rfeierabend.ch
 rfelements.ch
+rfelfel.ch
 rfeller.ch
 rfelser.ch
 rfentreprisegeneral.ch
+rfernandes.ch
 rferreira.ch
+rfexpress.ch
 rff-ag.ch
 rff-club.ch
 rff.ch
@@ -173,7 +181,6 @@ rfid-shop.ch
 rfid-swiss.ch
 rfid-technik.ch
 rfid-terminal.ch
-rfid-wallet.ch
 rfid.ch
 rfidacademia.ch
 rfidgate.ch
@@ -221,6 +228,7 @@ rfmanagement.ch
 rfmasa2025.ch
 rfmenuiserie.ch
 rfmgmt.ch
+rfmh.ch
 rfmicroneedling.ch
 rfmonitoring.ch
 rfms.ch
@@ -254,7 +262,9 @@ rfo-zurzibiet.ch
 rfo.ch
 rfo3n.ch
 rfo54.ch
+rfo59.ch
 rfoaare.ch
+rfoaareregion.ch
 rfoaaretal.ch
 rfoago.ch
 rfoalbis.ch
@@ -266,7 +276,6 @@ rfolenzburg.ch
 rfolenzburgseetal.ch
 rfolg.ch
 rfontana.ch
-rform.ch
 rformation.ch
 rfornaro.ch
 rforster.ch
@@ -274,7 +283,6 @@ rfosolutions.ch
 rfostockhorn.ch
 rfotografie.ch
 rfotomoments.ch
-rfotrachselwaldplus.ch
 rfoz.ch
 rfp-architekten.ch
 rfp-conseils.ch
@@ -312,10 +320,8 @@ rfriedlin.ch
 rfrlegal.ch
 rfroehliag.ch
 rfs-ag.ch
-rfs-altenberg.ch
 rfs-birs.ch
 rfs-dorneck-thierstein.ch
-rfs-ebenrain.ch
 rfs-est.ch
 rfs-frauenfeld.ch
 rfs-laufental.ch
@@ -331,7 +337,6 @@ rfs-thierstein.ch
 rfs-toggenburg.ch
 rfs.ch
 rfsa.ch
-rfsaltenberg.ch
 rfsbachtel.ch
 rfsc.ch
 rfsense.ch
@@ -354,17 +359,14 @@ rfsolutions.ch
 rfsor.ch
 rfssgb.ch
 rfst.ch
-rfsv.ch
+rfswit.ch
 rft-fpv.ch
 rft-germany.ch
 rft-management.ch
 rft-schweiz.ch
 rft.ch
 rftaxi.ch
-rftc.ch
-rfte.ch
 rftec.ch
-rftennis.ch
 rftfpv.ch
 rftm.ch
 rftreuhand.ch
@@ -378,8 +380,6 @@ rfusystem.ch
 rfv-aegerital.ch
 rfv-garage.ch
 rfv-gstaad.ch
-rfv-vauclair.ch
-rfv.ch
 rfvb.ch
 rfvbucheggberg.ch
 rfvc.ch
@@ -401,10 +401,12 @@ rfx-ing.ch
 rfx-vt.ch
 rfx.ch
 rfxlab.ch
+rfxmatch.ch
+rfxpro.ch
+rfxsearch.ch
+rfxtender.ch
 rfy.ch
 rfz.ch
 rfzart-glass.ch
 rfzart-photo.ch
 rfzart.ch
-rfzh.ch
-rfzuerich.ch

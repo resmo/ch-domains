@@ -18,6 +18,7 @@ tz-fm.ch
 tz-gbp.ch
 tz-gleis1.ch
 tz-holee.ch
+tz-immo.ch
 tz-jpy.ch
 tz-motorsport.ch
 tz-neuwiesenhof.ch
@@ -32,6 +33,7 @@ tz-transport.ch
 tz-usd.ch
 tz-wengerhof.ch
 tz-winterthur.ch
+tz-zh.ch
 tz-zuerich.ch
 tz1.ch
 tza.ch
@@ -42,6 +44,8 @@ tzam.ch
 tzamo.ch
 tzampata.ch
 tzampero.ch
+tzanos.ch
+tzanto.ch
 tzap.ch
 tzar-ocean.ch
 tzararogne.ch
@@ -51,7 +55,6 @@ tzarocean.ch
 tzat.ch
 tzatziki.ch
 tzaut.ch
-tzb-thun.ch
 tzb.ch
 tzbau.ch
 tzbern.ch
@@ -67,13 +70,13 @@ tzdkk.ch
 tze.ch
 tzeent.ch
 tzel.ch
+tzema.ch
 tzemp.ch
 tzen.ch
 tzertifikat.ch
 tzeth.ch
 tzeuderon.ch
 tzeur.ch
-tzevaswitzerland.ch
 tzf.ch
 tzff.ch
 tzfo.ch
@@ -92,7 +95,6 @@ tzi-coach.ch
 tzi-coaching.ch
 tzi.ch
 tzia.ch
-tziacco.ch
 tzialexis.ch
 tziart.ch
 tzig.ch
@@ -101,12 +103,12 @@ tzikal.ch
 tzikas.ch
 tzim.ch
 tzimmo.ch
+tzimmobilier.ch
 tzionas.ch
 tzipor.ch
 tziporhanefesh.ch
 tzj.ch
 tzjpy.ch
-tzk.ch
 tzl.ch
 tzler.ch
 tzm-alpin.ch
@@ -129,13 +131,12 @@ tzokey.ch
 tzone.ch
 tzones.ch
 tzonev.ch
-tzonio.ch
 tzonlinehandel.ch
 tzoucdana.ch
 tzoumacademy.ch
 tzoumaventure.ch
 tzoumaz.ch
-tzoumer.ch
+tzoumazbooking.ch
 tzoumevasion.ch
 tzoumhostel.ch
 tzoumy.ch
@@ -151,7 +152,6 @@ tzstromag.ch
 tzsz.ch
 tzt.ch
 tztk.ch
-tztr.ch
 tzu-group.ch
 tzu.ch
 tzueri.ch
@@ -173,6 +173,5 @@ tzw.ch
 tzweb.ch
 tzweinfelden.ch
 tzx.ch
-tzz-ag.ch
 tzz.ch
 tzzuerich.ch

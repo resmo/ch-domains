@@ -23,6 +23,7 @@ bm-campus.ch
 bm-cars.ch
 bm-chemie.ch
 bm-chirurgie.ch
+bm-cleaning-service.ch
 bm-coaching.ch
 bm-computer.ch
 bm-concept.ch
@@ -36,7 +37,6 @@ bm-dataprotect.ch
 bm-daul.ch
 bm-depannage.ch
 bm-desiena.ch
-bm-design.ch
 bm-dorfgarage-gmbh.ch
 bm-draussen.ch
 bm-drechslerei.ch
@@ -50,6 +50,7 @@ bm-emplois.ch
 bm-eng.ch
 bm-engineering.ch
 bm-exp.ch
+bm-facilityservice.ch
 bm-facilityservices.ch
 bm-family.ch
 bm-fenster.ch
@@ -76,6 +77,7 @@ bm-immoplus.ch
 bm-immoservice.ch
 bm-informatik.ch
 bm-ing.ch
+bm-insektenschutz.ch
 bm-installationen.ch
 bm-it.ch
 bm-keramik.ch
@@ -95,7 +97,9 @@ bm-management.ch
 bm-med.ch
 bm-media.ch
 bm-medical.ch
+bm-medizinbedarf.ch
 bm-messer.ch
+bm-metal.ch
 bm-mint.ch
 bm-mobility.ch
 bm-moerschwil.ch
@@ -174,6 +178,7 @@ bm2282.ch
 bm2biotechnology.ch
 bm2flex.ch
 bm2go.ch
+bm2sportflex.ch
 bm2togo.ch
 bm2vorbereitung.ch
 bm4.ch
@@ -201,6 +206,7 @@ bma8636.ch
 bmaag.ch
 bmaas.ch
 bmab.ch
+bmac.ch
 bmacademy.ch
 bmaccord.ch
 bmaconsulting.ch
@@ -211,6 +217,7 @@ bmag.ch
 bmah.ch
 bmaier.ch
 bmail.ch
+bmaillard.ch
 bmajobs.ch
 bmajordigital.ch
 bmaker.ch
@@ -228,6 +235,7 @@ bmanagment.ch
 bmanalytix.ch
 bmann.ch
 bmanz.ch
+bmap.ch
 bmapp.ch
 bmapro.ch
 bmaps.ch
@@ -239,6 +247,7 @@ bmarmier.ch
 bmarx.ch
 bmasolutions.ch
 bmassistenz.ch
+bmaster.ch
 bmastermind.ch
 bmatcha.ch
 bmathastic.ch
@@ -314,7 +323,6 @@ bmc.ch
 bmca.ch
 bmcag.ch
 bmcar.ch
-bmcarrelage.ch
 bmcars.ch
 bmcautomobilia.ch
 bmcb.ch
@@ -329,6 +337,7 @@ bmcenter.ch
 bmcest.ch
 bmcfaktura.ch
 bmcfilter.ch
+bmcg.ch
 bmcgroup.ch
 bmch.ch
 bmchelix.ch
@@ -345,15 +354,16 @@ bmcolor.ch
 bmcombo.ch
 bmconseils.ch
 bmconsult.ch
-bmconsultants.ch
 bmconsulting.ch
 bmcorporate.ch
 bmcracingcup.ch
+bmcreative.ch
 bmcs.ch
 bmcsoftware.ch
 bmcssi.ch
 bmcswiss.ch
 bmcswisstech.ch
+bmcv.ch
 bmcyoga.ch
 bmd-ing.ch
 bmd-kransysteme.ch
@@ -419,7 +429,6 @@ bmer.ch
 bmercier.ch
 bmereinigung.ch
 bmes.ch
-bmetal.ch
 bmethod.ch
 bmethodacademy.ch
 bmetry.ch
@@ -434,6 +443,7 @@ bmf-forum.ch
 bmf-ikea.ch
 bmf-info.ch
 bmf-luxury.ch
+bmf-nettoyage-automobile.ch
 bmf-sauvages.ch
 bmf-seilbahnen.ch
 bmf.ch
@@ -444,6 +454,7 @@ bmfag.ch
 bmfc.ch
 bmfgroup.ch
 bmfh.ch
+bmfidu.ch
 bmfinance.ch
 bmfinanz.ch
 bmfit.ch
@@ -472,7 +483,6 @@ bmg-s.ch
 bmg-security.ch
 bmg-swiss.ch
 bmg-treuhand.ch
-bmg-walzenbau.ch
 bmg-zh.ch
 bmg.ch
 bmg1907.ch
@@ -480,7 +490,6 @@ bmgams.ch
 bmgarten.ch
 bmgate.ch
 bmgc.ch
-bmgconsulting.ch
 bmgdetartrage.ch
 bmge.ch
 bmgeng.ch
@@ -502,7 +511,9 @@ bmgrights.ch
 bmgrightsmanagement.ch
 bmgroup-eg.ch
 bmgroup.ch
+bmgroupag.ch
 bmgrp.ch
+bmgrtnr.ch
 bmgrub.ch
 bmgs.ch
 bmgswiss.ch
@@ -553,8 +564,10 @@ bmigroup.ch
 bmilab.ch
 bmillasson.ch
 bmilos.ch
+bmimmoag.ch
 bmimmobilien.ch
 bmimmosa.ch
+bmimpulse.ch
 bmine.ch
 bmineconsulting.ch
 bminfo.ch
@@ -563,6 +576,7 @@ bminformatik.ch
 bmip.ch
 bmiraculous.ch
 bmirechner.ch
+bmirechners.ch
 bmisolutions.ch
 bmistudio.ch
 bmitalia.ch
@@ -601,6 +615,7 @@ bmleistung.ch
 bmlife.ch
 bmlimousine.ch
 bmliving.ch
+bmll.ch
 bmlutz.ch
 bmlv.ch
 bmm-baumanagement.ch
@@ -655,6 +670,7 @@ bmos.ch
 bmoser.ch
 bmotechnique.ch
 bmotechniques.ch
+bmotogp.ch
 bmotreuhand.ch
 bmottaz.ch
 bmove.ch
@@ -662,6 +678,7 @@ bmoves.ch
 bmowp.ch
 bmozzetti.ch
 bmp-ag.ch
+bmp-architetti.ch
 bmp-atelier.ch
 bmp-bautechnik.ch
 bmp-betriebs-ag.ch
@@ -704,11 +721,13 @@ bmpn.ch
 bmpof.ch
 bmponline.ch
 bmprimeliving.ch
+bmprivateviptravel.ch
 bmpruefung.ch
 bmps.ch
 bmpsagl.ch
 bmpschweiz.ch
 bmpservice.ch
+bmpsocial.ch
 bmpstudy.ch
 bmpt.ch
 bmptrans.ch
@@ -734,7 +753,6 @@ bmrenovations.ch
 bmrsoundlab.ch
 bmrt.ch
 bms-232632.ch
-bms-architektur.ch
 bms-bauhandel.ch
 bms-bern.ch
 bms-business-school.ch
@@ -758,7 +776,6 @@ bms-oncology.ch
 bms-onkologie.ch
 bms-pcshop.ch
 bms-pharma.ch
-bms-politics.ch
 bms-portal.ch
 bms-power.ch
 bms-promoshop.ch
@@ -790,6 +807,7 @@ bmsanitaire.ch
 bmsantech.ch
 bmsarchitecture.ch
 bmsarl.ch
+bmsbdy-azcloud.ch
 bmsboardinteraction.ch
 bmsbowling.ch
 bmsc.ch
@@ -836,11 +854,13 @@ bmssulmatic.ch
 bmst.ch
 bmsteam.ch
 bmsteintechag.ch
+bmstudio.ch
 bmstudiosuisse.ch
 bmsuisse.ch
 bmsvorbereitung-zuerich.ch
 bmsvorbereitung.ch
 bmsw.ch
+bmsweb.ch
 bmswin.ch
 bmswiss.ch
 bmszh.ch
@@ -873,9 +893,11 @@ bmtec.ch
 bmtechnic.ch
 bmtechnik.ch
 bmtg.ch
+bmth.ch
 bmtheater.ch
 bmtogo.ch
 bmtr.ch
+bmtractors.ch
 bmtransport.ch
 bmtraslochi.ch
 bmtreu.ch
@@ -904,10 +926,12 @@ bmusliji.ch
 bmutreuhand.ch
 bmv-gmbh.ch
 bmv-immo.ch
+bmv-verband.ch
 bmv.ch
 bmv92.ch
 bmvbau.ch
 bmvbauag.ch
+bmvision.ch
 bmvitrerie.ch
 bmvma.ch
 bmvorbereitung.ch
@@ -918,7 +942,6 @@ bmvvisp.ch
 bmw-02.ch
 bmw-2002.ch
 bmw-aargau.ch
-bmw-abo.ch
 bmw-abt-liestal.ch
 bmw-abt-muttenz.ch
 bmw-abt.ch
@@ -974,7 +997,6 @@ bmw-classic-cars.ch
 bmw-classic-motorsport.ch
 bmw-club-regio-basel.ch
 bmw-club-region-wil.ch
-bmw-club-wil.ch
 bmw-club-zuerichsee.ch
 bmw-club.ch
 bmw-clubs.ch
@@ -988,7 +1010,6 @@ bmw-creditcard.ch
 bmw-creditcardkonto.ch
 bmw-crissier.ch
 bmw-dealer.ch
-bmw-dielsdorf-shop.ch
 bmw-dielsdorf.ch
 bmw-dimab-payerne.ch
 bmw-dimab-yverdon.ch
@@ -1051,7 +1072,6 @@ bmw-insurance.ch
 bmw-isetta.ch
 bmw-jakob-widnau.ch
 bmw-janautos-riviera.ch
-bmw-janautos.ch
 bmw-karriere.ch
 bmw-klassiker-club.ch
 bmw-klassikerclub.ch
@@ -1111,12 +1131,12 @@ bmw-probefahrt.ch
 bmw-registration.ch
 bmw-richoz.ch
 bmw-rivapiana.ch
+bmw-roadshow.ch
 bmw-roeschmann.ch
 bmw-romandie.ch
 bmw-roseg.ch
 bmw-sauber-f1-team.ch
 bmw-schaffhausen.ch
-bmw-schlaepfer-bruettisellen.ch
 bmw-schlaepfer-volketswil.ch
 bmw-schlaepfer-wetzikon.ch
 bmw-schmid.ch
@@ -1147,6 +1167,7 @@ bmw-testfahrt.ch
 bmw-titan.ch
 bmw-torretta-biasca.ch
 bmw-torretta.ch
+bmw-transjurane.ch
 bmw-treff-ybrig.ch
 bmw-tuning.ch
 bmw-unold.ch
@@ -1226,8 +1247,8 @@ bmwgeneve.ch
 bmwgroup-advertiser.ch
 bmwgroup-business.ch
 bmwgroup-portal.ch
+bmwgroup-stream.ch
 bmwgroup.ch
-bmwgroupbrandexperiencecenter.ch
 bmwgroupbusiness.ch
 bmwgsgruppeschweiz.ch
 bmwi.ch
@@ -1262,8 +1283,10 @@ bmwshop.ch
 bmwshop24.ch
 bmwspezialist.ch
 bmwsuisse.ch
+bmwtechlab.ch
 bmwthunersee.ch
 bmwti.ch
+bmwtreffschweiz.ch
 bmwtuning.ch
 bmwverleih.ch
 bmwvolketswil.ch
@@ -1282,11 +1305,14 @@ bmwzentralschweiz.ch
 bmwzuerich.ch
 bmx-beroche.ch
 bmx-bike-schule.ch
+bmx-dev.ch
 bmx-echichens.ch
 bmx-emmental.ch
+bmx-events.ch
 bmx-geneve-inscriptions.ch
 bmx-geneve.ch
 bmx-kids.ch
+bmx-nv.ch
 bmx-rad.ch
 bmx-shop.ch
 bmx-show.ch
@@ -1306,6 +1332,7 @@ bmxflyingtigers.ch
 bmxfribourg.ch
 bmxgoldach.ch
 bmxkids.ch
+bmxlab.ch
 bmxluzern.ch
 bmxnv.ch
 bmxplace.ch
@@ -1318,7 +1345,9 @@ bmxtoday.ch
 bmxtracks.ch
 bmxvolketswil.ch
 bmxwinterthur.ch
+bmxworlds2031.ch
 bmxzetzwil.ch
+bmxzh.ch
 bmy.ch
 bmyb.ch
 bmyboy.ch

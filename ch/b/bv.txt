@@ -17,7 +17,6 @@ bv-group.ch
 bv-grundrechte.ch
 bv-holding.ch
 bv-manufacture.ch
-bv-media.ch
 bv-medicalbeauty.ch
 bv-medien.ch
 bv-motorsport.ch
@@ -25,6 +24,7 @@ bv-notaire.ch
 bv-rain.ch
 bv-s.ch
 bv-sa.ch
+bv-seefeld.ch
 bv-service.ch
 bv-tax.ch
 bv-technik.ch
@@ -41,7 +41,6 @@ bv-wallis.ch
 bv-wealth-management.ch
 bv-werte.ch
 bv-ws.ch
-bv-zeitschriften.ch
 bv2.ch
 bv24.ch
 bv2tech.ch
@@ -60,6 +59,7 @@ bvag-maienfeld.ch
 bvag.ch
 bvagwebshop.ch
 bvah.ch
+bvai.ch
 bval.ch
 bvalgrid.ch
 bvalm.ch
@@ -81,6 +81,7 @@ bvb-intern.ch
 bvb-karma-rider.ch
 bvb-oldtimer.ch
 bvb-online.ch
+bvb-promotion.ch
 bvb-shop.ch
 bvb-soccerschool.ch
 bvb-test.ch
@@ -95,6 +96,7 @@ bvbe.ch
 bvbern.ch
 bvbfans.ch
 bvbh.ch
+bvbinfo.ch
 bvbkarmarider.ch
 bvbnews.ch
 bvboldtimer.ch
@@ -128,7 +130,6 @@ bvd-bs.ch
 bvd-dietlikon.ch
 bvd-info.ch
 bvd-web.ch
-bvd.ch
 bvdict.ch
 bvdinfo.ch
 bvdm-kongress.ch
@@ -141,7 +142,6 @@ bventures.ch
 bver.ch
 bvertigo.ch
 bvet.ch
-bvevents.ch
 bvf-fiduciaire.ch
 bvf.ch
 bvfag.ch
@@ -161,16 +161,18 @@ bvg-fitcheck.ch
 bvg-grundlagen.ch
 bvg-intelligence.ch
 bvg-jungfrau.ch
+bvg-klar.ch
 bvg-kompetenz.ch
+bvg-lpp.ch
 bvg-mindestzins.ch
 bvg-mindestzinssatz.ch
 bvg-mitteilungen.ch
+bvg-online.ch
 bvg-plattform.ch
 bvg-portal.ch
 bvg-ratgeber.ch
 bvg-rating.ch
 bvg-rechner.ch
-bvg-reform-check.ch
 bvg-reform-ja.ch
 bvg-regress.ch
 bvg-regressportal.ch
@@ -197,7 +199,6 @@ bvg2020.ch
 bvg2025.ch
 bvg2030.ch
 bvga.ch
-bvgadmin.ch
 bvgag.ch
 bvgapotreuhand.ch
 bvgauskuenfte.ch
@@ -225,6 +226,7 @@ bvgr.ch
 bvgreform.ch
 bvgreport.ch
 bvgreporting.ch
+bvgroup.ch
 bvgroupe.ch
 bvgschweiz.ch
 bvgscout.ch
@@ -300,7 +302,6 @@ bvlarchivio.ch
 bvlaw.ch
 bvlegal.ch
 bvlgari.ch
-bvlgarivault.ch
 bvlt.ch
 bvluzern.ch
 bvm-asl.ch
@@ -323,12 +324,12 @@ bvn-ablation.ch
 bvn-ag.ch
 bvn-badminton.ch
 bvn.ch
+bvn8n.ch
 bvnablation.ch
 bvnails.ch
 bvnair.ch
 bvnbj.ch
 bvnm.ch
-bvnsvri.ch
 bvo.ch
 bvocapital.ch
 bvoice.ch
@@ -452,6 +453,7 @@ bvvlu.ch
 bvvw.ch
 bvw.ch
 bvwholding.ch
+bvwinvest.ch
 bvwphoto.ch
 bvx.ch
 bvy.ch
@@ -461,7 +463,6 @@ bvz-zuerich.ch
 bvz.ch
 bvza-sal.ch
 bvzb.ch
-bvzeitschriften.ch
 bvzh.ch
 bvzholding.ch
 bvzi-sal.ch

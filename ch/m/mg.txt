@@ -1,5 +1,6 @@
 mg-360info.ch
 mg-a.ch
+mg-acupuncture.ch
 mg-adlerhurden.ch
 mg-advisory.ch
 mg-aescherfeld.ch
@@ -34,7 +35,6 @@ mg-baugeschaeft.ch
 mg-bauleitung.ch
 mg-baumanagement.ch
 mg-baumann.ch
-mg-baumaschine.ch
 mg-bauservice.ch
 mg-bauunternehmung.ch
 mg-beatenberg.ch
@@ -97,7 +97,6 @@ mg-eischoll.ch
 mg-electricite.ch
 mg-electronic.ch
 mg-endingen.ch
-mg-engadin.ch
 mg-engelberg.ch
 mg-engelburg.ch
 mg-engineer.ch
@@ -159,6 +158,7 @@ mg-ie.ch
 mg-immo.ch
 mg-immobilien.ch
 mg-immobilier.ch
+mg-immocoaching.ch
 mg-info.ch
 mg-informatik.ch
 mg-ink.ch
@@ -182,7 +182,6 @@ mg-l.ch
 mg-la.ch
 mg-laser.ch
 mg-lauterbrunnen.ch
-mg-law.ch
 mg-lichtensteig.ch
 mg-loehningen.ch
 mg-logistics.ch
@@ -201,7 +200,6 @@ mg-massage.ch
 mg-massagen.ch
 mg-matterhorn.ch
 mg-mattmark.ch
-mg-maya-cakes.ch
 mg-mc.ch
 mg-medweth.ch
 mg-meierskappel.ch
@@ -226,6 +224,7 @@ mg-niederwil.ch
 mg-notaire.ch
 mg-nussbaeumli.ch
 mg-nw.ch
+mg-nyon.ch
 mg-o.ch
 mg-ob.ch
 mg-oberbueren.ch
@@ -317,7 +316,6 @@ mg-sz-ur.ch
 mg-t.ch
 mg-taeuffelen.ch
 mg-talk.ch
-mg-tax.ch
 mg-test-20201126.ch
 mg-thal.ch
 mg-theiler.ch
@@ -458,7 +456,6 @@ mgasp.ch
 mgaspar.ch
 mgaspoz.ch
 mgass.ch
-mgasse.ch
 mgassler.ch
 mgassocies.ch
 mgaswitzerland.ch
@@ -511,14 +508,12 @@ mgbb.ch
 mgbbe.ch
 mgbbh.ch
 mgbdata.ch
-mgbe.ch
 mgbeauty.ch
 mgbeinwil-so.ch
 mgbeinwil.ch
 mgbellwald.ch
 mgbenken.ch
 mgberatung.ch
-mgberg.ch
 mgbergsg.ch
 mgberguen.ch
 mgberlingen.ch
@@ -569,6 +564,7 @@ mgbuetschwil.ch
 mgbuetzberg.ch
 mgburgdorf.ch
 mgburotek.ch
+mgbusiness.ch
 mgbuttikon.ch
 mgc-computer.ch
 mgc-energies.ch
@@ -591,6 +587,7 @@ mgcm.ch
 mgcmatzingen.ch
 mgcoaching.ch
 mgconcept.ch
+mgconseilimmobilier.ch
 mgconseils.ch
 mgconstructions.ch
 mgconsult.ch
@@ -622,7 +619,6 @@ mgdetailing.ch
 mgdetligen.ch
 mgdh.ch
 mgdicken.ch
-mgdienstleistungen.ch
 mgdk.ch
 mgdom.ch
 mgdrive.ch
@@ -714,7 +710,6 @@ mgflims.ch
 mgfluehli.ch
 mgflumenthal.ch
 mgflums.ch
-mgfocusphotography.ch
 mgformation.ch
 mgforniture.ch
 mgfornitureindustriali.ch
@@ -735,7 +730,6 @@ mgga.ch
 mggals.ch
 mggansingen.ch
 mggarage.ch
-mggarageramsen.ch
 mggarageramsengmbh.ch
 mggb.ch
 mgge.ch
@@ -757,7 +751,6 @@ mggrindelwald.ch
 mggrischhei.ch
 mggrizzlies.ch
 mggrosshoechstetten.ch
-mggroup.ch
 mggruenenmatt.ch
 mggruesch.ch
 mggs.ch
@@ -838,6 +831,7 @@ mgimo.ch
 mgimport.ch
 mgineering.ch
 mginfo.ch
+mginformatiks.ch
 mginformatique.ch
 mginkwil.ch
 mginnerdomleschg.ch
@@ -878,6 +872,7 @@ mgkoppigen.ch
 mgkrattigen.ch
 mgkrauchthal.ch
 mgkreinach.ch
+mgks.ch
 mgkulm.ch
 mgkw.ch
 mgl-immo.ch
@@ -885,6 +880,7 @@ mgl-licht.ch
 mgl-stiftung.ch
 mgl.ch
 mgl1990.ch
+mgla.ch
 mglam.ch
 mglandiswil.ch
 mglangenbruck.ch
@@ -907,6 +903,7 @@ mglittau.ch
 mglivesound.ch
 mglm.ch
 mglmotorsport.ch
+mgln.ch
 mglogistica.ch
 mglonza.ch
 mglostorf.ch
@@ -919,18 +916,22 @@ mglyss.ch
 mgm-arch-ing.ch
 mgm-architectes.ch
 mgm-audio.ch
+mgm-cafe.ch
 mgm-cm.ch
 mgm-comdesign.ch
 mgm-diepoldsau.ch
 mgm-edile.ch
+mgm-excellence.ch
+mgm-fiduciaire.ch
 mgm-gastgeber-management.ch
 mgm-group.ch
 mgm-hifi.ch
 mgm-ibex.ch
 mgm-immobilien.ch
-mgm-lausanne.ch
+mgm-immobilier.ch
 mgm-messtechnik.ch
 mgm-mgr.ch
+mgm-partners.ch
 mgm-solutions.ch
 mgm-sp.ch
 mgm-sport.ch
@@ -941,13 +942,13 @@ mgmaerstetten.ch
 mgmaerwil.ch
 mgmaienfeld.ch
 mgmanage.ch
+mgmanagement.ch
 mgmarthe.ch
 mgmassage.ch
 mgmassaggi.ch
 mgmatten.ch
 mgmatzendorf.ch
 mgmaudio.ch
-mgmcafe.ch
 mgmchannel.ch
 mgme-neurotech.ch
 mgme.ch
@@ -958,8 +959,8 @@ mgmeinisberg.ch
 mgmeiringen.ch
 mgmeisterstuecke.ch
 mgmelchnau.ch
-mgmenziken.ch
 mgmettau.ch
+mgmfiduciaire.ch
 mgmg.ch
 mgmgarage.ch
 mgmgmt.ch
@@ -967,9 +968,9 @@ mgmgrand.ch
 mgmgrandcasino.ch
 mgmgrandhotel.ch
 mgmgrandresort.ch
-mgmgroup.ch
 mgmhifi.ch
 mgmhotel.ch
+mgmimmobilier.ch
 mgmmirage.ch
 mgmmiragecasino.ch
 mgmontagen.ch
@@ -977,19 +978,16 @@ mgmorschach.ch
 mgmosnang.ch
 mgmotor.ch
 mgmotors.ch
-mgmouchy.ch
 mgmoves.ch
+mgmpartners-recrutement.ch
 mgmpartners.ch
 mgmpsy.ch
-mgmr.ch
 mgmresorts.ch
-mgmsol.ch
 mgmsolaire.ch
 mgmsport.ch
 mgmt-bi.ch
 mgmt-consulting.ch
 mgmt-deb-massage.ch
-mgmt-investment.ch
 mgmt-it.ch
 mgmt-punkt.ch
 mgmt-system.ch
@@ -1030,12 +1028,12 @@ mgniedergoesgen.ch
 mgniederhasli.ch
 mgnn.ch
 mgnpartner.ch
-mgnproperty.ch
 mgnrecht.ch
 mgnsportcars.ch
 mgnt.ch
 mgntq.ch
 mgnuglar.ch
+mgnyon.ch
 mgo-realisations.ch
 mgo.ch
 mgob.ch
@@ -1057,7 +1055,6 @@ mgobersteckholz.ch
 mgoberurnen.ch
 mgobervazlenzerheide.ch
 mgoberwil.ch
-mgoe.ch
 mgoerlach.ch
 mgof.ch
 mgoh.ch
@@ -1103,6 +1100,7 @@ mgpatrimmoholding.ch
 mgpaudit.ch
 mgpb.ch
 mgpe.ch
+mgpeinture.ch
 mgperformance.ch
 mgpfeffikon.ch
 mgpiper-affoltern.ch
@@ -1114,7 +1112,6 @@ mgpmusic.ch
 mgportal.ch
 mgpratteln.ch
 mgpresearch.ch
-mgproductions.ch
 mgproject.ch
 mgps.ch
 mgpscooter.ch
@@ -1152,6 +1149,7 @@ mgrautomobiles.ch
 mgravuren.ch
 mgre.ch
 mgrecherswil.ch
+mgredline.ch
 mgreger.ch
 mgreichenbach.ch
 mgreichenburg.ch
@@ -1198,7 +1196,6 @@ mgs-cours-de-musique.ch
 mgs-group.ch
 mgs-music.ch
 mgs-naturstein.ch
-mgs-operations.ch
 mgs-sa.ch
 mgs-schweiz.ch
 mgs-stucki.ch
@@ -1212,7 +1209,6 @@ mgsafnern.ch
 mgsalongeneve.ch
 mgsantoni.ch
 mgsbyusw.ch
-mgsc.ch
 mgscaleplanes.ch
 mgschaenis.ch
 mgscherzingen.ch
@@ -1227,6 +1223,7 @@ mgschuepbach.ch
 mgschuepfheim.ch
 mgschwaderloch.ch
 mgschwarzenbach.ch
+mgschwellbrunn.ch
 mgschwend.ch
 mgschwerzenbach.ch
 mgschwindgrieder.ch
@@ -1236,13 +1233,13 @@ mgsd.ch
 mgse.ch
 mgsec.ch
 mgsecur.ch
-mgsecurity.ch
 mgseengen.ch
 mgseftigen.ch
 mgsennwald.ch
 mgseon.ch
 mgserneus.ch
 mgservices.ch
+mgservizi.ch
 mgseuzach.ch
 mgsevelen.ch
 mgsh.ch
@@ -1252,13 +1249,12 @@ mgsip.ch
 mgsirnach.ch
 mgsiselen.ch
 mgsisikon.ch
+mgsmarthomesolutions.ch
 mgsnaturstein.ch
 mgsnet.ch
 mgsoft.ch
 mgsoimaime.ch
 mgsonnenberg.ch
-mgsoperations.ch
-mgsp.ch
 mgspreitenbach.ch
 mgss.ch
 mgssa.ch
@@ -1305,12 +1301,14 @@ mgthom.ch
 mgthun.ch
 mgthundorf.ch
 mgti.ch
+mgtm.ch
 mgtoffen.ch
 mgtogo.ch
 mgtools.ch
 mgtow.ch
 mgtrade.ch
 mgtrades.ch
+mgtranslations.ch
 mgtreuhand.ch
 mgtrimmis.ch
 mgtrockenbau.ch
@@ -1331,6 +1329,7 @@ mguenten.ch
 mguerra.ch
 mguerreiro.ch
 mguestsalt.ch
+mguetg.ch
 mgugl.ch
 mgul.ch
 mgunion.ch
@@ -1363,7 +1362,6 @@ mgwald.ch
 mgwalensee.ch
 mgwalkringen.ch
 mgwalperswil.ch
-mgwaltenschwil.ch
 mgwangen.ch
 mgwattenwil.ch
 mgwattwil.ch
@@ -1391,6 +1389,7 @@ mgwynau.ch
 mgwynigen.ch
 mgwyssachen.ch
 mgx.ch
+mgy.ch
 mgysel.ch
 mgysi.ch
 mgyt.ch

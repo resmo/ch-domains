@@ -4,6 +4,7 @@ rt-automation.ch
 rt-bauleitung.ch
 rt-c.ch
 rt-cleaning.ch
+rt-compact.ch
 rt-consulting.ch
 rt-creation.ch
 rt-diedri.ch
@@ -16,7 +17,6 @@ rt-haustechnik.ch
 rt-hauswartungen.ch
 rt-immo.ch
 rt-immobewirtschaftung.ch
-rt-informatik.ch
 rt-integration.ch
 rt-juice.ch
 rt-line.ch
@@ -33,12 +33,12 @@ rt-solution.ch
 rt-spaces.ch
 rt-studio.ch
 rt-tect.ch
+rt-toiture.ch
 rt-zh.ch
 rt0.ch
 rt1.ch
 rt10thun.ch
 rt11.ch
-rt12-euromeeting25.ch
 rt12.ch
 rt14.ch
 rt15.ch
@@ -68,10 +68,10 @@ rt36.ch
 rt360.ch
 rt37.ch
 rt39sarnen.ch
-rt3d.ch
 rt4.ch
 rt40.ch
 rt40carnival.ch
+rt4h.ch
 rt4u.ch
 rt5.ch
 rt6.ch
@@ -104,6 +104,7 @@ rtb.ch
 rtbbasel.ch
 rtbcarrelage.ch
 rtbet.ch
+rtbetch.ch
 rtbgroup.ch
 rtbh.ch
 rtbike.ch
@@ -115,6 +116,7 @@ rtbrandscore.ch
 rtbridge.ch
 rtbstudio.ch
 rtbx.ch
+rtc-architekten.ch
 rtc-ch.ch
 rtc-couplings.ch
 rtc-seedorf.ch
@@ -128,6 +130,7 @@ rtchie-services.ch
 rtchie.ch
 rtci.ch
 rtcleaning.ch
+rtcombat.ch
 rtcsa.ch
 rtcski.ch
 rtcz.ch
@@ -149,6 +152,7 @@ rtech-solutions.ch
 rtech.ch
 rtechnics.ch
 rtechsolution.ch
+rteconsulting.ch
 rtei.ch
 rtek.ch
 rtest.ch
@@ -157,6 +161,7 @@ rtf-modell.ch
 rtf.ch
 rtf2030.ch
 rtf22.ch
+rtf24.ch
 rtf26.ch
 rtf30.ch
 rtfacility.ch
@@ -185,7 +190,6 @@ rth.ch
 rthaustechnik.ch
 rthbosshard.ch
 rthiel.ch
-rthn.ch
 rtho.ch
 rthofmann.ch
 rthph.ch
@@ -224,14 +228,13 @@ rtk-medientechnik.ch
 rtk-rohr-reinigungstechnik.ch
 rtk-rohrreinigungstechnik.ch
 rtk-schweiz.ch
-rtk-service.ch
 rtk-srs-media.ch
 rtk-swiss.ch
 rtk.ch
 rtk2030.ch
 rtkchuard.ch
 rtkfashion.ch
-rtkmedientechnik.ch
+rtkprecision.ch
 rtkr.ch
 rtkreuzlingen.ch
 rtkvision.ch
@@ -355,7 +358,8 @@ rtlzweicasino.ch
 rtlzweinow.ch
 rtlzweipresse.ch
 rtlzweispiele.ch
-rtm-sa.ch
+rtm-mori.ch
+rtm-skyvision.ch
 rtm-systems.ch
 rtm.ch
 rtm1992.ch
@@ -409,9 +413,7 @@ rtpdns.ch
 rtpe.ch
 rtpf.ch
 rtphosting.ch
-rtpmail.ch
 rtpower.ch
-rtps.ch
 rtr-ag.ch
 rtr-karting-school.ch
 rtr-kartingschool.ch
@@ -442,7 +444,6 @@ rtrorschach.ch
 rtrplayplus.ch
 rtrracing.ch
 rtrs.ch
-rtrsyno.ch
 rtrt.ch
 rtrv.ch
 rts-ag.ch
@@ -558,6 +559,7 @@ rtt-hypnose-hilft.ch
 rtt-revision.ch
 rtt.ch
 rttag.ch
+rttcnk.ch
 rtte.ch
 rtteam.ch
 rtthurgau.ch
@@ -567,6 +569,7 @@ rttoggenburg.ch
 rttr.ch
 rttsa.ch
 rttswiss.ch
+rtty.ch
 rtu.ch
 rtunes.ch
 rturner-photography.ch
@@ -629,7 +632,6 @@ rtwittenbach.ch
 rtwp.ch
 rtx.ch
 rtxb.ch
-rtxindustries.ch
 rtxo.ch
 rty.ch
 rtybvsd.ch

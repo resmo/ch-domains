@@ -18,7 +18,6 @@ pc-arzt.ch
 pc-assist.ch
 pc-assistent.ch
 pc-baltazar.ch
-pc-bauer.ch
 pc-beggingen.ch
 pc-beratung.ch
 pc-bern.ch
@@ -37,7 +36,6 @@ pc-broker.ch
 pc-brokerage.ch
 pc-bude.ch
 pc-buero.ch
-pc-build.ch
 pc-burgdorf.ch
 pc-cash-team.ch
 pc-cash.ch
@@ -45,14 +43,12 @@ pc-center.ch
 pc-ch.ch
 pc-choice.ch
 pc-clinic.ch
-pc-cloud.ch
 pc-club-basel.ch
 pc-club.ch
 pc-coach.ch
 pc-college.ch
 pc-comfortbrille.ch
 pc-concept.ch
-pc-config.ch
 pc-consulting.ch
 pc-cooling.ch
 pc-corpataux.ch
@@ -68,8 +64,10 @@ pc-doctor-zuerich.ch
 pc-doctor.ch
 pc-dokter.ch
 pc-doktor-basel.ch
+pc-doktor-bern.ch
 pc-doktor-frauenfeld.ch
 pc-doktor-winterthur.ch
+pc-doktor-zuerich.ch
 pc-doktor.ch
 pc-dornach.ch
 pc-economy.ch
@@ -82,6 +80,7 @@ pc-erik.ch
 pc-erlinsbach.ch
 pc-erste-hilfe.ch
 pc-erstehilfe.ch
+pc-et.ch
 pc-evo-2000.ch
 pc-evo-2k.ch
 pc-executive.ch
@@ -94,7 +93,6 @@ pc-fit.ch
 pc-fix.ch
 pc-flach.ch
 pc-flick.ch
-pc-flurlingen.ch
 pc-forum.ch
 pc-fox.ch
 pc-freak.ch
@@ -108,7 +106,6 @@ pc-fuer-behoerden.ch
 pc-fuer-schulen.ch
 pc-g.ch
 pc-game.ch
-pc-gamer-lausanne.ch
 pc-gamer.ch
 pc-games.ch
 pc-gaming.ch
@@ -160,12 +157,12 @@ pc-hilfe-tg.ch
 pc-hilfe-thun.ch
 pc-hilfe-unterseen.ch
 pc-hilfe-winterthur.ch
+pc-hilfe-zuerichsee-und-oberland.ch
 pc-hilfe.ch
 pc-hirni.ch
 pc-hitzkirchertal.ch
 pc-hofer.ch
 pc-homrig.ch
-pc-hotline.ch
 pc-huber.ch
 pc-immo.ch
 pc-info.ch
@@ -192,7 +189,6 @@ pc-klinik.ch
 pc-koblenz.ch
 pc-kompakt-lehrgang.ch
 pc-komplettsysteme.ch
-pc-konfigurator.ch
 pc-konfigurieren.ch
 pc-kontakt.ch
 pc-kreuzlingen.ch
@@ -245,6 +241,7 @@ pc-notruf.ch
 pc-oberwil.ch
 pc-occasionen.ch
 pc-office.ch
+pc-ohne-windows.ch
 pc-online-shop.ch
 pc-online.ch
 pc-opa.ch
@@ -285,6 +282,7 @@ pc-quick.ch
 pc-rafzerfeld.ch
 pc-ratgeber.ch
 pc-recycling.ch
+pc-reinach.ch
 pc-reinigung.ch
 pc-rent.ch
 pc-repair.ch
@@ -297,6 +295,7 @@ pc-reparaturservice.ch
 pc-reparierbar.ch
 pc-restposten.ch
 pc-rettung.ch
+pc-rig.ch
 pc-roth.ch
 pc-rupperswil.ch
 pc-s.ch
@@ -308,7 +307,6 @@ pc-schmiede.ch
 pc-schoeftland.ch
 pc-school.ch
 pc-schuetz.ch
-pc-schule.ch
 pc-schulung.ch
 pc-schulungen-online.ch
 pc-schulungen.ch
@@ -345,7 +343,6 @@ pc-specialist.ch
 pc-specialists.ch
 pc-spektrum.ch
 pc-spezial.ch
-pc-spezialist.ch
 pc-spezialisten.ch
 pc-spiel.ch
 pc-spiele.ch
@@ -372,7 +369,6 @@ pc-support-iseli.ch
 pc-support-kaiseraugst.ch
 pc-support-laufen.ch
 pc-support-liestal.ch
-pc-support-meilen.ch
 pc-support-moehlin.ch
 pc-support-muenchenstein.ch
 pc-support-ostschweiz.ch
@@ -423,7 +419,6 @@ pc-top.ch
 pc-total.ch
 pc-trade.ch
 pc-trainer-online.ch
-pc-trainer.ch
 pc-trimbach.ch
 pc-und-notebook-reparatur.ch
 pc-und-notebook-reparaturen.ch
@@ -453,7 +448,6 @@ pc-work.ch
 pc-works.ch
 pc-world.ch
 pc-worldag.ch
-pc-wow.ch
 pc-wyland.ch
 pc-zbinden.ch
 pc-zentrum.ch
@@ -477,7 +471,6 @@ pc4.ch
 pc4all-its.ch
 pc4all.ch
 pc4gamer.ch
-pc4gamers.ch
 pc4kmu.ch
 pc4pr.ch
 pc4u.ch
@@ -498,6 +491,8 @@ pcab.ch
 pcaboard.ch
 pcad.ch
 pcadmin.ch
+pcag-hagel.ch
+pcag-medical.ch
 pcag.ch
 pcagent.ch
 pcaid.ch
@@ -518,9 +513,6 @@ pcandy.ch
 pcankauf.ch
 pcanonica.ch
 pcapital.ch
-pcapitalsecurities.ch
-pcapitalsecurity.ch
-pcapitl.ch
 pcapredict.ch
 pcarchitetti.ch
 pcard.ch
@@ -536,7 +528,6 @@ pcassistance.ch
 pcastuces.ch
 pcasuisse.ch
 pcatcloud.ch
-pcatelier.ch
 pcathome.ch
 pcattoni.ch
 pcatwork.ch
@@ -567,11 +558,13 @@ pcberatung.ch
 pcbern.ch
 pcbethlehem.ch
 pcbetreuer.ch
+pcbhouse.ch
 pcbie.ch
 pcblog.ch
 pcbluecode-services.ch
 pcbluecode.ch
 pcboard.ch
+pcboner.ch
 pcbpiezotronics.ch
 pcbpool.ch
 pcbr.ch
@@ -603,6 +596,7 @@ pcca.ch
 pccaddie.ch
 pccag.ch
 pccar.ch
+pccards.ch
 pccash.ch
 pccc.ch
 pccenter-basel.ch
@@ -613,7 +607,6 @@ pcch.ch
 pccheck24.ch
 pcchlyparis.ch
 pcchoice.ch
-pccloud.ch
 pcclub.ch
 pccm.ch
 pccmachines.ch
@@ -640,15 +633,12 @@ pcdax.ch
 pcdc.ch
 pcdeal.ch
 pcdealer.ch
-pcdeals.ch
 pcdelfin.ch
 pcdelight.ch
 pcdeller.ch
 pcdepannage.ch
 pcdh19suisse.ch
 pcdiffusion.ch
-pcdirect.ch
-pcdiscount.ch
 pcdispo.ch
 pcdivezen.ch
 pcdo-fleet.ch
@@ -661,7 +651,6 @@ pcdog.ch
 pcdok.ch
 pcdoktor-brugg.ch
 pcdoktor.ch
-pcdoktoren.ch
 pcdomain.ch
 pcdomains.ch
 pcdominic.ch
@@ -669,7 +658,7 @@ pcdr.ch
 pcdream.ch
 pcds.ch
 pce-airsoft.ch
-pce-entreprise.ch
+pce-estavayer.ch
 pce-home.ch
 pce-outplacement-vs.ch
 pce-rnd-test-cloud.ch
@@ -686,7 +675,6 @@ pcengel.ch
 pcengelberg.ch
 pcengines.ch
 pcentral.ch
-pcereghetti.ch
 pcernst.ch
 pcerstehilfe.ch
 pcert.ch
@@ -702,7 +690,6 @@ pcextension.ch
 pcf-management.ch
 pcf.ch
 pcf4.ch
-pcfachmannkmu.ch
 pcfactory.ch
 pcfahrwangen.ch
 pcfan.ch
@@ -726,10 +713,13 @@ pcfribourg.ch
 pcfriend.ch
 pcfriendly.ch
 pcfrik.ch
+pcfritz.ch
 pcfs.ch
+pcfuchs-henau.ch
 pcfuchs.ch
 pcg-ag.ch
 pcg-classification.ch
+pcg-dr-gut.ch
 pcg-group.ch
 pcg-liste.ch
 pcg-schweiz.ch
@@ -748,6 +738,7 @@ pcgate.ch
 pcgay.ch
 pcgb.ch
 pcgebraucht.ch
+pcgeneve.ch
 pcgenoud.ch
 pcgerber.ch
 pcgestion.ch
@@ -755,7 +746,6 @@ pcgi.ch
 pcginternational.ch
 pcgo.ch
 pcgrafik.ch
-pcgswiss.ch
 pcgugu.ch
 pcguide.ch
 pcguru.ch
@@ -794,7 +784,6 @@ pchilfeschweiz.ch
 pchilfezuerich.ch
 pchm.ch
 pchomeservice.ch
-pchotline.ch
 pchp.ch
 pchr.ch
 pchshop.ch
@@ -816,6 +805,7 @@ pci-moesa.ch
 pci-morges.ch
 pci-multicolor.ch
 pci-ne.ch
+pci-nyon.ch
 pci-oron.ch
 pci-pneus.ch
 pci-proxy.ch
@@ -829,6 +819,7 @@ pci3valli.ch
 pcibellinzonese.ch
 pcicomputer.ch
 pcid.ch
+pcideal.ch
 pcieuropa.ch
 pcieurope.ch
 pcigar.ch
@@ -854,7 +845,6 @@ pcitdoktor.ch
 pciticino.ch
 pcits.ch
 pciuetella.ch
-pcivaud.ch
 pcivd.ch
 pcj.ch
 pcjax.ch
@@ -862,6 +852,7 @@ pcjohn.ch
 pcjr.ch
 pcju.ch
 pck-holding.ch
+pck.ch
 pckauf.ch
 pckaufen.ch
 pckd.ch
@@ -893,7 +884,6 @@ pclade.ch
 pcladen.ch
 pcland.ch
 pclandquart.ch
-pclann.ch
 pclc.ch
 pclconsulting.ch
 pcldns01.smis.ch
@@ -913,7 +903,6 @@ pclpr202451.ch
 pcluzern.ch
 pcm-advisory.ch
 pcm-cardiacservice.ch
-pcm-concept.ch
 pcm-groupe.ch
 pcm-institut.ch
 pcm-online.ch
@@ -939,7 +928,6 @@ pcmania.ch
 pcmaniaque.ch
 pcmap.ch
 pcmarket.ch
-pcmarkt.ch
 pcmassotherapeute.ch
 pcmaster.ch
 pcmatch.ch
@@ -948,12 +936,9 @@ pcmcia.ch
 pcmclinicaltrials.ch
 pcmconsulting.ch
 pcmechafaudage.ch
-pcmechafaudages.ch
 pcmedia.ch
 pcmega.ch
-pcmeischter.ch
 pcmeisser.ch
-pcmeister.ch
 pcmeyer.ch
 pcmgeneva.ch
 pcmichel.ch
@@ -973,9 +958,7 @@ pcmtrials.ch
 pcmueller.ch
 pcmuenchwilen.ch
 pcmuseum.ch
-pcmusic.ch
 pcmvs.ch
-pcmw.ch
 pcmz.ch
 pcn-s.ch
 pcn.ch
@@ -992,11 +975,13 @@ pcninfra.ch
 pcnotarzt.ch
 pcnotebookreparatur.ch
 pcnotfall.ch
+pcnotruf.ch
 pcns.ch
 pcntech.ch
 pco-geneva.ch
 pco-group.ch
 pco-hygiene.ch
+pco-less.ch
 pco.ch
 pcoccasionen.ch
 pcode.ch
@@ -1006,6 +991,7 @@ pcog.ch
 pcoin.ch
 pcoip.ch
 pcok.ch
+pcoless.ch
 pcom.ch
 pcommeprincess.ch
 pcon-training.ch
@@ -1036,18 +1022,17 @@ pcordonier.ch
 pcorner.ch
 pcos-schweiz.ch
 pcos.ch
-pcostruzionieservizi.ch
 pcostschweiz.ch
 pcoupysa.ch
 pcoutlet.ch
 pcp-academy.ch
-pcp-ag.ch
 pcp-mercuriurval.ch
 pcp.ch
 pcpackage.ch
 pcpannendienst.ch
 pcparts.ch
 pcpauschal.ch
+pcpc.ch
 pcpcapital.ch
 pcperfect.ch
 pcperfekt.ch
@@ -1059,7 +1044,6 @@ pcpit.ch
 pcpix.ch
 pcplanet13.ch
 pcplus.ch
-pcpm.ch
 pcpmetal.ch
 pcport.ch
 pcportablepascher.ch
@@ -1077,21 +1061,17 @@ pcprofisa.ch
 pcprofishop.ch
 pcprofitsa.ch
 pcprofiweb.ch
-pcproject.ch
 pcproweb.ch
-pcpt.ch
 pcptherapy.ch
 pcpulse.ch
 pcq.ch
 pcr-club.ch
 pcr-factoryswiss.ch
 pcr-realtime.ch
-pcr-schnelltest.ch
 pcr-schweiz.ch
 pcr-st-gallen.ch
 pcr-test.ch
 pcr-testing.ch
-pcr-tests.ch
 pcr-winterthur.ch
 pcr-zimmerli.ch
 pcr-zuerich.ch
@@ -1121,7 +1101,6 @@ pcrm.ch
 pcrrealtime.ch
 pcrtaxi.ch
 pcrtest.ch
-pcrtests.ch
 pcrupperswil.ch
 pcrw.ch
 pcs-artsfusion.ch
@@ -1161,7 +1140,6 @@ pcsarl.ch
 pcschmied.ch
 pcschmiede.ch
 pcscholl.ch
-pcschulung.ch
 pcschulungenonline.ch
 pcschutz.ch
 pcschweiz.ch
@@ -1177,9 +1155,13 @@ pcservice-bern.ch
 pcservice-winterthur.ch
 pcservice-zo.ch
 pcservice.ch
+pcservice24-frauenfeld.ch
 pcservice24-schaffhausen.ch
+pcservice24-schweiz.ch
 pcservice24-winterthur.ch
+pcservice24-zuerich.ch
 pcservice24.ch
+pcservice24h.ch
 pcservicebolliger.ch
 pcservicecenter.ch
 pcservices.ch
@@ -1208,7 +1190,6 @@ pcsmobile.ch
 pcsms.ch
 pcsn.ch
 pcsnet.ch
-pcsoforthilfe.ch
 pcsoft.ch
 pcsoftlab.ch
 pcsoftlabs.ch
@@ -1232,7 +1213,6 @@ pcstore.ch
 pcstrub.ch
 pcsu.ch
 pcsuite.ch
-pcsup.ch
 pcsupp.ch
 pcsupport-bern.ch
 pcsupport-graf.ch
@@ -1252,6 +1232,7 @@ pcsupporting.ch
 pcsupportkeller.ch
 pcsupportwinterthur.ch
 pcsupportzurich.ch
+pcsurmesure.ch
 pcsursee.ch
 pcsv.ch
 pcsw.ch
@@ -1270,7 +1251,6 @@ pct-touch.ch
 pct-wg.ch
 pct-zuerich.ch
 pct.ch
-pctablets.ch
 pctaegerwilen.ch
 pctchemie.ch
 pcte.ch
@@ -1326,7 +1306,6 @@ pcupgrade.ch
 pcure2pay.ch
 pcuser.ch
 pcuster.ch
-pcv-arc.ch
 pcv.ch
 pcvaud.ch
 pcvc.ch

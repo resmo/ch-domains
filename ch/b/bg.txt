@@ -3,6 +3,7 @@ bg-aadorf.ch
 bg-aarberg.ch
 bg-aarwangen.ch
 bg-access.ch
+bg-aequitum.ch
 bg-aeschi.ch
 bg-ag.ch
 bg-allschwil.ch
@@ -36,6 +37,7 @@ bg-cafe.ch
 bg-camperworld.ch
 bg-ccam.ch
 bg-club.ch
+bg-coaching.ch
 bg-construction.ch
 bg-consult.ch
 bg-consulting.ch
@@ -51,7 +53,6 @@ bg-eisenhammer.ch
 bg-entlebuch.ch
 bg-eschlikon.ch
 bg-ettingen.ch
-bg-facility.ch
 bg-fair.ch
 bg-falk.ch
 bg-flex.ch
@@ -84,7 +85,6 @@ bg-heubach.ch
 bg-hochuli-hilfiker.ch
 bg-hofstetten.ch
 bg-holzbau.ch
-bg-hr.ch
 bg-immobilien.ch
 bg-immoservice.ch
 bg-industries.ch
@@ -141,7 +141,6 @@ bg-sicher.ch
 bg-sissach.ch
 bg-solutions.ch
 bg-sonnengarten.ch
-bg-sonnenschutztechnik.ch
 bg-sporteam.ch
 bg-steckborn.ch
 bg-stjakob.ch
@@ -198,12 +197,12 @@ bgaare.ch
 bgabathuler.ch
 bgaclient.ch
 bgaechter.ch
+bgaequitum.ch
 bgaesch.ch
 bgaet.ch
 bgaf.ch
 bgag.ch
 bgaggiolitrans.ch
-bgai.ch
 bgame.ch
 bgames.ch
 bgamsoldingen.ch
@@ -215,12 +214,12 @@ bgarchitekten.ch
 bgarisdorf.ch
 bgarlesheim.ch
 bgartenbau.ch
-bgasig.ch
 bgasser.ch
 bgassurances.ch
 bgastore.ch
 bgattiswil.ch
 bgaurora.ch
+bgautomibles.ch
 bgautomobile.ch
 bgautovermietung.ch
 bgavocats.ch
@@ -232,7 +231,6 @@ bgb-fitness.ch
 bgb-gbbl.ch
 bgb-int.ch
 bgb-schweiz.ch
-bgb-shop.ch
 bgb-sicherheitstechnik.ch
 bgb-spincare.ch
 bgb-spinecare.ch
@@ -279,6 +277,7 @@ bgc-one.ch
 bgc.ch
 bgcafe.ch
 bgcapital.ch
+bgcar.ch
 bgcarrelage.ch
 bgcartrading.ch
 bgcbrokers.ch
@@ -308,12 +307,13 @@ bgconsulting.ch
 bgcs.ch
 bgcsarl.ch
 bgctechnique.ch
+bgd-ag.ch
 bgd-olten.ch
 bgd-zuerich.ch
 bgd.ch
+bgdag.ch
 bgdavos.ch
 bgdb.ch
-bgdesign.ch
 bgdi.ch
 bgdiessenhofen.ch
 bgdu.ch
@@ -322,6 +322,7 @@ bge-rbi.ch
 bge.ch
 bgeb.ch
 bgegg.ch
+bgei.ch
 bgeiser.ch
 bgeisseler.ch
 bgejahr.ch
@@ -357,8 +358,10 @@ bgfamilie.ch
 bgfashion.ch
 bgfiduciaire.ch
 bgfinvestment.ch
+bgfiwfgewrwrejfbewrhgbowegb.ch
 bgfml.ch
 bgfo.ch
+bgfpadvisory.ch
 bgfr.ch
 bgfreiland.ch
 bgfridolin.ch
@@ -367,7 +370,6 @@ bgg-greifensee.ch
 bgg-grueningen.ch
 bgg-wiflisburg.ch
 bgg.ch
-bgg1856.ch
 bgg4142.ch
 bggastronomie.ch
 bggb.ch
@@ -408,6 +410,7 @@ bginvestment.ch
 bgirls.ch
 bgit.ch
 bgital.ch
+bgj.ch
 bgj32.ch
 bgjenni.ch
 bgk-cgf.ch
@@ -437,6 +440,7 @@ bglass.ch
 bglaufen-stadt.ch
 bglaupen.ch
 bglaw.ch
+bgld.ch
 bgle.ch
 bglegal.ch
 bgliestal.ch
@@ -456,7 +460,6 @@ bgm-bau.ch
 bgm-beratung.ch
 bgm-beratungen.ch
 bgm-beso.ch
-bgm-betriebliches-gesundheitsmanagement.ch
 bgm-ccc.ch
 bgm-check.ch
 bgm-cockpit.ch
@@ -470,11 +473,9 @@ bgm-gipser-maler.ch
 bgm-gmbh.ch
 bgm-group-ag.ch
 bgm-kmu.ch
-bgm-kontor.ch
 bgm-konzept.ch
 bgm-leadership.ch
 bgm-liegenschaften.ch
-bgm-mwc.ch
 bgm-nordwestschweiz.ch
 bgm-ostschweiz.ch
 bgm-partners.ch
@@ -512,7 +513,6 @@ bgmettlen.ch
 bgmforum.ch
 bgmgraber.ch
 bgmitte.ch
-bgmkontor.ch
 bgmmedia.ch
 bgmnetzwerk.ch
 bgmo.ch
@@ -523,6 +523,7 @@ bgmprojekte.ch
 bgmr.ch
 bgmschweiz.ch
 bgmsuche.ch
+bgmswiss.ch
 bgmt.ch
 bgmultiservices.ch
 bgn-avocats.ch
@@ -530,9 +531,9 @@ bgn-swiss.ch
 bgn.ch
 bgniederbipp.ch
 bgnotikon.ch
+bgnw.ch
 bgnzwo.ch
 bgo-bern.ch
-bgo-cfs.ch
 bgo-holding.ch
 bgo-patrimoine.ch
 bgo.ch
@@ -550,7 +551,6 @@ bgoodrestaurants.ch
 bgorthodoxe-ge.ch
 bgosa.ch
 bgosh.ch
-bgost-cfsud.ch
 bgost.ch
 bgottlieb.ch
 bgov.ch
@@ -583,7 +583,6 @@ bgraedel.ch
 bgraf.ch
 bgrand.ch
 bgrange.ch
-bgrcheck.ch
 bgreen.ch
 bgreengmbh.ch
 bgreinach.ch
@@ -612,6 +611,7 @@ bgs-garage.ch
 bgs-gr.ch
 bgs-holding.ch
 bgs-management.ch
+bgs-nettoyage.ch
 bgs-service.ch
 bgs-so.ch
 bgs-swissdemenagement.ch
@@ -632,11 +632,14 @@ bgservizi.ch
 bgshops.ch
 bgsi.ch
 bgsicher.ch
+bgsie-courrendlin.ch
 bgsihlhalde.ch
 bgsilu.ch
 bgsissach.ch
 bgsj.ch
 bgslaw.ch
+bgslm-sarl.ch
+bgslm.ch
 bgso.ch
 bgsoft.ch
 bgsoftware.ch
@@ -650,6 +653,7 @@ bgsswiss.ch
 bgst.ch
 bgstores.ch
 bgstraettligen.ch
+bgstudios.ch
 bgstyle.ch
 bgsubingen.ch
 bgsuisse.ch
@@ -670,11 +674,11 @@ bgt-mediation.ch
 bgt-weinhandel.ch
 bgt.ch
 bgta.ch
-bgtatherapeutischemassagepraxis.ch
 bgtax.ch
 bgtech.ch
+bgtgames.ch
 bgtherwil.ch
-bgthun-bewerben.ch
+bgthun-zytig.ch
 bgthun.ch
 bgthunstetten.ch
 bgti.ch
@@ -696,7 +700,9 @@ bgu-winti.ch
 bgu.ch
 bguenthart.ch
 bguid.ch
+bguimmo.ch
 bguisseprivatebank.ch
+bgunt-vision.ch
 bgunterdorf.ch
 bgunterholz-recherswil.ch
 bgut.ch
@@ -706,7 +712,6 @@ bgv-asgs.ch
 bgv-chronikbuch.ch
 bgv-dielsdorf.ch
 bgv-ee.ch
-bgv-grischun.ch
 bgv-gvbs.ch
 bgv-hinwil.ch
 bgv-muenchenbuchsee.ch
@@ -742,7 +747,6 @@ bgwiese.ch
 bgwo.ch
 bgwohnen.ch
 bgwolhusen.ch
-bgworld.ch
 bgwtreuhand.ch
 bgx.ch
 bgz-buchwiesen.ch

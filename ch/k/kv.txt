@@ -25,7 +25,6 @@ kv-business-school.ch
 kv-business-schooltestlab.ch
 kv-business.ch
 kv-businessschool.ch
-kv-bvs.ch
 kv-chriesiland.ch
 kv-chur.ch
 kv-coach.ch
@@ -36,7 +35,6 @@ kv-digital.ch
 kv-duedingen.ch
 kv-edupool.ch
 kv-faescht.ch
-kv-fit.ch
 kv-flaachtal.ch
 kv-freiamt.ch
 kv-fricktal.ch
@@ -64,7 +62,6 @@ kv-kurse.ch
 kv-lap.ch
 kv-lehrabschluss.ch
 kv-lehrabschlusspruefung.ch
-kv-lehrmeister.ch
 kv-lehrmittel.ch
 kv-lehrstelle.ch
 kv-lehrstellen.ch
@@ -101,6 +98,7 @@ kv-schweiz.ch
 kv-schwyz.ch
 kv-seetal.ch
 kv-seewen.ch
+kv-seminare.ch
 kv-sensetal.ch
 kv-sh.ch
 kv-sprachschule.ch
@@ -139,6 +137,7 @@ kv2audio.ch
 kv4.ch
 kv4punkt0.ch
 kv64.ch
+kv999.ch
 kva-baden.ch
 kva-basel.ch
 kva-buchs.ch
@@ -190,6 +189,7 @@ kvatg.ch
 kvathurgau.ch
 kvatsch.ch
 kvaturgi.ch
+kvault.ch
 kvausbildung.ch
 kvavbl.ch
 kvawin.ch
@@ -210,6 +210,7 @@ kvbiel.ch
 kvbildung-portal.ch
 kvbildung.ch
 kvbl.ch
+kvbphotography.ch
 kvbrugg.ch
 kvbs.ch
 kvbsz.ch
@@ -237,13 +238,12 @@ kvd.ch
 kvdcv.ch
 kvdigital.ch
 kvdk.ch
-kvdomatems.ch
+kvdl.ch
 kvduebendorf.ch
 kvdverkehrsdienst.ch
 kve.ch
 kvedupool.ch
 kvedupoolcrm.ch
-kveg.ch
 kvegnach.ch
 kveinsiedeln.ch
 kvembrach.ch
@@ -290,7 +290,7 @@ kvhtg.ch
 kvhuttwil.ch
 kvi.ch
 kvick.ch
-kvickly.ch
+kvieto.ch
 kvik.ch
 kvimmobilier.ch
 kvin.ch
@@ -301,7 +301,6 @@ kvisuals.ch
 kvita.ch
 kviten.ch
 kvitto.ch
-kvityukrainu.ch
 kvj.ch
 kvjob.ch
 kvjobs.ch
@@ -334,7 +333,6 @@ kvlu.ch
 kvluzern.ch
 kvm.ch
 kvm2.ch
-kvma-evt.ch
 kvmaienfeld.ch
 kvmedia.ch
 kvmflex.ch
@@ -401,7 +399,6 @@ kvsau.ch
 kvschaffhausen.ch
 kvschweiz.ch
 kvseewen.ch
-kvseminare.ch
 kvsensetal.ch
 kvsh.ch
 kvsihlpost.ch
@@ -415,7 +412,6 @@ kvswiss.ch
 kvt-broker.ch
 kvt-fastening.ch
 kvt-koenig.ch
-kvt.ch
 kvtalente.ch
 kvtalents.ch
 kvtbroker.ch

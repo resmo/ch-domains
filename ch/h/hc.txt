@@ -11,9 +11,7 @@ hc-arbon.ch
 hc-baetterkinden.ch
 hc-bau.ch
 hc-bauconsulting.ch
-hc-beo-ibex.ch
 hc-beo-yetis.ch
-hc-beo-young-ibex.ch
 hc-beo-young-yetis.ch
 hc-berg.ch
 hc-biberist.ch
@@ -22,7 +20,6 @@ hc-c.ch
 hc-care.ch
 hc-cargo.ch
 hc-celtics.ch
-hc-ceresio.ch
 hc-chateaudoex.ch
 hc-chiasso.ch
 hc-co.ch
@@ -43,7 +40,6 @@ hc-emmenstrand.ch
 hc-ennethorw.ch
 hc-ermatingen.ch
 hc-facility.ch
-hc-gabelstapler.ch
 hc-gland.ch
 hc-glattfelden.ch
 hc-goldach-rorschach.ch
@@ -56,7 +52,6 @@ hc-jura-futur.ch
 hc-k8s.ch
 hc-ktv-altdorf.ch
 hc-laupersdorf.ch
-hc-lausanne.ch
 hc-lelab.ch
 hc-lens.ch
 hc-lerchenfeld.ch
@@ -87,7 +82,6 @@ hc-retec.ch
 hc-roadrunners.ch
 hc-romanshorn.ch
 hc-sa.ch
-hc-safety.ch
 hc-salvan.ch
 hc-sion.ch
 hc-solution.ch
@@ -95,6 +89,7 @@ hc-solutions.ch
 hc-stammheim.ch
 hc-store.ch
 hc-swiss.ch
+hc-talentsolutions.ch
 hc-technology.ch
 hc-tg.ch
 hc-thurgau.ch
@@ -105,6 +100,7 @@ hc-whitewolves.ch
 hc-winterthur.ch
 hc-wittenbach.ch
 hc-wohlen.ch
+hc-yverdon.ch
 hc-z.ch
 hc1.ch
 hc2.ch
@@ -119,12 +115,10 @@ hc8.ch
 hca-mon-amour.ch
 hca-studio.ch
 hca.ch
-hca360.ch
 hcabrum.ch
 hcacademy.ch
 hcad.ch
 hcadmin.ch
-hcagency.ch
 hcagentur.ch
 hcaj.ch
 hcajoie-academy.ch
@@ -159,16 +153,19 @@ hcare.ch
 hcas.ch
 hcasa.ch
 hcascona.ch
+hcashop.ch
 hcauen.ch
+hcb-bois.ch
+hcb-charpente.ch
 hcb-immo.ch
+hcb-menuiserie.ch
 hcb.ch
 hcbalcondujura.ch
 hcbassersdorf.ch
 hcbau.ch
+hcbcharpente.ch
 hcbelfaux.ch
-hcbeoibex.ch
 hcbeoyetis.ch
-hcbeoyoungibex.ch
 hcbeoyoungyetis.ch
 hcbernex.ch
 hcbernhardzell.ch
@@ -185,6 +182,7 @@ hcblackcats.ch
 hcblenio.ch
 hcbm.ch
 hcbmail.ch
+hcbmenuiserie.ch
 hcbnesslau.ch
 hcbruggen.ch
 hcbsa.ch
@@ -274,6 +272,7 @@ hceinsiedeln.ch
 hcelec-sa.ch
 hcelsau.ch
 hcem.ch
+hceo.ch
 hcermatingen.ch
 hceservices.ch
 hcexcellence.ch
@@ -296,6 +295,7 @@ hcfs.ch
 hcfsa.ch
 hcg-ag.ch
 hcg-bodyforming.ch
+hcg-bvm.ch
 hcg-gipser.ch
 hcg-hormony.ch
 hcg-klinik.ch
@@ -304,11 +304,9 @@ hcg-services.ch
 hcg-weightloss.ch
 hcg-zentrum.ch
 hcg.ch
-hcgabelstapler.ch
 hcgag.ch
 hcgallusbaeren.ch
 hcgdiaet.ch
-hcgdiet.ch
 hcgg.ch
 hcglarus.ch
 hcgmbh.ch
@@ -390,10 +388,9 @@ hcjm.ch
 hck-id.ch
 hck-mikronaehrstoffe.ch
 hck-vitalstoffe.ch
-hck.ch
 hckaltenbach.ch
 hckholding.ch
-hckloten.ch
+hckl.ch
 hcklusen.ch
 hcknhcks.ch
 hckonnect.ch
@@ -401,7 +398,6 @@ hckr.ch
 hckreuzlingen.ch
 hckriens-luzern.ch
 hckriens.ch
-hckzo.ch
 hcl-connect.ch
 hcl-finanz.ch
 hcl-mobile.ch
@@ -413,7 +409,6 @@ hclachen.ch
 hcladieslugano.ch
 hclan.ch
 hclaupersdorf.ch
-hclausanne.ch
 hclconnect.ch
 hclearing.ch
 hclehameau.ch
@@ -450,15 +445,16 @@ hcm-consulting.ch
 hcm-dx.ch
 hcm-dynamix.ch
 hcm-expert.ch
-hcm-experts.ch
 hcm-group.ch
 hcm-m.ch
 hcm-magazin.ch
 hcm-man.ch
 hcm-network.ch
 hcm-online.ch
+hcm-software.ch
 hcm-solutions.ch
 hcm.ch
+hcmaficamten.ch
 hcmagicstars.ch
 hcmail.ch
 hcmarcelin.ch
@@ -471,7 +467,6 @@ hcmed.ch
 hcmels.ch
 hcmenuiserie.ch
 hcmexpert.ch
-hcmexperts.ch
 hcmgoesdenmark.ch
 hcmgroup.ch
 hcmh.ch
@@ -561,7 +556,9 @@ hcr-saisonkarte.ch
 hcr.ch
 hcr2.ch
 hcr3.ch
+hcradioactivetransport.ch
 hcrartwork.ch
+hcrc.ch
 hcrec.ch
 hcredice.ch
 hcreidermoos.ch
@@ -593,14 +590,12 @@ hcs-edu.ch
 hcs-electronic.ch
 hcs-group.ch
 hcs-hauswartung.ch
-hcs-sarl.ch
 hcs-smartbuilding.ch
 hcs-smarthome.ch
 hcs-systems.ch
 hcs-technics.ch
 hcs.ch
 hcsc.ch
-hcschweiz.ch
 hcsconsulting.ch
 hcscontrols.ch
 hcsdigitalsolutions.ch
@@ -610,6 +605,7 @@ hcsg.ch
 hcsgroup.ch
 hcsierre.ch
 hcsion.ch
+hcsittertal-beavers.ch
 hcsittertal.ch
 hcsittertalbeavers.ch
 hcsj.ch
@@ -673,7 +669,6 @@ hcvalleverzasca.ch
 hcvallorbe.ch
 hcvd.ch
 hcvdr.ch
-hcveveyse.ch
 hcvikings.ch
 hcvillars1908.ch
 hcvintage.ch
@@ -682,7 +677,6 @@ hcvree.ch
 hcvw.ch
 hcvwa.ch
 hcvwacademy.ch
-hcw-circle.ch
 hcw.ch
 hcwaedenswil.ch
 hcwagner.ch
@@ -704,7 +698,6 @@ hcwohlen.ch
 hcwt.ch
 hcwuelflingen.ch
 hcww.ch
-hcx.ch
 hcy.ch
 hcyberlock.ch
 hcyverdon.ch

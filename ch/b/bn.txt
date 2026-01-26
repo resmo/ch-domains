@@ -12,12 +12,8 @@ bn-direct-test.ch
 bn-direct.ch
 bn-eg.ch
 bn-elektrotechnik.ch
-bn-elitewheels.ch
 bn-feedback.ch
-bn-gardinen.ch
-bn-gardinenshop.ch
 bn-geschaeftsbericht.ch
-bn-hauswartung.ch
 bn-immo-service-sg.ch
 bn-immo.ch
 bn-impfstoffe.ch
@@ -87,7 +83,6 @@ bnb-bodensee.ch
 bnb-bolligen.ch
 bnb-bondigemona.ch
 bnb-boscobello.ch
-bnb-brienzwiler.ch
 bnb-bussnang.ch
 bnb-caffetino-vino.ch
 bnb-canosa.ch
@@ -146,11 +141,9 @@ bnb-instipi.ch
 bnb-interlaken.ch
 bnb-jura.ch
 bnb-kleine-schaub.ch
+bnb-krone.ch
 bnb-krueger.ch
-bnb-la-tourelle.ch
 bnb-lacollina.ch
-bnb-lacoudre.ch
-bnb-lagrange.ch
 bnb-laupenring.ch
 bnb-lausanne.ch
 bnb-le-loft.ch
@@ -179,7 +172,6 @@ bnb-oberland.ch
 bnb-olten.ch
 bnb-orsieres.ch
 bnb-pc.ch
-bnb-pinocchio.ch
 bnb-prilly.ch
 bnb-rehalp.ch
 bnb-rheinfelden.ch
@@ -207,7 +199,6 @@ bnb-sunneblueme.ch
 bnb-sunnesite.ch
 bnb-swiss.ch
 bnb-switzerland.ch
-bnb-tramontana.ch
 bnb-treehome.ch
 bnb-treehouse.ch
 bnb-tschingel-thunersee.ch
@@ -239,7 +230,6 @@ bnb49.ch
 bnb4you.ch
 bnb57.ch
 bnbacademy.ch
-bnbaden.ch
 bnbalacrus.ch
 bnbalegria.ch
 bnbalps.ch
@@ -283,6 +273,7 @@ bnbgexgross.ch
 bnbgips.ch
 bnbgraechen.ch
 bnbheidiland.ch
+bnbhome.ch
 bnbhonigzeit.ch
 bnbidea.ch
 bnbike.ch
@@ -292,7 +283,6 @@ bnbinbasel.ch
 bnbjet.ch
 bnbkaegi.ch
 bnblaax.ch
-bnblafleur.ch
 bnblechalet.ch
 bnblenzburg.ch
 bnbloechli.ch
@@ -311,8 +301,6 @@ bnboffice.ch
 bnbois.ch
 bnborgoascona.ch
 bnbpartner.ch
-bnbre.ch
-bnbreakfast.ch
 bnbrentsolutions.ch
 bnbsanvittore.ch
 bnbschaerli.ch
@@ -351,7 +339,6 @@ bnbzumroessli.ch
 bnbzumschleif.ch
 bnbzunzgen.ch
 bnc-berlingen.ch
-bnc-burger.ch
 bnc-change.ch
 bnc-finance.ch
 bnc-lab.ch
@@ -365,6 +352,7 @@ bncchange.ch
 bnccostruzioni.ch
 bncg.ch
 bnchmk.ch
+bnckabelbaum.ch
 bncloud.ch
 bncm.ch
 bncmy9.ch
@@ -376,6 +364,7 @@ bnconsulenza.ch
 bncontrol.ch
 bncontrole.ch
 bncpharma.ch
+bncride.ch
 bncsfiduciaire.ch
 bncstyles.ch
 bnct.ch
@@ -389,13 +378,13 @@ bndeal.ch
 bndeveloppement.ch
 bndr.ch
 bndy.ch
+bne-ag.ch
 bne-akiwa.ch
 bne-fabrik.ch
 bne-garten-labor.ch
 bne-glattal.ch
 bne-unterrichten.ch
 bne.ch
-bnedu.ch
 bnet.ch
 bnete.ch
 bnettoyage.ch
@@ -404,6 +393,7 @@ bneumann.ch
 bnews.ch
 bnexo.ch
 bnexobidz.ch
+bnexoshop.ch
 bnext.ch
 bnextern.ch
 bnf-gmbh.ch
@@ -434,7 +424,6 @@ bnholding.ch
 bnhost.ch
 bnhw.ch
 bni-360.ch
-bni-bachtel.ch
 bni-blog.ch
 bni-ch.ch
 bni-chapter-hofburg.ch
@@ -444,6 +433,7 @@ bni-laerche.ch
 bni-moossee.ch
 bni-niesen.ch
 bni-olympique.ch
+bni-poya7.ch
 bni-schweiz.ch
 bni-suisse.ch
 bni-svizzera.ch
@@ -456,6 +446,7 @@ bni-wasserschloss.ch
 bni.ch
 bni1327.ch
 bni19-entreprendre.ch
+bnibalsberg.ch
 bnic.ch
 bnicapital.ch
 bnice.ch
@@ -464,7 +455,7 @@ bniconnect.ch
 bniggli.ch
 bnilacote.ch
 bnimpianti.ch
-bnipulse.ch
+bnindustrieboeden.ch
 bnischweiz.ch
 bnisource.ch
 bnisuisse.ch
@@ -477,13 +468,23 @@ bnits.ch
 bnivalais.ch
 bnivenoge.ch
 bniveveyse.ch
+bniweb.ch
+bnj-fm.ch
+bnj-info.ch
+bnj-sport.ch
+bnj-tv.ch
 bnj.ch
 bnja.ch
 bnjb.ch
 bnjfm.ch
+bnjinfo.ch
 bnjmultimedia.ch
 bnjo.ch
+bnjpub.ch
 bnjpublicite.ch
+bnjsport.ch
+bnjtv.ch
+bnjvideo.ch
 bnk-bausys.ch
 bnk.ch
 bnkfiduciaria.ch
@@ -504,9 +505,6 @@ bnl-turbo.ch
 bnl-unp.ch
 bnl.ch
 bnlawyers.ch
-bnlcc.ch
-bnlce.ch
-bnlcw.ch
 bnm-bus.ch
 bnm-fahrzeug.ch
 bnm-fahrzeuge.ch
@@ -576,12 +574,10 @@ bnreinigung.ch
 bnreuninger.ch
 bnrmusic.ch
 bns-ag.ch
-bns-coin.ch
 bns-company.ch
 bns-hosting.ch
 bns-indipendente.ch
 bns-oase.ch
-bns-order.ch
 bns-plus.ch
 bns-rz.ch
 bns-sanitaer.ch
@@ -592,7 +588,6 @@ bns1.brainsys.ch
 bns2.brainsys.ch
 bns3.brainsys.ch
 bnsac.ch
-bnscoin.ch
 bnscompany.ch
 bnsf-modellbahn.ch
 bnsgroup.ch
@@ -600,7 +595,6 @@ bnsgroupag.ch
 bnsh.ch
 bnsm.ch
 bnsolutions.ch
-bnsphardware.ch
 bnspired.ch
 bnst.ch
 bnstudio.ch
@@ -623,7 +617,6 @@ bnu.ch
 bnufer.ch
 bnussbaum.ch
 bnutri.ch
-bnutz.ch
 bnv-fok.ch
 bnv.ch
 bnva.ch

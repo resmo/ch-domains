@@ -60,7 +60,6 @@ pp-project.ch
 pp-protection.ch
 pp-reklamen.ch
 pp-ritschard.ch
-pp-sanitaer.ch
 pp-schweiz.ch
 pp-seevorstadt.ch
 pp-services.ch
@@ -114,6 +113,7 @@ ppao.ch
 ppaonline.ch
 pparac.ch
 ppare.ch
+ppark.ch
 pparking.ch
 ppartnersch.ch
 ppas.ch
@@ -122,6 +122,7 @@ ppat.ch
 ppataky.ch
 ppautotransport.ch
 ppautotreff.ch
+ppautotreffag.ch
 ppaworld.ch
 ppay.ch
 ppaz.ch
@@ -130,6 +131,7 @@ ppb-modellbahn.ch
 ppb.ch
 ppbau-immo.ch
 ppbaumann.ch
+ppbb.ch
 ppbeachwedding.ch
 ppbl.ch
 ppbm.ch
@@ -140,7 +142,6 @@ ppc-a.ch
 ppc-ag.ch
 ppc-automation.ch
 ppc-cham.ch
-ppc-day.ch
 ppc-e.ch
 ppc-electronic.ch
 ppc-electronics.ch
@@ -163,6 +164,8 @@ ppcfoilingswitzerland.ch
 ppcgeneve.ch
 ppcgroup.ch
 ppch.ch
+ppchat.ch
+ppchats.ch
 ppchem.ch
 ppcimmoservice.ch
 ppcinsider.ch
@@ -206,12 +209,12 @@ ppdev.ch
 ppdevelopment.ch
 ppdf.ch
 ppdgordola.ch
+ppdi-vd.ch
 ppdj.ch
 ppdl.ch
 ppdlab.ch
 ppdlugano.ch
 ppdlv.ch
-ppdmaggia.ch
 ppds.ch
 ppdt-june.ch
 ppdt.ch
@@ -220,7 +223,6 @@ ppe-admin.ch
 ppe-anemones.ch
 ppe-beausejour.ch
 ppe-chatenay.ch
-ppe-devstudio.ch
 ppe-dommartin.ch
 ppe-e.ch
 ppe-equipment.ch
@@ -228,16 +230,18 @@ ppe-evaluation.ch
 ppe-evolution.ch
 ppe-garamond.ch
 ppe-horizon.ch
+ppe-iles-a.ch
 ppe-la-pralie.ch
 ppe-labergerie.ch
 ppe-laferme.ch
 ppe-les-melezes.ch
 ppe-management.ch
 ppe-manager.ch
-ppe-mesanges.ch
 ppe-online.ch
+ppe-paradiso.ch
 ppe-parallele.ch
 ppe-ph2.ch
+ppe-plateires.ch
 ppe-prevert.ch
 ppe-promo.ch
 ppe-ronsier.ch
@@ -257,11 +261,11 @@ ppe.ch
 ppe1826.ch
 ppe1853.ch
 ppe21.ch
-ppeadmin.ch
 ppeasyprint.ch
 ppeaucoeurduvillage.ch
 ppebeloiseau.ch
 ppebranvaude.ch
+ppebrisemont.ch
 ppebrokers.ch
 ppecerisier.ch
 ppechampchamot.ch
@@ -293,6 +297,7 @@ ppeng.ch
 ppengineering.ch
 ppens.ch
 ppeople.ch
+ppeparadiso.ch
 pper.ch
 pperaviere.ch
 pperescue-solutions.ch
@@ -311,8 +316,11 @@ ppevignes.ch
 ppeviridis.ch
 ppf-bodyfence.ch
 ppf-point.ch
+ppf-schweiz.ch
 ppf-swiss.ch
 ppf-trading.ch
+ppf-winterthur.ch
+ppf4ukraine.ch
 ppfamily.ch
 ppfamilyoffice.ch
 ppfb.ch
@@ -351,7 +359,6 @@ pphealth.ch
 pphightech.ch
 pphilipp.ch
 pphm.ch
-pphone.ch
 pphoto.ch
 pphp.ch
 pphs.ch
@@ -376,6 +383,7 @@ ppinfo.ch
 ppintegra.ch
 ppintegrasa.ch
 ppinvest.ch
+ppinvestgroup.ch
 ppinvestment.ch
 ppinvestsa.ch
 ppionline.ch
@@ -392,6 +400,7 @@ ppj.ch
 ppk-kreuzer.ch
 ppk-sav.ch
 ppk.ch
+ppkarting.ch
 ppkern.ch
 ppkore.ch
 ppks.ch
@@ -442,12 +451,10 @@ ppmg.ch
 ppmgroup.ch
 ppmhosting.ch
 ppmind.ch
-ppminvestsa.ch
 ppmk.ch
 ppmm-mailing.ch
 ppmm-print.ch
 ppmm.ch
-ppmmail.ch
 ppmmedic.ch
 ppmonster.ch
 ppms.ch
@@ -464,12 +471,12 @@ ppo-ms-protect.ch
 ppo.ch
 ppo2.ch
 ppofoundation.ch
+ppogroup.ch
 ppoint.ch
 ppointet.ch
 ppolak.ch
 ppool.ch
 ppotime.ch
-ppower-ebikes.ch
 ppower.ch
 ppp-art.ch
 ppp-baden.ch
@@ -568,6 +575,7 @@ ppsag.ch
 ppsc.ch
 ppschirmer.ch
 ppschweiz.ch
+ppsdm.ch
 ppseal.ch
 ppseevorstadt.ch
 ppselection.ch
@@ -581,6 +589,7 @@ ppsign.ch
 ppskhadimallah.ch
 ppsnetwork.ch
 ppsoftware.ch
+ppsolutions.ch
 ppsound.ch
 ppsp.ch
 ppsph.ch
@@ -592,6 +601,7 @@ ppss-fh.ch
 ppsswitzerland.ch
 ppstudio.ch
 ppsuisse.ch
+ppsupply.ch
 ppsw.ch
 ppswiss.ch
 ppsy.ch
@@ -599,7 +609,6 @@ ppsys.ch
 ppsystem.ch
 ppt-management.ch
 ppt-patiententransport.ch
-ppt-template.ch
 ppt-zuerich.ch
 ppt.ch
 pptec.ch
@@ -616,6 +625,7 @@ pptt.ch
 ppttemplate.ch
 ppu-pana.ch
 ppu.ch
+ppugs.ch
 ppulse.ch
 ppundg.ch
 ppunktjenny.ch

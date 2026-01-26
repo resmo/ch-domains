@@ -15,6 +15,7 @@ ht-ethemi.ch
 ht-extra.ch
 ht-f.ch
 ht-fireprotection.ch
+ht-forst.ch
 ht-geo.ch
 ht-gmbh.ch
 ht-group.ch
@@ -28,6 +29,7 @@ ht-holding.ch
 ht-ibishi.ch
 ht-infraserv.ch
 ht-international.ch
+ht-k9.ch
 ht-lehner.ch
 ht-ost.ch
 ht-plan.ch
@@ -47,7 +49,7 @@ ht-transporte.ch
 ht-treuhand.ch
 ht-unique.ch
 ht-vonburg.ch
-ht1.ch
+ht-wegebau.ch
 ht2.ch
 ht5.ch
 hta-ag.ch
@@ -60,7 +62,6 @@ htag.ch
 htagcine.ch
 htagg.ch
 htagnet.ch
-htana.ch
 htapp.ch
 htarrosage.ch
 htartari.ch
@@ -85,6 +86,8 @@ htbag.ch
 htbau.ch
 htbc.ch
 htbconstruction.ch
+htboost.ch
+htboot.ch
 htboutique.ch
 htbplay.ch
 htbridge.ch
@@ -92,6 +95,7 @@ htbroker.ch
 htbrokerinfo.ch
 htbrokerportal.ch
 htbs.ch
+htbzh.ch
 htc-1-2.ch
 htc-baukader.ch
 htc-baukadervermittlung.ch
@@ -132,6 +136,7 @@ htcycle-capital.ch
 htczahnklinik.ch
 htd-schaer.ch
 htd.ch
+htdc.ch
 htderm.ch
 htdesign.ch
 htdjfipihj-edb0fr-hjadfbiiphsfdab.ch
@@ -169,6 +174,8 @@ htg24.ch
 htg81.ch
 htgkehl.ch
 htgp.ch
+htgrok.ch
+htgrok3.ch
 htgtruckparts.ch
 hth-design.ch
 hth-heimberg.ch
@@ -178,6 +185,7 @@ hth-shop.ch
 hth-swiss.ch
 hth-technology.ch
 hth.ch
+hthaeusermann.ch
 hthaustechnik.ch
 hthc.ch
 hthh.ch
@@ -185,7 +193,6 @@ hthoeni.ch
 hthospitality.ch
 hthosting.ch
 hthserrurier.ch
-hthz.ch
 hti-brennstoffzellen.ch
 hti-domiciliation.ch
 hti-fenster.ch
@@ -197,7 +204,6 @@ htiag.ch
 htimmobilien.ch
 htinfo.ch
 hting.ch
-htingenieure.ch
 htinternational.ch
 htipp.ch
 htis.ch
@@ -217,15 +223,16 @@ htl-sursee.ch
 htl-swiss.ch
 htl-titel.ch
 htl.ch
+htlab.ch
 htlaw.ch
 htlbuch.ch
-htlcb.ch
 htlchur.ch
 htlite.ch
 htln.ch
 htlocal.ch
 htm-cnc.ch
 htm-concepts.ch
+htm-industries.ch
 htm.ch
 htm1.ch
 htm22.ch
@@ -246,6 +253,7 @@ htmladen.ch
 htmldeveloper.ch
 htmlfx.ch
 htmlheld.ch
+htmli.ch
 htmlkurs.ch
 htmlshop.ch
 htmodellbau.ch
@@ -264,7 +272,7 @@ htobjekte.ch
 htoel.ch
 htoels.ch
 htohsarl.ch
-htop.ch
+htoibtconseils.ch
 htothefifthpower.ch
 htown-movement.ch
 htp-group.ch
@@ -342,6 +350,7 @@ htsoftware.ch
 htsolution.ch
 htsolutions.ch
 htss.ch
+htsservices.ch
 htst.ch
 htstreuhand.ch
 htsupport.ch
@@ -378,11 +387,11 @@ httpsilverservice.ch
 httpslemeilleurdeal.ch
 httpsms-umzug.ch
 httpsredirect.ch
-httpssamiamazzoughcom.ch
-httpsslrgtaeuffelench.ch
 httpstatus.ch
+httpswwwfeinwerkoptik-zuendch.ch
 httpswwwnegoziodelvino.ch
 httpswwwodortuberisswiss.ch
+httpswwwregieau.ch
 httpswwwrenovation-beton-cire-epoxy.ch
 httpswwwvogt-orthopaedieli.ch
 httpweshootfilms.ch
@@ -418,17 +427,16 @@ htwgate2.fh-htwchur.ch
 htwil.ch
 htx.ch
 htxgmbh.ch
-htxsolar.ch
 hty.ch
 htz-bern.ch
 htz-ev.ch
 htz-holding.ch
 htz-hundetrainingszentrum.ch
+htz-w.ch
 htz-wuerenlingen.ch
 htz.ch
 htzbern.ch
 htzh.ch
 htzm.ch
-htzug.ch
 htzw.ch
 htzzurzach.ch

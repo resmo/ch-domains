@@ -5,7 +5,6 @@ it-360.ch
 it-365.ch
 it-4-finance.ch
 it-4-you.ch
-it-4kmu.ch
 it-4revolution.ch
 it-4u.ch
 it-4you.ch
@@ -25,7 +24,6 @@ it-advo.ch
 it-aerzte.ch
 it-africa.ch
 it-ag.ch
-it-again.ch
 it-agentur.ch
 it-agile.ch
 it-ai.ch
@@ -44,8 +42,6 @@ it-altekanti.ch
 it-am-rhy.ch
 it-ambulance.ch
 it-ambulanz.ch
-it-ampel.ch
-it-ample.ch
 it-amsi.ch
 it-analysts.ch
 it-analytics.ch
@@ -94,6 +90,7 @@ it-bar.ch
 it-barth.ch
 it-base.ch
 it-basel.ch
+it-basics.ch
 it-basilicata.ch
 it-basislehrjahr.ch
 it-battaglia.ch
@@ -104,11 +101,11 @@ it-baumeister.ch
 it-bauphysik.ch
 it-be.ch
 it-beast.ch
+it-bechtle.ch
 it-benchmark.ch
 it-benchmarking.ch
 it-berater.ch
 it-beratung.ch
-it-beratung4kmu.ch
 it-berg.ch
 it-bergamo.ch
 it-bern.ch
@@ -147,10 +144,10 @@ it-buenzli.ch
 it-buero.ch
 it-bunker.ch
 it-burri.ch
+it-business-partner.ch
 it-business-solution.ch
 it-business-villa.ch
 it-business.ch
-it-butt.ch
 it-button.ch
 it-buude.ch
 it-by-yt.ch
@@ -167,7 +164,6 @@ it-career.ch
 it-careers.ch
 it-cases.ch
 it-cassano-all-ionio.ch
-it-cc.ch
 it-cdt.ch
 it-center.ch
 it-central.ch
@@ -198,6 +194,7 @@ it-collab.ch
 it-com.ch
 it-comersee.ch
 it-commerce.ch
+it-communication.ch
 it-community.ch
 it-como.ch
 it-competence-center-migros.ch
@@ -261,6 +258,7 @@ it-defense.ch
 it-demo.ch
 it-dental.ch
 it-design.ch
+it-desk.ch
 it-dettling.ch
 it-dev.ch
 it-developer.ch
@@ -269,7 +267,6 @@ it-didacware.ch
 it-dienst.ch
 it-dienste.ch
 it-dienstleister.ch
-it-dienstleistung.ch
 it-dienstleistungen-schweiz.ch
 it-dienstleistungen.ch
 it-digital.ch
@@ -282,8 +279,8 @@ it-docks.ch
 it-doctor.ch
 it-documentation.ch
 it-doktor.ch
-it-dokumentation.ch
 it-done.ch
+it-dreamjobs.ch
 it-drip.ch
 it-drive.ch
 it-due-diligence.ch
@@ -294,6 +291,7 @@ it-ebikes.ch
 it-economics.ch
 it-economy.ch
 it-ecosystems.ch
+it-education.ch
 it-edv.ch
 it-efficiency.ch
 it-efpp.ch
@@ -315,7 +313,9 @@ it-engineering-jobs.ch
 it-engineering.ch
 it-engler.ch
 it-enhanzz.ch
+it-entwickler-jobs.ch
 it-entwicklung.ch
+it-era.ch
 it-erfa.ch
 it-ermittler.ch
 it-erp.ch
@@ -335,10 +335,10 @@ it-f.ch
 it-fab.ch
 it-fabric.ch
 it-fachanwalt.ch
-it-fachkraeftemangel.ch
 it-factory.ch
 it-familles.ch
 it-family.ch
+it-fern.ch
 it-fernkurs-schweiz.ch
 it-fernkurse-schweiz.ch
 it-feuer.ch
@@ -352,6 +352,7 @@ it-firma.ch
 it-firmen.ch
 it-fit.ch
 it-fitness.ch
+it-fix-sg.ch
 it-fix.ch
 it-fixpreis.ch
 it-flatrate.ch
@@ -362,6 +363,7 @@ it-fokus.ch
 it-for-you.ch
 it-forensic.ch
 it-forensiker.ch
+it-forge.ch
 it-formasite.ch
 it-fornaro.ch
 it-fortbildung.ch
@@ -384,7 +386,6 @@ it-fuer-architekten.ch
 it-fuer-handwerker.ch
 it-fundgrube.ch
 it-furer.ch
-it-fusion.ch
 it-future.ch
 it-futzi.ch
 it-g.ch
@@ -398,7 +399,6 @@ it-ge.ch
 it-geek.ch
 it-gemma.ch
 it-geneva.ch
-it-geneve.ch
 it-gigolo.ch
 it-girl.ch
 it-girls.ch
@@ -424,8 +424,7 @@ it-haeusler.ch
 it-handel.ch
 it-handwerk.ch
 it-happens.ch
-it-hardware.ch
-it-head-search.ch
+it-haus.ch
 it-head.ch
 it-headhunter.ch
 it-heads.ch
@@ -447,7 +446,6 @@ it-hero.ch
 it-heroes.ch
 it-herrmann.ch
 it-hildebrand.ch
-it-hilf.ch
 it-hilfe-zuerich.ch
 it-hilfe.ch
 it-hiring.ch
@@ -456,7 +454,6 @@ it-homebase.ch
 it-hw.ch
 it-i-s.ch
 it-i4u.ch
-it-icetea.ch
 it-ich-unilu.ch
 it-ich.ch
 it-impuls.ch
@@ -485,10 +482,8 @@ it-interim.ch
 it-intransition.ch
 it-ip.ch
 it-is-chocolate.ch
-it-is-nice.ch
 it-is-spiess.ch
 it-is.ch
-it-iseli.ch
 it-italien.ch
 it-iten.ch
 it-iwb.ch
@@ -516,6 +511,7 @@ it-k.ch
 it-kabel.ch
 it-kantonsschulen.ch
 it-kanzlei.ch
+it-kaplan.ch
 it-karriere.ch
 it-kaufmann.ch
 it-keller.ch
@@ -528,6 +524,7 @@ it-kmudialog.ch
 it-know-how.ch
 it-knowledge-factory.ch
 it-knowledge-partners.ch
+it-kom.ch
 it-kommunal.ch
 it-kompetenz-zentrum.ch
 it-kompetenz.ch
@@ -550,7 +547,6 @@ it-kurier.ch
 it-kurse.ch
 it-kursleiter.ch
 it-kv.ch
-it-kws.ch
 it-lab.ch
 it-labor.ch
 it-labs.ch
@@ -607,6 +603,7 @@ it-mandat.ch
 it-mandate.ch
 it-mantor.ch
 it-manufactory.ch
+it-manufaktur.ch
 it-marche.ch
 it-market.ch
 it-markt.ch
@@ -628,6 +625,7 @@ it-media.ch
 it-mediation.ch
 it-mediationsstelle.ch
 it-medical.ch
+it-mentor.ch
 it-mentoring.ch
 it-merlo.ch
 it-merz.ch
@@ -647,6 +645,7 @@ it-navigator.ch
 it-nearshoring.ch
 it-negele.ch
 it-neighbour.ch
+it-neo.ch
 it-nerd.ch
 it-nerd24.ch
 it-nerds.ch
@@ -665,6 +664,7 @@ it-neustart.ch
 it-news.ch
 it-newsradio.ch
 it-next.ch
+it-nextcloud.ch
 it-nextstep.ch
 it-nicollier.ch
 it-ninja.ch
@@ -675,6 +675,7 @@ it-nordwestschweiz.ch
 it-notfall.ch
 it-notfall24.ch
 it-notfallmanagement.ch
+it-notification.ch
 it-nottwil.ch
 it-novum.ch
 it-nuclear.ch
@@ -706,6 +707,7 @@ it-organisation.ch
 it-organizer.ch
 it-os.ch
 it-ot.ch
+it-outsourcing-zuerich.ch
 it-outsourcing.ch
 it-p.ch
 it-palast.ch
@@ -748,17 +750,17 @@ it-profi.ch
 it-profis.ch
 it-project.ch
 it-projectmanagement.ch
-it-projects.ch
 it-projektcoach.ch
 it-projekte.ch
 it-projektleiter.ch
 it-projektleitung.ch
 it-projektmanagement-coach.ch
 it-projektmanagement.ch
-it-protection.ch
+it-pronto.ch
 it-provider.ch
 it-provinz-cosenza.ch
 it-provinz-lucca.ch
+it-provinz-trient.ch
 it-prozesse.ch
 it-pruefungen.ch
 it-pruefungsfragen.ch
@@ -768,6 +770,7 @@ it-puglia.ch
 it-q.ch
 it-qlab.ch
 it-quality.ch
+it-queen.ch
 it-quereinsteiger.ch
 it-r.ch
 it-rabbit.ch
@@ -795,7 +798,7 @@ it-remarketing.ch
 it-remo.ch
 it-rent.ch
 it-rental.ch
-it-reparatur.ch
+it-repair.ch
 it-republic.ch
 it-requests.ch
 it-research.ch
@@ -807,6 +810,7 @@ it-revision.ch
 it-revolution.ch
 it-revolution4u.ch
 it-rgrob.ch
+it-rheintal.ch
 it-ritter.ch
 it-rm.ch
 it-rockt.ch
@@ -865,7 +869,6 @@ it-security-cluster.ch
 it-security-days.ch
 it-security-jobs.ch
 it-security-online.ch
-it-security-tv.ch
 it-security.ch
 it-securityaudits.ch
 it-securitycheck.ch
@@ -885,7 +888,6 @@ it-service-desk.ch
 it-service-flatrate.ch
 it-service-gubler.ch
 it-service-keller.ch
-it-service-management-itsm.ch
 it-service-management.ch
 it-service-plan.ch
 it-service-schweiz.ch
@@ -906,6 +908,8 @@ it-services-switzerland.ch
 it-services.ch
 it-servicetechniker.ch
 it-sg.ch
+it-sgroup.ch
+it-sgruppe.ch
 it-sh.ch
 it-shamans.ch
 it-ship.ch
@@ -924,6 +928,7 @@ it-sicherheitskongress.ch
 it-sicilia.ch
 it-sieber.ch
 it-skills.ch
+it-skillz.ch
 it-sky-consulting.ch
 it-sky.ch
 it-smart.ch
@@ -988,7 +993,9 @@ it-success.ch
 it-suedbaden.ch
 it-suisse-connect.ch
 it-suisse.ch
+it-suite.ch
 it-supplies.ch
+it-support-abo.ch
 it-support-basel.ch
 it-support-buelach.ch
 it-support-business.ch
@@ -1004,6 +1011,7 @@ it-support-online.ch
 it-support-outsourcing.ch
 it-support-rafzerfeld.ch
 it-support-raimander.ch
+it-support-reinach.ch
 it-support-schaffhausen.ch
 it-support-schmid.ch
 it-support-schneider.ch
@@ -1032,7 +1040,6 @@ it-surselva.ch
 it-swiss.ch
 it-switch.ch
 it-symposium.ch
-it-sys.ch
 it-system.ch
 it-systeme.ch
 it-systemes.ch
@@ -1051,7 +1058,6 @@ it-team.ch
 it-tec.ch
 it-tech-personal.ch
 it-tech.ch
-it-techniker.ch
 it-technologies.ch
 it-techprojekte.ch
 it-telco.ch
@@ -1062,6 +1068,7 @@ it-test.ch
 it-testing.ch
 it-tf.ch
 it-tg.ch
+it-thal.ch
 it-thurgau.ch
 it-ticino.ch
 it-ticket.ch
@@ -1078,19 +1085,19 @@ it-trace.ch
 it-trade.ch
 it-train-ag.ch
 it-train.ch
+it-trainer.ch
 it-training-alliance.ch
 it-training-consultation.ch
 it-training4u.ch
 it-transfermarkt.ch
 it-transgourmet.ch
 it-transspedi.ch
-it-traumberufe.ch
 it-trebisacce.ch
 it-treuhand-tax.ch
 it-treuhand.ch
-it-triangle.ch
 it-troshupa.ch
 it-trybisch.ch
+it-tschan.ch
 it-tude.ch
 it-twenty3.ch
 it-typ.ch
@@ -1106,8 +1113,10 @@ it-unlimited.ch
 it-unternehmen.ch
 it-unternehmerfruehstueck.ch
 it-user-akademie.ch
+it-vagabund.ch
 it-val-rezzo.ch
 it-valle-aosta.ch
+it-vallo-di-nera.ch
 it-value.ch
 it-varese.ch
 it-veneto.ch
@@ -1117,7 +1126,6 @@ it-vermittlung.ch
 it-versand.ch
 it-versicherung.ch
 it-versorger.ch
-it-vertrag.ch
 it-vertrieb.ch
 it-viking.ch
 it-villapiana.ch
@@ -1135,10 +1143,10 @@ it-walker.ch
 it-ware.ch
 it-wd.ch
 it-webdesign.ch
-it-webdeveloper.ch
 it-weber.ch
 it-wegweiser.ch
 it-weiss.ch
+it-weissenseel.ch
 it-welt.ch
 it-werder.ch
 it-werk.ch
@@ -1146,13 +1154,13 @@ it-werkstatt.ch
 it-wettstein.ch
 it-wheels.ch
 it-whitepaper.ch
-it-willi.ch
 it-winkler.ch
 it-wire.ch
 it-wise.ch
 it-wissen.ch
 it-wittenbach.ch
 it-wolf.ch
+it-wolhusen.ch
 it-wolke.ch
 it-wolke7.ch
 it-woman.ch
@@ -1226,7 +1234,6 @@ it4clever.ch
 it4cloud.ch
 it4communication.ch
 it4cswiss.ch
-it4ctx.ch
 it4ds.ch
 it4dummies.ch
 it4enterprise.ch
@@ -1235,9 +1242,9 @@ it4ever.ch
 it4every.ch
 it4ex.ch
 it4friends.ch
+it4fun.ch
 it4gibz.ch
 it4gl.ch
-it4good.ch
 it4hcm.ch
 it4her.ch
 it4home.ch
@@ -1255,13 +1262,15 @@ it4millenials.ch
 it4millennials.ch
 it4n.ch
 it4net.ch
-it4nonprofits.ch
+it4next.ch
+it4nextgen.ch
 it4npo.ch
 it4people.ch
 it4private.ch
 it4professionals.ch
 it4pros.ch
 it4rent.ch
+it4rev.ch
 it4school-ch.ch
 it4school.ch
 it4schur.ch
@@ -1295,8 +1304,6 @@ it8.ch
 it9.ch
 it99.ch
 it9cloud.ch
-ita-advisor.ch
-ita-advisory.ch
 ita-ag.ch
 ita-cj.ch
 ita-int.ch
@@ -1322,7 +1329,6 @@ itab.ch
 itabc.ch
 itable.ch
 itablet.ch
-itablex.ch
 itabo.ch
 itabs.ch
 itabshopconcept.ch
@@ -1333,6 +1339,7 @@ itac.ch
 itaca-holding.ch
 itaca.ch
 itacademy.ch
+itacademyswiss.ch
 itacama.ch
 itacan.ch
 itacanbarrestaurant-kriens.ch
@@ -1340,11 +1347,12 @@ itachyon.ch
 itaclean.ch
 itaco.ch
 itaconsult.ch
-itacoskebab.ch
 itacs-training.ch
 itacs.ch
 itactive.ch
 itad-revolution.ch
+itad.ch
+itadmin.ch
 itads.ch
 itadvanced.ch
 itadvantage.ch
@@ -1368,6 +1376,7 @@ itaid.ch
 itaidoshin.ch
 itailor.ch
 itaio.ch
+itaisol.ch
 itaj.ch
 itak.ch
 itaka.ch
@@ -1387,6 +1396,7 @@ ital-gastro.ch
 ital-sa.ch
 ital-sapori.ch
 ital-uil.ch
+italab.ch
 italando.ch
 italauto.ch
 italaw.ch
@@ -1395,10 +1405,11 @@ italbeola.ch
 italcafe.ch
 italcaffe.ch
 italcardesign.ch
+italcardoel.ch
+italcarodel.ch
 italcars.ch
 italcasa.ch
 italcerame.ch
-italchina-pizza-express-le-lignon.ch
 italchina.ch
 italclass.ch
 italcoffee.ch
@@ -1408,7 +1419,6 @@ italdesign.ch
 italdibipack.ch
 italent.ch
 italents.ch
-italeo.ch
 italeri.ch
 italfabula.ch
 italfarmaco.ch
@@ -1419,7 +1429,6 @@ italforni.ch
 italforum.ch
 italfruit.ch
 italgam.ch
-italgarage.ch
 italgastro.ch
 italgranit.ch
 italgrappa.ch
@@ -1432,16 +1441,15 @@ italgyps.ch
 italia-a-casa-tua.ch
 italia-amriswil.ch
 italia-bar.ch
-italia-bistro-to-go-da-lisa-zuerich.ch
 italia-catering.ch
 italia-food.ch
 italia-keramik.ch
 italia-luzern.ch
-italia-mia.ch
-italia-online.ch
 italia-shop.ch
 italia-svizzera.ch
+italia-swiss.ch
 italia.ch
+italia1.ch
 italia2000.ch
 italia5.ch
 italiaacasatua.ch
@@ -1459,8 +1467,7 @@ italiagourmet.ch
 italiagroup.ch
 italiahome.ch
 italiaindependent.ch
-italiamania.ch
-italiamia.ch
+italiaiptv-dream.ch
 italiamo.ch
 italiamybike.ch
 italiamydreams.ch
@@ -1482,7 +1489,6 @@ italian-market.ch
 italian-pizza-mamma-mia-ostermundigen.ch
 italian-place-oberwil.ch
 italian-place-restaurant.ch
-italian-place.ch
 italian-quality.ch
 italian-restaurant.ch
 italian-restaurants.ch
@@ -1570,7 +1576,6 @@ italiansuit.ch
 italiansuits.ch
 italianteacher.ch
 italiantech.ch
-italiantraditionalsavour-sa.ch
 italianvoicetalent.ch
 italianwave.ch
 italianway.ch
@@ -1601,7 +1606,9 @@ italico.ch
 italicoamaro.ch
 italics.ch
 italicum.ch
+italicus.ch
 italie-dans-votre-assiette.ch
+italie.ch
 italie8-10.ch
 italien-erleben.ch
 italien-ferienhaus.ch
@@ -1613,13 +1620,11 @@ italien-veloferien.ch
 italien.ch
 italien24.ch
 italienerin.ch
-italienhilfe.ch
 italienisch-dolmetschen.ch
 italienisch-einfach-lernen.ch
 italienisch-in-italien.ch
 italienisch-kurs.ch
 italienisch-kurse.ch
-italienisch-lektionen.ch
 italienisch-lernen-kurs.ch
 italienisch-lernen.ch
 italienisch-mitenand.ch
@@ -1649,7 +1654,6 @@ italienischerestaurants.ch
 italienischerwein.ch
 italienisches-restaurant.ch
 italienischeschuhe.ch
-italienischeschweizerausstellung.ch
 italienischespezialitaeten.ch
 italienischesrestaurant.ch
 italienischessen.ch
@@ -1669,11 +1673,8 @@ italienischunterricht.ch
 italienne-ancienne.ch
 italiennes-anciennes.ch
 italienonline.ch
-italienreise.ch
 italienreisen.ch
-italienrestaurant.ch
 italiensprachkurse.ch
-italienurlaub.ch
 italienwein.ch
 italienweine.ch
 italifood.ch
@@ -1682,6 +1683,7 @@ italimmo.ch
 italinvest.ch
 italique.ch
 italissimi.ch
+italissimo.ch
 italix.ch
 italixmail.ch
 italjet.ch
@@ -1707,8 +1709,6 @@ italo-hispano.ch
 italo-oldtimerteile.ch
 italo-swiss.ch
 italo.ch
-italoarab-stgallen.ch
-italoarab.ch
 italobaldo.ch
 italobee.ch
 italoburri.ch
@@ -1726,8 +1726,8 @@ italohispano.ch
 italoil.ch
 italokitsch.ch
 italomania.ch
+italomontanari.ch
 italomotos.ch
-italoo.ch
 italoparts.ch
 italopassione.ch
 italos.ch
@@ -1737,7 +1737,6 @@ italoshop.ch
 italostammtisch.ch
 italosvizzeri.ch
 italovalenti.ch
-italpanini.ch
 italparquet.ch
 italparts.ch
 italpizza.ch
@@ -1745,12 +1744,12 @@ italpoint.ch
 italpouf.ch
 italrad-ieva.ch
 italreding.ch
+italristogroupag.ch
 italsapori.ch
 italshop.ch
 italsol.ch
 italstyle.ch
 italsuisse.ch
-italsupport.ch
 italsweet.ch
 italswissmail.ch
 italtec.ch
@@ -1781,7 +1780,6 @@ italybio.ch
 italycaffe.ch
 italycatering.ch
 italycav.ch
-italyco.ch
 italydesignstore.ch
 italydress.ch
 italyfood.ch
@@ -1793,6 +1791,8 @@ italypizzahinwil.ch
 italypizzanapoletana.ch
 italyscasa.ch
 italyshop.ch
+italystore.ch
+italysud.ch
 italyswiss.ch
 italyway.ch
 itam.ch
@@ -1803,8 +1803,6 @@ itamc.ch
 itamcar.ch
 itamesca.ch
 itamgroup.ch
-itampel.ch
-itample.ch
 itamrhy.ch
 itamsi.ch
 itan-sarl.ch
@@ -1854,12 +1852,14 @@ itarmour.ch
 itaro.ch
 itarock.ch
 itars.ch
+itart-consulting.ch
 itart.ch
-itartis.ch
 itarus.ch
 itas.ch
 itasar.ch
 itasaservice.ch
+itasha-forum.ch
+itashaforum.ch
 itashop.ch
 itasit.ch
 itask.ch
@@ -1869,6 +1869,7 @@ itassistance.ch
 itaste.ch
 itasui.ch
 itaswiss.ch
+itaswissbag.ch
 itatbusiness.ch
 itathai.ch
 itathome.ch
@@ -1920,6 +1921,7 @@ itbank.ch
 itbar.ch
 itbase.ch
 itbasel.ch
+itbasics.ch
 itbau.ch
 itbauer.ch
 itbc.ch
@@ -1956,6 +1958,7 @@ itblue.ch
 itbo-impact.ch
 itbo-summit.ch
 itbo.ch
+itboard.ch
 itboat.ch
 itboimpact.ch
 itbois.ch
@@ -1993,7 +1996,9 @@ itc-intech.ch
 itc-invest.ch
 itc-jobs.ch
 itc-lg.ch
+itc-mining.ch
 itc-on.ch
+itc-papaem.ch
 itc-rise.ch
 itc-seeland.ch
 itc-services.ch
@@ -2008,7 +2013,6 @@ itc-zermatt.ch
 itc.ch
 itc1.ch
 itc4u.ch
-itc8.ch
 itca.ch
 itcabi.ch
 itcabinet.ch
@@ -2017,7 +2021,6 @@ itcag.ch
 itcamp.ch
 itcampus.ch
 itcanolli.ch
-itcaps.ch
 itcare.ch
 itcareer.ch
 itcareerhub.ch
@@ -2029,9 +2032,7 @@ itcbroker.ch
 itcc.ch
 itcca.ch
 itccom.ch
-itcconsultants.ch
 itccore.ch
-itccorp.ch
 itccs.ch
 itcds.ch
 itce.ch
@@ -2105,8 +2106,10 @@ itconseils-services.ch
 itconsult.ch
 itconsultant.ch
 itconsultants.ch
+itconsulting-costanzo.ch
 itconsulting-nr.ch
 itconsulting.ch
+itconsulting24.ch
 itconsultingar.ch
 itconsultingzehnder.ch
 itconsults.ch
@@ -2136,6 +2139,7 @@ itcsh.ch
 itcsnet.ch
 itcst.ch
 itcswigger.ch
+itcsz.ch
 itct.ch
 itctek.ch
 itctravel.ch
@@ -2145,6 +2149,7 @@ itcw.ch
 itcwerkzeuge.ch
 itcwiedemann.ch
 itcwise.ch
+itcybersecurity.ch
 itcz.ch
 itd-ag.ch
 itd-cart.ch
@@ -2175,10 +2180,11 @@ itdeveloper.ch
 itdi-visions.ch
 itdiebegeistert.ch
 itdienste.ch
+itdienstleister.ch
 itdienstleistungen.ch
 itdigital.ch
 itdigitalsolutions.ch
-itdir.ch
+itdigitalsupport.ch
 itdirect.ch
 itdistribution.ch
 itdistrict.ch
@@ -2194,6 +2200,7 @@ itdom.ch
 itdomain.ch
 itdonations.ch
 itdone.ch
+itdoo.ch
 itdr.ch
 itdream.ch
 itds-net.ch
@@ -2253,7 +2260,6 @@ itec-shop.ch
 itec-solution.ch
 itec-solutions.ch
 itec-support.ch
-itec-swiss.ch
 itec-systems.ch
 itec-trading.ch
 itec.ch
@@ -2269,6 +2275,7 @@ itech-multiservices.ch
 itech-repaircenter.ch
 itech-secure.ch
 itech-solution.ch
+itech-solutions.ch
 itech.ch
 itech24.ch
 itech4life.ch
@@ -2287,9 +2294,6 @@ itechnics.ch
 itechnik.ch
 itechnique.ch
 itechnology.ch
-itechoffice.ch
-itechome.ch
-itechparts.ch
 itechrepairs.ch
 itechservice.ch
 itechsolution.ch
@@ -2331,7 +2335,6 @@ itekmail.ch
 iteko.ch
 itekreparatur.ch
 itekto.ch
-itel-kuechendesign.ch
 itel.ch
 itelcom.ch
 itele.ch
@@ -2346,6 +2349,7 @@ itelium.ch
 itell.ch
 itellag.ch
 itellco.ch
+itellia.ch
 itelligence.ch
 itelsolutions.ch
 item-international.ch
@@ -2363,6 +2367,7 @@ itema.ch
 itemag.ch
 itemania.ch
 itemarch.ch
+itemas.ch
 itemashop.ch
 itemblog.ch
 itemboards.ch
@@ -2371,9 +2376,7 @@ itemedical.ch
 itemergency.ch
 itemiq.ch
 itemique.ch
-itemis-schweiz.ch
 itemis.ch
-itemium.ch
 itemmagazin.ch
 itemmen.ch
 itempire.ch
@@ -2397,9 +2400,11 @@ iten-chen.ch
 iten-consulting.ch
 iten-elektro.ch
 iten-engineering.ch
+iten-farm-shop.ch
 iten-finance.ch
 iten-forsttechnik.ch
 iten-galvanik.ch
+iten-golf.ch
 iten-group.ch
 iten-haas.ch
 iten-hauswartung.ch
@@ -2448,6 +2453,7 @@ itenagrarserviceag.ch
 itenarchitekten.ch
 itenax.ch
 itenbau.ch
+itenbaukult.ch
 itenchristoph.ch
 itencom.ch
 itenelektro.ch
@@ -2462,6 +2468,7 @@ itengine.ch
 itengineering.ch
 itengineeringsa.ch
 itengmbh.ch
+itengolf.ch
 itengroup.ch
 itenhaas.ch
 itenhof.ch
@@ -2469,6 +2476,7 @@ itenholzbau.ch
 itenht.ch
 itenic.ch
 iteninformatik.ch
+itenion.ch
 itenkran.ch
 itenlandmaschinen.ch
 itenlimacher.ch
@@ -2493,6 +2501,7 @@ itensport.ch
 itenstyger.ch
 itent.ch
 itentaschen.ch
+itenterprise.ch
 itentity.ch
 itentreuhand.ch
 itenulrich.ch
@@ -2508,6 +2517,7 @@ iter.ch
 iter8.ch
 itera.ch
 iteracf.ch
+iteracore-systems.ch
 iteracore.ch
 iteract.ch
 iteradio.ch
@@ -2516,6 +2526,7 @@ iteralis.ch
 iteralogic.ch
 iteram.ch
 iterama.ch
+iteramultiservices.ch
 iterando.ch
 iterapm.ch
 iteraptive.ch
@@ -2535,6 +2546,7 @@ iteres-gmbh.ch
 iteres.ch
 iteria.ch
 iterial.ch
+iteris.ch
 iterise.ch
 iterissolutions.ch
 iterit.ch
@@ -2542,8 +2554,7 @@ iterium.ch
 iterlegis.ch
 iterlineas.ch
 itermed.ch
-itermin-en.ch
-itermin.ch
+itermultiservices.ch
 iternos-capital.ch
 itero.ch
 iteron.ch
@@ -2566,7 +2577,6 @@ itesoridelsud.ch
 itess.ch
 itessentials.ch
 itessin.ch
-itest.ch
 itesys.ch
 itetech.ch
 itex.ch
@@ -2606,6 +2616,7 @@ itfbasel-tennis.ch
 itfbasel.ch
 itffutureaargau.ch
 itfh.ch
+itficial.ch
 itficient.ch
 itfiles.ch
 itfinanzmagazin.ch
@@ -2626,9 +2637,8 @@ itflowers.ch
 itfluzern.ch
 itfolks.ch
 itforbusiness.ch
-itforensic.ch
 itforensics.ch
-itforgreen.ch
+itforge.ch
 itforhealth.ch
 itforkids.ch
 itforkmu.ch
@@ -2652,6 +2662,7 @@ itfuchs.ch
 itfueralle.ch
 itfuerkmu.ch
 itfun.ch
+itfundamentals.ch
 itfusion.ch
 itfuture.ch
 itfux.ch
@@ -2681,9 +2692,9 @@ itgestion.ch
 itgetsbetter.ch
 itgfinance.ch
 itgirl.ch
-itgirls.ch
 itglobal.ch
 itglobalinsights.ch
+itglobe.ch
 itglobi.ch
 itgm.ch
 itgo.ch
@@ -2716,12 +2727,13 @@ ithacker.ch
 ithaka-time.ch
 ithaka.ch
 ithaki.ch
+ithakia.ch
 ithalat.ch
 ithandel.ch
 ithappened.ch
-ithappensco.ch
 ithaque-habitat.ch
 ithaque-holding.ch
+ithaquia.ch
 ithardware.ch
 ithayakumar.ch
 ithb.ch
@@ -2729,7 +2741,6 @@ ithconseils.ch
 ithdev.ch
 ithead.ch
 itheads.ch
-itheadsearch.ch
 itheart.ch
 itheartbeat.ch
 itheaven.ch
@@ -2769,8 +2780,8 @@ ithinking.ch
 ithinkofyou.ch
 ithinkswissdesign.ch
 ithinktalent.ch
+ithinktank.ch
 ithinkyoushouldhireyacine.ch
-ithjnkyoushouldhjreyacjne.ch
 ithl.ch
 ithmail.ch
 ithnet.ch
@@ -2792,7 +2803,6 @@ ithubaargau.ch
 ithubbaden.ch
 ithuber.ch
 ithude.ch
-ithun.ch
 ithunters.ch
 ithurbide.ch
 ithurgovie.ch
@@ -2812,6 +2822,7 @@ itiag.ch
 itic.ch
 iticenter.ch
 iticinesdaminus.ch
+iticket.ch
 iticketing.ch
 iticswiss.ch
 iticus.ch
@@ -2819,6 +2830,7 @@ itifosidelgusto.ch
 itify.ch
 itig.ch
 itiger.ch
+itiglidigusto.ch
 itignos.ch
 itigo.ch
 itikka.ch
@@ -2846,7 +2858,7 @@ itin2.ch
 itinag.ch
 itinara.ch
 itinclusive.ch
-itind.ch
+itinea.ch
 itineo.ch
 itinepsy.ch
 itiner-anes.ch
@@ -2860,7 +2872,6 @@ itinerairedevie.ch
 itineraires-cas.ch
 itineraires-culturels.ch
 itineraires-entrecoupes.ch
-itineraires-revue.ch
 itineraires-sante.ch
 itineraires-sauvages.ch
 itineraires.ch
@@ -2894,7 +2905,6 @@ itinnovativ.ch
 itins.ch
 itinshofladen.ch
 itinstitut.ch
-itinstitute.ch
 itintegrans.ch
 itinterim.ch
 itintrans.ch
@@ -2903,6 +2913,7 @@ itintransporte.ch
 itinwassertechnik.ch
 itio.ch
 itip.ch
+itiq.ch
 itis-architectes.ch
 itis-foundation.ch
 itis-group.ch
@@ -2915,7 +2926,6 @@ itisco.ch
 itiseli.ch
 itisenegger.ch
 itiservices.ch
-itisfreshbrewedicetea.ch
 itisgis.ch
 itishit.ch
 itisi.ch
@@ -2929,6 +2939,7 @@ itissot.ch
 itisweb.ch
 ititus.ch
 itivity.ch
+itivitydemo.ch
 itiwit.ch
 itix.ch
 itizy.ch
@@ -2944,7 +2955,6 @@ itjobnetwork.ch
 itjobportal.ch
 itjobpuls.ch
 itjobs-schweiz.ch
-itjobs-switzerland.ch
 itjobs.ch
 itjobs4u.ch
 itjobsbern.ch
@@ -2961,7 +2971,6 @@ itk-intern.ch
 itk-production.ch
 itk-professional.ch
 itk-prototypes.ch
-itk-videocloud.ch
 itk-visiteur.ch
 itk-voice.ch
 itk.ch
@@ -2977,8 +2986,9 @@ itkf.ch
 itkfa.ch
 itkfactory.ch
 itkids.ch
+itkidsacademy.ch
+itking.ch
 itklinik.ch
-itknowhow.ch
 itknowledgebase.ch
 itko.ch
 itkom.ch
@@ -3009,8 +3019,6 @@ itlandolt.ch
 itlas.ch
 itlaw-consulting.ch
 itlaw.ch
-itlawcc.ch
-itlawcompetencecenter.ch
 itlawportal.ch
 itlawyer.ch
 itlbasel.ch
@@ -3019,13 +3027,13 @@ itle.ch
 itleadcomp.ch
 itleads.ch
 itlearn.ch
+itlearnacademy.ch
 itlease.ch
 itleasing.ch
 itlegal.ch
 itler.ch
 itlernen.ch
 itlesson.ch
-itlh.ch
 itli.ch
 itlife.ch
 itligent.ch
@@ -3039,14 +3047,12 @@ itlog.ch
 itlogic.ch
 itlogix.ch
 itlops.ch
-itlove.ch
 itlp.ch
 itlritz.ch
 itls.ch
 itlsw.ch
 itluke.ch
 itly.ch
-itm-ag.ch
 itm-alexandertechnik.ch
 itm-baensch.ch
 itm-bolligerreisen.ch
@@ -3057,7 +3063,6 @@ itm-home.ch
 itm-media.ch
 itm-p.ch
 itm-predictive.ch
-itm-rose.ch
 itm-services.ch
 itm-travel.ch
 itm-travelservice.ch
@@ -3134,21 +3139,20 @@ itmsolutions.ch
 itmuehle.ch
 itmueller.ch
 itmve.ch
-itn-anstalt.ch
 itn-nanovation.ch
 itn.ch
 itn2a.ch
 itna-nunchaku.ch
-itna.ch
 itnamics.ch
 itnamix.ch
 itnb.ch
 itnc.ch
+itne.ch
 itnearshoring.ch
+itneo.ch
 itnerd.ch
 itnerds.ch
 itness.ch
-itnest.ch
 itnet.ch
 itnetcom.ch
 itnetsolution.ch
@@ -3157,6 +3161,7 @@ itnetworkers.ch
 itnetworks.ch
 itnetworx.ch
 itnetx.ch
+itnetxdemo.ch
 itnetz.ch
 itnews.ch
 itnewsradio.ch
@@ -3187,7 +3192,6 @@ itoak.ch
 itoase.ch
 itob.ch
 itoba.ch
-itobel.ch
 itobi.ch
 itobler.ch
 itobusiness.ch
@@ -3211,6 +3215,7 @@ itola.ch
 itolatt.ch
 itoldyou.ch
 itoldyouso.ch
+itolma.ch
 itols.ch
 itom-services.ch
 itom.ch
@@ -3236,7 +3241,6 @@ itop-dental.ch
 itop.ch
 itopa.ch
 itopia.ch
-itopiatech.ch
 itopie-lausanne.ch
 itopie-valais.ch
 itopie.ch
@@ -3254,6 +3258,7 @@ itoscout24.ch
 itoseon.ch
 itost.ch
 itosukai.ch
+itot-advice.ch
 itot.ch
 itothermie.ch
 itotin99sec.ch
@@ -3270,13 +3275,15 @@ itoutsourcing.ch
 itovisualarts.ch
 itown.ch
 itox.ch
+itoxxe.ch
 itoya.ch
-itoyalausanne.ch
 itoyamartigny.ch
 itoys.ch
 itp-commerce.ch
+itp-connect.ch
 itp-consulting.ch
 itp-info.ch
+itp-link.ch
 itp-paratonnerres.ch
 itp-professionals.ch
 itp-science.ch
@@ -3304,13 +3311,11 @@ itpbackupdrive.ch
 itpbasel.ch
 itpcfgmgmt.ch
 itpcleaning-services.ch
-itpd.ch
 itpearls.ch
 itpeople.ch
 itperformance.ch
 itpersonal.ch
 itperti.ch
-itpeso.ch
 itpf-isolations.ch
 itpg.ch
 itpiececlub.ch
@@ -3353,10 +3358,10 @@ itpro.ch
 itpro4you.ch
 itprocess.ch
 itprocessing.ch
-itprocurement.ch
 itproducts.ch
 itprofessional.ch
 itprofessionals.ch
+itprofi.ch
 itprofiaufzeit.ch
 itprofis.ch
 itprofisgroup.ch
@@ -3364,7 +3369,7 @@ itprojects.ch
 itprojekt.ch
 itprojekte.ch
 itprojektmanager.ch
-itproo.ch
+itpronto.ch
 itpros.ch
 itproserv.ch
 itproservices.ch
@@ -3385,11 +3390,11 @@ itq.ch
 itqm.ch
 itqs.ch
 itquality.ch
-itqyro.ch
 itr-security.ch
 itr.ch
 itra.ch
 itrabbit.ch
+itrac.ch
 itrace.ch
 itraceability.ch
 itraceit.ch
@@ -3442,14 +3447,12 @@ itreise.ch
 itreisebuero.ch
 itreisen.ch
 itrek.ch
-itrelations.ch
 itreliability.ch
 itrema.ch
 itremarketing.ch
 itrena.ch
 itrend.ch
 itrepair.ch
-itreparatur.ch
 itrepublic.ch
 itres.ch
 itresanti.ch
@@ -3463,9 +3466,9 @@ itrevenue.ch
 itrevolution.ch
 itrex.ch
 itrf.ch
+itrheintal.ch
 itri.ch
 itribut.ch
-itriis.ch
 itrink.ch
 itrio.ch
 itrips.ch
@@ -3483,7 +3486,6 @@ itris.ch
 itriscloud.ch
 itrisgruppe.ch
 itrisk.ch
-itrismusic.ch
 itrisone.ch
 itrj.ch
 itrm.ch
@@ -3527,11 +3529,9 @@ its-all-net.ch
 its-alright.ch
 its-b.ch
 its-berating.ch
-its-beratung.ch
 its-bern.ch
 its-best.ch
 its-beutler.ch
-its-brand.ch
 its-business.ch
 its-ch.ch
 its-cloud.ch
@@ -3572,12 +3572,14 @@ its-mint.ch
 its-morning.ch
 its-my-home.ch
 its-my-life.ch
+its-my-party.ch
 its-my-privacy.ch
 its-mychoice.ch
 its-netcom.ch
 its-not-the-network.ch
 its-nuts.ch
 its-on-me.ch
+its-one.ch
 its-partytime.ch
 its-possible.ch
 its-reisen.ch
@@ -3587,7 +3589,6 @@ its-services.ch
 its-showtime.ch
 its-so-easy-junkremoval.ch
 its-solutions.ch
-its-spedition.ch
 its-support.ch
 its-switzerland.ch
 its-t-time.ch
@@ -3599,6 +3600,7 @@ its-traductions.ch
 its-transport.ch
 its-travel.ch
 its-treuhand.ch
+its-unibas.ch
 its-your-sexuality.ch
 its-your-trip.ch
 its-zs.ch
@@ -3607,13 +3609,13 @@ its.ch
 its1world.ch
 its2015.ch
 its365.ch
+its3c.ch
 its4.ch
 its4all.ch
 its4biz.ch
 its4kmu.ch
 its4u.ch
 its4uswiss.ch
-its4y.ch
 its4you.ch
 itsa-host.ch
 itsa.ch
@@ -3627,23 +3629,21 @@ itsafe.ch
 itsag.ch
 itsagymsharkthing.ch
 itsai.ch
-itsaistebeach.ch
 itsale.ch
 itsalissia.ch
 itsallaboutchristmas.ch
+itsallaboutenergy.ch
 itsallaboutthesuit.ch
 itsallaboutthesuits.ch
 itsallinone-umzuege.ch
 itsallsignal.ch
 itsallwood.ch
 itsam.ch
-itsamansworld.ch
 itsamatch.ch
 itsamilla.ch
 itsamomsworld.ch
 itsamusthave.ch
 itsandnotor.ch
-itsanewlife.ch
 itsanholding.ch
 itsapark.ch
 itsapeach.ch
@@ -3669,7 +3669,6 @@ itscanalisations.ch
 itscanalizzazioni.ch
 itscanalizzazioniticino.ch
 itscap.ch
-itscape.ch
 itsch.ch
 itscheidegger.ch
 itschi.ch
@@ -3677,8 +3676,11 @@ itschlup.ch
 itschmid.ch
 itschmidmeister.ch
 itschnach.ch
+itschne.ch
 itschner.ch
 itschott.ch
+itschulung.ch
+itschulungen.ch
 itschweiz.ch
 itschwyz.ch
 itscloud-solutions.ch
@@ -3695,7 +3697,6 @@ itscout.ch
 itscreative.ch
 itscrunchtime.ch
 itscs.ch
-itsd.ch
 itsdatacenter.ch
 itsdelicioustobesquare.ch
 itsdev.ch
@@ -3718,6 +3719,7 @@ itsec4sme.ch
 itsecnets.ch
 itsecnews.ch
 itsecportofino.ch
+itsecure.ch
 itsecurity-academy.ch
 itsecurity-forum.ch
 itsecurity-group.ch
@@ -3776,6 +3778,7 @@ itservicezug.ch
 itset.ch
 itsf.ch
 itsfabian.ch
+itsfeierabend.ch
 itsforward.ch
 itsfree.ch
 itsfun.ch
@@ -3784,17 +3787,17 @@ itsg.ch
 itsgm.ch
 itsgmbh.ch
 itsgood.ch
-itsgoodsoup.ch
 itsgreatoutthere.ch
+itsgroup.ch
+itsgruppe.ch
 itsgu.ch
 itsh.ch
 itshag.ch
-itshare.ch
-itsharkz.ch
 itship-dns.ch
 itship.ch
 itshirt.ch
 itshop.ch
+itshop24.ch
 itshowroom.ch
 itshunziker.ch
 itsicherheit.ch
@@ -3814,15 +3817,16 @@ itsintv.ch
 itsis.ch
 itsit.ch
 itsitalia.ch
+itsitaly.ch
 itsj0el.ch
 itsjanius.ch
 itsjess.ch
 itsjnj.ch
+itsjoschi.ch
 itsjustlunch.ch
 itsjustlunchbasel.ch
 itsjustlunchgeneve.ch
 itsjustlunchzurich.ch
-itsjustnaked.ch
 itsjustpainbaby.ch
 itsk.ch
 itskanal.ch
@@ -3856,6 +3860,7 @@ itsmagic.ch
 itsmalert.ch
 itsmarigona.ch
 itsmart.ch
+itsmatchamood.ch
 itsmcloud.ch
 itsmdev.ch
 itsme-design.ch
@@ -3866,7 +3871,6 @@ itsmehealthy.ch
 itsmentaldesign.ch
 itsmetime.ch
 itsmf.ch
-itsmg.ch
 itsmgmbh.ch
 itsmgroup.ch
 itsmi.ch
@@ -3877,6 +3881,7 @@ itsmint.ch
 itsmoench.ch
 itsmonny.ch
 itsmove.ch
+itsmoveme.ch
 itsmp-consult.ch
 itsmpartner.ch
 itsmueller.ch
@@ -3901,12 +3906,14 @@ itsnat.ch
 itsnebel.ch
 itsnet.ch
 itsnotai.ch
+itsnotascience.ch
 itsnow.ch
 itso.ch
 itsocks.ch
 itsofort.ch
 itsoft.ch
 itsoftivity.ch
+itsok.ch
 itsol.ch
 itsolution.ch
 itsolutioncrew.ch
@@ -3915,14 +3922,12 @@ itsolutiongroup.ch
 itsolutions-migros.ch
 itsolutions-tk.ch
 itsolutions.ch
-itsolve.ch
 itsolved.ch
 itson.ch
 itsoneworld.ch
 itsonline4all.ch
 itsonme.ch
 itsos.ch
-itsource.ch
 itsources.ch
 itsourday.ch
 itsourresear.ch
@@ -3998,7 +4003,6 @@ itstime.ch
 itstimefor.ch
 itstimenow.ch
 itstimetochange.ch
-itstimetosavetime.ch
 itstimetoswitch.ch
 itstimetothink.ch
 itstop.ch
@@ -4014,7 +4018,6 @@ itstylemakeup.ch
 itsu.ch
 itsuag.ch
 itsuccess.ch
-itsuisse.ch
 itsumademo.ch
 itsumo.ch
 itsuniversity.ch
@@ -4025,6 +4028,7 @@ itsupport-luzern.ch
 itsupport-mit-herz.ch
 itsupport-online.ch
 itsupport-steiner.ch
+itsupport-winterthur.ch
 itsupport-workflow.ch
 itsupport-zh.ch
 itsupport-zo.ch
@@ -4044,14 +4048,11 @@ itsuptoyou.ch
 itsurplus.ch
 itsurselva.ch
 itsvalue.ch
-itsvc.ch
 itsw.ch
 itswatergroup.ch
 itsweb.ch
-itswild.ch
 itswineoclock6.ch
 itswiss-os.ch
-itswiss.ch
 itswissfinancialjobs.ch
 itswisskumar.ch
 itswitch.ch
@@ -4140,6 +4141,7 @@ ittentrade.ch
 itterlumen.ch
 ittf.ch
 ittg.ch
+itthal.ch
 itthun.ch
 itti.ch
 ittig.ch
@@ -4156,15 +4158,15 @@ ittips.ch
 itto.ch
 ittobi.ch
 ittodo.ch
+ittoeg.ch
 ittomes.ch
 ittools.ch
 ittouch.ch
-ittr.ch
 ittrace.ch
 ittrachsler.ch
 ittrail.ch
-ittraining.ch
 ittrainingacademy.ch
+ittraininghub.ch
 ittrans.ch
 ittreff.ch
 ittrends.ch
@@ -4182,7 +4184,6 @@ ittviteos.ch
 ittyon.ch
 ittyp.ch
 ittz.ch
-itu-reporter.ch
 itu.ch
 itube.ch
 itubi.ch
@@ -4213,11 +4214,11 @@ ituniv.ch
 ituniversum.ch
 itunlimited.ch
 itunnel.ch
-ituoitalenti.ch
 itup.ch
 itur.ch
 iturf.ch
 iturtle.ch
+itus-immo.ch
 itus.ch
 ituso.ch
 itutor.ch
@@ -4230,6 +4231,7 @@ itvalue.ch
 itvaluworks.ch
 itvci.ch
 itveda.ch
+itventive.ch
 itventure.ch
 itvergleich.ch
 itverkauf.ch
@@ -4314,6 +4316,7 @@ itx4.ch
 itxconsulting.ch
 itxengineering.ch
 itxform.ch
+itxlab-dicello.ch
 itxmerken.ch
 itxpert.ch
 itxpertiz.ch
@@ -4351,10 +4354,10 @@ itzentral.ch
 itzentrale.ch
 itzentrum.ch
 itzermatt.ch
+itzg.ch
 itzh.ch
 itzi.ch
 itziar.ch
-itzibizi.ch
 itzikon.ch
 itzimmo.ch
 itzin.ch

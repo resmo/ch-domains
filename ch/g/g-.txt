@@ -2,8 +2,8 @@ g-1.ch
 g-1000.ch
 g-12.ch
 g-2-k.ch
-g-2.ch
 g-21.ch
+g-24.ch
 g-27.ch
 g-2r.ch
 g-3.ch
@@ -28,6 +28,7 @@ g-a-v.ch
 g-a-w.ch
 g-a-y-store.ch
 g-a.ch
+g-ac.ch
 g-academy.ch
 g-ackermann.ch
 g-ag.ch
@@ -52,6 +53,7 @@ g-astro.ch
 g-astronomic.ch
 g-athletics.ch
 g-auto.ch
+g-automobileservice.ch
 g-automobilservice.ch
 g-autoservice.ch
 g-avocats.ch
@@ -91,7 +93,6 @@ g-cbi.ch
 g-cc.ch
 g-cell.ch
 g-ceramique.ch
-g-champion.ch
 g-chapuis.ch
 g-charge.ch
 g-chau.ch
@@ -99,9 +100,8 @@ g-chines.ch
 g-cloud.ch
 g-club.ch
 g-cm.ch
-g-co.ch
 g-coach.ch
-g-colors.ch
+g-code.ch
 g-com.ch
 g-communications.ch
 g-communique.ch
@@ -110,7 +110,6 @@ g-consult.ch
 g-consulting.ch
 g-cosmetics.ch
 g-creative.ch
-g-cricri.ch
 g-csf.ch
 g-cube.ch
 g-customs.ch
@@ -154,6 +153,7 @@ g-em.ch
 g-email.ch
 g-emme.ch
 g-energie.ch
+g-energy.ch
 g-eng.ch
 g-engineering.ch
 g-entertainment.ch
@@ -233,6 +233,7 @@ g-hmoustiquaire.ch
 g-hoerner.ch
 g-holliger.ch
 g-home.ch
+g-hometech.ch
 g-hotel.ch
 g-hpc.ch
 g-hpollen.ch
@@ -268,7 +269,7 @@ g-it-solutions.ch
 g-it.ch
 g-its.ch
 g-itsolutions.ch
-g-itystems.ch
+g-j.ch
 g-k-a.ch
 g-k-b.ch
 g-k-m.ch
@@ -289,7 +290,6 @@ g-laliberte.ch
 g-lateral.ch
 g-latscha.ch
 g-law.ch
-g-lee.ch
 g-leu.ch
 g-lhomme.ch
 g-li.ch
@@ -297,16 +297,16 @@ g-limousinen.ch
 g-line.ch
 g-link.ch
 g-live.ch
+g-living.ch
 g-lmayor.ch
 g-log.ch
 g-luescher.ch
 g-lys.ch
 g-m-b.ch
-g-m-h.ch
+g-m-p-shop.ch
 g-m-p.ch
 g-m-s.ch
 g-m-saladin.ch
-g-m-v.ch
 g-m.ch
 g-m26.ch
 g-macht.ch
@@ -331,12 +331,15 @@ g-mobile.ch
 g-molinari.ch
 g-morgante.ch
 g-mosnang.ch
+g-motionyoga.ch
 g-mueller.ch
+g-muese.ch
 g-mv.ch
 g-my-ster.ch
 g-myster.ch
 g-n-i.ch
 g-n.ch
+g-nat.ch
 g-neo.ch
 g-neration.ch
 g-net-luzern.ch
@@ -353,6 +356,7 @@ g-no.ch
 g-nuss.ch
 g-o-a.ch
 g-o-s.ch
+g-o-t.ch
 g-o.ch
 g-oberhaensli.ch
 g-oconstruction.ch
@@ -365,8 +369,6 @@ g-one-lausanne.ch
 g-one-msl.ch
 g-one.ch
 g-online.ch
-g-operations.ch
-g-ops.ch
 g-org.ch
 g-orthopaedics.ch
 g-os.ch
@@ -402,6 +404,7 @@ g-print.ch
 g-pro-immo.ch
 g-pro.ch
 g-project.ch
+g-projects.ch
 g-protect.ch
 g-punkt-auli.ch
 g-punkt.ch
@@ -433,6 +436,7 @@ g-rig.ch
 g-roch.ch
 g-rom.ch
 g-rope.ch
+g-rosis.ch
 g-rossi.ch
 g-rr.ch
 g-rs.ch
@@ -449,7 +453,6 @@ g-san.ch
 g-santos.ch
 g-sax.ch
 g-scale.ch
-g-sch.ch
 g-schenk.ch
 g-schichten.ch
 g-schlatter-marketing.ch
@@ -492,6 +495,7 @@ g-stefan.ch
 g-steinerag.ch
 g-steinmann.ch
 g-store.ch
+g-straumann.ch
 g-strophanthin.ch
 g-studio.ch
 g-studios.ch
@@ -516,14 +520,12 @@ g-tech-inst.ch
 g-tech-schweiz.ch
 g-tech.ch
 g-techexpert.ch
-g-technology.ch
 g-tee.ch
 g-tex.ch
 g-therapeutics.ch
 g-tiefbau.ch
 g-too.ch
 g-tool.ch
-g-top.ch
 g-town.ch
 g-tpm.ch
 g-track.ch
@@ -534,9 +536,11 @@ g-trema.ch
 g-trueb.ch
 g-u-grant.ch
 g-u-p.ch
+g-u-stambolija.ch
 g-u-t-signer.ch
 g-u.ch
 g-ullrich.ch
+g-und-b.ch
 g-und-g.ch
 g-und-l.ch
 g-unit.ch
@@ -557,7 +561,6 @@ g-w-m.ch
 g-w-p.ch
 g-w.ch
 g-web.ch
-g-wedding.ch
 g-weed.ch
 g-werk.ch
 g-werkle.ch
@@ -565,13 +568,13 @@ g-wie-gesund.ch
 g-wie-gesundheit.ch
 g-work.ch
 g-world.ch
-g-wt-lagerboxen.ch
 g-wt.ch
 g-wuerz.ch
 g-xvi.ch
 g-y.ch
 g-yoga.ch
 g-z-a.ch
+g-z-f.ch
 g-z-i.ch
 g-z.ch
 g-zentrum.ch

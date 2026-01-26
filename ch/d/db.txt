@@ -21,6 +21,7 @@ db-b.ch
 db-bahn.ch
 db-band.ch
 db-bau.ch
+db-baudicht-fugentechnik.ch
 db-baudicht.ch
 db-bauleitung.ch
 db-beauty.ch
@@ -28,6 +29,7 @@ db-beratung.ch
 db-bijoux.ch
 db-bilder.ch
 db-bm.ch
+db-boden.ch
 db-bootswerft.ch
 db-boutiques.ch
 db-c.ch
@@ -44,7 +46,6 @@ db-conseilsinformatiques.ch
 db-constructions.ch
 db-consult.ch
 db-consulting.ch
-db-consultinggmbh.ch
 db-consultinggroup.ch
 db-creativ.ch
 db-d.ch
@@ -60,7 +61,7 @@ db-ec.ch
 db-electronic.ch
 db-energie.ch
 db-energy.ch
-db-ernaehrungscoaching.ch
+db-europe.ch
 db-events.ch
 db-facades.ch
 db-fassadenbau.ch
@@ -68,8 +69,8 @@ db-food.ch
 db-foret-jardin.ch
 db-freizeitforum.ch
 db-ganzheitlichetherapien.ch
+db-gefluegel.ch
 db-gmbh.ch
-db-graphic.ch
 db-groupe.ch
 db-gu.ch
 db-hot.ch
@@ -78,6 +79,7 @@ db-i.ch
 db-ictconsulting.ch
 db-immo.ch
 db-immobilien.ch
+db-immobiliengroup.ch
 db-immobiliers.ch
 db-info.ch
 db-ingenieur.ch
@@ -97,6 +99,7 @@ db-licht.ch
 db-lifecoaching.ch
 db-lifestyle.ch
 db-luzern.ch
+db-malerservice.ch
 db-malhandwerk.ch
 db-marketing.ch
 db-marketingservices.ch
@@ -119,10 +122,10 @@ db-pcam.ch
 db-peintures.ch
 db-performance.ch
 db-personal.ch
-db-photography.ch
 db-photolounge.ch
 db-pose-menuiserie.ch
 db-pottery.ch
+db-poultry.ch
 db-private-banking.ch
 db-privatebanking.ch
 db-productions.ch
@@ -141,6 +144,7 @@ db-schenker.ch
 db-schreinermontagen.ch
 db-schweiz.ch
 db-services.ch
+db-si.ch
 db-solar.ch
 db-solution.ch
 db-solutions.ch
@@ -191,6 +195,7 @@ dba-clean.ch
 dba-company.ch
 dba-fightnight.ch
 dba-immobilien.ch
+dba-monitoring.ch
 dba.ch
 dbaas.ch
 dbabau.ch
@@ -208,10 +213,8 @@ dballrounder.ch
 dban.ch
 dbank.ch
 dbaoe.ch
-dbapplication.ch
 dbar-bistro.ch
 dbara.ch
-dbarch.ch
 dbarchitecture.ch
 dbarchitekten.ch
 dbarchitektur.ch
@@ -258,6 +261,7 @@ dbcafe.ch
 dbcaliber.ch
 dbcap.ch
 dbcapital.ch
+dbcard.ch
 dbcargo.ch
 dbcarsharing.ch
 dbcch.ch
@@ -282,10 +286,12 @@ dbconseils.ch
 dbconsulenze.ch
 dbconsulting.ch
 dbcontrol.ch
+dbcorp.ch
 dbcorporate.ch
 dbcosmetic.ch
 dbcreativehouse.ch
 dbcrent.ch
+dbcuisines.ch
 dbd-ag.ch
 dbd-edilizia.ch
 dbd-gmbh.ch
@@ -338,6 +344,7 @@ dbertarelli.ch
 dberther.ch
 dbesse.ch
 dbet.ch
+dbeurope.ch
 dbex.ch
 dbexcelence.ch
 dbexcellence.ch
@@ -369,6 +376,7 @@ dbgefluegel.ch
 dbgestion.ch
 dbgips.ch
 dbgottlieben.ch
+dbgreece.ch
 dbgroup.ch
 dbgruenig.ch
 dbguitars.ch
@@ -402,6 +410,7 @@ dbingenieure.ch
 dbino.ch
 dbintermodal.ch
 dbinvest.ch
+dbiplastics.ch
 dbird.ch
 dbirec.ch
 dbischof.ch
@@ -454,7 +463,6 @@ dblinter.ch
 dblinux.ch
 dblm.ch
 dblnaturo.ch
-dbloc.ch
 dbloesch.ch
 dblog.ch
 dblsa.ch
@@ -519,6 +527,7 @@ dbo-treuhand.ch
 dbo.ch
 dbo4you.ch
 dboard.ch
+dbocapital.ch
 dbod.ch
 dboegli.ch
 dbohren.ch
@@ -531,12 +540,15 @@ dbontrack.ch
 dbonvin.ch
 dbook.ch
 dbooks.ch
+dbopartner.ch
+dbopartners.ch
 dbopp.ch
 dbornet.ch
 dbos.ch
 dboss.ch
 dbosscars.ch
 dbosshart.ch
+dboswissholding.ch
 dboulevard.ch
 dboutic.ch
 dboutique.ch
@@ -547,6 +559,8 @@ dbox.ch
 dboxswiss.ch
 dbp-baumanagement.ch
 dbp-bm.ch
+dbp-divertissement.ch
+dbp-schweiz.ch
 dbp.ch
 dbpaysage.ch
 dbpb.ch
@@ -569,11 +583,11 @@ dbplus.ch
 dbpm.ch
 dbpoint.ch
 dbpower.ch
-dbprime.ch
 dbprivat.ch
 dbprivatebank-fxtrade.ch
 dbpro.ch
 dbproductions.ch
+dbprogcnc.ch
 dbpt.ch
 dbq.ch
 dbr-immobilier.ch
@@ -597,8 +611,10 @@ dbrep.ch
 dbresearch.ch
 dbresult.ch
 dbretouching.ch
+dbrfactory.ch
 dbrgn.ch
 dbricole.ch
+dbridge.ch
 dbrigante.ch
 dbroenimann.ch
 dbrown.ch
@@ -612,7 +628,6 @@ dbrunner.ch
 dbruno.ch
 dbs-ag.ch
 dbs-baucontrolling.ch
-dbs-bausicherheit.ch
 dbs-beton.ch
 dbs-charpente.ch
 dbs-consulting.ch
@@ -627,10 +642,11 @@ dbs-stiftung.ch
 dbs-system.ch
 dbs-tankservice.ch
 dbs-techniques.ch
+dbs-technologies.ch
 dbs.ch
 dbsa.ch
 dbsag.ch
-dbsasset.ch
+dbsarl.ch
 dbsbeton.ch
 dbsbetonbohr.ch
 dbsc.ch
@@ -643,11 +659,12 @@ dbscontrole.ch
 dbsdoku.ch
 dbsecurite.ch
 dbsecurity.ch
+dbsentinel.ch
+dbservicesge.ch
 dbsglobal.ch
 dbsgroup.ch
 dbshop.ch
 dbsi.ch
-dbsite.ch
 dbsk.ch
 dbsnet.ch
 dbsoft.ch
@@ -693,6 +710,7 @@ dbtrading.ch
 dbtreuhand.ch
 dbtskills.ch
 dbtuning.ch
+dbtx.ch
 dbu-immobilien.ch
 dbu.ch
 dbuag.ch
@@ -728,6 +746,7 @@ dbwatch.ch
 dbweave.ch
 dbweb.ch
 dbwebdesign.ch
+dbwhitening.ch
 dbwin.ch
 dbworks.ch
 dbx-trade.ch

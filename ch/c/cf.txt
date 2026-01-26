@@ -3,7 +3,6 @@ cf-advisory.ch
 cf-ag.ch
 cf-aml.ch
 cf-architekten.ch
-cf-artwork.ch
 cf-bamo.ch
 cf-basics.ch
 cf-bau.ch
@@ -11,6 +10,7 @@ cf-baumontagen.ch
 cf-baut.ch
 cf-beratung.ch
 cf-bern.ch
+cf-bielchurch.ch
 cf-blog.ch
 cf-box.ch
 cf-brokerage.ch
@@ -42,7 +42,6 @@ cf-fiduciaire.ch
 cf-g.ch
 cf-haensch.ch
 cf-hard.ch
-cf-hilfsfonds.ch
 cf-hochzeitsfotografie.ch
 cf-holding.ch
 cf-horgen.ch
@@ -62,7 +61,6 @@ cf-massage.ch
 cf-montageservice.ch
 cf-moto-schweiz.ch
 cf-moto-suisse.ch
-cf-moto-swiss.ch
 cf-moto.ch
 cf-motors.ch
 cf-motos.ch
@@ -73,7 +71,6 @@ cf-nw.ch
 cf-partners.ch
 cf-pelletservice.ch
 cf-pflege.ch
-cf-photography.ch
 cf-physio.ch
 cf-poolproducts.ch
 cf-riskmanagement.ch
@@ -100,6 +97,7 @@ cf-zuerich.ch
 cf-zug.ch
 cf-zurich.ch
 cf0.ch
+cf1.ch
 cf1352.ch
 cf1684.ch
 cf2.ch
@@ -152,12 +150,12 @@ cfb-point.ch
 cfb-solutions.ch
 cfb.ch
 cfbaden.ch
-cfbasset.ch
 cfbau.ch
 cfbc.ch
 cfbnetwork.ch
 cfboutique.ch
 cfbox.ch
+cfbpartners.ch
 cfbrunner.ch
 cfbs.ch
 cfbychristianfischbacher.ch
@@ -196,11 +194,11 @@ cfcnet.ch
 cfco.ch
 cfcommodities.ch
 cfcomputerfactory.ch
+cfconcept.ch
 cfconseils.ch
 cfconsult.ch
 cfconsulting.ch
 cfcorporatefashion.ch
-cfcourtage.ch
 cfcshop.ch
 cfcswitzerland.ch
 cfct.ch
@@ -208,8 +206,8 @@ cfcvaud.ch
 cfczug.ch
 cfd-broker.ch
 cfd-brokers.ch
+cfd-handel.ch
 cfd-news.ch
-cfd-online.ch
 cfd-toiture.ch
 cfd-trader.ch
 cfd-trading.ch
@@ -281,6 +279,7 @@ cff-travel.ch
 cff-travelmanager.ch
 cff-xmas.ch
 cff.ch
+cffc.ch
 cffcargo.ch
 cffedito.ch
 cffexcursionsdunjour.ch
@@ -408,6 +407,7 @@ cfleis.ch
 cflexi.ch
 cflocation.ch
 cflow.ch
+cflox.ch
 cfloxpay.ch
 cfluegel.ch
 cflury.ch
@@ -432,7 +432,6 @@ cfmb.ch
 cfmbethel.ch
 cfme.ch
 cfmeilen.ch
-cfmeyer-stiftung.ch
 cfmeyer.ch
 cfmf.ch
 cfmgroup.ch
@@ -456,17 +455,16 @@ cfmotoschweiz.ch
 cfmotoshop.ch
 cfmotoswiss.ch
 cfmotoswitzerland.ch
+cfmotozuerich.ch
 cfms.ch
 cfmus.ch
 cfn-aargau.ch
 cfn.ch
-cfn4u.ch
 cfnc.ch
 cfnet.ch
 cfnm.ch
 cfnpoc.ch
 cfnswiss.ch
-cfnu4.ch
 cfnumis.ch
 cfnw.ch
 cfo-academy.ch
@@ -478,6 +476,7 @@ cfo-company.ch
 cfo-consulting.ch
 cfo-controller.ch
 cfo-finanzmanagement.ch
+cfo-fractional.ch
 cfo-immobilien.ch
 cfo-interim.ch
 cfo-jobs.ch
@@ -499,6 +498,7 @@ cfo-zahner.ch
 cfo.ch
 cfo24.ch
 cfo4kmu.ch
+cfo4more.ch
 cfo4u.ch
 cfo4you.ch
 cfoaas.ch
@@ -513,12 +513,12 @@ cfocus-int.ch
 cfodigit.ch
 cfoexterneriviera.ch
 cfofinance-services.ch
+cfofinance.ch
 cfogpt.ch
 cfoheadhunter.ch
 cfoheadhunting.ch
-cfoinsights.ch
 cfomedical.ch
-cfonline.ch
+cfone.ch
 cfoo.ch
 cfooffice.ch
 cfopanel.ch
@@ -562,7 +562,6 @@ cfp-lizenz.ch
 cfp-mb.ch
 cfp-ocst.ch
 cfp-vd.ch
-cfp-voisard.ch
 cfp.ch
 cfpae.ch
 cfpart.ch
@@ -575,6 +574,7 @@ cfpg.ch
 cfpi.ch
 cfpl.ch
 cfplutry.ch
+cfpm.ch
 cfpneuch.ch
 cfportmann.ch
 cfpr.ch
@@ -590,6 +590,7 @@ cfpt-electronique.ch
 cfpt.ch
 cfpti-hub.ch
 cfptrading.ch
+cfpv.ch
 cfpvd.ch
 cfpyrgos.ch
 cfq.ch
@@ -600,6 +601,7 @@ cfr-reinigungen.ch
 cfr-savigny.ch
 cfr-vaud.ch
 cfr.ch
+cfr2610convertible.ch
 cfranck.ch
 cfranco.ch
 cfranken.ch
@@ -608,7 +610,6 @@ cfrb.ch
 cfrcommunications.ch
 cfrd.ch
 cfrefel.ch
-cfrei-fotografie.ch
 cfrei.ch
 cfreiconsulting.ch
 cfrenovation.ch
@@ -633,6 +634,7 @@ cfrvr.ch
 cfs-editore.ch
 cfs-energie.ch
 cfs-hilfe.ch
+cfs-hochziit.ch
 cfs-info.ch
 cfs-kriens.ch
 cfs-law.ch
@@ -680,6 +682,7 @@ cft17.ch
 cftassociates.ch
 cftc.ch
 cfth.ch
+cfthun.ch
 cfti.ch
 cftindustrie.ch
 cftm.ch
@@ -696,6 +699,7 @@ cftrans-groupsa.ch
 cftrans.ch
 cftransgroupsa.ch
 cftrizzardi.ch
+cfts-fiduciaire.ch
 cfts.ch
 cfu-admin.ch
 cfu-cmu.ch

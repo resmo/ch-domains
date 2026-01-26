@@ -21,7 +21,6 @@ rv-energygroup.ch
 rv-ettiswil.ch
 rv-finanzberatung.ch
 rv-frauenfeld.ch
-rv-gallopica.ch
 rv-gantner.ch
 rv-gonzen.ch
 rv-hallwil.ch
@@ -30,6 +29,7 @@ rv-herzogenbuchsee.ch
 rv-hoelzli.ch
 rv-immobilien-bern.ch
 rv-immobilien.ch
+rv-installations.ch
 rv-it.ch
 rv-jardin.ch
 rv-k.ch
@@ -63,6 +63,7 @@ rv-volley-aargau.ch
 rv-vs.ch
 rv-waedenswil.ch
 rv-wangen.ch
+rv-wasseramt.ch
 rv-wasserfallen.ch
 rv-wipkingen.ch
 rv-wuerenlos.ch
@@ -103,6 +104,7 @@ rvb-design.ch
 rvb-studio.ch
 rvb.ch
 rvbe.ch
+rvbeautylounge.ch
 rvbern.ch
 rvberomuenster.ch
 rvbrittnau.ch
@@ -134,9 +136,10 @@ rvdt.ch
 rvdwfinance.ch
 rvdz-therapiecenter.ch
 rve.ch
-rvelec.ch
+rvenetz.ch
 rvengineering.ch
 rventil.ch
+rventreprise.ch
 rventures.ch
 rverc.ch
 rverly.ch
@@ -146,6 +149,7 @@ rvesgmbh.ch
 rvetter.ch
 rvettiger.ch
 rvez.ch
+rvf-preview.ch
 rvf-treuhand.ch
 rvf.ch
 rvfe.ch
@@ -162,6 +166,7 @@ rvg-energies.ch
 rvg.ch
 rvgenerale.ch
 rvgenergies.ch
+rvgravur.ch
 rvgs.ch
 rvgt.ch
 rvh.ch
@@ -179,7 +184,7 @@ rvijayakumar.ch
 rvimmo.ch
 rvimmobilien.ch
 rvimmobilienbern.ch
-rvino.ch
+rvimpianti.ch
 rvision.ch
 rvj-fidu.ch
 rvj-group.ch
@@ -204,6 +209,7 @@ rvkuhn.ch
 rvkz.ch
 rvl.ch
 rvl13.ch
+rvl13streetworkout.ch
 rvla.ch
 rvlaw.ch
 rvldfintech.ch
@@ -236,6 +242,7 @@ rvoberriet.ch
 rvobusiness.ch
 rvoegeli.ch
 rvogt.ch
+rvokabeltrainer.ch
 rvonarx.ch
 rvongunten.ch
 rvontobel.ch
@@ -249,8 +256,11 @@ rvpartner.ch
 rvpb.ch
 rvplaw.ch
 rvplegal.ch
+rvplomberie.ch
 rvponyhof.ch
+rvq.ch
 rvr-fackler.ch
+rvr-motors.ch
 rvr.ch
 rvra.ch
 rvrc-ultra.ch
@@ -271,6 +281,8 @@ rvs-web.ch
 rvs.ch
 rvsa.ch
 rvsag.ch
+rvsenergy.ch
+rvserrurier.ch
 rvsg.ch
 rvsihltalundsee.ch
 rvsinfo.ch
@@ -282,6 +294,7 @@ rvsport.ch
 rvsschweiz.ch
 rvssuhrental.ch
 rvst.ch
+rvstudio.ch
 rvsulz.ch
 rvsumiswald.ch
 rvt-historique.ch
@@ -308,7 +321,6 @@ rvwetzikon.ch
 rvwg.ch
 rvwinterthur.ch
 rvwuerenlos.ch
-rvx.ch
 rvy.ch
 rvz-pilatus.ch
 rvz-schweiz.ch

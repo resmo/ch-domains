@@ -1,4 +1,5 @@
 nb-ag.ch
+nb-anlagenbau.ch
 nb-architect.ch
 nb-autoglas.ch
 nb-autovermittlung.ch
@@ -17,11 +18,11 @@ nb-feedback.ch
 nb-films.ch
 nb-finanz.ch
 nb-formaprod.ch
+nb-hauswartung.ch
 nb-hypnose.ch
 nb-hypnosetherapie.ch
 nb-immo.ch
 nb-immobilien.ch
-nb-iot.ch
 nb-kosmetik.ch
 nb-massage.ch
 nb-med.ch
@@ -31,7 +32,6 @@ nb-nadinebischof.ch
 nb-olten.ch
 nb-p.ch
 nb-photo.ch
-nb-photography.ch
 nb-profiling.ch
 nb-s.ch
 nb-sailing.ch
@@ -59,6 +59,7 @@ nbad.ch
 nbadan.ch
 nbadebanking.ch
 nbadmin.ch
+nbadministration.ch
 nbadsuisse.ch
 nbadvisory.ch
 nbae.ch
@@ -67,7 +68,6 @@ nbafid.ch
 nbag.ch
 nbahnclub.ch
 nbahnler.ch
-nbam.ch
 nbarch.ch
 nbarte.ch
 nbas.ch
@@ -89,6 +89,7 @@ nbc-gva.ch
 nbc-h.ch
 nbc-shelter.ch
 nbc.ch
+nbcars.ch
 nbcb-busswil.ch
 nbcb.ch
 nbcbearings.ch
@@ -102,6 +103,7 @@ nbcleaning.ch
 nbclimb.ch
 nbcloud.ch
 nbco.ch
+nbcoaching.ch
 nbcommunication.ch
 nbconstructions.ch
 nbconsulting.ch
@@ -109,6 +111,7 @@ nbcparkhochybrig.ch
 nbcsnowpark.ch
 nbcsurfbanked.ch
 nbd-consulting.ch
+nbd-holding.ch
 nbd-network.ch
 nbd-project.ch
 nbd-sign.ch
@@ -119,10 +122,13 @@ nbdesign.ch
 nbdeveloper.ch
 nbdeveloppement.ch
 nbdg.ch
+nbdigitalsolutions.ch
 nbds.ch
+nbdust.ch
 nbe-therapeutics.ch
 nbe.ch
 nbea.ch
+nbeag-jobs.ch
 nbeag.ch
 nbeauty.ch
 nbeck.ch
@@ -144,7 +150,6 @@ nbg-immo.ch
 nbg-technik.ch
 nbg.ch
 nbgartenbau.ch
-nbgcreator.ch
 nbgestion.ch
 nbgho.ch
 nbgl.ch
@@ -155,6 +160,7 @@ nbh-maur.ch
 nbh-obfelden.ch
 nbh.ch
 nbh9.ch
+nbhagency.ch
 nbhf.ch
 nbhlz.ch
 nbhost.ch
@@ -183,7 +189,7 @@ nbks.ch
 nbkwealth.ch
 nbl-bern.ch
 nbl.ch
-nblick.ch
+nblc.ch
 nblr.ch
 nbm-europe.ch
 nbm-international.ch
@@ -202,15 +208,15 @@ nbmt-fiduciaire.ch
 nbn-elektronik.ch
 nbn.ch
 nbnn.ch
-nbns.ch
+nbnq.ch
 nbo-official.ch
 nbo.ch
 nboghossian.ch
+nbom.ch
 nboo.ch
 nbooster.ch
 nbootu.ch
 nborn.ch
-nboswiss.ch
 nbouvier.ch
 nbox-lenggenwil.ch
 nbox.ch
@@ -264,8 +270,6 @@ nbsag.ch
 nbsavoir.ch
 nbservices.ch
 nbsf.ch
-nbsformation.ch
-nbsformations.ch
 nbsgirenbad.ch
 nbsgroup.ch
 nbshub.ch
@@ -296,7 +300,6 @@ nburen.ch
 nburg.ch
 nburger.ch
 nbusch-db.ch
-nbusch.ch
 nbustudio.ch
 nbv-gmbh.ch
 nbv-obv-ubv.ch

@@ -1,6 +1,5 @@
 sf-3dgraphics.ch
 sf-advisory.ch
-sf-ag.ch
 sf-ai.ch
 sf-amstutz.ch
 sf-anlagenbau.ch
@@ -29,8 +28,8 @@ sf-cpm.ch
 sf-drs.ch
 sf-elektroplanung.ch
 sf-energie.ch
+sf-event-rent.ch
 sf-events.ch
-sf-f.ch
 sf-facilityservices.ch
 sf-fassaden.ch
 sf-felsberg.ch
@@ -40,6 +39,7 @@ sf-fs.ch
 sf-geruestbau.ch
 sf-gmbh.ch
 sf-golfball.ch
+sf-group-gmbh.ch
 sf-groupe.ch
 sf-hochzeit.ch
 sf-hubtech.ch
@@ -55,9 +55,11 @@ sf-insectcontrol.ch
 sf-insektcontrol.ch
 sf-interlaken.ch
 sf-isolation.ch
+sf-kolibri.ch
 sf-lavi.ch
 sf-legal.ch
 sf-liegenschaftsdienst-grindelwald.ch
+sf-liegenschaftsdienst.ch
 sf-m.ch
 sf-maler.ch
 sf-malerei.ch
@@ -81,7 +83,9 @@ sf-photos.ch
 sf-pm.ch
 sf-portfolio.ch
 sf-power.ch
+sf-raimeux.ch
 sf-raum-no11.ch
+sf-realisationen.ch
 sf-recycling.ch
 sf-rent-event.ch
 sf-retail.ch
@@ -98,7 +102,6 @@ sf-software.ch
 sf-steuerung.ch
 sf-swiss.ch
 sf-t.ch
-sf-tasmc.ch
 sf-tech.ch
 sf-test.ch
 sf-tg.ch
@@ -115,7 +118,6 @@ sf123.ch
 sf1291.ch
 sf1hd.ch
 sf2.ch
-sf2coeurs.ch
 sf2go.ch
 sf2hd.ch
 sf3.ch
@@ -138,7 +140,6 @@ sfa-dock.ch
 sfa-environment.ch
 sfa-environnement.ch
 sfa-gadplus.ch
-sfa-immobilien.ch
 sfa-info.ch
 sfa-ispa.ch
 sfa-laboratory.ch
@@ -148,9 +149,9 @@ sfa-port.ch
 sfa-sa.ch
 sfa-sanibroy.ch
 sfa-shop.ch
-sfa-sicard.ch
 sfa-sprachaufenthalt.ch
 sfa-sprachreisen.ch
+sfa-students.ch
 sfa-switzerland.ch
 sfa-test.ch
 sfa-treffpunkt.ch
@@ -167,7 +168,6 @@ sfacility.ch
 sfactory.ch
 sfacw.ch
 sfaellos.ch
-sfaeras-news.ch
 sfaeras.ch
 sfaescht.ch
 sfag-autohaus.ch
@@ -219,17 +219,21 @@ sfawaz.ch
 sfax.ch
 sfaxag.ch
 sfaxi.ch
+sfaximmo.ch
 sfb-ag.ch
 sfb-ausbildung.ch
 sfb-bildungszentrum.ch
 sfb-campus.ch
 sfb-consulting.ch
 sfb-jobs.ch
+sfb-mountain-ag.ch
+sfb-mountain.ch
 sfb-online.ch
 sfb-ortezumleben.ch
 sfb-skills.ch
 sfb-tg.ch
 sfb-winterthur.ch
+sfb-wisi.ch
 sfb.ch
 sfbackoffice.ch
 sfbagnes.ch
@@ -241,8 +245,11 @@ sfbb.ch
 sfbcampus.ch
 sfbeauty.ch
 sfberner.ch
+sfbfk.ch
 sfbh.ch
 sfbm.ch
+sfbmountain.ch
+sfbmountainag.ch
 sfboerse.ch
 sfbp.ch
 sfbroker.ch
@@ -250,6 +257,7 @@ sfbromandie.ch
 sfbs.ch
 sfbschool.ch
 sfbt.ch
+sfbuero.ch
 sfbv.ch
 sfbvg.ch
 sfc-ag.ch
@@ -289,7 +297,7 @@ sfch.ch
 sfcjv.ch
 sfckoenig.ch
 sfcl.ch
-sfcleaner.ch
+sfclean.ch
 sfcloud.ch
 sfcnetcon.ch
 sfcns.ch
@@ -298,7 +306,6 @@ sfcoaching.ch
 sfcoin.ch
 sfcom.ch
 sfcompany.ch
-sfconcept.ch
 sfconline.ch
 sfconsulenza.ch
 sfconsult.ch
@@ -310,7 +317,6 @@ sfcore.ch
 sfcp.ch
 sfcr.ch
 sfcs.ch
-sfcswitzerland.ch
 sfct.ch
 sfcusz.ch
 sfcv.ch
@@ -321,7 +327,6 @@ sfd-law.ch
 sfd.ch
 sfdb.ch
 sfdbau-ag.ch
-sfdbau.ch
 sfdc-demo.ch
 sfdd.ch
 sfdesign.ch
@@ -352,11 +357,13 @@ sfeed.ch
 sfeer.ch
 sfef.ch
 sfefs.ch
+sfegroup-pharma.ch
 sfegroup.ch
 sfehlmann-treuhand.ch
 sfehr.ch
 sfeichenwies.ch
 sfeichtingertherapie.ch
+sfelec.ch
 sfelectricite.ch
 sfelektro.ch
 sfelix.ch
@@ -411,6 +418,7 @@ sffs-region-zh.ch
 sffs-region-zuerich.ch
 sffs-tt-basel.ch
 sffsoz.ch
+sffte.ch
 sffv.ch
 sfg-4k.ch
 sfg-aarau.ch
@@ -440,6 +448,7 @@ sfgaargau.ch
 sfgairolo.ch
 sfgam.ch
 sfgame.ch
+sfgarage.ch
 sfgarbedocastione.ch
 sfgb-b.ch
 sfgb.ch
@@ -453,7 +462,6 @@ sfgchiasso.ch
 sfgclaro.ch
 sfgcollombey-muraz.ch
 sfgconthey.ch
-sfgcs.ch
 sfgd.ch
 sfgdaten.ch
 sfge.ch
@@ -488,7 +496,6 @@ sfgv-jobs.ch
 sfgv.ch
 sfgvallemaggia.ch
 sfgvdv.ch
-sfgz-discover.ch
 sfgz.ch
 sfgzh.ch
 sfgzuerich.ch
@@ -496,6 +503,7 @@ sfh-dental.ch
 sfh-osar.ch
 sfh-ost.ch
 sfh.ch
+sfhandmade.ch
 sfhb.ch
 sfhbb.ch
 sfhconsulting.ch
@@ -513,7 +521,6 @@ sfi-events.ch
 sfi-faculty.ch
 sfi-fiduciaria.ch
 sfi-info.ch
-sfi-innovation.ch
 sfi-masterclasses.ch
 sfi-news.ch
 sfi-phd.ch
@@ -561,7 +568,6 @@ sfits.ch
 sfix.ch
 sfizi-delizie.ch
 sfiziedelizie.ch
-sfizipartenopei.ch
 sfizipartenopeilugano.ch
 sfj-ajs.ch
 sfj.ch
@@ -569,7 +575,6 @@ sfjb.ch
 sfjcswitzerland.ch
 sfjf.ch
 sfjr.ch
-sfk-cvv2017.ch
 sfk.ch
 sfk118.ch
 sfki.ch
@@ -599,6 +604,7 @@ sflorg.ch
 sflow.ch
 sflower.ch
 sflowers.ch
+sflows.ch
 sflueck.ch
 sflueckiger.ch
 sflux.ch
@@ -606,7 +612,6 @@ sflx.ch
 sfm-bikes.ch
 sfm-cosmos.ch
 sfm-freelance.ch
-sfm-gmbh.ch
 sfm-home.ch
 sfm-magnesium.ch
 sfm-trust.ch
@@ -617,6 +622,8 @@ sfmail.ch
 sfmalerei.ch
 sfmam.ch
 sfmanagement.ch
+sfmarina.ch
+sfmarinagroup.ch
 sfmariohuber.ch
 sfmbern.ch
 sfmc-sa.ch
@@ -644,6 +651,7 @@ sfmodule.ch
 sfmontage.ch
 sfmotors.ch
 sfmotorswiss.ch
+sfms-arifaj.ch
 sfms.ch
 sfmsa-gestion.ch
 sfmsa.ch
@@ -670,6 +678,7 @@ sfoa.ch
 sfoc.ch
 sfocircle.ch
 sfocloud.ch
+sfodigital.ch
 sfoevt.ch
 sfof.ch
 sfoglialo.ch
@@ -683,7 +692,6 @@ sfop.ch
 sfopartners.ch
 sforesearch.ch
 sforex.ch
-sfors.ch
 sforza-riubini.ch
 sforza.ch
 sforzariubini.ch
@@ -708,6 +716,7 @@ sfpa-uzh.ch
 sfpa-zuerich.ch
 sfpa.ch
 sfpag.ch
+sfpandalusien2026-cosa.ch
 sfpartner.ch
 sfpartners.ch
 sfpbs.ch
@@ -749,6 +758,7 @@ sfr.ch
 sfr1.ch
 sfr3.ch
 sframe.ch
+sfrank.ch
 sfrankie.ch
 sfranzen.ch
 sfranzinella.ch
@@ -774,9 +784,11 @@ sfrj.ch
 sfrl.ch
 sfrt.ch
 sfrugu.ch
+sfruz.ch
 sfrv-asel.ch
 sfrv.ch
 sfry.ch
+sfryand.ch
 sfs-aerospace.ch
 sfs-ag.ch
 sfs-agh.ch
@@ -792,7 +804,6 @@ sfs-innerschweiz.ch
 sfs-law.ch
 sfs-lehre.ch
 sfs-liestal.ch
-sfs-m.ch
 sfs-maennedorf.ch
 sfs-meilen.ch
 sfs-moehlin.ch
@@ -833,7 +844,6 @@ sfsholding.ch
 sfsignergy.ch
 sfsinternal.ch
 sfsinzollikon.ch
-sfsk.ch
 sfski.ch
 sfskorbball.ch
 sfslehre.ch
@@ -848,12 +858,10 @@ sfsolutions.ch
 sfsplus.ch
 sfsport.ch
 sfsports.ch
-sfsqv.ch
 sfss.ch
 sfssport-rvis.ch
 sfssport-rvos.ch
 sfssport-rvoz.ch
-sfssport.ch
 sfst.ch
 sfstrahm.ch
 sfstrub.ch
@@ -867,7 +875,6 @@ sfszug.ch
 sft-ag.ch
 sft-dtb.ch
 sft-events.ch
-sft-metallbau.ch
 sft-swiss.ch
 sft-uzwil.ch
 sft.ch
@@ -910,6 +917,7 @@ sfuechsli.ch
 sfuerst.ch
 sfum.ch
 sfumato.ch
+sfumaturerosa.ch
 sfunterwegs.ch
 sfup.ch
 sfurban.ch
@@ -948,7 +956,6 @@ sfvk.ch
 sfvl.ch
 sfvmarch.ch
 sfvplay.ch
-sfvr.ch
 sfvrt.ch
 sfvs-fsvv.ch
 sfvs.ch
@@ -972,8 +979,8 @@ sfwvssga.ch
 sfx.ch
 sfxcoverswitzerland.ch
 sfxmedia.ch
-sfxmovie.ch
 sfxs.ch
+sfy.ch
 sfz-krankheiten.ch
 sfz.ch
 sfzn.ch

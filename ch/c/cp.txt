@@ -1,5 +1,4 @@
 cp-24.ch
-cp-aebi.ch
 cp-ag.ch
 cp-air.ch
 cp-am.ch
@@ -10,6 +9,7 @@ cp-asel.ch
 cp-automaten.ch
 cp-baumaschinen.ch
 cp-be.ch
+cp-bellinzona.ch
 cp-beteiligungen.ch
 cp-biasca.ch
 cp-bistrot.ch
@@ -30,6 +30,7 @@ cp-consult.ch
 cp-consulting.ch
 cp-controle.ch
 cp-controleoibt.ch
+cp-cv.ch
 cp-design.ch
 cp-dev.ch
 cp-elec.ch
@@ -37,7 +38,6 @@ cp-electricite.ch
 cp-elektro.ch
 cp-europe.ch
 cp-eventservices.ch
-cp-fashionatsports.ch
 cp-fiduciaire.ch
 cp-fm.ch
 cp-graphite.ch
@@ -45,6 +45,7 @@ cp-group.ch
 cp-gva.ch
 cp-helmets.ch
 cp-immo.ch
+cp-immobilien.ch
 cp-immobilier.ch
 cp-industries.ch
 cp-informatik-support.ch
@@ -79,6 +80,7 @@ cp-sanitaer-gmbh.ch
 cp-sanitaer.ch
 cp-sc.ch
 cp-schweiz.ch
+cp-sculpture.ch
 cp-security.ch
 cp-select.ch
 cp-services.ch
@@ -86,7 +88,6 @@ cp-sg.ch
 cp-shop.ch
 cp-social.ch
 cp-sozial.ch
-cp-ss.ch
 cp-stgb.ch
 cp-stmoritz.ch
 cp-studio.ch
@@ -147,7 +148,6 @@ cpacon.ch
 cpacquarossa.ch
 cpafahrdienst.ch
 cpafdt.ch
-cpag-research.ch
 cpag.ch
 cpagency.ch
 cpages.ch
@@ -191,7 +191,7 @@ cpasche.ch
 cpascona.ch
 cpaslesvacances.ch
 cpasolutions.ch
-cpassicura.ch
+cpass.ch
 cpastudio.ch
 cpat.ch
 cpataxi.ch
@@ -302,6 +302,7 @@ cpconcept.ch
 cpconseil.ch
 cpconsulting.ch
 cpcourt.ch
+cpcr.ch
 cpcreatives.ch
 cpcs.ch
 cpcsolution.ch
@@ -311,6 +312,7 @@ cpd-development.ch
 cpd-transport.ch
 cpd.ch
 cpdag.ch
+cpdd.ch
 cpde.ch
 cpdermstore.ch
 cpdev.ch
@@ -327,7 +329,6 @@ cpe-switzerland.ch
 cpe.ch
 cpeag.ch
 cpeauxvives.ch
-cpecc.ch
 cpedilizia.ch
 cpef.ch
 cpeff-pkfw.ch
@@ -369,7 +370,6 @@ cpfleurier.ch
 cpfleuriersa.ch
 cpfr.ch
 cpfrauenfeld.ch
-cpfrei.ch
 cpfs.ch
 cpfsa.ch
 cpfstrategie.ch
@@ -395,6 +395,7 @@ cpgren3.ch
 cpgroup.ch
 cpgroupe.ch
 cpgsa.ch
+cpguard.ch
 cpgva.ch
 cph-arts.ch
 cph-group.ch
@@ -408,7 +409,6 @@ cpheizungsservice.ch
 cphg.ch
 cphgroup.ch
 cphh.ch
-cphja.ch
 cphoffmann.ch
 cphoto.ch
 cphuttwil.ch
@@ -428,13 +428,11 @@ cpictures.ch
 cpidesign.ch
 cpie.ch
 cpig.ch
-cpih-fhs.ch
 cpih.ch
 cpihero.ch
 cpimmo.ch
 cpimmobiliare.ch
 cpimmobilien.ch
-cpineta.ch
 cping.ch
 cpio.ch
 cpioag.ch
@@ -444,6 +442,7 @@ cpironphysicien.ch
 cpironti.ch
 cpis-security.ch
 cpis.ch
+cpisolution.ch
 cpisover.ch
 cpit.ch
 cpittet.ch
@@ -457,6 +456,7 @@ cpju.ch
 cpk-swatchgroup.ch
 cpk.ch
 cpkatz.ch
+cpkn.ch
 cpkswatchgroup.ch
 cpkunst.ch
 cpkunstwerk.ch
@@ -479,12 +479,12 @@ cpln.ch
 cploeger.ch
 cplog.ch
 cpls.ch
+cplsear.ch
 cpltechnology.ch
 cplts.ch
 cplu.ch
 cplume.ch
 cplus-climbing.ch
-cplus-fiducaire.ch
 cplus-fiduciaire.ch
 cplus-planwerk.ch
 cplus.ch
@@ -533,6 +533,7 @@ cpmb.ch
 cpmbg-form.ch
 cpmbg.ch
 cpmc.ch
+cpmconsulting.ch
 cpmcubeprocurement.ch
 cpmd-imd.ch
 cpmd.ch
@@ -591,7 +592,6 @@ cpnm.ch
 cpno.ch
 cpnova.ch
 cpns.ch
-cpnstreetwear.ch
 cpnutrition.ch
 cpnv-automation.ch
 cpnv-edu.ch
@@ -639,8 +639,8 @@ cpousaz.ch
 cpowatchgeneva.ch
 cpower.ch
 cpp-advisors.ch
-cpp-consulting.ch
 cpp-jb.ch
+cpp-pbk-vs.ch
 cpp-pv.ch
 cpp-san.ch
 cpp-soj.ch
@@ -668,7 +668,6 @@ cppeinture.ch
 cppenfance-vaud.ch
 cppf-pbkf.ch
 cppg.ch
-cppgn.ch
 cppi.ch
 cppib.ch
 cppic.ch
@@ -686,6 +685,7 @@ cpprofil.ch
 cpps-vs.ch
 cpps.ch
 cppsan.ch
+cppsld-vs.ch
 cppub.ch
 cppv.ch
 cppvaud.ch
@@ -697,6 +697,7 @@ cpq.ch
 cpqconsult.ch
 cpr-ag.ch
 cpr-am.ch
+cpr-coach.ch
 cpr-feedback.ch
 cpr-kurse.ch
 cpr-pocketpump.ch
@@ -707,7 +708,6 @@ cpractice.ch
 cpram.ch
 cpramoneur.ch
 cprc.ch
-cprchallange.ch
 cprchat.ch
 cpre.ch
 cpresort.ch
@@ -779,9 +779,10 @@ cpsor-fr.ch
 cpsp.ch
 cpsportgroup.ch
 cpsports.ch
+cpspro.ch
 cpsproducts.ch
 cpsr.ch
-cpss-plongee.ch
+cpsrtestinggeneva.ch
 cpss-protect.ch
 cpss-solutions.ch
 cpss.ch
@@ -821,6 +822,7 @@ cpth.ch
 cptl.ch
 cptlocarno.ch
 cptmendrisio.ch
+cptn.ch
 cptnw.ch
 cptoys.ch
 cptp.ch
@@ -866,6 +868,7 @@ cpvs.ch
 cpw-services.ch
 cpw.ch
 cpwealthadvisors.ch
+cpweb.ch
 cpwebservice.ch
 cpwf.ch
 cpworld.ch
@@ -876,5 +879,6 @@ cpxmedia.ch
 cpxsa.ch
 cpy.ch
 cpz.ch
+cpzc.ch
 cpzh.ch
 cpzurich.ch

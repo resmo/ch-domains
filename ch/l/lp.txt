@@ -15,7 +15,6 @@ lp-cd-markt.ch
 lp-chirurgie.ch
 lp-co.ch
 lp-coaching.ch
-lp-constructions.ch
 lp-consulting.ch
 lp-digitalvision.ch
 lp-dsautomobiles.ch
@@ -27,15 +26,16 @@ lp-garten-holzpool.ch
 lp-garten.ch
 lp-group.ch
 lp-im.ch
+lp-immo.ch
 lp-immobilien.ch
 lp-informatique.ch
 lp-institute.ch
-lp-law.ch
 lp-limits.ch
 lp-lp.ch
 lp-marketing.ch
 lp-massage.ch
 lp-multiservices.ch
+lp-network.ch
 lp-payerne.ch
 lp-photography.ch
 lp-pms.ch
@@ -44,12 +44,10 @@ lp-pratique.ch
 lp-prestige.ch
 lp-protect.ch
 lp-s.ch
-lp-sand.ch
 lp-schweiz.ch
 lp-securite.ch
 lp-services.ch
 lp-shop.ch
-lp-stellen.ch
 lp-stock.ch
 lp-strategy.ch
 lp-support.ch
@@ -105,6 +103,7 @@ lpar.ch
 lparch.ch
 lparchitekten.ch
 lparchitektur.ch
+lparreira.ch
 lpart.ch
 lpartners.ch
 lpas.ch
@@ -121,6 +120,7 @@ lpbois.ch
 lpbp.ch
 lpc-admin.ch
 lpc-ag.ch
+lpc-bs.ch
 lpc-management.ch
 lpc-sprachberatung.ch
 lpc.ch
@@ -135,6 +135,7 @@ lpcfs.ch
 lpch.ch
 lpcj.ch
 lpco.ch
+lpcoach.ch
 lpcoaching-nutrition.ch
 lpconcept.ch
 lpconseil.ch
@@ -143,7 +144,6 @@ lpconstruction.ch
 lpconsulting.ch
 lpcoperture.ch
 lpcopycenter.ch
-lpcreate.ch
 lpcredit.ch
 lpcrm.ch
 lpcsa.ch
@@ -163,6 +163,7 @@ lpdaziende.ch
 lpdday.ch
 lpde.ch
 lpdesign.ch
+lpdetailingcar.ch
 lpdevent.ch
 lpdg.ch
 lpdhelp.ch
@@ -179,14 +180,12 @@ lpdpro.ch
 lpdr.ch
 lpdsuisse.ch
 lpdswiss.ch
-lpdticino.ch
 lpdv.ch
 lpe-ag.ch
 lpe-elastomer.ch
 lpe-services.ch
 lpe.ch
 lpeag.ch
-lpedrocchi.ch
 lperfolg.ch
 lperformance-conduite.ch
 lpernet-portfolio.ch
@@ -199,11 +198,9 @@ lpfinance.ch
 lpfister.ch
 lpfoto.ch
 lpfp.ch
-lpfrg.ch
 lpfswiss.ch
 lpg-andmore.ch
 lpg-autogas.ch
-lpg-endermologie.ch
 lpg-fiduciaire-de-suisse.ch
 lpg-fiduciairedesuisse.ch
 lpg-geneve.ch
@@ -219,7 +216,6 @@ lpgag.ch
 lpgarten.ch
 lpgas-support.ch
 lpgbasel.ch
-lpgdp.ch
 lpge.ch
 lpgendermologie.ch
 lpgestion.ch
@@ -241,12 +237,14 @@ lphlife.ch
 lphotographie.ch
 lphotography.ch
 lphv.ch
+lpi-treuhand.ch
 lpi.ch
 lpic.ch
 lpicture.ch
 lpigroup.ch
 lpihauswartung.ch
-lpim.ch
+lpimmo.ch
+lpimmobilien.ch
 lpinformatique.ch
 lpinterieur.ch
 lpinvest.ch
@@ -257,7 +255,6 @@ lpixl.ch
 lpj.ch
 lpja.ch
 lpje.ch
-lpk-educ.ch
 lpk.ch
 lpkf.ch
 lpklima.ch
@@ -265,6 +262,7 @@ lpl-haustechnik.ch
 lpl-pharma.ch
 lpl.ch
 lplab.ch
+lplayer.ch
 lpld.ch
 lplegal.ch
 lplehrling.ch
@@ -293,7 +291,9 @@ lpmte.ch
 lpn.ch
 lpndm.ch
 lpne-send.ch
+lpne-shop.ch
 lpne.ch
+lpnettoyages.ch
 lpnetwork-services.ch
 lpnh.ch
 lpno.ch
@@ -315,6 +315,7 @@ lpp-finance.ch
 lpp-group.ch
 lpp-info.ch
 lpp-investments.ch
+lpp-online.ch
 lpp-products.ch
 lpp-renseignements.ch
 lpp-suisse.ch
@@ -329,6 +330,7 @@ lppg.ch
 lppgestion.ch
 lppilier.ch
 lppm.ch
+lpponline.ch
 lpprenseignements.ch
 lpprintcenter.ch
 lpproject.ch
@@ -363,7 +365,6 @@ lprz.ch
 lps-businesscenter.ch
 lps-ge-ecrivainpublic.ch
 lps-group.ch
-lps-healthcare.ch
 lps-immobilien.ch
 lps-permits.ch
 lps-racing.ch
@@ -372,9 +373,6 @@ lps-treuhand.ch
 lps-wissbau.ch
 lps.ch
 lpsa.ch
-lpsalon.ch
-lpsan-i.ch
-lpsan.ch
 lpsatelier.ch
 lpsbar.ch
 lpschweiz.ch
@@ -391,6 +389,7 @@ lpspa.ch
 lpsports.ch
 lpsswissbau.ch
 lpst.ch
+lpstrust.ch
 lpstudio.ch
 lpsupport.ch
 lpswissbau.ch
@@ -404,6 +403,7 @@ lptente.ch
 lptherm.ch
 lptit-valaisan.ch
 lptools.ch
+lptransporte-reperaturen.ch
 lptswiss.ch
 lpu.ch
 lpv-baden.ch
@@ -419,6 +419,7 @@ lpvd.ch
 lpvda.ch
 lpvs.ch
 lpvzuerich.ch
+lpw-pools.ch
 lpw.ch
 lpwan.ch
 lpwings.ch

@@ -42,6 +42,7 @@ r-administration.ch
 r-advokatur.ch
 r-ag.ch
 r-alex.ch
+r-altiora.ch
 r-alves-bau.ch
 r-amsler.ch
 r-and-c.ch
@@ -54,7 +55,6 @@ r-ar.ch
 r-architecte.ch
 r-architekten.ch
 r-architektenag.ch
-r-arnold.ch
 r-art.ch
 r-arts.ch
 r-as.ch
@@ -82,7 +82,6 @@ r-biopharm.ch
 r-bleisch.ch
 r-bm.ch
 r-bnb.ch
-r-bodyface.ch
 r-boesch.ch
 r-box.ch
 r-bronx.ch
@@ -101,7 +100,6 @@ r-ci.ch
 r-class.ch
 r-cloud.ch
 r-cm.ch
-r-cmp.ch
 r-co.ch
 r-coaches.ch
 r-coaching.ch
@@ -112,18 +110,18 @@ r-company.ch
 r-compliance.ch
 r-comune.ch
 r-concept.ch
-r-conmark.ch
 r-conn.ch
 r-connect.ch
 r-consulenze.ch
 r-consult.ch
+r-consulting.ch
+r-coor-gu.ch
 r-cp.ch
 r-cr.ch
 r-creation.ch
 r-creations.ch
 r-creative.ch
 r-cube.ch
-r-cut.ch
 r-cycles.ch
 r-d-c.ch
 r-d-f.ch
@@ -132,14 +130,12 @@ r-d.ch
 r-davies.ch
 r-day.ch
 r-dem.ch
-r-denclinic.ch
 r-dessin.ch
 r-dg.ch
 r-digital.ch
 r-direct.ch
 r-disalvatore.ch
 r-doerig.ch
-r-drive.ch
 r-duer-naturheilpraxis.ch
 r-duraku.ch
 r-e-a-l-e-s-t-a-t-e.ch
@@ -158,6 +154,8 @@ r-eberle.ch
 r-echner.ch
 r-eden.ch
 r-efh.ch
+r-eg.ch
+r-egli.ch
 r-egloff.ch
 r-ein.ch
 r-eins.ch
@@ -167,7 +165,6 @@ r-elektro-gmbh.ch
 r-elektronik.ch
 r-emo.ch
 r-emonet.ch
-r-emploi.ch
 r-ems.ch
 r-emund.ch
 r-energy.ch
@@ -200,6 +197,7 @@ r-fitze.ch
 r-fla.ch
 r-fragniere.ch
 r-frischknechtag.ch
+r-fund.ch
 r-fzte.ch
 r-g.ch
 r-gashi.ch
@@ -218,6 +216,7 @@ r-gt.ch
 r-h-g.ch
 r-h-i.ch
 r-h-informatik.ch
+r-h-m.ch
 r-h-p.ch
 r-h-s.ch
 r-h-treuhand.ch
@@ -225,6 +224,7 @@ r-h.ch
 r-habegger.ch
 r-haerdi.ch
 r-heidri.ch
+r-helvet.ch
 r-hg.ch
 r-hne.ch
 r-hofer.ch
@@ -233,6 +233,7 @@ r-holzbau.ch
 r-huber-ag.ch
 r-huber.ch
 r-hug.ch
+r-humidor.ch
 r-hv.ch
 r-i-c.ch
 r-i-g.ch
@@ -240,11 +241,9 @@ r-i-s-e.ch
 r-i-s.ch
 r-i-t.ch
 r-i.ch
-r-ict-consulting.ch
 r-ider.ch
 r-immo-vision.ch
 r-immobilien.ch
-r-immobilienwert.ch
 r-imo.ch
 r-inert.ch
 r-informatik.ch
@@ -257,7 +256,6 @@ r-it.ch
 r-j-c.ch
 r-j.ch
 r-justit.ch
-r-k-consulting.ch
 r-k.ch
 r-kanzlei.ch
 r-karrer.ch
@@ -265,8 +263,10 @@ r-kaufmann.ch
 r-keramik.ch
 r-koller.ch
 r-konsalt.ch
+r-krasniqi.ch
 r-kuechen.ch
 r-kultur.ch
+r-kun.ch
 r-l-f.ch
 r-l-x.ch
 r-l.ch
@@ -289,14 +289,13 @@ r-m-r.ch
 r-m-t.ch
 r-m-treuhand.ch
 r-m.ch
-r-magnenat.ch
+r-m3o.ch
 r-mail.ch
 r-mann.ch
 r-mapspay.ch
 r-marketing-internet.ch
 r-max.ch
 r-mb.ch
-r-mc.ch
 r-media.ch
 r-metalgeneve.ch
 r-metallbautechnik.ch
@@ -326,6 +325,8 @@ r-nold.ch
 r-nova.ch
 r-nyffenegger.ch
 r-o-i.ch
+r-o-s-a.ch
+r-o-s-s-o.ch
 r-o.ch
 r-oertli.ch
 r-oil.ch
@@ -351,6 +352,7 @@ r-peter.ch
 r-pfister.ch
 r-pieces-autos.ch
 r-pk.ch
+r-plan.ch
 r-playstudio.ch
 r-plus.ch
 r-pod.ch
@@ -371,7 +373,6 @@ r-rageth.ch
 r-rebers.ch
 r-rebetez.ch
 r-reforged.ch
-r-reinigung.ch
 r-reinigungen.ch
 r-remund.ch
 r-reuss.ch
@@ -380,6 +381,7 @@ r-riester.ch
 r-roduit.ch
 r-rognon.ch
 r-rose.ch
+r-rosenberger.ch
 r-roses.ch
 r-ross.ch
 r-rossier-sa.ch
@@ -400,7 +402,6 @@ r-s2b.ch
 r-sa.ch
 r-saegesser.ch
 r-safety.ch
-r-sanitaer.ch
 r-sarafian.ch
 r-sch.ch
 r-schaefer.ch
@@ -410,6 +411,7 @@ r-schmied-sa.ch
 r-schoenenberger.ch
 r-schweiz.ch
 r-schweizer.ch
+r-securesolutions.ch
 r-security.ch
 r-server.ch
 r-services.ch
@@ -425,17 +427,16 @@ r-squaredgreen.ch
 r-squaredlearningsolutions.ch
 r-st.ch
 r-steiner-oberkulm.ch
-r-steiner.ch
 r-steinmanngmbh.ch
 r-stoop.ch
 r-sturzenegger.ch
 r-style.ch
 r-suisse-fr.ch
 r-suisse.ch
+r-suspension.ch
 r-sv.ch
 r-systems.ch
 r-t.ch
-r-tacos.ch
 r-tag.ch
 r-taxi.ch
 r-taxis.ch
@@ -490,12 +491,12 @@ r-va.ch
 r-vision.ch
 r-volz.ch
 r-von-euw.ch
+r-vorburger.ch
 r-voser.ch
 r-vr.ch
 r-w.ch
 r-watch.ch
 r-way.ch
-r-web.ch
 r-webdesign.ch
 r-weidmann.ch
 r-werner.ch

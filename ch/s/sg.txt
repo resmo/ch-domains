@@ -4,9 +4,9 @@ sg-aarau.ch
 sg-acoustics.ch
 sg-admin.ch
 sg-admiral.ch
+sg-advisory.ch
 sg-ag.ch
 sg-agentur.ch
-sg-aktuell.ch
 sg-allround.ch
 sg-am-morgarten.ch
 sg-am.ch
@@ -17,7 +17,6 @@ sg-architecture.ch
 sg-architekten.ch
 sg-art.ch
 sg-assessment.ch
-sg-at-home.ch
 sg-atvkv.ch
 sg-automobiles.ch
 sg-bad-ragaz.ch
@@ -55,12 +54,10 @@ sg-ch.ch
 sg-chauffage-sanitaire.ch
 sg-choenigsching.ch
 sg-chur.ch
-sg-cib.ch
 sg-classics.ch
 sg-cleaning.ch
 sg-cloud.ch
 sg-cm.ch
-sg-coaching.ch
 sg-collectors-echarpes.ch
 sg-concept.ch
 sg-conseils.ch
@@ -130,8 +127,6 @@ sg-gontenschwil.ch
 sg-gossau.ch
 sg-grafik.ch
 sg-greppen.ch
-sg-gro-service.ch
-sg-gro-services.ch
 sg-group.ch
 sg-gs.ch
 sg-guitars.ch
@@ -163,12 +158,14 @@ sg-impft.ch
 sg-innovation.ch
 sg-intern.ch
 sg-invest.ch
+sg-investia.ch
 sg-islisberg.ch
 sg-itd.ch
 sg-kandersteg.ch
 sg-kantonspolizei.ch
 sg-karateverband.ch
 sg-kb.ch
+sg-kinesiologie.ch
 sg-kleinluetzel.ch
 sg-komitee.ch
 sg-kriens.ch
@@ -216,9 +213,11 @@ sg-meiringen.ch
 sg-melchnau.ch
 sg-mels.ch
 sg-meltingen.ch
+sg-menzingen.ch
 sg-metall.ch
 sg-metallbau.ch
 sg-mg.ch
+sg-mit-zukunft.ch
 sg-mma.ch
 sg-mobil.ch
 sg-moeve.ch
@@ -253,6 +252,7 @@ sg-oeschgen.ch
 sg-online.ch
 sg-ortsgemeinden.ch
 sg-othmarsingen.ch
+sg-ottikon.ch
 sg-p.ch
 sg-paradiesli.ch
 sg-parking.ch
@@ -270,6 +270,7 @@ sg-proclean.ch
 sg-productions.ch
 sg-psychiatrie.ch
 sg-pv.ch
+sg-raegeboge.ch
 sg-rafz.ch
 sg-rain.ch
 sg-raperswilen.ch
@@ -282,7 +283,6 @@ sg-reinigung.ch
 sg-rheintal.ch
 sg-ricken.ch
 sg-rickenbach.ch
-sg-rietheimkoblenz.ch
 sg-rohr.ch
 sg-rorschach.ch
 sg-rorschacherberg.ch
@@ -386,7 +386,6 @@ sg3.ch
 sg44.ch
 sg45.ch
 sg4b.ch
-sg56.ch
 sg6.ch
 sg64.ch
 sg9.ch
@@ -414,7 +413,6 @@ sgaaffiche.ch
 sgaapg.ch
 sgaautomation.ch
 sgab-srfp.ch
-sgab-transfer.ch
 sgabello.ch
 sgabuz.ch
 sgac-ssce.ch
@@ -472,7 +470,6 @@ sgar-ssar.ch
 sgar-ssda.ch
 sgar.ch
 sgaramusch.ch
-sgarbi.ch
 sgarbigiardini.ch
 sgarbossa.ch
 sgarchitectes.ch
@@ -528,6 +525,7 @@ sgbaselfricktal.ch
 sgbat.ch
 sgbauer.ch
 sgbc.ch
+sgbcoaching.ch
 sgbcompta.ch
 sgbd.ch
 sgbe.ch
@@ -564,6 +562,7 @@ sgboesingen-laupen.ch
 sgbond.ch
 sgboswil.ch
 sgbr-segelflugveteranen.ch
+sgbr-veteranengruppe.ch
 sgbraunau.ch
 sgbreganzona.ch
 sgbrienzerberg.ch
@@ -595,6 +594,7 @@ sgc.ch
 sgcapital.ch
 sgcardetails.ch
 sgcarrelages.ch
+sgcasch.ch
 sgcasino.ch
 sgcc.ch
 sgcconsulting.ch
@@ -604,9 +604,9 @@ sgci.ch
 sgcm-sscm.ch
 sgcm.ch
 sgco.ch
+sgcoa.ch
 sgcolor.ch
 sgcomm.ch
-sgcommodities.ch
 sgcompliance.ch
 sgcomputer.ch
 sgcomputers.ch
@@ -626,7 +626,7 @@ sgcsitservices.ch
 sgcsmanagement.ch
 sgcumulus.ch
 sgd-architectes.ch
-sgd-chur.ch
+sgd-digital.ch
 sgd-immobilier.ch
 sgd-sgv.ch
 sgd-ssp.ch
@@ -647,6 +647,7 @@ sgdielsdorf.ch
 sgdigital.ch
 sgdip.ch
 sgdl.ch
+sgdliving.ch
 sgdltools.ch
 sgdm.ch
 sgdmfr-ssrdmf.ch
@@ -691,6 +692,7 @@ sgemko.ch
 sgen.ch
 sgenet.ch
 sgeneve.ch
+sgenhq.ch
 sgennetmoos.ch
 sgeo-ge.ch
 sgeo.ch
@@ -718,7 +720,6 @@ sgf-bern-freiburg.ch
 sgf-brugg.ch
 sgf-burg.ch
 sgf-chur.ch
-sgf-conference.ch
 sgf-menziken.ch
 sgf-rapperswil-jona.ch
 sgf-rj.ch
@@ -759,7 +760,6 @@ sgfreiamtplus.ch
 sgfrenkendorf.ch
 sgfs.ch
 sgfsarl.ch
-sgft.ch
 sgfv.ch
 sgfw.ch
 sgfwikon.ch
@@ -784,7 +784,6 @@ sggelterfingen.ch
 sggelterkinden.ch
 sggestionimmobiliere.ch
 sggf.ch
-sggg-fortbildung.ch
 sggg-kongress.ch
 sggg.ch
 sggi.ch
@@ -818,7 +817,6 @@ sgh-schule.ch
 sgh-sghr-kongresse.ch
 sgh-ssh.ch
 sgh.ch
-sghaegendorf-rickenbach.ch
 sghag.ch
 sghaldenstein.ch
 sghallwil.ch
@@ -840,6 +838,7 @@ sgherzogenbuchsee.ch
 sghf.ch
 sghheime.ch
 sghi.ch
+sghilfikon.ch
 sghindelbank.ch
 sghittnau.ch
 sghl.ch
@@ -862,6 +861,7 @@ sgi-gmbh.ch
 sgi-group.ch
 sgi-immo.ch
 sgi-industry.ch
+sgi-invest.ch
 sgi-pharma.ch
 sgi-promotion.ch
 sgi-sa.ch
@@ -888,17 +888,23 @@ sgigroupe.ch
 sgim.ch
 sgimc.ch
 sgimd.ch
+sgimlab.ch
 sgimmo.ch
 sgimmobiliare.ch
 sgimmobilien.ch
 sgimmoholding.ch
 sgimpft.ch
+sgimpianti.ch
 sgims.ch
+sgimt.ch
+sgin.ch
 sgindustrie.ch
 sgindustry.ch
 sginf.ch
 sginfo.ch
 sginow.ch
+sginvest.ch
+sginvestia.ch
 sgioutsourcing.ch
 sgiovannacci.ch
 sgip-sspi.ch
@@ -929,6 +935,7 @@ sgk-online.ch
 sgk-services.ch
 sgk-sscr.ch
 sgk-swiss.ch
+sgk-tec.ch
 sgk-watch.ch
 sgk.ch
 sgka.ch
@@ -948,7 +955,6 @@ sgkbhalle.ch
 sgkbintern.ch
 sgkbintra.ch
 sgkc-sscp.ch
-sgkc2018.ch
 sgkc2019.ch
 sgkc2020.ch
 sgkc2022.ch
@@ -964,8 +970,10 @@ sgkfv.ch
 sgkgp.ch
 sgkgs.ch
 sgkgv.ch
+sgkin.ch
 sgkip.ch
 sgkjpp.ch
+sgkl.ch
 sgklingnau.ch
 sgkm.ch
 sgkm2022.ch
@@ -999,7 +1007,6 @@ sgl.ch
 sgla.ch
 sglab.ch
 sglace-widnau.ch
-sglace.ch
 sglacelaedeli.ch
 sglacewidnau.ch
 sglangnau-baerau.ch
@@ -1009,6 +1016,7 @@ sglattibrocki.ch
 sglaw.ch
 sglc.ch
 sglcarbon.ch
+sglcoaching.ch
 sgle.ch
 sglec.ch
 sglee.ch
@@ -1028,6 +1036,7 @@ sglinz.ch
 sglkg.ch
 sglm.ch
 sglo.ch
+sglobalconsultancy.ch
 sglohn.ch
 sgloor.ch
 sglp.ch
@@ -1044,6 +1053,7 @@ sgm-meteo.ch
 sgm-motoshop.ch
 sgm.ch
 sgm3110.ch
+sgma-tech.ch
 sgmaennedorf.ch
 sgmaerwil.ch
 sgmail.ch
@@ -1054,6 +1064,7 @@ sgmalerei.ch
 sgmanagement.ch
 sgmann.ch
 sgmarathon.ch
+sgmasswerk.ch
 sgmauren-berg.ch
 sgmc-sscm.ch
 sgmc.ch
@@ -1064,18 +1075,20 @@ sgmecanique.ch
 sgmedia.ch
 sgmediaproduction.ch
 sgmedical.ch
+sgmenzingen.ch
 sgmenznau.ch
+sgmetallbaudesign.ch
 sgmev.ch
 sgmf.ch
 sgmg.ch
 sgmh.ch
-sgmhs.ch
 sgmi-ssim.ch
 sgmi.ch
 sgmi1.ch
 sgmiasia.ch
 sgmiinhouse.ch
 sgmisterclean.ch
+sgmitzukunft.ch
 sgmk-ssam.ch
 sgmk.ch
 sgmkg.ch
@@ -1089,8 +1102,10 @@ sgmocurriculum.ch
 sgmols.ch
 sgmorschach.ch
 sgms.ch
+sgmsaippdeen.ch
 sgmsck.ch
 sgmship.ch
+sgmt.ch
 sgmuenchenstein.ch
 sgmurgenthal.ch
 sgmurten.ch
@@ -1120,7 +1135,6 @@ sgnm-ssmn.ch
 sgnm.ch
 sgnnetzwerk.ch
 sgnor.ch
-sgnothelfer.ch
 sgnp.ch
 sgnr-symposium.ch
 sgnr.ch
@@ -1169,12 +1183,9 @@ sgolf.ch
 sgolten.ch
 sgom.ch
 sgomberare.ch
-sgomberi-ticino.ch
 sgomberi-traslochi-ticino.ch
 sgomberi.ch
 sgombero-ticino.ch
-sgomezdelatorre.ch
-sgomi.ch
 sgomma.ch
 sgon.ch
 sgone.ch
@@ -1192,19 +1203,21 @@ sgourmandises.ch
 sgow.ch
 sgp-architekten.ch
 sgp-aspv.ch
+sgp-consulting.ch
 sgp-geneve.ch
 sgp-sa.ch
 sgp.ch
 sgpa.ch
 sgparch.ch
 sgpartner.ch
-sgpartners-alliance.ch
+sgpartners.ch
 sgpath.ch
 sgpathslideseminar.ch
 sgpb.ch
 sgpbf.ch
 sgpc.ch
 sgpch.ch
+sgpconsulting.ch
 sgpd.ch
 sgped-ssedp.ch
 sgperformancescustoms.ch
@@ -1233,7 +1246,6 @@ sgpp-sspp.ch
 sgpp.ch
 sgppt.ch
 sgpr-ssrp.ch
-sgpr.ch
 sgpratteln.ch
 sgpreiss.ch
 sgprivatebanking.ch
@@ -1254,7 +1266,6 @@ sgpw.ch
 sgq.ch
 sgqt.ch
 sgr-art.ch
-sgr-gold.ch
 sgr-peinture.ch
 sgr-ssr.ch
 sgr-sssr.ch
@@ -1274,6 +1285,7 @@ sgrammit.ch
 sgramsern.ch
 sgraphix.ch
 sgravare-le-famiglie.ch
+sgravare-le-pmi.ch
 sgrbot.ch
 sgrc.ch
 sgrchs.ch
@@ -1311,15 +1323,14 @@ sgrosjean.ch
 sgross.ch
 sgrossmann-praxisfreiraum.ch
 sgrothenburg.ch
-sground.ch
 sgroup.ch
-sgroupe.ch
 sgrp.ch
 sgrprivacy.ch
 sgrrc.ch
 sgrs.ch
 sgrst.ch
 sgruber.ch
+sgruegg.ch
 sgruenetroepfli.ch
 sgrueninger.ch
 sgrumisberg.ch
@@ -1373,9 +1384,9 @@ sgslps.ch
 sgslugano.ch
 sgsm-ssms.ch
 sgsm.ch
-sgsmb.ch
 sgsmp.ch
 sgsn.ch
+sgsolsdesign.ch
 sgsolution.ch
 sgsonterswil.ch
 sgsp.ch
@@ -1390,6 +1401,7 @@ sgsstudios.ch
 sgst.ch
 sgstadel.ch
 sgstaefa.ch
+sgstaufen.ch
 sgsteinen.ch
 sgsteinhausen.ch
 sgsticker.ch
@@ -1428,8 +1440,6 @@ sgtec.ch
 sgtech.ch
 sgtegerfelden.ch
 sgtenergie.ch
-sgterre.ch
-sgtest.ch
 sgtgruppe.ch
 sgth.ch
 sgtheater.ch
@@ -1437,7 +1447,6 @@ sgthun.ch
 sgti.ch
 sgtin.ch
 sgtk.ch
-sgtm.ch
 sgtmeh.ch
 sgtobel.ch
 sgtoiture.ch
@@ -1478,6 +1487,7 @@ sgunteriberg.ch
 sgup.ch
 sgur.ch
 sgurdins.ch
+sgurtner.ch
 sgurtners.ch
 sguster.ch
 sguttwil.ch
@@ -1505,7 +1515,6 @@ sgverein.ch
 sgvg.ch
 sgvgastro.ch
 sgvgruppe.ch
-sgvhodling.ch
 sgvholding.ch
 sgvn.ch
 sgvp.ch
@@ -1561,7 +1570,6 @@ sgwuerenlos.ch
 sgwwohlen.ch
 sgx.ch
 sgxsensortech.ch
-sgy-shine.ch
 sgy.ch
 sgyc.ch
 sgygs.ch
@@ -1569,7 +1577,6 @@ sgyimmobilien.ch
 sgz-20.ch
 sgz-campus.ch
 sgz.ch
-sgzas.ch
 sgzbb.ch
 sgzberatung.ch
 sgzm.ch

@@ -28,10 +28,11 @@ pk-complan.ch
 pk-consulting.ch
 pk-dent.ch
 pk-design.ch
+pk-dienst.ch
 pk-dienstleistungen.ch
+pk-digital.ch
 pk-dottikon.ch
 pk-dronefly.ch
-pk-education.ch
 pk-elektro.ch
 pk-elektronik.ch
 pk-em.ch
@@ -58,6 +59,7 @@ pk-insektenschutz.ch
 pk-insights.ch
 pk-intelligence.ch
 pk-iss.ch
+pk-it.ch
 pk-its.ch
 pk-kalkulator.ch
 pk-kaminfeger.ch
@@ -89,11 +91,11 @@ pk-netz.ch
 pk-novartis-online.ch
 pk-oerlikonbalzers.ch
 pk-one.ch
-pk-parkett.ch
 pk-pedia.ch
 pk-perfekte-kuechen.ch
 pk-pfaffnerntal.ch
 pk-portal.ch
+pk-pro.ch
 pk-rating.ch
 pk-ref-ag.ch
 pk-reinigung.ch
@@ -123,9 +125,11 @@ pk-tafers.ch
 pk-umverteilung.ch
 pk-ut.ch
 pk-vergleich.ch
+pk-verstehen.ch
 pk-verwaltung.ch
 pk-vision.ch
 pk-vivere.ch
+pk-vorsorge.ch
 pk-voting.ch
 pk-werbefotografie.ch
 pk-xem.ch
@@ -136,7 +140,6 @@ pk-zueriwerk.ch
 pk-zugerkb.ch
 pk-zugersee.ch
 pk10.ch
-pk111.ch
 pk12.ch
 pk17.ch
 pk18.ch
@@ -165,7 +168,6 @@ pk62.ch
 pk70zh.ch
 pk75.ch
 pk89.ch
-pk93.ch
 pka-im-dialog.ch
 pka.ch
 pkaargau.ch
@@ -182,7 +184,6 @@ pkalcan.ch
 pkall.ch
 pkam.ch
 pkammermann.ch
-pkanimation.ch
 pkapp.ch
 pkappeler.ch
 pkar.ch
@@ -234,11 +235,11 @@ pkcloud.ch
 pkcluzern.ch
 pkcncservice.ch
 pkcoach.ch
-pkcoaching.ch
 pkcockpit.ch
 pkcons.ch
 pkconseils.ch
 pkconsult.ch
+pkconsulting-ai.ch
 pkconsulting.ch
 pkconzzeta.ch
 pkcoutts.ch
@@ -255,8 +256,9 @@ pkdufry.ch
 pkdx.ch
 pke-congress.ch
 pke-ee.ch
+pke-ela.ch
+pke-electronics-ela.ch
 pke-electronics.ch
-pke-teams.ch
 pke.ch
 pkeck.ch
 pkeiserag.ch
@@ -265,6 +267,7 @@ pkelektronik.ch
 pkelektrosg-app.ch
 pkeller.ch
 pkelly.ch
+pkemon-swiss.ch
 pkenergy.ch
 pkesimulation.ch
 pkexpert.ch
@@ -298,6 +301,7 @@ pkglb.ch
 pkgmbh.ch
 pkgr.ch
 pkgreen.ch
+pkgroup.ch
 pkgs.ch
 pkgservice.ch
 pkgtbe.ch
@@ -308,6 +312,7 @@ pkhr.ch
 pkhvzh.ch
 pkhypo.ch
 pkhz.ch
+pki-consulting.ch
 pki-swissproperties.ch
 pki.ch
 pkicons.ch
@@ -384,6 +389,7 @@ pkp-luzern.ch
 pkp-renovations.ch
 pkp.ch
 pkpedia.ch
+pkpersonal.ch
 pkpestalozzi.ch
 pkplus.ch
 pkportal.ch
@@ -447,6 +453,7 @@ pksecuritas.ch
 pkservice.ch
 pksf.ch
 pksfinanz.ch
+pksfokus.ch
 pksgruppe.ch
 pksh.ch
 pkshp.ch
@@ -561,8 +568,11 @@ pkwteile.ch
 pkwteile24.ch
 pkwverkaufen.ch
 pkwyss.ch
+pkwzuuns.ch
 pky.ch
 pkz-men.ch
+pkz-mtm.ch
+pkz-tailoring.ch
 pkz-women.ch
 pkz.ch
 pkzh.ch
@@ -573,6 +583,7 @@ pkzmen-women.ch
 pkzmen.ch
 pkzs.ch
 pkzse.ch
+pkztailoring.ch
 pkztest.ch
 pkzugerkb.ch
 pkzwingen.ch

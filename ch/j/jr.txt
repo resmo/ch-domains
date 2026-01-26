@@ -14,6 +14,7 @@ jr-energie.ch
 jr-engineering.ch
 jr-events.ch
 jr-exposition.ch
+jr-facility.ch
 jr-fantasyhouse.ch
 jr-felgen.ch
 jr-fils.ch
@@ -28,7 +29,6 @@ jr-inkjet.ch
 jr-invest.ch
 jr-kramer.ch
 jr-m.ch
-jr-massage.ch
 jr-massagen.ch
 jr-metallbau.ch
 jr-montagen.ch
@@ -51,9 +51,9 @@ jr-shop.ch
 jr-soma.ch
 jr-stats.ch
 jr-swissdesign.ch
-jr-tats.ch
 jr-tenniscamps.ch
 jr-tools.ch
+jr-tortechnik.ch
 jr-treuhand.ch
 jr-tubage.ch
 jr-watches.ch
@@ -67,8 +67,10 @@ jr4k.ch
 jr5.ch
 jra-architecture.ch
 jra-schaller.ch
+jra.ch
 jraber.ch
 jradmin.ch
+jradmins.ch
 jradvisory.ch
 jrag.ch
 jranking.ch
@@ -83,11 +85,13 @@ jrbau.ch
 jrbechtle.ch
 jrblanchard.ch
 jrbossy.ch
+jrbs-dev.ch
 jrbte.ch
 jrc-engineering.ch
 jrc-immo-viager.ch
 jrc-immoviager.ch
 jrc.ch
+jrcarrosserie.ch
 jrcengineering.ch
 jrci.ch
 jrcimmobilier.ch
@@ -106,7 +110,6 @@ jrdesign.ch
 jrdf.ch
 jrdimmobilier.ch
 jrdlenergy.ch
-jrdroitconstruction.ch
 jre-origins.ch
 jre-schweiz.ch
 jre.ch
@@ -194,15 +197,16 @@ jrlaw.ch
 jrliechtblick.ch
 jrlignon.ch
 jrm-photoworks.ch
+jrm-treuhand-beratung.ch
 jrm.ch
 jrm2test.ch
 jrmafia.ch
 jrmamarketing.ch
 jrmar.ch
-jrmastering.ch
 jrmawirth.ch
 jrmb.ch
 jrmc.ch
+jrmeca.ch
 jrmedia.ch
 jrmexpert.ch
 jrmeyrin.ch
@@ -219,6 +223,7 @@ jrn-controle-electrique.ch
 jrn.ch
 jrnvest.ch
 jrny.ch
+jro.ch
 jrobin.ch
 jrod.ch
 jrodrigues.ch
@@ -228,6 +233,7 @@ jrohr.ch
 jrohrba.ch
 jrohrer.ch
 jrom.ch
+jromer.ch
 jrone.ch
 jronex.ch
 jroos.ch
@@ -257,12 +263,11 @@ jrs.ch
 jrsauer.ch
 jrsc.ch
 jrschmuckonline.ch
+jrsdistribution.ch
 jrseide.ch
 jrservice.ch
 jrservices.ch
-jrshootings.ch
 jrshop.ch
-jrsi.ch
 jrsnet.ch
 jrsoftware.ch
 jrspharma.ch

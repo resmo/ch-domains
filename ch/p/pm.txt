@@ -12,7 +12,6 @@ pm-americancycles.ch
 pm-ausbildung.ch
 pm-b.ch
 pm-bar.ch
-pm-basel.ch
 pm-bau.ch
 pm-baubedarf.ch
 pm-bee.ch
@@ -30,6 +29,7 @@ pm-camp.ch
 pm-clean.ch
 pm-commerce.ch
 pm-concepts.ch
+pm-consulting.ch
 pm-cs.ch
 pm-cube.ch
 pm-cycles-mechanik.ch
@@ -92,8 +92,7 @@ pm-office-outsourcing.ch
 pm-org.ch
 pm-ormalingen.ch
 pm-p.ch
-pm-performance.ch
-pm-photography.ch
+pm-photo.ch
 pm-pro.ch
 pm-professional.ch
 pm-professionals.ch
@@ -139,7 +138,6 @@ pm-training.ch
 pm-treppen.ch
 pm-unterwegs.ch
 pm-v.ch
-pm-video-production.ch
 pm-vv.ch
 pm-web-design.ch
 pm-webdesign.ch
@@ -199,10 +197,10 @@ pmag.ch
 pmagency.ch
 pmaglie.ch
 pmagnenat.ch
-pmagroupe.ch
 pmahajan.ch
 pmail.ch
 pmaillard.ch
+pmaint.ch
 pmaison.ch
 pmakeup.ch
 pmakon.ch
@@ -237,6 +235,7 @@ pmat.ch
 pmatas.ch
 pmathis.ch
 pmathys.ch
+pmatile.ch
 pmatter.ch
 pmatterag.ch
 pmaurer.ch
@@ -246,7 +245,6 @@ pmax.ch
 pmazzei.ch
 pmb-bloch.ch
 pmb-cabinets.ch
-pmb-ohlins.ch
 pmb-pm.ch
 pmb-projekte.ch
 pmb-projektmanagement.ch
@@ -276,9 +274,7 @@ pmburri.ch
 pmbx.ch
 pmc-associates.ch
 pmc-bs.ch
-pmc-cleaning.ch
 pmc-consult.ch
-pmc-consulting.ch
 pmc-cressier.ch
 pmc-doc.ch
 pmc-elektro.ch
@@ -288,6 +284,7 @@ pmc-immo.ch
 pmc-luzern.ch
 pmc-one.ch
 pmc-painting.ch
+pmc-paneele.ch
 pmc-panele.ch
 pmc-print.ch
 pmc-riviera.ch
@@ -315,6 +312,7 @@ pmcconsulting.ch
 pmcd.ch
 pmce.ch
 pmcertif.ch
+pmcflyrecords.ch
 pmcg.ch
 pmch.ch
 pmcharpente.ch
@@ -369,7 +367,7 @@ pmdd.ch
 pmdeers.ch
 pmdemo.ch
 pmdh.ch
-pmdkiss.ch
+pmdienstleistungen.ch
 pmdm.ch
 pmds-hilfe.ch
 pmds.ch
@@ -381,7 +379,6 @@ pme-a-vendre.ch
 pme-abo.ch
 pme-academy.ch
 pme-admin.ch
-pme-archivage.ch
 pme-arnaque-non.ch
 pme-arnaquer-non.ch
 pme-assist.ch
@@ -390,7 +387,6 @@ pme-businessworld.ch
 pme-candidats-election.ch
 pme-capital.ch
 pme-check.ch
-pme-coaching.ch
 pme-com.ch
 pme-communication.ch
 pme-compta.ch
@@ -401,6 +397,7 @@ pme-consulting.ch
 pme-consults.ch
 pme-defi.ch
 pme-defis.ch
+pme-dialogue.ch
 pme-durable.ch
 pme-energies.ch
 pme-et-toi.ch
@@ -430,6 +427,7 @@ pme-jura.ch
 pme-kmu.ch
 pme-lead4swiss.ch
 pme-leaders.ch
+pme-leasing.ch
 pme-legend.ch
 pme-libres.ch
 pme-magazine.ch
@@ -444,6 +442,8 @@ pme-numerique.ch
 pme-online.ch
 pme-optimise.ch
 pme-oui.ch
+pme-performance.ch
+pme-pilotage.ch
 pme-plus.ch
 pme-politique.ch
 pme-pro.ch
@@ -456,6 +456,7 @@ pme-special.ch
 pme-succession.ch
 pme-successions.ch
 pme-toolbox.ch
+pme-transmission.ch
 pme-transmissions.ch
 pme-vente.ch
 pme-vision.ch
@@ -469,10 +470,8 @@ pme24.ch
 pme2digital.ch
 pme360.ch
 pmeacademy.ch
-pmeaccelerator.ch
 pmeadmin.ch
 pmeappstore.ch
-pmearchivage.ch
 pmeassist.ch
 pmeassistance.ch
 pmeassurance.ch
@@ -519,6 +518,7 @@ pmegenevoise.ch
 pmegenevoises.ch
 pmegestion.ch
 pmehe.ch
+pmeheritage.ch
 pmei.ch
 pmeier-ingag.ch
 pmeimmo-sa.ch
@@ -526,16 +526,16 @@ pmeimmobilier.ch
 pmeimpact.ch
 pmeinfo.ch
 pmeinformatique.ch
-pmeinfoservices.ch
 pmeinvest.ch
-pmeis.ch
 pmejurabernois.ch
 pmejurabernoises.ch
 pmekmu.ch
 pmel.ch
+pmelab.ch
 pmelausanne.ch
 pmelec.ch
 pmelegend.ch
+pmem.ch
 pmemagazine.ch
 pmemarket.ch
 pmemedia.ch
@@ -545,12 +545,12 @@ pmenager.ch
 pment.ch
 pmenyon.ch
 pmeonline.ch
+pmeos.ch
 pmeplus.ch
 pmepower.ch
 pmera.ch
 pmeregion.ch
 pmeregions.ch
-pmerevision.ch
 pmerevisions.ch
 pmerevolution.ch
 pmeromandes.ch
@@ -621,7 +621,6 @@ pmfoto.ch
 pmfrealestate.ch
 pmfreygmbh.ch
 pmfteam.ch
-pmg-academy.ch
 pmg-fonds.ch
 pmg-gastro.ch
 pmg-holding.ch
@@ -644,7 +643,6 @@ pmgnote.ch
 pmgnotes.ch
 pmgroup.ch
 pmgrp.ch
-pmgstudio.ch
 pmgt.ch
 pmgz.ch
 pmh-central.ch
@@ -656,7 +654,6 @@ pmhandwerk.ch
 pmhaus.ch
 pmhdruck.ch
 pmhealthcare.ch
-pmheiz.ch
 pmholding.ch
 pmholzbau.ch
 pmholzhaus.ch
@@ -672,7 +669,6 @@ pmi-businessworld.ch
 pmi-cc.ch
 pmi-dev.ch
 pmi-e-tu.ch
-pmi-engineering.ch
 pmi-fiduciaria.ch
 pmi-fidurevi.ch
 pmi-footprint.ch
@@ -738,7 +734,6 @@ pmiscience.ch
 pmiservice.ch
 pmisicence.ch
 pmisoluzioni.ch
-pmit.ch
 pmiticino.ch
 pmiwissen.ch
 pmix.ch
@@ -750,6 +745,7 @@ pmk-design.ch
 pmk.ch
 pmka.ch
 pmkag.ch
+pmkbazylea.ch
 pmkdesign.ch
 pmkeysconsulting.ch
 pmkgroup.ch
@@ -769,7 +765,6 @@ pmliegenschaften.ch
 pmline.ch
 pmluxusdetailing-courtage.ch
 pmm-point.ch
-pmm-shop.ch
 pmm.ch
 pmma.ch
 pmmag.ch
@@ -787,6 +782,7 @@ pmmetal.ch
 pmmh.ch
 pmmo.ch
 pmmp.ch
+pmmt.ch
 pmmy.ch
 pmn-ge.ch
 pmn-swiss.ch
@@ -806,7 +802,6 @@ pmo-holding.ch
 pmo-keller.ch
 pmo-navigator.ch
 pmo-outsourcing.ch
-pmo-personal.ch
 pmo-romand.ch
 pmo-sourcing.ch
 pmo.ch
@@ -820,7 +815,6 @@ pmoconsulting.ch
 pmodwrc.ch
 pmoeckli.ch
 pmoehl.ch
-pmoenologie.ch
 pmofficeandcareservices.ch
 pmogmbh.ch
 pmogmented.ch
@@ -830,6 +824,7 @@ pmone.ch
 pmonnier-osteo-acu-naturo-geneve.ch
 pmoret.ch
 pmoser.ch
+pmostatus.ch
 pmotion.ch
 pmotool.ch
 pmotricienne.ch
@@ -853,7 +848,7 @@ pmp-solutions.ch
 pmp-training.ch
 pmp-zertifizierung.ch
 pmp.ch
-pmp5.ch
+pmpadelexperience.ch
 pmparchitekten.ch
 pmpartners.ch
 pmpconseils.ch
@@ -937,13 +932,14 @@ pmsa-ag.ch
 pmsa.ch
 pmsaag.ch
 pmsag.ch
-pmsalmon.ch
+pmsbasel.ch
 pmsc.ch
 pmschmitz.ch
 pmsconnect.ch
 pmse.ch
 pmserver.ch
 pmservices.ch
+pmsf.ch
 pmsg.ch
 pmsha.ch
 pmshoes.ch
@@ -955,13 +951,13 @@ pmskohler.ch
 pmsl-graenichen.ch
 pmsl.ch
 pmsla.ch
+pmslacote.ch
 pmslitho.ch
 pmsmetallbautechnik.ch
 pmsoft.ch
 pmsoftware.ch
 pmsolutions.ch
 pmsolving.ch
-pmsonline.ch
 pmsp.ch
 pmspharmacy.ch
 pmsports.ch
@@ -979,7 +975,6 @@ pmsugiez.ch
 pmsus.ch
 pmswitzerland.ch
 pmsystem.ch
-pmt-abbts.ch
 pmt-affoltern.ch
 pmt-ag.ch
 pmt-andelfingen.ch
@@ -1027,7 +1022,6 @@ pmu-kosmetik.ch
 pmu-lausanne.ch
 pmu-needs.ch
 pmu-professional.ch
-pmu-remover.ch
 pmu-romand.ch
 pmu-shop.ch
 pmu-store.ch
@@ -1070,7 +1064,6 @@ pmupmu.ch
 pmupro.ch
 pmur.ch
 pmurealtalk.ch
-pmuremover.ch
 pmuromand.ch
 pmus.ch
 pmushop.ch
@@ -1081,7 +1074,6 @@ pmuzuerich.ch
 pmv-groupe.ch
 pmv-informatik.ch
 pmv.ch
-pmvgestion-sa.ch
 pmvispr3.ch
 pmvm.ch
 pmw-am.ch

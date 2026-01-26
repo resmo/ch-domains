@@ -16,8 +16,6 @@ rk-buchhaltungen.ch
 rk-coaching.ch
 rk-coachings.ch
 rk-consult.ch
-rk-creation.ch
-rk-events.ch
 rk-fahrschule.ch
 rk-finance.ch
 rk-foto.ch
@@ -63,6 +61,8 @@ rkaiser.ch
 rkalt.ch
 rkaluminium.ch
 rkannfastalles.ch
+rkap.ch
+rkapital.ch
 rkarchitektur.ch
 rkarrer.ch
 rkart.ch
@@ -84,6 +84,7 @@ rkberatung.ch
 rkbg.ch
 rkbl.ch
 rkbm.ch
+rkbmtln.ch
 rkbr.ch
 rkbs.ch
 rkbtrade.ch
@@ -101,8 +102,8 @@ rkd.ch
 rkdeco.ch
 rkdemontage.ch
 rkdistribution.ch
-rkdn.ch
 rke-kalender.ch
+rke-racing.ch
 rke.ch
 rkeeper.ch
 rkeiken-stein.ch
@@ -189,7 +190,7 @@ rklu.ch
 rklyn.ch
 rkm-ag.ch
 rkm-beraten.ch
-rkm-group.ch
+rkm-consulting.ch
 rkm-reparaturenkleinmotoren.ch
 rkm-sarl.ch
 rkm.ch
@@ -238,16 +239,18 @@ rkr-ow.ch
 rkr-rechtsanwaelte.ch
 rkr-uri.ch
 rkr.ch
+rkra.ch
 rkraemer.ch
-rkrasniqi.ch
 rkrbern.ch
 rkrebs.ch
 rkresearch.ch
+rkrischan.ch
 rkrk.ch
 rkrnw.ch
 rkrs.ch
 rkrsplus.ch
 rkrudaz.ch
+rkrv.ch
 rkrz.ch
 rkrzug.ch
 rks-basel.ch
@@ -264,6 +267,7 @@ rksecurity-consulting.ch
 rksf.ch
 rksolution.ch
 rksportsfood.ch
+rkstr.ch
 rkstrom.ch
 rkstudio.ch
 rkstyles.ch
@@ -271,10 +275,8 @@ rksz.ch
 rkt-ag.ch
 rkt.ch
 rkte.ch
-rktechnics.ch
 rktest.ch
 rkthun.ch
-rktranslations.ch
 rku.ch
 rkuehne.ch
 rkuepfer.ch
@@ -293,7 +295,6 @@ rkv-kvk.ch
 rkv.ch
 rkvc.ch
 rkvo.ch
-rkvv.ch
 rkvw.ch
 rkw-reinigungen.ch
 rkw-sisslerfeld.ch

@@ -7,6 +7,7 @@ sb-anwaelte.ch
 sb-aquacare.ch
 sb-aquaclean.ch
 sb-autoecole.ch
+sb-autohaus.ch
 sb-automation.ch
 sb-autowaschtechnik.ch
 sb-az.ch
@@ -22,7 +23,6 @@ sb-betonservice.ch
 sb-biobuilding.ch
 sb-buchs.ch
 sb-busservice.ch
-sb-carcare.ch
 sb-cars.ch
 sb-carwash.ch
 sb-ch.ch
@@ -44,7 +44,6 @@ sb-electricite.ch
 sb-elternkindberatung.ch
 sb-engineering.ch
 sb-entervo.ch
-sb-environnement.ch
 sb-ernaehrung.ch
 sb-events.ch
 sb-fid.ch
@@ -89,7 +88,6 @@ sb-lernplattform.ch
 sb-liebe.ch
 sb-limmatstrasse.ch
 sb-management.ch
-sb-massagepraxis.ch
 sb-mc.ch
 sb-mechanics.ch
 sb-models.ch
@@ -104,7 +102,6 @@ sb-personal.ch
 sb-pferdephysio.ch
 sb-photography.ch
 sb-physio.ch
-sb-pi.ch
 sb-pilates.ch
 sb-plattenleger.ch
 sb-plessur.ch
@@ -116,6 +113,7 @@ sb-racing.ch
 sb-railing.ch
 sb-realestate.ch
 sb-red.ch
+sb-renovation.ch
 sb-safety-schuhbus.ch
 sb-safety.ch
 sb-sanitaire.ch
@@ -138,7 +136,6 @@ sb-steinenvorstadt.ch
 sb-steuern.ch
 sb-stiftung.ch
 sb-studio.ch
-sb-stylebar.ch
 sb-surselva.ch
 sb-swissconsult.ch
 sb-switzerland.ch
@@ -152,7 +149,6 @@ sb-trading.ch
 sb-trans.ch
 sb-transition.ch
 sb-transport.ch
-sb-transporte.ch
 sb-treuhand.ch
 sb-tv.ch
 sb-umbau.ch
@@ -186,7 +182,7 @@ sba-bau.ch
 sba-certifiedspecialist.ch
 sba-concept.ch
 sba-cug.ch
-sba-int.ch
+sba-immo.ch
 sba-lawyerscongress.ch
 sba-pensionfund.ch
 sba-sav.ch
@@ -203,6 +199,7 @@ sbabasel.ch
 sbabayaga.ch
 sbac.ch
 sbacademy.ch
+sbacc.ch
 sbachermann.ch
 sbachmanns.ch
 sbachmes.ch
@@ -230,7 +227,6 @@ sbahn.ch
 sbahnbern.ch
 sbahngruebler.ch
 sbahnschaffhausen.ch
-sbai-thai.ch
 sbai.ch
 sbaillod.ch
 sbaiz.ch
@@ -252,6 +248,7 @@ sbarch.ch
 sbarchitecte.ch
 sbarchitektur.ch
 sbarra-consulting.ch
+sbarra-treuhand.ch
 sbarra.ch
 sbarras.ch
 sbarro-baby.ch
@@ -259,7 +256,6 @@ sbarro.ch
 sbarrobaby.ch
 sbarte.ch
 sbarter.ch
-sbas.ch
 sbasa.ch
 sbaschung-consulting.ch
 sbaschungconsulting.ch
@@ -273,10 +269,12 @@ sbasystem.ch
 sbat-pratiques.ch
 sbat.ch
 sbau.ch
+sbauco.ch
 sbauer.ch
 sbaugmbh.ch
 sbaumanns.ch
 sbaupartner.ch
+sbauto.ch
 sbautohaus.ch
 sbautomobile.ch
 sbav.ch
@@ -287,6 +285,7 @@ sbb-1mio.ch
 sbb-adventcalendar.ch
 sbb-adventskalender.ch
 sbb-ag.ch
+sbb-aktuell.ch
 sbb-altlasten.ch
 sbb-ams.ch
 sbb-apim.ch
@@ -368,7 +367,6 @@ sbb-smove.ch
 sbb-sparbillett.ch
 sbb-sparbillette.ch
 sbb-startup.ch
-sbb-step2030.ch
 sbb-supersaver.ch
 sbb-supersavers.ch
 sbb-swisspass.ch
@@ -394,10 +392,10 @@ sbb-win.ch
 sbb-xmas.ch
 sbb-zufriedenheit.ch
 sbb.ch
-sbb24.ch
 sbba.ch
 sbbaden.ch
 sbbag.ch
+sbbaktuell.ch
 sbbandcruise.ch
 sbbarchiv.ch
 sbbau.ch
@@ -410,7 +408,6 @@ sbbceo.ch
 sbbcff.ch
 sbbcffffs.ch
 sbbcint.ch
-sbbconseils.ch
 sbbconsulting.ch
 sbbdetail.ch
 sbbe.ch
@@ -428,6 +425,7 @@ sbbgodbox.ch
 sbbgoodbox.ch
 sbbh.ch
 sbbhistoric.ch
+sbbi.ch
 sbbid.ch
 sbbike.ch
 sbbikes.ch
@@ -461,7 +459,6 @@ sbbrechner.ch
 sbbresale.ch
 sbbreshare.ch
 sbbreuse.ch
-sbbrusselsclinic.ch
 sbbschweiz.ch
 sbbservicescout.ch
 sbbservicescouts.ch
@@ -492,7 +489,6 @@ sbc-baopt.ch
 sbc-can.ch
 sbc-cham.ch
 sbc-demo.ch
-sbc-ems-training.ch
 sbc-energy.ch
 sbc-fiduciaire.ch
 sbc-fiduciaria.ch
@@ -557,13 +553,15 @@ sbchausag.ch
 sbci.ch
 sbcinternational.ch
 sbck.ch
+sbck01.ch
+sbck02.ch
 sbcl.ch
 sbclab.ch
 sbcloud.ch
 sbcluzern.ch
-sbcm.ch
 sbcms.ch
 sbco.ch
+sbcoa.ch
 sbcoach.ch
 sbcoaching.ch
 sbcoffice.ch
@@ -616,7 +614,6 @@ sbdf.ch
 sbdg.ch
 sbdigital.ch
 sbdmailer.ch
-sbdn.ch
 sbdnewsletter.ch
 sbdo.ch
 sbdrecords.ch
@@ -643,7 +640,6 @@ sbec.ch
 sbechafaudage-news.ch
 sbeconsulting.ch
 sbedirect.ch
-sbeer.ch
 sbeerito.ch
 sbeermann.ch
 sbefard.ch
@@ -658,7 +654,6 @@ sbendel.ch
 sbenergetica.ch
 sbenergy.ch
 sbenet.ch
-sbenvironnement.ch
 sbeo.ch
 sberbank.ch
 sberg.ch
@@ -672,6 +667,7 @@ sberkenkamp.ch
 sberner.ch
 sbernet.ch
 sberney.ch
+sbernhard.ch
 sbertschi.ch
 sberze.ch
 sbes.ch
@@ -688,7 +684,6 @@ sbeton.ch
 sbetrisey.ch
 sbeusch.ch
 sbeutler-coaching.ch
-sbeutler-consulting.ch
 sbeutler.ch
 sbewegt.ch
 sbex.ch
@@ -696,6 +691,7 @@ sbeze.ch
 sbf-see.ch
 sbf-sport.ch
 sbf.ch
+sbfacility.ch
 sbfanclub.ch
 sbfastfees.ch
 sbfbuserfinance.ch
@@ -732,7 +728,6 @@ sbgarage-furrer.ch
 sbgbau.ch
 sbgconsulting.ch
 sbgd.ch
-sbgestion.ch
 sbgf.ch
 sbgg.ch
 sbgj.ch
@@ -746,7 +741,6 @@ sbgr.ch
 sbgraphic.ch
 sbgraphicdesign.ch
 sbgreparaturen.ch
-sbgroup.ch
 sbgs-world.ch
 sbgs.ch
 sbgsa.ch
@@ -800,7 +794,6 @@ sbierit.ch
 sbierito.ch
 sbif.ch
 sbijoujewels.ch
-sbijoux-phone.ch
 sbijoux.ch
 sbijouxcreations.ch
 sbikeag.ch
@@ -826,6 +819,7 @@ sbiocos.ch
 sbirchler.ch
 sbirchmeier.ch
 sbire.ch
+sbirentals.ch
 sbirkmann.ch
 sbirrer.ch
 sbirsfelden.ch
@@ -850,6 +844,7 @@ sbiz.ch
 sbizzii-clean.ch
 sbizziidistribution.ch
 sbj-construction.ch
+sbj.ch
 sbjv.ch
 sbk-ag.ch
 sbk-agso.ch
@@ -884,7 +879,6 @@ sbk1.ch
 sbkasi.ch
 sbkc.ch
 sbkcescvs.ch
-sbkconsulting.ch
 sbkeramik.ch
 sbkfestival.ch
 sbkh.ch
@@ -913,7 +907,6 @@ sblag.ch
 sblamb.ch
 sblamb37.ch
 sblaser.ch
-sblauehuus.ch
 sblaw.ch
 sblc.ch
 sble.ch
@@ -946,14 +939,13 @@ sbm-consulting.ch
 sbm-creative.ch
 sbm-electricite.ch
 sbm-events.ch
-sbm-installationen.ch
 sbm-motorbootclub.ch
 sbm-mp.ch
 sbm.ch
 sbma-newsletter-vs.ch
 sbma.ch
 sbmagazine.ch
-sbmaloja.ch
+sbmanagement.ch
 sbmarket.ch
 sbmarketing.ch
 sbmb.ch
@@ -986,17 +978,14 @@ sbnat.ch
 sbnatureparc.ch
 sbnet.ch
 sbnettoyage.ch
-sbnext.ch
 sbnow.ch
 sbnservices.ch
 sbo-bet.ch
 sbo-coolimpool.ch
 sbo-games.ch
 sbo-kreuzlingen.ch
-sbo-olten.ch
 sbo-online.ch
 sbo-paysage.ch
-sbo-sh.ch
 sbo-tcm.ch
 sbo-tom.ch
 sbo.ch
@@ -1007,6 +996,7 @@ sbobet-mobile.ch
 sbobet-racing.ch
 sbobet-sports.ch
 sbobet.ch
+sbobetca.ch
 sbobetcasino.ch
 sbobetgames.ch
 sbobetmobile.ch
@@ -1021,6 +1011,7 @@ sbohren.ch
 sbollinger.ch
 sbollis.ch
 sbom.ch
+sbombs.ch
 sbone.ch
 sbongard.ch
 sboo.ch
@@ -1054,14 +1045,15 @@ sbp-hardstyle.ch
 sbp-immo.ch
 sbp-ing.ch
 sbp-legal.ch
+sbp-service.ch
 sbp-sg.ch
+sbp-testlink.ch
 sbp.ch
 sbpa.ch
 sbpag.ch
 sbpainvestments.ch
 sbparkett.ch
 sbpartner.ch
-sbpartners.ch
 sbpaysage.ch
 sbpc.ch
 sbpc2025.ch
@@ -1069,6 +1061,7 @@ sbpe.ch
 sbpg.ch
 sbphoto.ch
 sbphotography.ch
+sbpi.ch
 sbpictures.ch
 sbplegal.ch
 sbpobox.ch
@@ -1125,7 +1118,6 @@ sbrt.ch
 sbrtrading.ch
 sbru.ch
 sbruchez.ch
-sbruderer.ch
 sbruecker.ch
 sbruelisauer.ch
 sbrunner.ch
@@ -1136,6 +1128,7 @@ sbs-ag.ch
 sbs-ascenseurs.ch
 sbs-aspas.ch
 sbs-bnp.ch
+sbs-boden.ch
 sbs-cars.ch
 sbs-consulting.ch
 sbs-demo.ch
@@ -1158,12 +1151,10 @@ sbs-net.ch
 sbs-online.ch
 sbs-plattex.ch
 sbs-rettungsschule.ch
-sbs-sarl.ch
 sbs-schoenhalde.ch
 sbs-services.ch
 sbs-sicherheit.ch
 sbs-solutions.ch
-sbs-suisse.ch
 sbs-swiss-business-systems.ch
 sbs-swiss.ch
 sbs-switzerland.ch
@@ -1171,6 +1162,7 @@ sbs-trading.ch
 sbs-world.ch
 sbs-zugerkb.ch
 sbs.ch
+sbs101.ch
 sbs11.pcns.ch
 sbs20.ch
 sbs24.ch
@@ -1179,6 +1171,7 @@ sbs40.ch
 sbs9.ch
 sbsa.ch
 sbsag.ch
+sbsangottardo.ch
 sbsassetmanagement.ch
 sbsb.ch
 sbsbaits.ch
@@ -1203,6 +1196,7 @@ sbsgva.ch
 sbsh.ch
 sbshe.ch
 sbshf.ch
+sbshop.ch
 sbsi.ch
 sbsikyr.ch
 sbsinnovate.ch
@@ -1219,8 +1213,8 @@ sbsobern.ch
 sbsoft.ch
 sbsolartechbau.ch
 sbsolutions.ch
+sbsolver.ch
 sbsonline.ch
-sbsound.ch
 sbspectrum.ch
 sbsport.ch
 sbsportal.ch
@@ -1241,7 +1235,6 @@ sbstapler.ch
 sbsteel.ch
 sbstest.ch
 sbsteuern.ch
-sbstevebenjamin.ch
 sbstiftung.ch
 sbstnr.ch
 sbstrading.ch
@@ -1253,6 +1246,7 @@ sbsw.ch
 sbswiss.ch
 sbswissbusiness.ch
 sbswissevents.ch
+sbswissnettoyage.ch
 sbswitzerland.ch
 sbsxx.ch
 sbsystem.ch
@@ -1290,6 +1284,7 @@ sbtinternational.ch
 sbtl-app.ch
 sbtl.ch
 sbtn.ch
+sbtofficeking.ch
 sbtool.ch
 sbtools.ch
 sbtr.ch
@@ -1299,6 +1294,7 @@ sbtreuhand.ch
 sbtrustservice.ch
 sbts.ch
 sbtsa.ch
+sbtstudentshop.ch
 sbtswiss.ch
 sbttreuhand.ch
 sbtv.ch
@@ -1309,6 +1305,7 @@ sbu-info.ch
 sbu.ch
 sbublitz.ch
 sbuch.ch
+sbuchter.ch
 sbuconsulting.ch
 sbudi.ch
 sbue.ch
@@ -1332,6 +1329,7 @@ sburris.ch
 sbus.ch
 sbusiness.ch
 sbut.ch
+sbutl.ch
 sbutler.ch
 sbuyssens.ch
 sbuzzi.ch
@@ -1353,7 +1351,6 @@ sbv-umfrage.ch
 sbv-ups.ch
 sbv-usp.ch
 sbv.ch
-sbv50.ch
 sbvalais.ch
 sbvbrg.ch
 sbve.ch
@@ -1361,14 +1358,13 @@ sbventilation.ch
 sbvexpertises.ch
 sbvf.ch
 sbvg.ch
-sbvh-digital-landingpage.ch
-sbvh-digital.ch
 sbvh.ch
 sbvhv.ch
 sbvi.ch
 sbvision.ch
 sbvmedical.ch
 sbvph.ch
+sbvth.ch
 sbvtoa.ch
 sbvtools.ch
 sbvusp.ch
@@ -1419,7 +1415,6 @@ sbx-swiss.ch
 sbx-titanium.ch
 sbx.ch
 sbxcars.ch
-sbxpc.ch
 sby-salanitro.ch
 sby.ch
 sbysabrina.ch
@@ -1429,6 +1424,7 @@ sbyz.ch
 sbz-ag.ch
 sbz-esports.ch
 sbz-marketing.ch
+sbz-rg.ch
 sbz-vsphv.ch
 sbz-zuerich.ch
 sbz.ch

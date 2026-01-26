@@ -1,9 +1,9 @@
 hs-17.ch
 hs-24.ch
 hs-academy.ch
-hs-ag.ch
 hs-antriebssysteme.ch
 hs-arch.ch
+hs-architekt.ch
 hs-architekten.ch
 hs-architektur.ch
 hs-art-research.ch
@@ -13,7 +13,7 @@ hs-auto.ch
 hs-automaten.ch
 hs-automobile.ch
 hs-b.ch
-hs-baukeramik.ch
+hs-baumaschinen.ch
 hs-bb.ch
 hs-beratung.ch
 hs-berger.ch
@@ -62,8 +62,8 @@ hs-heizelemente.ch
 hs-heizpatronen.ch
 hs-helene.ch
 hs-help.ch
-hs-hirschensprung.ch
 hs-hochdorf.ch
+hs-holzbau.ch
 hs-hospitality.ch
 hs-immo.ch
 hs-info.ch
@@ -146,6 +146,7 @@ hs-webwork.ch
 hs-werbung.ch
 hs-wohlen.ch
 hs-x.ch
+hs-zh.ch
 hs-zo.ch
 hs1.ch
 hs12.ch
@@ -163,9 +164,9 @@ hs4holding.ch
 hs5.ch
 hs7.ch
 hsa-additive.ch
+hsa-automation.ch
 hsa-eng.ch
 hsa-luzern.ch
-hsa-restaurant.ch
 hsa-switzerland.ch
 hsa-systeme-ag.ch
 hsa.ch
@@ -177,7 +178,6 @@ hsad.ch
 hsadvisors.ch
 hsag-fundraising.ch
 hsag.ch
-hsalathe.ch
 hsap.ch
 hsar.ch
 hsarc.ch
@@ -194,6 +194,8 @@ hsb-akademie.ch
 hsb-architekten.ch
 hsb-bern.ch
 hsb-bildung.ch
+hsb-intern.ch
+hsb-news.ch
 hsb-planung.ch
 hsb-swiss.ch
 hsb-tore.ch
@@ -251,6 +253,7 @@ hsbrainactivity.ch
 hsc-clan.ch
 hsc-fonds.ch
 hsc-fraesen.ch
+hsc-global.ch
 hsc-informatik.ch
 hsc-kreuzlingen.ch
 hsc-luzern.ch
@@ -260,7 +263,6 @@ hsc-stadtluzern.ch
 hsc-swiss.ch
 hsc-vision.ch
 hsc.ch
-hsca.ch
 hscapital.ch
 hscarrelage.ch
 hscasings.ch
@@ -286,11 +288,9 @@ hsck.ch
 hscl.ch
 hscleanreinigung.ch
 hscm.ch
-hscnf.ch
 hscodesupport.ch
 hscoiffure.ch
 hsconsult.ch
-hsconsulting.ch
 hscoquette.ch
 hscorner.ch
 hscreativecrafts.ch
@@ -323,6 +323,8 @@ hse-haustechnik.ch
 hse-hello.ch
 hse-manager.ch
 hse-software.ch
+hse-staeubli.ch
+hse-tech.ch
 hse-ticino.ch
 hse.ch
 hse24-digital.ch
@@ -332,6 +334,7 @@ hse24-trend.ch
 hse24.ch
 hse24extra.ch
 hse24group.ch
+hse24shop.ch
 hse24trend.ch
 hse365.ch
 hseag.ch
@@ -368,7 +371,6 @@ hsfl.ch
 hsfm.ch
 hsformation.ch
 hsfoundation.ch
-hsfsuisse.ch
 hsg-125.ch
 hsg-alumni.ch
 hsg-avers.ch
@@ -397,7 +399,6 @@ hsg-lunchclub.ch
 hsg-meal-prep.ch
 hsg-moodle.ch
 hsg-moot.ch
-hsg-nw-juniorinnen.ch
 hsg-renov.ch
 hsg-retail-tech.ch
 hsg-revival.ch
@@ -452,6 +453,7 @@ hsgpedia.ch
 hsgr.ch
 hsgraum.ch
 hsgrenov.ch
+hsgs.ch
 hsgsailing.ch
 hsgshop.ch
 hsgsquare.ch
@@ -512,6 +514,7 @@ hsig.ch
 hsigmbh.ch
 hsigner.ch
 hsigroup.ch
+hsilab.ch
 hsim.ch
 hsimeth.ch
 hsimmo.ch
@@ -530,6 +533,7 @@ hsj-spring.ch
 hsj.ch
 hsjj.ch
 hsjohn.ch
+hsk-arabisch.ch
 hsk-bale.ch
 hsk-basel-admin.ch
 hsk-consulting.ch
@@ -564,7 +568,6 @@ hskm.ch
 hsknigge.ch
 hskollektion.ch
 hskswiss.ch
-hskuenstlermanagement.ch
 hskventures.ch
 hskvs.ch
 hskvz.ch
@@ -636,12 +639,10 @@ hsmi.ch
 hsmlegal.ch
 hsmnn.ch
 hsmotorsport.ch
-hsmotos.ch
 hsmr.ch
 hsms.ch
 hsmschweiz.ch
 hsmsz.ch
-hsmt.ch
 hsmultiservices.ch
 hsmw.ch
 hsmworks.ch
@@ -650,6 +651,7 @@ hsn-digitalone.ch
 hsn-elektro.ch
 hsn.ch
 hsnaturstein.ch
+hsnbauservices.ch
 hsnh.ch
 hsnmedia.ch
 hsnn.ch
@@ -666,9 +668,11 @@ hso.ch
 hsoalumni.ch
 hsobopp.ch
 hsodigitaldesign.ch
+hsoft.ch
 hsoimmo.ch
 hsol.ch
 hsolai.ch
+hsolar.ch
 hsolarhaus.ch
 hsolsen.ch
 hsolutions.ch
@@ -700,6 +704,7 @@ hsp-kongress.ch
 hsp-manifestation.ch
 hsp-meier.ch
 hsp-networks.ch
+hsp-ostschweiz-graubuenden.ch
 hsp-pas.ch
 hsp-personal.ch
 hsp-plan.ch
@@ -711,9 +716,11 @@ hsp-test.ch
 hsp.ch
 hspallschwil.ch
 hspb.ch
+hspberatung.ch
 hspc.ch
 hspc2.ch
 hspcoach.ch
+hspcoaching.ch
 hspeed.ch
 hspeinture.ch
 hsperson.ch
@@ -730,6 +737,7 @@ hspot.ch
 hspp.ch
 hsprenger.ch
 hsprerelease.ch
+hspromoting.ch
 hsps.ch
 hspu.ch
 hsq-exportsltd.ch
@@ -744,11 +752,11 @@ hsr-ingenieure.ch
 hsr-medical.ch
 hsr-mitenang.ch
 hsr-schaumstoffverpackung.ch
+hsr-services.ch
 hsr.ch
 hsra.ch
 hsrb.ch
 hsrd.ch
-hsreal.ch
 hsretro.ch
 hsrgmbh.ch
 hsrl.ch
@@ -757,6 +765,7 @@ hsrm.ch
 hsrt.ch
 hsrv.ch
 hss-ag.ch
+hss-alert.ch
 hss-group.ch
 hss-ideerich.ch
 hss-ipm.ch
@@ -764,7 +773,6 @@ hss-it-services.ch
 hss-it.ch
 hss-montagen.ch
 hss-sanierung-solar.ch
-hss-schweiz.ch
 hss-services.ch
 hss-solutions.ch
 hss-waefli.ch
@@ -782,7 +790,6 @@ hsservices.ch
 hssg.ch
 hssgmbh.ch
 hssgroup.ch
-hssgruppe.ch
 hssh.ch
 hssi.ch
 hssigi1.ch
@@ -815,11 +822,12 @@ hst-treuhand.ch
 hst.ch
 hst2012.ch
 hsta.ch
+hstag.ch
+hstc.ch
 hsteam.ch
 hsteamwerk.ch
 hstech.ch
 hsteck.ch
-hstein.ch
 hsteiner.ch
 hstern.ch
 hstest-domain.ch
@@ -834,6 +842,7 @@ hstr-events.ch
 hstr.ch
 hstrading.ch
 hstrafo.ch
+hstraub.ch
 hstreuhand.ch
 hstreuli.ch
 hstrevents.ch
@@ -858,26 +867,38 @@ hsv-s.ch
 hsv-sunset.ch
 hsv.ch
 hsvalentina.ch
+hsvc.ch
 hsvclubhaus.ch
 hsvdigital.ch
 hsverwaltung.ch
 hsvhalten.ch
 hsvo.ch
 hsvw.ch
+hsw-aarau.ch
+hsw-basel.ch
+hsw-bern.ch
+hsw-berneroberland.ch
+hsw-bildung.ch
 hsw-consulting-test.ch
 hsw-consulting.ch
 hsw-direct.ch
+hsw-education.ch
 hsw-fr.ch
 hsw-gmbh.ch
 hsw-homeservice.ch
+hsw-lernweg.ch
 hsw-lopilato.ch
+hsw-luzern.ch
+hsw-nordwestschweiz.ch
 hsw-reinigung.ch
 hsw-schweiz.ch
 hsw-solartechnik.ch
 hsw-zh.ch
+hsw-zuerich.ch
 hsw.ch
 hswa.ch
 hsware.ch
+hswbern.ch
 hswbt.ch
 hsweag.ch
 hsweb.ch
@@ -890,6 +911,7 @@ hswp.ch
 hswplay.ch
 hswr.ch
 hswrth.ch
+hswschweiz.ch
 hswtest.ch
 hswtest2.ch
 hswtest3.ch

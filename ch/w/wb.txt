@@ -8,7 +8,6 @@ wb-architekten.ch
 wb-architektur.ch
 wb-arts.ch
 wb-atelier.ch
-wb-autec.ch
 wb-bau.ch
 wb-baumpflege.ch
 wb-bauservice.ch
@@ -17,7 +16,6 @@ wb-bilder.ch
 wb-bkw-fmb.ch
 wb-brunold.ch
 wb-buddy.ch
-wb-bzzs.ch
 wb-check.ch
 wb-clothing.ch
 wb-consulting.ch
@@ -30,6 +28,7 @@ wb-dozent.ch
 wb-druckerei-willisau.ch
 wb-drumschool.ch
 wb-extra.ch
+wb-flyer.ch
 wb-forum.ch
 wb-fragrances.ch
 wb-garage.ch
@@ -57,7 +56,6 @@ wb-partner.ch
 wb-pharma.ch
 wb-sbl.ch
 wb-service-technik.ch
-wb-smartinvest.ch
 wb-store.ch
 wb-swisscapital.ch
 wb-t.ch
@@ -100,7 +98,6 @@ wbase.ch
 wbau.ch
 wbaumgartner.ch
 wbawerbung.ch
-wbay.ch
 wbb-rmv.ch
 wbb-shop.ch
 wbb.ch
@@ -111,7 +108,6 @@ wbbshop.ch
 wbbuergin.ch
 wbbzh.ch
 wbbzww.ch
-wbbzzs.ch
 wbc-basel.ch
 wbc-bern.ch
 wbc-boxing.ch
@@ -133,12 +129,9 @@ wbcapital.ch
 wbcbasel.ch
 wbcbz.ch
 wbce.ch
-wbcha.ch
 wbchirurgie.ch
-wbcinema.ch
 wbckerzers.ch
 wbclassics.ch
-wbcmanagement.ch
 wbcmurten.ch
 wbconsulting.ch
 wbcr.ch
@@ -146,7 +139,6 @@ wbcsd.ch
 wbct.ch
 wbd-deutschland.ch
 wbd-sa.ch
-wbd.ch
 wbdctn.ch
 wbdesign.ch
 wbdesigns.ch
@@ -217,6 +209,7 @@ wbg-freistatt-thun.ch
 wbg-freistatt.ch
 wbg-fulenbach.ch
 wbg-gallus.ch
+wbg-gamper.ch
 wbg-gartenstrasse.ch
 wbg-glarus.ch
 wbg-goldern.ch
@@ -269,10 +262,12 @@ wbg-saentisblick.ch
 wbg-sandhof.ch
 wbg-schlattertal.ch
 wbg-schoental-rikon.ch
+wbg-schuepfheim.ch
 wbg-schwaebis.ch
 wbg-schweiz.ch
 wbg-sg.ch
 wbg-sh.ch
+wbg-sins.ch
 wbg-sonnenberg.ch
 wbg-sonnenrain.ch
 wbg-sonnmatt.ch
@@ -299,6 +294,7 @@ wbg-winterthur.ch
 wbg-wish.ch
 wbg-wittnau.ch
 wbg-wo.ch
+wbg-wohnwert.ch
 wbg-wollerau.ch
 wbg-zentralschweiz.ch
 wbg-zh.ch
@@ -421,7 +417,6 @@ wbkolleg.ch
 wbkomplex.ch
 wbkz.ch
 wbl-dialog.ch
-wbl-schweiz.ch
 wbl.ch
 wblaettler.ch
 wblaser.ch
@@ -496,7 +491,6 @@ wbschreinermontagen.ch
 wbsf.ch
 wbsg.ch
 wbsh.ch
-wbsmartinvest.ch
 wbsmh.ch
 wbsociety.ch
 wbsolar.ch
@@ -504,10 +498,12 @@ wbss.ch
 wbst-swiss.ch
 wbstec.ch
 wbt-ag.ch
+wbt-hindelbank.ch
 wbt-jagd.ch
 wbt-solutions.ch
 wbt.ch
 wbtal.ch
+wbtc.ch
 wbtechnologies.ch
 wbtrans.ch
 wbtreuhand.ch
@@ -517,6 +513,7 @@ wbucher-hmw.ch
 wbucher-zimmerei.ch
 wbuehlmann.ch
 wbuntervaz.ch
+wburri.ch
 wbuschor.ch
 wbv-avgm.ch
 wbv-avocats.ch
@@ -551,4 +548,3 @@ wbzlangwiesen.ch
 wbzlenzburg.ch
 wbzo.ch
 wbzofingen.ch
-wbzw.ch

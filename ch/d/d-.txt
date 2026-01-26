@@ -4,6 +4,7 @@ d--este.ch
 d-1.ch
 d-11.ch
 d-2.ch
+d-3.ch
 d-4.ch
 d-4you.ch
 d-7.ch
@@ -17,10 +18,8 @@ d-a-group.ch
 d-a-l.ch
 d-a-m.ch
 d-a-r-k.ch
-d-a-r.ch
 d-a-s-life.ch
 d-a-s.ch
-d-a-school.ch
 d-a-y.ch
 d-a.ch
 d-accountant.ch
@@ -45,6 +44,7 @@ d-architecte.ch
 d-architectes.ch
 d-architecture.ch
 d-architektur.ch
+d-archweb.ch
 d-aria.ch
 d-ario.ch
 d-art-design.ch
@@ -56,6 +56,7 @@ d-ausmass.ch
 d-automation.ch
 d-b-bauunternehmung.ch
 d-b-d-l.ch
+d-b-diagnostik.ch
 d-b-i.ch
 d-b-s.ch
 d-b.ch
@@ -63,16 +64,16 @@ d-bag.ch
 d-balance.ch
 d-balazi.ch
 d-bar.ch
+d-barbershop.ch
 d-barf.ch
 d-basis.ch
 d-baumberger.ch
 d-baumgartner.ch
-d-bc.ch
 d-beauty.ch
+d-bee.ch
 d-belaz-transport.ch
 d-berdoz.ch
 d-berther.ch
-d-besten.ch
 d-bezaubernd.ch
 d-bgmbh.ch
 d-bit.ch
@@ -82,11 +83,13 @@ d-bloquetuyaux.ch
 d-blum-transporte.ch
 d-boesch.ch
 d-boutic.ch
+d-boutique.ch
 d-box-swiss.ch
 d-box.ch
 d-brain.ch
 d-brand.ch
 d-break.ch
+d-bridge.ch
 d-brock.ch
 d-brocki.ch
 d-brush.ch
@@ -100,7 +103,6 @@ d-c-table.ch
 d-c-wall.ch
 d-c.ch
 d-calling.ch
-d-care.ch
 d-carre.ch
 d-carsolution.ch
 d-case.ch
@@ -131,17 +133,18 @@ d-com.ch
 d-comm.ch
 d-comma-c.ch
 d-company.ch
-d-compartner.ch
 d-con-schweiz.ch
 d-con.ch
 d-concept.ch
 d-concepts.ch
 d-connect.ch
+d-connexion.ch
 d-conomy.ch
 d-cons.ch
 d-conschweiz.ch
 d-construction.ch
 d-constructions.ch
+d-consulting.ch
 d-count.ch
 d-creation.ch
 d-creations.ch
@@ -153,7 +156,6 @@ d-d-marketing.ch
 d-d-s.ch
 d-d-thalmann.ch
 d-d.ch
-d-data.ch
 d-day-1944.ch
 d-day-sisseln.ch
 d-day.ch
@@ -163,7 +165,6 @@ d-design.ch
 d-designs.ch
 d-desk.ch
 d-deutschmann.ch
-d-digital.ch
 d-dinamiqs.ch
 d-dm.ch
 d-dns.ch
@@ -173,6 +174,7 @@ d-dos.ch
 d-dots.ch
 d-douxgateau.ch
 d-dream.ch
+d-drechsler.ch
 d-drive.ch
 d-druck.ch
 d-ds.ch
@@ -183,6 +185,7 @@ d-e-l-f.ch
 d-e-m-o-k-r-a-t-i-e.ch
 d-e-n.ch
 d-e-p.ch
+d-e-s-a-s-t-e-r.ch
 d-e.ch
 d-ecobois.ch
 d-ecom.ch
@@ -201,6 +204,7 @@ d-enk-holzbau.ch
 d-enterprises.ch
 d-entreprises.ch
 d-erp.ch
+d-esign.ch
 d-esinfektor.ch
 d-estermann.ch
 d-event.ch
@@ -231,10 +235,8 @@ d-fine.ch
 d-finevent.ch
 d-fineweb.ch
 d-finitiv.ch
-d-fire.ch
-d-flash.ch
+d-fischer.ch
 d-flight.ch
-d-food.ch
 d-force.ch
 d-form.ch
 d-foto.ch
@@ -245,14 +247,15 @@ d-fs.ch
 d-ft.ch
 d-fuerst.ch
 d-future.ch
+d-fuzz.ch
 d-g-e.ch
 d-g-s.ch
 d-g.ch
 d-gadget.ch
 d-garage.ch
 d-gass.ch
-d-geissler.ch
 d-gerber.ch
+d-gest-sarl.ch
 d-gest.ch
 d-gl.ch
 d-glass.ch
@@ -285,6 +288,7 @@ d-hw.ch
 d-i-a.ch
 d-i-ag.ch
 d-i-b.ch
+d-i-d.ch
 d-i-e.ch
 d-i-f.ch
 d-i-o.ch
@@ -293,7 +297,6 @@ d-i-r.ch
 d-i-s.ch
 d-i.ch
 d-ia.ch
-d-ici.ch
 d-id.ch
 d-immo-regie.ch
 d-immo.ch
@@ -319,6 +322,7 @@ d-jaeggi.ch
 d-jam.ch
 d-jazz.ch
 d-journal-romand.ch
+d-journal-ticino.ch
 d-journal.ch
 d-julmy.ch
 d-k-d-n-f.ch
@@ -349,6 +353,7 @@ d-leg.ch
 d-legno.ch
 d-lemon.ch
 d-lens.ch
+d-libre.ch
 d-lichtstube.ch
 d-life.ch
 d-light.ch
@@ -365,7 +370,6 @@ d-living.ch
 d-location.ch
 d-logistics.ch
 d-losa.ch
-d-lp.ch
 d-luex.ch
 d-m-a.ch
 d-m-burnier.ch
@@ -417,6 +421,7 @@ d-naturals.ch
 d-net.ch
 d-network.ch
 d-netz.ch
+d-ni.ch
 d-nilssen.ch
 d-nomis.ch
 d-ns.ch
@@ -437,14 +442,12 @@ d-odermatt-recruting.ch
 d-office.ch
 d-oliveira.ch
 d-one-innovations.ch
-d-one-solutions.ch
 d-one.ch
 d-online.ch
 d-onofrio.ch
 d-optik.ch
 d-oqa.ch
 d-oro-pferde.ch
-d-oro.ch
 d-p-f.ch
 d-p.ch
 d-pa.ch
@@ -452,7 +455,6 @@ d-panel.ch
 d-partikelfilter.ch
 d-partner.ch
 d-partners.ch
-d-pause.ch
 d-pepites.ch
 d-phin.ch
 d-phine.ch
@@ -475,6 +477,7 @@ d-promotion.ch
 d-property.ch
 d-publish.ch
 d-q.ch
+d-qaps.ch
 d-r-c.ch
 d-r-h.ch
 d-r.ch
@@ -498,7 +501,6 @@ d-s-b.ch
 d-s-c.ch
 d-s-e.ch
 d-s-l.ch
-d-s-p.ch
 d-s-w.ch
 d-s.ch
 d-sa.ch
@@ -535,7 +537,6 @@ d-signs.ch
 d-signweb.ch
 d-sinfektor.ch
 d-skills.ch
-d-skull.ch
 d-smart.ch
 d-smartavrupa.ch
 d-soft.ch
@@ -550,6 +551,7 @@ d-st-immobilien.ch
 d-st.ch
 d-sta.ch
 d-station.ch
+d-steiner.ch
 d-sto.ch
 d-stock.ch
 d-stocker.ch
@@ -618,7 +620,6 @@ d-trockenbau.ch
 d-trust.ch
 d-tv.ch
 d-u-i.ch
-d-u.ch
 d-und-d.ch
 d-unlimited.ch
 d-urbantraining.ch
@@ -627,6 +628,7 @@ d-v.ch
 d-vaucher.ch
 d-velo.ch
 d-velop.ch
+d-veloping.ch
 d-velos.ch
 d-vert.ch
 d-vine.ch

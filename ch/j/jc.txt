@@ -26,6 +26,7 @@ jc-fitness.ch
 jc-foundation.ch
 jc-gin.ch
 jc-gmbh.ch
+jc-group.ch
 jc-hairandnails.ch
 jc-hairart.ch
 jc-hitzkirchertal.ch
@@ -38,7 +39,6 @@ jc-it.ch
 jc-kerzers.ch
 jc-kuechenmontagen.ch
 jc-ltd.ch
-jc-luzern.ch
 jc-management.ch
 jc-marketing.ch
 jc-mg.ch
@@ -55,6 +55,7 @@ jc-projets.ch
 jc-renting.ch
 jc-retail.ch
 jc-rusti.ch
+jc-santeholistique.ch
 jc-sarl.ch
 jc-sassine.ch
 jc-satigny.ch
@@ -75,6 +76,7 @@ jc1.ch
 jc2.ch
 jc2033.ch
 jc24.ch
+jc2a.ch
 jc33.ch
 jc872.ch
 jca-design.ch
@@ -117,6 +119,7 @@ jcbconseil.ch
 jcbdistribution.ch
 jcbesse.ch
 jcbgolf.ch
+jcbikes.ch
 jcbimmobilien.ch
 jcbiver.ch
 jcblavori.ch
@@ -142,8 +145,8 @@ jcconsult.ch
 jcconsulting.ch
 jccr.ch
 jccs.ch
-jccshop-unlimited.ch
 jcd-hobbies.ch
+jcd-notaire.ch
 jcd.ch
 jcdag.ch
 jcdanz.ch
@@ -161,11 +164,12 @@ jce.ch
 jce7.ch
 jcehottinger.ch
 jcem.ch
-jcemgroup.ch
 jcemmenbruecke.ch
+jces.ch
 jcestateservice.ch
 jcevents.ch
 jcewl.ch
+jcf-peinture.ch
 jcf.ch
 jcfa.ch
 jcfamily.ch
@@ -228,6 +232,7 @@ jci-chablais.ch
 jci-chur.ch
 jci-cs.ch
 jci-davos.ch
+jci-davosklosters.ch
 jci-emmental.ch
 jci-engadin.ch
 jci-foundation.ch
@@ -255,6 +260,7 @@ jci-sh.ch
 jci-solothurn.ch
 jci-surselva.ch
 jci-thun.ch
+jci-toggenburg.ch
 jci-wil.ch
 jci-winterthur.ch
 jci-zo.ch
@@ -269,7 +275,6 @@ jcibern.ch
 jcibroye.ch
 jcibusiness.ch
 jcibz.ch
-jcichablais.ch
 jcicharitynight.ch
 jcichatel.ch
 jcicm.ch
@@ -278,11 +283,9 @@ jcie.ch
 jcif.ch
 jcifoundation.ch
 jcifribourg.ch
-jcig.ch
 jcige.ch
 jcigolf.ch
 jcii.ch
-jcilausanne.ch
 jcilavaux.ch
 jcimartigny.ch
 jcimmo.ch
@@ -305,8 +308,8 @@ jcisierre.ch
 jcision.ch
 jciski.ch
 jciski2025.ch
-jcit.ch
 jciticino.ch
+jcitoggenburg.ch
 jciuk.ch
 jciuri.ch
 jciveveyse.ch
@@ -328,6 +331,7 @@ jckpot.ch
 jckpots.ch
 jckrealproperty.ch
 jcl-architecte.ch
+jcl-engineering.ch
 jcl-logistics.ch
 jcl-reinigungmaler.ch
 jcl-swissevent.ch
@@ -336,8 +340,8 @@ jclaude.ch
 jclauderohner.ch
 jclavater-briefwechsel.ch
 jclavater.ch
+jclement-santeholistique.ch
 jclement.ch
-jclerc.ch
 jclever.ch
 jcliebeskind.ch
 jclk.ch
@@ -353,7 +357,6 @@ jcm-gmbh.ch
 jcm-org.ch
 jcm-tooltec.ch
 jcm.ch
-jcma.ch
 jcmarch.ch
 jcmartin.ch
 jcmassacand.ch
@@ -374,7 +377,6 @@ jcnikles.ch
 jcnovelle.ch
 jco.ch
 jcoa.ch
-jcoaching.ch
 jcocos.ch
 jcodes.ch
 jcoilcreation.ch
@@ -415,7 +417,6 @@ jcq.ch
 jcqc.ch
 jcr-investment.ch
 jcr-investments.ch
-jcr-photart.ch
 jcr-studio.ch
 jcr.ch
 jcrc.ch
@@ -437,6 +438,7 @@ jcs-housecafe.ch
 jcs-sport.ch
 jcs-studio.ch
 jcs.ch
+jcscc.ch
 jcsch.ch
 jcscherrer.ch
 jcschwarz.ch
@@ -447,7 +449,6 @@ jcsg.ch
 jcsgourmethotdogs.ch
 jcshipping.ch
 jcsinfo.ch
-jcsk.ch
 jcsl.ch
 jcsmarkt.ch
 jcsmotorsportphotography.ch
@@ -464,11 +465,11 @@ jcstmaurice.ch
 jcstor.ch
 jcsupply.ch
 jcswisstech.ch
+jcsylla-concept.ch
 jct-conseils.ch
 jct.ch
 jctechnique.ch
 jcthurtal.ch
-jctminiloisir.ch
 jctoedi.ch
 jctrust.ch
 jctv.ch
@@ -486,11 +487,15 @@ jcv-services.ch
 jcv-swisstrotter.ch
 jcv.ch
 jcv2024.ch
-jcv2025.ch
 jcv2026.ch
 jcv2027.ch
 jcv2028.ch
 jcv2029.ch
+jcv2030.ch
+jcv2031.ch
+jcv2032.ch
+jcv2033.ch
+jcv2034.ch
 jcvholding.ch
 jcvp-be.ch
 jcvp-sg.ch
@@ -501,6 +506,7 @@ jcw-fitness.ch
 jcw.ch
 jcwag.ch
 jcwasser.ch
+jcwestside.ch
 jcwnetwork.ch
 jcworks.ch
 jcwresourcing.ch

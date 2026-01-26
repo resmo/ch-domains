@@ -5,7 +5,6 @@ s-1.ch
 s-100.ch
 s-2-s.ch
 s-2.ch
-s-2m.ch
 s-3.ch
 s-37.ch
 s-39.ch
@@ -14,6 +13,7 @@ s-4-you.ch
 s-5-stadt.ch
 s-5.ch
 s-7.ch
+s-8.ch
 s-9.ch
 s-a-a-s.ch
 s-a-a-t.ch
@@ -30,7 +30,6 @@ s-a-trading.ch
 s-a-v-o.ch
 s-a-z.ch
 s-a.ch
-s-abdichtungen.ch
 s-ac.ch
 s-access.ch
 s-admin.ch
@@ -43,9 +42,9 @@ s-airbag.ch
 s-alfonso.ch
 s-allround.ch
 s-am.ch
-s-ameti-cars-gmbh.ch
 s-analytics-intelligence.ch
 s-analytics.ch
+s-and-s-in-tuscany.ch
 s-and-you.ch
 s-ander-atelier.ch
 s-angehrn.ch
@@ -78,7 +77,6 @@ s-b-h.ch
 s-b-i.ch
 s-b-institut.ch
 s-b-lab.ch
-s-b-o.ch
 s-b-s.ch
 s-b-u.ch
 s-b.ch
@@ -114,6 +112,7 @@ s-bernie.ch
 s-beschte-wos-je-hets-gits.ch
 s-bewegt.ch
 s-bikepower.ch
+s-bildik.ch
 s-bim.ch
 s-bit.ch
 s-blue.ch
@@ -160,6 +159,7 @@ s-ch.ch
 s-chanf.ch
 s-chanf24.ch
 s-charl.ch
+s-chauffage-groupe.ch
 s-chauffage.ch
 s-chemie.ch
 s-chraettli.ch
@@ -180,7 +180,6 @@ s-connect.ch
 s-cons.ch
 s-construction.ch
 s-consulting.ch
-s-content.ch
 s-control.ch
 s-cool.ch
 s-cornaz.ch
@@ -194,7 +193,6 @@ s-cross.ch
 s-crossover.ch
 s-cultura.ch
 s-cze.ch
-s-d-a.ch
 s-d-arch.ch
 s-d-architekten.ch
 s-d-c.ch
@@ -205,7 +203,6 @@ s-d-m.ch
 s-d.ch
 s-dammann.ch
 s-data.ch
-s-date.ch
 s-dc.ch
 s-decanter.ch
 s-deinbild.ch
@@ -228,7 +225,6 @@ s-dog.ch
 s-dots.ch
 s-drg.ch
 s-drive.ch
-s-drivefahrschule.ch
 s-druemmeli.ch
 s-drymmeli.ch
 s-dt.ch
@@ -247,6 +243,7 @@ s-e-m.ch
 s-e-montagen.ch
 s-e-n-s.ch
 s-e-o.ch
+s-e-x.ch
 s-e.ch
 s-ea.ch
 s-econnect.ch
@@ -263,7 +260,6 @@ s-em.ch
 s-en-ciel.ch
 s-en.ch
 s-endo.ch
-s-energy.ch
 s-eng.ch
 s-engineering.ch
 s-ensemble.ch
@@ -299,7 +295,6 @@ s-fgr.ch
 s-fichier.ch
 s-fid.ch
 s-fide.ch
-s-figur.ch
 s-files.ch
 s-film.ch
 s-finance.ch
@@ -308,7 +303,6 @@ s-finanz.ch
 s-fischer-transport.ch
 s-fit.ch
 s-fixit.ch
-s-flux.ch
 s-fm.ch
 s-food.ch
 s-forme.ch
@@ -325,9 +319,11 @@ s-g-t.ch
 s-g.ch
 s-gallen24.ch
 s-gard.ch
+s-gate.ch
 s-ge.ch
 s-geissmann.ch
 s-geneve.ch
+s-ges.ch
 s-gg.ch
 s-gillieron.ch
 s-glider.ch
@@ -339,7 +335,6 @@ s-grenzgaengervorteil.ch
 s-gross.ch
 s-groth.ch
 s-group.ch
-s-gruetli.ch
 s-gruppe.ch
 s-gt.ch
 s-gu.ch
@@ -356,7 +351,9 @@ s-h-treuhand.ch
 s-h-z.ch
 s-h.ch
 s-hagen.ch
+s-hanti.ch
 s-harissa.ch
+s-haustechnik.ch
 s-hb.ch
 s-hc.ch
 s-heimberg.ch
@@ -369,6 +366,7 @@ s-hoffmann.ch
 s-holbrogiardini.ch
 s-holzbau.ch
 s-holzdesign.ch
+s-home.ch
 s-hotel.ch
 s-hs.ch
 s-ht.ch
@@ -380,7 +378,6 @@ s-i-c.ch
 s-i-d.ch
 s-i-e-b-e-r.ch
 s-i-f.ch
-s-i-g.ch
 s-i-l-o.ch
 s-i-m-c.ch
 s-i-m.ch
@@ -401,7 +398,6 @@ s-ict.ch
 s-id.ch
 s-ilence.ch
 s-imm.ch
-s-immo.ch
 s-immobilien.ch
 s-immobilier.ch
 s-imp.ch
@@ -437,6 +433,7 @@ s-k-design.ch
 s-k-i.ch
 s-k-l.ch
 s-k.ch
+s-ka.ch
 s-kay.ch
 s-keller.ch
 s-killfluencer.ch
@@ -450,14 +447,11 @@ s-kom.ch
 s-konnekt.ch
 s-konzept.ch
 s-kosmetik.ch
-s-kreative.ch
 s-kroll.ch
 s-kultur.ch
 s-kunst.ch
 s-kurmann.ch
 s-kurse.ch
-s-kurve.ch
-s-l-a.ch
 s-l-ag.ch
 s-l-s.ch
 s-l.ch
@@ -480,6 +474,7 @@ s-living.ch
 s-load.ch
 s-log.ch
 s-lowtech.ch
+s-luce.ch
 s-lutze.ch
 s-lw.ch
 s-m-b-a.ch
@@ -487,7 +482,6 @@ s-m-c.ch
 s-m-consulting.ch
 s-m-delcampo.ch
 s-m-e.ch
-s-m-f.ch
 s-m-h.ch
 s-m-i.ch
 s-m-k.ch
@@ -526,6 +520,7 @@ s-matchs.ch
 s-mb.ch
 s-mc.ch
 s-me.ch
+s-mecanique.ch
 s-mechanik.ch
 s-med.ch
 s-media.ch
@@ -543,10 +538,8 @@ s-metallbau.ch
 s-mf.ch
 s-mgmt.ch
 s-mi.ch
-s-miles.ch
 s-mime.ch
 s-mm.ch
-s-mobil.ch
 s-mobile.ch
 s-mobility.ch
 s-monitoring.ch
@@ -582,13 +575,13 @@ s-nues.ch
 s-nushus.ch
 s-o-a.ch
 s-o-d.ch
+s-o-f-a.ch
 s-o-l-a-r.ch
 s-o-l.ch
 s-o-m.ch
 s-o-s.ch
 s-o-u-k.ch
 s-o-u-l.ch
-s-o-u-n-d-s-c-a-p-e-s.ch
 s-o-z.ch
 s-o.ch
 s-of-s.ch
@@ -596,6 +589,7 @@ s-office.ch
 s-om.ch
 s-one.ch
 s-ops.ch
+s-orchid.ch
 s-org.ch
 s-os.ch
 s-ou.ch
@@ -619,14 +613,12 @@ s-pagano.ch
 s-pamela.ch
 s-paradiesli.ch
 s-park.ch
-s-parkdigital.ch
 s-parts.ch
 s-pass-coiffure.ch
 s-passt.ch
 s-pedelec.ch
 s-peers.ch
 s-peinture.ch
-s-performance-recovery.ch
 s-performance.ch
 s-personal.ch
 s-photo.ch
@@ -660,7 +652,6 @@ s-puenktli.ch
 s-puls.ch
 s-punkt.ch
 s-py-intel.ch
-s-q-a.ch
 s-q-e.ch
 s-q.ch
 s-qms-solutions.ch
@@ -676,7 +667,6 @@ s-r-k.ch
 s-r-l.ch
 s-r-m.ch
 s-r-s.ch
-s-r-systems.ch
 s-r-t.ch
 s-r.ch
 s-racing.ch
@@ -687,10 +677,11 @@ s-randegger.ch
 s-raumentwicklung.ch
 s-raumkonzept.ch
 s-re.ch
+s-reber.ch
 s-recordings.ch
-s-recovery-performance.ch
 s-rehab.ch
 s-reinhard.ch
+s-reinigung.ch
 s-reinigungsprodukte.ch
 s-rem.ch
 s-remote.ch
@@ -701,6 +692,7 @@ s-rk.ch
 s-rn.ch
 s-roch.ch
 s-roethlisberger.ch
+s-rooms.ch
 s-rotariu.ch
 s-rotariulabor.ch
 s-rothlisberger.ch
@@ -724,12 +716,12 @@ s-s.ch
 s-saladin.ch
 s-sante.ch
 s-sb.ch
+s-schmid.ch
 s-schneggatelier.ch
 s-schueepp.ch
 s-schumacher.ch
 s-schwarz.ch
 s-secure.ch
-s-sensdevie.ch
 s-serv.ch
 s-service.ch
 s-shop-24.ch
@@ -738,7 +730,6 @@ s-signer.ch
 s-sir.ch
 s-soft.ch
 s-sol.ch
-s-solaire.ch
 s-solution.ch
 s-solutions.ch
 s-sp.ch
@@ -747,6 +738,7 @@ s-sport.ch
 s-sprint.ch
 s-src.ch
 s-st.ch
+s-stadler.ch
 s-staender.ch
 s-stb.ch
 s-steinergmbh.ch
@@ -756,6 +748,7 @@ s-stylisthair.ch
 s-suter.ch
 s-swiss.ch
 s-sy.ch
+s-systems.ch
 s-t-a-r-t-u-p.ch
 s-t-a-r-t.ch
 s-t-a-t-s.ch
@@ -794,7 +787,6 @@ s-thetic.ch
 s-theticfirst.ch
 s-thetics.ch
 s-thetix.ch
-s-timbox.ch
 s-time.ch
 s-timprotec.ch
 s-tinnovation.ch
@@ -816,7 +808,6 @@ s-trd.ch
 s-trek.ch
 s-treuhand.ch
 s-tride.ch
-s-truck.ch
 s-trust.ch
 s-tschumi.ch
 s-tt.ch
@@ -844,7 +835,6 @@ s-utility.ch
 s-v-c.ch
 s-v-e-n.ch
 s-v-h.ch
-s-v-m.ch
 s-v-o.ch
 s-v-s.ch
 s-v.ch
@@ -856,6 +846,8 @@ s-vhs.ch
 s-vm.ch
 s-vt.ch
 s-vxt.ch
+s-w-a-m.ch
+s-w-beratung.ch
 s-w-i-s-s.ch
 s-w-i-t-z-e-r-l-a-n-d.ch
 s-w-immobilien.ch
@@ -872,6 +864,7 @@ s-wda.ch
 s-web.ch
 s-weber.ch
 s-wegmann.ch
+s-wert-design.ch
 s-wert.ch
 s-wertpapier.ch
 s-wi.ch

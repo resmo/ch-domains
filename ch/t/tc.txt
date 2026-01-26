@@ -32,7 +32,6 @@ tc-biedert.ch
 tc-biere.ch
 tc-birsfelden.ch
 tc-boeckten.ch
-tc-booze.ch
 tc-born-kappel.ch
 tc-born.ch
 tc-brig-glis.ch
@@ -88,7 +87,6 @@ tc-fleurier.ch
 tc-food-coaching.ch
 tc-franckegut.ch
 tc-frohberg.ch
-tc-fruits.ch
 tc-fundiver.ch
 tc-geek.ch
 tc-geneve.ch
@@ -177,11 +175,11 @@ tc-onex.ch
 tc-online.ch
 tc-orca.ch
 tc-pchat.ch
+tc-perforfmance.ch
 tc-personaltraining.ch
 tc-pfaeffikon.ch
 tc-photography.ch
 tc-physio.ch
-tc-pilatus.ch
 tc-plus.ch
 tc-porrentruy.ch
 tc-pragel.ch
@@ -206,7 +204,6 @@ tc-schiffenen.ch
 tc-schinznach.ch
 tc-schongau.ch
 tc-schwyz.ch
-tc-see.ch
 tc-seebach.ch
 tc-seeblick.ch
 tc-sempach.ch
@@ -274,6 +271,7 @@ tc-zo.ch
 tc-zollikon.ch
 tc1.ch
 tc1706.ch
+tc2.ch
 tc2016-tirhauterivefr.ch
 tc2026-tirhauterivefr.ch
 tc314.ch
@@ -286,12 +284,12 @@ tc4y.ch
 tc6.ch
 tc92.ch
 tc95.ch
-tca-brand.ch
 tca-cloud.ch
 tca-comp.ch
 tca-distribution.ch
 tca-info.ch
 tca-it.ch
+tca-service.ch
 tca-services.ch
 tca-swiss.ch
 tca-training.ch
@@ -300,7 +298,6 @@ tca.ch
 tcaa.ch
 tcaarau.ch
 tcaarberg.ch
-tcaas.ch
 tcab.ch
 tcabnae.ch
 tcacademy.ch
@@ -326,12 +323,12 @@ tcap.ch
 tcappenzell.ch
 tcaquarius.ch
 tcardon.ch
-tcards.ch
 tcarni.ch
 tcarosa.ch
 tcarron.ch
 tcars.ch
-tcastellano.ch
+tcaservice.ch
+tcasociety.ch
 tcat25.ch
 tcatest.ch
 tcau.ch
@@ -354,7 +351,6 @@ tcbadragaz.ch
 tcbadzurzach.ch
 tcbalgach.ch
 tcbally.ch
-tcband-and-jstone.ch
 tcbaselwest.ch
 tcbaudienst.ch
 tcbb.ch
@@ -371,17 +367,18 @@ tcbellinzona.ch
 tcbelp.ch
 tcbelvoir.ch
 tcbeo.ch
+tcberater.ch
 tcberg.ch
 tcberingen.ch
 tcbern.ch
 tcberner.ch
 tcbetondesign.ch
 tcbfashion.ch
+tcbgmbh.ch
 tcbiglen.ch
 tcbirsmatt.ch
 tcbischofszell.ch
 tcblog.ch
-tcbma.ch
 tcbmail.ch
 tcbn.ch
 tcbodio.ch
@@ -461,7 +458,6 @@ tccosta.ch
 tccourrendlin.ch
 tccouvet.ch
 tccps.ch
-tccrans.ch
 tccre.ch
 tccs.ch
 tccsarl.ch
@@ -556,7 +552,6 @@ tcflamingo.ch
 tcflawil.ch
 tcflims.ch
 tcfluntern.ch
-tcfo.ch
 tcfon.ch
 tcfoodcoaching.ch
 tcforel.ch
@@ -579,13 +574,15 @@ tcg-gmbh.ch
 tcg-hero.ch
 tcg-lbb.ch
 tcg-league-biel-bienne.ch
-tcg-nerdstore.ch
+tcg-market.ch
+tcg-oftringen.ch
 tcg-online.ch
 tcg-paradies.ch
 tcg-process.ch
 tcg-reborn.ch
 tcg-schweiz.ch
 tcg-shop.ch
+tcg-streamhelper.ch
 tcg-suisse.ch
 tcg-swiss.ch
 tcg-tournaments.ch
@@ -600,12 +597,14 @@ tcgaehwil.ch
 tcgalena.ch
 tcgames.ch
 tcgams.ch
-tcgass.ch
 tcgaster.ch
 tcgate.ch
 tcgc.ch
 tcgcards.ch
+tcgcollectorscorner.ch
+tcgcorner.ch
 tcgcprova.ch
+tcgdeals.ch
 tcge.ch
 tcgeek.ch
 tcgelterkinden.ch
@@ -620,7 +619,6 @@ tcginventory.ch
 tcgiswil.ch
 tcgiubiasco.ch
 tcgivisiez.ch
-tcgking.ch
 tcglab.ch
 tcgladen.ch
 tcgland.ch
@@ -630,6 +628,7 @@ tcgligajenni.ch
 tcgligamurten.ch
 tcgm.ch
 tcgmarket.ch
+tcgmarkt.ch
 tcgnft.ch
 tcgnyra.ch
 tcgoldach.ch
@@ -643,6 +642,7 @@ tcgquackson.ch
 tcgquest.ch
 tcgrandson.ch
 tcgranges.ch
+tcgranit.ch
 tcgrauholz.ch
 tcgravelone.ch
 tcgreborn.ch
@@ -661,6 +661,7 @@ tcgschweiz.ch
 tcgshop.ch
 tcgsuisse.ch
 tcgsummit.ch
+tcgswiss.ch
 tcgtournaments.ch
 tcgturniere.ch
 tcgvault.ch
@@ -700,14 +701,14 @@ tchat-contacte.ch
 tchat.ch
 tchatchamatcha.ch
 tchatchebatoille.ch
-tchatchegpt.ch
 tchatcheur.ch
-tchau.ch
 tchausen.ch
 tchautomobile.ch
 tchaux.ch
 tchb.ch
+tcheckin.ch
 tcheerbrugg.ch
+tcheers.ch
 tcheezebox.ch
 tchegg.ch
 tcheimberg.ch
@@ -787,6 +788,7 @@ tchobonne.ch
 tchoefe.ch
 tchoenggerberg.ch
 tchoernli.ch
+tchoin.ch
 tchomberg.ch
 tchooo.ch
 tchop.ch
@@ -794,6 +796,7 @@ tchorgen.ch
 tchorw.ch
 tchou.ch
 tchoubraev.ch
+tchoueille.ch
 tchouk-carouge.ch
 tchouk-ge.ch
 tchouk.ch
@@ -822,7 +825,6 @@ tchristen.ch
 tchu.ch
 tchuenenberg.ch
 tchuente.ch
-tchuenteandpartners.ch
 tchurch.ch
 tchus.ch
 tchw.ch
@@ -915,7 +917,6 @@ tclidogo.ch
 tcliestal.ch
 tclight.ch
 tclistrig.ch
-tclittau.ch
 tclocarno.ch
 tclonay.ch
 tclosone.ch
@@ -939,14 +940,14 @@ tcm-affolter.ch
 tcm-affoltern-akupunktur.ch
 tcm-affoltern-am-albis.ch
 tcm-affoltern.ch
+tcm-ai.ch
 tcm-aikang.ch
 tcm-aiti.ch
 tcm-aj.ch
-tcm-akademie-basel.ch
 tcm-akupressur.ch
 tcm-akupunktur-affoltern.ch
+tcm-akupunktur-basel.ch
 tcm-akupunktur-bern.ch
-tcm-akupunktur-chur.ch
 tcm-akupunktur-gr.ch
 tcm-akupunktur-kriens.ch
 tcm-akupunktur-luzern.ch
@@ -984,6 +985,7 @@ tcm-azentner.ch
 tcm-baar.ch
 tcm-baden.ch
 tcm-baenziger.ch
+tcm-baeriswil.ch
 tcm-balance.ch
 tcm-barengo.ch
 tcm-basel.ch
@@ -1010,7 +1012,6 @@ tcm-braendli.ch
 tcm-breitenbach.ch
 tcm-bremgarten.ch
 tcm-brigitta-raeber.ch
-tcm-bruegger.ch
 tcm-brugg.ch
 tcm-brunschweiler.ch
 tcm-buchmueller.ch
@@ -1018,7 +1019,6 @@ tcm-buchs.ch
 tcm-buelach.ch
 tcm-buelhof.ch
 tcm-buergi.ch
-tcm-buess.ch
 tcm-burgdorf.ch
 tcm-candrian.ch
 tcm-carl.ch
@@ -1046,12 +1046,10 @@ tcm-decurtins.ch
 tcm-degiacomi.ch
 tcm-dermatologie.ch
 tcm-derungs-luzern.ch
-tcm-deubelbeiss.ch
 tcm-deuringer.ch
 tcm-dhyana.ch
 tcm-diana.ch
 tcm-dlc.ch
-tcm-doerflinger.ch
 tcm-drogerie.ch
 tcm-edelmann.ch
 tcm-eibert.ch
@@ -1077,6 +1075,7 @@ tcm-frau.ch
 tcm-frauen.ch
 tcm-frauenfeld.ch
 tcm-freienbach.ch
+tcm-fuer-frauen.ch
 tcm-fuer-tiere.ch
 tcm-fvs.ch
 tcm-gabriela.ch
@@ -1126,7 +1125,6 @@ tcm-hersche.ch
 tcm-hess.ch
 tcm-hin.ch
 tcm-hoengg.ch
-tcm-horgen.ch
 tcm-horvath.ch
 tcm-horw.ch
 tcm-hotel.ch
@@ -1141,12 +1139,12 @@ tcm-in-zuerich.ch
 tcm-infertility.ch
 tcm-info.ch
 tcm-insel.ch
-tcm-institut-basel.ch
 tcm-iriskraaz.ch
 tcm-ix.ch
 tcm-jaccard.ch
 tcm-jaeggi.ch
 tcm-jammal.ch
+tcm-jegenstorf.ch
 tcm-jeon.ch
 tcm-jessicahuang.ch
 tcm-jin.ch
@@ -1216,7 +1214,7 @@ tcm-marty.ch
 tcm-massage.ch
 tcm-materne.ch
 tcm-mattle.ch
-tcm-med.ch
+tcm-mattstetten.ch
 tcm-medes.ch
 tcm-medica.ch
 tcm-medicare.ch
@@ -1225,7 +1223,6 @@ tcm-meggen.ch
 tcm-meier.ch
 tcm-meili.ch
 tcm-mel.ch
-tcm-meng.ch
 tcm-mentor.ch
 tcm-mentorat.ch
 tcm-mentorate.ch
@@ -1238,6 +1235,7 @@ tcm-mingtang.ch
 tcm-mishu.ch
 tcm-mobilhorgen.ch
 tcm-moehlin.ch
+tcm-moosseedorf.ch
 tcm-mpinelli.ch
 tcm-mueller.ch
 tcm-muenchenbuchsee.ch
@@ -1280,6 +1278,7 @@ tcm-pluess.ch
 tcm-plus-naturheilpraxis.ch
 tcm-plus-praxis.ch
 tcm-plus.ch
+tcm-portal.ch
 tcm-powerhouse.ch
 tcm-prana.ch
 tcm-pratteln.ch
@@ -1304,6 +1303,7 @@ tcm-praxis-luzern.ch
 tcm-praxis-moosegg.ch
 tcm-praxis-mueller.ch
 tcm-praxis-sayangi.ch
+tcm-praxis-sg.ch
 tcm-praxis-sticchi.ch
 tcm-praxis-stoll.ch
 tcm-praxis-suisse.ch
@@ -1334,7 +1334,6 @@ tcm-regensdorf.ch
 tcm-rehalp.ch
 tcm-reichlin.ch
 tcm-reichmuth.ch
-tcm-reiki.ch
 tcm-reuss.ch
 tcm-richterswil.ch
 tcm-roch.ch
@@ -1358,6 +1357,7 @@ tcm-schoenbuehl.ch
 tcm-schwarz.ch
 tcm-schweiz.ch
 tcm-schwyz.ch
+tcm-seerose.ch
 tcm-seetal.ch
 tcm-senn.ch
 tcm-sg.ch
@@ -1378,6 +1378,7 @@ tcm-somogyi.ch
 tcm-spitex.ch
 tcm-sportmedizin.ch
 tcm-sprecher.ch
+tcm-spreitenbach.ch
 tcm-stadelhofen.ch
 tcm-staefa.ch
 tcm-stasio.ch
@@ -1401,7 +1402,6 @@ tcm-therapeut-basel.ch
 tcm-therapeut.ch
 tcm-therapeuten.ch
 tcm-therapeutin.ch
-tcm-therapie-bern.ch
 tcm-therapie.ch
 tcm-therapy-praxis.ch
 tcm-therapy.ch
@@ -1413,6 +1413,7 @@ tcm-treuhand.ch
 tcm-trogen.ch
 tcm-unterland.ch
 tcm-uphill.ch
+tcm-urtenen.ch
 tcm-utzenstorf.ch
 tcm-uznach.ch
 tcm-valposchiavo.ch
@@ -1422,6 +1423,7 @@ tcm-vetsch.ch
 tcm-vigassy.ch
 tcm-villmergen.ch
 tcm-vital.ch
+tcm-vitalis.ch
 tcm-vitalzentrum.ch
 tcm-viva.ch
 tcm-voda.ch
@@ -1443,6 +1445,7 @@ tcm-wenk.ch
 tcm-wettingen.ch
 tcm-wetzikon.ch
 tcm-whieda.ch
+tcm-wiedikon.ch
 tcm-wil.ch
 tcm-wilhelm.ch
 tcm-willi.ch
@@ -1507,6 +1510,7 @@ tcm-zentrum-winterthur.ch
 tcm-zentrum-wohlen.ch
 tcm-zentrum-zofingen.ch
 tcm-zentrum-zug.ch
+tcm-zentrum.ch
 tcm-zermatt.ch
 tcm-zhao.ch
 tcm-zhr.ch
@@ -1571,6 +1575,8 @@ tcmbruetten.ch
 tcmbrugg.ch
 tcmbuelach.ch
 tcmburgdorf.ch
+tcmbyangela.ch
+tcmbynakori.ch
 tcmc.ch
 tcmcare.ch
 tcmcarl.ch
@@ -1583,6 +1589,7 @@ tcmchur.ch
 tcmclinic.ch
 tcmcongress.ch
 tcmcui.ch
+tcmd.ch
 tcmdai.ch
 tcmdao.ch
 tcmdeiss.ch
@@ -1615,6 +1622,7 @@ tcmfelber.ch
 tcmflow.ch
 tcmfood.ch
 tcmfrauundkind.ch
+tcmfuerfrauen.ch
 tcmfurttal.ch
 tcmg.ch
 tcmgabrieli.ch
@@ -1634,7 +1642,6 @@ tcmhan.ch
 tcmharmonia.ch
 tcmhealingqi.ch
 tcmhealth.ch
-tcmherbs.ch
 tcmhofstetter.ch
 tcmhotel.ch
 tcmigros.ch
@@ -1647,6 +1654,7 @@ tcmjordan.ch
 tcmju.ch
 tcmkamm.ch
 tcmkan.ch
+tcmkang.ch
 tcmkangtai.ch
 tcmkaringantenbein.ch
 tcmkaruna.ch
@@ -1671,12 +1679,10 @@ tcmloewenpraxis.ch
 tcmlufingen.ch
 tcmluzern.ch
 tcmlyuabt.ch
-tcmmarcella.ch
 tcmmarti.ch
 tcmmartins.ch
 tcmmarty.ch
 tcmmassage.ch
-tcmmed.ch
 tcmmedibuddha.ch
 tcmmingdao.ch
 tcmmooren.ch
@@ -1827,9 +1833,11 @@ tcmwaedi.ch
 tcmwallisellen.ch
 tcmwang.ch
 tcmwangeglisau.ch
+tcmwangheilpraxis.ch
 tcmwattwil.ch
 tcmwetzikon.ch
 tcmwider.ch
+tcmwiedikon.ch
 tcmwilfriedstrasse.ch
 tcmwinterthur.ch
 tcmwipkingen.ch
@@ -1871,11 +1879,11 @@ tcn24.ch
 tcna.ch
 tcnails.ch
 tcnapoleon.ch
-tcnaters.ch
 tcnax.ch
 tcnb.ch
 tcneerach.ch
 tcneftenbach.ch
+tcnendaz.ch
 tcneptun.ch
 tcnesslau.ch
 tcnest.ch
@@ -1885,6 +1893,7 @@ tcnetwork.ch
 tcneuenhof.ch
 tcneufeld.ch
 tcnewco.ch
+tcnexans.ch
 tcniederurnen.ch
 tcniklausen.ch
 tcno.ch
@@ -1917,12 +1926,12 @@ tconf.ch
 tconnex.ch
 tconseil.ch
 tconseils.ch
+tconstruction.ch
 tconsult.ch
 tconsulting.ch
 tcop.ch
 tcopfikon.ch
 tcorner.ch
-tcorreia.ch
 tcorsieres.ch
 tcortex.ch
 tcossingen.ch
@@ -1942,8 +1951,10 @@ tcp-gmbh.ch
 tcp-hairsystem.ch
 tcp-ip.ch
 tcp-it.ch
+tcp-wheels.ch
 tcp-xpower.ch
 tcp.ch
+tcp22.ch
 tcp53.ch
 tcp6.ch
 tcpaa.ch
@@ -1987,6 +1998,7 @@ tcprilly.ch
 tcpswitzerland.ch
 tcpully.ch
 tcpur.ch
+tcpwheels.ch
 tcpxpower.ch
 tcqg.ch
 tcr-art.ch
@@ -2080,7 +2092,6 @@ tcs-ccso.ch
 tcs-cctg.ch
 tcs-ccw.ch
 tcs-ccz.ch
-tcs-center.ch
 tcs-clarity.ch
 tcs-club-shop.ch
 tcs-clubshop.ch
@@ -2115,7 +2126,6 @@ tcs-formationdrones.ch
 tcs-formazione-droni.ch
 tcs-formazionedroni.ch
 tcs-fr.ch
-tcs-framework.ch
 tcs-freiburg.ch
 tcs-fribourg.ch
 tcs-ge-elections.ch
@@ -2171,7 +2181,6 @@ tcs-popup-camping.ch
 tcs-protection-juridique.ch
 tcs-protezione-giuridica.ch
 tcs-quizvelo.ch
-tcs-radio.ch
 tcs-rechtsschutz.ch
 tcs-reise.ch
 tcs-reisen.ch
@@ -2183,7 +2192,6 @@ tcs-sa.ch
 tcs-sar-ge.ch
 tcs-sar-vd.ch
 tcs-sar.ch
-tcs-sas.ch
 tcs-schwyz.ch
 tcs-scuola-guida.ch
 tcs-scuolaguida.ch
@@ -2220,7 +2228,6 @@ tcs-viaggi.ch
 tcs-viaggio.ch
 tcs-voyage.ch
 tcs-voyages.ch
-tcs-wab-kurs.ch
 tcs-waldstaette.ch
 tcs-waschcenter.ch
 tcs-waschpark.ch
@@ -2369,6 +2376,7 @@ tcsticino.ch
 tcstrainerschool.ch
 tcstraining.ch
 tcstream.ch
+tcsu.ch
 tcsulgen.ch
 tcsur.ch
 tcsvalais.ch
@@ -2391,7 +2399,6 @@ tcsyoungtimerclassic.ch
 tcsz.ch
 tcszg.ch
 tcszh3.ch
-tcszhnet.ch
 tcszueri.ch
 tct-event.ch
 tct-gmbh.ch
@@ -2407,7 +2414,6 @@ tcthoracker.ch
 tcthun.ch
 tcthusis.ch
 tcti.ch
-tctm.ch
 tctraining.ch
 tctrainingcenter.ch
 tctrainingscenter.ch
@@ -2460,6 +2466,7 @@ tcvr.ch
 tcvs.ch
 tcw-carrosserie.ch
 tcw-group.ch
+tcw-institut.ch
 tcw-wiesendangen.ch
 tcw.ch
 tcwaengi.ch

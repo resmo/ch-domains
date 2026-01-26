@@ -1,14 +1,15 @@
 aq-bau.ch
 aq-energy.ch
 aq-engineering.ch
+aq-global.ch
 aq-immo.ch
 aq-investment.ch
+aq-label.ch
 aq-montagen.ch
 aq-pi.ch
 aq-plus.ch
 aq-portfolio.ch
 aq-speicher.ch
-aq-tec.ch
 aq-viandesuisse.ch
 aq1.ch
 aqa-ag.ch
@@ -24,7 +25,6 @@ aqafit.ch
 aqagentur-digital.ch
 aqagentur.ch
 aqagenturdigital.ch
-aqanation.ch
 aqap.ch
 aqaplus.ch
 aqara.ch
@@ -32,9 +32,7 @@ aqasha.ch
 aqathon.ch
 aqb.ch
 aqba.ch
-aqbag.ch
 aqbau.ch
-aqbaugmbh.ch
 aqbuchhaltung.ch
 aqc-asso.ch
 aqc.ch
@@ -48,6 +46,7 @@ aqedis.ch
 aqendo.ch
 aqf-psychologue.ch
 aqfashion21.ch
+aqfbita.ch
 aqfeu.ch
 aqfibta.ch
 aqh.ch
@@ -70,6 +69,8 @@ aql.ch
 aqlex.ch
 aqlueftungsmontagen.ch
 aqluftungsmontagen.ch
+aqluminaq.ch
+aqlux.ch
 aqm.ch
 aqmail.ch
 aqmesh.ch
@@ -112,6 +113,7 @@ aqsb.ch
 aqsecure.ch
 aqsm.ch
 aqspi.ch
+aqstudio.ch
 aqswissinvest.ch
 aqswissvalue.ch
 aqt.ch
@@ -145,13 +147,11 @@ aqua-beef.ch
 aqua-blue-wasserspender.ch
 aqua-blue.ch
 aqua-bohr.ch
-aqua-bot.ch
 aqua-brigitte.ch
 aqua-bulle.ch
 aqua-canis.ch
 aqua-car-dossier.ch
 aqua-car.ch
-aqua-cardossier.ch
 aqua-cell.ch
 aqua-center.ch
 aqua-clean.ch
@@ -176,6 +176,7 @@ aqua-data-vs.ch
 aqua-data.ch
 aqua-datatrust.ch
 aqua-days.ch
+aqua-demia.ch
 aqua-design-ab.ch
 aqua-design-sa.ch
 aqua-designs.ch
@@ -221,7 +222,6 @@ aqua-h-consulting.ch
 aqua-hair.ch
 aqua-happiness.ch
 aqua-haustechnik.ch
-aqua-held.ch
 aqua-helvetica.ch
 aqua-holiday.ch
 aqua-home.ch
@@ -253,8 +253,8 @@ aqua-live-faisswiesen.ch
 aqua-live.ch
 aqua-lock.ch
 aqua-log.ch
+aqua-luna.ch
 aqua-lux.ch
-aqua-luzern.ch
 aqua-magic.ch
 aqua-manager.ch
 aqua-marine.ch
@@ -264,6 +264,7 @@ aqua-matic.ch
 aqua-matrix-haustechnik.ch
 aqua-matrix.ch
 aqua-medical.ch
+aqua-mega.ch
 aqua-mentor.ch
 aqua-mermaid.ch
 aqua-mermaids.ch
@@ -282,9 +283,6 @@ aqua-o.ch
 aqua-online.ch
 aqua-optima.ch
 aqua-organic.ch
-aqua-park-ferien.ch
-aqua-park-reisen.ch
-aqua-park-urlaub.ch
 aqua-partner.ch
 aqua-pearl.ch
 aqua-peinture.ch
@@ -303,7 +301,6 @@ aqua-politan.ch
 aqua-ponik.ch
 aqua-pool.ch
 aqua-power-system.ch
-aqua-power.ch
 aqua-pressa.ch
 aqua-prim.ch
 aqua-pro-gas.ch
@@ -326,7 +323,6 @@ aqua-relax.ch
 aqua-remote.ch
 aqua-rent.ch
 aqua-rep.ch
-aqua-revi.ch
 aqua-rhythmus.ch
 aqua-riviera.ch
 aqua-safe.ch
@@ -391,7 +387,7 @@ aqua-trade.ch
 aqua-trend.ch
 aqua-trock.ch
 aqua-trust.ch
-aqua-turikum.ch
+aqua-velle.ch
 aqua-vet.ch
 aqua-via.ch
 aqua-vision.ch
@@ -470,7 +466,6 @@ aquabion.ch
 aquabios.ch
 aquabirth.ch
 aquabiss.ch
-aquabit.ch
 aquabiz.ch
 aquablade.ch
 aquablasting.ch
@@ -506,9 +501,11 @@ aquacell.ch
 aquacenter-obwalden.ch
 aquacenter.ch
 aquacentrum.ch
+aquacerta.ch
 aquacheck.ch
 aquachek.ch
 aquachiara.ch
+aquachlorpro.ch
 aquacino.ch
 aquaclean-piscine.ch
 aquaclean-schweiz.ch
@@ -516,7 +513,7 @@ aquaclean.ch
 aquacleanauto.ch
 aquacleandirekt.ch
 aquacleanhome.ch
-aquaclear24.ch
+aquaclear.ch
 aquaclic.ch
 aquaclima.ch
 aquaclimb.ch
@@ -537,7 +534,6 @@ aquaconsult.ch
 aquacontrol.ch
 aquacontroll.ch
 aquacool.ch
-aquacreations.ch
 aquacrystal.ch
 aquactiv-wyland.ch
 aquacultur.ch
@@ -557,13 +553,13 @@ aquadea.ch
 aquadeck.ch
 aquadefender.ch
 aquadelfinee.ch
+aquademia.ch
 aquademie.ch
 aquadesign.ch
 aquadesignmuehlberg.ch
 aquadesigns.ch
 aquadetect.ch
 aquadetectfuites.ch
-aquadi.ch
 aquadipatete.ch
 aquadipool.ch
 aquadispa.ch
@@ -572,11 +568,11 @@ aquadocs.ch
 aquadog.ch
 aquadogs.ch
 aquadolce-coiffure-fribourg.ch
-aquadom.ch
 aquadome-aesch.ch
 aquadome.ch
 aquadomo.ch
 aquadonis.ch
+aquadono.ch
 aquador.ch
 aquadorboote.ch
 aquadoro.ch
@@ -615,7 +611,6 @@ aquaexcellence.ch
 aquaexcellent.ch
 aquaexpert.ch
 aquaexpo.ch
-aquafaba-restaurant.ch
 aquafaba.ch
 aquafacial.ch
 aquafan.ch
@@ -663,13 +658,11 @@ aquafitcham.ch
 aquafitkurse.ch
 aquafitness-christine.ch
 aquafitness-infos.ch
-aquafitness-myriam.ch
 aquafitness-oberglatt.ch
 aquafitness-power.ch
 aquafitness-remigen.ch
 aquafitness-subingen.ch
 aquafitness-therapie.ch
-aquafitness-toggenburg.ch
 aquafitness-weber.ch
 aquafitness-wochen.ch
 aquafitness.ch
@@ -687,9 +680,9 @@ aquafloors.ch
 aquaflor.ch
 aquaflora.ch
 aquaflow-gr.ch
+aquaflow.ch
 aquafontis.ch
 aquaforce.ch
-aquaforest.ch
 aquaform.ch
 aquaforme.ch
 aquafresh-entkalkung.ch
@@ -704,7 +697,6 @@ aquafuture.ch
 aquagard.ch
 aquagarden.ch
 aquagart.ch
-aquagarten.ch
 aquagem.ch
 aquagenius.ch
 aquageo.ch
@@ -727,7 +719,6 @@ aquagun.ch
 aquagym-estavayer.ch
 aquagym-nordicwalk.ch
 aquagym-rolle.ch
-aquagym-winterthur.ch
 aquagym.ch
 aquagyma.ch
 aquagymaerobic.ch
@@ -735,19 +726,22 @@ aquagymgantrisch.ch
 aquaharmony.ch
 aquahaus.ch
 aquahaustechnik.ch
+aquaheat.ch
 aquahelvetica.ch
 aquahermetic.ch
+aquahit.ch
 aquaholic.ch
 aquaholics.ch
 aquahome.ch
 aquahorw.ch
 aquahorwmitte.ch
-aquahouse.ch
 aquaidea.ch
+aquain.ch
 aquaindustrie.ch
 aquainfo.ch
 aquainnovation.ch
 aquainside.ch
+aquaion.ch
 aquair.ch
 aquaisol.ch
 aquajack.ch
@@ -791,7 +785,6 @@ aqualet.ch
 aqualetica.ch
 aqualetics.ch
 aqualex.ch
-aqualia.ch
 aqualibre.ch
 aqualibur.ch
 aqualide.ch
@@ -813,10 +806,10 @@ aqualips.ch
 aqualis-haaratelier.ch
 aqualis-sauna-club.ch
 aqualis.ch
+aqualisclean.ch
 aqualisclub.ch
 aqualisys.ch
 aquality-ag.ch
-aquality-gmbh.ch
 aquality.ch
 aqualitybydod.ch
 aqualityswiss.ch
@@ -827,6 +820,7 @@ aqualizer-online.ch
 aqualizer.ch
 aquallalin.ch
 aquallo.ch
+aqualo.ch
 aqualock.ch
 aqualog.ch
 aqualogic.ch
@@ -835,6 +829,7 @@ aqualoisir.ch
 aqualon.ch
 aqualook.ch
 aqualor.ch
+aqualore.ch
 aqualounge.ch
 aqualova.ch
 aqualowe.ch
@@ -844,12 +839,14 @@ aqualuc.ch
 aqualucerna.ch
 aqualudeau.ch
 aqualuma.ch
+aqualumen.ch
 aqualuna.ch
 aqualung.ch
 aqualut.ch
 aqualution.ch
 aqualux.ch
 aqualuxbathroom.ch
+aqualuxe.ch
 aqualuxgmbh.ch
 aqualuz.ch
 aqualynx.ch
@@ -883,6 +880,7 @@ aquamarketonline.ch
 aquamartis.ch
 aquamaryn.ch
 aquamassage.ch
+aquamaster.ch
 aquamation.ch
 aquamatrix.ch
 aquamatrixcorals.ch
@@ -931,11 +929,10 @@ aquamonkey.ch
 aquamotec.ch
 aquamotion.ch
 aquamotionsports.ch
-aquamove.ch
 aquamoves.ch
+aquamundi.ch
 aquamundo.ch
 aquamust.ch
-aquana.ch
 aquanaboca.ch
 aquanatur.ch
 aquanatura.ch
@@ -945,7 +942,6 @@ aquanaut.ch
 aquanautica.ch
 aquandeer.ch
 aquando.ch
-aquandor.ch
 aquaneo.ch
 aquanesso.ch
 aquanest-group.ch
@@ -958,6 +954,7 @@ aquanettogroup.ch
 aquanetz.ch
 aquanews.ch
 aquanex.ch
+aquanexus.ch
 aquanido.ch
 aquanina.ch
 aquanique.ch
@@ -965,6 +962,7 @@ aquanisa.ch
 aquaniyama.ch
 aquanopee.ch
 aquanostra.ch
+aquanota-yverdon.ch
 aquanota.ch
 aquanova-watersport.ch
 aquanova.ch
@@ -975,12 +973,15 @@ aquanovation.ch
 aquanovo.ch
 aquanovoboot.ch
 aquanox.ch
+aquans-service.ch
+aquans.ch
 aquanta.ch
 aquantas.ch
 aquante.ch
 aquantes.ch
 aquantic-infra.ch
 aquantic.ch
+aquantis-service.ch
 aquantis.ch
 aquanto.ch
 aquantos.ch
@@ -993,6 +994,7 @@ aquao.ch
 aquao2.ch
 aquaocean-schwimmbaeder.ch
 aquaocean.ch
+aquaone.ch
 aquaonline.ch
 aquaoptima.ch
 aquapac.ch
@@ -1005,13 +1007,7 @@ aquaparco-ticino.ch
 aquaparco.ch
 aquaparcswitzerland.ch
 aquapark-blackpearl.ch
-aquapark-ferien.ch
-aquapark-reisen.ch
-aquapark-urlaub.ch
 aquapark.ch
-aquaparkferien.ch
-aquaparkreisen.ch
-aquaparkurlaub.ch
 aquapartner.ch
 aquapass.ch
 aquapassion.ch
@@ -1023,7 +1019,6 @@ aquaperl.ch
 aquapet.ch
 aquapets.ch
 aquapex.ch
-aquapexgmbh.ch
 aquapharma.ch
 aquaphil.ch
 aquaphin.ch
@@ -1039,6 +1034,7 @@ aquaplanning4you.ch
 aquaplant.ch
 aquaplausch.ch
 aquaplay.ch
+aquapleasure.ch
 aquaplue.ch
 aquaplus-drinks.ch
 aquaplus.ch
@@ -1066,6 +1062,7 @@ aquaponing.ch
 aquaponisch.ch
 aquapool.ch
 aquapop.ch
+aquaport.ch
 aquapower-lenzburg.ch
 aquapower-oensingen.ch
 aquapower-sch.ch
@@ -1097,12 +1094,15 @@ aquapur.ch
 aquapura.ch
 aquapuravision.ch
 aquapure.ch
+aquapurify.ch
+aquapurity.ch
 aquaquest.ch
 aquarama.ch
 aquaramaswiss.ch
 aquardens.ch
 aquare.ch
 aquarea.ch
+aquareel.ch
 aquaregia.ch
 aquaregio.ch
 aquarein.ch
@@ -1113,6 +1113,7 @@ aquarelaxdance.ch
 aquarell-galerie.ch
 aquarell-kurse.ch
 aquarell-onlinekurse.ch
+aquarell-zauber.ch
 aquarell.ch
 aquarella-sedrun.ch
 aquarella.ch
@@ -1129,6 +1130,8 @@ aquarelle-wellness.ch
 aquarelle.ch
 aquarellealacarte.ch
 aquarellecoiffure.ch
+aquarellemed.ch
+aquarelles-claude-r.ch
 aquarelles-de-nouchka.ch
 aquarelleundpastelle.ch
 aquarellfarbe.ch
@@ -1142,7 +1145,6 @@ aquarelloplausch.ch
 aquarellpapier.ch
 aquarelltier.ch
 aquarellundapero.ch
-aquarellzauber.ch
 aquaremote.ch
 aquaren.ch
 aquarena-ag.ch
@@ -1160,7 +1162,6 @@ aquari-malawi.ch
 aquari.ch
 aquaria.ch
 aquarian-teachings.ch
-aquarianer.ch
 aquariasol.ch
 aquariastgallen.ch
 aquariaviva.ch
@@ -1175,7 +1176,6 @@ aquarienfisch.ch
 aquarienliebe.ch
 aquarienpflanzen.ch
 aquarienservice.ch
-aquarienserviceutzinger.ch
 aquarienshop.ch
 aquarienverein-winterthur.ch
 aquarienverein.ch
@@ -1188,12 +1188,12 @@ aquarine.ch
 aquaring.ch
 aquario-and-co.ch
 aquario.ch
-aquariofolie.ch
 aquarion.ch
 aquariophilie.ch
 aquarior.ch
 aquaris.ch
 aquarise.ch
+aquariseia.ch
 aquarisgroup.ch
 aquarisphoto.ch
 aquarist.ch
@@ -1203,12 +1203,10 @@ aquaristik-hofer.ch
 aquaristik-online-shop.ch
 aquaristik-profi.ch
 aquaristik-service.ch
-aquaristik-shop.ch
 aquaristik-utzinger-versand.ch
 aquaristik-utzinger.ch
 aquaristik.ch
 aquaristikbox.ch
-aquaristikdesign-gmbh.ch
 aquaristikdesign.ch
 aquaristikglobal.ch
 aquaristikmarkt.ch
@@ -1232,7 +1230,6 @@ aquarium-onlineshop.ch
 aquarium-pfister.ch
 aquarium-profis.ch
 aquarium-seerose.ch
-aquarium-service.ch
 aquarium-shop.ch
 aquarium-store.ch
 aquarium-stube.ch
@@ -1282,7 +1279,6 @@ aquariumwelt.ch
 aquariumwracks.ch
 aquariurs.ch
 aquarius-analytic.ch
-aquarius-bodamicus.ch
 aquarius-events.ch
 aquarius-kaenel.ch
 aquarius-lausanne.ch
@@ -1301,14 +1297,14 @@ aquariusprolife.ch
 aquariuswater.ch
 aquariva.ch
 aquark.ch
-aquarmonica.ch
 aquaro.ch
 aquarobic.ch
+aquarobotics-group.ch
+aquarobotics.ch
 aquaroc.ch
 aquaroma.ch
 aquarosa.ch
 aquaroyal-keim.ch
-aquaroyal.ch
 aquarrius.ch
 aquartiste.ch
 aquarus.ch
@@ -1332,7 +1328,6 @@ aquasatio.ch
 aquascale.ch
 aquascan.ch
 aquascape.ch
-aquascapers.ch
 aquascaping.ch
 aquaschnyder.ch
 aquaschool.ch
@@ -1384,7 +1379,6 @@ aquaspassi-ticino.ch
 aquaspasso-ticino.ch
 aquaspasso.ch
 aquaspectaculum.ch
-aquasphere-paintball.ch
 aquasphere.ch
 aquasphereled.ch
 aquaspin.ch
@@ -1398,7 +1392,6 @@ aquasportwelt.ch
 aquaspring.ch
 aquaspy.ch
 aquassence.ch
-aquastack.ch
 aquastar-waterpolo.ch
 aquastar.ch
 aquastarwaterpolo.ch
@@ -1410,6 +1403,7 @@ aquasteel-production.ch
 aquasteel.ch
 aquasteeldesign.ch
 aquastera.ch
+aquastmoritz.ch
 aquastone.ch
 aquastop.ch
 aquastore.ch
@@ -1467,6 +1461,7 @@ aquatemp.ch
 aquaterra-discount.ch
 aquaterra-herz.ch
 aquaterra-innerschwyz.ch
+aquaterra-sa.ch
 aquaterra-travel.ch
 aquaterra-umwelt.ch
 aquaterra-wellness.ch
@@ -1494,7 +1489,6 @@ aquatic-nature.ch
 aquatic-research.ch
 aquatic-science.ch
 aquatic-sport.ch
-aquatic.ch
 aquatica-gmbh.ch
 aquatica.ch
 aquaticconsulting.ch
@@ -1503,7 +1497,6 @@ aquaticfitness.ch
 aquaticfitnesssystems.ch
 aquaticfloors.ch
 aquaticino.ch
-aquaticlife.ch
 aquaticmastersteam.ch
 aquatico.ch
 aquatics-center.ch
@@ -1511,6 +1504,7 @@ aquatics-club.ch
 aquatics-fribourg.ch
 aquatics.ch
 aquaticschweiz.ch
+aquaticselements.ch
 aquaticsport.ch
 aquaticsschools.ch
 aquatikayak.ch
@@ -1574,6 +1568,7 @@ aquavendo.ch
 aquaventures.ch
 aquavera.ch
 aquaverde.ch
+aquavero.ch
 aquaversum.ch
 aquavert-media.ch
 aquavest.ch
@@ -1590,14 +1585,12 @@ aquavirat.ch
 aquavis.ch
 aquavision-eng.ch
 aquavision.ch
-aquavit.ch
 aquavita-nidwalden.ch
 aquavita-uri.ch
 aquavita.ch
 aquavitae.ch
 aquavital.ch
 aquavitalis-hydro.ch
-aquavitbar.ch
 aquavithal.ch
 aquavitis.ch
 aquaviva-rheinaubund.ch
@@ -1613,6 +1606,7 @@ aquawelt.ch
 aquawerk.ch
 aquawin.ch
 aquawincasino.ch
+aquawinch.ch
 aquawitchcode.ch
 aquaworld.ch
 aquaworldag.ch
@@ -1620,6 +1614,7 @@ aquax.ch
 aquayoga.ch
 aquazem.ch
 aquazemschweiz.ch
+aquazen.ch
 aquazino.ch
 aquazole.ch
 aquazolla.ch
@@ -1633,13 +1628,12 @@ aquba.ch
 aqubo.ch
 aquea.ch
 aqueabyfokus.ch
-aquecare.ch
 aquell.ch
 aquella.ch
 aquellino.ch
 aquellio.ch
-aquellum.ch
 aquendo.ch
+aquendor.ch
 aquene-hof.ch
 aquene.ch
 aquent.ch
@@ -1660,6 +1654,7 @@ aquila-anlageberatung.ch
 aquila-arp.ch
 aquila-associates-investments.ch
 aquila-associates.ch
+aquila-aureus.ch
 aquila-bank.ch
 aquila-capital-blue-planet-eltif.ch
 aquila-capital.ch
@@ -1698,12 +1693,12 @@ aquila-wm.ch
 aquila-zermatt.ch
 aquila.ch
 aquila747.ch
-aquilaagency.ch
 aquilaandcolombe.ch
 aquilabalmoral.ch
 aquilabank.ch
 aquilabasilea.ch
 aquilaboats.ch
+aquilacatamarans.ch
 aquilacloud.ch
 aquilacoaching.ch
 aquilacolombe.ch
@@ -1724,7 +1719,6 @@ aquilainvicta-observatorium.ch
 aquilainvicta.ch
 aquilaluzern.ch
 aquilamarketing.ch
-aquilan.ch
 aquilana-cloud.ch
 aquilana.ch
 aquilanature.ch
@@ -1744,9 +1738,10 @@ aquilas-schweiz.ch
 aquilas-switzerland.ch
 aquilas.ch
 aquilasam.ch
-aquilaswisscapital.ch
 aquilatraining.ch
 aquilaundlabi.ch
+aquilaunited.ch
+aquilaveritas.ch
 aquilavt.ch
 aquilaw.ch
 aquilaweiss.ch
@@ -1829,6 +1824,7 @@ aquist.ch
 aquitaliayachts.ch
 aquitest.ch
 aquitherme.ch
+aquity-eng.ch
 aquiver.ch
 aqulia.ch
 aquma.ch
@@ -1841,7 +1837,6 @@ aquon-blue.ch
 aquon-one.ch
 aquon.ch
 aquonblue.ch
-aquoneers.ch
 aquonone.ch
 aquor.ch
 aquos-sharp.ch
@@ -1850,6 +1845,7 @@ aquoscapital.ch
 aquosnet2018.ch
 aquoss.ch
 aquosus.ch
+aquota.ch
 aqurad.ch
 aqurada.ch
 aqurado.ch

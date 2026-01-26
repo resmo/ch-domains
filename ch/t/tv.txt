@@ -102,7 +102,6 @@ tv-haerkingen.ch
 tv-halter-wohnmobil.ch
 tv-halter.ch
 tv-halterung.ch
-tv-hasle-bei-burgdorf.ch
 tv-haslen.ch
 tv-heimberg.ch
 tv-held.ch
@@ -135,9 +134,7 @@ tv-kaufdorf.ch
 tv-kaufleute-basel.ch
 tv-kaufleute.ch
 tv-kilchberg.ch
-tv-klack.ch
 tv-klar.ch
-tv-kleinhueningen.ch
 tv-klosters.ch
 tv-kloten.ch
 tv-koblenz.ch
@@ -206,7 +203,6 @@ tv-quiz.ch
 tv-radio-pro-jrr.ch
 tv-radio.ch
 tv-rapperswil-be.ch
-tv-reality-star.ch
 tv-rebstein.ch
 tv-recherswil.ch
 tv-regensdorf.ch
@@ -220,6 +216,7 @@ tv-ruettenen.ch
 tv-saladattesa.ch
 tv-salledattente.ch
 tv-samedan.ch
+tv-sandra.ch
 tv-santenberg.ch
 tv-schachen.ch
 tv-scherz.ch
@@ -247,10 +244,12 @@ tv-star.ch
 tv-statistik.ch
 tv-stebler.ch
 tv-stein.ch
+tv-stgallenkappel.ch
 tv-studio.ch
 tv-suisse.ch
 tv-survey.ch
 tv-suter.ch
+tv-swiss.ch
 tv-taeglich.ch
 tv-taeuffelen.ch
 tv-telecom-seniorenhilfe.ch
@@ -305,9 +304,7 @@ tv1.ch
 tv18.ch
 tv1ostschweiz.ch
 tv2.ch
-tv24-junior.ch
 tv24.ch
-tv24junior.ch
 tv25.ch
 tv2go.ch
 tv2semaines.ch
@@ -331,10 +328,8 @@ tv9.ch
 tva-actu.ch
 tva-affoltern.ch
 tva-audits.ch
-tva-badminton.ch
 tva-conseils.ch
 tva-solutions.ch
-tva-strategie.ch
 tva-suisse.ch
 tva.ch
 tvaadorf.ch
@@ -381,7 +376,6 @@ tvasolutionsa.ch
 tvasolutionsarl.ch
 tvasolutionssa.ch
 tvasolutionssarl.ch
-tvastrategie.ch
 tvasuisse.ch
 tvasz.ch
 tvaszueri-hard.ch
@@ -433,6 +427,7 @@ tvbirsfelden.ch
 tvbischofszell-155.ch
 tvbischofszell-hobbyleutswiler.ch
 tvbischofszell.ch
+tvbleienbach.ch
 tvblick.ch
 tvblogs.ch
 tvbmfproductions.ch
@@ -444,11 +439,13 @@ tvbottmingen.ch
 tvbowil.ch
 tvbox.ch
 tvbp.ch
+tvbr.ch
 tvbreitenbach.ch
 tvbretzwil.ch
 tvbrienz.ch
 tvbrille.ch
 tvbrillen.ch
+tvbrislach.ch
 tvbroadcast.ch
 tvbruegg.ch
 tvbruetten-au.ch
@@ -544,7 +541,6 @@ tvegli.ch
 tveglisau.ch
 tvehrendingen.ch
 tveiken.ch
-tveiten.ch
 tvek.ch
 tvelectronic.ch
 tvembrach.ch
@@ -553,12 +549,14 @@ tvenge.ch
 tvengstringen.ch
 tvennenda.ch
 tvennetmoos.ch
-tveres.ch
+tver.ch
 tveriswil.ch
 tverlach.ch
 tvernigebi.ch
+tvers.ch
 tverschmatt.ch
 tverschwil.ch
+tverse.ch
 tverskaya.ch
 tveschlikon.ch
 tvet.ch
@@ -637,6 +635,7 @@ tvguide-fernsehprogramm.ch
 tvguide-tv-programm.ch
 tvguide.ch
 tvgunzgen.ch
+tvh-group.ch
 tvh-stsilvester.ch
 tvh.ch
 tvhaerkingen.ch
@@ -644,6 +643,7 @@ tvhalterungen.ch
 tvhasle.ch
 tvhaslen.ch
 tvhausen.ch
+tvhconsulting.ch
 tvhedingen.ch
 tvhegi.ch
 tvheiden.ch
@@ -729,7 +729,6 @@ tvkint.ch
 tvkirchberg.ch
 tvkirchlindach.ch
 tvkit.ch
-tvklack.ch
 tvklar.ch
 tvkleinbasel.ch
 tvkleinluetzel.ch
@@ -832,6 +831,7 @@ tvmillennium.ch
 tvmm.ch
 tvmoebel.ch
 tvmoenchi.ch
+tvmoeriken-wildegg.ch
 tvmoosseedorf.ch
 tvmorschach.ch
 tvmotion.ch
@@ -900,7 +900,6 @@ tvoberhof.ch
 tvoberrieden.ch
 tvoberschan.ch
 tvobersiggenthal.ch
-tvoberwallis.ch
 tvoberwil.ch
 tvobfelden.ch
 tvobrist.ch
@@ -914,7 +913,6 @@ tvojporadca.ch
 tvojuvoznik.ch
 tvolition.ch
 tvolten.ch
-tvone.ch
 tvonex.ch
 tvongunten.ch
 tvonline.ch
@@ -940,6 +938,7 @@ tvpfaeffikon.ch
 tvpfungen.ch
 tvpfyn.ch
 tvph.ch
+tvpic.ch
 tvpieterlen.ch
 tvpinternational.ch
 tvplaffeien.ch
@@ -949,20 +948,19 @@ tvpluto.ch
 tvportugal.ch
 tvprattelnas.ch
 tvpremium.ch
-tvpro.ch
 tvproduction.ch
 tvproductions.ch
 tvproducts.ch
 tvprodukte.ch
 tvproduktion.ch
 tvprogramm.ch
-tvprogrammheute.ch
 tvpromas.ch
 tvptechnologies.ch
 tvpur.ch
 tvq.ch
 tvquiz.ch
 tvr-cloud.ch
+tvr-garage.ch
 tvr-group.ch
 tvr-handball.ch
 tvr-treuhand.ch
@@ -1018,7 +1016,6 @@ tvrussikon.ch
 tvs-ebike.ch
 tvs-ebikes.ch
 tvs-fr.ch
-tvs-immobilier.ch
 tvs-mail.ch
 tvs-ne.ch
 tvs-ogv.ch
@@ -1031,11 +1028,9 @@ tvsaegeherisau.ch
 tvsafnern.ch
 tvsamstagern.ch
 tvsargans.ch
-tvsargansnew.ch
 tvsarmenstorf.ch
 tvsarnen.ch
 tvsat.ch
-tvsb.ch
 tvschachen.ch
 tvschaenis.ch
 tvschaffhausen.ch
@@ -1067,6 +1062,7 @@ tvsebikescompany.ch
 tvseebach.ch
 tvseedorf-uri.ch
 tvseedorf.ch
+tvseeland.ch
 tvseen.ch
 tvseengen.ch
 tvseftigen.ch
@@ -1096,6 +1092,7 @@ tvsissachhandball.ch
 tvsk.ch
 tvsmart.ch
 tvsmotor.ch
+tvso.ch
 tvsociale.ch
 tvsogv.ch
 tvsolothurn.ch
@@ -1139,12 +1136,12 @@ tvstudio.ch
 tvstueperberg.ch
 tvsubingen.ch
 tvsuche.ch
+tvsuedostschweiz.ch
 tvsuhr.ch
 tvsuisseplus.ch
 tvsulz.ch
 tvsurvey.ch
 tvsv.ch
-tvsvizzera.ch
 tvsvizzera24.ch
 tvsw.ch
 tvswiss.ch
@@ -1156,6 +1153,7 @@ tvt-handball.ch
 tvt-incontinence.ch
 tvt-info.ch
 tvt-inkontinenz.ch
+tvt-media.ch
 tvt-o.ch
 tvt-sie.ch
 tvt.ch
@@ -1180,6 +1178,7 @@ tvthun.ch
 tvthundorf.ch
 tvticino.ch
 tvticino24.ch
+tvtm.ch
 tvtmail.ch
 tvtnet.ch
 tvtoday.ch
@@ -1187,6 +1186,7 @@ tvtoess.ch
 tvtools.ch
 tvtotal.ch
 tvtoweb.ch
+tvtpro.ch
 tvtrends.ch
 tvtriengen.ch
 tvtrogen.ch
@@ -1194,7 +1194,6 @@ tvtrub.ch
 tvtrubschachen.ch
 tvtservices.ch
 tvtsie.ch
-tvtuanshop.ch
 tvturbenthal.ch
 tvtv.ch
 tvtwann.ch
@@ -1227,7 +1226,6 @@ tvvilters.ch
 tvvinelz.ch
 tvvtg.ch
 tvw.ch
-tvw175.ch
 tvwa.ch
 tvwabern.ch
 tvwaengi.ch
@@ -1236,9 +1234,9 @@ tvwald.ch
 tvwaldstatt.ch
 tvwalensee.ch
 tvwalenstadt.ch
-tvwalk.ch
-tvwalks.ch
 tvwallisellen.ch
+tvwalperswil.ch
+tvwangen.ch
 tvwangs.ch
 tvwarthweiningen.ch
 tvwatt.ch

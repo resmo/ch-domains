@@ -47,7 +47,6 @@ hp-gerber.ch
 hp-gisibach.ch
 hp-haering.ch
 hp-hauenstein.ch
-hp-hd.ch
 hp-headset.ch
 hp-hertach.ch
 hp-hertig.ch
@@ -85,7 +84,6 @@ hp-massages.ch
 hp-meister.ch
 hp-mps.ch
 hp-msa.ch
-hp-mueller-bewerben.ch
 hp-mueller-gartenbau.ch
 hp-mueller.ch
 hp-outlet.ch
@@ -111,7 +109,6 @@ hp-riegel.ch
 hp-rihs.ch
 hp-rits.ch
 hp-riviera.ch
-hp-rohner.ch
 hp-rohr.ch
 hp-romandie.ch
 hp-scan.ch
@@ -125,6 +122,7 @@ hp-siegl.ch
 hp-sigrist.ch
 hp-solutions.ch
 hp-spychiger.ch
+hp-staub.ch
 hp-steffen.ch
 hp-steiner.ch
 hp-stoll.ch
@@ -165,7 +163,6 @@ hp-welti.ch
 hp-willner.ch
 hp-wullschleger.ch
 hp-zs.ch
-hp-zurbuchen.ch
 hp1.ch
 hp18.ch
 hp2.ch
@@ -225,6 +222,7 @@ hpb.ch
 hpbaertsch.ch
 hpbaertschi.ch
 hpbamert.ch
+hpbau.ch
 hpbconsulting.ch
 hpbe.ch
 hpbedarf.ch
@@ -259,10 +257,12 @@ hpc-management.ch
 hpc-sarl.ch
 hpc-services.ch
 hpc.ch
+hpcadvisorycouncil.ch
 hpcare.ch
 hpcd.ch
 hpcdual.ch
 hpcf.ch
+hpcfr.ch
 hpcgroup.ch
 hpch-dev.ch
 hpch.ch
@@ -326,6 +326,7 @@ hperne.ch
 hperotto.ch
 hperp.ch
 hpeservices.ch
+hpesytem.ch
 hpevents.ch
 hpf-immobilien.ch
 hpf-services.ch
@@ -361,18 +362,19 @@ hpgerber.ch
 hpgestion.ch
 hpgribi.ch
 hpgroeble.ch
+hpgroup.ch
 hpguggi.ch
 hph-ag.ch
 hph-be.ch
 hph.ch
 hph1.ch
+hphaeberli.ch
 hphag.ch
 hphardegger.ch
 hpharlach.ch
 hphauenstein.ch
 hphauser-grafik.ch
 hphauser.ch
-hphd.ch
 hpheiniger.ch
 hpheinzer.ch
 hphess.ch
@@ -380,7 +382,6 @@ hphiestand.ch
 hphn.ch
 hphr.ch
 hphstiftung.ch
-hpht.ch
 hphtechnics.ch
 hphubmann.ch
 hphunkeler.ch
@@ -389,7 +390,6 @@ hpi-entreprise.ch
 hpi-investment.ch
 hpi-programm.ch
 hpi-regionalerschuldienst.ch
-hpi.ch
 hpia.ch
 hpictures.ch
 hpidesign.ch
@@ -411,6 +411,7 @@ hpinstantink.ch
 hpinstantinkandtoner.ch
 hpinvest.ch
 hpisani.ch
+hpiv.ch
 hpj.ch
 hpjaeger.ch
 hpjavet.ch
@@ -455,7 +456,6 @@ hplang.ch
 hplar.ch
 hplauper.ch
 hplbl.ch
-hplc-shop.ch
 hplc.ch
 hplckurse.ch
 hplconsult.ch
@@ -524,7 +524,6 @@ hpmethanol.ch
 hpmf.ch
 hpmgc.ch
 hpmgruppe.ch
-hpmi.ch
 hpminnig.ch
 hpmisteli.ch
 hpmnature.ch
@@ -539,6 +538,7 @@ hpmusic.ch
 hpn-gs.ch
 hpn-store.ch
 hpn.ch
+hpnag.ch
 hpnconsulting.ch
 hpnet.ch
 hpnettoyagesa.ch
@@ -555,7 +555,6 @@ hpon.ch
 hport.ch
 hpost.ch
 hpotech.ch
-hpower.ch
 hpp-ag.ch
 hpp-architekten.ch
 hpp-competence.ch
@@ -608,7 +607,6 @@ hpre.ch
 hpreiss.ch
 hprepair.ch
 hpresearch.ch
-hpresso.ch
 hprevention.ch
 hprey.ch
 hprfoto.ch
@@ -632,7 +630,6 @@ hprtaxi.ch
 hpruch.ch
 hprueegg.ch
 hps-affoltern-am-albis.ch
-hps-airride.ch
 hps-bezirk-affoltern.ch
 hps-bezirk-buelach.ch
 hps-bl.ch
@@ -738,12 +735,12 @@ hpt-solution.ch
 hpt-solutions.ch
 hpt.ch
 hptb.ch
-hptd.ch
 hptec-microtools.ch
 hptec.ch
 hptennis.ch
 hptepc-e.ch
 hptepc.ch
+hptexter.ch
 hpthommen.ch
 hptm.ch
 hptonerservice.ch
@@ -753,11 +750,11 @@ hpts.ch
 hptuners.ch
 hpu-beratung.ch
 hpu-kids.ch
-hpu-law.ch
 hpu.ch
 hpuandmore.ch
 hpuandyoucoach.ch
 hpuberatung.ch
+hpujourney.ch
 hpulrich.ch
 hpuunddu.ch
 hpv-alliance.ch
@@ -778,7 +775,6 @@ hpv-vaccin.ch
 hpv.ch
 hpva-krisenmanager.ch
 hpva.ch
-hpvalliance.ch
 hpversicherungen.ch
 hpvinfektion.ch
 hpvinfo.ch
@@ -816,19 +812,19 @@ hpwuermli.ch
 hpwyss.ch
 hpx.ch
 hpxi.ch
+hpxsuiss.ch
 hpy.ch
 hpyno-zuerich.ch
 hpz-bl.ch
-hpz-foto.ch
 hpz-romanshorn.ch
 hpz-seidenbaum.ch
 hpz-zh.ch
 hpz.ch
+hpzaeh.ch
 hpzag.ch
 hpzahno.ch
 hpzbl.ch
 hpzgl.ch
-hpzk.ch
 hpzm.ch
 hpzromanshorn.ch
 hpzseidenbaum.ch

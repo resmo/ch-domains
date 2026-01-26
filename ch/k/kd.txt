@@ -1,7 +1,6 @@
 kd-a.ch
 kd-ag.ch
 kd-architecture.ch
-kd-autotech.ch
 kd-cad.ch
 kd-consulting.ch
 kd-elektromotoren.ch
@@ -12,6 +11,7 @@ kd-landschaftsplanung.ch
 kd-musikakademie.ch
 kd-musikshop.ch
 kd-peinture.ch
+kd-services.ch
 kd-signs.ch
 kd-studio.ch
 kd-sushi.ch
@@ -19,12 +19,12 @@ kd-webdesign-agentur.ch
 kd-webdesign.ch
 kd2.ch
 kd3.ch
+kd3d.ch
 kda.ch
 kdance.ch
 kdangel.ch
 kdani.ch
 kdanse.ch
-kdarch.ch
 kdarchitektur.ch
 kdas.ch
 kdaswiss.ch
@@ -37,7 +37,6 @@ kdb2.ch
 kdb3.ch
 kdbavocats.ch
 kdbconcepts.ch
-kdbmode.ch
 kdbt.ch
 kdbtavocats.ch
 kdc-one.ch
@@ -55,6 +54,7 @@ kdent.ch
 kdesign-graphic.ch
 kdesign.ch
 kdesignatelier.ch
+kdesignbuild.ch
 kdesigner.ch
 kdesigns.ch
 kdev.ch
@@ -76,7 +76,6 @@ kdgweb.ch
 kdh.ch
 kdhairartist.ch
 kdhs.ch
-kdi.ch
 kdiam.ch
 kdicws.ch
 kdinternational.ch
@@ -89,16 +88,16 @@ kdjets.ch
 kdk-basecamp.ch
 kdk-group.ch
 kdk.ch
-kdkimmo.ch
+kdki.ch
 kdkk.ch
 kdkreadesign.ch
 kdks-cases.ch
 kdksa.ch
 kdl.ch
 kdlabs.ch
+kdlaser.ch
 kdlcdetailing.ch
 kdlipo.ch
-kdlocar.ch
 kdls.ch
 kdm-immobilien.ch
 kdm-newservice.ch
@@ -106,6 +105,9 @@ kdm-projekt.ch
 kdm-swissangola.ch
 kdm.ch
 kdmarketing.ch
+kdmbrocki.ch
+kdmeteorites.ch
+kdmz.ch
 kdn-sarl.ch
 kdn.ch
 kdnet.ch
@@ -120,12 +122,9 @@ kdns2.hauskraftwerk.ch
 kdns2.hauskraftwerke.ch
 kdns2.opennet.ch
 kdns2.opnag.ch
-kdo-cy.ch
 kdo-cyber.ch
 kdo.ch
-kdocy.ch
 kdoenni-partyservice.ch
-kdog.ch
 kdol.ch
 kdolocal.ch
 kdonateurs.ch
@@ -146,7 +145,6 @@ kdr-riehen.ch
 kdr.ch
 kdran.ch
 kdrii.ch
-kdrive-preverenges.ch
 kdrive-team-myksuite-preprod.ch
 kdrive-team-myksuite-prod.ch
 kdrive.ch
@@ -154,6 +152,7 @@ kdros.ch
 kdrs.ch
 kdrt.ch
 kds-cdc.ch
+kds-clean.ch
 kds-consulting.ch
 kds-elektroplanung.ch
 kds-haustechnik.ch
@@ -170,10 +169,10 @@ kdsg.ch
 kdsi.ch
 kdsieval.ch
 kdsil.ch
+kdsports.ch
 kdsrconsulting.ch
 kdstudio.ch
 kdsushi.ch
-kdsvizra.ch
 kdt-hosting.ch
 kdt-klebstoff.ch
 kdt-solution.ch

@@ -54,9 +54,10 @@ t-artsoft.ch
 t-assurances.ch
 t-au.ch
 t-audiodesign.ch
+t-authentic.ch
 t-auto.ch
-t-automation.ch
 t-automobile.ch
+t-automobiles.ch
 t-automotive.ch
 t-away.ch
 t-az.ch
@@ -64,13 +65,13 @@ t-b-agency.ch
 t-b-m.ch
 t-b.ch
 t-bader.ch
-t-baeren.ch
 t-bag.ch
 t-barbecue.ch
 t-base.ch
 t-bau-immo.ch
 t-bau.ch
 t-bauteam.ch
+t-be.ch
 t-bee.ch
 t-beer.ch
 t-belle.ch
@@ -137,6 +138,7 @@ t-consulting.ch
 t-contract.ch
 t-control.ch
 t-cs.ch
+t-csi.ch
 t-d-j.ch
 t-d-l.ch
 t-d-p.ch
@@ -145,7 +147,7 @@ t-debarras.ch
 t-design.ch
 t-detect.ch
 t-development.ch
-t-draht.ch
+t-dns.ch
 t-drive.ch
 t-drivers.ch
 t-dsa.ch
@@ -159,6 +161,8 @@ t-e.ch
 t-ea.ch
 t-each.ch
 t-ech.ch
+t-eco.ch
+t-electric.ch
 t-emch.ch
 t-energie.ch
 t-engineering.ch
@@ -181,14 +185,16 @@ t-fitness.ch
 t-flavor.ch
 t-flirt.ch
 t-fly.ch
+t-foil.ch
 t-for-c.ch
 t-for-two.ch
-t-force.ch
 t-form.ch
 t-fotografie.ch
 t-frei.ch
 t-fries.ch
+t-fs.ch
 t-fso.ch
+t-fusion.ch
 t-g-r.ch
 t-g.ch
 t-gb.ch
@@ -221,6 +227,7 @@ t-hofmann.ch
 t-holdener.ch
 t-home-cook.ch
 t-home.ch
+t-host.ch
 t-house.ch
 t-i-abt.ch
 t-i-f.ch
@@ -228,7 +235,6 @@ t-i-p.ch
 t-i-z.ch
 t-i.ch
 t-ict.ch
-t-ief.ch
 t-ielapi-fassaden.ch
 t-im.ch
 t-immo-ag.ch
@@ -247,6 +253,7 @@ t-ist.ch
 t-iz.ch
 t-j.ch
 t-jacquaz.ch
+t-jol.ch
 t-jos.ch
 t-k-b.ch
 t-k-f.ch
@@ -305,7 +312,6 @@ t-media.ch
 t-meier.ch
 t-metal.ch
 t-mexican-food-jonschwil.ch
-t-mgt.ch
 t-minus-watch.ch
 t-minus-watches.ch
 t-minus.ch
@@ -319,7 +325,6 @@ t-moser.ch
 t-move.ch
 t-mt.ch
 t-mueller.ch
-t-muellerag.ch
 t-n-t.ch
 t-n.ch
 t-nailart.ch
@@ -335,7 +340,6 @@ t-notes.ch
 t-nuenzg.ch
 t-null.ch
 t-nutrix.ch
-t-o-b.ch
 t-o-d-o.ch
 t-o-m.ch
 t-o-n-e-r.ch
@@ -351,6 +355,7 @@ t-onedesign.ch
 t-oneweb.ch
 t-online.ch
 t-p-g.ch
+t-p-p.ch
 t-p.ch
 t-pak.ch
 t-parade.ch
@@ -362,15 +367,16 @@ t-performance.ch
 t-photo.ch
 t-picker-biel.ch
 t-pierre.ch
+t-place.ch
 t-plan.ch
-t-plus.ch
 t-point.ch
+t-port.ch
+t-portal.ch
 t-powermove.ch
 t-print.ch
 t-profile.ch
 t-projekt.ch
 t-punkt.ch
-t-punto-markthalle-basel.ch
 t-punto.ch
 t-q.ch
 t-r-e-s-o-r.ch
@@ -380,6 +386,7 @@ t-r-t.ch
 t-r.ch
 t-raeume.ch
 t-rainer.ch
+t-raumakustik.ch
 t-raumplaner.ch
 t-raumstoff.ch
 t-raumwerk.ch
@@ -427,6 +434,7 @@ t-shirt-abo.ch
 t-shirt-atelier-s.ch
 t-shirt-bedrucken-zuerich-guenstig.ch
 t-shirt-bedrucken.ch
+t-shirt-creative-prints.ch
 t-shirt-design.ch
 t-shirt-discount.ch
 t-shirt-druck.ch
@@ -487,7 +495,6 @@ t-systems.ch
 t-systemsdmc.ch
 t-t-alarm.ch
 t-t-b.ch
-t-t-c.ch
 t-t-f.ch
 t-t-o.ch
 t-t-s.ch
@@ -521,6 +528,7 @@ t-treuhand.ch
 t-tribolet.ch
 t-truck.ch
 t-ts.ch
+t-tuning.ch
 t-two.ch
 t-u.ch
 t-umleimer.ch
@@ -529,9 +537,9 @@ t-unique.ch
 t-up.ch
 t-ursprung.ch
 t-v-b.ch
-t-v-s.ch
 t-v.ch
 t-vermessung.ch
+t-verse.ch
 t-vert.ch
 t-virus.ch
 t-vision.ch
@@ -542,13 +550,13 @@ t-w.ch
 t-watches.ch
 t-wear.ch
 t-web.ch
-t-weiler.ch
 t-werkstatt.ch
 t-wifi.ch
 t-wigger.ch
 t-williner.ch
 t-worx.ch
 t-x.ch
+t-xera.ch
 t-xolutions.ch
 t-xt.ch
 t-y.ch

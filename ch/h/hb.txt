@@ -27,7 +27,6 @@ hb-boutique.ch
 hb-buag.ch
 hb-buchhaltung.ch
 hb-bueroag.ch
-hb-buerorama.ch
 hb-c.ch
 hb-classic.ch
 hb-cnf.ch
@@ -35,7 +34,6 @@ hb-concept.ch
 hb-connect.ch
 hb-consult.ch
 hb-consulting.ch
-hb-creations.ch
 hb-cwy.ch
 hb-cxa.ch
 hb-dme.ch
@@ -79,7 +77,7 @@ hb-malerarbeiten.ch
 hb-marketplace.ch
 hb-massagen.ch
 hb-media.ch
-hb-meeting.ch
+hb-mediaworks.ch
 hb-modellbau.ch
 hb-montatech.ch
 hb-multitrade.ch
@@ -96,12 +94,14 @@ hb-photography.ch
 hb-pictures.ch
 hb-plast.ch
 hb-plus.ch
+hb-pm.ch
 hb-profil.ch
 hb-psb.ch
 hb-psy.ch
 hb-radio.ch
 hb-raumgestaltung.ch
 hb-recht.ch
+hb-reinigungen.ch
 hb-renovationen.ch
 hb-rom.ch
 hb-samantha.ch
@@ -126,13 +126,11 @@ hb-treuhand.ch
 hb-umzuege.ch
 hb-uster.ch
 hb-verladetechnik.ch
-hb-vision.ch
 hb-werdenberg.ch
 hb-winterdienst.ch
 hb-worldwide.ch
 hb-yacht.ch
 hb-ypr.ch
-hb-zone.ch
 hb-zuerich.ch
 hb1.ch
 hb11-law.ch
@@ -161,9 +159,10 @@ hb3xzd.ch
 hb3ydx.ch
 hb3yea.ch
 hb3yfv.ch
-hb3yhi.ch
 hb3yhm.ch
 hb3yiw.ch
+hb3ynv.ch
+hb3ypj.ch
 hb3ysl.ch
 hb3ywg.ch
 hb3yxm.ch
@@ -174,6 +173,7 @@ hb4fa.ch
 hb4faf.ch
 hb4fr.ch
 hb4lo.ch
+hb50ohm.ch
 hb54.ch
 hb810.ch
 hb88.ch
@@ -215,6 +215,7 @@ hb9bfy.ch
 hb9bg.ch
 hb9bi.ch
 hb9bkt.ch
+hb9bo.ch
 hb9bpp.ch
 hb9bqb.ch
 hb9bqu.ch
@@ -227,6 +228,7 @@ hb9bxe.ch
 hb9bxr.ch
 hb9cel.ch
 hb9cf.ch
+hb9cjx.ch
 hb9cl.ch
 hb9cqk.ch
 hb9cvh.ch
@@ -274,7 +276,6 @@ hb9ei.ch
 hb9eik.ch
 hb9eiy.ch
 hb9eiz.ch
-hb9elz.ch
 hb9em.ch
 hb9eme.ch
 hb9emh.ch
@@ -295,6 +296,7 @@ hb9eui.ch
 hb9evd.ch
 hb9evi.ch
 hb9evt.ch
+hb9evw.ch
 hb9ewb.ch
 hb9exb.ch
 hb9exf.ch
@@ -362,6 +364,7 @@ hb9gfv.ch
 hb9gfx.ch
 hb9gij.ch
 hb9gis.ch
+hb9giv.ch
 hb9gl.ch
 hb9gnc.ch
 hb9gno.ch
@@ -394,6 +397,7 @@ hb9hb.ch
 hb9hbe.ch
 hb9hbi.ch
 hb9hbl.ch
+hb9hbq.ch
 hb9hby.ch
 hb9hbz.ch
 hb9hcr.ch
@@ -444,8 +448,11 @@ hb9hr.ch
 hb9hslu.ch
 hb9hsr.ch
 hb9htc.ch
+hb9htk.ch
+hb9hts.ch
 hb9hun.ch
 hb9hwo.ch
+hb9hws.ch
 hb9hym.ch
 hb9hyv.ch
 hb9hzk.ch
@@ -453,7 +460,6 @@ hb9hzv.ch
 hb9hzw.ch
 hb9iah.ch
 hb9id.ch
-hb9iia.ch
 hb9iiu.ch
 hb9ijq.ch
 hb9ikl.ch
@@ -467,6 +473,9 @@ hb9imx.ch
 hb9inv.ch
 hb9ion.ch
 hb9iqb.ch
+hb9irl.ch
+hb9irn.ch
+hb9irx.ch
 hb9it.ch
 hb9ja.ch
 hb9jam.ch
@@ -578,6 +587,7 @@ hb9tzu.ch
 hb9uf.ch
 hb9uhf.ch
 hb9uw.ch
+hb9v.ch
 hb9vab.ch
 hb9vc.ch
 hb9vcj.ch
@@ -594,9 +604,9 @@ hb9wt.ch
 hb9xc.ch
 hb9xnv.ch
 hb9y.ch
+hb9yota.ch
 hb9yxm.ch
 hb9z.ch
-hb9zag.ch
 hb9zf.ch
 hb9zg.ch
 hb9zgz.ch
@@ -618,9 +628,9 @@ hbagz.ch
 hbaier.ch
 hbam.ch
 hban.ch
+hband.ch
 hbantwerp.ch
 hbar.ch
-hbarbershop.ch
 hbarch.ch
 hbarchitekten.ch
 hbarchitektenag.ch
@@ -646,6 +656,7 @@ hbb.ch
 hbb24.ch
 hbbarber.ch
 hbbarbershop.ch
+hbbau.ch
 hbbbl.ch
 hbbbs.ch
 hbbeautyfactory.ch
@@ -688,7 +699,6 @@ hbcnyon.ch
 hbcom.ch
 hbcon.ch
 hbconseils.ch
-hbconstruction.ch
 hbconsult.ch
 hbconsultant.ch
 hbconsulting.ch
@@ -704,7 +714,7 @@ hbd-design.ch
 hbd.ch
 hbdc.ch
 hbdecorhome.ch
-hbdesign.ch
+hbdevsolutions.ch
 hbdezignz.ch
 hbdgn.ch
 hbdi-switzerland.ch
@@ -722,6 +732,7 @@ hbeauty.ch
 hbeer.ch
 hbel.ch
 hbelectronic.ch
+hbenchmark.ch
 hbenkert.ch
 hbera.ch
 hberatung.ch
@@ -741,6 +752,7 @@ hbfaeger.ch
 hbfahrzeugbau.ch
 hbfc.ch
 hbff.ch
+hbfiduciaire.ch
 hbfood.ch
 hbfotografie.ch
 hbfotos.ch
@@ -756,7 +768,9 @@ hbgarten.ch
 hbgbau.ch
 hbgbeteiligungen.ch
 hbgc.ch
+hbge.ch
 hbgetancheite.ch
+hbggroupe.ch
 hbgimmobilien.ch
 hbgl.ch
 hbgold.ch
@@ -767,6 +781,8 @@ hbh-ag.ch
 hbh-com.ch
 hbh.ch
 hbhm.ch
+hbho.ch
+hbholding.ch
 hbhub.ch
 hbi-bern.ch
 hbi-immobilienag.ch
@@ -802,6 +818,7 @@ hbkevents.ch
 hbkom.ch
 hbkprenscia.ch
 hbksolutions.ch
+hbkwealth.ch
 hbkworld.ch
 hbl-aarburg.ch
 hbl-galli.ch
@@ -818,6 +835,7 @@ hblb.ch
 hble.ch
 hblegal.ch
 hbleitern.ch
+hblfinanz.ch
 hblo.ch
 hblog.ch
 hblsolution.ch
@@ -853,6 +871,7 @@ hbminvest.ch
 hbmkerdos.ch
 hbmminerals.ch
 hbmn.ch
+hbmns.ch
 hbmoebel.ch
 hbmpartners.ch
 hbmprenscia.ch
@@ -876,10 +895,11 @@ hbo-schweiz.ch
 hbo-sui.ch
 hbo-winterthur.ch
 hbo-zuerich.ch
+hbo.ch
 hbodmer.ch
 hboe.ch
-hbofw.ch
 hboht.ch
+hboir.ch
 hbokammer.ch
 hboller.ch
 hbonetti.ch
@@ -892,6 +912,7 @@ hbosshardt.ch
 hbot.ch
 hbotxzuerich.ch
 hboutin.ch
+hbovergleich.ch
 hbowinterthur.ch
 hbox.ch
 hboxy.ch
@@ -936,6 +957,7 @@ hbreuninger.ch
 hbrg.ch
 hbrnet.ch
 hbrodard.ch
+hbrsys.ch
 hbruegger-ag.ch
 hbruhin-consulting.ch
 hbrunnerholzbau.ch
@@ -953,12 +975,14 @@ hbs-sa.ch
 hbs-schweiz.ch
 hbs-shipping.ch
 hbs-swiss.ch
+hbs-swissag.ch
 hbs-systemabdichtungen.ch
 hbs-tvschlieren.ch
 hbs-web.ch
 hbs.ch
 hbs11.ch
 hbsa.ch
+hbsanitaire.ch
 hbsc.ch
 hbschreiner.ch
 hbschreinerarbeiten.ch
@@ -980,6 +1004,7 @@ hbspot.ch
 hbst.ch
 hbswiss.ch
 hbsysteme.ch
+hbsystems.ch
 hbt-ag.ch
 hbt-ai.ch
 hbt-akademie.ch
@@ -1022,6 +1047,7 @@ hbv-schweiz.ch
 hbv-system.ch
 hbv-systeme.ch
 hbv.ch
+hbventures.ch
 hbvertrieb.ch
 hbvideo.ch
 hbvt.ch
@@ -1037,6 +1063,8 @@ hbworldwide.ch
 hbws.ch
 hbx-offix.ch
 hbx.ch
+hbxsuisse.ch
+hbxswiss.ch
 hbyju.ch
 hbyrh.ch
 hbyrose.ch

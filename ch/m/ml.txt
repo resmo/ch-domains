@@ -2,7 +2,7 @@ ml-ag.ch
 ml-allround.ch
 ml-architects.ch
 ml-art.ch
-ml-auto-ecole.ch
+ml-atemtherapie.ch
 ml-avocats.ch
 ml-baggervermietung.ch
 ml-baugroup.ch
@@ -13,6 +13,7 @@ ml-bsp.ch
 ml-c.ch
 ml-casa41.ch
 ml-coaching.ch
+ml-compta.ch
 ml-concept.ch
 ml-consrest.ch
 ml-construction.ch
@@ -22,11 +23,10 @@ ml-cpaneltest1.ch
 ml-csp-freiburg.ch
 ml-csp-wuefla.ch
 ml-design.ch
-ml-e.ch
 ml-elektro.ch
-ml-enterprises.ch
 ml-expertisen.ch
 ml-fotografie.ch
+ml-freiburg.ch
 ml-hausbau.ch
 ml-haustechnik.ch
 ml-hr.ch
@@ -60,7 +60,6 @@ ml-real-estate.ch
 ml-realestate.ch
 ml-recruitment.ch
 ml-reinigungen.ch
-ml-ristorante.ch
 ml-rs.ch
 ml-schaer.ch
 ml-scout24.ch
@@ -88,10 +87,8 @@ ml2.magasoft.ch
 ml4.ch
 ml4ed.ch
 ml4t.ch
-ml56.ch
 ml6.ch
 ml717.ch
-mla-doo.ch
 mla.ch
 mlab.ch
 mlabs.ch
@@ -110,7 +107,6 @@ mladine.ch
 mladjan.ch
 mladvisor.ch
 mladvisors.ch
-mlag.ch
 mlager.ch
 mlagolf.ch
 mlah.ch
@@ -129,6 +125,7 @@ mlange.ch
 mlanter.ch
 mlanz.ch
 mlaradio.ch
+mlarcher.ch
 mlarchitects.ch
 mlarchitektur.ch
 mlart.ch
@@ -151,7 +148,6 @@ mlb.ch
 mlband.ch
 mlbartending.ch
 mlbat.ch
-mlbatiment.ch
 mlbcompany.ch
 mlbconcept.ch
 mlbd.ch
@@ -159,6 +155,7 @@ mlbeauty.ch
 mlbergers.ch
 mlbiglerpedicure.ch
 mlbinfo.ch
+mlbog.ch
 mlborg.ch
 mlbox.ch
 mlbrandschutz.ch
@@ -168,6 +165,7 @@ mlbt.ch
 mlbtrading.ch
 mlbv.ch
 mlbx.ch
+mlc-ag.ch
 mlc-boeden.ch
 mlc-coaching.ch
 mlc-corine.ch
@@ -178,7 +176,7 @@ mlc-suisse.ch
 mlc.ch
 mlc15.ch
 mlcag.ch
-mlcg.ch
+mlcars.ch
 mlcgroup.ch
 mlcjobcoaching.ch
 mlcl.ch
@@ -188,6 +186,7 @@ mlcloud.ch
 mlcmissione.ch
 mlcoach.ch
 mlcoaching.ch
+mlconnect.ch
 mlconseil.ch
 mlconseils.ch
 mlconsilium.ch
@@ -211,8 +210,8 @@ mld-verwaltungen.ch
 mld-winterthur.ch
 mld.ch
 mldatascience.ch
-mlde.ch
 mldeco.ch
+mldesign-lanz.ch
 mldesign.ch
 mldev.ch
 mldevelope.ch
@@ -239,10 +238,11 @@ mlejnek.ch
 mleko.ch
 mlekus.ch
 mlelectronics.ch
+mlelektroplanung.ch
 mlelighting.ch
-mlem.ch
 mlemedia.ch
 mlena.ch
+mlendi.ch
 mlenergy.ch
 mlenoir.ch
 mlepeinture.ch
@@ -281,6 +281,7 @@ mlg-technik.ch
 mlg-tu.ch
 mlg.ch
 mlgb.ch
+mlgeneva.ch
 mlgr0s.ch
 mlgraf.ch
 mlgros.ch
@@ -288,6 +289,7 @@ mlgs.ch
 mlgsa.ch
 mlgstubete.ch
 mlh-ag.ch
+mlh-capital.ch
 mlh-design.ch
 mlh-e.ch
 mlh-engineering.ch
@@ -295,6 +297,7 @@ mlh-gebaeudetechnik.ch
 mlh-groupe.ch
 mlh-ing.ch
 mlh.ch
+mlhauswartung.ch
 mlhe.ch
 mlhealthcarepartners.ch
 mlhelvetic.ch
@@ -309,19 +312,15 @@ mlid.ch
 mlienhard.ch
 mlife.ch
 mlight.ch
-mlih.ch
 mlii.ch
 mlikemusic.ch
 mlikota.ch
-mlily-sleep.ch
 mlily.ch
 mlim.ch
 mlima.ch
 mlimmo.ch
 mlimousienen.ch
 mlimousinen.ch
-mlinar.ch
-mlinarcaffe.ch
 mlinder.ch
 mlindner.ch
 mline-studio.ch
@@ -345,7 +344,6 @@ mljeanrenaud.ch
 mljet.ch
 mljp-immo.ch
 mljp.ch
-mlk-solutions.ch
 mlk.ch
 mlk2025.ch
 mlkf-orthodontie.ch
@@ -387,7 +385,6 @@ mlm.ch
 mlm2023.ch
 mlmail.ch
 mlmarketing.ch
-mlmarkt.ch
 mlmc.ch
 mlmcrossfit.ch
 mlmdesign.ch
@@ -397,11 +394,13 @@ mlmentor.ch
 mlmgagnant.ch
 mlminvestment.ch
 mlmj.ch
+mlmk.ch
 mlmlm.ch
 mlmltango.ch
 mlmn.ch
 mlmoko.ch
 mlmottas.ch
+mlmp.ch
 mlmswiss.ch
 mlmueller.ch
 mlmwiki.ch
@@ -463,13 +462,13 @@ mlprint.ch
 mlprintservice.ch
 mlprod.ch
 mlproductions.ch
-mlprofessional-construction.ch
 mlprofessional.ch
 mlps.ch
 mlpsa.ch
 mlpsychiatriespitex.ch
 mlpz.ch
 mlq.ch
+mlqa.ch
 mlr-sa.ch
 mlr.ch
 mlraggenbass.ch
@@ -490,7 +489,6 @@ mls-interieur.ch
 mls-management.ch
 mls-mws-group.ch
 mls-services.ch
-mls-test.ch
 mls-treuhand.ch
 mls.ch
 mls1880.ch
@@ -498,12 +496,12 @@ mlsa.ch
 mlsafety.ch
 mlsarchitekten.ch
 mlsch.ch
+mlschwarz.ch
 mlse.ch
 mlservice.ch
 mlservices.ch
 mlsg.ch
 mlshv.ch
-mlsk.ch
 mlsnet.ch
 mlsofts.ch
 mlsoins.ch
@@ -514,7 +512,6 @@ mlsportcoaching.ch
 mlspro.ch
 mlssalon.ch
 mlssarl.ch
-mlsservice.ch
 mlst.ch
 mlstatic.ch
 mlsthermoexpert.ch
@@ -543,14 +540,12 @@ mltechsolutions.ch
 mltest-swizzonic-01.ch
 mltest-swizzonic-02.ch
 mltest-swizzonic-03.ch
-mltlsk.ch
 mltr.ch
 mltrading.ch
 mltraining.ch
 mltransporte.ch
 mltresearch.ch
 mltreuhand.ch
-mltt.ch
 mltuning.ch
 mltv.ch
 mltz.ch
@@ -563,7 +558,6 @@ mlupi.ch
 mluraschi-massage-medical.ch
 mlutools.ch
 mlutz.ch
-mlux.ch
 mluxury.ch
 mluzi.ch
 mlv-bike.ch
@@ -573,7 +567,6 @@ mlv-hb9bv.ch
 mlv-invest.ch
 mlv-sarl.ch
 mlv-solutions.ch
-mlv-swisscourt.ch
 mlv-zh.ch
 mlv.ch
 mlvcoach.ch
@@ -585,7 +578,6 @@ mlxs.ch
 mly.ch
 mlya.ch
 mlynar.ch
+mlz.ch
 mlzd-sollbergerboegli.ch
 mlzd.ch
-mlzimmermann.ch
-mlzschweiz.ch

@@ -17,12 +17,12 @@ gz-forch.ch
 gz-france.ch
 gz-gilgenberg.ch
 gz-grauzone.ch
-gz-grenchnerzeitung.ch
 gz-homburg.ch
 gz-immobilier.ch
 gz-institut.ch
 gz-kapf.ch
 gz-laufen.ch
+gz-limmattal.ch
 gz-living.ch
 gz-malerei.ch
 gz-oerlikon.ch
@@ -68,6 +68,7 @@ gzda.ch
 gzdicht.ch
 gzdielsdorf.ch
 gzdom.ch
+gze.ch
 gzehnder.ch
 gzeiter.ch
 gzf-epd.ch
@@ -98,7 +99,6 @@ gzimmermann.ch
 gzimmobilien.ch
 gzinformatik.ch
 gziw.ch
-gzj.ch
 gzjb.ch
 gzk.ch
 gzkuettigen.ch
@@ -118,6 +118,7 @@ gznetzer.ch
 gzo-academy.ch
 gzo-bondholder.ch
 gzo-ctu.ch
+gzo-kredit-nein.ch
 gzo.ch
 gzoag.ch
 gzobau.ch

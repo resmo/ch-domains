@@ -1,7 +1,7 @@
-hd-35.ch
 hd-aargau.ch
 hd-academy.ch
 hd-ag.ch
+hd-arch-ing.ch
 hd-automotive.ch
 hd-baenklistop.ch
 hd-be.ch
@@ -65,7 +65,6 @@ hd-plus.ch
 hd-preview.ch
 hd-preview2.ch
 hd-production.ch
-hd-projektor.ch
 hd-r.ch
 hd-radio.ch
 hd-reinigung.ch
@@ -77,14 +76,12 @@ hd-schulze.ch
 hd-security.ch
 hd-services.ch
 hd-sg.ch
-hd-shop.ch
 hd-sign.ch
 hd-so.ch
 hd-solothurn.ch
 hd-solutions.ch
 hd-stgallen.ch
 hd-suisse.ch
-hd-surface.ch
 hd-suter.ch
 hd-sv-sa.ch
 hd-switch.ch
@@ -95,7 +92,6 @@ hd-trailers.ch
 hd-ventilation.ch
 hd-vod.ch
 hd-web.ch
-hd-webcam.ch
 hd-winterthur.ch
 hd-zone.ch
 hd-zuerich.ch
@@ -103,9 +99,9 @@ hd04.ch
 hd1.ch
 hd2.ch
 hd24.ch
-hd35.ch
 hd6327.ch
 hd64.ch
+hd88.ch
 hda-muller.ch
 hda-sa.ch
 hda.ch
@@ -137,7 +133,6 @@ hdbuetikofer.ch
 hdc-apps.ch
 hdc-at-work.ch
 hdc-center.ch
-hdc-ingenierie.ch
 hdc-memory.ch
 hdc-miremont.ch
 hdc-solutions.ch
@@ -146,6 +141,7 @@ hdc.ch
 hdca.ch
 hdcadvisory.ch
 hdcam.ch
+hdcard.ch
 hdcarrelages.ch
 hdcars.ch
 hdcasa.ch
@@ -164,10 +160,14 @@ hdconsultant.ch
 hdconsulting.ch
 hdcp.ch
 hdcr.ch
-hdcvi.ch
 hdcw.ch
+hdd-bohrtechnik.ch
+hdd-bohrung.ch
+hdd-bohrungen.ch
 hdd-model.ch
 hdd.ch
+hddbohrtechnik.ch
+hddbohrungen.ch
 hddesign.ch
 hddg.ch
 hddm.ch
@@ -188,6 +188,7 @@ hdep.ch
 hderferfldwsd.ch
 hdex.ch
 hdexpresssa.ch
+hdf-podcast.ch
 hdf-terraristik.ch
 hdf-treuhand.ch
 hdf.ch
@@ -206,11 +207,9 @@ hdg.ch
 hdgarage.ch
 hdgd-wohlen.ch
 hdgd.ch
-hdge.ch
 hdgmbh.ch
 hdgolf.ch
 hdgraubuenden.ch
-hdgroup.ch
 hdgruppe.ch
 hdgs.ch
 hdgt.ch
@@ -246,7 +245,6 @@ hdigmbh.ch
 hdimarly.ch
 hdimmo.ch
 hdimpulsion.ch
-hdiner.ch
 hdinissarl.ch
 hdinsurance.ch
 hdinternational.ch
@@ -254,7 +252,6 @@ hdinvest.ch
 hdiremix.ch
 hdispeciality.ch
 hdispecialty.ch
-hdivc.ch
 hdj.ch
 hdjj.ch
 hdk-immo.ch
@@ -266,11 +263,9 @@ hdkeramik.ch
 hdkf.ch
 hdkn.ch
 hdl-estavayer.ch
-hdl-imago.ch
 hdl.ch
 hdlasercut.ch
 hdlautomation.ch
-hdlaw.ch
 hdlc.ch
 hdlge.ch
 hdli.ch
@@ -287,14 +282,12 @@ hdmag.ch
 hdmail.ch
 hdmc.ch
 hdme.ch
-hdmedia.ch
 hdmedia360.ch
 hdmex.ch
 hdmgroup.ch
 hdmi-cable.ch
 hdmi.ch
 hdmigration.ch
-hdminerals.ch
 hdmk.ch
 hdml.ch
 hdmobjects.ch
@@ -315,7 +308,6 @@ hdparts.ch
 hdpartscenter.ch
 hdpbau.ch
 hdpe.ch
-hdpersonal.ch
 hdpf-mgmt.ch
 hdpf.ch
 hdpfholding.ch
@@ -326,7 +318,6 @@ hdporno.ch
 hdpornos.ch
 hdproduction.ch
 hdproductions.ch
-hdprojektor.ch
 hdptrading.ch
 hdq.ch
 hdr-ag.ch
@@ -362,12 +353,12 @@ hdsalon.ch
 hdsat.ch
 hdsdesign.ch
 hdse.ch
+hdsecur.ch
 hdsex.ch
 hdsg.ch
 hdsgmbh.ch
 hdshop.ch
 hdshumandesign.ch
-hdskes.ch
 hdsmile.ch
 hdsn.ch
 hdsolutions.ch
@@ -377,7 +368,6 @@ hdsports.ch
 hdsrr.ch
 hdsruefenacht.ch
 hdss.ch
-hdstreaming.ch
 hdstreams.ch
 hdstreamz.ch
 hdsuisse.ch
@@ -408,7 +398,6 @@ hdtrailers.ch
 hdtransport.ch
 hdtreuhand.ch
 hdtsa.ch
-hdtube.ch
 hdtv-cameras.ch
 hdtv-forum.ch
 hdtv-kameras.ch
@@ -420,6 +409,7 @@ hdunant.ch
 hdurable.ch
 hdv-lausanne.ch
 hdv-online.ch
+hdv-rossiniere.ch
 hdv-sierre.ch
 hdv-umbau.ch
 hdv.ch
@@ -437,6 +427,7 @@ hdvglozu.ch
 hdvgrandcour.ch
 hdvisions.ch
 hdvlausanne.ch
+hdvn.ch
 hdvod.ch
 hdvoex.ch
 hdvoice.ch
@@ -444,7 +435,9 @@ hdvsmart.ch
 hdvthurtal.ch
 hdvv.ch
 hdw-boost.ch
+hdw-digitalpraxis.ch
 hdw.ch
+hdwa.ch
 hdwear.ch
 hdweb.ch
 hdwebcam.ch

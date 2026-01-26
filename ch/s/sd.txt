@@ -34,6 +34,7 @@ sd-gartenpflege.ch
 sd-gebaeudeunterhalt.ch
 sd-grischun.ch
 sd-gu.ch
+sd-haustechnik.ch
 sd-hockey.ch
 sd-hongyuen.ch
 sd-immo.ch
@@ -42,7 +43,6 @@ sd-import.ch
 sd-intl.ch
 sd-invest.ch
 sd-jassturnier.ch
-sd-kanaltechnik.ch
 sd-karte.ch
 sd-kreativwerkstatt.ch
 sd-l.ch
@@ -51,9 +51,11 @@ sd-liegenschaften.ch
 sd-limoservice.ch
 sd-lindauer.ch
 sd-lu.ch
+sd-maler.ch
 sd-massages.ch
 sd-mayensdesion.ch
 sd-media.ch
+sd-mediation.ch
 sd-monthey.ch
 sd-motocross-europe-ag.ch
 sd-muenchenbuchsee.ch
@@ -70,7 +72,6 @@ sd-profi.ch
 sd-projekte.ch
 sd-re.ch
 sd-reinigung.ch
-sd-rem.ch
 sd-renovation-salva.ch
 sd-rue.ch
 sd-s.ch
@@ -93,11 +94,11 @@ sd-systemgruppe.ch
 sd-team.ch
 sd-travel.ch
 sd-treuhand.ch
-sd-universities.ch
 sd-unteramt.ch
 sd-waldstaette.ch
 sd-wan.ch
 sd-wasseramt.ch
+sd-wassertechnik.ch
 sd0.ch
 sd2.ch
 sd21.ch
@@ -111,6 +112,7 @@ sd57.ch
 sda-agenda.ch
 sda-ats.ch
 sda-attalens.ch
+sda-avocats.ch
 sda-awp-multimedia.ch
 sda-consulting.ch
 sda-dart.ch
@@ -133,6 +135,7 @@ sda-vertrieb.ch
 sda.ch
 sdaas.ch
 sdac.ch
+sdachtech.ch
 sdachur.ch
 sdaehler.ch
 sdaffoltern.ch
@@ -149,6 +152,7 @@ sdaligner.ch
 sdalm.ch
 sdam.ch
 sdan.ch
+sdance.ch
 sdance14.ch
 sdao.ch
 sdapps.ch
@@ -164,6 +168,7 @@ sdata.ch
 sdataway.ch
 sdate.ch
 sdates.ch
+sdathub.ch
 sdating.ch
 sdats.ch
 sdaufzuege.ch
@@ -218,6 +223,7 @@ sdc-pge.ch
 sdc-psy.ch
 sdc-regions.ch
 sdc-swiss.ch
+sdc-umwelttechnik.ch
 sdc-valuechains.ch
 sdc-water.ch
 sdc-zuerich.ch
@@ -239,7 +245,6 @@ sdcimmo.ch
 sdcitcareer.ch
 sdcl.ch
 sdclarity.ch
-sdclink.ch
 sdcnetwork.ch
 sdcomms.ch
 sdcompta.ch
@@ -254,7 +259,6 @@ sdcycling.ch
 sdczuerich.ch
 sdd-pittet.ch
 sdd-pumpen.ch
-sdd-service.ch
 sdd.ch
 sdd1.ch
 sddd.ch
@@ -290,14 +294,13 @@ sdeluigis.ch
 sdem.ch
 sdemendietasa.ch
 sdemierre.ch
+sden.ch
 sdenergie.ch
 sdenervaud.ch
 sdeng.ch
 sder.ch
 sderesearch.ch
 sderiedmatten.ch
-sdes-01.ch
-sdes-02.ch
 sdes.ch
 sdesarl.ch
 sdeservices.ch
@@ -314,7 +317,6 @@ sdexpert.ch
 sdexperts.ch
 sdexpress.ch
 sdf-sa.ch
-sdf-treuhand.ch
 sdf.ch
 sdf1.ch
 sdfa.ch
@@ -329,6 +331,7 @@ sdfgroup.ch
 sdfinvest.ch
 sdfk.ch
 sdfm.ch
+sdfo.ch
 sdfood.ch
 sdfpf.ch
 sdfs.ch
@@ -340,35 +343,30 @@ sdg-index.ch
 sdg-informatik.ch
 sdg-investors.ch
 sdg-kompass.ch
-sdg-living.ch
 sdg-rating.ch
-sdg-realestate.ch
 sdg-services.ch
 sdg-shop.ch
 sdg-walk.ch
 sdg.ch
-sdg21.ch
 sdga.ch
 sdgastrogmbh.ch
 sdgeruestbau.ch
 sdgexperience.ch
 sdggroup.ch
 sdgholding.ch
+sdgipser.ch
 sdgital2030-input.ch
 sdgital2030.ch
 sdgkompass.ch
 sdgkreuzlingen.ch
 sdglab.ch
-sdgliving.ch
 sdgmapping.ch
 sdgms.ch
 sdgnexus.ch
-sdgrealestate.ch
 sdgroup.ch
 sdgs.ch
 sdgshop.ch
 sdgu.ch
-sdguniversity.ch
 sdgziel.ch
 sdgzielold.ch
 sdh-consulting.ch
@@ -384,6 +382,7 @@ sdhosting.ch
 sdhp.ch
 sdhypnose.ch
 sdi-ag.ch
+sdi-contacts.ch
 sdi-development.ch
 sdi-forecast.ch
 sdi-foundation.ch
@@ -435,6 +434,7 @@ sdio.ch
 sdip.ch
 sdipath.ch
 sdips.ch
+sdir.ch
 sdirect.ch
 sdis-132.ch
 sdis-broye-vully.ch
@@ -467,6 +467,7 @@ sdis680.ch
 sdis710.ch
 sdisalpin.ch
 sdisbv.ch
+sdischablais.ch
 sdiscoeurdelavaux.ch
 sdisevent.ch
 sdisfortifications.ch
@@ -486,6 +487,7 @@ sdisvj.ch
 sdit.ch
 sditconsulting.ch
 sditdi.ch
+sdiyar.ch
 sdj-design.ch
 sdj.ch
 sdjabbari.ch
@@ -507,6 +509,7 @@ sdl-drahtwaren.ch
 sdl-lelanderon.ch
 sdl-romandie.ch
 sdl.ch
+sdla.ch
 sdlab.ch
 sdlag.ch
 sdlarippe.ch
@@ -517,6 +520,7 @@ sdleman.ch
 sdlemans.ch
 sdlemont.ch
 sdleshauts-geneveys.ch
+sdlf.ch
 sdlg.ch
 sdlh.ch
 sdlhrs.ch
@@ -550,6 +554,7 @@ sdm-immobilien.ch
 sdm-log-newsletter-vs.ch
 sdm-smn-smd.ch
 sdm.ch
+sdma.ch
 sdmaler.ch
 sdmanagement.ch
 sdmandement.ch
@@ -576,6 +581,7 @@ sdmstellen.ch
 sdmul.ch
 sdmuraz.ch
 sdmx.ch
+sdmz01.ch
 sdn-ge.ch
 sdn.ch
 sdn2010.ch
@@ -589,9 +595,9 @@ sdnetworks.ch
 sdninvestment.ch
 sdnl.ch
 sdns.ch
-sdntt-register.ch
 sdntt.ch
 sdo-3cx.ch
+sdo-group.ch
 sdo-it.ch
 sdo-rheintal.ch
 sdo.ch
@@ -604,6 +610,7 @@ sdoganamento.ch
 sdoh.ch
 sdoku.ch
 sdoku4.ch
+sdol.ch
 sdolmadiswil.ch
 sdonofrio.ch
 sdony.ch
@@ -616,6 +623,7 @@ sdp-clothing.ch
 sdp-hrsolutions.ch
 sdp-immobilier.ch
 sdp-prangins.ch
+sdp-psd.ch
 sdp-s.ch
 sdp-securite.ch
 sdp-treuhand.ch
@@ -628,16 +636,18 @@ sdpercussion.ch
 sdphotography.ch
 sdpi.ch
 sdpiscines.ch
-sdplan.ch
+sdpius.ch
 sdplanificationetconseils.ch
 sdplus.ch
 sdpost.ch
 sdpp.ch
 sdpreverenges.ch
 sdproductions.ch
+sdprojects.ch
 sdprojekt.ch
 sdproperties.ch
 sdps.ch
+sdpsecure.ch
 sdq.ch
 sdr-adr.ch
 sdr-data-recovery.ch
@@ -695,6 +705,7 @@ sds-services.ch
 sds-solution.ch
 sds-sports.ch
 sds-tg.ch
+sds-treuhand.ch
 sds-viehvermarktung.ch
 sds-water.ch
 sds.ch
@@ -708,6 +719,7 @@ sds2025.ch
 sds2026.ch
 sds2027.ch
 sds27.ch
+sdsa-ge.ch
 sdsa-geneve.ch
 sdsa.ch
 sdsag.ch
@@ -718,6 +730,7 @@ sdsar.ch
 sdsaudio.ch
 sdsavigny.ch
 sdsazh.ch
+sdsbasel.ch
 sdsc-connect.ch
 sdsc-hackathons.ch
 sdsc.ch
@@ -725,7 +738,6 @@ sdscherly.ch
 sdschiene.ch
 sdschweiz.ch
 sdsd.ch
-sdsdesign.ch
 sdsecurity.ch
 sdseeruecken.ch
 sdsense.ch
@@ -734,6 +746,7 @@ sdservice.ch
 sdservices.ch
 sdsf.ch
 sdsg.ch
+sdsgservices.ch
 sdsgva.ch
 sdsholding.ch
 sdsi.ch
@@ -741,7 +754,6 @@ sdsimmo.ch
 sdsintra.ch
 sdsk.ch
 sdsk9.ch
-sdsl.ch
 sdsm.ch
 sdsmanager.ch
 sdsmusic.ch
@@ -756,7 +768,9 @@ sdsportmanagement.ch
 sdspro.ch
 sdss.ch
 sdsservices.ch
+sdsstgallen.ch
 sdstluc.ch
+sdstool.ch
 sdstudio.ch
 sdsupport.ch
 sdsv.ch
@@ -765,11 +779,11 @@ sdswater.ch
 sdswiss.ch
 sdsynergy.ch
 sdsys.ch
+sdszuerich.ch
 sdt-design.ch
 sdt-tolochenaz.ch
 sdt.ch
 sdta-swiss.ch
-sdta.ch
 sdtdr.ch
 sdte.ch
 sdtec.ch
@@ -780,6 +794,7 @@ sdtlc.ch
 sdtls.ch
 sdtn.ch
 sdtobag.ch
+sdtopquality.ch
 sdtopservice.ch
 sdtourdepeilz.ch
 sdtp.ch
@@ -793,7 +808,6 @@ sdtultrasound.ch
 sdu.ch
 sdubouloz.ch
 sdubuis.ch
-sduco.ch
 sdueringer.ch
 sdufkgyuwesgyufe.ch
 sdui.ch
@@ -820,6 +834,7 @@ sdvaward.ch
 sdvb.ch
 sdvbe.ch
 sdvc.ch
+sdvd.ch
 sdvdialogmarketing.ch
 sdve.ch
 sdvercorin.ch
@@ -836,7 +851,6 @@ sdw-bb.ch
 sdw-berg.ch
 sdw-bss.ch
 sdw-koj.ch
-sdw-mediation.ch
 sdw-sam.ch
 sdw-stm.ch
 sdw.ch

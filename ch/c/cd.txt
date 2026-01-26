@@ -18,7 +18,6 @@ cd-carpediem.ch
 cd-chapuis.ch
 cd-chapuis1.ch
 cd-chiptuning.ch
-cd-coach.ch
 cd-color.ch
 cd-communication.ch
 cd-consult.ch
@@ -30,12 +29,12 @@ cd-dvd-kopierer.ch
 cd-fabrication.ch
 cd-hairstyle.ch
 cd-hotel.ch
+cd-immobilien.ch
 cd-interinvest.ch
 cd-keys.ch
 cd-kgvadp.ch
 cd-kosmetik.ch
 cd-latour.ch
-cd-maker.ch
 cd-manual.ch
 cd-market.ch
 cd-media.ch
@@ -44,10 +43,13 @@ cd-net.ch
 cd-ocst.ch
 cd-online.ch
 cd-player.ch
+cd-press.ch
 cd-pressen.ch
 cd-pressung.ch
+cd-quick.ch
 cd-recycling.ch
 cd-regal.ch
+cd-renovation.ch
 cd-rom.ch
 cd-shop.ch
 cd-solutions.ch
@@ -61,6 +63,8 @@ cd-tel.ch
 cd-tipp.ch
 cd-vet.ch
 cd-w.ch
+cd-websites.ch
+cd-wedding.ch
 cd1.ch
 cd24.ch
 cd2m.ch
@@ -73,7 +77,6 @@ cd6dci6.ch
 cd9.ch
 cda-fugen.ch
 cda-ge.ch
-cda-hd.ch
 cda-pflege.ch
 cda-production.ch
 cda.ch
@@ -98,7 +101,6 @@ cdagostino.ch
 cdaled.ch
 cdama.ch
 cdamendrisio.ch
-cdammann.ch
 cdao.ch
 cdar.ch
 cdart.ch
@@ -113,6 +115,7 @@ cdate.ch
 cdates.ch
 cdating.ch
 cdau.ch
+cdaura.ch
 cdaw.ch
 cdax.ch
 cdayte.ch
@@ -168,6 +171,7 @@ cdcglobal.ch
 cdch.ch
 cdchampel.ch
 cdchantepoulet.ch
+cdcharmilles.ch
 cdchenebourg.ch
 cdcit.ch
 cdcjf.ch
@@ -181,12 +185,14 @@ cdconstructions.ch
 cdconsult.ch
 cdconsulting.ch
 cdcover.ch
+cdcreadeco.ch
 cdcrissier.ch
 cdcs-bejune.ch
 cdcs.ch
 cdcsvm.ch
 cdcuro.ch
 cdcvdr.ch
+cdcw.ch
 cdd-geneve.ch
 cdd.ch
 cddb.ch
@@ -206,26 +212,25 @@ cddplus.ch
 cdds.ch
 cddtannay.ch
 cddv.ch
-cde-bim.ch
 cde-construction.ch
 cde-consulting.ch
-cde-invest.ch
 cde-lista-doppioni.ch
 cde-romandie.ch
+cde-romandie2.ch
 cde-vaud.ch
 cde.ch
 cdealer.ch
 cdeb.ch
 cdec.ch
 cdecataldo.ch
-cdecordoue.ch
 cdef.ch
+cdefag.ch
 cdeg.ch
 cdegeneve.ch
-cdehochbauag.ch
 cdeilmann.ch
 cdek.ch
 cdel-consulting.ch
+cdelta.ch
 cdem.ch
 cdemay.ch
 cdempfle.ch
@@ -249,8 +254,10 @@ cdf-assurance.ch
 cdf-assurances.ch
 cdf-emballage.ch
 cdf-fcthun.ch
+cdf-immo.ch
 cdf-immobilier.ch
 cdf.ch
+cdf3d.ch
 cdfabrik.ch
 cdfahrschule.ch
 cdfamilyoffice.ch
@@ -349,12 +356,9 @@ cdk.ch
 cdkglobal.ch
 cdkl5.ch
 cdks.ch
-cdkschweiz.ch
 cdku.ch
-cdl-caps.ch
 cdl-cdl.ch
 cdl-cds.ch
-cdl-info.ch
 cdl-invest.ch
 cdl-kaeppeli.ch
 cdl-leman.ch
@@ -452,6 +456,8 @@ cdmsa.ch
 cdmt.ch
 cdmu.ch
 cdmuentschemier2016.ch
+cdmv.ch
+cdn-4fwd.ch
 cdn-assets.ch
 cdn-backslash.ch
 cdn-baden.ch
@@ -476,6 +482,7 @@ cdn.ch
 cdn1934.ch
 cdn42.ch
 cdnarcinfo.ch
+cdndata.ch
 cdnet.ch
 cdnext.ch
 cdniho.ch
@@ -494,6 +501,7 @@ cdo-as-a-service.ch
 cdo-circle.ch
 cdo-club.ch
 cdo-interim.ch
+cdo-multiservices.ch
 cdo-renov.ch
 cdo.ch
 cdo4kmu.ch
@@ -510,7 +518,6 @@ cdocs.ch
 cdogres.ch
 cdoibt.ch
 cdolfi.ch
-cdolifestyle.ch
 cdoll.ch
 cdom-ag.ch
 cdom.ch
@@ -528,7 +535,6 @@ cdots.ch
 cdouillet.ch
 cdoutnow.ch
 cdp-fritz.ch
-cdp-geneva.ch
 cdp-nifi.ch
 cdp-sa.ch
 cdp-server.ch
@@ -537,7 +543,6 @@ cdp-startup.ch
 cdp-startupdesk.ch
 cdp.ch
 cdp14.ch
-cdpa.ch
 cdpadel.ch
 cdpaysagiste.ch
 cdpbackup.ch
@@ -548,7 +553,6 @@ cdpem.ch
 cdpenthalaz.ch
 cdpestalozzi.ch
 cdpg.ch
-cdph-exemplespratiques.ch
 cdph.ch
 cdpi.ch
 cdpl.ch
@@ -561,6 +565,7 @@ cdpnp.ch
 cdpoker.ch
 cdpool.ch
 cdpouce.ch
+cdpp.ch
 cdpreise.ch
 cdpresearch.ch
 cdpressen.ch
@@ -592,8 +597,10 @@ cdr.ch
 cdrc.ch
 cdrcapital.ch
 cdrds.ch
+cdrealm.ch
 cdrei.ch
 cdrenens.ch
+cdrg.ch
 cdrix.ch
 cdrnet.ch
 cdrom.ch
@@ -615,7 +622,9 @@ cds-bausoftware.ch
 cds-bim.ch
 cds-cdl.ch
 cds-codex.ch
+cds-concept.ch
 cds-consulting.ch
+cds-crypto.ch
 cds-dentiste.ch
 cds-diplomatie.ch
 cds-diplomazia.ch
@@ -631,6 +640,8 @@ cds-maverick.ch
 cds-netcom.ch
 cds-oap.ch
 cds-online.ch
+cds-patchwork.ch
+cds-paysage.ch
 cds-pdf.ch
 cds-profil.ch
 cds-proxmox.ch
@@ -640,7 +651,7 @@ cds-schweiz.ch
 cds-sieber.ch
 cds-smtp.ch
 cds-stahlbau.ch
-cds-test.ch
+cds-swiss.ch
 cds-villars.ch
 cds-web.ch
 cds-zuoz.ch
@@ -661,7 +672,6 @@ cdsdentiste.ch
 cdse.ch
 cdsemmen.ch
 cdservices.ch
-cdseurope.ch
 cdsf.ch
 cdsg.ch
 cdsge.ch
@@ -715,7 +725,6 @@ cdtv.ch
 cdu-freundeskreis-schweiz.ch
 cdu-schweiz.ch
 cdu.ch
-cducarroz.ch
 cducycle.ch
 cdudle.ch
 cdugood.ch
@@ -731,7 +740,6 @@ cdvconsult.ch
 cdvconsulting.ch
 cdvdshop.ch
 cdverbano.ch
-cdvermietung.ch
 cdvernier.ch
 cdverpackung.ch
 cdvet-bachblueten.ch
@@ -744,9 +752,9 @@ cdvetshop.ch
 cdveyrier.ch
 cdvi.ch
 cdvm.ch
-cdvpe.ch
 cdvplus.ch
 cdvs.ch
+cdw-zert.ch
 cdw.ch
 cdwatch.ch
 cdweb.ch
@@ -755,6 +763,7 @@ cdwh.ch
 cdx-immo.ch
 cdx.ch
 cdxdispat.ch
+cdxteam.ch
 cdy.ch
 cdyp.ch
 cdz.ch

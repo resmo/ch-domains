@@ -1,6 +1,5 @@
 wp-24.ch
 wp-admin.ch
-wp-ag.ch
 wp-agentur-basel.ch
 wp-agentur-bern.ch
 wp-agentur-luzern.ch
@@ -16,6 +15,8 @@ wp-akademie.ch
 wp-arch.ch
 wp-aro.ch
 wp-automotive.ch
+wp-backup.ch
+wp-backups.ch
 wp-bau.ch
 wp-bauplaner.ch
 wp-berater.ch
@@ -59,6 +60,7 @@ wp-experten.ch
 wp-experts.ch
 wp-fb.ch
 wp-feldmessung.ch
+wp-flow.ch
 wp-formation.ch
 wp-freelancer.ch
 wp-g.ch
@@ -68,6 +70,7 @@ wp-guru.ch
 wp-hacker.ch
 wp-haehnel.ch
 wp-handel.ch
+wp-headless.ch
 wp-held.ch
 wp-helden.ch
 wp-helfer.ch
@@ -81,7 +84,7 @@ wp-immobilien.ch
 wp-immomakler.ch
 wp-ing.ch
 wp-intra.ch
-wp-invest.ch
+wp-investment.ch
 wp-it.ch
 wp-konfigurator.ch
 wp-kurse.ch
@@ -103,7 +106,6 @@ wp-nerds.ch
 wp-performance.ch
 wp-pizza.ch
 wp-plugin.ch
-wp-plus.ch
 wp-poc.ch
 wp-praxis.ch
 wp-premium.ch
@@ -115,15 +117,14 @@ wp-projekte.ch
 wp-pros.ch
 wp-protect.ch
 wp-rocket.ch
-wp-s.ch
 wp-schmidebach.ch
 wp-schulung.ch
 wp-schweiz.ch
+wp-security.ch
 wp-seo.ch
 wp-service.ch
 wp-services.ch
 wp-shop.ch
-wp-smart-protect.ch
 wp-social.ch
 wp-sos.ch
 wp-space.ch
@@ -132,8 +133,11 @@ wp-spotlight.ch
 wp-staender.ch
 wp-stars.ch
 wp-stiftung.ch
+wp-studio.ch
+wp-support-ch.ch
 wp-support-hilfe.ch
 wp-support-schweiz.ch
+wp-support-zh.ch
 wp-support.ch
 wp-support24.ch
 wp-swiss-med.ch
@@ -154,16 +158,17 @@ wp-toolbox.ch
 wp-training.ch
 wp-treuhand.ch
 wp-update.ch
+wp-updates.ch
 wp-uri.ch
 wp-warten.ch
 wp-wartung.ch
 wp-wartung24.ch
 wp-wartungen.ch
 wp-webagentur-schweiz.ch
-wp-webagentur.ch
 wp-webdesign.ch
 wp-webhosting.ch
 wp-webseiten.ch
+wp-werkstatt.ch
 wp-windegg.ch
 wp-wizard.ch
 wp-workshops.ch
@@ -189,7 +194,10 @@ wpadminday.ch
 wpadvisors.ch
 wpaf.ch
 wpag.ch
+wpagentur.ch
+wpagenturen.ch
 wpai.ch
+wpalpinesphere.ch
 wpanorama.ch
 wpapp.ch
 wparch.ch
@@ -200,6 +208,8 @@ wpartners.ch
 wpaudit.ch
 wpay.ch
 wpb.ch
+wpbackup.ch
+wpbackups.ch
 wpbaden.ch
 wpbasel.ch
 wpbaumanagement.ch
@@ -256,7 +266,6 @@ wpcz.ch
 wpczaeune.ch
 wpczaun.ch
 wpd-rn.ch
-wpd-showroom.ch
 wpd24.ch
 wpd47.ch
 wpdc.ch
@@ -269,13 +278,11 @@ wpdoctor.ch
 wpdoktor.ch
 wpdr.ch
 wpe.ch
-wpeaks.ch
 wpelementor.ch
 wpenergysystemsag.ch
 wpeng.ch
 wpengelberg.ch
 wpenoctua.ch
-wpeqrucd.ch
 wpetermann.ch
 wpex.ch
 wpexpert.ch
@@ -286,6 +293,7 @@ wpfacile.ch
 wpfamilyoffice.ch
 wpfister.ch
 wpfix.ch
+wpflow.ch
 wpfm.ch
 wpform.ch
 wpformation.ch
@@ -308,7 +316,6 @@ wphelden.ch
 wphelp.ch
 wphelp24.ch
 wphh.ch
-wphighavailability.ch
 wphillips.ch
 wphlaw.ch
 wphost.ch
@@ -326,7 +333,6 @@ wpintra.ch
 wpinvoice.ch
 wpinvoicer.ch
 wpit.ch
-wpitrof.ch
 wpizza.ch
 wpj.ch
 wpk-bau.ch
@@ -353,7 +359,6 @@ wpluzern.ch
 wpm.ch
 wpmail.ch
 wpmaintenance.ch
-wpmanaged.ch
 wpmanagement.ch
 wpmanager.ch
 wpmatch.ch
@@ -376,12 +381,12 @@ wpnatursteine.ch
 wpnerds.ch
 wpnet.ch
 wpnettoyages.ch
-wpnews.ch
 wpninja.ch
 wpninjas.ch
 wpninjasug.ch
 wpninjasummit.ch
-wpo-wetec.ch
+wpnz.ch
+wpo-consulting-ag.ch
 wpo.ch
 wpoconsulting.ch
 wpod.ch
@@ -396,7 +401,6 @@ wpperformance.ch
 wppfacilities.ch
 wpphoto.ch
 wppizza.ch
-wpplus.ch
 wpponline.ch
 wppremium.ch
 wppro.ch
@@ -415,6 +419,7 @@ wpremote.ch
 wprepair24.ch
 wpress.ch
 wpressdoctor.ch
+wpresswartung.ch
 wpro.ch
 wprocket.ch
 wproductions.ch
@@ -423,6 +428,7 @@ wproperties.ch
 wps-ag.ch
 wps-clients.ch
 wps-digital.ch
+wps-erp.ch
 wps-immobilien.ch
 wps-immotreu.ch
 wps-jukebox.ch
@@ -435,9 +441,9 @@ wps-waermepumpenservice.ch
 wps.ch
 wps20.ch
 wps24.ch
+wps4digital-ag.ch
 wps4digital.ch
 wpsa.ch
-wpsag.ch
 wpsanitaer.ch
 wpsc.ch
 wpscale.ch
@@ -446,6 +452,7 @@ wpschweiz.ch
 wpse.ch
 wpsear.ch
 wpsecure.ch
+wpsecurity.ch
 wpsecurity24.ch
 wpseo.ch
 wpservice.ch
@@ -455,10 +462,8 @@ wpshield.ch
 wpshop.ch
 wpsite.ch
 wpsites.ch
-wpsmartprotect.ch
 wpsocial.ch
 wpsolar.ch
-wpsolution.ch
 wpsolutions.ch
 wpsonnenblick.ch
 wpsorglos.ch
@@ -466,7 +471,9 @@ wpspace.ch
 wpspro.ch
 wpssa.ch
 wpstage.ch
+wpstudio.ch
 wpstudios.ch
+wpsupport-schweiz.ch
 wpsupport.ch
 wpsupport24.ch
 wpswitzerland.ch
@@ -475,7 +482,6 @@ wpsysteme.ch
 wpsystemmodul.ch
 wpsystems.ch
 wpt-ag.ch
-wpt-group.ch
 wpt-thalwil.ch
 wpt.ch
 wptechnik.ch
@@ -497,6 +503,7 @@ wpuls.ch
 wpunkt.ch
 wpupdate.ch
 wpupdate24.ch
+wpupdates.ch
 wpv.ch
 wpw-ag.ch
 wpw.ch

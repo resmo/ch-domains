@@ -5,7 +5,6 @@ x-2.ch
 x-27.ch
 x-3d.ch
 x-431.ch
-x-8weeks.ch
 x-99.ch
 x-academy.ch
 x-act-creativ.ch
@@ -26,7 +25,6 @@ x-alpha.ch
 x-alpin.ch
 x-alpine.ch
 x-am.ch
-x-and-y.ch
 x-ante.ch
 x-anwalt.ch
 x-apps.ch
@@ -37,7 +35,6 @@ x-art.ch
 x-atelier.ch
 x-automation.ch
 x-axis.ch
-x-back.ch
 x-bar-shop.ch
 x-bar.ch
 x-base.ch
@@ -45,7 +42,6 @@ x-bau.ch
 x-baum.ch
 x-baumanagement.ch
 x-bay.ch
-x-be.ch
 x-beats.ch
 x-beautysecrets.ch
 x-bees.ch
@@ -64,14 +60,12 @@ x-bodenbelag.ch
 x-book.ch
 x-booster.ch
 x-bootcamp.ch
-x-bootcamp1.ch
 x-boss.ch
 x-bot.ch
 x-botics.ch
 x-box.ch
 x-brands.ch
 x-bs.ch
-x-bus.ch
 x-buy.ch
 x-bv.ch
 x-by-francine.ch
@@ -106,7 +100,7 @@ x-chocolates.ch
 x-clan.ch
 x-class.ch
 x-clean.ch
-x-click.ch
+x-cloud.ch
 x-clouds.ch
 x-club-basel.ch
 x-club.ch
@@ -136,6 +130,7 @@ x-country-eigenthal.ch
 x-country.ch
 x-cover.ch
 x-cube.ch
+x-cyber.ch
 x-cycles.ch
 x-cycling.ch
 x-d.ch
@@ -143,7 +138,6 @@ x-dan.ch
 x-dance.ch
 x-data.ch
 x-date.ch
-x-dating.ch
 x-design.ch
 x-dialog.ch
 x-dialoger.ch
@@ -180,14 +174,11 @@ x-eye.ch
 x-f.ch
 x-fabric.ch
 x-fach-kommunikation.ch
-x-fach.ch
 x-facher.ch
 x-fick.ch
 x-fighter.ch
-x-file.ch
 x-finanzen.ch
 x-finder.ch
-x-fire.ch
 x-fit.ch
 x-fitclub.ch
 x-fitness.ch
@@ -196,7 +187,6 @@ x-folio.ch
 x-force.ch
 x-fortigo.ch
 x-foto.ch
-x-fragile.ch
 x-frame.ch
 x-frauenberatung.ch
 x-fresh.ch
@@ -230,6 +220,7 @@ x-host.ch
 x-hotels.ch
 x-hunt.ch
 x-hunting.ch
+x-hybrid.ch
 x-hypo.ch
 x-i.ch
 x-idea.ch
@@ -238,6 +229,7 @@ x-iles.ch
 x-immo.ch
 x-immobilien.ch
 x-impact.ch
+x-impossible.ch
 x-impuls.ch
 x-impulse.ch
 x-indu.ch
@@ -267,10 +259,10 @@ x-labs.ch
 x-large.ch
 x-laser.ch
 x-last.ch
-x-learning.ch
 x-lease.ch
 x-lendri.ch
 x-level.ch
+x-lex.ch
 x-life.ch
 x-lift.ch
 x-light-sound.ch
@@ -284,6 +276,7 @@ x-live.ch
 x-longlab.ch
 x-ls.ch
 x-m.ch
+x-machine.ch
 x-mail.ch
 x-main.ch
 x-man.ch
@@ -313,7 +306,6 @@ x-mini.ch
 x-mist.ch
 x-mobility.ch
 x-models.ch
-x-money.ch
 x-mont.ch
 x-montage.ch
 x-montagen.ch
@@ -321,7 +313,6 @@ x-mood.ch
 x-motion.ch
 x-mountain.ch
 x-move.ch
-x-movement.ch
 x-muscle.ch
 x-nails.ch
 x-net.ch
@@ -331,7 +322,6 @@ x-netservices.ch
 x-network.ch
 x-netz.ch
 x-novation.ch
-x-numis.ch
 x-oeppis.ch
 x-oled.ch
 x-on.ch
@@ -382,6 +372,7 @@ x-point-association.ch
 x-point.ch
 x-points.ch
 x-pole.ch
+x-pool.ch
 x-poolag.ch
 x-pools.ch
 x-port-pizzakurier.ch
@@ -396,7 +387,6 @@ x-presidents.ch
 x-press.ch
 x-presse.ch
 x-pression.ch
-x-presso.ch
 x-print.ch
 x-pro2.ch
 x-profil.ch
@@ -408,6 +398,7 @@ x-puls.ch
 x-qlusive.ch
 x-quadrat.ch
 x-quisite.ch
+x-r-e.ch
 x-r.ch
 x-rack.ch
 x-raeumungen.ch
@@ -418,6 +409,7 @@ x-ray-flash.ch
 x-ray-webinar.ch
 x-ray.ch
 x-raycycling.ch
+x-raycyling.ch
 x-re.ch
 x-reader.ch
 x-rechnung.ch
@@ -434,12 +426,13 @@ x-ringe.ch
 x-risc.ch
 x-rise.ch
 x-roi.ch
+x-root.ch
 x-roses.ch
 x-rubicon.ch
 x-s.ch
 x-safe.ch
+x-sante.ch
 x-seasons.ch
-x-sec.ch
 x-secure.ch
 x-sell.ch
 x-sense.ch
@@ -448,6 +441,7 @@ x-server.ch
 x-service.ch
 x-services.ch
 x-sex.ch
+x-sf.ch
 x-sharks.ch
 x-shisha.ch
 x-shop.ch
@@ -495,6 +489,7 @@ x-tel.ch
 x-telefon.ch
 x-ten.ch
 x-tend.ch
+x-tent.ch
 x-tention.ch
 x-teppich.ch
 x-tern.ch
@@ -505,11 +500,7 @@ x-tickets.ch
 x-tin.ch
 x-tip.ch
 x-tipp.ch
-x-tipps.ch
-x-tips.ch
 x-tivator.ch
-x-tool.ch
-x-tools.ch
 x-top.ch
 x-town.ch
 x-toys.ch
@@ -532,7 +523,7 @@ x-trackers.ch
 x-tracks.ch
 x-traclean.ch
 x-tract.ch
-x-traffic.ch
+x-trade.ch
 x-trahair.ch
 x-trail.ch
 x-trailer.ch
@@ -548,7 +539,6 @@ x-trasuperlos.ch
 x-trasuperlose.ch
 x-tratraumlos.ch
 x-tratraumlose.ch
-x-treff.ch
 x-treffen.ch
 x-trem-isolation.ch
 x-trem-isolator.ch
@@ -591,8 +581,6 @@ x-warrants.ch
 x-wash.ch
 x-way.ch
 x-wear.ch
-x-web.ch
-x-week.ch
 x-werbe-box.ch
 x-werte.ch
 x-where.ch
@@ -602,9 +590,8 @@ x-working.ch
 x-works.ch
 x-x.ch
 x-xl.ch
-x-y-z.ch
+x-y.ch
 x-yachts.ch
-x-year.ch
 x-yz.ch
 x-zertifikate.ch
 x-ziel.ch

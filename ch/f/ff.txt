@@ -1,11 +1,9 @@
 ff-a.ch
-ff-admin.ch
 ff-ag.ch
 ff-alpnach.ch
 ff-arch.ch
 ff-arts.ch
 ff-automobile.ch
-ff-balance.ch
 ff-bb.ch
 ff-bildhaueratelier.ch
 ff-buchhaltung.ch
@@ -20,13 +18,13 @@ ff-e.ch
 ff-estate.ch
 ff-events.ch
 ff-fassaden.ch
-ff-ferati.ch
 ff-forellenfilet.ch
 ff-foto.ch
 ff-gin.ch
 ff-graphics.ch
 ff-group.ch
 ff-homeofhair.ch
+ff-immobilier.ch
 ff-infirmiertcc.ch
 ff-ip.ch
 ff-isolationen.ch
@@ -40,6 +38,7 @@ ff-o.ch
 ff-packaging.ch
 ff-peinture.ch
 ff-performance.ch
+ff-platrerie.ch
 ff-plattenleger.ch
 ff-pv.ch
 ff-sa.ch
@@ -82,6 +81,7 @@ ffadmin.ch
 ffael.ch
 ffaes.ch
 ffag.ch
+ffahrenb.ch
 ffajoie.ch
 ffakustik.ch
 ffalbrecht.ch
@@ -93,6 +93,7 @@ ffamuseum.ch
 ffandptrust.ch
 ffanews.ch
 ffaplus.ch
+ffar.ch
 ffarch.ch
 ffasa.ch
 ffatzer.ch
@@ -116,6 +117,7 @@ ffbn.ch
 ffbrocart.ch
 ffbrocasters.ch
 ffbss.ch
+ffc-casa.ch
 ffc-suedost.ch
 ffc-worblental.ch
 ffc-zofingen.ch
@@ -127,6 +129,7 @@ ffcbl.ch
 ffcc.ch
 ffcc1.ch
 ffcc2.ch
+ffccasa.ch
 ffcdev.ch
 ffcity.ch
 ffcl.ch
@@ -166,6 +169,7 @@ ffernandes.ch
 ffernandez.ch
 fferro.ch
 ffestate.ch
+ffeventdesign.ch
 ffevents.ch
 fff-basel.ch
 fff-grivois.ch
@@ -177,7 +181,6 @@ fffairtrack.ch
 fffamily.ch
 fffato.ch
 ffff-festival.ch
-ffff.ch
 fffh.ch
 fffiduciaria.ch
 fffilm.ch
@@ -191,6 +194,7 @@ ffg-ftv.ch
 ffg-video.ch
 ffg.ch
 ffg2025.ch
+ffg31.ch
 ffgamingchallenge.ch
 ffgang.ch
 ffgastro.ch
@@ -203,6 +207,7 @@ ffglausanne2025.ch
 ffgo.ch
 ffgrono.ch
 ffgroup.ch
+ffgticino2031.ch
 ffgu.ch
 ffh-estech.ch
 ffh-ge.ch
@@ -213,8 +218,9 @@ ffhairstyle.ch
 ffhausen.ch
 ffhge.ch
 ffhnw.ch
+ffhomes.ch
+ffhomeware.ch
 ffhs-mooc.ch
-ffhs-pibs.ch
 ffhs-webg.ch
 ffhs.ch
 ffi-x.ch
@@ -228,6 +234,7 @@ ffiimm.ch
 ffikaj.ch
 ffimmo.ch
 ffimmobilien.ch
+ffimmobilier.ch
 ffin.ch
 ffinformatik.ch
 ffinvest.ch
@@ -258,6 +265,7 @@ fflon.ch
 fflow-dev.ch
 fflow.ch
 fflrc.ch
+ffls-2031.ch
 ffls2022.ch
 ffls2025.ch
 ffls2028.ch
@@ -285,6 +293,7 @@ ffmr.ch
 ffmschweiz.ch
 ffmusic.ch
 ffn-fschv.ch
+ffn-portal.ch
 ffn-training.ch
 ffn.ch
 ffnag.ch
@@ -295,11 +304,13 @@ ffnext.ch
 ffntest.ch
 ffo-sa.ch
 ffo.ch
+ffof.ch
 ffor.ch
 fforde.ch
 fforhair.ch
 fforhaircare.ch
 fform.ch
+ffort.ch
 ffortis.ch
 ffortis2025.ch
 fforum-gastrosuisse.ch
@@ -329,18 +340,13 @@ ffp-piastrelle.ch
 ffp-schutzmasken.ch
 ffp.ch
 ffp2-express.ch
-ffp2-maske.ch
 ffp2.ch
 ffp2atemschutz-masken.ch
-ffp2maske.ch
 ffp2protect.ch
 ffp3-auraschutzmasken.ch
 ffp3-maske.ch
 ffp3.ch
-ffp3maske.ch
 ffp3masken.ch
-ffp4.ch
-ffp4maske.ch
 ffpag.ch
 ffpagentur.ch
 ffpartner.ch
@@ -358,6 +364,7 @@ ffpmarketing.ch
 ffpmasken.ch
 ffpp.ch
 ffpratteln.ch
+ffproperty.ch
 ffps.ch
 ffpuliziaemultiservizi.ch
 ffq.ch
@@ -366,7 +373,6 @@ ffr-sarine.ch
 ffr.ch
 fframaservice.ch
 fframes.ch
-fframz.ch
 ffrb.ch
 ffrecords.ch
 ffree.ch
@@ -471,6 +477,7 @@ fftraining.ch
 ffu-pee-intranet.ch
 ffu-pee.ch
 ffu.ch
+ffurrer.ch
 ffuture.ch
 ffuturi.ch
 ffux.ch
@@ -484,9 +491,11 @@ ffvallotton25.ch
 ffvbasel.ch
 ffvgs.ch
 ffvillas.ch
+ffvr.ch
 ffvs.ch
 ffvt.ch
 ffw-staefa.ch
+ffw-wbtal.ch
 ffw.ch
 ffwagency.ch
 ffwd.ch

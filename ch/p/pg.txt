@@ -17,7 +17,6 @@ pg-consulting.ch
 pg-design.ch
 pg-effingerstrasse6a.ch
 pg-eu.ch
-pg-euro25.ch
 pg-fiscadmin.ch
 pg-forum.ch
 pg-gesundheitspolitik.ch
@@ -25,9 +24,9 @@ pg-gewinnspiel.ch
 pg-group.ch
 pg-immo-bau-ag.ch
 pg-immo.ch
+pg-immobilien.ch
 pg-immobilier.ch
 pg-immoservice.ch
-pg-le-spot.ch
 pg-medical.ch
 pg-oensingen.ch
 pg-petrochem.ch
@@ -43,8 +42,6 @@ pg-salbe.ch
 pg-server.ch
 pg-service.ch
 pg-slot.ch
-pg-solar.ch
-pg-solutions.ch
 pg-staedte.ch
 pg-tradenet.ch
 pg-velo.ch
@@ -89,7 +86,6 @@ pgatour.ch
 pgauto.ch
 pgavocats.ch
 pgaweb.ch
-pgawpartners.ch
 pgb-coaching.ch
 pgb.ch
 pgbasel.ch
@@ -98,6 +94,7 @@ pgbern.ch
 pgbf.ch
 pgbfi.ch
 pgbieri.ch
+pgbois-sarl.ch
 pgbois.ch
 pgbrandschutz.ch
 pgbs.ch
@@ -108,7 +105,7 @@ pgc.ch
 pgcarrelege.ch
 pgcb.ch
 pgcd.ch
-pgco.ch
+pgcnc.ch
 pgcoaching.ch
 pgcon.ch
 pgconf.ch
@@ -117,7 +114,6 @@ pgconsult.ch
 pgcr-consulting.ch
 pgcreation.ch
 pgcs.ch
-pgd.ch
 pgday.ch
 pgdays.ch
 pgdconsulenze.ch
@@ -149,6 +145,7 @@ pgforsta.ch
 pgfwirkt.ch
 pgg.ch
 pggerosa.ch
+pggroenland.ch
 pggy.ch
 pgh-shop.ch
 pgh.ch
@@ -156,6 +153,7 @@ pghg.ch
 pghost.ch
 pghr.ch
 pghs.ch
+pght.ch
 pgi-ipbd.ch
 pgi-shop.ch
 pgi.ch
@@ -166,10 +164,10 @@ pgib.ch
 pgimmobilier.ch
 pgimmocasa.ch
 pgionlyone.ch
+pgisler.ch
 pgitsolution.ch
 pgj-immobilien.ch
 pgj.ch
-pgjass.ch
 pgk.ch
 pgke.ch
 pgks.ch
@@ -190,7 +188,6 @@ pglogistics.ch
 pgloor.ch
 pglplegislationroutierephotos.ch
 pglu.ch
-pglugano.ch
 pgm-design.ch
 pgm-group.ch
 pgm-management.ch
@@ -217,14 +214,16 @@ pgnewsroom.ch
 pgnoffice.ch
 pgnsa.ch
 pgo.ch
+pgocat.ch
 pgoetz-gmbh.ch
 pgofficina.ch
 pgofr.ch
 pgoh.ch
+pgoholding.ch
 pgolaz.ch
 pgood.ch
-pgordon.ch
 pgostschweiz.ch
+pgosuisse.ch
 pgoutils.ch
 pgov.ch
 pgp-jung.ch
@@ -266,7 +265,6 @@ pgreco.ch
 pgremaud.ch
 pgretener.ch
 pgrf.ch
-pgri.ch
 pgrnd.ch
 pgroup.ch
 pgroupe.ch
@@ -277,6 +275,7 @@ pgs.ch
 pgsa.ch
 pgsbox.ch
 pgsc.ch
+pgsecurity.ch
 pgservices.ch
 pgsg.ch
 pgshaustechnikgmbh.ch
@@ -291,7 +290,6 @@ pgss.ch
 pgsssa.ch
 pgsssystems.ch
 pgstore.ch
-pgsuisse.ch
 pgsz.ch
 pgt.ch
 pgtech.ch

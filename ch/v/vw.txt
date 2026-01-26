@@ -1,5 +1,4 @@
 vw-abo.ch
-vw-aircooled.ch
 vw-amag.ch
 vw-amarok.ch
 vw-ankauf.ch
@@ -11,7 +10,6 @@ vw-badragaz.ch
 vw-bar.ch
 vw-basel.ch
 vw-bau.ch
-vw-beetle.ch
 vw-bestprice.ch
 vw-bett.ch
 vw-bordbuch.ch
@@ -29,6 +27,7 @@ vw-bus-gebraucht-camping.ch
 vw-bus-markise.ch
 vw-bus-mieten.ch
 vw-bus-team-biel.ch
+vw-bus-treffen.ch
 vw-bus-umbau.ch
 vw-bus-vermietung.ch
 vw-bus-vorzelt.ch
@@ -70,7 +69,6 @@ vw-crafter-camper.ch
 vw-crafter-campingbus.ch
 vw-crafter-wohnmobil.ch
 vw-crafter.ch
-vw-direktimport.ch
 vw-drivers-club.ch
 vw-driversclub.ch
 vw-electro.ch
@@ -83,8 +81,6 @@ vw-fotobulli.ch
 vw-fotobus.ch
 vw-garage-basel.ch
 vw-garage.ch
-vw-golf.ch
-vw-grand-california.ch
 vw-hippiebus-mieten.ch
 vw-hippiebus.ch
 vw-hofmann.ch
@@ -106,6 +102,7 @@ vw-kredit.ch
 vw-leasing.ch
 vw-magazin.ch
 vw-manuale.ch
+vw-manuel.ch
 vw-motion.ch
 vw-motorsport.ch
 vw-nf-switzerland.ch
@@ -115,7 +112,6 @@ vw-nutzfahrzeuge.ch
 vw-occasionen.ch
 vw-opel-teile.ch
 vw-ostschweiz.ch
-vw-outlet.ch
 vw-page.ch
 vw-partner.ch
 vw-party-bus.ch
@@ -133,7 +129,6 @@ vw-scirocco.ch
 vw-service.ch
 vw-sg.ch
 vw-shop.ch
-vw-soundfoundation.ch
 vw-spezialisten.ch
 vw-stgallen.ch
 vw-suisse.ch
@@ -177,12 +172,12 @@ vw-verkaufen.ch
 vw-vermietung.ch
 vw-vintage.ch
 vw-voelligwertlos.ch
-vw-volksfest.ch
 vw-walo.ch
 vw-weltauto.ch
 vw-werkstatt.ch
 vw-winterraeder.ch
 vw-zentrum-emmental.ch
+vw-zimmer.ch
 vw-zubehoer.ch
 vw0.ch
 vw1.ch
@@ -192,7 +187,6 @@ vw24.ch
 vwa-immobilien.ch
 vwa-swiss.ch
 vwa.ch
-vwaircooled.ch
 vwalls.ch
 vwamarok.ch
 vwan.ch
@@ -208,7 +202,6 @@ vwave.ch
 vwb.ch
 vwbar.ch
 vwbasel.ch
-vwbeetle.ch
 vwbg.ch
 vwbl.ch
 vwboxerteam.ch
@@ -244,7 +237,6 @@ vwbusmarkise.ch
 vwbusmieten.ch
 vwbusparty.ch
 vwbusreise.ch
-vwbusreisen.ch
 vwbussonnensegel.ch
 vwbusstellplatz.ch
 vwbust3.ch
@@ -303,8 +295,10 @@ vwcityvan.ch
 vwclassic.ch
 vwclub-seeland.ch
 vwclub.ch
+vwclubaargau.ch
 vwcollection.ch
 vwcombi.ch
+vwconsulting.ch
 vwcorrado.ch
 vwcox.ch
 vwcrafter-camper.ch
@@ -315,7 +309,6 @@ vwd.ch
 vwd360.ch
 vwdassistant.ch
 vwdgroup.ch
-vwdieselinfo.ch
 vwdpm.ch
 vwdr.ch
 vwdriversclub.ch
@@ -365,7 +358,6 @@ vwkaefer.ch
 vwkaeferclub-marchlinth.ch
 vwkaeferclub.ch
 vwkaeferteile.ch
-vwkarmann.ch
 vwklassiker.ch
 vwkredit.ch
 vwkuhn.ch
@@ -375,8 +367,10 @@ vwl.ch
 vwleasing.ch
 vwlonline.ch
 vwm.ch
+vwmanagement.ch
 vwmd.ch
 vwmf.ch
+vwml.ch
 vwmultivancamper.ch
 vwn-bordbuch.ch
 vwn-manuale.ch
@@ -396,10 +390,12 @@ vwpartner.ch
 vwpc.ch
 vwphotobulli.ch
 vwphotobus.ch
+vwpics.ch
 vwpnet.ch
 vwpress.ch
 vwpt.ch
 vwq.ch
+vwr-hochrhein.ch
 vwr-ing.ch
 vwr-punkt.ch
 vwr.ch
@@ -412,7 +408,6 @@ vws.ch
 vwscene.ch
 vwschiebefenster.ch
 vwschweiz.ch
-vwscirocco.ch
 vwservice.ch
 vwsg.ch
 vwsp2.ch

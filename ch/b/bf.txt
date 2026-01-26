@@ -3,6 +3,7 @@ bf-3.ch
 bf-a.ch
 bf-advisorysolutions.ch
 bf-ag.ch
+bf-ai-business-specialist.ch
 bf-app.ch
 bf-applications.ch
 bf-arch.ch
@@ -26,6 +27,7 @@ bf-direct.ch
 bf-direkt.ch
 bf-equity.ch
 bf-etancheite-isolation-ferblanterie.ch
+bf-events.ch
 bf-facility.ch
 bf-financial.ch
 bf-finanz.ch
@@ -36,7 +38,8 @@ bf-gips.ch
 bf-gmbh.ch
 bf-group.ch
 bf-haustechnik.ch
-bf-holz.ch
+bf-holding.ch
+bf-holzbau.ch
 bf-immo.ch
 bf-immobau.ch
 bf-immobilien.ch
@@ -68,7 +71,6 @@ bf-sanitaire.ch
 bf-services.ch
 bf-sigigen.ch
 bf-solutions.ch
-bf-styling.ch
 bf-swiss.ch
 bf-tec.ch
 bf-technic.ch
@@ -88,7 +90,7 @@ bf360.ch
 bf3swiss.ch
 bf4.ch
 bf7.ch
-bf85qftc.ch
+bf74.ch
 bfa-bau.ch
 bfa-bruno-gruetter.ch
 bfa-bs.ch
@@ -102,7 +104,6 @@ bfacility.ch
 bfadiagnostic.ch
 bfadv.ch
 bfadvokatur.ch
-bfaeh.ch
 bfag.ch
 bfagmbh.ch
 bfah.ch
@@ -117,6 +118,7 @@ bfarch.ch
 bfarchi.ch
 bfarchitecture.ch
 bfarchitekten.ch
+bfarma.ch
 bfas.ch
 bfasblondeau.ch
 bfastman.ch
@@ -136,6 +138,7 @@ bfb-cipi.ch
 bfb-fenster.ch
 bfb-fensterbau.ch
 bfb-flums.ch
+bfb-general-sarl.ch
 bfb-ingenieure.ch
 bfb-planer.ch
 bfb-terminal-b.ch
@@ -158,7 +161,6 @@ bfbiodiesel.ch
 bfbk.ch
 bfbplaintes.ch
 bfbr.ch
-bfbs.ch
 bfbvd.ch
 bfc-schweiz.ch
 bfc.ch
@@ -182,6 +184,7 @@ bfconcepts.ch
 bfconsult.ch
 bfconsulting.ch
 bfcproduction.ch
+bfcrm.ch
 bfcs.ch
 bfcservice.ch
 bfcvierwaldstaettersee.ch
@@ -218,9 +221,11 @@ bff4life.ch
 bffbern.ch
 bffch.ch
 bffhoney.ch
+bffhub.ch
 bffiduciaire.ch
 bffl.ch
 bffo.ch
+bfg-baselland.ch
 bfg-bern.ch
 bfg-berneroberland.ch
 bfg-bernwest.ch
@@ -232,6 +237,7 @@ bfg-freiburg.ch
 bfg-frutigland.ch
 bfg-group.ch
 bfg-immobilien.ch
+bfg-international.ch
 bfg-mittelland.ch
 bfg-oberaargau.ch
 bfg-oberland.ch
@@ -239,7 +245,6 @@ bfg-seeland.ch
 bfg-simmental-saanenland.ch
 bfg-solothurn.ch
 bfg.ch
-bfgag.ch
 bfgarage.ch
 bfgbern.ch
 bfgberneroberland.ch
@@ -247,6 +252,7 @@ bfgconstruction.ch
 bfgconsulting.ch
 bfge.ch
 bfgestion.ch
+bfggroup.ch
 bfgipatech.ch
 bfgoberland.ch
 bfgoodrich.ch
@@ -286,9 +292,11 @@ bfh2000.ch
 bfhalumni.ch
 bfhg.ch
 bfhge.ch
+bfholzbau.ch
 bfhs.ch
 bfi-bullion.ch
 bfi-consulting.ch
+bfi-insight.ch
 bfi-solutions.ch
 bfi-wealth.ch
 bfi.ch
@@ -352,6 +360,7 @@ bfk-glarnerland.ch
 bfk-law.ch
 bfk-partner-ag.ch
 bfk-partner.ch
+bfk-zurzach.ch
 bfk.ch
 bfkapital.ch
 bfkconsulting.ch
@@ -363,6 +372,7 @@ bfl-langenthal.ch
 bfl-leman.ch
 bfl-service.ch
 bfl.ch
+bfl2010.ch
 bflat.ch
 bflatsharp.ch
 bflaw.ch
@@ -380,6 +390,7 @@ bflix.ch
 bflmastix.ch
 bflowz.ch
 bflp.ch
+bfls.ch
 bfly.ch
 bfm-arbon.ch
 bfm-gvb.ch
@@ -387,7 +398,6 @@ bfm-ladenbau.ch
 bfm-solutions.ch
 bfm.ch
 bfmag.ch
-bfmbusiness.ch
 bfmc.ch
 bfmconsulting.ch
 bfmd.ch
@@ -404,7 +414,6 @@ bfmq.ch
 bfms-law.ch
 bfms.ch
 bfmtax.ch
-bfmtv.ch
 bfn-architectes.ch
 bfn-avocats.ch
 bfn-service.ch
@@ -489,11 +498,14 @@ bfs-ag.ch
 bfs-bachmann.ch
 bfs-c.ch
 bfs-consulting.ch
+bfs-einsiedeln.ch
 bfs-fvs.ch
 bfs-guide.ch
 bfs-haustechnik.ch
 bfs-immobilien.ch
+bfs-kultur.ch
 bfs-mps.ch
+bfs-podologie.ch
 bfs-schweiz.ch
 bfs-seeland.ch
 bfs-swiss.ch
@@ -520,7 +532,6 @@ bfsc.ch
 bfschule.ch
 bfschwyz.ch
 bfsconsulting.ch
-bfseetal.ch
 bfsfc.ch
 bfsfusspflege.ch
 bfsg.ch
@@ -532,8 +543,10 @@ bfsit.ch
 bfsl.ch
 bfsn.ch
 bfso.ch
+bfsolutions.ch
 bfspa.ch
 bfspartner.ch
+bfspodologie.ch
 bfsportgym.ch
 bfsswiss.ch
 bfstg.ch
@@ -587,6 +600,7 @@ bfvlenzburg.ch
 bfvm.ch
 bfvog.ch
 bfvu.ch
+bfvz.ch
 bfw-ag.ch
 bfw-franchise.ch
 bfw-gartenbau.ch

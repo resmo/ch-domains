@@ -12,6 +12,7 @@ l-2ne.ch
 l-2ti.ch
 l-2vd.ch
 l-2vs.ch
+l-3.ch
 l-4-c.ch
 l-4.ch
 l-61.ch
@@ -31,7 +32,6 @@ l-a-s.ch
 l-a-t-e-l-i-e-r.ch
 l-a-w.ch
 l-a.ch
-l-ab.ch
 l-abijoux.ch
 l-abri-co.ch
 l-acca.ch
@@ -44,13 +44,14 @@ l-adresse.ch
 l-affiche.ch
 l-after.ch
 l-ag.ch
+l-agence-ia.ch
 l-agence.ch
 l-agencerie.ch
 l-agenda.ch
 l-agru.ch
 l-ai.ch
+l-aimant.ch
 l-aime.ch
-l-air-du-sud.ch
 l-air.ch
 l-aire-des-seniors.ch
 l-alpage.ch
@@ -72,22 +73,20 @@ l-and-f.ch
 l-and-m.ch
 l-and-s.ch
 l-anecdote.ch
-l-annex.ch
 l-annexe.ch
 l-antenne.ch
+l-ao.ch
 l-aperitivo.ch
 l-apostrophe.ch
 l-app.ch
 l-appart.ch
 l-ar.ch
 l-arancino.ch
-l-arbredevie.ch
 l-arc.ch
 l-arcade.ch
 l-arch-d-arch.ch
 l-arche-des-enfants.ch
 l-archipel.ch
-l-architecte-du-bois.ch
 l-architecte.ch
 l-architectes.ch
 l-architecture.ch
@@ -113,7 +112,6 @@ l-artista.ch
 l-artiste.ch
 l-artquarium.ch
 l-aru.ch
-l-arvine.ch
 l-askene.ch
 l-assise.ch
 l-assist.ch
@@ -126,7 +124,6 @@ l-atelier-immobilier.ch
 l-atelier-institut.ch
 l-atelier.ch
 l-atelierandco.ch
-l-ateliercrochet.ch
 l-atelierimmobilier.ch
 l-athanor.ch
 l-atk.ch
@@ -137,7 +134,6 @@ l-aura.ch
 l-aurore-se-leve.ch
 l-ausanne.ch
 l-authentique.ch
-l-auto-moto.ch
 l-auto.ch
 l-autoecole.ch
 l-automation.ch
@@ -146,6 +142,7 @@ l-autovermietung.ch
 l-ava.ch
 l-avaux.ch
 l-avenir-appartient-a-tous.ch
+l-avion.ch
 l-azimut.ch
 l-b-g.ch
 l-b-gu.ch
@@ -154,6 +151,8 @@ l-b-r.ch
 l-b-s.ch
 l-b.ch
 l-bahn.ch
+l-bateau.ch
+l-bd.ch
 l-beautyatelier.ch
 l-bern.ch
 l-berne.ch
@@ -191,7 +190,6 @@ l-cigar.ch
 l-citrullin.ch
 l-cloud.ch
 l-club.ch
-l-co.ch
 l-coaching.ch
 l-cockpit.ch
 l-coiffeur.ch
@@ -214,8 +212,6 @@ l-d.ch
 l-damec.ch
 l-decora.ch
 l-decors.ch
-l-do-it.ch
-l-doit.ch
 l-dopa.ch
 l-drei.ch
 l-drive-ag.ch
@@ -232,7 +228,6 @@ l-drive-swiss.ch
 l-drive-zh.ch
 l-drive.ch
 l-drivefahrschule.ch
-l-drivegroup.ch
 l-drivers.ch
 l-driving.ch
 l-dudu.ch
@@ -268,7 +263,6 @@ l-enfant-c-est-la-vie.ch
 l-enka.ch
 l-ennui.ch
 l-entre-2.ch
-l-entre2.ch
 l-entrepot.ch
 l-entreprise-buissonniere.ch
 l-entreprise-generale.ch
@@ -279,16 +273,15 @@ l-epicerie.ch
 l-equilibre.ch
 l-equipe.ch
 l-escale.ch
-l-escalier.ch
 l-escapade.ch
 l-esensciel.ch
 l-espace-real-estate.ch
 l-espacedufond.ch
 l-esprit-de-famille.ch
 l-esprit-du-vin.ch
-l-esprit-libre.ch
 l-esquisse.ch
 l-essencielles.ch
+l-essentiel-au-naturel.ch
 l-essentiel.ch
 l-essenza.ch
 l-et-l-evasion-culinaire.ch
@@ -319,7 +312,6 @@ l-fahrschule.ch
 l-fahrzeugmieten.ch
 l-fahrzeugvermietung.ch
 l-first.ch
-l-fo.ch
 l-fribourg.ch
 l-fx.ch
 l-g-p.ch
@@ -338,7 +330,6 @@ l-green.ch
 l-group.ch
 l-gruyere.ch
 l-guarnaccia.ch
-l-guru.ch
 l-h-b.ch
 l-h.ch
 l-habiblio.ch
@@ -354,12 +345,12 @@ l-home-parfumee.ch
 l-horizon-a.ch
 l-horizon.ch
 l-horloger.ch
+l-huit.ch
 l-hypnose.ch
 l-hypotheque-jaune.ch
 l-i-c.ch
 l-i-l.ch
 l-i-m-a.ch
-l-i-o-r.ch
 l-i-s.ch
 l-i.ch
 l-ichu.ch
@@ -408,6 +399,7 @@ l-j-p.ch
 l-j.ch
 l-jaggi.ch
 l-jaquet.ch
+l-jeanpiaget.ch
 l-jsertissage.ch
 l-k-b.ch
 l-k.ch
@@ -424,8 +416,8 @@ l-l.ch
 l-lab.ch
 l-lac.ch
 l-lan.ch
+l-lausanne.ch
 l-law.ch
-l-learning.ch
 l-lesungen.ch
 l-light.ch
 l-literaturreihe.ch
@@ -454,10 +446,8 @@ l-meuwly.ch
 l-michelle.ch
 l-mit17.ch
 l-mk.ch
-l-mobi.ch
 l-mobile.ch
 l-mobimobile.ch
-l-modus.ch
 l-montage.ch
 l-moto.ch
 l-motorrad.ch
@@ -475,14 +465,12 @@ l-nhk.ch
 l-now.ch
 l-ns.ch
 l-nutra.ch
-l-nutrition.ch
 l-o-f-t.ch
 l-o-i.ch
 l-o-m.ch
 l-o-s.ch
 l-o-v.ch
 l-o.ch
-l-oberson.ch
 l-oenotheque.ch
 l-oeuvre.ch
 l-oiseau-bleu.ch
@@ -515,6 +503,7 @@ l-plus.ch
 l-point.ch
 l-poya.ch
 l-pralong.ch
+l-presso.ch
 l-prime.ch
 l-pro.ch
 l-profi.ch
@@ -537,7 +526,6 @@ l-s-c.ch
 l-s-g-media.ch
 l-s-group.ch
 l-s.ch
-l-sante.ch
 l-sc.ch
 l-schaub.ch
 l-schmid-haustechnik.ch
@@ -545,7 +533,7 @@ l-schmid.ch
 l-schneider.ch
 l-school.ch
 l-sdp.ch
-l-sector.ch
+l-secours.ch
 l-sektor.ch
 l-selmani.ch
 l-senior.ch
@@ -561,7 +549,6 @@ l-skating.ch
 l-sound.ch
 l-spreiter.ch
 l-star.ch
-l-stardriver.ch
 l-start.ch
 l-stop.ch
 l-store.ch
@@ -580,7 +567,6 @@ l-te.ch
 l-team.ch
 l-tec.ch
 l-tech.ch
-l-technik.ch
 l-tektur.ch
 l-tex.ch
 l-theanin.ch
@@ -608,7 +594,6 @@ l-unit.ch
 l-up.ch
 l-upcyclerie.ch
 l-uv.ch
-l-ux.ch
 l-v-d-c.ch
 l-v-r.ch
 l-v.ch
