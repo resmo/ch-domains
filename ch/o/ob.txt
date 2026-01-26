@@ -1441,6 +1441,7 @@ object.ch
 object1st.ch
 objecta-ag.ch
 objecta.ch
+objectaid.ch
 objectale.ch
 objectcard.ch
 objectcontroller.ch
@@ -2461,6 +2462,7 @@ obu-ag.ch
 obu.ch
 obubbles.ch
 obucina-arch.ch
+obudir.ch
 obudo.ch
 obuechel.ch
 obuis.ch
