@@ -516,7 +516,6 @@ evaliamc.ch
 evalid.ch
 evalife.ch
 evalimmo.ch
-evalinaluc.ch
 evalinder.ch
 evalink.ch
 evalinklive.ch
@@ -2131,6 +2130,7 @@ event-schlieren.ch
 event-schliessfach.ch
 event-schliessfaecher.ch
 event-schmiede.ch
+event-schmitte.ch
 event-schopf.ch
 event-schreiner.ch
 event-schreinerei.ch
