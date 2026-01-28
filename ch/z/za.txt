@@ -509,7 +509,6 @@ zaffe.ch
 zafferana.ch
 zafferano-ristorante.ch
 zafferano.ch
-zafferanodiviola.ch
 zafferanoitalia.ch
 zafferanovalleverzasca.ch
 zaffia.ch
@@ -977,6 +976,7 @@ zahnaerzte-am-bahnhof.ch
 zahnaerzte-am-bleicherweg.ch
 zahnaerzte-am-central.ch
 zahnaerzte-am-dorenbach.ch
+zahnaerzte-am-kaefigturm.ch
 zahnaerzte-am-lindenplatz.ch
 zahnaerzte-am-loewenplatz.ch
 zahnaerzte-am-markt.ch
@@ -1292,6 +1292,7 @@ zahnarzt-am-bodensee.ch
 zahnarzt-am-kunsthaus.ch
 zahnarzt-am-margarethenpark.ch
 zahnarzt-am-see.ch
+zahnarzt-am-waisenhausplatz.ch
 zahnarzt-am-wasserschloss.ch
 zahnarzt-amiri.ch
 zahnarzt-ammann.ch
@@ -1520,6 +1521,7 @@ zahnarzt-edelweiss.ch
 zahnarzt-egg.ch
 zahnarzt-egli.ch
 zahnarzt-eglisau.ch
+zahnarzt-ehrlich.ch
 zahnarzt-einsiedeln.ch
 zahnarzt-elgg.ch
 zahnarzt-embrach.ch
@@ -1774,6 +1776,7 @@ zahnarzt-juenger.ch
 zahnarzt-juon.ch
 zahnarzt-kadl.ch
 zahnarzt-kaech.ch
+zahnarzt-kaefigturm.ch
 zahnarzt-kaiser-rapperswil.ch
 zahnarzt-kalender.ch
 zahnarzt-kalt.ch
@@ -2295,9 +2298,12 @@ zahnarzt-vogel-alpnach.ch
 zahnarzt-vogt.ch
 zahnarzt-volketswil.ch
 zahnarzt-vonreding.ch
+zahnarzt-waaghaus.ch
+zahnarzt-waaghausgasse.ch
 zahnarzt-wabern.ch
 zahnarzt-waedenswil.ch
 zahnarzt-wagner.ch
+zahnarzt-waisenhausplatz.ch
 zahnarzt-wald.ch
 zahnarzt-waldraff.ch
 zahnarzt-walenstadt.ch
@@ -2674,6 +2680,7 @@ zahnarztinzueri.ch
 zahnarztinzug.ch
 zahnarztjansen.ch
 zahnarztjaun.ch
+zahnarztjob.ch
 zahnarztkalberer.ch
 zahnarztkeller.ch
 zahnarztkianpur.ch
@@ -2867,6 +2874,7 @@ zahnarztpraxis-degersheim.ch
 zahnarztpraxis-deggeller.ch
 zahnarztpraxis-deronjic.ch
 zahnarztpraxis-diessenhofen.ch
+zahnarztpraxis-dietikon.ch
 zahnarztpraxis-diodatti.ch
 zahnarztpraxis-doettingen.ch
 zahnarztpraxis-domleschg.ch
@@ -3144,6 +3152,7 @@ zahnarztpraxis-villard.ch
 zahnarztpraxis-villiger.ch
 zahnarztpraxis-volken.ch
 zahnarztpraxis-volketswil.ch
+zahnarztpraxis-waaghaus.ch
 zahnarztpraxis-walchwil.ch
 zahnarztpraxis-wald.ch
 zahnarztpraxis-wallis.ch
@@ -4966,6 +4975,7 @@ zaman.ch
 zamana.ch
 zamanagement.ch
 zamani-voyage.ch
+zamani.ch
 zamanticai.ch
 zamar-j.ch
 zamar.ch
@@ -5947,6 +5957,7 @@ zarriellos-sprachencafe.ch
 zarriellos.ch
 zarrina.ch
 zarro.ch
+zarservices.ch
 zarske.ch
 zarski.ch
 zarskiart.ch
@@ -6443,6 +6454,7 @@ zauberwald-chasperli.ch
 zauberwald-kasperli.ch
 zauberwald-lenzerheide.ch
 zauberwald-seon.ch
+zauberwald-spielgruppe.ch
 zauberwald-strick.ch
 zauberwald.ch
 zauberwaldernen.ch

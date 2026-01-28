@@ -2078,6 +2078,7 @@ ns1.hostmedia.ch
 ns1.hostnext.ch
 ns1.hostone.ch
 ns1.hostorama.ch
+ns1.hostoria.ch
 ns1.hostpiumedia.ch
 ns1.hostplace.ch
 ns1.hostplex.ch
@@ -3170,6 +3171,7 @@ ns1.reb-one.ch
 ns1.reci.ch
 ns1.redcow.ch
 ns1.redia.ch
+ns1.redsprite-dev.ch
 ns1.redsun.ch
 ns1.reefs.ch
 ns1.refmat.ch
@@ -3683,7 +3685,6 @@ ns1.tintentheke.ch
 ns1.tionline.ch
 ns1.tisag.ch
 ns1.tkcloud.ch
-ns1.tmbc.ch
 ns1.tme-management.ch
 ns1.toc-it.ch
 ns1.tocco.ch
@@ -5436,6 +5437,7 @@ ns2.hostmedia.ch
 ns2.hostnext.ch
 ns2.hostone.ch
 ns2.hostorama.ch
+ns2.hostoria.ch
 ns2.hostpiumedia.ch
 ns2.hostplace.ch
 ns2.hostplex.ch
@@ -6476,6 +6478,7 @@ ns2.reb-one.ch
 ns2.reci.ch
 ns2.redcow.ch
 ns2.redia.ch
+ns2.redsprite-dev.ch
 ns2.reefs.ch
 ns2.refreshbyeli.ch
 ns2.regioit.ch
@@ -6983,7 +6986,6 @@ ns2.tintentheke.ch
 ns2.tionline.ch
 ns2.tisag.ch
 ns2.tkcloud.ch
-ns2.tmbc.ch
 ns2.tme-management.ch
 ns2.toc-it.ch
 ns2.tocco.ch
@@ -8911,6 +8913,7 @@ nssen.ch
 nsservice.ch
 nssg.ch
 nssports.ch
+nsss.ch
 nssteuern.ch
 nssui.comlaude.ch
 nst-coaching.ch

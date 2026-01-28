@@ -1083,7 +1083,6 @@ my-massagetraum.ch
 my-matcha.ch
 my-matelas.ch
 my-matrix.ch
-my-mattress.ch
 my-mazda.ch
 my-mchair.ch
 my-mdesign.ch
@@ -3651,6 +3650,7 @@ mychoicesoftware.ch
 mychopard.ch
 mychopper.ch
 mychouchou.ch
+mychoupette.ch
 mychoyce.ch
 mychrono.ch
 mychucks.ch
@@ -7578,7 +7578,6 @@ mymaterial.ch
 mymatrix.ch
 mymattenhof-luzern.ch
 mymattenhof.ch
-mymattress.ch
 mymattressplan.ch
 mymazda.ch
 mymb.ch
@@ -8035,7 +8034,6 @@ mynewapp.ch
 mynewbikini.ch
 mynewbody.ch
 mynewcar.ch
-mynewcom.ch
 mynewebsite.ch
 mynewenergy.ch
 mynewface.ch
@@ -11065,6 +11063,7 @@ myswissbankpoints.ch
 myswissbeauty.ch
 myswissbets.ch
 myswissbilling.ch
+myswissbioinfo.ch
 myswissbox.ch
 myswissboxes.ch
 myswissbroker.ch
@@ -11109,6 +11108,7 @@ myswisscontact.ch
 myswisscorp.ch
 myswisscorporation.ch
 myswisscosmetics.ch
+myswisscv.ch
 myswissdata.ch
 myswissday.ch
 myswissdeal.ch
@@ -12470,7 +12470,6 @@ mywellnesscoach.ch
 mywellnessworld.ch
 mywerkstatt.ch
 mywesco.ch
-mywesthive.ch
 mywettbonus.ch
 mywetter.ch
 mywey.ch
