@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 (
     cd /tmp
     rm -f dns_ch.txt ch.txt
