@@ -749,7 +749,6 @@ ready2ride.ch
 ready2simrace.ch
 ready2start.ch
 ready2swim.ch
-ready2use.ch
 ready2wear.ch
 ready2work.ch
 ready4.ch
@@ -877,6 +876,7 @@ readytoeat.ch
 readytoexit.ch
 readytofly.ch
 readytogo-intranet.ch
+readytogo.ch
 readytohair.ch
 readytoinvest.ch
 readytoorder.ch
@@ -1401,6 +1401,7 @@ realestate-lidl.ch
 realestate-management.ch
 realestate-marketing.ch
 realestate-partner.ch
+realestate-profis.ch
 realestate-school.ch
 realestate-schweiz.ch
 realestate-search.ch
@@ -7946,7 +7947,6 @@ reduction-de-personnel.ch
 reduction-loyer.ch
 reduction-prime.ch
 reduction.ch
-reductiondesrisques.ch
 reductionmammaire.ch
 reductions.ch
 redue.ch
@@ -8709,6 +8709,7 @@ ref-ststephan.ch
 ref-suhr-hunzenschwil.ch
 ref-surbtal.ch
 ref-sz.ch
+ref-tech.ch
 ref-teufen.ch
 ref-thal-lutzenberg.ch
 ref-thal.ch
@@ -9060,6 +9061,7 @@ referrn.ch
 refertilisierung.ch
 refertility.ch
 refesol.ch
+refetch.ch
 refettorio.ch
 refex.ch
 reff.ch
@@ -10223,6 +10225,7 @@ refwitikon.ch
 refwuelflingen.ch
 refy.ch
 refyn.ch
+refyne.ch
 refynedmarketing.ch
 refyniq.ch
 refyoung.ch
@@ -13578,6 +13581,7 @@ rehabilitylugano.ch
 rehabilityparadiso.ch
 rehabilomics.ch
 rehabio.ch
+rehablab.ch
 rehabmarket.ch
 rehabmedic.ch
 rehabmypatient.ch
@@ -13925,6 +13929,7 @@ rehruecken.ch
 rehschnitzel.ch
 rehsteiner.ch
 rehstos.ch
+rehtschuggen.ch
 rehu.ch
 rehub.ch
 rehuco.ch
@@ -16324,7 +16329,6 @@ reirealinvest.ch
 reirei.ch
 reis-ag.ch
 reis-automobiles.ch
-reis-detailing.ch
 reis-engineering.ch
 reis-ingenering.ch
 reis-partners.ch
@@ -17709,7 +17713,6 @@ reitschule-ohana.ch
 reitschule-pegasus.ch
 reitschule-reitlager.ch
 reitschule-rossweid.ch
-reitschule-sabine-meier.ch
 reitschule-schuepfheim.ch
 reitschule-schuerli.ch
 reitschule-schweizer.ch
@@ -19250,6 +19253,7 @@ religionenkompakt.ch
 religionenlu.ch
 religionenluzern.ch
 religionenschweiz.ch
+religionentdecken.ch
 religionerleben.ch
 religioni.ch
 religionkills.ch
@@ -19622,7 +19626,6 @@ reluxevent.ch
 reluxlite.ch
 reluxnet.ch
 reluxproperties.ch
-reluxrealty.ch
 reluxsagl.ch
 reluxury.ch
 reluz.ch
@@ -20071,6 +20074,9 @@ remetrics.ch
 remetschwil.ch
 remetschwil24.ch
 remettaz.ch
+remettre-son-bail-geneve.ch
+remettresonbail.ch
+remettresonbailgeneve.ch
 remex.ch
 remexian.ch
 remexx.ch
@@ -20215,8 +20221,10 @@ remisbergeltern.ch
 remischuepba.ch
 remiscom.ch
 remise-braui.ch
+remise-de-bail-geneve.ch
 remise-de-bail.ch
 remise-de-commerce.ch
+remise-en-etat-logements.ch
 remise-en-forme-geneve.ch
 remise-pme.ch
 remise-richterswil.ch
@@ -20225,6 +20233,7 @@ remise.ch
 remise17.ch
 remisecommerce.ch
 remisedebail.ch
+remisedebailgeneve.ch
 remisedecommerce.ch
 remisedeferme-parcours.ch
 remisedeferme.ch
@@ -22236,6 +22245,7 @@ renegick.ch
 renegis.ch
 renegisler.ch
 renego.ch
+renegraf.ch
 renegreubel.ch
 renegrob.ch
 renegroebli.ch
@@ -22947,7 +22957,6 @@ rennradtipps.ch
 rennraeder.ch
 rennreifen-shop.ch
 rennreiten.ch
-rennreiter.ch
 rennsessel.ch
 rennshop-wuethrich.ch
 rennshop.ch
@@ -23112,6 +23121,7 @@ renobureau.ch
 renocare.ch
 renocasa.ch
 renoch.ch
+renochalet.ch
 renocity.ch
 renoclean.ch
 renocomfort.ch
@@ -24688,6 +24698,7 @@ rentasenior.ch
 rentaseniordoc.ch
 rentaserver.ch
 rentaservice.ch
+rentasessel.ch
 rentashape.ch
 rentashop.ch
 rentashop24.ch
@@ -27910,7 +27921,6 @@ residence-beaulieu.ch
 residence-beaurivage.ch
 residence-bellevue.ch
 residence-belvedere.ch
-residence-berges.ch
 residence-brig-glis.ch
 residence-californiaparc.ch
 residence-cappella.ch
@@ -28848,7 +28858,6 @@ resin-momorials.ch
 resin.ch
 resina.ch
 resinaa.ch
-resinacademy.ch
 resinafiorata.ch
 resinag.ch
 resinart-coaching.ch
@@ -28891,7 +28900,6 @@ resinov.ch
 resinpro.ch
 resinshine.ch
 resinsol.ch
-resinstone.ch
 resinsurface.ch
 resinswiss.ch
 resint.ch
@@ -28964,7 +28972,6 @@ resj.ch
 resju21.ch
 resk-u.ch
 resk.ch
-reskay.ch
 reskessler.ch
 reskilling.ch
 reskillwangen.ch
@@ -30713,7 +30720,6 @@ restaurant-gormund.ch
 restaurant-gotschna.ch
 restaurant-gotthard-thalwil.ch
 restaurant-gotthard.ch
-restaurant-gourman-bahnhof.ch
 restaurant-gourmand.ch
 restaurant-gourmet.ch
 restaurant-grange.ch
@@ -30832,7 +30838,6 @@ restaurant-iheimisch.ch
 restaurant-il-gabbiano.ch
 restaurant-il-gusto.ch
 restaurant-il-sogno.ch
-restaurant-ilge-arnegg.ch
 restaurant-ilge.ch
 restaurant-ilgrappolo.ch
 restaurant-ilpantheon.ch
@@ -30906,6 +30911,7 @@ restaurant-kashmir-vevey.ch
 restaurant-kashmir.ch
 restaurant-kastanie.ch
 restaurant-kastanienbaum.ch
+restaurant-kek.ch
 restaurant-khathathai.ch
 restaurant-kienberg.ch
 restaurant-kiesfang.ch
@@ -33870,7 +33876,6 @@ restposten-web.ch
 restposten.ch
 restposten24.ch
 restpostenartikel.ch
-restpostenco.ch
 restpostendepot.ch
 restpostendirekt.ch
 restpostenking.ch
@@ -34219,6 +34224,7 @@ retailraketen.ch
 retailrank.ch
 retailrenaultgroup.ch
 retailrentcollect.ch
+retailrockstars.ch
 retailscout.ch
 retailservices.ch
 retailshop.ch
@@ -36174,6 +36180,7 @@ reussirenbitcoin.ch
 reussirenbourse.ch
 reussirencrypto.ch
 reussirmagrossesse.ch
+reussirsavie.ch
 reussirsonafa.ch
 reussirsonbusiness.ch
 reussis-ta-formation.ch
@@ -36923,6 +36930,7 @@ revierclub.ch
 revierdienst.ch
 reviereinrichtung.ch
 revierennenda.ch
+reviergold.ch
 revierhotel.ch
 revierhotels.ch
 revierjagd-aargau.ch

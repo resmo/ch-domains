@@ -3517,7 +3517,6 @@ deep-turtle-travel.ch
 deep-turtle.ch
 deep-vision.ch
 deep-water.ch
-deep-wave-sounds.ch
 deep-wealth.ch
 deep-white-black.ch
 deep.ch
@@ -3960,7 +3959,6 @@ deepwater.ch
 deepwatermt.ch
 deepwaterrunning.ch
 deepwave.ch
-deepwavesounds.ch
 deepwealth.ch
 deepwear.ch
 deepwhiteblack.ch
@@ -6220,6 +6218,7 @@ deine-steuervorteile.ch
 deine-stimme.ch
 deine-stoffwechselkur.ch
 deine-story.ch
+deine-strahlkraft.ch
 deine-stress-hilfe.ch
 deine-tantra-reise.ch
 deine-terrasse.ch
@@ -6394,7 +6393,6 @@ deinegravur-24.ch
 deinegravur.ch
 deinegravur24.ch
 deinegutscheine.ch
-deinehandelsausbildung.ch
 deinehaushalterin.ch
 deinehebamme.ch
 deinehebammen.ch
@@ -6436,7 +6434,6 @@ deinejuweliere.ch
 deinekanti.ch
 deinekarriere.ch
 deinekarte.ch
-deinekatze.ch
 deinekerze.ch
 deineki.ch
 deinekita.ch
@@ -6486,6 +6483,7 @@ deinemarketingpower.ch
 deinemasssge.ch
 deinemeine.ch
 deinemeinung.ch
+deinemeinungzaehlt.ch
 deinemigros.ch
 deinemlebenzuliebe.ch
 deinemobiliar.ch
@@ -6982,6 +6980,7 @@ deinlenkrad.ch
 deinlerncoach.ch
 deinlernweg.ch
 deinletztesbuch.ch
+deinleuchtturm.ch
 deinlichtesohr.ch
 deinlieblingsduft.ch
 deinlieblingsfahrlehrer.ch
@@ -7497,7 +7496,6 @@ deinzaun.ch
 deinzeitfenster.ch
 deinzeitraum.ch
 deinzev.ch
-deinziel.ch
 deinzimmer.ch
 deinzuerisee.ch
 deinzuhause.ch
@@ -8122,7 +8120,6 @@ dekowelt.ch
 dekowerk.ch
 dekowerker.ch
 dekowerkstatt.ch
-dekowichtelburg.ch
 dekowoerner.ch
 dekowunder.ch
 dekoyourhome.ch
@@ -8910,6 +8907,7 @@ delices-crete-a-loeil.ch
 delices-de-caux.ch
 delices-de-cecile.ch
 delices-de-vila.ch
+delices-deisy.ch
 delices-des-mots.ch
 delices-et-snacks.ch
 delices-express-bulle.ch
@@ -10835,7 +10833,6 @@ demaceimmobilier.ch
 demachauffage.ch
 demaco.ch
 demacoat.ch
-demacom.ch
 demacor.ch
 demaddalena.ch
 demadent.ch
@@ -11557,7 +11554,6 @@ demi-knup.ch
 demi-lune.ch
 demi-mondaine.ch
 demi-pair.ch
-demi-print.ch
 demi-reinigung.ch
 demi-sang.ch
 demi-tarif.ch
@@ -12389,7 +12385,6 @@ denica.ch
 denicekreativ.ch
 denicheur-de-solution.ch
 denicheur-de-solutions.ch
-denicheur.ch
 denicheurdesolution.ch
 denicheurdesolutions.ch
 denicheuse.ch
@@ -12973,8 +12968,6 @@ denkmalwohnen.ch
 denkmalzeit.ch
 denkmaschine.ch
 denkmaschinen.ch
-denkmaterial.ch
-denkmatherial.ch
 denkmit.ch
 denkmotor.ch
 denkmuster.ch
@@ -13902,6 +13895,7 @@ dentalhygiene24.ch
 dentalhygiene4u.ch
 dentalhygienebern.ch
 dentalhygienebrunnen.ch
+dentalhygienechur.ch
 dentalhygienegrenchen.ch
 dentalhygienekatsoulis.ch
 dentalhygienekirchenfeld.ch
@@ -16834,7 +16828,6 @@ deraugenklick.ch
 deraugenoptiker.ch
 deraugenretter.ch
 derausflug.ch
-derauslander.ch
 derausloeser.ch
 derautofinder.ch
 derautomobilhistoriker.ch
@@ -20728,6 +20721,7 @@ designberaterin.ch
 designbest.ch
 designbestseller.ch
 designbewerbung.ch
+designbewertung.ch
 designbibliothek.ch
 designbiennalezurich.ch
 designbijou.ch
@@ -20760,6 +20754,7 @@ designbriefs.ch
 designbrillen.ch
 designbros.ch
 designbu.ch
+designbuch.ch
 designbude.ch
 designbuero.ch
 designbuffet.ch
@@ -21093,6 +21088,7 @@ designfaktor.ch
 designfankhauser.ch
 designfarm.ch
 designfederal.ch
+designfeedback.ch
 designfeld.ch
 designfenster.ch
 designferienhaus.ch
@@ -21211,6 +21207,7 @@ designiert.ch
 designify.ch
 designik.ch
 designimmobiliare.ch
+designimpact.ch
 designimraum.ch
 designin-webart.ch
 designinbusiness.ch
@@ -21334,6 +21331,7 @@ designmieten.ch
 designmind-space.ch
 designmind.ch
 designminze.ch
+designmitwirkung.ch
 designmobel.ch
 designmodell.ch
 designmodelle.ch
@@ -21608,6 +21606,8 @@ designteresse.ch
 designteressiert.ch
 designterm.ch
 designterminal.ch
+designtest.ch
+designtesten.ch
 designtextiles.ch
 designtheorie.ch
 designthink.ch
@@ -21672,7 +21672,6 @@ designverse.ch
 designviral.ch
 designvision.ch
 designvisuel.ch
-designvogelhaus.ch
 designvombeck.ch
 designvorhang.ch
 designvorlagen.ch
@@ -23474,6 +23473,7 @@ dettwiler-naturfotographie.ch
 dettwiler-partner.ch
 dettwiler-treuhand.ch
 dettwiler.ch
+dettwilerbau.ch
 dettwilerhandwerk.ch
 dettwilerholzbau.ch
 dettwilerlaw.ch
@@ -24881,6 +24881,7 @@ devis-charpente.ch
 devis-chauffage.ch
 devis-chauffages.ch
 devis-cheminee.ch
+devis-construction-metallique.ch
 devis-construction.ch
 devis-crepis.ch
 devis-cuisine.ch
@@ -25058,12 +25059,16 @@ devisnettoyage.ch
 devisnettoyages.ch
 devisol.ch
 devisolaire.ch
+devispanneausolaire.ch
+devispanneauxphotovoltaique.ch
+devispanneauxphotovoltaiques.ch
 devispanneauxsolaires.ch
 devispasi.ch
 devispeinture.ch
 devispergola.ch
 devisplus.ch
 devispme.ch
+devispompeachaleur.ch
 devispool.ch
 devisramassage.ch
 devisrapide.ch
