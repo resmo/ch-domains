@@ -247,7 +247,6 @@ ch-ic.ch
 ch-id.ch
 ch-igg.ch
 ch-im.ch
-ch-image.ch
 ch-imbex.ch
 ch-immo-gmbh.ch
 ch-immoag.ch
@@ -281,6 +280,7 @@ ch-journal.ch
 ch-journalismus.ch
 ch-jugend2wk.ch
 ch-k.ch
+ch-k9.ch
 ch-kaese.ch
 ch-kanalservice.ch
 ch-keramik.ch
@@ -2471,6 +2471,7 @@ chaletclairette.ch
 chaletclapotis.ch
 chaletcleaning.ch
 chaletcleaningkultur.ch
+chaletco.ch
 chaletcocolenk.ch
 chaletcollmod.ch
 chaletcolombe.ch
@@ -4751,7 +4752,6 @@ chanteur.ch
 chanteurs-a-l-etoile.ch
 chanteurs-etoile.ch
 chanteurs-genevois.ch
-chanteurs.ch
 chanteursaletoile.ch
 chantevigne.ch
 chanthaburi.ch
@@ -4821,7 +4821,6 @@ chantmicheldumonthay.ch
 chantoiseau.ch
 chanton-wannenwechsel.ch
 chanton-weine.ch
-chanton-yachting.ch
 chanton.ch
 chantonracingschool.ch
 chantons-en-corps.ch
@@ -5342,6 +5341,7 @@ charbagh.ch
 charbel.ch
 charbelnemnom.ch
 charbelnimatullah.ch
+charbogen.ch
 charbon-cafe.ch
 charbon-vegetal-suisse.ch
 charbonnet-chirurgie-geneve.ch
@@ -5451,7 +5451,6 @@ chargeconsult.ch
 chargecontrol.ch
 chargedemission.ch
 chargedrive.ch
-chargee.ch
 chargeeasy.ch
 chargeee.ch
 chargefinder.ch
@@ -5707,6 +5706,7 @@ charle-e.ch
 charleditte.ch
 charleen.ch
 charleenbretteville.ch
+charleentschirky.ch
 charleliecostumes.ch
 charlemagne.ch
 charlene-dosch.ch
@@ -6349,6 +6349,7 @@ charpente-expertise.ch
 charpente-farmwood.ch
 charpente-forster.ch
 charpente-gaidon-geneve.ch
+charpente-geneve.ch
 charpente-kurth.ch
 charpente-menuiserie-kimmeier.ch
 charpente-menuiserie.ch
@@ -7273,7 +7274,6 @@ chateaudiadem.ch
 chateaudiademe.ch
 chateaudif.ch
 chateaudoex-admin.ch
-chateaudoex-kendo.ch
 chateaudoex-tech.ch
 chateaudoex.ch
 chateaudoexresidence.ch
@@ -7614,7 +7614,6 @@ chatpitre2.ch
 chatplane.ch
 chatplanepourmoi.ch
 chatplanner.ch
-chatpoint.ch
 chatprint.ch
 chatpro.ch
 chatproprete.ch
@@ -7808,7 +7807,6 @@ chaudiere.ch
 chaudieres-gaz.ch
 chaudieres.ch
 chaudlapin.ch
-chaudpost.ch
 chaudron-hewyn.ch
 chaudron.ch
 chaudrondesmots.ch
@@ -12005,6 +12003,7 @@ chf-retten.ch
 chf-trust.ch
 chf-umrechner.ch
 chf.ch
+chf1.ch
 chf24.ch
 chf5.ch
 chfa-swiss.ch
@@ -12043,6 +12042,7 @@ chfleisch.ch
 chflury.ch
 chfm.ch
 chfo.ch
+chfone.ch
 chfonline.ch
 chform.ch
 chforyou.ch
@@ -12899,7 +12899,6 @@ chiemsee-light.ch
 chiemsee-media.ch
 chiemsee.ch
 chiemseelight-swiss.ch
-chiemseelight.ch
 chiemseelightswiss.ch
 chien-agility.ch
 chien-bleu.ch
@@ -12939,7 +12938,6 @@ chienergy.ch
 chienetchat.ch
 chienetloup.ch
 chienguide.ch
-chienne.ch
 chiennormandie.ch
 chienperdu.ch
 chienreactif.ch
@@ -13444,6 +13442,7 @@ chili-sprachaufenthalte.ch
 chili-srk.ch
 chili-storage.ch
 chili-tales.ch
+chili-training.ch
 chili-tv.ch
 chili-vo-hie.ch
 chili-world.ch
@@ -13550,6 +13549,7 @@ chilithemiez-catsitting.ch
 chilithemiez.ch
 chilito.ch
 chilitony.ch
+chilitraining.ch
 chilivohie.ch
 chiliway.ch
 chiliweb.ch
@@ -14550,7 +14550,6 @@ chinfa.ch
 chinfo-consulting.ch
 chinfo.ch
 chinformatica.ch
-ching.ch
 chingcura-tcm.ch
 chingenieure.ch
 chinggis.ch
@@ -14804,7 +14803,6 @@ chipz.ch
 chiq.ch
 chiqo.ch
 chiqos.ch
-chique.ch
 chiquelefrique.ch
 chiquenaude.ch
 chiquet-allround.ch
@@ -16763,7 +16761,6 @@ chocolate-warfare.ch
 chocolate-world.ch
 chocolate.ch
 chocolate3.ch
-chocolate4you.ch
 chocolateacademy.ch
 chocolateandcheese.ch
 chocolateandrain.ch

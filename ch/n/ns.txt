@@ -838,7 +838,6 @@ ns1.alixon.ch
 ns1.alkantara.ch
 ns1.alletta.ch
 ns1.allforhosting.ch
-ns1.alliance-citoyenne.ch
 ns1.allsense.ch
 ns1.allsports.ch
 ns1.allstore.ch
@@ -850,7 +849,6 @@ ns1.alphanet.ch
 ns1.alphaoffice.ch
 ns1.alphaomega-kinesiologie.ch
 ns1.alphetechnology.ch
-ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpinehost.ch
@@ -1045,6 +1043,7 @@ ns1.bernmobil.ch
 ns1.besashopbiel.ch
 ns1.bestchoicemassagen.ch
 ns1.bestewimpernseren.ch
+ns1.bestsear.ch
 ns1.beta-solutions.ch
 ns1.betasolutions.ch
 ns1.beton-rc.ch
@@ -2072,6 +2071,7 @@ ns1.hostingbay.ch
 ns1.hostingphp.ch
 ns1.hostingplatform.igzeit.ch
 ns1.hostkonzept.ch
+ns1.hostlearn.ch
 ns1.hostmamba.ch
 ns1.hostmedia.ch
 ns1.hostnext.ch
@@ -3736,6 +3736,7 @@ ns1.tsnet.ch
 ns1.tsolis.ch
 ns1.tstaeuble.ch
 ns1.ttcgrauholz.ch
+ns1.tubenet.ch
 ns1.tup-cloud.ch
 ns1.turbobit.ch
 ns1.tvwiedikon.ch
@@ -4242,7 +4243,6 @@ ns2.alixon.ch
 ns2.alkantara.ch
 ns2.alletta.ch
 ns2.allforhosting.ch
-ns2.alliance-citoyenne.ch
 ns2.allsense.ch
 ns2.allsports.ch
 ns2.allstore.ch
@@ -4253,7 +4253,6 @@ ns2.alphabeta-hosting.ch
 ns2.alphanet.ch
 ns2.alphaoffice.ch
 ns2.alphetechnology.ch
-ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpinehost.ch
@@ -4449,6 +4448,7 @@ ns2.bernmobil.ch
 ns2.besashopbiel.ch
 ns2.bestchoicemassagen.ch
 ns2.bestewimpernseren.ch
+ns2.bestsear.ch
 ns2.beta-solutions.ch
 ns2.betasolutions.ch
 ns2.beton-rc.ch
@@ -5429,6 +5429,7 @@ ns2.hostingphp.ch
 ns2.hostingplatform.igzeit.ch
 ns2.hostings.ch
 ns2.hostkonzept.ch
+ns2.hostlearn.ch
 ns2.hostmamba.ch
 ns2.hostmedia.ch
 ns2.hostnext.ch
@@ -7034,6 +7035,7 @@ ns2.tsnet.ch
 ns2.tsolis.ch
 ns2.tstaeuble.ch
 ns2.ttcgrauholz.ch
+ns2.tubenet.ch
 ns2.tup-cloud.ch
 ns2.turbobit.ch
 ns2.tvwiedikon.ch
@@ -7461,6 +7463,7 @@ ns3.bensolution.ch
 ns3.bergerhome.ch
 ns3.bergnetz.ch
 ns3.bergtouren.ch
+ns3.bestsear.ch
 ns3.bettens.ch
 ns3.bger.ch
 ns3.biehler-stiftungen.ch
@@ -7693,6 +7696,7 @@ ns3.hostgarden.ch
 ns3.hostghost.ch
 ns3.hosting-power.ch
 ns3.hostingphp.ch
+ns3.hostlearn.ch
 ns3.hostmamba.ch
 ns3.hostone.ch
 ns3.hostplace.ch
@@ -8784,6 +8788,7 @@ nsjass.ch
 nsjewellery.ch
 nsjkonzerte.ch
 nsk-ag.ch
+nsk-krebsstrategie.ch
 nsk-rhp.ch
 nsk-swiss.ch
 nsk.ch
