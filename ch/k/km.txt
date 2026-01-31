@@ -255,7 +255,6 @@ kmipro.ch
 kmis.ch
 kmiscope.ch
 kmit.ch
-kmitchell.ch
 kmiweb.ch
 kmizue.ch
 kmk-catering.ch
@@ -488,12 +487,14 @@ kmu-backoffice.ch
 kmu-backup.ch
 kmu-barometer.ch
 kmu-base.ch
+kmu-bausoftware.ch
 kmu-be.ch
 kmu-beats.ch
 kmu-bedarf.ch
 kmu-begleiter.ch
 kmu-begleitung.ch
 kmu-beirat.ch
+kmu-benchmark.ch
 kmu-benefit.ch
 kmu-berater.ch
 kmu-beratung-online.ch
@@ -535,6 +536,7 @@ kmu-business-technology.ch
 kmu-business.ch
 kmu-businessmentor.ch
 kmu-businessworld.ch
+kmu-butler.ch
 kmu-cafe.ch
 kmu-callcenter.ch
 kmu-callin.ch
@@ -705,6 +707,7 @@ kmu-informatik-support.ch
 kmu-informatik.ch
 kmu-informatik24.ch
 kmu-informationssicherheit.ch
+kmu-infos.ch
 kmu-innovation.ch
 kmu-inputs.ch
 kmu-insider.ch
@@ -1179,6 +1182,7 @@ kmucfo.ch
 kmucheck.ch
 kmucheckupnachhaltigkeit.ch
 kmucio.ch
+kmucity.ch
 kmuclima.ch
 kmucloud.ch
 kmuclub-winterthur.ch
@@ -1541,6 +1545,7 @@ kmustrategie.ch
 kmustrategieberater.ch
 kmustrategy.ch
 kmustudie.ch
+kmustudio.ch
 kmusuccess.ch
 kmusuisse.ch
 kmusuite.ch
@@ -1626,6 +1631,7 @@ kmuwb.ch
 kmuweb.ch
 kmuwebagentur.ch
 kmuwebbox.ch
+kmuwebcoach.ch
 kmuwebseite.ch
 kmuwebseiten.ch
 kmuwebservice.ch

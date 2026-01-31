@@ -838,6 +838,7 @@ ns1.alixon.ch
 ns1.alkantara.ch
 ns1.alletta.ch
 ns1.allforhosting.ch
+ns1.alliance-citoyenne.ch
 ns1.allsense.ch
 ns1.allsports.ch
 ns1.allstore.ch
@@ -849,6 +850,7 @@ ns1.alphanet.ch
 ns1.alphaoffice.ch
 ns1.alphaomega-kinesiologie.ch
 ns1.alphetechnology.ch
+ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpinehost.ch
@@ -1005,7 +1007,6 @@ ns1.bboxbbs.ch
 ns1.bbx.ch
 ns1.bbz.ch
 ns1.bc-net.ch
-ns1.bcnsfw.ch
 ns1.bcts.ch
 ns1.bcv.ch
 ns1.bcws.ch
@@ -1198,7 +1199,6 @@ ns1.captns.ch
 ns1.caracal.ch
 ns1.carmenlofino.ch
 ns1.carolineferriol.ch
-ns1.carpetarian.ch
 ns1.carreview.ch
 ns1.carrosseriedesnations.ch
 ns1.carspace.ch
@@ -1669,6 +1669,7 @@ ns1.epfltest.ch
 ns1.epicte.ch
 ns1.erdbeerpflanzen.ch
 ns1.erdgeist.ch
+ns1.ergia.ch
 ns1.ergocrp.ch
 ns1.erst-ict.ch
 ns1.ervocom.ch
@@ -2071,13 +2072,11 @@ ns1.hostingbay.ch
 ns1.hostingphp.ch
 ns1.hostingplatform.igzeit.ch
 ns1.hostkonzept.ch
-ns1.hostlearn.ch
 ns1.hostmamba.ch
 ns1.hostmedia.ch
 ns1.hostnext.ch
 ns1.hostone.ch
 ns1.hostorama.ch
-ns1.hostoria.ch
 ns1.hostpiumedia.ch
 ns1.hostplace.ch
 ns1.hostplex.ch
@@ -2567,7 +2566,6 @@ ns1.mathieu-renovation.ch
 ns1.maths-partner.ch
 ns1.matrixserver.ch
 ns1.matrixx.ch
-ns1.mattba.ch
 ns1.matti-consulting.ch
 ns1.mavillemespromos.ch
 ns1.maxbit.ch
@@ -2930,7 +2928,6 @@ ns1.pageup.ch
 ns1.pamplemousse.ch
 ns1.pandapic.ch
 ns1.pannel.ch
-ns1.pans-web.ch
 ns1.panthere.ch
 ns1.papenetdns.ch
 ns1.papierart.ch
@@ -3196,6 +3193,7 @@ ns1.restaurant-laversoix.ch
 ns1.restaurant-les-voyageurs.ch
 ns1.restaurant-schlosserei.ch
 ns1.restaurant-story.ch
+ns1.restaurantlatourcarree.ch
 ns1.restolapiazza.ch
 ns1.resval.ch
 ns1.reviol.ch
@@ -3947,13 +3945,11 @@ ns1.winzer-hosting.ch
 ns1.wir-koennen-alles.ch
 ns1.wireframe.ch
 ns1.wirelessforum.ch
-ns1.wish-consult.ch
 ns1.wisiweb.ch
 ns1.withweb.ch
 ns1.wivart.ch
 ns1.wiweb.ch
 ns1.wizonet.ch
-ns1.wking-hosting.ch
 ns1.wly.ch
 ns1.wm-sherifi.ch
 ns1.wmx.ch
@@ -4243,6 +4239,7 @@ ns2.alixon.ch
 ns2.alkantara.ch
 ns2.alletta.ch
 ns2.allforhosting.ch
+ns2.alliance-citoyenne.ch
 ns2.allsense.ch
 ns2.allsports.ch
 ns2.allstore.ch
@@ -4253,6 +4250,7 @@ ns2.alphabeta-hosting.ch
 ns2.alphanet.ch
 ns2.alphaoffice.ch
 ns2.alphetechnology.ch
+ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpinehost.ch
@@ -4410,7 +4408,6 @@ ns2.bbiconstruct.ch
 ns2.bboxbbs.ch
 ns2.bbz.ch
 ns2.bc-net.ch
-ns2.bcnsfw.ch
 ns2.bcts.ch
 ns2.bcv.ch
 ns2.bcws.ch
@@ -4593,7 +4590,6 @@ ns2.caracal.ch
 ns2.carlifting.ch
 ns2.carmenlofino.ch
 ns2.carolineferriol.ch
-ns2.carpetarian.ch
 ns2.carreview.ch
 ns2.carrosseriedesnations.ch
 ns2.carspace.ch
@@ -5041,6 +5037,7 @@ ns2.epfltest.ch
 ns2.epicte.ch
 ns2.erdbeerpflanzen.ch
 ns2.erdgeist.ch
+ns2.ergia.ch
 ns2.ergocrp.ch
 ns2.erst-ict.ch
 ns2.ervocom.ch
@@ -5429,13 +5426,11 @@ ns2.hostingphp.ch
 ns2.hostingplatform.igzeit.ch
 ns2.hostings.ch
 ns2.hostkonzept.ch
-ns2.hostlearn.ch
 ns2.hostmamba.ch
 ns2.hostmedia.ch
 ns2.hostnext.ch
 ns2.hostone.ch
 ns2.hostorama.ch
-ns2.hostoria.ch
 ns2.hostpiumedia.ch
 ns2.hostplace.ch
 ns2.hostplex.ch
@@ -5907,7 +5902,6 @@ ns2.mathieu-renovation.ch
 ns2.maths-partner.ch
 ns2.matrixserver.ch
 ns2.matrixx.ch
-ns2.mattba.ch
 ns2.matti-consulting.ch
 ns2.mavillemespromos.ch
 ns2.maxbit.ch
@@ -6242,7 +6236,6 @@ ns2.pagecontrol.ch
 ns2.pagemacher.ch
 ns2.pagestyle.ch
 ns2.pannel.ch
-ns2.pans-web.ch
 ns2.papenetdns.ch
 ns2.paraplegie.ch
 ns2.parfumaktion.ch
@@ -6498,6 +6491,7 @@ ns2.restaurant-laversoix.ch
 ns2.restaurant-les-voyageurs.ch
 ns2.restaurant-schlosserei.ch
 ns2.restaurant-story.ch
+ns2.restaurantlatourcarree.ch
 ns2.restolapiazza.ch
 ns2.resval.ch
 ns2.reviol.ch
@@ -7239,11 +7233,9 @@ ns2.winzer-hosting.ch
 ns2.wir-koennen-alles.ch
 ns2.wireframe.ch
 ns2.wirelessforum.ch
-ns2.wish-consult.ch
 ns2.wisiweb.ch
 ns2.wivart.ch
 ns2.wiweb.ch
-ns2.wking-hosting.ch
 ns2.wly.ch
 ns2.wm-sherifi.ch
 ns2.wmx.ch
@@ -7696,7 +7688,6 @@ ns3.hostgarden.ch
 ns3.hostghost.ch
 ns3.hosting-power.ch
 ns3.hostingphp.ch
-ns3.hostlearn.ch
 ns3.hostmamba.ch
 ns3.hostone.ch
 ns3.hostplace.ch
