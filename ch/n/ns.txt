@@ -233,7 +233,6 @@ ns.forapi.ch
 ns.fotomorgana.ch
 ns.freewifi.ch
 ns.freizeitmobilestucki.ch
-ns.freudesenden.ch
 ns.friede.ch
 ns.frogtime.ch
 ns.gamingfederation.ch
@@ -543,7 +542,6 @@ ns0.kaworu.ch
 ns0.kscag.ch
 ns0.leegroup.ch
 ns0.mietauto24.ch
-ns0.mtf-ti-dns.ch
 ns0.nast.ch
 ns0.nettvplus.ch
 ns0.prosecure.ch
@@ -854,7 +852,6 @@ ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpinehost.ch
-ns1.alpineplesk.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
 ns1.alvarez-it.ch
@@ -1386,7 +1383,6 @@ ns1.ctfsystem.ch
 ns1.cuandu.ch
 ns1.cubic.ch
 ns1.cuernavaca.ch
-ns1.cundn.ch
 ns1.cupgift.ch
 ns1.curaden-hosting.ch
 ns1.curiaweb.ch
@@ -2282,6 +2278,7 @@ ns1.jamieshosting.ch
 ns1.jamira.ch
 ns1.jandata.ch
 ns1.jasnamarekovic.ch
+ns1.javadi.ch
 ns1.jdns.ch
 ns1.jean-marc-yersin.ch
 ns1.jemeteste.ch
@@ -2685,7 +2682,6 @@ ns1.msd-informatik.ch
 ns1.mso.ch
 ns1.msp-creative.ch
 ns1.mtcomp.ch
-ns1.mtf-ti-dns.ch
 ns1.mtfcloud.ch
 ns1.mtsikhanovi.ch
 ns1.mttv-oberwald.ch
@@ -2820,6 +2816,7 @@ ns1.nordenscene.ch
 ns1.nordlandweb.ch
 ns1.nordmedia.ch
 ns1.notfalltraining.ch
+ns1.novaci-conseil.ch
 ns1.novamanaged.ch
 ns1.novaweb.ch
 ns1.novicomag.ch
@@ -4254,7 +4251,6 @@ ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpinehost.ch
-ns2.alpineplesk.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
 ns2.alvarez-it.ch
@@ -4777,7 +4773,6 @@ ns2.cste.ch
 ns2.ctfsystem.ch
 ns2.cuandu.ch
 ns2.cubic.ch
-ns2.cundn.ch
 ns2.cupgift.ch
 ns2.curaden-hosting.ch
 ns2.curiaweb.ch
@@ -5632,6 +5627,7 @@ ns2.jamhosting2.ch
 ns2.jamieshosting.ch
 ns2.jamira.ch
 ns2.jandata.ch
+ns2.javadi.ch
 ns2.jdns.ch
 ns2.jean-marc-yersin.ch
 ns2.jemeteste.ch
@@ -6012,7 +6008,6 @@ ns2.mso.ch
 ns2.msp-creative.ch
 ns2.msrv.ch
 ns2.mtcomp.ch
-ns2.mtf-ti-dns.ch
 ns2.mtfcloud.ch
 ns2.mtsikhanovi.ch
 ns2.mttv-oberwald.ch
@@ -6134,6 +6129,7 @@ ns2.nopixel.ch
 ns2.nordenscene.ch
 ns2.nordlandweb.ch
 ns2.nordmedia.ch
+ns2.novaci-conseil.ch
 ns2.novahosting.ch
 ns2.novamanaged.ch
 ns2.novaweb.ch
@@ -7828,7 +7824,6 @@ ns3.mrpage.ch
 ns3.mrwood.ch
 ns3.ms-swiss.ch
 ns3.msd-informatik.ch
-ns3.mtf-ti-dns.ch
 ns3.mtfcloud.ch
 ns3.muellerpc.ch
 ns3.mule.ch
@@ -8314,7 +8309,6 @@ ns4.modekosmetik.ch
 ns4.motorlegendswiss.ch
 ns4.ms-swiss.ch
 ns4.msa-net.ch
-ns4.mtf-ti-dns.ch
 ns4.my-namaste.ch
 ns4.namemaster.ch
 ns4.navacoaching.ch

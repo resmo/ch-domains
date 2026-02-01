@@ -910,6 +910,7 @@ dialog-familie.ch
 dialog-fuehrung.ch
 dialog-gesundheit.ch
 dialog-hund-mensch.ch
+dialog-hund.ch
 dialog-in-wort-und-bild.ch
 dialog-integration.ch
 dialog-kinesiologie.ch
@@ -1001,6 +1002,7 @@ dialogholzbau.ch
 dialoghotel-eckstein.ch
 dialoghotel.ch
 dialoghub.ch
+dialoghund.ch
 dialogi.ch
 dialogia.ch
 dialogic.ch
@@ -3554,6 +3556,7 @@ die-dreizehnte-fee.ch
 die-dritte-seite.ch
 die-drogerie.ch
 die-drogistin.ch
+die-druckerei.ch
 die-druckereien.ch
 die-druckwerker.ch
 die-druidin.ch
@@ -4045,6 +4048,7 @@ die-it-weisen.ch
 die-it.ch
 die-jacots.ch
 die-jaeger.ch
+die-job-hackerin.ch
 die-jobmacher.ch
 die-jugendherberge.ch
 die-jugendherbergen.ch
@@ -7753,7 +7757,6 @@ dienstleistung-strafregisterauszug.ch
 dienstleistung.ch
 dienstleistungaa.ch
 dienstleistungaufzeit.ch
-dienstleistungen-24.ch
 dienstleistungen-aller-art.ch
 dienstleistungen-alphaomega.ch
 dienstleistungen-bern.ch
@@ -8405,7 +8408,6 @@ dieschweizerimmobilien.ch
 dieschweizerin.ch
 dieschweizerischepost.ch
 dieschweizerischepostag.ch
-dieschweizerkanone.ch
 dieschweizernische.ch
 dieschweizerrecycler.ch
 dieschweizerriesen.ch
@@ -9079,6 +9081,7 @@ dietista.ch
 dietitianadvice.ch
 dietkebecker.ch
 dietl.ch
+dietland-osint.ch
 dietland.ch
 dietlenberger.ch
 dietlepartner.ch
@@ -10011,6 +10014,7 @@ digem.ch
 digema.ch
 digemo.ch
 digen.ch
+digena.ch
 digencia.ch
 digenda.ch
 digene.ch
@@ -10470,7 +10474,6 @@ digifood.ch
 digifor-test.ch
 digifor.ch
 digiforce.ch
-digiforge.ch
 digiforlab.ch
 digifoti.ch
 digifoto-art.ch
@@ -10612,7 +10615,6 @@ digimarktplatz24.ch
 digimart.ch
 digimas.ch
 digimass.ch
-digimaster-kurse.ch
 digimat-x.ch
 digimat.ch
 digimatch.ch
@@ -10811,7 +10813,6 @@ digiradio.ch
 digirank.ch
 digiraptor.ch
 digiraum.ch
-digiray.ch
 digireade-book.ch
 digireal.ch
 digirealty.ch
@@ -11185,6 +11186,7 @@ digital-collaboration.ch
 digital-com.ch
 digital-commerce-award.ch
 digital-commerce-conference.ch
+digital-commerce-studio.ch
 digital-commerce.ch
 digital-commons.ch
 digital-communication.ch
@@ -12227,7 +12229,6 @@ digitalbewerbungsfoto.ch
 digitalbewusst.ch
 digitalbezirk.ch
 digitalbikelab.ch
-digitalbikes.ch
 digitalbild.ch
 digitalbilder.ch
 digitalbildung.ch
@@ -12385,6 +12386,7 @@ digitalcom.ch
 digitalcombatsimulator.ch
 digitalcommerce.ch
 digitalcommercebyandriana.ch
+digitalcommercestudio.ch
 digitalcommission.ch
 digitalcommunication.ch
 digitalcommunity.ch
@@ -12636,7 +12638,6 @@ digitale-essensmarken.ch
 digitale-eule.ch
 digitale-events.ch
 digitale-exzellenz.ch
-digitale-fabrik.ch
 digitale-fahrschule.ch
 digitale-feder.ch
 digitale-finanzberatung.ch
@@ -14756,6 +14757,7 @@ digitalxray.ch
 digitalxrayvet.ch
 digitaly.ch
 digitalyou.ch
+digitalys.ch
 digitalyse.ch
 digitalyz.ch
 digitalz.ch
@@ -16092,7 +16094,6 @@ dimomusic.ch
 dimon.ch
 dimonaco.ch
 dimoncello.ch
-dimoncontrols.ch
 dimondo.ch
 dimonte-bulldogs.ch
 dimontonateswiss.ch
@@ -16565,6 +16566,7 @@ dini-area.ch
 dini-associes.ch
 dini-bikini.ch
 dini-box.ch
+dini-bude.ch
 dini-bvg.ch
 dini-chance.ch
 dini-chappot.ch
@@ -16727,7 +16729,6 @@ dinis.ch
 dinisis.ch
 dinismeier.ch
 dinisoftware.ch
-dinistadt.ch
 dinistartbox.ch
 dinistoren.ch
 dinistube.ch
@@ -17006,7 +17007,6 @@ dinosbau.ch
 dinosbauag.ch
 dinoservice.ch
 dinoseum.ch
-dinoshop.ch
 dinosindoorspielplatz.ch
 dinositalia.ch
 dinoskinderspielplatz.ch
@@ -17617,7 +17617,6 @@ dippedfling.ch
 dippel.ch
 dippelconsulting.ch
 dipper.ch
-dipperei.ch
 dipperfox.ch
 dipphosting.ch
 dippies.ch
@@ -18673,6 +18672,7 @@ dis-gschenk.ch
 dis-gschichtli.ch
 dis-gt.ch
 dis-informatique.ch
+dis-mami.ch
 dis-moi-plus.ch
 dis-moi.ch
 dis-oui.ch
@@ -19473,7 +19473,6 @@ disentis.ch
 disentis24.ch
 disentis3000.ch
 disentiser-hof.ch
-disentiser.ch
 disentissedrun.ch
 disenyo.ch
 diseo.ch
@@ -19543,6 +19542,7 @@ dishuus.ch
 dishwasher.ch
 dishy.ch
 disi-creation.ch
+disi-keramik.ch
 disi-motors.ch
 disi-relocations.ch
 disi-umzug.ch
@@ -20333,7 +20333,6 @@ distinctivedots.ch
 distinctivetrademarks.ch
 distinga-advisory.ch
 distinga.ch
-distingo.ch
 distinguee.ch
 distinguo.ch
 distino.ch
@@ -21490,6 +21489,7 @@ divineimage.ch
 divinelingerie.ch
 divineliving.ch
 divinelogistika.ch
+divineloveandgratitude.ch
 divinelovetouch.ch
 divinement-parfume.ch
 divinementors.ch

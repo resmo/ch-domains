@@ -324,7 +324,6 @@ ccc-led.ch
 ccc-licht.ch
 ccc-ostschweiz.ch
 ccc-rheintal.ch
-ccc-schweiz.ch
 ccc-sg.ch
 ccc-stgallen.ch
 ccc-swiss.ch
@@ -718,7 +717,6 @@ ccleaner.ch
 ccleansolutions.ch
 ccled.ch
 ccleitstand.ch
-cclement.ch
 cclenk.ch
 cclens.ch
 cclerc.ch
@@ -1203,15 +1201,12 @@ ccvpay.ch
 ccvpromo.ch
 ccvsalespoint.ch
 ccvsalespos.ch
-ccvschweiz.ch
 ccvshop.ch
 ccvshopserver.ch
 ccvshopstatic.ch
 ccvsite.ch
-ccvsolution.ch
 ccvsservizi.ch
 ccvstore.ch
-ccvsuisse.ch
 ccvsvizzera.ch
 ccvweb.ch
 ccw-ag.ch

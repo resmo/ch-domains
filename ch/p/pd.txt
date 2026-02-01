@@ -83,7 +83,6 @@ pdc-events.ch
 pdc-ge.ch
 pdc-group.ch
 pdc-industries.ch
-pdc-lens.ch
 pdc-modulo-di-sistema.ch
 pdc-modulo-sistema.ch
 pdc-ne.ch
@@ -98,8 +97,6 @@ pdc-thonex.ch
 pdc-uri.ch
 pdc-vd.ch
 pdc-vevey.ch
-pdc-villars-sur-glane.ch
-pdc-vsg.ch
 pdc-xonline.ch
 pdc-xrelation.ch
 pdc.ch
