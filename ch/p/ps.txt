@@ -767,7 +767,6 @@ pseudonym.ch
 pseudonymanonym.ch
 pseudoraum.ch
 pseudoscience.ch
-pseudowissenschaft.ch
 psevents.ch
 pseyescan.ch
 psf-12.ch
@@ -846,7 +845,6 @@ psgz.ch
 psh-interior.ch
 psh-schweri.ch
 psh.ch
-pshare.ch
 pshcoaching.ch
 pshconstruction.ch
 pshealtcoaching.ch
@@ -2378,11 +2376,9 @@ psycho-therapie-basel.ch
 psycho-therapie-luzern.ch
 psycho-therapie-schweiz.ch
 psycho-therapie-sjeantet.ch
-psycho-therapie-zentrum.ch
 psycho-therapie-zug.ch
 psycho-therapie.ch
 psycho-therapien.ch
-psycho-therapiezentrum.ch
 psycho-wellness.ch
 psycho-zentrum.ch
 psycho.ch
@@ -2576,7 +2572,6 @@ psychologie-conseil.ch
 psychologie-cornaz.ch
 psychologie-cranio-vazquez-hess.ch
 psychologie-davos.ch
-psychologie-de-la-circulation.ch
 psychologie-eichenberger.ch
 psychologie-elianzuercher.ch
 psychologie-elke-gliese.ch
@@ -3125,6 +3120,7 @@ psychosyntheseschweiz.ch
 psychosynthesetherapie.ch
 psychosynthesis.ch
 psychosynthesisbooks.ch
+psychote.ch
 psychoteam.ch
 psychotechnique.ch
 psychotechnology.ch
@@ -3181,15 +3177,12 @@ psychotherapeutischepraxis-davos.ch
 psychotherapeutischepraxis.ch
 psychotherapeutisches-zentrum-balsthal.ch
 psychotherapeutisches-zentrum-thal.ch
-psychotherapeutisches-zentrum.ch
 psychotherapeutischesreiten.ch
-psychotherapeutischeszentrum.ch
 psychotherapeutluzern.ch
 psychotherapeutschweiz.ch
 psychotherapeutsteiner.ch
 psychotherapeutzuerich.ch
 psychotheraphie-zuerich.ch
-psychotherapi-zentrum.ch
 psychotherapie-3-lacs.ch
 psychotherapie-4p.ch
 psychotherapie-aarau.ch
@@ -3217,7 +3210,6 @@ psychotherapie-am-rosenberg.ch
 psychotherapie-am-see.ch
 psychotherapie-am-villenweg.ch
 psychotherapie-am-wasser.ch
-psychotherapie-am-zentrum.ch
 psychotherapie-ambass.ch
 psychotherapie-ambauen.ch
 psychotherapie-amccutchan.ch
@@ -3326,7 +3318,6 @@ psychotherapie-cavicchia.ch
 psychotherapie-celik.ch
 psychotherapie-celinaburger.ch
 psychotherapie-center.ch
-psychotherapie-centrum.ch
 psychotherapie-cetrefli.ch
 psychotherapie-chautems.ch
 psychotherapie-chiastra.ch
@@ -3537,9 +3528,7 @@ psychotherapie-hypnose.ch
 psychotherapie-ihde.ch
 psychotherapie-ikp.ch
 psychotherapie-im-alter.ch
-psychotherapie-im-center.ch
 psychotherapie-im-hier-und-jetzt.ch
-psychotherapie-im-zentrum.ch
 psychotherapie-imesch.ch
 psychotherapie-in-aarau.ch
 psychotherapie-in-baden.ch
@@ -3556,7 +3545,6 @@ psychotherapie-interpersonnelle.ch
 psychotherapie-iten.ch
 psychotherapie-itten.ch
 psychotherapie-jakob.ch
-psychotherapie-jeger.ch
 psychotherapie-jegerlehner.ch
 psychotherapie-jennygex-fabry.ch
 psychotherapie-jermann.ch
@@ -4002,12 +3990,9 @@ psychotherapie-yverdon.ch
 psychotherapie-yvikadler.ch
 psychotherapie-zbinden.ch
 psychotherapie-zeller.ch
-psychotherapie-zentren.ch
 psychotherapie-zentrum-bremgarten.ch
-psychotherapie-zentrum-gmbh.ch
 psychotherapie-zentrum-luzern.ch
 psychotherapie-zentrum.ch
-psychotherapie-zentrum24.ch
 psychotherapie-zernez.ch
 psychotherapie-zgraggen.ch
 psychotherapie-zh.ch
@@ -4045,7 +4030,6 @@ psychotherapieamgraben.ch
 psychotherapieamherd.ch
 psychotherapieamkino.ch
 psychotherapieamkurpark.ch
-psychotherapieamzentrum.ch
 psychotherapieanalytique.ch
 psychotherapieanordnung.ch
 psychotherapieausbildung.ch
@@ -4091,9 +4075,7 @@ psychotherapiehombrechtikon.ch
 psychotherapiehorgen.ch
 psychotherapiehorw.ch
 psychotherapiehotline.ch
-psychotherapieimcenter.ch
 psychotherapieimdorf.ch
-psychotherapieimzentrum.ch
 psychotherapieindavos.ch
 psychotherapieinzuerich.ch
 psychotherapiejantzen.ch
@@ -4156,7 +4138,6 @@ psychotherapiesursee.ch
 psychotherapiesystemique.ch
 psychotherapieszabo.ch
 psychotherapieteam.ch
-psychotherapiethalwil.ch
 psychotherapiethomi.ch
 psychotherapiethun.ch
 psychotherapiethurgau.ch
@@ -4175,25 +4156,15 @@ psychotherapiewil.ch
 psychotherapiewinterthur.ch
 psychotherapiewunderli.ch
 psychotherapiewyer.ch
-psychotherapiezentren.ch
 psychotherapiezentrum-basel.ch
 psychotherapiezentrum-biel.ch
 psychotherapiezentrum-fluntern.ch
-psychotherapiezentrum-gl.ch
 psychotherapiezentrum-glarus.ch
-psychotherapiezentrum-gmbh.ch
 psychotherapiezentrum-gr.ch
-psychotherapiezentrum-graubuenden.ch
-psychotherapiezentrum-schweiz.ch
-psychotherapiezentrum-schwyz.ch
 psychotherapiezentrum-sg.ch
-psychotherapiezentrum-sz.ch
-psychotherapiezentrum-tg.ch
 psychotherapiezentrum-thurgau.ch
-psychotherapiezentrum-zh.ch
 psychotherapiezentrum-zuerich.ch
 psychotherapiezentrum.ch
-psychotherapiezentrum24.ch
 psychotherapiezuercheroberland.ch
 psychotherapiezueri.ch
 psychotherapiezuerich.ch
@@ -4432,6 +4403,7 @@ psyneurofeedback-geneve.ch
 psynez.ch
 psynnovation.ch
 psynova.ch
+psyntera.ch
 psyntra.ch
 psynursing.ch
 psynyon.ch
@@ -4457,6 +4429,7 @@ psyprax-schneider.ch
 psyprax.ch
 psypraxis-langenthal.ch
 psypraxis.ch
+psyprilly.ch
 psypronostic.ch
 psypsy.ch
 psypuls.ch

@@ -300,6 +300,7 @@ haar-station.ch
 haar-store.ch
 haar-straeubend.ch
 haar-studio.ch
+haar-stuebli.ch
 haar-teil.ch
 haar-termin.ch
 haar-theater.ch
@@ -549,10 +550,8 @@ haareszeiten.ch
 haareundmehr.ch
 haareverlaengern.ch
 haareweg.ch
-haarex.ch
 haarexperte.ch
 haarexperten.ch
-haarexpress.ch
 haarextension.ch
 haarextensions.ch
 haarfabrik-lurtigen.ch
@@ -687,6 +686,7 @@ haarkunstatelier.ch
 haarkunstbasel.ch
 haarkunstraum.ch
 haarkunstribolla.ch
+haarkunstzentralschweiz.ch
 haarkur.ch
 haarkurve.ch
 haarlabor.ch
@@ -710,7 +710,6 @@ haarlokau-bern.ch
 haarlokau.ch
 haarlook.ch
 haarlos-nw.ch
-haarlos.ch
 haarlounge-bern.ch
 haarlounge-biel.ch
 haarlounge-frei.ch
@@ -753,6 +752,7 @@ haarnadeln.ch
 haarnagellaedeli.ch
 haarnatur.ch
 haarnetze.ch
+haaroase-sarnen.ch
 haaroase.ch
 haaroase555.ch
 haaroel.ch
@@ -844,7 +844,6 @@ haarschnitte.ch
 haarschnittmitherz.ch
 haarschnyder.ch
 haarschopf-sabrina.ch
-haarschopf.ch
 haarschueuer.ch
 haarschule.ch
 haarseife.ch
@@ -944,15 +943,11 @@ haartraeff.ch
 haartraeume.ch
 haartrans.ch
 haartransplant.ch
-haartransplantation-arzt.ch
 haartransplantation-basel.ch
 haartransplantation-beratung.ch
 haartransplantation-bern.ch
-haartransplantation-deutschland.ch
 haartransplantation-frauen.ch
 haartransplantation-info.ch
-haartransplantation-klinik.ch
-haartransplantation-kosten.ch
 haartransplantation-sandon.ch
 haartransplantation-schweiz.ch
 haartransplantation-tuerkei.ch
@@ -2582,10 +2577,10 @@ haedit.ch
 haednut.ch
 haedren.ch
 haedri.ch
-haedrichmechanik.ch
 haedrichpark.ch
 haedrichs.ch
 haef.ch
+haefalumps.ch
 haefegugger.ch
 haefele-anwalt.ch
 haefele-bauleitungen.ch
@@ -4148,7 +4143,6 @@ hagel-park-service.ch
 hagel-partner.ch
 hagel-reparatur.ch
 hagel-reparaturen.ch
-hagel-schaden.ch
 hagel-shop.ch
 hagel-team.ch
 hagel-technik.ch
@@ -4436,7 +4430,6 @@ hagmueller.ch
 hagnau-schaenzli.ch
 hagnau.ch
 hagnauer-gaerten.ch
-hagnauost.ch
 hagneck-city.ch
 hagneck-sur-mer.ch
 hagneck.ch
@@ -4797,7 +4790,6 @@ hair-center.ch
 hair-centre.ch
 hair-coiffure.ch
 hair-cornelia.ch
-hair-corner.ch
 hair-cosmetic.ch
 hair-couture.ch
 hair-cult.ch
@@ -4858,7 +4850,6 @@ hair-kules.ch
 hair-lab.ch
 hair-labels.ch
 hair-lady.ch
-hair-laser.ch
 hair-line.ch
 hair-lodge.ch
 hair-loft.ch
@@ -5014,7 +5005,6 @@ hairandskininstitute.ch
 hairandsoul.ch
 hairandsoulag.ch
 hairandstyle-nathalie.ch
-hairandstyle.ch
 hairandsunbymary.ch
 hairandtreesystem.ch
 hairandwine.ch
@@ -5536,7 +5526,6 @@ hairrelax.ch
 hairremoval.ch
 hairremovalzuerich.ch
 hairremovalzurich.ch
-hairrepair.ch
 hairreplacement.ch
 hairreset.ch
 hairrevolution28.ch
@@ -5848,7 +5837,6 @@ hairtransplantturkey.ch
 hairtravel.ch
 hairtravels.ch
 hairtrend-nadia.ch
-hairtrend.ch
 hairtress.ch
 hairtruck-petitspois.ch
 hairtruck.ch
@@ -5890,7 +5878,6 @@ hairxbeard.ch
 hairxpertkatja.ch
 hairxpress.ch
 hairy-business.ch
-hairy-pussy.ch
 hairy-styles.ch
 hairy-tales.ch
 hairy.ch
@@ -5997,7 +5984,6 @@ hajduk.ch
 hajduservices.ch
 haje.ch
 hajec.ch
-hajek.ch
 hajfler.ch
 haji.ch
 hajik.ch
@@ -6756,7 +6742,6 @@ halla-wimmer-urologie.ch
 halla.ch
 halla55.ch
 hallabong.ch
-hallaems.ch
 hallak-not.ch
 hallali.ch
 hallam.ch
@@ -6956,7 +6941,6 @@ hallenfundamente.ch
 hallenfussball.ch
 hallenfussballturnier.ch
 hallenheizung-koster-gmbh.ch
-hallenheizung.ch
 hallenheizungen.ch
 halleninfo.ch
 hallenkart.ch
@@ -7242,7 +7226,6 @@ hallo-trainer.ch
 hallo-uri.ch
 hallo-urs.ch
 hallo-velasya.ch
-hallo-velo-est1972.ch
 hallo-velo.ch
 hallo-viererfeld.ch
 hallo-waermepumpe.ch
@@ -7655,7 +7638,6 @@ hals-gesichts-arzt.ch
 hals-ketten.ch
 hals-nasen-ohren-arzt.ch
 hals-nasen-ohren-gut.ch
-hals-nasen-ohren-praxis.ch
 hals-nasen-ohren-spezialist.ch
 hals-nasen-ohren.ch
 hals-nasen-ohrenarzt.ch
@@ -8148,7 +8130,6 @@ hamdi.ch
 hamdiconstructions.ch
 hamdigmbh.ch
 hamdion.ch
-hameau-baar.ch
 hameau-des-bains.ch
 hameau-des-vaux.ch
 hameau-du-chateau.ch
@@ -8435,7 +8416,6 @@ hammerglass.ch
 hammergrip.ch
 hammergroup.ch
 hammergruppe.ch
-hammergut-zufikon.ch
 hammergut.ch
 hammerha.ch
 hammerhaar.ch
@@ -8499,7 +8479,6 @@ hammerschmiede-worblaufen.ch
 hammerschmiede.ch
 hammerschmitt.ch
 hammerschmitta.ch
-hammerschuhe.ch
 hammerschwendli.ch
 hammershousesitting.ch
 hammershow.ch
@@ -9623,10 +9602,8 @@ handgebrannt.ch
 handgebrickt.ch
 handgedacht-casutt.ch
 handgefertigt.ch
-handgefertigte-schuhe.ch
 handgefertigtefliesen.ch
 handgefertigteprodukte.ch
-handgefertigteschuhe.ch
 handgeformt.ch
 handgegenkoje.ch
 handgehaeuse.ch
@@ -10631,7 +10608,6 @@ handwerkbasel.ch
 handwerkbau.ch
 handwerkbegeistert.ch
 handwerkbeo.ch
-handwerkbox.ch
 handwerkbuddies.ch
 handwerkchannel.ch
 handwerkcity.ch
@@ -10732,14 +10708,12 @@ handwerker-tv.ch
 handwerker-vergleich.ch
 handwerker-vergleichen.ch
 handwerker-vermittlung.ch
-handwerker-verzeichnis.ch
 handwerker-web.ch
 handwerker-webdesign.ch
 handwerker-webseite.ch
 handwerker-website.ch
 handwerker-wyss.ch
 handwerker-zentrale.ch
-handwerker-zh.ch
 handwerker-zuerich.ch
 handwerker-zurich.ch
 handwerker.ch
@@ -11115,7 +11089,6 @@ handy-fun.ch
 handy-games.ch
 handy-guru.ch
 handy-halter.ch
-handy-halterungen.ch
 handy-handel.ch
 handy-hilfe.ch
 handy-house.ch
@@ -11295,7 +11268,6 @@ handyguru.ch
 handyhair.ch
 handyhalter.ch
 handyhalterung.ch
-handyhalterungen.ch
 handyhandel.ch
 handyhander.ch
 handyhands.ch
@@ -12630,7 +12602,6 @@ hans-stutz.ch
 hans-system.ch
 hans-textil-shop.ch
 hans-treichler.ch
-hans-ueli-vogt.ch
 hans-ueli.ch
 hans-ulrich-buerer.ch
 hans-ulrich-ernst.ch
@@ -13233,7 +13204,6 @@ hanstschirren.ch
 hansueli-bachmann.ch
 hansueli-gujer.ch
 hansueli-treffen.ch
-hansueli-vogt.ch
 hansueli-zuellig.ch
 hansueli.ch
 hansueliart.ch
@@ -13496,7 +13466,6 @@ happen.ch
 happening.ch
 happeno.ch
 happens.ch
-happenz.ch
 happer.ch
 happi-care.ch
 happi-etancheite.ch
@@ -13928,7 +13897,6 @@ happy-smoke.ch
 happy-smokers.ch
 happy-smoky.ch
 happy-smoothie.ch
-happy-sms.ch
 happy-snowdogs.ch
 happy-socks.ch
 happy-soft.ch
@@ -14191,7 +14159,6 @@ happycharter.ch
 happychef-zuerich.ch
 happychef.ch
 happychi.ch
-happychild.ch
 happychildren.ch
 happychillvisions.ch
 happychina.ch
@@ -14911,7 +14878,6 @@ happysharon.ch
 happysheep.ch
 happyshirt.ch
 happyshirts.ch
-happyshop.ch
 happyshopgroup.ch
 happyshoponline.ch
 happyshopping.ch
@@ -16264,7 +16230,6 @@ harmonie-adliswil.ch
 harmonie-affoltern.ch
 harmonie-alpenrose.ch
 harmonie-appenzell.ch
-harmonie-armes-reunies.ch
 harmonie-art.ch
 harmonie-basel.ch
 harmonie-bern.ch
@@ -18095,7 +18060,6 @@ haslerstiftung.ch
 haslersupport.ch
 haslertransport.ch
 haslertransporte.ch
-haslertreuhand.ch
 haslertu.ch
 haslerumzuege-crm.ch
 haslerumzuege.ch
@@ -18617,8 +18581,6 @@ haubbatzig.ch
 haubenmacher.ch
 haubensak-absi.ch
 haubenschmid.ch
-haubenspuelmaschine.ch
-haubenspuelmaschinen.ch
 haubentaucher.ch
 hauber-services.ch
 hauber.ch
@@ -19611,7 +19573,6 @@ haus-wiedersehen.ch
 haus-wilari.ch
 haus-wohnen.ch
 haus-wohnung-suchen-zurich.ch
-haus-wohnung-verkauf.ch
 haus-wohnung.ch
 haus-wunsch.ch
 haus-zeda.ch
@@ -21043,6 +21004,7 @@ haushaltaufloesung.ch
 haushaltbetreuung.ch
 haushaltcheck.ch
 haushaltchecker.ch
+haushaltdeal.ch
 haushaltdienst.ch
 haushaltech.ch
 haushaltfachgeschaeft.ch
@@ -21081,6 +21043,7 @@ haushaltjobs.ch
 haushaltladen.ch
 haushaltmanagement.ch
 haushaltmaschine.ch
+haushaltmaschinen.ch
 haushaltmesser.ch
 haushaltneuheiten.ch
 haushaltpapier.ch
@@ -21392,7 +21355,6 @@ hauskaufwinterthur.ch
 hauskaufzuerich.ch
 hauskelly.ch
 hauskirche-kreuzlingen.ch
-hauskirche.ch
 hauskircheatelierwiti.ch
 hauskirchen-kreuzlingen.ch
 hauskirchen.ch
@@ -21874,7 +21836,6 @@ haustechmami.ch
 haustechnet.ch
 haustechnik-aargau.ch
 haustechnik-academy.ch
-haustechnik-alarm-sano.ch
 haustechnik-bammann.ch
 haustechnik-barac.ch
 haustechnik-basel.ch
@@ -22381,7 +22342,6 @@ hauswartschule-schweiz.ch
 hauswartschule.ch
 hauswartschweiz.ch
 hauswartsdienst.ch
-hauswartsdienste.ch
 hauswartservice-kern.ch
 hauswartservice.ch
 hauswartshelden.ch

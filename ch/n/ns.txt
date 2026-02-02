@@ -236,7 +236,6 @@ ns.freizeitmobilestucki.ch
 ns.friede.ch
 ns.frogtime.ch
 ns.gamingfederation.ch
-ns.gbassurances.ch
 ns.geberit.ch
 ns.gerardi.ch
 ns.gfeller-solartechnik.ch
@@ -1360,7 +1359,6 @@ ns1.cre8.ch
 ns1.creacom-it.ch
 ns1.creadom.ch
 ns1.creancia.ch
-ns1.creation-web.ch
 ns1.creativ-web.ch
 ns1.creative-business-support.ch
 ns1.crenovelherz.ch
@@ -1712,6 +1710,8 @@ ns1.ezit.ch
 ns1.ezns.ch
 ns1.f-i-s.ch
 ns1.f1rstlevel.ch
+ns1.f6link.ch
+ns1.f6mail.ch
 ns1.fabioforni.ch
 ns1.fabirkat.ch
 ns1.fabrica-capricorn.ch
@@ -1794,6 +1794,7 @@ ns1.formidable-server.ch
 ns1.forum-bgm-sg.ch
 ns1.fossi.ch
 ns1.fracheboud.ch
+ns1.fragagne.ch
 ns1.fraisiers.ch
 ns1.franco.ch
 ns1.francocattaneo.ch
@@ -2696,6 +2697,7 @@ ns1.muntogna.ch
 ns1.muoth.ch
 ns1.musikcom.ch
 ns1.musiksyndikat.ch
+ns1.musikzielke.ch
 ns1.mvos.ch
 ns1.mx-academy.ch
 ns1.mx3hin.ch
@@ -4752,7 +4754,6 @@ ns2.crb.ch
 ns2.cre8.ch
 ns2.creacom-it.ch
 ns2.creancia.ch
-ns2.creation-web.ch
 ns2.creativ-web.ch
 ns2.creative-business-support.ch
 ns2.crenovelherz.ch
@@ -5081,6 +5082,8 @@ ns2.ezit.ch
 ns2.ezns.ch
 ns2.f-i-s.ch
 ns2.f1rstlevel.ch
+ns2.f6link.ch
+ns2.f6mail.ch
 ns2.fabioforni.ch
 ns2.fabirkat.ch
 ns2.facturaplus.ch
@@ -5156,6 +5159,7 @@ ns2.forum-bgm-sg.ch
 ns2.fotomorgana.ch
 ns2.foyer-bethel.ch
 ns2.fracheboud.ch
+ns2.fragagne.ch
 ns2.fraisiers.ch
 ns2.franco.ch
 ns2.francocattaneo.ch
@@ -6022,6 +6026,7 @@ ns2.muntogna.ch
 ns2.muoth.ch
 ns2.musikcom.ch
 ns2.musiksyndikat.ch
+ns2.musikzielke.ch
 ns2.mvos.ch
 ns2.mw-design.ch
 ns2.mx-academy.ch
@@ -7829,6 +7834,7 @@ ns3.muellerpc.ch
 ns3.mule.ch
 ns3.multinet.ch
 ns3.mundaunweg.ch
+ns3.musikzielke.ch
 ns3.mw-design.ch
 ns3.my-namaste.ch
 ns3.mydns4you.ch
@@ -8309,6 +8315,7 @@ ns4.modekosmetik.ch
 ns4.motorlegendswiss.ch
 ns4.ms-swiss.ch
 ns4.msa-net.ch
+ns4.musikzielke.ch
 ns4.my-namaste.ch
 ns4.namemaster.ch
 ns4.navacoaching.ch
@@ -8460,6 +8467,7 @@ ns5.kmu-datacenter.ch
 ns5.maebi.ch
 ns5.marco-salzmann.ch
 ns5.mkf.ch
+ns5.musikzielke.ch
 ns5.nambu.ch
 ns5.namemaster.ch
 ns5.net-4-it.ch

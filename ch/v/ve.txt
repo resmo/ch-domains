@@ -1649,13 +1649,11 @@ vehiclone.ch
 vehicolo.ch
 vehicom.ch
 vehicontrol.ch
-vehicule-electrique.ch
 vehicule-gratuit.ch
 vehicule-location.ch
 vehicule-occasion.ch
 vehicule.ch
 vehiculeagaz.ch
-vehiculeelectrique.ch
 vehiculeoccasion.ch
 vehicules-electriques.ch
 vehicules-occasion.ch
@@ -2248,7 +2246,6 @@ velo-careers.ch
 velo-cargo.ch
 velo-center-nidau.ch
 velo-center-thun.ch
-velo-center.ch
 velo-charta.ch
 velo-chaux-de-fonds.ch
 velo-check.ch
@@ -2267,7 +2264,6 @@ velo-club80.ch
 velo-concept.ch
 velo-connector.ch
 velo-consult.ch
-velo-cup.ch
 velo-cycle.ch
 velo-dietikon.ch
 velo-direct.ch
@@ -2801,7 +2797,6 @@ velocorner.ch
 velocos.ch
 velocouche.ch
 velocrush.ch
-velocup.ch
 veloda.ch
 velodaba.ch
 velodach-basel.ch
@@ -3352,7 +3347,6 @@ velora.ch
 velora20.ch
 velorabike.ch
 veloracer.ch
-veloraclean.ch
 velorad.ch
 veloradigitalco.ch
 veloradio.ch
@@ -4824,7 +4818,6 @@ veniox.ch
 venir-a-moutier.ch
 venir-au-monde.ch
 venir-carrosserie.ch
-venir.ch
 veniramoutier.ch
 veniraumonde.ch
 venircarrosserie.ch
@@ -5147,6 +5140,8 @@ venti35.ch
 ventiblog.ch
 ventic.ch
 venticalor.ch
+venticap.ch
+venticapital.ch
 venticinque.ch
 venticinquegroup.ch
 venticlean.ch
@@ -5229,6 +5224,8 @@ ventipulmin.ch
 ventiquattro.ch
 ventira.ch
 ventiraco.ch
+ventire.ch
+ventirealestate.ch
 ventiromand.ch
 ventis-auktionen.ch
 ventis-philatelie.ch
@@ -5647,6 +5644,7 @@ venusboy.ch
 venuscloud.ch
 venusclub.ch
 venuscosmetics.ch
+venuscostachepflaesterungen.ch
 venuscreations.ch
 venuscrystals.ch
 venusdate.ch
@@ -6667,7 +6665,6 @@ verberne.ch
 verbesserdi.ch
 verbesserer.ch
 verbessern.ch
-verbesserung.ch
 verbetech.ch
 verbetet.ch
 verbi.ch
@@ -6908,7 +6905,6 @@ verbiest.ch
 verbigenia.ch
 verbigrazia.ch
 verbildlicht.ch
-verbilligt.ch
 verbimex.ch
 verbin.ch
 verbina.ch
@@ -7293,7 +7289,6 @@ verdeterre.ch
 verdeum.ch
 verdevip.ch
 verdevista.ch
-verdex.ch
 verdeya.ch
 verdi-bern.ch
 verdi-gr.ch
@@ -7373,7 +7368,6 @@ verdon-paysagisme.ch
 verdon.ch
 verdone.ch
 verdonpaysagisme.ch
-verdonpub.ch
 verdoppeln.ch
 verdorben.ch
 verdoro.ch
@@ -8680,7 +8674,6 @@ verflixt.ch
 verflixtundzugenaeht.ch
 verfluecht.ch
 verflueemeretguet.ch
-verfolgen.ch
 verfolgt.ch
 verfolgung.ch
 verfora-campaign.ch
@@ -8957,7 +8950,6 @@ vergoldungen.ch
 vergotti.ch
 vergoz.ch
 vergriffen.ch
-vergroesserung.ch
 vergroesserungseinlagen.ch
 verguenstigung.ch
 verguenstigungen.ch
@@ -9497,7 +9489,6 @@ verkauf-suisse.ch
 verkauf-swiss.ch
 verkauf-von-bauland.ch
 verkauf-von-immobilien.ch
-verkauf24.ch
 verkauf360.ch
 verkauf4you.ch
 verkaufabhof.ch
@@ -9859,7 +9850,6 @@ verkehrsinformation.ch
 verkehrsinfos.ch
 verkehrsingenieur.ch
 verkehrsingenieure.ch
-verkehrsinitiative.ch
 verkehrsinstruktion-ag.ch
 verkehrsinstruktion.ch
 verkehrskadett.ch
@@ -10931,7 +10921,6 @@ vernazza.ch
 vernazzautogru.ch
 vernconex.ch
 verne-partners.ch
-verne.ch
 vernebelung-desinfektion.ch
 vernebelungstechnik.ch
 vernebler-fuer-pferde.ch
@@ -11052,7 +11041,6 @@ vernissage-wear.ch
 vernissage-zermatt.ch
 vernissage.ch
 vernissagen.ch
-vernissages.ch
 vernissagewear.ch
 vernissimo.ch
 verno.ch
@@ -11591,7 +11579,6 @@ verreprogressif.ch
 verrerie-brechen.ch
 verreriecardis.ch
 verres-de-contact.ch
-verres-express.ch
 verres.ch
 verrescasses.ch
 verresdebiere.ch
@@ -12558,7 +12545,6 @@ versorgungskrisestoppen.ch
 versorgungsluecke.ch
 versorgungsnetz.ch
 versorgungspfad.ch
-versorgungsregion-dietikon.ch
 versorgungsregion-limmattal.ch
 versorgungsregion-zuerioberland.ch
 versorgungsregion-zueriost.ch

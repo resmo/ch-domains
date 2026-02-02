@@ -1588,7 +1588,6 @@ pohretska.ch
 poi-base.ch
 poi-central.ch
 poi-koeniz.ch
-poi-panda.ch
 poi-poi.ch
 poi-terminals.ch
 poi.ch
@@ -1957,7 +1956,6 @@ pointzero.ch
 pointzug.ch
 poinz.ch
 poios.ch
-poipanda.ch
 poipoi.ch
 poipolloi.ch
 poipoloi.ch
@@ -2316,7 +2314,6 @@ poker-tisch.ch
 poker-tische.ch
 poker-to-go.ch
 poker-treff.ch
-poker-turnier.ch
 poker-turniere.ch
 poker-tv.ch
 poker-verband.ch
@@ -2413,7 +2410,6 @@ pokerinfo.ch
 pokerinho.ch
 pokerisland.ch
 pokerito.ch
-pokerjack.ch
 pokerjob.ch
 pokerkalender.ch
 pokerkanal.ch
@@ -4132,7 +4128,6 @@ polizei-ur.ch
 polizei-uri.ch
 polizei-valais.ch
 polizei-vd.ch
-polizei-verlag.ch
 polizei-vs.ch
 polizei-waadt.ch
 polizei-weesen.ch
@@ -4379,7 +4374,6 @@ polizeinews-ostschweiz.ch
 polizeinews-praevention.ch
 polizeinews-redaktion.ch
 polizeinews-schaffhausen.ch
-polizeinews-schweiz.ch
 polizeinews-schwyz.ch
 polizeinews-solothurn.ch
 polizeinews-st-gallen.ch
@@ -4430,7 +4424,6 @@ polizeinewsostschweiz.ch
 polizeinewspraevention.ch
 polizeinewsredaktion.ch
 polizeinewsschaffhausen.ch
-polizeinewsschweiz.ch
 polizeinewsschwyz.ch
 polizeinewssolothurn.ch
 polizeinewsstadt-luzern.ch
@@ -4545,7 +4538,6 @@ polizeivd.ch
 polizeiverband.ch
 polizeiverbandgraubuenden.ch
 polizeiverhalten.ch
-polizeiverlag.ch
 polizeivs.ch
 polizeiwaadt.ch
 polizeiwache.ch
@@ -5249,8 +5241,6 @@ poltergeischter.ch
 poltergeistmovie.ch
 polteri.ch
 poltern.ch
-polternacht.ch
-polterparty.ch
 polterplaners.ch
 polterschild.ch
 poltershirt.ch
@@ -5405,6 +5395,7 @@ polybios.ch
 polybistro-winterthur.ch
 polybit.ch
 polybius.ch
+polyblick.ch
 polybloc.ch
 polyblog.ch
 polybos-studio.ch
@@ -6512,7 +6503,6 @@ pompieribiasca.ch
 pompieribrissago.ch
 pompiericalanca.ch
 pompiericevio.ch
-pompierigambarogno.ch
 pompierilavizzara.ch
 pompierilema.ch
 pompierilocarno.ch
@@ -6612,6 +6602,7 @@ pomsolutions.ch
 pomtava.ch
 pomu.ch
 pomucky.ch
+pomunity-estiem-zuerich.ch
 pomus.ch
 pomwonderfulpomegreat.ch
 pomy-art.ch
@@ -7350,7 +7341,6 @@ pool-villa.ch
 pool-wartung.ch
 pool-water-doc.ch
 pool-waterdoc.ch
-pool-wellness.ch
 pool-werkstatt.ch
 pool-wissen.ch
 pool-zubehoer.ch
@@ -7707,7 +7697,6 @@ poolueberdachung.ch
 poolueberdachungen.ch
 poolundgarten.ch
 poolundsauna.ch
-poolundwellness.ch
 poolunion.ch
 poolvaud.ch
 poolver.ch
@@ -7725,7 +7714,6 @@ poolwat.ch
 poolwater-doc.ch
 poolwaterdoc.ch
 poolweb.ch
-poolwellness.ch
 poolwelt.ch
 poolwerk.ch
 poolwerkstatt.ch
@@ -8407,6 +8395,7 @@ popup-escape.ch
 popup-event.ch
 popup-exhibition.ch
 popup-factory.ch
+popup-food.ch
 popup-gallery.ch
 popup-home.ch
 popup-homes.ch
@@ -8833,7 +8822,6 @@ pornvideos.ch
 pornwat.ch
 pornwit.ch
 pornwork.ch
-pornworks.ch
 pornx.ch
 pornydays.ch
 poro-stone.ch
@@ -9786,7 +9774,6 @@ porteous.ch
 porteplume.ch
 portepvc.ch
 porter-bebe.ch
-porter-house.ch
 porter-tout-simplement.ch
 porter-yoshidakaban.ch
 porter.ch
@@ -10294,7 +10281,6 @@ portraitsart.ch
 portraitsartist.ch
 portraitservice.ch
 portraitshooters.ch
-portraitstudio.ch
 portraitsurcommande.ch
 portraitsurdemande.ch
 portraitsvivants.ch
@@ -10587,8 +10573,6 @@ posch-platten.ch
 posch-twann.ch
 posch.ch
 poschange.ch
-poschenrieder-horology.ch
-poschenriederhorology.ch
 poschenup.ch
 poschettli.ch
 poschi.ch
@@ -13431,9 +13415,6 @@ powerbites.ch
 powerbitraining.ch
 powerbiz.ch
 powerblacksale.ch
-powerbleaching-baden.ch
-powerbleachingbaden.ch
-powerbleachingzuerich.ch
 powerblox.ch
 powerboards.ch
 powerboat-academy.ch
@@ -14410,7 +14391,6 @@ powervorsorge.ch
 powerwalker.ch
 powerwall.ch
 powerwandel.ch
-powerwash.ch
 powerwasser.ch
 powerwat.ch
 powerwatch.ch

@@ -496,7 +496,6 @@ open-c.ch
 open-campus.ch
 open-capital.ch
 open-cart.ch
-open-celements.ch
 open-cellar-doors.ch
 open-cellars.ch
 open-charity-day.ch
@@ -505,6 +504,7 @@ open-circel.ch
 open-circle.ch
 open-circles.ch
 open-classics-am-rhein.ch
+open-claw.ch
 open-closed.ch
 open-cloud.ch
 open-club.ch
@@ -736,7 +736,6 @@ openair-camper.ch
 openair-chur.ch
 openair-cinema.ch
 openair-comedy.ch
-openair-concert.ch
 openair-dance.ch
 openair-dancing.ch
 openair-disco.ch
@@ -756,7 +755,6 @@ openair-kino-richterswil.ch
 openair-kino.ch
 openair-kinos.ch
 openair-kinowerbung.ch
-openair-konzert.ch
 openair-konzerte.ch
 openair-lumnezia.ch
 openair-maiacker.ch
@@ -778,7 +776,6 @@ openair-shop.ch
 openair-siblingen.ch
 openair-solothurn.ch
 openair-sternensee.ch
-openair-theater.ch
 openair-theatre.ch
 openair-uzwil.ch
 openair-volketswil.ch
@@ -930,7 +927,6 @@ openairsumiswald.ch
 openairsursee.ch
 openairtheater.ch
 openairtheatre.ch
-openairtipp.ch
 openairtools.ch
 openairtours.ch
 openairuster.ch
@@ -946,6 +942,7 @@ openanalytics.ch
 openapi.ch
 openapp.ch
 openar.ch
+openarchitects.ch
 openarena.ch
 openarms.ch
 openart-basel.ch
@@ -1047,7 +1044,6 @@ opencast.ch
 opencasting.ch
 opencaucus.ch
 openccnet.ch
-opencelements.ch
 opencellardoors.ch
 opencellars.ch
 opencenter.ch
@@ -1955,7 +1951,6 @@ operafribourg.ch
 operageneve.ch
 operahotel.ch
 operahouse.ch
-operaid.ch
 operaimperatrice.ch
 operainvest.ch
 operaio.ch
@@ -2232,7 +2227,6 @@ opferberatung-sz-ur.ch
 opferberatung-zuerich.ch
 opferberatung.ch
 opferberatungonline.ch
-opferberatungsstelle.ch
 opferberatungzh.ch
 opferhilfe-ag-so.ch
 opferhilfe-ag.ch
@@ -2295,6 +2289,7 @@ ophegination.ch
 ophek.ch
 ophelia-boswil.ch
 ophelia-gmbh.ch
+opheliaphi.ch
 opheliaschreibt.ch
 opheliasgarden.ch
 opheliaslegacy.ch
@@ -2654,7 +2649,6 @@ oplus-gesundheitspflege.ch
 oplus.ch
 opm-invest.ch
 opm.ch
-opmanager.ch
 opmarket.ch
 opmc.ch
 opme.ch
@@ -4481,7 +4475,6 @@ optiprax.ch
 optipraxx.ch
 optipreneurs.ch
 optipress.ch
-optiprice.ch
 optiprint.ch
 optiprint40.ch
 optiproc.ch
