@@ -1462,6 +1462,7 @@ my-resin-art.ch
 my-responsibility.ch
 my-resto.ch
 my-retail.ch
+my-reveal-in.ch
 my-right.ch
 my-rights.ch
 my-ritter-sport.ch
@@ -1624,6 +1625,7 @@ my-sport-club.ch
 my-sport.ch
 my-sporties.ch
 my-spotlight.ch
+my-spy.ch
 my-st-moritz.ch
 my-sta.ch
 my-staff.ch
@@ -3566,6 +3568,7 @@ mychaitime.ch
 mychalet-edelweiss.ch
 mychalet.ch
 mychalk.ch
+mychallenge.ch
 mychameleon.ch
 mychampagne.ch
 mychampionchip.ch
@@ -3722,6 +3725,7 @@ myclassicflight.ch
 myclassroom.ch
 myclaudefieni.ch
 myclavid.ch
+myclaw.ch
 myclean-9.ch
 myclean-facility-services.ch
 myclean-home.ch
@@ -3790,7 +3794,6 @@ myclub-fitness.ch
 myclub.ch
 myclub16.ch
 myclubcards.ch
-myclubdesign.ch
 myclubs.ch
 myclv-truelife.ch
 mycma.ch
@@ -3864,6 +3867,7 @@ mycoffola.ch
 mycoflex.ch
 mycofr.ch
 mycog.ch
+mycoglow.ch
 mycoho.ch
 mycoiffeur.ch
 mycoiffeure.ch
@@ -4431,6 +4435,7 @@ mydigitalshop.ch
 mydigitalsignage.ch
 mydigitalsolution.ch
 mydigitalsolutions.ch
+mydigitalstrom.ch
 mydigitalswiss.ch
 mydigitalswitzerland.ch
 mydigitaltwin.ch
@@ -5666,6 +5671,7 @@ myglobus.ch
 myglock.ch
 mygloss.ch
 myglossy.ch
+myglowlab.ch
 myglowy.ch
 myglutenfree.ch
 myglutz.ch
@@ -6132,6 +6138,7 @@ myhomebutler.ch
 myhomecare.ch
 myhomecinema.ch
 myhomecloud.ch
+myhomecollection.ch
 myhomeconsulting.ch
 myhomecontrol.ch
 myhomecraft.ch
@@ -6515,6 +6522,7 @@ myisuzu.ch
 myit.ch
 myit365.ch
 myitaly.ch
+myitalyfestival.ch
 myitalyselection.ch
 myitcorner.ch
 myitdata.ch
@@ -7746,6 +7754,7 @@ mymix.ch
 mymmm.ch
 mymms.ch
 mymo.ch
+mymoba.ch
 mymobi.ch
 mymobil.ch
 mymobile-online.ch
@@ -9011,6 +9020,7 @@ mypostfach.ch
 mypostit.ch
 mypostlogistics.ch
 mypostmix.ch
+mypostopkit.ch
 myposture.ch
 mypotential.ch
 mypotentials.ch
@@ -10185,7 +10195,6 @@ myskillsacademy.ch
 myskillslab.ch
 myskin-aesthetic-medicine.ch
 myskin-cosmetics.ch
-myskin-locarno.ch
 myskin.ch
 myskinbeauty.ch
 myskincare.ch
@@ -10480,6 +10489,7 @@ myspring.ch
 myspringfield.ch
 mysprinkle.ch
 mysps.ch
+myspy.ch
 mysq.ch
 mysql.ch
 mysqlcluster.ch
@@ -11170,6 +11180,7 @@ myswissmassage.ch
 myswissmed.ch
 myswissmobile.ch
 myswissmoment.ch
+myswissmove.ch
 myswissness.ch
 myswissnet.ch
 myswissnft.ch
@@ -12366,6 +12377,7 @@ mywear.ch
 mywear24.ch
 mywearable.ch
 myweather.ch
+myweatherstation.ch
 myweb-id.ch
 myweb-shops.ch
 myweb-space.ch

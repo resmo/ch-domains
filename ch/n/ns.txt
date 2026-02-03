@@ -236,6 +236,7 @@ ns.freizeitmobilestucki.ch
 ns.friede.ch
 ns.frogtime.ch
 ns.gamingfederation.ch
+ns.gbassurances.ch
 ns.geberit.ch
 ns.gerardi.ch
 ns.gfeller-solartechnik.ch
@@ -535,7 +536,6 @@ ns0.estada.ch
 ns0.fioupfioup-infra.ch
 ns0.highdefinition.ch
 ns0.honigglas.ch
-ns0.integral-petroleum.ch
 ns0.jpu.eraw.ch
 ns0.kaworu.ch
 ns0.kscag.ch
@@ -1681,7 +1681,6 @@ ns1.ethgen.ch
 ns1.ethz.ch
 ns1.etitan.ch
 ns1.eulogic.ch
-ns1.euroglobaladvisor.ch
 ns1.eurographics2015.ch
 ns1.europlink.ch
 ns1.eurotopnet.ch
@@ -2190,7 +2189,6 @@ ns1.institut-la-vallee.ch
 ns1.insurancequotes.ch
 ns1.insval.ch
 ns1.insyma.ch
-ns1.integral-petroleum.ch
 ns1.intermezzo-zug.ch
 ns1.internet-gmbh.ch
 ns1.internet-set.ch
@@ -3956,7 +3954,6 @@ ns1.wnd.ch
 ns1.wng.ch
 ns1.wohliccar.ch
 ns1.wolfnet.ch
-ns1.wonda.ch
 ns1.woohosting.ch
 ns1.wordpresszuerich.ch
 ns1.work2go.ch
@@ -5050,7 +5047,6 @@ ns2.etbvadmin.ch
 ns2.ethz.ch
 ns2.etitan.ch
 ns2.eulogic.ch
-ns2.euroglobaladvisor.ch
 ns2.eurographics2015.ch
 ns2.europlink.ch
 ns2.eurotopnet.ch
@@ -7244,7 +7240,6 @@ ns2.wnd.ch
 ns2.wng.ch
 ns2.wohliccar.ch
 ns2.wolfnet.ch
-ns2.wonda.ch
 ns2.woohosting.ch
 ns2.wordpresszuerich.ch
 ns2.work2go.ch

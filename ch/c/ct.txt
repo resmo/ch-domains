@@ -466,6 +466,7 @@ ctrl-shift-c.ch
 ctrl-space.ch
 ctrl-t.ch
 ctrl-tissieres.ch
+ctrl-tower.ch
 ctrl-up.ch
 ctrl-v.ch
 ctrl-x.ch

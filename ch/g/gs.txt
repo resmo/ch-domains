@@ -594,7 +594,6 @@ gsdir.ch
 gsdistri.ch
 gsdnet.ch
 gsdnettest.ch
-gsdproduction.ch
 gsds.ch
 gsdsagl.ch
 gsdv.ch
@@ -929,6 +928,7 @@ gsmimmo.ch
 gsmimmoag.ch
 gsmk.ch
 gsml.ch
+gsmmultimedia.ch
 gsmmultimediapro.ch
 gsmn-capital-sante.ch
 gsmn-cards.ch

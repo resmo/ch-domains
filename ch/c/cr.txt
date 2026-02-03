@@ -210,7 +210,6 @@ craft-design.ch
 craft-drinks.ch
 craft-factory.ch
 craft-food.ch
-craft-guide.ch
 craft-juices.ch
 craft-man.ch
 craft-point.ch
@@ -259,7 +258,6 @@ craftbar.ch
 craftbeer-store.ch
 craftbeer.ch
 craftbeerbaden.ch
-craftbeerday.ch
 craftbeerfactory.ch
 craftbeerfestivalzurich.ch
 craftbeerimport.ch
@@ -382,7 +380,6 @@ craftlemonade.ch
 craftlemonades.ch
 craftmade.ch
 craftman.ch
-craftmarket.ch
 craftmarketing.ch
 craftmatic.ch
 craftmax.ch
@@ -1952,6 +1949,7 @@ crazyblue.ch
 crazybog.ch
 crazyboom.ch
 crazyboost.ch
+crazyboules.ch
 crazybox.ch
 crazybsauce.ch
 crazybug.ch
@@ -2313,7 +2311,6 @@ crdc.ch
 crddix.ch
 crde.ch
 crdej.ch
-crdesign.ch
 crdf.ch
 crdie.ch
 crdj.ch
@@ -4772,6 +4769,7 @@ creativshop.ch
 creativsidekick.ch
 creativsoftware.ch
 creativsolution.ch
+creativstudio.ch
 creativstyling.ch
 creativsuisse.ch
 creativteambasel.ch
@@ -6656,6 +6654,7 @@ crial.ch
 crianza.ch
 criart.ch
 criarte.ch
+criartpeinture.ch
 criativa.ch
 criative.ch
 criativefactory.ch
@@ -6862,7 +6861,6 @@ crimsonvault.ch
 crimsonveil.ch
 crimzon.ch
 crin.ch
-crina.ch
 crinag.ch
 crinecerfont.ch
 crinel.ch
@@ -7071,6 +7069,7 @@ crispydee.ch
 crispyduck.ch
 crispyfriedchicken-bursins.ch
 crispyfriedchicken.ch
+crispyland.ch
 crispymaximus.ch
 crispypanini.ch
 crispypizza.ch
@@ -7257,6 +7256,7 @@ cristiano-herrenaustatter.ch
 cristiano-massmode.ch
 cristiano-rego.ch
 cristiano-style.ch
+cristiano-tailor-made.ch
 cristiano-tm.ch
 cristiano.ch
 cristianocastelletti.ch
@@ -7704,7 +7704,6 @@ crmexperts.ch
 crmf.ch
 crmfinder.ch
 crmfirst.ch
-crmforsales.ch
 crmforyou.ch
 crmfuchs.ch
 crmfuehrer.ch
@@ -7912,6 +7911,7 @@ croco.ch
 crocoadmin.ch
 crocoagency.ch
 crocoagent.ch
+crocobet.ch
 crococo.ch
 crocodeal.ch
 crocoderma.ch
@@ -8743,6 +8743,7 @@ crossfitkreuzlingen.ch
 crossfitkriens.ch
 crossfitlachen.ch
 crossfitlacote.ch
+crossfitlaegere.ch
 crossfitlamenuiserie.ch
 crossfitlangnau.ch
 crossfitlausanne.ch
@@ -8892,6 +8893,7 @@ crossmedia-manager.ch
 crossmedia-marketing.ch
 crossmedia-publisher.ch
 crossmedia-publishing.ch
+crossmedia-services.ch
 crossmedia-solution.ch
 crossmedia-solutions.ch
 crossmedia.ch
@@ -9523,6 +9525,7 @@ crozodebart.ch
 crozot.ch
 crozz.ch
 crp-romandie.ch
+crp-works.ch
 crp-world.ch
 crp.ch
 crpai.ch
@@ -9644,7 +9647,6 @@ crssolutions.ch
 crst.ch
 crstec.ch
 crstl.ch
-crstr.ch
 crstravel.ch
 crstudio.ch
 crsv.ch
@@ -10886,6 +10888,7 @@ cryptogamica-helvetica.ch
 cryptogaming.ch
 cryptogammon.ch
 cryptogeld.ch
+cryptogeneve.ch
 cryptogestion.ch
 cryptoglobal.ch
 cryptoglyph.ch
@@ -11055,6 +11058,7 @@ cryptomoney.ch
 cryptomoneyfund.ch
 cryptomonitor.ch
 cryptomonnaie.ch
+cryptomonnaiegeneve.ch
 cryptomonnaies.ch
 cryptomotors.ch
 cryptomountain.ch

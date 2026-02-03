@@ -1357,7 +1357,6 @@ orderbase.ch
 orderbe.ch
 orderbell.ch
 orderbird-pay.ch
-orderbird.ch
 orderbirdpay.ch
 orderboard.ch
 orderbook.ch
@@ -1488,6 +1487,7 @@ ordinarymind.ch
 ordinarymom.ch
 ordinasoft.ch
 ordinata.ch
+ordinateur-quantique.ch
 ordinateur.ch
 ordinateurgeneve.ch
 ordinateurs.ch
@@ -2566,6 +2566,7 @@ organspende-nein.ch
 organspende-nur-mit-zustimmung.ch
 organspende-ostschweiz.ch
 organspende-register.ch
+organspende-schweiz.ch
 organspende.ch
 organspendeausweis.ch
 organspendeinfo.ch
@@ -3040,6 +3041,7 @@ orientaltouch.ch
 orientaltours.ch
 orientalvevey.ch
 orientalzurgerbern-barrestaurant-burgdorf.ch
+orientamente.ch
 orientamento-professionale.ch
 orientamento.ch
 orientamentoprofessionale.ch
@@ -3102,6 +3104,7 @@ orienthaus.ch
 orientia.ch
 orientic.ch
 orientiert.ch
+orientierung-im-spektrum.ch
 orientierung.ch
 orientierungshilfe.ch
 orientierungsjahr.ch
@@ -4329,6 +4332,7 @@ orniphon.ch
 orniplan.ch
 ornis-bar.ch
 ornis-bern.ch
+ornis-online.ch
 ornis-solothurn.ch
 ornis.ch
 ornisbar.ch
@@ -4478,6 +4482,7 @@ ororaro.ch
 oros-capital.ch
 oros-energy.ch
 oros-ltd.ch
+orosaj-metallbau.ch
 oroscape.ch
 orosch.ch
 oroscoin.ch
@@ -5424,8 +5429,12 @@ orthoeffect.ch
 orthoemme.ch
 orthoexpert.ch
 orthoexperts.ch
+orthofacial-surgery.ch
 orthofacial.ch
+orthofacialsurgery.ch
 orthofast.ch
+orthofaziale-chirurgie.ch
+orthofazialechirurgie.ch
 orthofeel.ch
 orthofeet.ch
 orthoficience.ch
@@ -6404,6 +6413,7 @@ ortsplanung-rebstein.ch
 ortsplanung-sargans.ch
 ortsplanung-sarnen.ch
 ortsplanung-steinhausen.ch
+ortsplanung-unteraegeri.ch
 ortsplanung-vilters-wangs.ch
 ortsplanung-vitznau.ch
 ortsplanung-wartau.ch
@@ -6426,6 +6436,7 @@ ortspolizistin.ch
 ortsportal.ch
 ortsrevitalisierung.ch
 ortsschilder.ch
+ortsspezialitaeten.ch
 ortssystemstellen.ch
 ortstafel.ch
 ortsteam-ninb.ch

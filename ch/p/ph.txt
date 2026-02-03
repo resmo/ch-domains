@@ -157,6 +157,7 @@ phaenomenal-style.ch
 phaenomenaspot.ch
 phaenomene.ch
 phaenomenon-aurum.ch
+phaenomensch.ch
 phaenomina.ch
 phaenonet.ch
 phaenotopia.ch
@@ -408,6 +409,7 @@ pharma-excipients.ch
 pharma-express.ch
 pharma-fastlane.ch
 pharma-flash.ch
+pharma-forschung.ch
 pharma-forum.ch
 pharma-fuer-alle.ch
 pharma-future.ch
@@ -429,6 +431,7 @@ pharma-im-dialog.ch
 pharma-imperiale.ch
 pharma-industry.ch
 pharma-info.ch
+pharma-information.ch
 pharma-insurance.ch
 pharma-intelligence.ch
 pharma-iq.ch
@@ -471,7 +474,9 @@ pharma-products.ch
 pharma-professional.ch
 pharma-qms-iso9001.ch
 pharma-qs.ch
+pharma-recherche.ch
 pharma-rennaz.ch
+pharma-research.ch
 pharma-retouren.ch
 pharma-roche.ch
 pharma-sample.ch
@@ -1200,6 +1205,7 @@ pharmaimport.ch
 pharmaindustries.ch
 pharmaindustry.ch
 pharmainfo.ch
+pharmainformation.ch
 pharmaink.ch
 pharmainox.ch
 pharmainstitute.ch
@@ -1535,6 +1541,7 @@ pharmelp.ch
 pharmem.ch
 pharmemploi.ch
 pharmeq.ch
+pharmergency.ch
 pharmessence.ch
 pharmessences.ch
 pharmetic.ch
@@ -1584,6 +1591,7 @@ pharmshops.ch
 pharmsoft.ch
 pharmsuisse-insurance.ch
 pharmswiss.ch
+pharmtastic.ch
 pharmtaxe.ch
 pharmu.ch
 pharmweb.ch
@@ -1884,6 +1892,7 @@ phenomenes.ch
 phenomenex.ch
 phenomenon-prod.ch
 phenomenon.ch
+phenomensch.ch
 phenomental.ch
 phenomgencards.ch
 phenomic.ch
@@ -2467,7 +2476,6 @@ philipp-gut.ch
 philipp-hadorn.ch
 philipp-haerri.ch
 philipp-herrmann.ch
-philipp-hildebrand.ch
 philipp-hilft.ch
 philipp-hoehener.ch
 philipp-hoffmann.ch
@@ -2646,6 +2654,7 @@ philippe-krebs.ch
 philippe-kuehni.ch
 philippe-lebert-geoinformatikjob.ch
 philippe-lebert-geojob.ch
+philippe-lebert-geomatikjob.ch
 philippe-lebert.ch
 philippe-leroy.ch
 philippe-martin.ch
@@ -2945,7 +2954,6 @@ philippherrmann.ch
 philippherzog.ch
 philipphess.ch
 philipphiestand.ch
-philipphildebrand.ch
 philipphilft.ch
 philipphitz.ch
 philipphodel.ch
@@ -3104,6 +3112,7 @@ philippschuler.ch
 philippschwager.ch
 philippschwander.ch
 philippschweizer.ch
+philippschweizergmbh.ch
 philippsenn.ch
 philippsenti.ch
 philippsgin.ch
@@ -3914,7 +3923,6 @@ phoenix-medien.ch
 phoenix-mentoring-akademie.ch
 phoenix-metal.ch
 phoenix-metamorphose.ch
-phoenix-mf.ch
 phoenix-moebel.ch
 phoenix-montagen.ch
 phoenix-naturmedizin.ch
@@ -4335,9 +4343,13 @@ phonesolution.ch
 phonesolutions.ch
 phonespam.ch
 phonespital.ch
+phonesstore.ch
 phonestar.ch
+phonestor.ch
 phonestore.ch
 phonestore24.ch
+phonestoree.ch
+phonestoreech.ch
 phonestoreswiss.ch
 phonestudio.ch
 phonestuff.ch
@@ -4596,6 +4608,7 @@ photo-emotion.ch
 photo-entreprise.ch
 photo-epilation-irin-beauty.ch
 photo-epilation.ch
+photo-evasion.ch
 photo-events.ch
 photo-exception-mariage.ch
 photo-expedition.ch
@@ -5052,6 +5065,7 @@ photoduperrex.ch
 photoduvoisin.ch
 photodynamics.ch
 photodynamische-therapie.ch
+photoedition.ch
 photoeffekt.ch
 photoegge.ch
 photoelemente.ch
@@ -5347,6 +5361,7 @@ photographymuseum.ch
 photographypro.ch
 photographyschool.ch
 photographysimo.ch
+photographystudio.ch
 photographystylevisage.ch
 photographyves.ch
 photographywallis.ch
@@ -5787,6 +5802,7 @@ photoshop-seminar.ch
 photoshop-sprechstunde.ch
 photoshop-workshop.ch
 photoshop.ch
+photoshopkurs.ch
 photoshopkurse.ch
 photoshopping.ch
 photoshopschulung.ch
@@ -5974,6 +5990,7 @@ photovoltaik-modul.ch
 photovoltaik-module.ch
 photovoltaik-oberwallis.ch
 photovoltaik-obwalden.ch
+photovoltaik-offerte.ch
 photovoltaik-offerten.ch
 photovoltaik-offgrid.ch
 photovoltaik-optimierung.ch
@@ -6246,6 +6263,7 @@ phsag.ch
 phsaner.ch
 phsanitaer.ch
 phscenography.ch
+phsch.ch
 phschmid.ch
 phschool.ch
 phschweiz.ch
@@ -6433,7 +6451,6 @@ phyloptic.ch
 phyloria.ch
 phymaths.ch
 phyn.ch
-phynder.ch
 phyne-music.ch
 phynix.ch
 phynixdesign.ch
@@ -7204,6 +7221,7 @@ physio-kilchberg.ch
 physio-killer.ch
 physio-kinderjugend.ch
 physio-kinesis.ch
+physio-klinik-basel.ch
 physio-klosterplatz.ch
 physio-klotenbalsberg.ch
 physio-klusplatz.ch
@@ -7257,6 +7275,7 @@ physio-lebenswert.ch
 physio-lechene.ch
 physio-ledermann.ch
 physio-lehmkuhl.ch
+physio-leimental.ch
 physio-lengnau.ch
 physio-lengwil.ch
 physio-lenzburg.ch
@@ -7353,6 +7372,7 @@ physio-milo.ch
 physio-miro.ch
 physio-mitenand.ch
 physio-mn.ch
+physio-mob.ch
 physio-mobiil.ch
 physio-mobil-zuhause.ch
 physio-mobil.ch
@@ -7571,6 +7591,7 @@ physio-raum.ch
 physio-rauracher.ch
 physio-rausch.ch
 physio-reactive.ch
+physio-reaktiv.ch
 physio-reber.ch
 physio-rechenmacher.ch
 physio-rechsteiner.ch
@@ -8776,6 +8797,7 @@ physioimadler.ch
 physioimbellevuepark.ch
 physioimcenter.ch
 physioimcholler.ch
+physioimdorf.ch
 physioimfluss.ch
 physioimgwatt.ch
 physioimhirzel.ch
@@ -9532,6 +9554,7 @@ physiotastisch.ch
 physiotatjanaschenk.ch
 physiotcm.ch
 physioteam-allschwil.ch
+physioteam-baden.ch
 physioteam-baetterkinden.ch
 physioteam-balsthal.ch
 physioteam-berger.ch
@@ -9592,6 +9615,7 @@ physiotherapeutevevey.ch
 physiotherapeutics.ch
 physiotherapeutin.ch
 physiotherapeutinnen.ch
+physiotherapeutische-behandlung-basel.ch
 physiotherapeutkreuzlingen.ch
 physiotherapeutuebendorf.ch
 physiotherapeutwetzikon.ch
@@ -9679,6 +9703,7 @@ physiotherapie-binder.ch
 physiotherapie-binningen.ch
 physiotherapie-birmensdorf.ch
 physiotherapie-birrfeld.ch
+physiotherapie-birsfelden.ch
 physiotherapie-bischofberger.ch
 physiotherapie-bl.ch
 physiotherapie-bloem.ch
@@ -9976,6 +10001,7 @@ physiotherapie-muotathal.ch
 physiotherapie-muri-egg.ch
 physiotherapie-muri.ch
 physiotherapie-muttenz.ch
+physiotherapie-nach-operation-basel.ch
 physiotherapie-naef.ch
 physiotherapie-nedic.ch
 physiotherapie-neftenbach-pfungen.ch
@@ -10033,6 +10059,7 @@ physiotherapie-plus.ch
 physiotherapie-polak.ch
 physiotherapie-portal.ch
 physiotherapie-post.ch
+physiotherapie-praxis-basel.ch
 physiotherapie-praxis.ch
 physiotherapie-pro.ch
 physiotherapie-proaktiv.ch
@@ -10374,7 +10401,6 @@ physiotherapiemonbijou.ch
 physiotherapiemontagna.ch
 physiotherapiemontblanc.ch
 physiotherapiemontreux.ch
-physiotherapiemouvementetactivite.ch
 physiotherapiemove.ch
 physiotherapiemtblanc.ch
 physiotherapiemuenchwilen.ch
@@ -10402,7 +10428,6 @@ physiotherapieostschweiz.ch
 physiotherapiep4.ch
 physiotherapiepourtous.ch
 physiotherapiepraxis-rorschach.ch
-physiotherapiepraxis.ch
 physiotherapiepraxiswinterthur.ch
 physiotherapierapperswil.ch
 physiotherapiereginalaube.ch

@@ -103,6 +103,7 @@ d-c-table.ch
 d-c-wall.ch
 d-c.ch
 d-calling.ch
+d-card.ch
 d-carre.ch
 d-carsolution.ch
 d-case.ch
@@ -621,7 +622,6 @@ d-trockenbau.ch
 d-trust.ch
 d-tv.ch
 d-u-i.ch
-d-und-d.ch
 d-unlimited.ch
 d-urbantraining.ch
 d-v-d.ch

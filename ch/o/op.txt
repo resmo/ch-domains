@@ -496,6 +496,7 @@ open-c.ch
 open-campus.ch
 open-capital.ch
 open-cart.ch
+open-celements.ch
 open-cellar-doors.ch
 open-cellars.ch
 open-charity-day.ch
@@ -736,6 +737,7 @@ openair-camper.ch
 openair-chur.ch
 openair-cinema.ch
 openair-comedy.ch
+openair-concert.ch
 openair-dance.ch
 openair-dancing.ch
 openair-disco.ch
@@ -755,6 +757,7 @@ openair-kino-richterswil.ch
 openair-kino.ch
 openair-kinos.ch
 openair-kinowerbung.ch
+openair-konzert.ch
 openair-konzerte.ch
 openair-lumnezia.ch
 openair-maiacker.ch
@@ -776,6 +779,7 @@ openair-shop.ch
 openair-siblingen.ch
 openair-solothurn.ch
 openair-sternensee.ch
+openair-theater.ch
 openair-theatre.ch
 openair-uzwil.ch
 openair-volketswil.ch
@@ -927,6 +931,7 @@ openairsumiswald.ch
 openairsursee.ch
 openairtheater.ch
 openairtheatre.ch
+openairtipp.ch
 openairtools.ch
 openairtours.ch
 openairuster.ch
@@ -954,7 +959,6 @@ openartgallery.ch
 openartmuseum.ch
 openasi.ch
 openassets.ch
-openassistant.ch
 openassure.ch
 openattic.ch
 openatural.ch
@@ -964,6 +968,7 @@ openautomation.ch
 openautonomyadvisors.ch
 openavionix.ch
 openaware.ch
+openaxs.ch
 openb-auto.ch
 openb-finance.ch
 openb-leasing.ch
@@ -1044,6 +1049,7 @@ opencast.ch
 opencasting.ch
 opencaucus.ch
 openccnet.ch
+opencelements.ch
 opencellardoors.ch
 opencellars.ch
 opencenter.ch
@@ -1606,6 +1612,7 @@ openrdm.ch
 openrecargas.ch
 openreef.ch
 openreefconsulting.ch
+openregister.ch
 openremote.ch
 openrent.ch
 openresear.ch
@@ -2571,6 +2578,7 @@ opinionlieder.ch
 opinionplus.ch
 opinionpoints.ch
 opinionresear.ch
+opinions.ch
 opinionspubliques.ch
 opinionsystem.ch
 opiniontracker.ch
@@ -2649,6 +2657,7 @@ oplus-gesundheitspflege.ch
 oplus.ch
 opm-invest.ch
 opm.ch
+opmanager.ch
 opmarket.ch
 opmc.ch
 opme.ch
@@ -3931,7 +3940,6 @@ optimalversichern.ch
 optimalversorgt.ch
 optimalvoice.ch
 optimalway.ch
-optimalzusatzversicherung.ch
 optimamedical.ch
 optiman.ch
 optimance.ch
@@ -4267,6 +4275,7 @@ optimumm.ch
 optimummedical.ch
 optimummovesulotion.ch
 optimummy.ch
+optimumnutrition.ch
 optimumone.ch
 optimumordnung.ch
 optimumpoints.ch
