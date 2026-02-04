@@ -1625,7 +1625,6 @@ my-sport-club.ch
 my-sport.ch
 my-sporties.ch
 my-spotlight.ch
-my-spy.ch
 my-st-moritz.ch
 my-sta.ch
 my-staff.ch
@@ -2205,6 +2204,7 @@ myaifino.ch
 myaigent.ch
 myaijustice.ch
 myaimovie.ch
+myaiorbit.ch
 myaipa.ch
 myair.ch
 myair0.ch
@@ -2461,7 +2461,6 @@ myauditreport.ch
 myauer.ch
 myaugenarzt.ch
 myauktion.ch
-myauktionen.ch
 myaureo.ch
 myaurora.ch
 myaurum.ch
@@ -2780,6 +2779,7 @@ mybestbrands.ch
 mybestbusiness.ch
 mybestcar.ch
 mybestcasino.ch
+mybestchoice.ch
 mybestcloud.ch
 mybestcoach.ch
 mybestcompany.ch
@@ -3098,6 +3098,7 @@ myboxes.ch
 myboxgift.ch
 myboxmail.ch
 myboxplease.ch
+myboxscanner.ch
 myboxstorage.ch
 myboxvod.ch
 myboxx.ch
@@ -6138,7 +6139,6 @@ myhomebutler.ch
 myhomecare.ch
 myhomecinema.ch
 myhomecloud.ch
-myhomecollection.ch
 myhomeconsulting.ch
 myhomecontrol.ch
 myhomecraft.ch
@@ -6284,7 +6284,6 @@ myhousetohome.ch
 myhousing.ch
 myhouz.ch
 myhouzy.ch
-myhowngym.ch
 myhp.ch
 myhpa.ch
 myhr.ch
@@ -6339,6 +6338,7 @@ myiabsf.ch
 myiaf.ch
 myiasa.ch
 myiban.ch
+myibaw.ch
 myibc.ch
 myibex.ch
 myibg.ch
@@ -6399,6 +6399,7 @@ myimmopac.ch
 myimmopage.ch
 myimmoplanet.ch
 myimmopub.ch
+myimmortal.ch
 myimmoscout24.ch
 myimmosearch.ch
 myimmoservice.ch
@@ -7754,7 +7755,6 @@ mymix.ch
 mymmm.ch
 mymms.ch
 mymo.ch
-mymoba.ch
 mymobi.ch
 mymobil.ch
 mymobile-online.ch
@@ -9189,7 +9189,6 @@ myprovider.ch
 myprovis.ch
 myproxi.ch
 myproximity.ch
-myproxy.ch
 mypshipping.ch
 mypsoriasis.ch
 mypsy.ch
@@ -10489,7 +10488,6 @@ myspring.ch
 myspringfield.ch
 mysprinkle.ch
 mysps.ch
-myspy.ch
 mysq.ch
 mysql.ch
 mysqlcluster.ch
@@ -10531,6 +10529,7 @@ mystara.ch
 mystarbucksrewards.ch
 mystarfire.ch
 mystarkoch.ch
+mystarlight-outdoor.ch
 mystarlight.ch
 mystarshop.ch
 mystart.ch
@@ -11125,6 +11124,8 @@ myswissfarmfood.ch
 myswissfinance.ch
 myswissfind.ch
 myswissfinds.ch
+myswissflex.ch
+myswissflexofficial.ch
 myswissfoodpyramid.ch
 myswissfoundation.ch
 myswissfoundations.ch
@@ -11784,31 +11785,13 @@ mytournament.ch
 mytourobs.ch
 mytours.ch
 mytown.ch
-mytoys-einladungskarten.ch
-mytoys-geschenke.ch
-mytoys-geschenkewelt.ch
-mytoys-geschenkideen.ch
-mytoys-gifting.ch
-mytoys-gifts.ch
 mytoys-group.ch
 mytoys-gruppe.ch
-mytoys-kartenmacherei.ch
 mytoys-online.ch
-mytoys-personalisierte-geschenke.ch
-mytoys-presents.ch
 mytoys-shop.ch
 mytoys.ch
-mytoyseinladungskarten.ch
-mytoysgeschenke.ch
-mytoysgeschenkewelt.ch
-mytoysgeschenkideen.ch
-mytoysgifting.ch
-mytoysgifts.ch
 mytoysgroup.ch
 mytoysgruppe.ch
-mytoyskartenmacherei.ch
-mytoyspersonalisiertegeschenke.ch
-mytoyspresents.ch
 mytpm.ch
 mytracability.ch
 mytrachten.ch

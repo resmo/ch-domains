@@ -234,7 +234,6 @@ ns.fotomorgana.ch
 ns.freewifi.ch
 ns.freizeitmobilestucki.ch
 ns.friede.ch
-ns.frogtime.ch
 ns.gamingfederation.ch
 ns.gbassurances.ch
 ns.geberit.ch
@@ -1047,6 +1046,7 @@ ns1.beton-rc.ch
 ns1.bettens.ch
 ns1.bettle.ch
 ns1.bewebt.ch
+ns1.bex-haustechnik.ch
 ns1.beyondcorporation.ch
 ns1.bf-net.ch
 ns1.bfag.ch
@@ -1614,6 +1614,7 @@ ns1.ecolize.ch
 ns1.ecomedia.ch
 ns1.ecomp.ch
 ns1.econostrom.ch
+ns1.ecothermsolar.ch
 ns1.ecowave.ch
 ns1.ecoweb.ch
 ns1.edebuser.ch
@@ -1707,7 +1708,6 @@ ns1.extrahost.ch
 ns1.eyemo.ch
 ns1.ezit.ch
 ns1.ezns.ch
-ns1.f-i-s.ch
 ns1.f1rstlevel.ch
 ns1.f6link.ch
 ns1.f6mail.ch
@@ -3284,6 +3284,7 @@ ns1.saveyourskin.ch
 ns1.savvy.ch
 ns1.sb-akademie.ch
 ns1.sbakademie.ch
+ns1.sbet88.ch
 ns1.sbhost.ch
 ns1.sbiz.ch
 ns1.sbru.ch
@@ -4447,6 +4448,7 @@ ns2.beton-rc.ch
 ns2.bettens.ch
 ns2.bettle.ch
 ns2.bewebt.ch
+ns2.bex-haustechnik.ch
 ns2.beyondcorporation.ch
 ns2.bger.ch
 ns2.bgint.ch
@@ -4979,6 +4981,7 @@ ns2.ecolealaferme.ch
 ns2.ecolize.ch
 ns2.ecomp.ch
 ns2.econostrom.ch
+ns2.ecothermsolar.ch
 ns2.ecoweb.ch
 ns2.edebuser.ch
 ns2.edunetwork.ch
@@ -5076,7 +5079,6 @@ ns2.eyemo.ch
 ns2.eyeswiss.ch
 ns2.ezit.ch
 ns2.ezns.ch
-ns2.f-i-s.ch
 ns2.f1rstlevel.ch
 ns2.f6link.ch
 ns2.f6mail.ch
@@ -6574,6 +6576,7 @@ ns2.saveyourskin.ch
 ns2.savvy.ch
 ns2.sb-akademie.ch
 ns2.sbakademie.ch
+ns2.sbet88.ch
 ns2.sbhost.ch
 ns2.sbiz.ch
 ns2.sc-ns.ch
@@ -7605,7 +7608,6 @@ ns3.exceptis.ch
 ns3.exosys.ch
 ns3.eyeswiss.ch
 ns3.ezns.ch
-ns3.f-i-s.ch
 ns3.f1rstlevel.ch
 ns3.fabioforni.ch
 ns3.faelix.ch

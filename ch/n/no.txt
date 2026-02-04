@@ -160,7 +160,6 @@ no-low.ch
 no-ma.ch
 no-mad.ch
 no-mail.ch
-no-mansland.ch
 no-matter.ch
 no-message.ch
 no-mi.ch
@@ -1214,6 +1213,7 @@ nochaintechnology.ch
 nochamleben.ch
 nochat.ch
 nochaufkurs.ch
+nochber.ch
 nochbesser.ch
 nochbuur.ch
 noche-cubana-basel.ch
@@ -3471,7 +3471,6 @@ nomis-foundation.ch
 nomis-verwalterei.ch
 nomis.ch
 nomisfoundation.ch
-nomisma.ch
 nomismusic.ch
 nomisschweizer.ch
 nomissolutions.ch
@@ -5284,6 +5283,7 @@ nordicwalkingclubhauterive.ch
 nordicwalkingferien.ch
 nordicwalkingfranatura.ch
 nordicwalkingticino.ch
+nordicwalls.ch
 nordicware.ch
 nordicwear.ch
 nordicweb.ch
@@ -5434,6 +5434,7 @@ nordlyssport.ch
 nordlystauchen.ch
 nordm.ch
 nordmadr.ch
+nordmagnetique.ch
 nordmail.ch
 nordmann-gold.ch
 nordmann-holding.ch
@@ -8492,7 +8493,6 @@ notfallnummern.ch
 notfallnummernschweiz.ch
 notfallordner.ch
 notfallorganisation.ch
-notfallpaedagogik.ch
 notfallpaket.ch
 notfallpanda.ch
 notfallpass-id.ch
@@ -9064,7 +9064,6 @@ noticiassuiza.ch
 notickzone.ch
 notidesk.ch
 notie.ch
-notiert.ch
 noties.ch
 notiesgmbh.ch
 notif.ch
@@ -10269,6 +10268,7 @@ nova-store.ch
 nova-studio.ch
 nova-swiss.ch
 nova-synergy.ch
+nova-system.ch
 nova-systems.ch
 nova-talentagentur.ch
 nova-tax.ch
@@ -10559,7 +10559,6 @@ novafon-dev.ch
 novafon-tier.ch
 novafon-vet.ch
 novafon.ch
-novafood.ch
 novafoods.ch
 novafoodsuisse.ch
 novaforge.ch
@@ -10694,6 +10693,7 @@ novalearning.ch
 novaled.ch
 novalee.ch
 novalegal.ch
+novalena.ch
 novalenic.ch
 novaletis.ch
 novalex-rechtsanwaelte.ch
@@ -11430,6 +11430,7 @@ noveltis-suisse.ch
 noveltis-switzerland.ch
 noveltrade.ch
 noveltree.ch
+novelty-suisse.ch
 novelty.ch
 noveltyclima.ch
 noveltypartners.ch
@@ -11516,11 +11517,13 @@ nover-archi.ch
 nover-architecture.ch
 nover.ch
 novera-coverage.ch
+novera-group.ch
 novera-immobilien.ch
 novera-partners.ch
 novera.ch
 noveracars.ch
 noveracollection.ch
+noveragroup.ch
 noveras.ch
 noverestaurant.ch
 noveria.ch

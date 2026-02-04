@@ -923,7 +923,6 @@ hrm-swiss.ch
 hrm-systeme.ch
 hrm-systems.ch
 hrm-temp.ch
-hrm-tests.ch
 hrm-tools.ch
 hrm-venosta.ch
 hrm-vorsorge.ch
@@ -1214,6 +1213,7 @@ hrswiss.ch
 hrswisspol.ch
 hrswisswatch.ch
 hrsz.ch
+hrsztools.ch
 hrt-tyres.ch
 hrt.ch
 hrtalent.ch
@@ -1266,6 +1266,7 @@ hruska.ch
 hruskova.ch
 hrustic.ch
 hrv-analyse.ch
+hrv-ch.ch
 hrv-coaching.ch
 hrv-engineering.ch
 hrv-institut.ch

@@ -14,6 +14,7 @@ ch-8000.ch
 ch-93.ch
 ch-a.ch
 ch-ab.ch
+ch-activity.ch
 ch-adadadssad.ch
 ch-address.ch
 ch-adresse.ch
@@ -790,7 +791,6 @@ chablaisactu.ch
 chablaisagglo.ch
 chablaisaoc.ch
 chablaisauto-ecoles.ch
-chablaisauto-ecoles1.ch
 chablaisavocat.ch
 chablaisblues.ch
 chablaisbox.ch
@@ -964,7 +964,6 @@ chaeferli.ch
 chaeferlitreff.ch
 chaefernaescht.ch
 chaefers.ch
-chaeferstube.ch
 chaefertreff-seuzi.ch
 chaeferverlag.ch
 chaeferwerkstatt.ch
@@ -1698,6 +1697,7 @@ chalet-alpenrose.ch
 chalet-alpenruh.ch
 chalet-alpenstille.ch
 chalet-alphubel.ch
+chalet-alpsegen.ch
 chalet-altesse-restaurant-zumsee.ch
 chalet-altishofen.ch
 chalet-am-birsig.ch
@@ -5804,6 +5804,7 @@ charleshelbling.ch
 charleshirschi.ch
 charleshofer.ch
 charlesingalls.ch
+charlesjacob.ch
 charlesjann.ch
 charlesjenny.ch
 charlesjourdan.ch
@@ -8116,6 +8117,7 @@ chavannes26.ch
 chavanon.ch
 chavasirup.ch
 chavaz-archi.ch
+chavaz-golf.ch
 chavaz-sa.ch
 chavaz.ch
 chavazbien.ch
@@ -11018,6 +11020,7 @@ cheval-loisirs.ch
 cheval-mediateur.ch
 cheval-mediation.ch
 cheval-miroir.ch
+cheval-montsoleil.ch
 cheval-nature.ch
 cheval-par-coeur.ch
 cheval-pferd.ch
@@ -11386,12 +11389,10 @@ chez-heidi.ch
 chez-ilham.ch
 chez-isa.ch
 chez-jaime-lausanne.ch
-chez-jane.ch
 chez-janine.ch
 chez-jean-et-daisy.ch
 chez-jean-pierre.ch
 chez-jeane.ch
-chez-jeanne.ch
 chez-justine.ch
 chez-k.ch
 chez-l-horloger.ch
@@ -11671,7 +11672,6 @@ chezhenry.ch
 chezjacky.ch
 chezjaco.ch
 chezjan.ch
-chezjane.ch
 chezjanine-outlet.ch
 chezjanine.ch
 chezjanineoutlet.ch
@@ -12391,6 +12391,7 @@ chiaverio.ch
 chiavetta.ch
 chiavevita.ch
 chiavi-architektur.ch
+chiavi-ascona.ch
 chiavi-auto.ch
 chiavi-samedan.ch
 chiavi.ch
@@ -12466,7 +12467,6 @@ chicago-luzern.ch
 chicago-pneumatic.ch
 chicago-seven.ch
 chicago.ch
-chicago1928.ch
 chicagobar.ch
 chicagoblues.ch
 chicagopizza.ch
@@ -12900,6 +12900,7 @@ chienbleu.ch
 chienborder.ch
 chienboxer.ch
 chienchat.ch
+chienchatgold.ch
 chienchien-hundehort.ch
 chienchienhundehort.ch
 chienconfiance.ch
@@ -13058,6 +13059,7 @@ chigua.ch
 chigung.ch
 chih.ch
 chiharmony.ch
+chihiandco.ch
 chihiros.ch
 chihirosaquaticstudio.ch
 chiho.ch
@@ -18643,6 +18645,7 @@ chris-wellness.ch
 chris-wunderlich.ch
 chris.ch
 chris1.ch
+chris10.ch
 chris27.ch
 chris77.ch
 chrisa-personaltrainer.ch
@@ -20194,6 +20197,7 @@ christianmuehlethaler.ch
 christianmueller-lerncoaching.ch
 christianmueller.ch
 christianmuenchinger.ch
+christianmuhmenthaler.ch
 christianmunoz.ch
 christianmunz.ch
 christiannetwork.ch
@@ -21130,7 +21134,6 @@ christlich-verlieben.ch
 christlich-verliebt.ch
 christlich.ch
 christliche-beratung.ch
-christliche-beratungsstelle.ch
 christliche-bibliothek.ch
 christliche-biografien.ch
 christliche-buecher.ch
@@ -21164,7 +21167,6 @@ christliche-medien.ch
 christliche-mission.ch
 christliche-musik.ch
 christliche-ostmission.ch
-christliche-paarberatung.ch
 christliche-paedagogik.ch
 christliche-partnerboerse.ch
 christliche-partnersuche.ch
@@ -21185,7 +21187,6 @@ christliche-sprachschulen.ch
 christliche-startseite.ch
 christliche-stellen.ch
 christliche-stellenangebote.ch
-christliche-theraphie.ch
 christliche-versammlung-saanenland.ch
 christliche-weihnachtsgeschichten.ch
 christliche-weiterbildung.ch
@@ -22231,6 +22232,7 @@ chrom-felgen.ch
 chrom-kosova.ch
 chrom-kosovo.ch
 chrom-line.ch
+chrom-shop.ch
 chrom.ch
 chrom47.ch
 chroma-messer.ch
@@ -23211,7 +23213,6 @@ chuchi-kerzers.ch
 chuchi-lade.ch
 chuchi-saeuliamt.ch
 chuchi-studio.ch
-chuchi-taxi.ch
 chuchi-waelt.ch
 chuchi-welt.ch
 chuchi.ch
@@ -23274,7 +23275,6 @@ chuchischeff.ch
 chuchisinfoniker.ch
 chuchisolution.ch
 chuchistudio.ch
-chuchitaxi.ch
 chuchitiger.ch
 chuchitip.ch
 chuchitisch.ch
@@ -24016,7 +24016,6 @@ chwebdesign.ch
 chweber.ch
 chwebsite.ch
 chweed.ch
-chweibel.ch
 chweit.ch
 chweizerclinic.ch
 chweka.ch
