@@ -832,7 +832,6 @@ ns1.algorithma-it.ch
 ns1.algoswiss.ch
 ns1.alixon.ch
 ns1.alkantara.ch
-ns1.alletta.ch
 ns1.allforhosting.ch
 ns1.alliance-citoyenne.ch
 ns1.allsense.ch
@@ -1381,6 +1380,7 @@ ns1.ctfsystem.ch
 ns1.cuandu.ch
 ns1.cubic.ch
 ns1.cuernavaca.ch
+ns1.cundn.ch
 ns1.cupgift.ch
 ns1.curaden-hosting.ch
 ns1.curiaweb.ch
@@ -2061,6 +2061,7 @@ ns1.hostify.ch
 ns1.hosting-atprovider.ch
 ns1.hosting-horat.ch
 ns1.hosting-power.ch
+ns1.hosting2go.ch
 ns1.hosting360.ch
 ns1.hosting365.ch
 ns1.hosting4you.ch
@@ -3159,7 +3160,6 @@ ns1.rda.ch
 ns1.rdde.ch
 ns1.reachup.ch
 ns1.realness.ch
-ns1.reb-one.ch
 ns1.reci.ch
 ns1.redcow.ch
 ns1.redia.ch
@@ -4032,7 +4032,6 @@ ns1.yousway.ch
 ns1.yparc-hotel.ch
 ns1.ypsonet.ch
 ns1.yuminet.ch
-ns1.zag-winterthur.ch
 ns1.zahnarztvermittlung.ch
 ns1.zebs.ch
 ns1.zeedivision.ch
@@ -4234,7 +4233,6 @@ ns2.algorithma-it.ch
 ns2.algoswiss.ch
 ns2.alixon.ch
 ns2.alkantara.ch
-ns2.alletta.ch
 ns2.allforhosting.ch
 ns2.alliance-citoyenne.ch
 ns2.allsense.ch
@@ -4773,6 +4771,7 @@ ns2.cste.ch
 ns2.ctfsystem.ch
 ns2.cuandu.ch
 ns2.cubic.ch
+ns2.cundn.ch
 ns2.cupgift.ch
 ns2.curaden-hosting.ch
 ns2.curiaweb.ch
@@ -5415,6 +5414,7 @@ ns2.hostify.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
 ns2.hosting-power.ch
+ns2.hosting2go.ch
 ns2.hosting360.ch
 ns2.hosting365.ch
 ns2.hosting4you.ch
@@ -6463,7 +6463,6 @@ ns2.rda.ch
 ns2.reachup.ch
 ns2.real-stein.ch
 ns2.realness.ch
-ns2.reb-one.ch
 ns2.reci.ch
 ns2.redcow.ch
 ns2.redia.ch
@@ -7316,7 +7315,6 @@ ns2.yourspot.ch
 ns2.yousway.ch
 ns2.yparc-hotel.ch
 ns2.ypsonet.ch
-ns2.zag-winterthur.ch
 ns2.zahnarztvermittlung.ch
 ns2.zeedivision.ch
 ns2.zeitglei.ch
@@ -7541,7 +7539,6 @@ ns3.cyberlink.ch
 ns3.darryl.ch
 ns3.dataperformance.ch
 ns3.dataxa.ch
-ns3.dcsolution.ch
 ns3.ddis.ch
 ns3.dearsolidaritesuisse.ch
 ns3.deimos.ch
@@ -7710,6 +7707,7 @@ ns3.ify.ch
 ns3.imp.ch
 ns3.implog.ch
 ns3.incide.ch
+ns3.inetworx.ch
 ns3.infinitesolutions.ch
 ns3.infoconnect.ch
 ns3.infomaniak-test-migration-mailonly-deux.ch
@@ -8214,7 +8212,6 @@ ns4.cleanmail.ch
 ns4.coltellino.ch
 ns4.competec.ch
 ns4.computech-rz.ch
-ns4.dcsolution.ch
 ns4.dellacasameride.ch
 ns4.demicomp.ch
 ns4.dermacast.ch

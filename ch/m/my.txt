@@ -335,7 +335,6 @@ my-cma.ch
 my-cmd.ch
 my-cme.ch
 my-coach.ch
-my-coaching.ch
 my-coca-cola.ch
 my-cockpit.ch
 my-code-chat-bot.ch
@@ -2002,7 +2001,6 @@ my128.ch
 my1414.ch
 my1688.ch
 my1755academy.ch
-my1one.ch
 my1stmillion.ch
 my1styears.ch
 my1tv.ch
@@ -2021,7 +2019,6 @@ my24seven.ch
 my24training.ch
 my2ct.ch
 my2dos.ch
-my2go.ch
 my2home-rheinwald.ch
 my2n.ch
 my2ndhome.ch
@@ -2469,6 +2466,7 @@ myaustrian.ch
 myausweis.ch
 myauszug.ch
 myauto.ch
+myauto360.ch
 myautoabo.ch
 myautoaboschweiz.ch
 myautoecole.ch
@@ -2882,11 +2880,13 @@ mybillett.ch
 mybillette.ch
 mybilletterie.ch
 mybillie.ch
+mybills.ch
 mybilly.ch
 mybim.ch
 mybimbolino.ch
 mybinellicar.ch
 mybingo.ch
+mybini.ch
 mybio.ch
 mybiobalance.ch
 mybioclean.ch
@@ -3287,6 +3287,7 @@ mycabin.ch
 mycabineexclusive.ch
 mycable.ch
 mycaceb.ch
+mycactus.ch
 mycada.ch
 mycadday.ch
 mycados.ch
@@ -3489,7 +3490,6 @@ mycask.ch
 mycaspar.ch
 mycassino.ch
 mycast.ch
-mycastel.ch
 mycasting.ch
 mycastle.ch
 mycasuallounge.ch
@@ -4090,6 +4090,7 @@ mycreation.ch
 mycreations.ch
 mycreativecase.ch
 mycreativehome.ch
+mycreativelab.ch
 mycreativeprints.ch
 mycred.ch
 mycredify.ch
@@ -6648,6 +6649,7 @@ mykana.ch
 mykanban.ch
 mykanti.ch
 mykantonalbank.ch
+mykaoshq.ch
 mykar.ch
 mykard.ch
 mykards.ch
@@ -7612,6 +7614,7 @@ mymediaworld.ch
 mymedical.ch
 mymedicaldirective.ch
 mymedicalrecord.ch
+mymedicalservicetest.ch
 mymedicaltwin.ch
 mymedicheck.ch
 mymediclinic.ch
@@ -8171,6 +8174,7 @@ mynutriplus.ch
 mynutrition.ch
 mynutritioncoach.ch
 mynutritionlab.ch
+mynutritionmatters.ch
 mynutritionsconcept.ch
 mynutriworld.ch
 mynuts.ch
@@ -9045,6 +9049,7 @@ mypralines.ch
 mypraxinova.ch
 mypraxis.ch
 myprefikar.ch
+mypreludio.ch
 mypremium.ch
 mypremiumdesign.ch
 mypremiumshop.ch
@@ -9674,6 +9679,7 @@ myromandie.ch
 myromtec.ch
 myron.ch
 myronjay.ch
+myronov-it.ch
 myroof.ch
 myroofblog.ch
 myroofbox.ch
@@ -9737,6 +9743,7 @@ myrthasteiner.ch
 myrtil.ch
 myrtillabox.ch
 myrtille-et-mirabelle.ch
+myrtille-raverdy-sagefemme.ch
 myrtille.ch
 myrtilleetcompagnie.ch
 myrtillesetconfettis.ch
@@ -10521,6 +10528,7 @@ mystake-casino.ch
 mystake-ch.ch
 mystake.ch
 mystakecasino.ch
+mystakeofficial.ch
 mystall.ch
 mystallikon.ch
 mystammtisch.ch
@@ -11385,7 +11393,6 @@ mytcgshop.ch
 mytcgstore.ch
 mytcm.ch
 mytcn.ch
-mytcreative.ch
 mytcs.ch
 mytcv.ch
 mytdh.ch
@@ -11513,7 +11520,6 @@ mythen-gartenbau.ch
 mythen-hypnose.ch
 mythen-keramik.ch
 mythen-move.ch
-mythen-park.ch
 mythen-post.ch
 mythen-region.ch
 mythen-rundreise.ch
@@ -11749,7 +11755,6 @@ mytoenung.ch
 mytoern.ch
 mytoerns.ch
 mytoggenburg.ch
-mytogo.ch
 mytoilet-abo.ch
 mytoilet.ch
 mytoken.ch
@@ -12382,7 +12387,6 @@ mywebeye.ch
 mywebfactory.ch
 mywebforum.ch
 mywebhost.ch
-mywebhosting.ch
 mywebid.ch
 mywebland.ch
 myweblife.ch
