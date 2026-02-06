@@ -54,6 +54,7 @@ udc-international.ch
 udc-ju.ch
 udc-jura.ch
 udc-lac.ch
+udc-lancy.ch
 udc-lausanne.ch
 udc-locarno.ch
 udc-lugano.ch
@@ -100,7 +101,6 @@ udcgland.ch
 udcheremence.ch
 udcjb.ch
 udclaneuveville.ch
-udclaneuvevillech.ch
 udclatour.ch
 udclemont.ch
 udcm.ch
@@ -271,6 +271,8 @@ udrytest1.ch
 udrytest2.ch
 udrytester.ch
 udrywindows.ch
+udrywp1.ch
+udrywp2.ch
 uds.ch
 uds10.ch
 udsc.ch

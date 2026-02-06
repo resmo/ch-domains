@@ -150,8 +150,6 @@ isa.ch
 isa1.ch
 isaa-archi.ch
 isaa.ch
-isaac-cycle.ch
-isaac-cycles.ch
 isaac-imleben.ch
 isaac-isaac.ch
 isaac-nutrition.ch
@@ -1260,7 +1258,10 @@ isdntelefon.ch
 isdo.ch
 isdochegal.ch
 isdomussardinia.ch
+isds-schule.ch
+isds-schulen.ch
 isds.ch
+isdsschule.ch
 isdt.ch
 isdtapp.ch
 isdu.ch
@@ -2122,7 +2123,6 @@ islandcampertours.ch
 islandcollection.ch
 islandcruises.ch
 islande-2018.ch
-islande-a-cheval.ch
 islande.ch
 islanders.ch
 islandfelle.ch
@@ -2203,7 +2203,6 @@ isle-cloud.ch
 isle-of-dogs.ch
 isle-of-man-faehre.ch
 isle-of-man.ch
-isle-suisse.ch
 isle.ch
 isleep.ch
 isleg-energy.ch
@@ -3608,6 +3607,7 @@ iss4u.ch
 issa-barbershop.ch
 issa-sa.ch
 issa.ch
+issabella.ch
 issacoiffeur.ch
 issacostumes.ch
 issag.ch
@@ -4136,6 +4136,7 @@ isuzudmax.ch
 isv-galgenen.ch
 isv-gmbh.ch
 isv-portal.ch
+isv-schule.ch
 isv-schulen.ch
 isv-schweiz.ch
 isv-sr.ch
@@ -4167,6 +4168,7 @@ isvo.ch
 isvogel.ch
 isvp.ch
 isvresult.ch
+isvschule.ch
 isvtechno.ch
 isvworld.ch
 isw-ag.ch

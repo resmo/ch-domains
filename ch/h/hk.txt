@@ -1,6 +1,7 @@
 hk-ag.ch
 hk-agency.ch
 hk-architekten.ch
+hk-architekturbuero.ch
 hk-bau.ch
 hk-baukasten.ch
 hk-bellach.ch
@@ -17,7 +18,6 @@ hk-faellanden.ch
 hk-gebaeude-technik.ch
 hk-gebaeudereinigung.ch
 hk-gebaeudetechnik.ch
-hk-group.ch
 hk-gt.ch
 hk-haarinstitut.ch
 hk-healthsignage.ch
@@ -148,7 +148,6 @@ hkginfo.ch
 hkgmanagement.ch
 hkgr.ch
 hkgroup.ch
-hkgroupag.ch
 hkgt.ch
 hkgtreff.ch
 hkh-translation.ch

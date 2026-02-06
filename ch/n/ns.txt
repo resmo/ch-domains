@@ -766,6 +766,7 @@ ns1.abschnitt.ch
 ns1.abschnittuboldi.ch
 ns1.abstrakt.ch
 ns1.absturzi.ch
+ns1.acberoche.ch
 ns1.accessdenied.ch
 ns1.accommoda.ch
 ns1.acdev.ch
@@ -1605,7 +1606,6 @@ ns1.easysystems.ch
 ns1.easytux.ch
 ns1.eatorder.ch
 ns1.eb-zuerich.ch
-ns1.ebfiduciaria.ch
 ns1.ecaftan.ch
 ns1.ecaupo.ch
 ns1.ecodev.ch
@@ -1956,7 +1956,6 @@ ns1.gut-werbung.ch
 ns1.guthrie.ch
 ns1.gutzi-computer.ch
 ns1.gvs.ch
-ns1.gwebdesign.ch
 ns1.gymer.ch
 ns1.h-cockpit.ch
 ns1.h-web.ch
@@ -3095,7 +3094,6 @@ ns1.prosecure.ch
 ns1.prospektli.ch
 ns1.prostyle.ch
 ns1.protect7.ch
-ns1.protectseven.ch
 ns1.proton.ch
 ns1.protonmail.ch
 ns1.protontech.ch
@@ -3452,6 +3450,7 @@ ns1.softwareschneiderei.ch
 ns1.softxs.ch
 ns1.sogea.ch
 ns1.sol-tax.ch
+ns1.solar-bier.ch
 ns1.solar101.ch
 ns1.solarcom.ch
 ns1.solarisnet.ch
@@ -4171,6 +4170,7 @@ ns2.abs.ch
 ns2.abschnitt.ch
 ns2.abschnittuboldi.ch
 ns2.abstrakt.ch
+ns2.acberoche.ch
 ns2.accessdenied.ch
 ns2.accommoda.ch
 ns2.ackle.ch
@@ -4973,7 +4973,6 @@ ns2.easysystems.ch
 ns2.easytux.ch
 ns2.eatorder.ch
 ns2.eb-zuerich.ch
-ns2.ebfiduciaria.ch
 ns2.ecaftan.ch
 ns2.eclavis.ch
 ns2.ecolealaferme.ch
@@ -5316,7 +5315,6 @@ ns2.gut-werbung.ch
 ns2.guthrie.ch
 ns2.gutzi-computer.ch
 ns2.gvs.ch
-ns2.gwebdesign.ch
 ns2.gymer.ch
 ns2.h-cockpit.ch
 ns2.h-web.ch
@@ -6400,7 +6398,6 @@ ns2.prosecure.ch
 ns2.prospektli.ch
 ns2.prostyle.ch
 ns2.protect7.ch
-ns2.protectseven.ch
 ns2.proton.ch
 ns2.protonmail.ch
 ns2.protontech.ch
@@ -6749,6 +6746,7 @@ ns2.softwareschneiderei.ch
 ns2.softxs.ch
 ns2.sogea.ch
 ns2.sol-tax.ch
+ns2.solar-bier.ch
 ns2.solar101.ch
 ns2.solarbox.ch
 ns2.solarcom.ch
@@ -7539,6 +7537,7 @@ ns3.cyberlink.ch
 ns3.darryl.ch
 ns3.dataperformance.ch
 ns3.dataxa.ch
+ns3.dcsolution.ch
 ns3.ddis.ch
 ns3.dearsolidaritesuisse.ch
 ns3.deimos.ch
@@ -8517,7 +8516,6 @@ ns7.b-source.ch
 ns7.bellinzonaweb.ch
 ns7.bosslab.ch
 ns7.call-up.ch
-ns7.ch
 ns7.creativeagent.ch
 ns7.dizmo.ch
 ns7.engitech.ch
@@ -8545,7 +8543,6 @@ ns8.virtualhosts.ch
 ns8.vs.ch
 ns9.b-source.ch
 ns9.bellinzonaweb.ch
-ns9.ch
 ns9.engitech.ch
 ns9.goline.ch
 ns9.neotrend.ch

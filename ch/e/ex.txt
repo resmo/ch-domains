@@ -1216,7 +1216,6 @@ execute-music.ch
 execute.ch
 executeach.ch
 executehub.ch
-executeit.ch
 executeur-testamentaire.ch
 executeweb.ch
 executia.ch
@@ -1225,6 +1224,7 @@ execution-only.ch
 execution.ch
 executioner.ch
 executiononly.ch
+executionworks.ch
 executiv-manager.ch
 executiv.ch
 executive-advisory.ch
@@ -3771,6 +3771,7 @@ expertsearch.ch
 expertsecrets.ch
 expertsecuriteincendie.ch
 expertselect.ch
+expertselectricite.ch
 expertseminars.ch
 expertsender.ch
 expertseo.ch
