@@ -227,7 +227,6 @@ ns.fide-service.ch
 ns.finbar.ch
 ns.flake-dns.ch
 ns.flexicare.ch
-ns.fmv2.ch
 ns.foobarbaz.ch
 ns.forapi.ch
 ns.fotomorgana.ch
@@ -399,7 +398,6 @@ ns.rebmatt.ch
 ns.redics.ch
 ns.reputatio.ch
 ns.revamp-it.ch
-ns.rhone-mbr.ch
 ns.richter.ch
 ns.rievo.ch
 ns.rixnet.ch
@@ -774,7 +772,6 @@ ns1.ackle.ch
 ns1.acloud.ch
 ns1.actim.ch
 ns1.action-photography.ch
-ns1.activelan.ch
 ns1.activex.ch
 ns1.adastraweb.ch
 ns1.adbw.ch
@@ -1199,7 +1196,6 @@ ns1.carreview.ch
 ns1.carrosseriedesnations.ch
 ns1.carspace.ch
 ns1.casalavida.ch
-ns1.case27.ch
 ns1.casino-suisse.ch
 ns1.casprode.ch
 ns1.casy.ch
@@ -1775,7 +1771,6 @@ ns1.flatee.ch
 ns1.flex.ch
 ns1.flexims.ch
 ns1.flexpep.ch
-ns1.flexsoc.ch
 ns1.flm-immo.ch
 ns1.floor.ch
 ns1.floowedit.ch
@@ -1856,7 +1851,7 @@ ns1.gastromarkt24.ch
 ns1.gastronomiebedarf.ch
 ns1.gattleninfo.ch
 ns1.gaudiano.ch
-ns1.gcybr.ch
+ns1.gebr-nishori.ch
 ns1.gecko-media.ch
 ns1.gecloud.ch
 ns1.geiger-online.ch
@@ -3093,7 +3088,6 @@ ns1.prontomail.ch
 ns1.prosecure.ch
 ns1.prospektli.ch
 ns1.prostyle.ch
-ns1.protect7.ch
 ns1.proton.ch
 ns1.protonmail.ch
 ns1.protontech.ch
@@ -3260,6 +3254,7 @@ ns1.s3lph.ch
 ns1.saalsporthalle.ch
 ns1.saco2web.ch
 ns1.sadns.ch
+ns1.sagar.ch
 ns1.sagitservices.ch
 ns1.sagservices.ch
 ns1.sahac.anniv.ch
@@ -4177,7 +4172,6 @@ ns2.ackle.ch
 ns2.acloud.ch
 ns2.actim.ch
 ns2.action-photography.ch
-ns2.activelan.ch
 ns2.activex.ch
 ns2.adastraweb.ch
 ns2.adbw.ch
@@ -4589,7 +4583,6 @@ ns2.carreview.ch
 ns2.carrosseriedesnations.ch
 ns2.carspace.ch
 ns2.casalavida.ch
-ns2.case27.ch
 ns2.casino-suisse.ch
 ns2.casprode.ch
 ns2.casy.ch
@@ -5139,7 +5132,6 @@ ns2.flatee.ch
 ns2.flex.ch
 ns2.flexicare.ch
 ns2.flexpep.ch
-ns2.flexsoc.ch
 ns2.flm-immo.ch
 ns2.floor.ch
 ns2.floowedit.ch
@@ -5217,7 +5209,7 @@ ns2.gastromarkt24.ch
 ns2.gastronomiebedarf.ch
 ns2.gattleninfo.ch
 ns2.gaudiano.ch
-ns2.gcybr.ch
+ns2.gebr-nishori.ch
 ns2.gecko-media.ch
 ns2.gecloud.ch
 ns2.geiger-online.ch
@@ -6397,7 +6389,6 @@ ns2.prontomail.ch
 ns2.prosecure.ch
 ns2.prospektli.ch
 ns2.prostyle.ch
-ns2.protect7.ch
 ns2.proton.ch
 ns2.protonmail.ch
 ns2.protontech.ch
@@ -6553,6 +6544,7 @@ ns2.s3lph.ch
 ns2.saalsporthalle.ch
 ns2.saco2web.ch
 ns2.sadns.ch
+ns2.sagar.ch
 ns2.sagitservices.ch
 ns2.sagservices.ch
 ns2.sahac.anniv.ch
@@ -8805,6 +8797,7 @@ nsm.ch
 nsmagazine.ch
 nsmail.ch
 nsmaschinenag.ch
+nsmaterials.ch
 nsmc.ch
 nsmediadesign.ch
 nsmedical.ch

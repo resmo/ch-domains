@@ -589,6 +589,7 @@ la-favolosa.ch
 la-fayette.ch
 la-fb.ch
 la-fe.ch
+la-fed.ch
 la-fee-beaute.ch
 la-fee-des-sites.ch
 la-fee-du-petit-chien.ch
@@ -687,6 +688,7 @@ la-gabiare.ch
 la-galerie.ch
 la-gambade.ch
 la-gamelle.ch
+la-garde.ch
 la-gardienne-du-temple.ch
 la-gare.ch
 la-garenne.ch
@@ -810,6 +812,7 @@ la-koa.ch
 la-kritzer.ch
 la-ku.ch
 la-la-la.ch
+la-la-land.ch
 la-la.ch
 la-lage.ch
 la-lampe-a-huile.ch
@@ -1169,6 +1172,7 @@ la-perla-belluno.ch
 la-perla-coiffeur.ch
 la-perla-del-sud-zuerich.ch
 la-perla-del-sud.ch
+la-perla-nera.ch
 la-perla-pizza-pasta-zuerich.ch
 la-perla-services.ch
 la-perla-worb.ch
@@ -2041,6 +2045,8 @@ lab-science.ch
 lab-security.ch
 lab-shield.ch
 lab-sits.ch
+lab-solution.ch
+lab-solutions.ch
 lab-stuff.ch
 lab-supply.ch
 lab-talus.ch
@@ -2651,6 +2657,7 @@ labello.ch
 labellocal.ch
 labellos.ch
 labellyrik.ch
+labelm.ch
 labelmail.ch
 labelmaker.ch
 labelmanagement.ch
@@ -4838,6 +4845,7 @@ lacentralehqe.ch
 lacentraleloft.ch
 lacentralepro.ch
 lacentralpro.ch
+laceppagnolasarda.ch
 laceproductions.ch
 lacer.ch
 lacera.ch
@@ -5497,17 +5505,13 @@ laclefvevey.ch
 laclelausannoise.ch
 laclemagique.ch
 lacleman.ch
-laclemanassociates.ch
 laclemanbooks.ch
 laclemancap.ch
-laclemanconsulting.ch
 laclemanexperience.ch
-laclemanfamily.ch
 laclemangroup.ch
 laclemangroupe.ch
 laclemanholding.ch
 laclemanholdings.ch
-laclemaninvestments.ch
 laclemanpartners.ch
 laclemanspa.ch
 laclemanventures.ch
@@ -7110,7 +7114,6 @@ ladyhera.ch
 ladyhikers.ch
 ladyinternational.ch
 ladyinviolett.ch
-ladyjamilla.ch
 ladyjohanna.ch
 ladyjoline.ch
 ladykarla.ch
@@ -8043,6 +8046,7 @@ lafenice.ch
 lafenicebeaute.ch
 lafenicerebirthsa.ch
 lafenicesteakhousepizzeria-luzern.ch
+lafenouillette.ch
 lafeo.ch
 lafer-by-wmf.ch
 laferblanterie.ch
@@ -8187,6 +8191,7 @@ laffix.ch
 laffranchi.ch
 laffu.ch
 laffuton.ch
+lafgsconsulting.ch
 lafi.ch
 lafiabiliteenfete.ch
 lafiamma-it.ch
@@ -9437,6 +9442,7 @@ lagrandelessive.ch
 lagrandelunetterie.ch
 lagrandemaison.ch
 lagrandemuraille-lefilm.ch
+lagrandenotteitaliana.ch
 lagrandeoche.ch
 lagrandeparade.ch
 lagrandepartie.ch
@@ -9946,7 +9952,6 @@ lairedevie.ch
 laireiter.ch
 lairmarin.ch
 lairmaureen.ch
-lairventilconcept.ch
 lais.ch
 laisa.ch
 laisapolysport.ch
@@ -13835,7 +13840,6 @@ landgasthof-krone.ch
 landgasthof-linde.ch
 landgasthof-loewen.ch
 landgasthof-muehlebach.ch
-landgasthof-predigerhof.ch
 landgasthof-riehen.ch
 landgasthof-rohrmoos.ch
 landgasthof-sammelplatz.ch
@@ -16903,7 +16907,6 @@ lanztennis.ch
 lanztennisacademy.ch
 lanztools.ch
 lanztrad.ch
-lanztrans.ch
 lanztreuhand.ch
 lanzundrauch.ch
 lanzweb.ch
@@ -17744,7 +17747,6 @@ lapostevisp.ch
 lapostezinal.ch
 lapostrophe.ch
 lapotagere.ch
-lapote.ch
 lapoterie.ch
 lapothicaire.ch
 lapotiniere.ch
@@ -18331,6 +18333,7 @@ larasteiner.ch
 larastiertherapie.ch
 larastoll.ch
 larastuermer.ch
+larastyle.ch
 larasude.ch
 larasudenon.ch
 larasuisse.ch
@@ -20925,6 +20928,7 @@ lashesandbrow.ch
 lashesandbrows.ch
 lashesandmore.ch
 lashesandnails.ch
+lashesandnailsbykatharina.ch
 lashesbeauty.ch
 lashesbya.ch
 lashesbyeli.ch
@@ -21650,6 +21654,7 @@ lastpass.ch
 lastplace.ch
 lastprice.ch
 lastprise.ch
+lastrada-chaussures.ch
 lastrada-mobile.ch
 lastrada-willisau.ch
 lastrada.ch
@@ -21798,6 +21803,7 @@ lasuiteconcept.ch
 lasuitehotel.ch
 lasuiteimmo.ch
 lasuitepayerne.ch
+lasuitesothys.ch
 lasuiza.ch
 lasultanedesaba.ch
 lasum.ch
@@ -22176,7 +22182,6 @@ latelierdemorgane.ch
 latelierdenash.ch
 latelierdenbas.ch
 latelierdenface.ch
-latelierdeprise.ch
 latelierdesandra.ch
 latelierdesarah.ch
 latelierdesarchitectes.ch
@@ -22891,6 +22896,7 @@ latromba.ch
 latrotteuse-tissot.ch
 latrotteusetissot.ch
 latrottinette.ch
+latrousse.ch
 latroussemagique.ch
 latrouvaille-bern.ch
 latrouvaille.ch
@@ -24039,7 +24045,6 @@ laura-basil.ch
 laura-bern.ch
 laura-blancari.ch
 laura-bonsignore.ch
-laura-brantschen.ch
 laura-burger-die-malerin.ch
 laura-calabrese.ch
 laura-calendo.ch
@@ -25171,6 +25176,7 @@ lausanne-photographe.ch
 lausanne-physio.ch
 lausanne-pilates.ch
 lausanne-plomberie.ch
+lausanne-plombier.ch
 lausanne-psychiatre.ch
 lausanne-psychiatres.ch
 lausanne-psychologue.ch
@@ -27294,6 +27300,7 @@ lawyersatwork.ch
 lawyersbasel.ch
 lawyersbusinesslounge.ch
 lawyerscode.ch
+lawyersdelight.ch
 lawyersearch.ch
 lawyerservices.ch
 lawyersforparents.ch
