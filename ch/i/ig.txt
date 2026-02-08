@@ -1695,8 +1695,6 @@ igs-dev.ch
 igs-dienstleistungen.ch
 igs-finansys.ch
 igs-gmbh.ch
-igs-holding.ch
-igs-immobilien.ch
 igs-informatik.ch
 igs-north-south.ch
 igs-preprod.ch
@@ -1734,10 +1732,8 @@ igsfs.ch
 igsgsv.ch
 igsh-first.ch
 igship.ch
-igsholding.ch
 igshs.ch
 igsi.ch
-igsimmobilien.ch
 igsk.ch
 igskibetrieb.ch
 igslarts.ch

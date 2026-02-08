@@ -952,6 +952,7 @@ framebase.ch
 frameboards.ch
 framebook.ch
 framebox.ch
+framebrothers.ch
 framec.ch
 framech.ch
 framecheck.ch
@@ -1004,7 +1005,6 @@ framegate.ch
 framegeist.ch
 framegrill.ch
 framegrills.ch
-framehero.ch
 framehunt.ch
 frameit.ch
 framelab.ch
@@ -7465,6 +7465,7 @@ freeshells.ch
 freeshop.ch
 freeshopfrontiera.ch
 freeshopswiss.ch
+freeshot.ch
 freesia-alba-cabinet-dentaire.ch
 freeside.ch
 freesite.ch
@@ -10872,7 +10873,6 @@ freshburrito.ch
 freshbusiness.ch
 freshcafe.ch
 freshcannabis.ch
-freshcar.ch
 freshcard.ch
 freshcars.ch
 freshcart.ch
@@ -11222,7 +11222,6 @@ fresspost.ch
 fresssack.ch
 fressschublade.ch
 fressstube.ch
-fresssucht.ch
 fresstest.ch
 fresstival.ch
 fressurf.ch
@@ -11454,7 +11453,6 @@ freudiso.ch
 freudling.ch
 freudschaft.ch
 freudtools.ch
-freudundfreud.ch
 freudvollgebaeren.ch
 freudwil.ch
 freudzentrum.ch

@@ -355,6 +355,7 @@ qrquest.ch
 qrr-generator.ch
 qrr.ch
 qrraiffeisen.ch
+qrrechnung-generator.ch
 qrrechnung-qrmodul.ch
 qrrechnung.ch
 qrrechnungen.ch
