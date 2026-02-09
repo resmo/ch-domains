@@ -10,7 +10,6 @@ ss-clean.ch
 ss-design.ch
 ss-e-motors.ch
 ss-elektro.ch
-ss-fitness.ch
 ss-funkservice.ch
 ss-g.ch
 ss-group.ch
@@ -58,6 +57,7 @@ ssa-rje.ch
 ssa-saanenland.ch
 ssa-safety.ch
 ssa-sag.ch
+ssa-security.ch
 ssa-sichtern.ch
 ssa-system.ch
 ssa-systems.ch
@@ -80,7 +80,6 @@ ssael.ch
 ssafe.ch
 ssag.ch
 ssage.ch
-ssagency.ch
 ssagk.ch
 ssahe.ch
 ssai-congress.ch

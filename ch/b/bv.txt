@@ -158,9 +158,7 @@ bvg-check.ch
 bvg-digital.ch
 bvg-exchange.ch
 bvg-finder.ch
-bvg-fitcheck.ch
 bvg-grundlagen.ch
-bvg-intelligence.ch
 bvg-jungfrau.ch
 bvg-klar.ch
 bvg-kompetenz.ch
@@ -172,7 +170,6 @@ bvg-online.ch
 bvg-plattform.ch
 bvg-portal.ch
 bvg-ratgeber.ch
-bvg-rating.ch
 bvg-rechner.ch
 bvg-reform-ja.ch
 bvg-regress.ch
@@ -205,7 +202,6 @@ bvgauskuenfte.ch
 bvgberatung.ch
 bvgbr.ch
 bvgcare.ch
-bvgcheck.ch
 bvge.ch
 bvgen.ch
 bvger-foren-a.ch
@@ -320,6 +316,7 @@ bvmedien.ch
 bvmevent.ch
 bvmovement.ch
 bvmultimedia.ch
+bvmz.ch
 bvn-ablation.ch
 bvn-ag.ch
 bvn-badminton.ch

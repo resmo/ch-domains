@@ -1452,7 +1452,6 @@ vegi-butcher.ch
 vegi-center.ch
 vegi-chaas.ch
 vegi-days.ch
-vegi-fisch.ch
 vegi-fit.ch
 vegi-imbiss.ch
 vegi-initiative-nein.ch
@@ -1486,8 +1485,6 @@ vegidays.ch
 vegievolution.ch
 vegiexpress.ch
 vegifina.ch
-vegifisch.ch
-vegifish.ch
 vegifit.ch
 vegifleis.ch
 vegifleisch.ch
@@ -1674,6 +1671,7 @@ vehlandschaften.ch
 vehlio.ch
 vehlow.ch
 veho.ch
+veholo.ch
 vehomed.ch
 vehovec.ch
 vehp.ch
@@ -2103,6 +2101,7 @@ velion-clock.ch
 velion.ch
 veliora.ch
 velios.ch
+velira.ch
 veliro.ch
 velirum.ch
 velis-bricks.ch
@@ -3006,7 +3005,6 @@ velohuus.ch
 veloid.ch
 veloimport.ch
 veloimpuls.ch
-veloin-shop.ch
 veloin.ch
 veloinfanger.ch
 veloinfrastruktur.ch
@@ -4107,6 +4105,7 @@ vemoo.ch
 vemory.ch
 vemos.ch
 vemotion.ch
+vempura.ch
 vems.ch
 vemservices.ch
 vemu.ch
@@ -6047,7 +6046,6 @@ veralve.ch
 veralyn.ch
 veralynn.ch
 veralys.ch
-veramaag.ch
 veramalamud.ch
 veramanus.ch
 veramare.ch
@@ -6161,7 +6159,6 @@ veranstaltungen-region.ch
 veranstaltungen-rj.ch
 veranstaltungen-schmerikon.ch
 veranstaltungen-schweiz.ch
-veranstaltungen-stadtluzern.ch
 veranstaltungen-ur.ch
 veranstaltungen-uri.ch
 veranstaltungen-uznach.ch
@@ -6555,7 +6552,6 @@ verband-vpz.ch
 verband-vtk.ch
 verband-weiterbildung.ch
 verband-werbetechnik-print.ch
-verband-werbetechnik.ch
 verband-zuger-forstpersonal.ch
 verband.ch
 verbandberatung.ch
@@ -7010,7 +7006,6 @@ verbrauchernachrichten.ch
 verbrauchernews.ch
 verbraucherpanel.ch
 verbraucherportal.ch
-verbraucherrecht.ch
 verbraucherschutz.ch
 verbrauchertest.ch
 verbrauchertipps.ch
@@ -10760,6 +10755,7 @@ vermoegens-partner.ch
 vermoegens-treuhand.ch
 vermoegens-versicherungskanzlei.ch
 vermoegens-verwalter.ch
+vermoegens-verwaltung.ch
 vermoegens-verwaltungen.ch
 vermoegens-zentrum.ch
 vermoegensakademie.ch
@@ -12651,6 +12647,7 @@ verstonsommet.ch
 verstopft.ch
 verstopfung.ch
 verstorben-ausland.ch
+verstorben.ch
 verstorbene.ch
 verstorbenen-kontakt.ch
 verstorbenenkontakt.ch
@@ -15923,7 +15920,6 @@ vexmachina.ch
 vexmex.ch
 vexo.ch
 vexor.ch
-vexora.ch
 vexp.ch
 vexperts.ch
 vexrobotics.ch
