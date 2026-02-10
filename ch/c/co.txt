@@ -3517,7 +3517,6 @@ cocos4you.ch
 cocosail.ch
 cocosane.ch
 cocosart.ch
-cocosbakesurprise.ch
 cocosbeauty.ch
 cocosbeautysalon.ch
 cocoscapital.ch
@@ -3708,7 +3707,6 @@ code-labor.ch
 code-laboratoires.ch
 code-lane.ch
 code-law.ch
-code-line.ch
 code-monkey-island.ch
 code-monks.ch
 code-nic.ch
@@ -3733,7 +3731,6 @@ code-to-web.ch
 code-v.ch
 code-werk.ch
 code-werkstatt.ch
-code-wizz.ch
 code-works.ch
 code-worx.ch
 code-x.ch
@@ -5147,15 +5144,11 @@ coffeeshop-cbd.ch
 coffeeshop-luzern.ch
 coffeeshop-lyss.ch
 coffeeshop-thun.ch
-coffeeshop-zuerich.ch
-coffeeshop-zurich.ch
 coffeeshop.ch
 coffeeshopcompany.ch
 coffeeshopluzern.ch
 coffeeshopmaterial.ch
 coffeeshops.ch
-coffeeshopzuerich.ch
-coffeeshopzurich.ch
 coffeesoft.ch
 coffeesoftheworld.ch
 coffeesolutions.ch
@@ -6234,7 +6227,6 @@ coiffeur-mannino.ch
 coiffeur-manuela.ch
 coiffeur-margrit.ch
 coiffeur-marija.ch
-coiffeur-marina.ch
 coiffeur-marinelli.ch
 coiffeur-markus.ch
 coiffeur-marlis.ch
@@ -6824,7 +6816,6 @@ coiffeurjanine.ch
 coiffeurjasmin.ch
 coiffeurjeanette.ch
 coiffeurjeannine.ch
-coiffeurjlonka.ch
 coiffeurjob.ch
 coiffeurjobs.ch
 coiffeurjoe.ch
@@ -9134,7 +9125,6 @@ colinhelg.ch
 colinhoenicke.ch
 colinhood.ch
 colinhowles.ch
-colinhumair.ch
 colinjames.ch
 colinjeanneret.ch
 colinjenal.ch
@@ -10921,7 +10911,6 @@ colorndrive.ch
 colornews.ch
 colornova.ch
 coloro.ch
-coloroes.ch
 colorofbeauty.ch
 coloroffset.ch
 colorofgod.ch
@@ -11431,7 +11420,6 @@ com-log.ch
 com-mail.ch
 com-marketing.ch
 com-media.ch
-com-net.ch
 com-now.ch
 com-on.ch
 com-pact.ch
@@ -13318,7 +13306,10 @@ commissaire-priseur.ch
 commissairepriseur.ch
 commissarykitchen.ch
 commission.ch
+commissioncc.ch
+commissionck.ch
 commissionecatastrofe.ch
+commissionecc.ch
 commissionelectricite.ch
 commissionfamilles.ch
 commissioning.ch
@@ -13921,6 +13912,7 @@ communo-te.ch
 communo.ch
 communo2.ch
 communtia.ch
+communyon.ch
 communyty.ch
 commusication.ch
 commusicationarts.ch
@@ -14580,7 +14572,6 @@ comparateur-solaire.ch
 comparateur-suisse-assurance.ch
 comparateur-tarif-expertise-polluant.ch
 comparateur-telecom.ch
-comparateur.ch
 comparateur3emepilier.ch
 comparateur3epilier.ch
 comparateurassurance.ch
@@ -14732,7 +14723,6 @@ comparigo.ch
 comparimmo.ch
 comparimo.ch
 comparinet.ch
-compario.ch
 comparir.ch
 comparis-autoversicheruzng.ch
 comparis-entsorgung.ch
@@ -15989,6 +15979,7 @@ comptoir-broyard.ch
 comptoir-commercial.ch
 comptoir-des-thes.ch
 comptoir-domdidier.ch
+comptoir-du-jura.ch
 comptoir-du-the.ch
 comptoir-echallens.ch
 comptoir-emballage.ch
@@ -16033,6 +16024,7 @@ comptoirducabriolet.ch
 comptoirduchablais.ch
 comptoirducigare.ch
 comptoirdugeek.ch
+comptoirdujura.ch
 comptoirenetain.ch
 comptoirenzinc.ch
 comptoirfermier.ch
@@ -16528,6 +16520,7 @@ computerhelpline.ch
 computerhilfe-basel.ch
 computerhilfe-bern.ch
 computerhilfe-schweiz.ch
+computerhilfe-thurgau.ch
 computerhilfe-uster.ch
 computerhilfe-winterthur.ch
 computerhilfe-zentralschweiz.ch
@@ -17029,6 +17022,7 @@ comthurey-alpinum.ch
 comtiss.ch
 comtissmail.ch
 comtogether.ch
+comtois.ch
 comtoise-uhren.ch
 comtoise.ch
 comton.ch
@@ -19140,7 +19134,6 @@ confiserie-rhyner.ch
 confiserie-rieder.ch
 confiserie-roelli.ch
 confiserie-rohner.ch
-confiserie-rohr.ch
 confiserie-rome.ch
 confiserie-rougemont.ch
 confiserie-rupp.ch
@@ -20297,7 +20290,6 @@ connos.ch
 connox.ch
 connrad.ch
 conntec.ch
-conntek.ch
 conny-adams.ch
 conny-artho.ch
 conny-balzer.ch
@@ -21041,6 +21033,7 @@ conseils-pme-digital.ch
 conseils-pme.ch
 conseils-prevoyance.ch
 conseils-psy.ch
+conseils-revision.ch
 conseils-revison.ch
 conseils-sante-groupe.ch
 conseils-securite.ch
@@ -22591,7 +22584,6 @@ consumables.ch
 consumare.ch
 consumatori.ch
 consumbasel.ch
-consume.ch
 consumedia.ch
 consumendo.ch
 consumentis.ch
@@ -24539,7 +24531,6 @@ conus-services.ch
 conus.ch
 conusandco.ch
 conusio.ch
-conution.ch
 conv.ch
 conva.ch
 convacc.ch
@@ -25129,7 +25120,6 @@ cookicookers.ch
 cookidoo.ch
 cookids.ch
 cookidz.ch
-cookie-and-co.ch
 cookie-art.ch
 cookie-banner.ch
 cookie-bar.ch
@@ -25745,6 +25735,7 @@ coolmedics.ch
 coolmedis.ch
 coolmedtravel.ch
 coolmeister.ch
+coolmen.ch
 coolmesh.ch
 coolmindset.ch
 coolmobil.ch
@@ -26520,7 +26511,6 @@ copaincopine.ch
 copaindevin.ch
 copaindumatin.ch
 copainfilm.ch
-copains2.ch
 copains23.ch
 copal.ch
 copalme.ch
@@ -28199,6 +28189,7 @@ corepowerbymarlena.ch
 coreprotect.ch
 coreprotects.ch
 coreprower.ch
+corepulse.ch
 corequest.ch
 coreregistrar.ch
 coreregistry.ch
@@ -28250,7 +28241,6 @@ corestrom.ch
 corestructor.ch
 corestructuring.ch
 corestudios.ch
-coresuisse.ch
 coresuite.ch
 coresvc.ch
 coreswit.ch
@@ -28372,7 +28362,6 @@ cori-dario-heiraten.ch
 cori-design.ch
 cori.ch
 coria.ch
-coriaderm.ch
 corialith.ch
 coriamail.ch
 corian-spa.ch
@@ -31452,7 +31441,6 @@ cosb-recruiting-office.ch
 cosb-recruitingoffice.ch
 cosb.ch
 cosba.ch
-cosberatungen.ch
 cosc.ch
 cosch.ch
 coscha.ch
@@ -31600,6 +31588,7 @@ cosj.ch
 coskin.ch
 coskit.ch
 coskun-eplan.ch
+coskun-labs.ch
 coskun-plan.ch
 coskun.ch
 coskyn.ch
@@ -32051,7 +32040,6 @@ cosmiccircle.ch
 cosmiccolours.ch
 cosmiccon.ch
 cosmiccreation.ch
-cosmiccrests.ch
 cosmiccrisp.ch
 cosmiccrust.ch
 cosmicdirt.ch
@@ -33960,6 +33948,7 @@ coup-en-or.ch
 coup-etrier.ch
 coup-magazin.ch
 coup.ch
+coup2main.ch
 coupa.ch
 coupang.ch
 coupbalai.ch
@@ -34146,7 +34135,6 @@ coupongorilla.ch
 couponheft.ch
 couponheld.ch
 couponhub.ch
-couponi.ch
 couponing-magazine.ch
 couponing-plus.ch
 couponing.ch
@@ -34812,7 +34800,6 @@ courspremiersecourgeneve.ch
 courspremierssecours-suisse.ch
 coursprepa.ch
 coursprepbienne.ch
-coursprives.ch
 courspublic.ch
 courssalsageneve.ch
 courssamaritain.ch
@@ -35287,6 +35274,7 @@ coveme.ch
 covemontessori.ch
 coven.ch
 covenant.ch
+covenantai.ch
 covenantmercies.ch
 covenantsystems.ch
 covenbo.ch
@@ -35936,7 +35924,6 @@ coworking-zuerich.ch
 coworking-zug.ch
 coworking.ch
 coworking24.ch
-coworking360.ch
 coworking6004.ch
 coworking7130.ch
 coworking7310.ch

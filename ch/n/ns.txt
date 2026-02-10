@@ -586,7 +586,6 @@ ns01.mysallegra.ch
 ns01.neblcloud.ch
 ns01.netzwolke.ch
 ns01.nodeunit.ch
-ns01.nytic.ch
 ns01.oppenheimer.ch
 ns01.ploing.ch
 ns01.pst-smartcity.ch
@@ -648,7 +647,6 @@ ns02.monitored.ch
 ns02.neblcloud.ch
 ns02.nodeunit.ch
 ns02.ns.kaempf-engineering.ch
-ns02.nytic.ch
 ns02.oliverseiler.ch
 ns02.oppenheimer.ch
 ns02.ploing.ch
@@ -2308,7 +2306,6 @@ ns1.jvweb.ch
 ns1.kaesgate.ch
 ns1.kafiwerk.ch
 ns1.kajendran.ch
-ns1.kaliman-gmbh.ch
 ns1.kantiso.ch
 ns1.kaplan.ch
 ns1.kappelergastro.ch
@@ -3899,6 +3896,7 @@ ns1.webtrend.ch
 ns1.webucation.ch
 ns1.webunion.ch
 ns1.webuniverse.ch
+ns1.webvona.ch
 ns1.webwer.ch
 ns1.webxpress.ch
 ns1.weihnachten25.ch
@@ -5655,7 +5653,6 @@ ns2.jvab.ch
 ns2.jvweb.ch
 ns2.kaesgate.ch
 ns2.kajendran.ch
-ns2.kaliman-gmbh.ch
 ns2.kaminbau-oswald.ch
 ns2.kantiso.ch
 ns2.kaplan.ch
@@ -7185,6 +7182,7 @@ ns2.webtrend.ch
 ns2.webucation.ch
 ns2.webunion.ch
 ns2.webuniverse.ch
+ns2.webvona.ch
 ns2.webwer.ch
 ns2.webxpress.ch
 ns2.weihnachten25.ch

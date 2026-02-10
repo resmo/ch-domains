@@ -1227,8 +1227,6 @@ diamagnetic.ch
 diamair.ch
 diamalps.ch
 diamance.ch
-diamand-row.ch
-diamandrow.ch
 diamant-abrichtwerkzeuge.ch
 diamant-blading-bern.ch
 diamant-blading-by-li.ch
@@ -2654,6 +2652,7 @@ dick-carrosserie.ch
 dick-faul-unzufrieden.ch
 dick-kuechen.ch
 dick-momente.ch
+dick-sein.ch
 dick.ch
 dickachu.ch
 dickag.ch
@@ -2662,7 +2661,6 @@ dickbuch.ch
 dickclock.ch
 dickdarm.ch
 dickdarmkrebs.ch
-dickdoctor.ch
 dicke-beine.ch
 dicke-titten.ch
 dicke.ch
@@ -2719,6 +2717,7 @@ dickpun.ch
 dicks-armyshop.ch
 dicks.ch
 dickscheid.ch
+dicksein.ch
 dicksmontagen.ch
 dickson.ch
 dicksondata.ch
@@ -3607,7 +3606,6 @@ die-erdarbeiten.ch
 die-erfolgreichen.ch
 die-erfolgs-werkstatt.ch
 die-erfolgskomplizen.ch
-die-erfolgsleiter.ch
 die-erfolgswerkstatt.ch
 die-ergotherapeutinnen.ch
 die-ergotherapie.ch
@@ -3651,7 +3649,6 @@ die-fachgruppe.ch
 die-fachliteratur-couch.ch
 die-fachplaner.ch
 die-facility-manager.ch
-die-faehre.ch
 die-fahne.ch
 die-fahnen.ch
 die-fahrbar.ch
@@ -3921,6 +3918,7 @@ die-hausverwaltungen.ch
 die-hauswarte.ch
 die-hauswartprofis.ch
 die-haut.ch
+die-hautpraxis.ch
 die-headhunter.ch
 die-hebamme.ch
 die-heilerei.ch
@@ -6015,7 +6013,6 @@ dieentwickler.ch
 dieentwicklerei.ch
 dieentwicklungderfrauen.ch
 dieerde.ch
-dieerfolgsleiter.ch
 dieerfolgsstrategie.ch
 dieerfolgswirtschaft.ch
 dieergopraxis.ch
@@ -6639,6 +6636,7 @@ diehauswarte.ch
 diehauswartprofis.ch
 diehauswartsprofis.ch
 diehauswartung.ch
+diehautpraxis.ch
 diehautspezialisten.ch
 diehauttieraerzte.ch
 dieheadhunter.ch
@@ -7174,7 +7172,6 @@ dielinse.ch
 dielinthpraxen.ch
 dielipizza.ch
 dielistderwoche.ch
-dielitaxi.ch
 dieliterarische.ch
 dieliteratur.ch
 dieliteraturkritikerin.ch
@@ -14521,7 +14518,6 @@ digitaltalk.ch
 digitaltapete.ch
 digitaltaskforce.ch
 digitaltatoo.ch
-digitaltax.ch
 digitaltaxoffice.ch
 digitalte.ch
 digitalteacher.ch
@@ -14618,7 +14614,6 @@ digitalunterrichten.ch
 digitalunterweisung.ch
 digitalup.ch
 digitalupgrade.ch
-digitalupside.ch
 digitalupyourlife.ch
 digitalurkunde.ch
 digitalution.ch
@@ -15825,6 +15820,7 @@ dimeco.ch
 dimecodeko.ch
 dimecon-unibe.ch
 dimecon.ch
+dimed.ch
 dimeda.ch
 dimedia.ch
 dimedio.ch
@@ -16010,7 +16006,6 @@ dimitrikrebs.ch
 dimitrilaett.ch
 dimitrilineaverde.ch
 dimitrimaerki.ch
-dimitrimagnon.ch
 dimitrimarx.ch
 dimitrimatter.ch
 dimitrimoretti.ch
@@ -16713,12 +16708,17 @@ dinireis.ch
 dinirent.ch
 dinirettig.ch
 dinis-boxdocce.ch
+dinis-depannage.ch
 dinis-pneus.ch
 dinis-sanitaire.ch
+dinis-sanitaires.ch
 dinis.ch
+dinisanitaire.ch
 dinisis.ch
+dinislesanitaire.ch
 dinismeier.ch
 dinisoftware.ch
+dinissanitaire.ch
 dinistartbox.ch
 dinistoren.ch
 dinistube.ch
@@ -18864,7 +18864,6 @@ disclaime.ch
 disclaimer.ch
 disclose.ch
 disclosed.ch
-disclosure.ch
 disclosureday-film.ch
 disclosureday-lefilm.ch
 discmac.ch
