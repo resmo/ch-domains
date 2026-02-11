@@ -1238,6 +1238,7 @@ dnssec-error.ch
 dnssec-failed.ch
 dnssec-faq.ch
 dnssec-howto.ch
+dnssec-schweiz.ch
 dnssec-scs.ch
 dnssec-sgkb.ch
 dnssec-signiert.ch

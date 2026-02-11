@@ -784,7 +784,6 @@ ns1.adwork.ch
 ns1.aeb-net.ch
 ns1.aelligs.ch
 ns1.aemmerli.ch
-ns1.aeri.ch
 ns1.aerige.ch
 ns1.aero-nav.ch
 ns1.aerosens.ch
@@ -921,7 +920,6 @@ ns1.atanasova.ch
 ns1.atelier-haemmerle.ch
 ns1.atomstudio.ch
 ns1.atphp.ch
-ns1.atraxs.ch
 ns1.atrix-consult-gmbh.ch
 ns1.atupri.ch
 ns1.aubergedevandoeuvres.ch
@@ -4184,7 +4182,6 @@ ns2.adwork.ch
 ns2.aeb-net.ch
 ns2.aelligs.ch
 ns2.aemmerli.ch
-ns2.aeri.ch
 ns2.aerige.ch
 ns2.aero-nav.ch
 ns2.aerosens.ch
@@ -4321,7 +4318,6 @@ ns2.atelier-haemmerle.ch
 ns2.atomstudio.ch
 ns2.atozenglish.ch
 ns2.atphp.ch
-ns2.atraxs.ch
 ns2.atrix-consult-gmbh.ch
 ns2.atupri.ch
 ns2.aubergedevandoeuvres.ch
@@ -7405,7 +7401,6 @@ ns3.asebo.ch
 ns3.askben.ch
 ns3.assistancepc.ch
 ns3.asstra.ch
-ns3.atraxs.ch
 ns3.aurafilm.ch
 ns3.auroranet.ch
 ns3.autorenwerkstatt.ch
@@ -8077,6 +8072,7 @@ ns3.unity-systems.ch
 ns3.unternehmertisch.ch
 ns3.uptm.ch
 ns3.usi.ch
+ns3.uzh.ch
 ns3.valentin-wine.ch
 ns3.vbgw-h.ch
 ns3.veloroyal.ch
@@ -8164,7 +8160,6 @@ ns4.alyce.ch
 ns4.apexis.ch
 ns4.arjun.ch
 ns4.as2.ch
-ns4.atraxs.ch
 ns4.aurafilm.ch
 ns4.auroranet.ch
 ns4.avalisnt.ch
@@ -8609,6 +8604,7 @@ nscap.ch
 nscapital.ch
 nscare.ch
 nscbetspro.ch
+nscevents.ch
 nschaad.ch
 nschacherag.ch
 nschenardi.ch
