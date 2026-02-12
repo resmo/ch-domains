@@ -92,6 +92,7 @@ qr-rechnung.ch
 qr-rechnungen.ch
 qr-rechnungspapier.ch
 qr-route.ch
+qr-s.ch
 qr-scan.ch
 qr-shirt.ch
 qr-shop.ch
@@ -99,6 +100,7 @@ qr-six-payment-services.ch
 qr-solution.ch
 qr-solutions.ch
 qr-stempel.ch
+qr-swiss.ch
 qr-system.ch
 qr-table.ch
 qr-tour.ch
@@ -115,7 +117,6 @@ qr-zahlen.ch
 qr-zahlschein.ch
 qr-zahlscheine.ch
 qr-zahlteil.ch
-qr-zahlungsverkehr.ch
 qr0.ch
 qr1.ch
 qr2.ch

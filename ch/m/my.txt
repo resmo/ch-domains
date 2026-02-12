@@ -766,7 +766,6 @@ my-happy-food.ch
 my-happy-home.ch
 my-happy-life.ch
 my-happy-mind.ch
-my-happy-nutrition.ch
 my-happymind.ch
 my-happytravel.ch
 my-harmony.ch
@@ -1210,6 +1209,7 @@ my-ntc.ch
 my-nurse.ch
 my-nutribalance.ch
 my-nutricoach.ch
+my-nutrition.ch
 my-nzz.ch
 my-o-ca.ch
 my-oasis.ch
@@ -2073,6 +2073,7 @@ my7steps.ch
 my7sundays.ch
 my8.ch
 my8913.ch
+my9001.ch
 my911.ch
 my99ex.ch
 mya-app.ch
@@ -2196,8 +2197,11 @@ myahv.ch
 myai-24.ch
 myai.ch
 myai24.ch
+myai360.ch
+myai365.ch
 myaiagent.ch
 myaiassistant.ch
+myaibit.ch
 myaic.ch
 myaida.ch
 myaifino.ch
@@ -3543,6 +3547,7 @@ mycelium.ch
 myceliumjardins.ch
 myceliumjardinsvivants.ch
 myceliumpolymer.ch
+myceliumshop.ch
 mycelius.ch
 mycell-technology.ch
 mycell.ch
@@ -4251,6 +4256,7 @@ mydashboard.ch
 mydata-lab.ch
 mydata-trust.ch
 mydata.ch
+mydata24.ch
 mydatabase.ch
 mydatabox.ch
 mydatacenter.ch
@@ -5931,8 +5937,6 @@ myhappykids.ch
 myhappymiel.ch
 myhappymind.ch
 myhappymoments.ch
-myhappynutrition.ch
-myhappynutrtion.ch
 myhappypet.ch
 myhappyplace.ch
 myhappystay.ch
@@ -6688,6 +6692,7 @@ mykh.ch
 mykhailovainteriors.ch
 myki-24.ch
 myki.ch
+myki24.ch
 mykia.ch
 mykibag.ch
 mykibe.ch
@@ -7960,7 +7965,6 @@ mynaturalhair.ch
 mynaturalization.ch
 mynaturals.ch
 mynature.ch
-mynaturopath.ch
 mynau.ch
 mynauticalmiles.ch
 mynavi.ch
@@ -8381,6 +8385,7 @@ myonutrition.ch
 myoo.ch
 myopel.ch
 myopenbox.ch
+myopenclaw.ch
 myopencloud.ch
 myopencontact.ch
 myopendoor.ch
@@ -8637,6 +8642,7 @@ mypassionart.ch
 mypassionnails.ch
 mypassiveincome.ch
 mypasspet.ch
+mypassport24.ch
 mypasspro.ch
 mypassword.ch
 mypat.ch
@@ -9724,6 +9730,7 @@ myround.ch
 myrousseau.ch
 myroute64.ch
 myroutine.ch
+myrra.ch
 myrrena.ch
 myrrhe-myrrha.ch
 myrrhe.ch
@@ -10088,6 +10095,7 @@ myshaker.ch
 myshala.ch
 myshanti.ch
 myshare.ch
+myshare24.ch
 mysharedhome.ch
 mysharepoint.ch
 myshares.ch
@@ -12544,6 +12552,8 @@ mywork.ch
 mywork24.ch
 myworkben.ch
 myworkbox.ch
+myworkdaysovereignjobs.ch
+myworkdaysovereignsite.ch
 myworker.ch
 myworkflow.ch
 myworkforcesuite.ch
