@@ -324,6 +324,7 @@ ns.mahon.ch
 ns.makamit.ch
 ns.masterhomepage.ch
 ns.mazziveterinario.ch
+ns.mbpp.ch
 ns.mc-courrendlin.ch
 ns.mc-vs.ch
 ns.mediaktion.ch
@@ -2038,7 +2039,6 @@ ns1.hostify.ch
 ns1.hosting-atprovider.ch
 ns1.hosting-horat.ch
 ns1.hosting-power.ch
-ns1.hosting2go.ch
 ns1.hosting360.ch
 ns1.hosting365.ch
 ns1.hosting4you.ch
@@ -2942,7 +2942,6 @@ ns1.penta.ch
 ns1.peoplefone.ch
 ns1.perezpeinture.ch
 ns1.perfume2share.ch
-ns1.perine.ch
 ns1.perldev.ch
 ns1.petard.ch
 ns1.petzs.ch
@@ -3038,6 +3037,7 @@ ns1.powerpage.ch
 ns1.powersolutions.ch
 ns1.ppremote.ch
 ns1.prax.ch
+ns1.praxis-unfallchirurgie.ch
 ns1.praxis-weissenstein.ch
 ns1.pre.ch
 ns1.predesnoyers.ch
@@ -3192,6 +3192,7 @@ ns1.ripe-domains.ch
 ns1.ripperdoc.ch
 ns1.ripz.ch
 ns1.rivalution.ch
+ns1.rivejob.ch
 ns1.rixs.ch
 ns1.rksconsulting.ch
 ns1.robic.ch
@@ -3729,7 +3730,6 @@ ns1.ultraspeed.ch
 ns1.umf.ch
 ns1.unibe.ch
 ns1.unidok.ch
-ns1.unikbiker.ch
 ns1.unil.ch
 ns1.unique-hosting.ch
 ns1.uniquer.ch
@@ -5374,7 +5374,6 @@ ns2.hostify.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
 ns2.hosting-power.ch
-ns2.hosting2go.ch
 ns2.hosting360.ch
 ns2.hosting365.ch
 ns2.hosting4you.ch
@@ -6230,7 +6229,6 @@ ns2.penta.ch
 ns2.peoplefone.ch
 ns2.perezpeinture.ch
 ns2.perfume2share.ch
-ns2.perine.ch
 ns2.perldev.ch
 ns2.petard.ch
 ns2.peter-unterwegs.ch
@@ -6326,6 +6324,7 @@ ns2.powerpage.ch
 ns2.powersolutions.ch
 ns2.ppremote.ch
 ns2.prax.ch
+ns2.praxis-unfallchirurgie.ch
 ns2.pre.ch
 ns2.predesnoyers.ch
 ns2.premiumcontent.ch
@@ -6471,6 +6470,7 @@ ns2.ripe-domains.ch
 ns2.ripperdoc.ch
 ns2.ripz.ch
 ns2.rivalution.ch
+ns2.rivejob.ch
 ns2.rixs.ch
 ns2.rksconsulting.ch
 ns2.robic.ch
@@ -7008,7 +7008,6 @@ ns2.ultraspeed.ch
 ns2.umf.ch
 ns2.unibe.ch
 ns2.unidok.ch
-ns2.unikbiker.ch
 ns2.unil.ch
 ns2.unique-hosting.ch
 ns2.uniquer.ch
