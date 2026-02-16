@@ -416,6 +416,7 @@ ns.sektorz.ch
 ns.seppmail.ch
 ns.server.ehost.ch
 ns.server.intelcom.ch
+ns.servergames.ch
 ns.shfrey.ch
 ns.siamsuisse.ch
 ns.sichtfeld.ch
@@ -724,7 +725,6 @@ ns1.2bit.ch
 ns1.2care.ch
 ns1.2fast4u.ch
 ns1.2gethr.ch
-ns1.2pixel.ch
 ns1.360hosting.ch
 ns1.3kweb.ch
 ns1.3wpower.ch
@@ -1126,7 +1126,6 @@ ns1.brainhost.ch
 ns1.brainsworld.ch
 ns1.breitaberg.ch
 ns1.breitnet.ch
-ns1.breman.ch
 ns1.bremsschlauch.ch
 ns1.brillenland.ch
 ns1.bringsel.ch
@@ -1256,6 +1255,7 @@ ns1.clancats.ch
 ns1.claud-art.ch
 ns1.claudia-und-simon.ch
 ns1.claudiareinert.ch
+ns1.clauser.ch
 ns1.cleanpac.ch
 ns1.clever-concept.ch
 ns1.cleverpat.ch
@@ -1719,7 +1719,6 @@ ns1.famtec.ch
 ns1.fantasticservices.ch
 ns1.farmaciainternazionale.ch
 ns1.fasnachts-comite.ch
-ns1.fastfood.ch
 ns1.fastfoodclub.ch
 ns1.fattorie-aperte.ch
 ns1.fauschwebsolutions.ch
@@ -1832,8 +1831,6 @@ ns1.garagepalma.ch
 ns1.gartenhof.ch
 ns1.gartmann.ch
 ns1.gas-com.ch
-ns1.gastromarkt.ch
-ns1.gastronomiebedarf.ch
 ns1.gattleninfo.ch
 ns1.gaudiano.ch
 ns1.gebr-nishori.ch
@@ -1920,7 +1917,6 @@ ns1.gridware.ch
 ns1.gringo.ch
 ns1.grmail.ch
 ns1.grocy.ch
-ns1.grosskueche.ch
 ns1.groupemutuel.ch
 ns1.grouping.ch
 ns1.gruppo-tfm.ch
@@ -2066,7 +2062,6 @@ ns1.hostvgmc.ch
 ns1.hostyx.ch
 ns1.hotel-grandpre.ch
 ns1.hotel-zimba.ch
-ns1.hotelbedarf.ch
 ns1.hotelswiss.ch
 ns1.hotelzimba.ch
 ns1.hrcd.ch
@@ -3165,7 +3160,6 @@ ns1.restaurant-laversoix.ch
 ns1.restaurant-les-voyageurs.ch
 ns1.restaurant-schlosserei.ch
 ns1.restaurant-story.ch
-ns1.restaurantlatourcarree.ch
 ns1.restolapiazza.ch
 ns1.resval.ch
 ns1.reviol.ch
@@ -3337,6 +3331,7 @@ ns1.server-v.ch
 ns1.serverdns.ch
 ns1.serverfabrik.ch
 ns1.serverfactory.ch
+ns1.servergames.ch
 ns1.servergarden.ch
 ns1.serverplatz.ch
 ns1.serverstandort.ch
@@ -4113,7 +4108,6 @@ ns2.2bit.ch
 ns2.2care.ch
 ns2.2fast4u.ch
 ns2.2gethr.ch
-ns2.2pixel.ch
 ns2.360hosting.ch
 ns2.3kweb.ch
 ns2.3wpower.ch
@@ -4627,6 +4621,7 @@ ns2.clancats.ch
 ns2.claud-art.ch
 ns2.claudiareinert.ch
 ns2.claudineetpierre.ch
+ns2.clauser.ch
 ns2.cleanpac.ch
 ns2.clever-concept.ch
 ns2.cleverpat.ch
@@ -5069,7 +5064,6 @@ ns2.famille-arm.ch
 ns2.familleoggier.ch
 ns2.fantasticservices.ch
 ns2.fasnachts-comite.ch
-ns2.fastfood.ch
 ns2.fastfoodclub.ch
 ns2.fattorie-aperte.ch
 ns2.fauschwebsolutions.ch
@@ -5176,8 +5170,6 @@ ns2.garagepalma.ch
 ns2.gartenhof.ch
 ns2.gartmann.ch
 ns2.gas-com.ch
-ns2.gastromarkt.ch
-ns2.gastronomiebedarf.ch
 ns2.gattleninfo.ch
 ns2.gaudiano.ch
 ns2.gebr-nishori.ch
@@ -5261,7 +5253,6 @@ ns2.gretlerintermedia.ch
 ns2.gridware.ch
 ns2.gringo.ch
 ns2.grmail.ch
-ns2.grosskueche.ch
 ns2.groupemutuel.ch
 ns2.grouping.ch
 ns2.gruppo-tfm.ch
@@ -5404,7 +5395,6 @@ ns2.hosttree.ch
 ns2.hostvgmc.ch
 ns2.hostyx.ch
 ns2.hotel-grandpre.ch
-ns2.hotelbedarf.ch
 ns2.hotelnapf.ch
 ns2.hotelswiss.ch
 ns2.hrcd.ch
@@ -6446,7 +6436,6 @@ ns2.restaurant-laversoix.ch
 ns2.restaurant-les-voyageurs.ch
 ns2.restaurant-schlosserei.ch
 ns2.restaurant-story.ch
-ns2.restaurantlatourcarree.ch
 ns2.restolapiazza.ch
 ns2.resval.ch
 ns2.reviol.ch
@@ -6612,6 +6601,7 @@ ns2.server.intelcom.ch
 ns2.serverdns.ch
 ns2.serverfabrik.ch
 ns2.serverfactory.ch
+ns2.servergames.ch
 ns2.servergarden.ch
 ns2.serverplatz.ch
 ns2.serverstandort.ch
@@ -7530,6 +7520,7 @@ ns3.dosim.ch
 ns3.dreamdiver.ch
 ns3.dreamhost.ch
 ns3.dsw-ag.ch
+ns3.dynabyte.ch
 ns3.e-future.ch
 ns3.e-park.ch
 ns3.e4udns.ch

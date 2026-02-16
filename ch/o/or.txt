@@ -1332,7 +1332,6 @@ order-pay.ch
 order-personalorganizer.ch
 order-piratino.ch
 order-point.ch
-order-restaurant.ch
 order-shop.ch
 order-system.ch
 order-vrtx.ch
@@ -1389,6 +1388,7 @@ orderking.ch
 orderlemon.ch
 orderline-gmbh.ch
 orderline.ch
+orderlinks.ch
 orderlion.ch
 orderlive.ch
 orderly.ch
