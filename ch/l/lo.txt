@@ -412,6 +412,7 @@ loc-auto.ch
 loc-elevateur.ch
 loc-est.ch
 loc-event.ch
+loc-events.ch
 loc-halles.ch
 loc-invest.ch
 loc-kitchen.ch
@@ -788,6 +789,7 @@ localfish.ch
 localfit.ch
 localfitness.ch
 localflorist.ch
+localflow.ch
 localfocus.ch
 localfood.ch
 localfoodfestival.ch
@@ -1432,6 +1434,7 @@ location-luges.ch
 location-luxe.ch
 location-machines.ch
 location-maison.ch
+location-mariage.ch
 location-mascotte.ch
 location-mascottes.ch
 location-materiel-evenement.ch
@@ -1473,6 +1476,7 @@ location-radio.ch
 location-raquettes.ch
 location-remorque-frigo.ch
 location-remorque.ch
+location-robot.ch
 location-rsb.ch
 location-salle-morges.ch
 location-salles.ch
@@ -1580,7 +1584,9 @@ locationdevoitures.ch
 locationdirecte.ch
 locationdomes.ch
 locationendaz.ch
+locationevent.ch
 locationeventi.ch
+locationevents.ch
 locationexpress.ch
 locationferrari.ch
 locationfinder.ch
@@ -1992,6 +1998,7 @@ lockencoiffeurbern.ch
 lockencoiffeuruster.ch
 lockeneisen.ch
 lockenelite.ch
+lockeneule.ch
 lockenfriseur.ch
 lockengeschichten.ch
 lockenhaarschnitt.ch
@@ -4021,6 +4028,7 @@ login-transport.ch
 login-zugerkb.ch
 login.ch
 login24.ch
+login2me.ch
 login2work.ch
 login365.ch
 login4me.ch
@@ -4077,7 +4085,6 @@ logion.ch
 logione.ch
 logios.ch
 logipartnergiordano.ch
-logiparts.ch
 logiplan.ch
 logipoint.ch
 logipoly.ch
@@ -4863,6 +4870,7 @@ logopaeden.ch
 logopaedie-aarau.ch
 logopaedie-acklin.ch
 logopaedie-am-bodensee.ch
+logopaedie-amalogo.ch
 logopaedie-anlaut.ch
 logopaedie-basel.ch
 logopaedie-belp.ch
@@ -7972,7 +7980,6 @@ looma.ch
 loomaffoopclab.ch
 loomaid.ch
 loomar.ch
-loomarelax.ch
 loomby.ch
 loombydesign.ch
 loomcgi.ch
@@ -8456,7 +8463,6 @@ lopez-tenias.ch
 lopez-zh.ch
 lopez.ch
 lopeza.ch
-lopezgames.ch
 lopezheizungen.ch
 lopezimmo.ch
 lopezlopez.ch
@@ -8647,11 +8653,9 @@ loratech.ch
 loratracker.ch
 loratus.ch
 loraux.ch
-loravista.ch
 lorawan-shop.ch
 lorawan.ch
 lorawind.ch
-lorawista.ch
 lorax-gmbh.ch
 lorax.ch
 loray.ch
@@ -8698,6 +8702,7 @@ lord-helmchen.ch
 lord-immo.ch
 lord-of-fashion.ch
 lord-of-style.ch
+lord-of-the-ocean.ch
 lord-of-the-rings.ch
 lord-pen.ch
 lord-rich.ch
@@ -9903,7 +9908,6 @@ loslocos.ch
 loslocos05.ch
 loslocos22.ch
 loslos.ch
-losmagicians.ch
 losmal.ch
 losmangos.ch
 losmania.ch
@@ -11557,6 +11561,7 @@ lousonna.ch
 louspastaplayground.ch
 louspring.ch
 lousrestaurant.ch
+loussonaground.ch
 loustalot.ch
 lousteiner.ch
 loustic.ch

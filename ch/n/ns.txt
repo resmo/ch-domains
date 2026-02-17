@@ -12,9 +12,7 @@ ns-03.stepping-stone.ch
 ns-04.bits-ns.ch
 ns-04.stepping-stone.ch
 ns-1.fhhwz.ch
-ns-1.realize.ch
 ns-2.fhhwz.ch
-ns-2.realize.ch
 ns-a.hohenegg.ch
 ns-a.pillo-srv.ch
 ns-a.workaround.ch
@@ -741,6 +739,7 @@ ns1.80edays.ch
 ns1.911-motors.ch
 ns1.a-gov.ch
 ns1.a-la-ferme.ch
+ns1.a3bau.ch
 ns1.a3erlebnismanufaktur.ch
 ns1.a4agentur.ch
 ns1.a4interactive.ch
@@ -922,7 +921,6 @@ ns1.atomstudio.ch
 ns1.atphp.ch
 ns1.atrix-consult-gmbh.ch
 ns1.atupri.ch
-ns1.aubergedevandoeuvres.ch
 ns1.auchatnoir.ch
 ns1.audiogen.ch
 ns1.aurafilm.ch
@@ -1881,7 +1879,6 @@ ns1.gloeggli.ch
 ns1.gluc.ch
 ns1.glweb.ch
 ns1.gmacg.ch
-ns1.gmailtours.ch
 ns1.gmlss1.ch
 ns1.gmpeinture.ch
 ns1.gna.ch
@@ -2374,6 +2371,7 @@ ns1.la-statistique-compte.ch
 ns1.lab6.ch
 ns1.labns.ch
 ns1.labo-pellaton.ch
+ns1.ladiesonbikes.ch
 ns1.ladygym.ch
 ns1.lagirizza.ch
 ns1.lagirra.ch
@@ -2540,6 +2538,7 @@ ns1.mavillemespromos.ch
 ns1.maxbit.ch
 ns1.maxload.ch
 ns1.mayam.ch
+ns1.mayoris.ch
 ns1.mb-office.ch
 ns1.mbulle.ch
 ns1.mbur.ch
@@ -2585,7 +2584,6 @@ ns1.mgehosting.ch
 ns1.mgit.ch
 ns1.mgks.ch
 ns1.mhd.ch
-ns1.miakind.ch
 ns1.miaxcom.ch
 ns1.micell.ch
 ns1.michael-handel.ch
@@ -2917,6 +2915,7 @@ ns1.patschafer.ch
 ns1.patschbo.ch
 ns1.paus.ch
 ns1.paymentspro.ch
+ns1.payroll-24.ch
 ns1.paysanssuisses.ch
 ns1.pbxhome.ch
 ns1.pc-fritz.ch
@@ -2979,6 +2978,7 @@ ns1.plan-f.ch
 ns1.planet.ch
 ns1.plants-de-fraises.ch
 ns1.planzer.ch
+ns1.platindns.ch
 ns1.plattenleger-pizzu.ch
 ns1.play-server.ch
 ns1.pleinertpartner.ch
@@ -4040,7 +4040,6 @@ ns10.bucher-walt.ch
 ns10.cbm.ch
 ns10.crimanet.ch
 ns10.def.ch
-ns10.eternalnet.ch
 ns10.fast-lta.ch
 ns10.hcweb.ch
 ns10.hostingmanager.ch
@@ -4303,7 +4302,6 @@ ns2.atozenglish.ch
 ns2.atphp.ch
 ns2.atrix-consult-gmbh.ch
 ns2.atupri.ch
-ns2.aubergedevandoeuvres.ch
 ns2.auchatnoir.ch
 ns2.audiogen.ch
 ns2.aurafilm.ch
@@ -4732,7 +4730,6 @@ ns2.crystal.ch
 ns2.cs-web.ch
 ns2.cs2.ch
 ns2.cscs.ch
-ns2.csd.ch
 ns2.cshug.ch
 ns2.csl-tools.ch
 ns2.csr-company.ch
@@ -5220,7 +5217,6 @@ ns2.globalpower.ch
 ns2.globus.ch
 ns2.glweb.ch
 ns2.gmacg.ch
-ns2.gmailtours.ch
 ns2.gmlss1.ch
 ns2.gmpeinture.ch
 ns2.gna.ch
@@ -5696,6 +5692,7 @@ ns2.la-statistica-conta.ch
 ns2.la-statistique-compte.ch
 ns2.labns.ch
 ns2.labo-pellaton.ch
+ns2.ladiesonbikes.ch
 ns2.ladygym.ch
 ns2.lakenet.ch
 ns2.lamadrina.ch
@@ -5854,6 +5851,7 @@ ns2.mavillemespromos.ch
 ns2.maxbit.ch
 ns2.maxload.ch
 ns2.mayam.ch
+ns2.mayoris.ch
 ns2.mb-office.ch
 ns2.mbulle.ch
 ns2.mbur.ch
@@ -5896,7 +5894,6 @@ ns2.mgcweb.ch
 ns2.mgehosting.ch
 ns2.mgit.ch
 ns2.mhd.ch
-ns2.miakind.ch
 ns2.miaxcom.ch
 ns2.micell.ch
 ns2.microexpert.ch
@@ -6199,6 +6196,7 @@ ns2.patschafer.ch
 ns2.patschbo.ch
 ns2.paus.ch
 ns2.paymentspro.ch
+ns2.payroll-24.ch
 ns2.paysanssuisses.ch
 ns2.pbxhome.ch
 ns2.pc-fritz.ch
@@ -6260,6 +6258,7 @@ ns2.planet.ch
 ns2.plansfixes.ch
 ns2.plants-de-fraises.ch
 ns2.planzer.ch
+ns2.platindns.ch
 ns2.plattenleger-pizzu.ch
 ns2.play-server.ch
 ns2.pleinertpartner.ch
@@ -7862,6 +7861,7 @@ ns3.picfilm.ch
 ns3.pimpernet.ch
 ns3.piratenpartei.ch
 ns3.plan-f.ch
+ns3.platindns.ch
 ns3.plenarit.ch
 ns3.pmxdns.ch
 ns3.pocket-bike-center.ch
@@ -8290,6 +8290,7 @@ ns4.phare.ch
 ns4.pianeti.ch
 ns4.picfilm.ch
 ns4.piratenpartei.ch
+ns4.platindns.ch
 ns4.plenarit.ch
 ns4.pmci.ch
 ns4.pmxdns.ch

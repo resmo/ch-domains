@@ -3302,7 +3302,6 @@ gleitschirm-passagierflug.ch
 gleitschirm-pizol.ch
 gleitschirm-recycling.ch
 gleitschirm-reisen.ch
-gleitschirm-reparaturen.ch
 gleitschirm-schule.ch
 gleitschirm-schulung.ch
 gleitschirm-service.ch
@@ -3348,7 +3347,6 @@ gleitschirmperspektive.ch
 gleitschirmpilot.ch
 gleitschirmreise.ch
 gleitschirmreisen-flytours.ch
-gleitschirmreparaturen.ch
 gleitschirmschule-basel.ch
 gleitschirmschule-bern.ch
 gleitschirmschule-glarnerland.ch
@@ -4516,6 +4514,7 @@ globalbanking.ch
 globalbase.ch
 globalbaticoncept.ch
 globalbau.ch
+globalbauschweiz.ch
 globalbc.ch
 globalbeans.ch
 globalbear.ch

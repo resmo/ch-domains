@@ -1635,20 +1635,16 @@ pferde-altersheim.ch
 pferde-altersweide.ch
 pferde-anhaenger.ch
 pferde-apotheke.ch
-pferde-artikel.ch
 pferde-atlas-therapie.ch
 pferde-ausbildung.ch
 pferde-balance.ch
 pferde-behandlung.ch
 pferde-berghof.ch
-pferde-betrieb.ch
 pferde-bewegungsstall.ch
 pferde-bild.ch
 pferde-bolus.ch
 pferde-boxen.ch
 pferde-boxenschilder.ch
-pferde-buch-shop.ch
-pferde-buch.ch
 pferde-buetschelegg.ch
 pferde-business.ch
 pferde-chiropraktik.ch
@@ -1671,7 +1667,6 @@ pferde-experten.ch
 pferde-extrem-trail.ch
 pferde-extreme-trail.ch
 pferde-extreme.ch
-pferde-fachbuch.ch
 pferde-fachmesse.ch
 pferde-fachwissen.ch
 pferde-fit.ch
@@ -1689,7 +1684,6 @@ pferde-gesund-fuettern.ch
 pferde-gesundheit.ch
 pferde-glueck.ch
 pferde-gold.ch
-pferde-gummimatten.ch
 pferde-gutshof.ch
 pferde-haaranalyse.ch
 pferde-haendler.ch
@@ -1744,7 +1738,6 @@ pferde-osteotherapie.ch
 pferde-paddock.ch
 pferde-paradies.ch
 pferde-pension.ch
-pferde-pflege.ch
 pferde-physio-training.ch
 pferde-physiotherapie.ch
 pferde-physiotraining.ch
@@ -1838,7 +1831,6 @@ pferdeaugenheilkunde.ch
 pferdeausbilden.ch
 pferdeausbildung-3d.ch
 pferdeausbildung.ch
-pferdeauslauf.ch
 pferdebalance.ch
 pferdebalsam.ch
 pferdebauer.ch
@@ -1862,7 +1854,6 @@ pferdeboxen.ch
 pferdeboxenbaar.ch
 pferdeboxenmieten.ch
 pferdeboxshop.ch
-pferdebuch.ch
 pferdebusiness.ch
 pferdecoa.ch
 pferdecoach.ch
@@ -1913,7 +1904,6 @@ pferdeevent.ch
 pferdeexperten.ch
 pferdeextremetrail.ch
 pferdefacharzt.ch
-pferdefachbuch.ch
 pferdefachfrau.ch
 pferdefachmesse.ch
 pferdefachschule.ch
@@ -2361,7 +2351,6 @@ pferdesport-immobilien.ch
 pferdesport-kraemer.ch
 pferdesport-messe.ch
 pferdesport-oberaargau.ch
-pferdesport-outlet.ch
 pferdesport-pfannenstiel.ch
 pferdesport-schweiz.ch
 pferdesport-team.ch
@@ -4972,6 +4961,7 @@ pfotenpraxis.ch
 pfotenprinz.ch
 pfotenprofi.ch
 pfotenpsychologie.ch
+pfotenpunkt.ch
 pfotenranch.ch
 pfotenrausch.ch
 pfotenreich.ch
