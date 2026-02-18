@@ -1879,6 +1879,7 @@ ns1.gloeggli.ch
 ns1.gluc.ch
 ns1.glweb.ch
 ns1.gmacg.ch
+ns1.gmailtours.ch
 ns1.gmlss1.ch
 ns1.gmpeinture.ch
 ns1.gna.ch
@@ -2371,7 +2372,6 @@ ns1.la-statistique-compte.ch
 ns1.lab6.ch
 ns1.labns.ch
 ns1.labo-pellaton.ch
-ns1.ladiesonbikes.ch
 ns1.ladygym.ch
 ns1.lagirizza.ch
 ns1.lagirra.ch
@@ -3143,7 +3143,6 @@ ns1.regioprint.ch
 ns1.regiorama.ch
 ns1.register.ch
 ns1.rehmatt.ch
-ns1.rehstos.ch
 ns1.reichardt.ch
 ns1.reisen.ch
 ns1.relate.ch
@@ -5217,6 +5216,7 @@ ns2.globalpower.ch
 ns2.globus.ch
 ns2.glweb.ch
 ns2.gmacg.ch
+ns2.gmailtours.ch
 ns2.gmlss1.ch
 ns2.gmpeinture.ch
 ns2.gna.ch
@@ -5692,7 +5692,6 @@ ns2.la-statistica-conta.ch
 ns2.la-statistique-compte.ch
 ns2.labns.ch
 ns2.labo-pellaton.ch
-ns2.ladiesonbikes.ch
 ns2.ladygym.ch
 ns2.lakenet.ch
 ns2.lamadrina.ch

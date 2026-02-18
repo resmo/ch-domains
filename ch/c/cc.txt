@@ -117,7 +117,6 @@ cc-plus.ch
 cc-portail.ch
 cc-portale.ch
 cc-productions.ch
-cc-properties.ch
 cc-radar.ch
 cc-report.ch
 cc-rider.ch
@@ -834,6 +833,7 @@ ccnp.ch
 ccnt-system.ch
 ccnt.ch
 ccntsystem.ch
+ccnutzfahrzeuge.ch
 ccnv-sa.ch
 ccnv.ch
 ccnyon.ch
@@ -1024,7 +1024,6 @@ ccsch.ch
 ccschneider.ch
 ccschulz.ch
 ccschwarzwald.ch
-ccsconnects.ch
 ccscore.ch
 ccscuol.ch
 ccscv.ch
