@@ -76,7 +76,6 @@ ds-eventservices.ch
 ds-extensions.ch
 ds-factory.ch
 ds-fahrschule.ch
-ds-film.ch
 ds-films.ch
 ds-finance.ch
 ds-garage.ch
@@ -569,8 +568,6 @@ dsfid.ch
 dsfiduciaire.ch
 dsfiduciaria.ch
 dsfiler.ch
-dsfilm.ch
-dsfilms.ch
 dsfk.ch
 dsfkoblenz.ch
 dsfm.ch

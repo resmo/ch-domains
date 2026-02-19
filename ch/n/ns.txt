@@ -37,6 +37,7 @@ ns-edition.ch
 ns-elektro.ch
 ns-etancheite-fribourg.ch
 ns-fassaden.ch
+ns-firestop.ch
 ns-group.ch
 ns-hamilton.ch
 ns-haustechnik.ch
@@ -254,7 +255,6 @@ ns.harrysson.ch
 ns.hauke-kreft.ch
 ns.hausformathosting.ch
 ns.havananews.ch
-ns.holzgasse.ch
 ns.home-world.ch
 ns.host.ch
 ns.hostpoint.ch
@@ -1124,6 +1124,7 @@ ns1.brainhost.ch
 ns1.brainsworld.ch
 ns1.breitaberg.ch
 ns1.breitnet.ch
+ns1.breman.ch
 ns1.bremsschlauch.ch
 ns1.brillenland.ch
 ns1.bringsel.ch
@@ -2102,7 +2103,6 @@ ns1.ig-burp.ch
 ns1.igaia.ch
 ns1.igmp.ch
 ns1.ihiw.ch
-ns1.ihmm.ch
 ns1.ihomelab.ch
 ns1.ihrbuero.ch
 ns1.iims.ch
@@ -2878,6 +2878,7 @@ ns1.out.ch
 ns1.overrea.ch
 ns1.ovx.ch
 ns1.owcd.ch
+ns1.owebdesign.ch
 ns1.ownspace.ch
 ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
@@ -3810,6 +3811,7 @@ ns1.wajo-cloud.ch
 ns1.waldhus.ch
 ns1.waldvogelcomputer.ch
 ns1.walterengineering.ch
+ns1.waly.ch
 ns1.wambo.ch
 ns1.wanon.ch
 ns1.waren-treuhand.ch
@@ -4493,6 +4495,7 @@ ns2.brainhost.ch
 ns2.brainsworld.ch
 ns2.breitaberg.ch
 ns2.breitnet.ch
+ns2.breman.ch
 ns2.brignoli.ch
 ns2.brillenland.ch
 ns2.bringsel.ch
@@ -4586,6 +4589,7 @@ ns2.ch
 ns2.chabbeypiller.ch
 ns2.chalet-bettmeralp.ch
 ns2.chalet-schuetzenacker.ch
+ns2.chaoswit.ch
 ns2.chdns.ch
 ns2.cherpines-autrement.ch
 ns2.chevalnaturel.ch
@@ -5431,7 +5435,6 @@ ns2.ify.ch
 ns2.ig-burp.ch
 ns2.igmp.ch
 ns2.ihiw.ch
-ns2.ihmm.ch
 ns2.ihomelab.ch
 ns2.ihrbuero.ch
 ns2.iims.ch
@@ -6165,6 +6168,7 @@ ns2.outback.ch
 ns2.overrea.ch
 ns2.ovx.ch
 ns2.owcd.ch
+ns2.owebdesign.ch
 ns2.ownspace.ch
 ns2.oxyhelp.ch
 ns2.oyez-oyez.ch
@@ -7079,6 +7083,7 @@ ns2.waermedaemmung-schweiz.ch
 ns2.wahaca.ch
 ns2.wajo-cloud.ch
 ns2.walterengineering.ch
+ns2.waly.ch
 ns2.wambo.ch
 ns2.wanon.ch
 ns2.waren-treuhand.ch
