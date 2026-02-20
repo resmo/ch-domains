@@ -2468,7 +2468,6 @@ ns1.lylava.ch
 ns1.lynxium.ch
 ns1.lynxxx.ch
 ns1.m-f-consulting.ch
-ns1.m-familyfood.ch
 ns1.m-schaufelberger.ch
 ns1.ma-secretere.ch
 ns1.macchinista.ch
@@ -3810,6 +3809,7 @@ ns1.waermedaemmung-schweiz.ch
 ns1.wajo-cloud.ch
 ns1.waldhus.ch
 ns1.waldvogelcomputer.ch
+ns1.wallissimo.ch
 ns1.walterengineering.ch
 ns1.waly.ch
 ns1.wambo.ch
@@ -5792,7 +5792,6 @@ ns2.lylava.ch
 ns2.lynxium.ch
 ns2.lynxxx.ch
 ns2.m-f-consulting.ch
-ns2.m-familyfood.ch
 ns2.m-schaufelberger.ch
 ns2.ma-secretere.ch
 ns2.macchinista.ch
@@ -7082,6 +7081,7 @@ ns2.wa-research.ch
 ns2.waermedaemmung-schweiz.ch
 ns2.wahaca.ch
 ns2.wajo-cloud.ch
+ns2.wallissimo.ch
 ns2.walterengineering.ch
 ns2.waly.ch
 ns2.wambo.ch
@@ -8444,7 +8444,6 @@ ns6.avaloqsourcing.ch
 ns6.b-source.ch
 ns6.bellinzonaweb.ch
 ns6.bosslab.ch
-ns6.ch
 ns6.computech-rz.ch
 ns6.creativeagent.ch
 ns6.dizmo.ch

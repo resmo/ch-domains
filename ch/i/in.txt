@@ -5108,6 +5108,7 @@ infermiereadomicilio1.ch
 infermierealocarno.ch
 infermieredifamiglia.ch
 infermiereticino.ch
+infermieri-indipendenti.ch
 infermieri.ch
 infermieridifamiglia.ch
 infermis.ch
@@ -5548,6 +5549,7 @@ infinitycorp.ch
 infinitycosmetics.ch
 infinitycosmosx.ch
 infinitycurve.ch
+infinitycustom.ch
 infinitydental.ch
 infinitydevelopment.ch
 infinitydigital.ch
@@ -6907,6 +6909,7 @@ infolox.ch
 infolu.ch
 infolution.ch
 infolutions.ch
+infoluxurycleaning.ch
 infom.ch
 infoma-t.ch
 infomacula.ch
@@ -7338,6 +7341,7 @@ informatichome.ch
 informatici.ch
 informaticien-aubonne.ch
 informaticien-avenches.ch
+informaticien-belmont-broye.ch
 informaticien-belmont-sur-lausanne.ch
 informaticien-bienne.ch
 informaticien-boudry.ch
@@ -7345,8 +7349,11 @@ informaticien-bulle.ch
 informaticien-bussigny.ch
 informaticien-chavannes-pres-renens.ch
 informaticien-chavannes.ch
+informaticien-chavornay.ch
+informaticien-colombier.ch
 informaticien-comparatif.ch
 informaticien-corcelles-cormondreche.ch
+informaticien-courtepin.ch
 informaticien-crissier.ch
 informaticien-de-gestion-avec-brevet-federal.ch
 informaticien-du-batiment.ch
@@ -7363,6 +7370,7 @@ informaticien-fribourg.ch
 informaticien-geneve.ch
 informaticien-genolier.ch
 informaticien-gestion.ch
+informaticien-gibloux.ch
 informaticien-gland.ch
 informaticien-la-chaux-de-fonds.ch
 informaticien-la-grande-beroche.ch
@@ -7370,12 +7378,15 @@ informaticien-lausanne.ch
 informaticien-le-locle.ch
 informaticien-le-mont-sur-lausanne.ch
 informaticien-lonay.ch
+informaticien-lucens.ch
 informaticien-lutry.ch
+informaticien-marin-epagnier.ch
 informaticien-marly.ch
 informaticien-milvignes.ch
 informaticien-morat.ch
 informaticien-morge.ch
 informaticien-morges.ch
+informaticien-moudon.ch
 informaticien-neuchatel.ch
 informaticien-nyon.ch
 informaticien-orbe.ch
@@ -7388,6 +7399,7 @@ informaticien-prilly.ch
 informaticien-pully.ch
 informaticien-renens.ch
 informaticien-rolle.ch
+informaticien-romont.ch
 informaticien-saint-blaise.ch
 informaticien-saint-imier.ch
 informaticien-saint-prex.ch
@@ -7773,16 +7785,22 @@ informatique-a-domicile.ch
 informatique-artisanale.ch
 informatique-avenches.ch
 informatique-barras.ch
+informatique-belmont-broye.ch
 informatique-berne.ch
 informatique-bienne.ch
 informatique-boudry.ch
 informatique-bulle.ch
 informatique-bussigny.ch
 informatique-carouge.ch
+informatique-chavannes-pres-renens.ch
+informatique-chavornay.ch
 informatique-cheseaux.ch
 informatique-cheyres-chables.ch
+informatique-colombier.ch
 informatique-concept.ch
+informatique-corcelles-cormondreche.ch
 informatique-cossonay.ch
+informatique-courtepin.ch
 informatique-crissier.ch
 informatique-csud.ch
 informatique-domdidier.ch
@@ -7802,19 +7820,25 @@ informatique-fribourg.ch
 informatique-fully.ch
 informatique-ge.ch
 informatique-geneve.ch
+informatique-gibloux.ch
 informatique-gland.ch
 informatique-glane-veveyse.ch
 informatique-glane.ch
 informatique-jobin.ch
 informatique-la-chaux-de-fonds.ch
+informatique-la-grande-beroche.ch
 informatique-lancy.ch
 informatique-lausanne.ch
 informatique-le-locle.ch
+informatique-le-mont-sur-lausanne.ch
 informatique-lonay.ch
 informatique-lucens.ch
 informatique-lutry.ch
+informatique-marin-epagnier.ch
+informatique-marly.ch
 informatique-medecin.ch
 informatique-meyrin.ch
+informatique-milvignes.ch
 informatique-mobile.ch
 informatique-mont-sur-lausanne.ch
 informatique-morat.ch
@@ -7829,18 +7853,25 @@ informatique-ouest-lausanne.ch
 informatique-ouest-lausannois.ch
 informatique-payerne.ch
 informatique-peseux.ch
+informatique-preverenges.ch
 informatique-prilly.ch
 informatique-pully.ch
 informatique-renens.ch
+informatique-rolle.ch
 informatique-romandie.ch
 informatique-romont.ch
 informatique-saint-imier.ch
+informatique-saint-prex.ch
 informatique-secours.ch
 informatique-sion.ch
 informatique-suisse.ch
+informatique-tavannes.ch
+informatique-tavel.ch
 informatique-thonex.ch
 informatique-tissot.ch
 informatique-tranquille.ch
+informatique-val-de-ruz.ch
+informatique-val-de-travers.ch
 informatique-valais.ch
 informatique-vallorbe.ch
 informatique-vaud.ch
@@ -7851,6 +7882,7 @@ informatique-veveyse.ch
 informatique-villars-sur-glane.ch
 informatique-yverdon-les-bains.ch
 informatique-yverdon.ch
+informatique-yvonand.ch
 informatique.ch
 informatique2000.ch
 informatique24.ch
@@ -8227,6 +8259,7 @@ infotaupier.ch
 infotaupiers.ch
 infotaxi.ch
 infotcs.ch
+infotdystyling.ch
 infote.ch
 infoteam-group.ch
 infoteam-holding.ch
@@ -8310,7 +8343,6 @@ infotrend-ag.ch
 infotrend.ch
 infotreu.ch
 infotrevalli.ch
-infotroechni.ch
 infotroisiemepilier.ch
 infotron.ch
 infotronic.ch
@@ -10314,6 +10346,7 @@ initiativen-schweiz.ch
 initiativeneutralite.ch
 initiativenucleaire.ch
 initiativepermafrost.ch
+initiativephoenix.ch
 initiativeplacefinanciere.ch
 initiativepollinisateurs.ch
 initiativepostale.ch
@@ -12784,6 +12817,7 @@ innolegal.ch
 innolern.ch
 innolex.ch
 innolicht.ch
+innolicious.ch
 innolift.ch
 innolifters.ch
 innoliftsol.ch
@@ -12972,7 +13006,6 @@ innosante.ch
 innoscale.ch
 innoscan.ch
 innoscape.ch
-innoschmid.ch
 innoschmied.ch
 innoscope.ch
 innoscout.ch
@@ -13642,7 +13675,6 @@ innovationmuscle.ch
 innovationmuscleclub.ch
 innovationnetwork.ch
 innovationnight.ch
-innovationoffice.ch
 innovationoutpost.ch
 innovationpark-east.ch
 innovationpark-ticino.ch
@@ -13696,7 +13728,6 @@ innovationsbiotop.ch
 innovationsbox.ch
 innovationsbrief.ch
 innovationsbroker.ch
-innovationsbuero.ch
 innovationscheck.ch
 innovationschweiz.ch
 innovationscluster-shk.ch
@@ -14678,7 +14709,6 @@ inovista.ch
 inovit.ch
 inovitae.ch
 inovitas.ch
-inovium.ch
 inoviva.ch
 inovix.ch
 inovlas.ch
@@ -15266,6 +15296,7 @@ inscribere.ch
 inscript.ch
 inscripta.ch
 inscription-ge.ch
+inscription-linea-formation.ch
 inscription-logement-geneve.ch
 inscription-logement-vaud.ch
 inscription-lycee.ch
@@ -15510,6 +15541,7 @@ insektenschutzgitter-online.ch
 insektenschutzgitter-zentralschweiz.ch
 insektenschutzgitter.ch
 insektenschutzluzern.ch
+insektenschutzmb.ch
 insektenschutzmittel.ch
 insektenschutznetz.ch
 insektenschutzplissee.ch
@@ -16025,6 +16057,7 @@ insidecardiology.ch
 insidechannels.ch
 insidecharadeplatz.ch
 insidechmedia.ch
+insidechur.ch
 insidecity.ch
 insidecitytrip.ch
 insideclean.ch
@@ -17041,6 +17074,7 @@ inspiringjourneys.ch
 inspiringminds.ch
 inspiringpeople.ch
 inspiringplaceszermatt.ch
+inspiringquotes.ch
 inspiringstudio.ch
 inspiringthefuture.ch
 inspirio-sekkei.ch
@@ -17749,6 +17783,7 @@ institut-beaute-opale.ch
 institut-beaute-sandrine.ch
 institut-beaute-sante.ch
 institut-beaute-sion.ch
+institut-beaute-teny.ch
 institut-beaute-zen.ch
 institut-beaute.ch
 institut-beauterebelle.ch
@@ -19358,6 +19393,7 @@ integralepolitik.ch
 integraler-test.ch
 integraler-theismus.ch
 integralertest.ch
+integrales-bewusstsein.ch
 integrales-coaching.ch
 integrales-heilen.ch
 integrales-institut-schweiz.ch
@@ -24186,6 +24222,7 @@ intimesverzeichnis.ch
 intimesvz.ch
 intimex.ch
 intimfitness.ch
+intimflex.ch
 intimhygiene.ch
 intimia.ch
 intimiainstitut.ch
@@ -24321,7 +24358,6 @@ intol.ch
 intolerance-au-lactose.ch
 intolerance.ch
 intolerancealimentaire.ch
-intolerant.ch
 intoleranz.ch
 intoleranzen.ch
 intolife.ch
@@ -26008,7 +26044,6 @@ investmentberaterin.ch
 investmentberatung.ch
 investmentbroker.ch
 investmentbude.ch
-investmentcareer.ch
 investmentcenter.ch
 investmentchancen.ch
 investmentcheck.ch
@@ -26020,6 +26055,7 @@ investmentconsulting.ch
 investmentcontrolling.ch
 investmentfehler.ch
 investmentfit.ch
+investmentforum.ch
 investmentfun.ch
 investmentfund.ch
 investmentfunds.ch
@@ -26067,7 +26103,6 @@ investmentservice.ch
 investmentshop.ch
 investmentsideen.ch
 investmentsmanagers.ch
-investmentsolutions.ch
 investmentstiftung.ch
 investmentstories.ch
 investmentstrategie.ch

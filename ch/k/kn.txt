@@ -442,7 +442,6 @@ kneipenchor.ch
 kneipenfuehrer.ch
 kneipensportler.ch
 kneipentour.ch
-kneiper-events-ow.ch
 kneiper-events.ch
 kneipp-apotheke.ch
 kneipp-backwaren.ch
@@ -512,10 +511,12 @@ knetbank.ch
 knetbude.ch
 knete.ch
 knetefabrik.ch
+knetelier.ch
 knetemann.ch
 kneten.ch
 kneter.ch
 kneterei-zofingen.ch
+knetiva.ch
 knetkiosk.ch
 knetkopp.ch
 knetkunst.ch
@@ -1056,7 +1057,6 @@ knoblauchbombe.ch
 knoblauchpantli.ch
 knoblauchpresse.ch
 knoblauchschnaps.ch
-knoblauchshop.ch
 knoblauchzingge.ch
 knobli.ch
 knoblibike.ch
@@ -1893,6 +1893,8 @@ knyt.ch
 knz-concept.ch
 knz.ch
 knzle.ch
+knzli.ch
+knzliag.ch
 knzlrphotography.ch
 knzlsn.ch
 knzpt.ch

@@ -912,6 +912,7 @@ docsplit.ch
 docsport.ch
 docsprint.ch
 docst.ch
+docstart.ch
 docstation-dental.ch
 docstation-emmen.ch
 docstation-kids.ch
@@ -1068,6 +1069,7 @@ docti.ch
 doctim.ch
 doctime.ch
 doctimer.ch
+doctimize.ch
 doctips.ch
 doctissimo.ch
 doctlib.ch
@@ -1083,6 +1085,7 @@ doctoluxe.ch
 doctomap.ch
 doctomarket.ch
 doctomed.ch
+doctonet.ch
 doctool.ch
 doctools.ch
 doctopia.ch
@@ -2606,7 +2609,6 @@ dogicat.ch
 dogident.ch
 dogidog.ch
 dogify.ch
-dogify24.ch
 dogigitter.ch
 dogikosa.ch
 dogilicious.ch
@@ -4639,8 +4641,6 @@ domain-24.ch
 domain-abuse-40-mvp.ch
 domain-advisor.ch
 domain-aftermarket.ch
-domain-alarm.ch
-domain-alert.ch
 domain-analyse.ch
 domain-analytics.ch
 domain-anwaelte.ch
@@ -4832,12 +4832,10 @@ domainadvisor.ch
 domainaffirmation.ch
 domainaftermarket.ch
 domainagentur.ch
-domainalarm.ch
 domainame.ch
 domainanalyse.ch
 domainanalysen.ch
 domainanalytics.ch
-domainanfrage.ch
 domainangebot.ch
 domainangel.ch
 domainanwalt.ch
@@ -6891,7 +6889,6 @@ dominiqueulrich.ch
 dominiqueundphilipp.ch
 dominiqueundrobin.ch
 dominiqueundtim.ch
-dominiquevonburg.ch
 dominiquewehrli.ch
 dominiquewirz.ch
 dominiquewittwer.ch
@@ -7338,6 +7335,7 @@ domonpodologie.ch
 domontpourtous.ch
 domony.ch
 domoo.ch
+domoplus.ch
 domoprodukte.ch
 domoprotect.ch
 domoptic.ch
@@ -7504,7 +7502,6 @@ domswiss.ch
 domsyna.ch
 domtamen.ch
 domtarpersonalcare.ch
-domtec.ch
 domtechnik.ch
 domteknika.ch
 domtendo.ch
@@ -8592,7 +8589,6 @@ dont-stop.ch
 dont-tell.ch
 dont-tou.ch
 dont-use-it.ch
-dont-waste-time.ch
 dont-waste.ch
 dont-worry.ch
 dont.ch
@@ -9287,6 +9283,7 @@ dorado-kaffee.ch
 dorado-latintours.ch
 dorado-premium.ch
 dorado-reinach.ch
+dorado-sv.ch
 dorado.ch
 doradobox.ch
 doradoel.ch
@@ -11880,6 +11877,7 @@ doubox.ch
 doubrava.ch
 doubs-bois.ch
 doubs-vacances.ch
+doubs.ch
 doubsdenature.ch
 doubspeche.ch
 doubsvivant.ch
