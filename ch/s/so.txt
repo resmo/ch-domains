@@ -261,7 +261,6 @@ so2design.ch
 so4.ch
 so5.ch
 so5admin.ch
-so6.ch
 so82.ch
 so88.ch
 so9.ch
@@ -1661,7 +1660,6 @@ socialtroubleshooter.ch
 socialtruck.ch
 socialtv.ch
 socialup.ch
-socialurbanzone.ch
 socialutions.ch
 socialvalais.ch
 socialvalue.ch
@@ -1707,7 +1705,6 @@ socialwithsophie.ch
 socialwizard.ch
 socialwizards.ch
 socialwlzard.ch
-socialwork.ch
 socialworkportal.ch
 socialworld.ch
 socialx.ch
@@ -2437,6 +2434,7 @@ sodor-im.ch
 sodor.ch
 sodos.ch
 sodpa.ch
+sodream.ch
 sodrecos-sa.ch
 sodrecos.ch
 sods.ch
@@ -2654,7 +2652,6 @@ sofaagency.ch
 sofaaufbereitung.ch
 sofaaufmass.ch
 sofabeats.ch
-sofabed.ch
 sofabett.ch
 sofabettdiscount.ch
 sofabiel.ch
@@ -3095,7 +3092,6 @@ sofortkomposition.ch
 sofortkontakt.ch
 sofortkontakte.ch
 sofortkredit-kleinkredit-autokredit.ch
-sofortkredit-online.ch
 sofortkredit-privatkredit-kleinkredit-schweiz.ch
 sofortkredit-schweiz.ch
 sofortkredit.ch
@@ -4257,7 +4253,6 @@ sogeri.ch
 sogern.ch
 soges.ch
 sogesa.ch
-sogesal.ch
 sogesehen.ch
 sogestas.ch
 sogesti.ch
@@ -5160,6 +5155,7 @@ sol-indiges.ch
 sol-info.ch
 sol-ing.ch
 sol-inn.ch
+sol-invest.ch
 sol-invictus.ch
 sol-luna.ch
 sol-lutions.ch
@@ -5306,14 +5302,12 @@ solaire-capital.ch
 solaire-clean.ch
 solaire-concept.ch
 solaire-edf.ch
-solaire-energies.ch
 solaire-entreprise.ch
 solaire-fribourg.ch
 solaire-ge.ch
 solaire-geneve.ch
 solaire-maintenance.ch
 solaire-online.ch
-solaire-pac.ch
 solaire-panneau.ch
 solaire-placedapprentissage.ch
 solaire-riviera.ch
@@ -5324,7 +5318,6 @@ solaire-suisse.ch
 solaire-sur-le-toit.ch
 solaire-thermique-valais.ch
 solaire-thermique.ch
-solaire-thermiques.ch
 solaire-valais.ch
 solaire-vaud.ch
 solaire-vd.ch
@@ -5344,18 +5337,14 @@ solairege.ch
 solairemaintenance.ch
 solairemoon.ch
 solairenergie.ch
-solairenergies.ch
 solairepascher.ch
-solairephotovoltaique.ch
 solaireplus.ch
 solairepourtous.ch
-solairepv.ch
 solaireriviera.ch
 solaireromand.ch
 solaireromandie.ch
 solaires-edf.ch
 solaires-panneaux.ch
-solaires-thermiques.ch
 solaires.ch
 solairesav.ch
 solaireservices.ch
@@ -5372,7 +5361,6 @@ solairtechnik.ch
 solaition.ch
 solajule.ch
 solak.ch
-solaki.ch
 solakosmetik.ch
 solal.ch
 solala-murten.ch
@@ -5628,7 +5616,6 @@ solar-energieberatung.ch
 solar-energiehaus.ch
 solar-energien.ch
 solar-energieoptimierung.ch
-solar-energies.ch
 solar-energy.ch
 solar-enertech.ch
 solar-engineering.ch
@@ -5997,7 +5984,6 @@ solar-wind.ch
 solar-window.ch
 solar-winterthur.ch
 solar-wohnmobil.ch
-solar-world.ch
 solar-x.ch
 solar-zahner.ch
 solar-zaun.ch
@@ -6492,7 +6478,6 @@ solarenergieberatung.ch
 solarenergieblog.ch
 solarenergieluzern.ch
 solarenergien.ch
-solarenergies.ch
 solarenergieschweiz.ch
 solarenergiespeicher.ch
 solarenergietechnik.ch
@@ -7184,6 +7169,7 @@ solaroltingen.ch
 solaron.ch
 solarone.ch
 solaronic.ch
+solaronix.ch
 solaronline.ch
 solaronlineshop.ch
 solaropt.ch
@@ -7195,7 +7181,6 @@ solarostschweiz.ch
 solarosuites.ch
 solarova.ch
 solarox.ch
-solarpac.ch
 solarpaket.ch
 solarpakt.ch
 solarpalm.ch
@@ -8749,6 +8734,7 @@ solid-materials.ch
 solid-med.ch
 solid-medmassage.ch
 solid-offerte.ch
+solid-personal.ch
 solid-pipe.ch
 solid-pool.ch
 solid-print.ch
@@ -10230,6 +10216,7 @@ solufroid.ch
 solugest-informatique.ch
 solugest-report.ch
 solugest.ch
+solui.ch
 soluinfo.ch
 soluki.ch
 solulu.ch
@@ -10385,7 +10372,6 @@ solution-digitales.ch
 solution-direct.ch
 solution-ecologique.ch
 solution-elearning.ch
-solution-energies.ch
 solution-excel.ch
 solution-factory-services.ch
 solution-factory.ch
@@ -10589,7 +10575,6 @@ solutions-digital.ch
 solutions-digitales.ch
 solutions-dokhane.ch
 solutions-ecologiques.ch
-solutions-energies.ch
 solutions-engineering.ch
 solutions-ev.ch
 solutions-financiere.ch
@@ -12367,6 +12352,7 @@ somtiefbau.ch
 somtrans.ch
 somtransport.ch
 somu-alle.ch
+somu.ch
 somuch.ch
 somuchlove.ch
 somuchlovemobile.ch
@@ -14886,7 +14872,6 @@ sonogram.ch
 sonographie-d-urgence.ch
 sonographie.ch
 sonographiekurse.ch
-sonographiepraxis.ch
 sonography.ch
 sonohr.ch
 sonoidea.ch
@@ -15373,10 +15358,7 @@ soparch.ch
 soparco.ch
 soparis.ch
 sopasso.ch
-sopco.ch
 sopconsulting.ch
-sopcov.ch
-sopcv.ch
 sopdom.ch
 sope.ch
 sopedo.ch
@@ -15984,8 +15966,6 @@ sopnea.ch
 sopnet.ch
 sopo.ch
 sopoke.ch
-sopolcom.ch
-sopolcomvd.ch
 sopoltrad.ch
 sopoong-lausanne.ch
 sopop.ch
@@ -16643,6 +16623,7 @@ soro.ch
 soroa-gaerten.ch
 soroa-malergipser.ch
 soroa.ch
+soroban-app.ch
 soroban.ch
 sorobangeneve.ch
 sorogroup.ch
@@ -17186,7 +17167,6 @@ sos-mac-seniors.ch
 sos-mac.ch
 sos-main-geneve.ch
 sos-main.ch
-sos-maison.ch
 sos-mani.ch
 sos-mano.ch
 sos-marketing.ch
@@ -17919,6 +17899,7 @@ sosvasca.ch
 sosverkehrsrecht.ch
 sosvermisst.ch
 sosverre.ch
+sosvet.ch
 sosvillagedenfants.ch
 sosvillages.ch
 sosvillagesdenfants.ch
@@ -18078,7 +18059,6 @@ sotronik.ch
 sots.ch
 sotsa.ch
 sotsass.ch
-sotss.ch
 sotstudio.ch
 sotstudios.ch
 sott.ch
@@ -18880,6 +18860,7 @@ soulpotion.ch
 soulpower-swiss.ch
 soulpower.ch
 soulpractice.ch
+soulpraxis.ch
 soulpreneur.ch
 soulprint.ch
 soulprints.ch
@@ -20694,6 +20675,7 @@ sowaswillichauch.ch
 sowaswillichhaben.ch
 sowatch.ch
 sowatec.ch
+sowatis.ch
 sowatrend.ch
 sowatt.ch
 sowbtp.ch
@@ -21432,6 +21414,7 @@ soziokulturjoker.ch
 soziokulturkueche.ch
 soziokulturschweiz.ch
 soziolender.ch
+soziologie-raum.ch
 soziologie-studieren.ch
 soziologie.ch
 sozionova.ch

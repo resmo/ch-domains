@@ -613,13 +613,10 @@ pabulum.ch
 pabus.ch
 pabx.ch
 pac-architecture.ch
-pac-chauffage.ch
 pac-configurateur.ch
 pac-consulting.ch
 pac-dorka.ch
-pac-eco.ch
 pac-en-ligne.ch
-pac-energies.ch
 pac-geneve.ch
 pac-home.ch
 pac-ict.ch
@@ -627,10 +624,7 @@ pac-it.ch
 pac-itec.ch
 pac-men.ch
 pac-panneau-solaire.ch
-pac-pellet.ch
-pac-pellets.ch
 pac-romandie.ch
-pac-solar.ch
 pac-suisse.ch
 pac-systeme-module.ch
 pac-systememodule.ch
@@ -2007,7 +2001,6 @@ padelversum.ch
 padelvetia.ch
 padelvibez.ch
 padelvillage.ch
-padelvision.ch
 padelvista.ch
 padelweiss.ch
 padelwelt.ch
@@ -2517,6 +2510,7 @@ pagare-semplice.ch
 pagare.ch
 pagarpedagio.ch
 pagarpedagiodigital.ch
+pagarpedagios.ch
 pagart.ch
 pagarusha.ch
 pagarviapedagio.ch
@@ -3814,6 +3808,7 @@ palaisdesthes.ch
 palaisdidon.ch
 palaisdupuck.ch
 palaisfederal.ch
+palaisgourmet.ch
 palaishassoun.ch
 palaisindien.ch
 palaiskinhdo.ch
@@ -3856,6 +3851,7 @@ palano.ch
 palante.ch
 palantina.ch
 palantino.ch
+palantir-group.ch
 palantira.ch
 palantirfoundry.ch
 palantona.ch
@@ -4343,6 +4339,7 @@ pallaoro.ch
 pallapartner.ch
 pallappadel.ch
 pallapsports.ch
+pallart.ch
 pallas-aesthetics.ch
 pallas-akademie.ch
 pallas-clinic.ch
@@ -13812,6 +13809,7 @@ partagelivres.ch
 partageons.ch
 partager-apprendre.ch
 partager.ch
+partagerplus.ch
 partages.ch
 partagesuisse.ch
 partageswiss.ch
@@ -14467,6 +14465,7 @@ partnerportal.ch
 partnerpraxen.ch
 partnerpraxis.ch
 partnerprofi.ch
+partnerprofil.ch
 partnerprogesundheit.ch
 partnerprogramm.ch
 partnerprogramme.ch
@@ -16783,6 +16782,8 @@ pass-saint-bernard.ch
 pass-sans-moi.ch
 pass-securium.ch
 pass-senior.ch
+pass-senioren.ch
+pass-seniors.ch
 pass-sport.ch
 pass-st-bernard.ch
 pass-vac-2.ch
@@ -17316,6 +17317,7 @@ passion-du-voyage.ch
 passion-estafette.ch
 passion-eventband.ch
 passion-events.ch
+passion-expo.ch
 passion-fanpass.ch
 passion-film.ch
 passion-films.ch
@@ -17359,6 +17361,7 @@ passion-parapente.ch
 passion-parts.ch
 passion-patisserie.ch
 passion-pferdesport.ch
+passion-pferdewelt.ch
 passion-photo.ch
 passion-photos.ch
 passion-pilates.ch
@@ -17569,7 +17572,6 @@ passionelago.ch
 passionelambretta.ch
 passionelifestyle.ch
 passionella.ch
-passionentertainment.ch
 passionepan.ch
 passionepilates.ch
 passioneplatten.ch
@@ -17858,6 +17860,7 @@ passrando.ch
 passrh.ch
 passsecurium.ch
 passsenior.ch
+passseniors.ch
 passsource.ch
 passsport.ch
 passstartup.ch
@@ -19314,6 +19317,7 @@ patientenportalksw.ch
 patientenrechnung.ch
 patientenrecht.ch
 patientenrechtanwalt.ch
+patientenrechte.ch
 patientenrechtsanwalt.ch
 patientenreisen.ch
 patientenreport.ch
@@ -20172,6 +20176,7 @@ patrick-monnier.ch
 patrick-moser.ch
 patrick-moto.ch
 patrick-muench.ch
+patrick-muller-macon.ch
 patrick-muller.ch
 patrick-oberholzer.ch
 patrick-oguey-leysin.ch
@@ -22216,7 +22221,6 @@ pauliverlag.ch
 paulivisual.ch
 pauliweb.ch
 pauljacob.ch
-pauljanssen.ch
 pauljenni.ch
 pauljenny-training.ch
 pauljenny.ch
@@ -24276,7 +24280,6 @@ pazifik.ch
 pazifikfisch.ch
 pazifiklachs.ch
 pazifiktropfen.ch
-pazifist.ch
 pazino.ch
 pazinski.ch
 pazlab.ch

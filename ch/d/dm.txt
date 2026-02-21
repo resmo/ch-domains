@@ -336,7 +336,6 @@ dmf-storen.ch
 dmf.ch
 dmfacility.ch
 dmfahrschule.ch
-dmfamilyflavor.ch
 dmfashion.ch
 dmfassadenbau.ch
 dmfasting.ch
@@ -598,6 +597,7 @@ dms-box.ch
 dms-check.ch
 dms-conseils.ch
 dms-constructions-metalliques.ch
+dms-core.ch
 dms-diagnosi.ch
 dms-dive.ch
 dms-dokument-management-system.ch

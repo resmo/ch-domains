@@ -596,6 +596,7 @@ dns1.ispin.ch
 dns1.it-enhanzz.ch
 dns1.it-helppoint.ch
 dns1.itds.ch
+dns1.itmgmt.ch
 dns1.ixcloud.ch
 dns1.iz-net.ch
 dns1.jaegginet.ch
@@ -888,6 +889,7 @@ dns2.ispin.ch
 dns2.it-enhanzz.ch
 dns2.it-helppoint.ch
 dns2.itds.ch
+dns2.itmgmt.ch
 dns2.ixcloud.ch
 dns2.iz-net.ch
 dns2.jaegginet.ch
@@ -1077,6 +1079,7 @@ dns3.in4u.ch
 dns3.infoform.ch
 dns3.interwal.ch
 dns3.it-helppoint.ch
+dns3.itmgmt.ch
 dns3.iz-net.ch
 dns3.jaegginet.ch
 dns3.katta.ch
@@ -1137,6 +1140,7 @@ dns4.emp-eaw.ch
 dns4.fixxtest.ch
 dns4.gastrohost.ch
 dns4.gethost.ch
+dns4.itmgmt.ch
 dns4.logicnetwork.ch
 dns4.lpr.ch
 dns4.mobilesolutions.ch
@@ -1161,6 +1165,7 @@ dns42.ch
 dns4a.ch
 dns4me.ch
 dns5.gastrohost.ch
+dns5.itmgmt.ch
 dns5.mi-design.ch
 dns5.omnisoftory.ch
 dns5.webpublicity.ch
