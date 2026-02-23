@@ -2632,6 +2632,7 @@ field42.ch
 fieldbee.ch
 fieldbots.ch
 fieldbuddy.ch
+fieldbus.ch
 fieldcastle.ch
 fieldcentrix.ch
 fieldchange.ch
@@ -3603,6 +3604,8 @@ fila-auto.ch
 fila-byd.ch
 fila-central.ch
 fila-derm.ch
+fila-dry.ch
+fila-flow.ch
 fila-groupe.ch
 fila-littoral.ch
 fila-montagnes.ch
@@ -3956,6 +3959,7 @@ filette.ch
 filetti.ch
 fileup.ch
 fileupload.ch
+filevault.ch
 filewatcher.ch
 filewave.ch
 fileworks.ch
@@ -8067,7 +8071,6 @@ findmyboardingschool.ch
 findmybusiness.ch
 findmycar.ch
 findmycars.ch
-findmycoa.ch
 findmycoach.ch
 findmycow.ch
 findmydeal.ch
@@ -9272,6 +9275,7 @@ finito24.ch
 finitopro.ch
 finitro.ch
 finitude.ch
+finiture.ch
 finity-in.ch
 finity.ch
 finium-jura.ch
@@ -14872,6 +14876,7 @@ fit-education.ch
 fit-edv.ch
 fit-ess.ch
 fit-etf.ch
+fit-factory.ch
 fit-fashion.ch
 fit-finance.ch
 fit-fire-adventure.ch
@@ -15409,6 +15414,7 @@ fitclub-willisau.ch
 fitclub.ch
 fitcluburi.ch
 fitclubwillisau.ch
+fitcoa.ch
 fitcoach.ch
 fitcoach4you.ch
 fitcoaching-studio.ch
@@ -17590,7 +17596,6 @@ fixi.ch
 fixibel.ch
 fixibilitaet.ch
 fixico.ch
-fixicoffee.ch
 fixide.ch
 fixie-bikes.ch
 fixie-shop.ch
@@ -17821,6 +17826,7 @@ fixzone.ch
 fiy.ch
 fiya.ch
 fiyah.ch
+fiyat.ch
 fiylo.ch
 fiyo.ch
 fiyus.ch
