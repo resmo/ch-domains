@@ -329,6 +329,7 @@ ns.mediaktion.ch
 ns.migros-player.ch
 ns.mnbsserver.ch
 ns.moinau.ch
+ns.mostertman.ch
 ns.mrwood.ch
 ns.msa-net.ch
 ns.msrv.ch
@@ -554,6 +555,7 @@ ns01.as1836.ch
 ns01.aspcloud.ch
 ns01.auriga.ch
 ns01.beintouch.ch
+ns01.blizzdns.ch
 ns01.cardcenter.ch
 ns01.chez-bernard.ch
 ns01.clik.ch
@@ -620,6 +622,7 @@ ns02.appbnsr.ch
 ns02.aspcloud.ch
 ns02.auriga.ch
 ns02.beintouch.ch
+ns02.blizzdns.ch
 ns02.cardcenter.ch
 ns02.chez-bernard.ch
 ns02.clik.ch
@@ -1569,7 +1572,6 @@ ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
 ns1.dynanet.ch
-ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -2011,7 +2013,6 @@ ns1.hoherratallerias.ch
 ns1.hoi-versicherung.ch
 ns1.hoi-versicherungen.ch
 ns1.holiness.ch
-ns1.hollis-bau.ch
 ns1.homburger.ch
 ns1.home4u.ch
 ns1.homepage39.ch
@@ -4918,7 +4919,6 @@ ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
 ns2.dynanet.ch
-ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5343,7 +5343,6 @@ ns2.hoherratallerias.ch
 ns2.hoi-versicherung.ch
 ns2.hoi-versicherungen.ch
 ns2.holiness.ch
-ns2.hollis-bau.ch
 ns2.homburger.ch
 ns2.home4u.ch
 ns2.homepage39.ch

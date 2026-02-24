@@ -961,6 +961,7 @@ skf-feuerwerk.ch
 skf-zh.ch
 skf.ch
 skfb.ch
+skfg-nein.ch
 skfgroup.ch
 skfilm.ch
 skfinechoice.ch
@@ -1507,6 +1508,7 @@ skiclub-kastelen.ch
 skiclub-klosters.ch
 skiclub-kobelwald.ch
 skiclub-kuettigen.ch
+skiclub-la-moilletaz.ch
 skiclub-lachen.ch
 skiclub-latour.ch
 skiclub-lauenen.ch
@@ -2439,7 +2441,6 @@ skillscanner.ch
 skillschool.ch
 skillscity.ch
 skillsclub.ch
-skillscoach.ch
 skillscoaching.ch
 skillscompass.ch
 skillscout.ch
@@ -2503,7 +2504,6 @@ skillspreneur.ch
 skillspro.ch
 skillspsy.ch
 skillsquare.ch
-skillsroom.ch
 skillsscouting.ch
 skillsshortageindex.ch
 skillssolutions.ch
@@ -6026,6 +6026,7 @@ skytravel.ch
 skytravelagent.ch
 skytravels.ch
 skytrax.ch
+skytraxx-repair.ch
 skytraxx-service.ch
 skytraxx.ch
 skytree-1.ch
