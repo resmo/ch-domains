@@ -245,6 +245,7 @@ urban-air-schweiz.ch
 urban-alchemy.ch
 urban-and-urban.ch
 urban-atlas.ch
+urban-auto.ch
 urban-automotive.ch
 urban-axe.ch
 urban-axes.ch
@@ -265,6 +266,7 @@ urban-bruetsch.ch
 urban-camper.ch
 urban-capital.ch
 urban-cargo.ch
+urban-cars.ch
 urban-catering.ch
 urban-cellar.ch
 urban-chor.ch
@@ -297,6 +299,7 @@ urban-drinks.ch
 urban-drive.ch
 urban-drop.ch
 urban-eg.ch
+urban-energy-group.ch
 urban-equipe.ch
 urban-equipment.ch
 urban-escape.ch
@@ -324,6 +327,7 @@ urban-gardening24.ch
 urban-gardens.ch
 urban-gardenshop.ch
 urban-garten.ch
+urban-global.ch
 urban-gold.ch
 urban-golf.ch
 urban-gong-fu.ch
@@ -450,6 +454,7 @@ urban-workout.ch
 urban-yoga.ch
 urban-zone.ch
 urban.ch
+urban41.ch
 urban44.ch
 urban54.ch
 urbana-conthey.ch
@@ -495,6 +500,8 @@ urbanature.ch
 urbanaudit.ch
 urbanauto.ch
 urbanautomotive.ch
+urbanautosalon.ch
+urbanautosalonvolketswil.ch
 urbanaxe.ch
 urbanaxes.ch
 urbanbaby.ch
@@ -544,6 +551,7 @@ urbancapital.ch
 urbancargo.ch
 urbancargohub.ch
 urbancarouge.ch
+urbancars.ch
 urbancasa.ch
 urbancellar.ch
 urbanchalet.ch
@@ -572,6 +580,7 @@ urbancola.ch
 urbancoldbrew.ch
 urbancoldbrewcoffee.ch
 urbancollection.ch
+urbancollective.ch
 urbancolors.ch
 urbancom.ch
 urbancompass.ch
@@ -590,6 +599,7 @@ urbancrew.ch
 urbancroc.ch
 urbancultureday.ch
 urbancultureroots.ch
+urbancustoms.ch
 urbancut.ch
 urbancy.ch
 urbancycling.ch
@@ -677,6 +687,7 @@ urbanfarms-swiss.ch
 urbanfarms.ch
 urbanfarmsswiss.ch
 urbanfashion.ch
+urbanfelgen.ch
 urbanfetishx.ch
 urbanfiles.ch
 urbanfinance.ch
@@ -716,6 +727,7 @@ urbanfuturelabbern.ch
 urbanfutureprojects.ch
 urbangame.ch
 urbangaming.ch
+urbangarage.ch
 urbangarden.ch
 urbangarden1908.ch
 urbangardencenter.ch
@@ -901,6 +913,7 @@ urbanlook.ch
 urbanlove.ch
 urbanlovelab.ch
 urbanloveretreat.ch
+urbanluxury.ch
 urbanmaeder.ch
 urbanmag.ch
 urbanman.ch
@@ -923,6 +936,7 @@ urbanmixedart.ch
 urbanmobility.ch
 urbanmom.ch
 urbanmoms.ch
+urbanmotor.ch
 urbanmotors.ch
 urbanmove.ch
 urbanmoveacademy.ch
@@ -958,11 +972,13 @@ urbanparcel.ch
 urbanparcours.ch
 urbanparfum.ch
 urbanpartners.ch
+urbanparts.ch
 urbanpass.ch
 urbanpassion.ch
 urbanpatch.ch
 urbanpause.ch
 urbanpeople.ch
+urbanperformance.ch
 urbanperspective.ch
 urbanpet.ch
 urbanpharm.ch
@@ -1008,7 +1024,9 @@ urbanrestoration.ch
 urbanrevivo.ch
 urbanride.ch
 urbanrider.ch
+urbanrides.ch
 urbanriedo.ch
+urbanrims.ch
 urbanrise.ch
 urbanroads.ch
 urbanroof.ch
@@ -1022,9 +1040,11 @@ urbans-place.ch
 urbans.ch
 urbansager.ch
 urbansailing.ch
+urbansalon.ch
 urbansauna.ch
 urbansbuns.ch
 urbanscherer.ch
+urbanschweiz.ch
 urbanseat.ch
 urbanseater.ch
 urbanseaters.ch
@@ -1084,6 +1104,7 @@ urbanstyle.ch
 urbansuisse.ch
 urbansurf.ch
 urbansurprise.ch
+urbanswiss.ch
 urbansympheny.ch
 urbantable.ch
 urbantaste.ch
@@ -1095,6 +1116,7 @@ urbantaxlab.ch
 urbanteam.ch
 urbantec.ch
 urbantech.ch
+urbanteile.ch
 urbantek.ch
 urbantennis.ch
 urbanteo.ch
@@ -1117,6 +1139,7 @@ urbantrees.ch
 urbantrendz.ch
 urbantribe.ch
 urbantroesch.ch
+urbantuning.ch
 urbantv.ch
 urbantwin.ch
 urbanu.ch
@@ -1124,10 +1147,10 @@ urbanum.ch
 urbanumimmobilien.ch
 urbanuncut.ch
 urbanunicorn.ch
-urbanunity.ch
 urbanupdate.ch
 urbanus-design.ch
 urbanus.ch
+urbanvehicles.ch
 urbanventures.ch
 urbanvest.ch
 urbanvibe.ch
@@ -1145,6 +1168,8 @@ urbanwave.ch
 urbanwear.ch
 urbanweb.ch
 urbanweber.ch
+urbanwelt.ch
+urbanwerkstatt.ch
 urbanwheels.ch
 urbanwheelz.ch
 urbanwieland.ch
@@ -1162,6 +1187,7 @@ urbanwolf.ch
 urbanwood.ch
 urbanworkout.ch
 urbanworkshop.ch
+urbanworld.ch
 urbanwormbag.ch
 urbanx.ch
 urbanxchange.ch
@@ -1172,6 +1198,7 @@ urbanyolk.ch
 urbanys.ch
 urbanzero.ch
 urbanzone.ch
+urbanzuerich.ch
 urbapapa.ch
 urbaphysio.ch
 urbaplan.ch
@@ -1869,7 +1896,6 @@ urimatshop.ch
 urimbaugmbh.ch
 urimdakaj.ch
 urime.ch
-urimi-grill.ch
 urimigrill.ch
 urimo.ch
 urimpuls.ch
@@ -2528,7 +2554,6 @@ uro-logie.ch
 uro-logik.ch
 uro-logisch.ch
 uro-marktplatz.ch
-uro-notfall.ch
 uro-one.ch
 uro-onko-zentrum-bern.ch
 uro-onkologie-bern.ch
@@ -2930,7 +2955,6 @@ uronet.ch
 uronetz.ch
 uronews.ch
 uronord.ch
-uronotfall.ch
 uronw.ch
 uroom.ch
 uroone.ch
@@ -4469,6 +4493,7 @@ urverbunden.ch
 urvertrauen-leben.ch
 urvertrauen.ch
 urvetica.ch
+urvi.ch
 urviecherschmied.ch
 urvima.ch
 urvo.ch

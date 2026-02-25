@@ -1333,6 +1333,7 @@ waermepumpen-service.ch
 waermepumpen-sg.ch
 waermepumpen-shop.ch
 waermepumpen-spezialist.ch
+waermepumpen-spezialisten.ch
 waermepumpen-starunity.ch
 waermepumpen-system-modul.ch
 waermepumpen-systemmodul.ch
@@ -1464,6 +1465,7 @@ waermpumpenfachmann.ch
 waermstens-zu-empfehlen.ch
 waerrenfels.ch
 waersymir.ch
+waerterhus.ch
 waertschaetzig.ch
 waertschoepferei.ch
 waertvoll.ch
@@ -1649,7 +1651,6 @@ waffeljost.ch
 waffelkhur.ch
 waffelking.ch
 waffelkreation.ch
-waffeln-fuer-alle.ch
 waffeln.ch
 waffeloase.ch
 waffelstar.ch
@@ -1800,7 +1801,6 @@ waffenshop.ch
 waffenstaender.ch
 waffenstiftung-sig.ch
 waffenstiftung.ch
-waffentausch.ch
 waffentaxi.ch
 waffentechnik.ch
 waffenteile.ch
@@ -6223,6 +6223,7 @@ walsertech.ch
 walsertreuhand.ch
 walsertrunk.ch
 walserverein-gr.ch
+walservolch.ch
 walservorsorge.ch
 walserwandel.ch
 walserweg-gottardo.ch
@@ -9316,6 +9317,7 @@ was-jetzt.ch
 was-klebst-du.ch
 was-kochen-wir-heute.ch
 was-kochen.ch
+was-kosten-skiferien.ch
 was-kostet-ein-moebellift.ch
 was-kostet-ein-online-shop.ch
 was-kostet-ein-pim.ch
@@ -9325,6 +9327,7 @@ was-kostet-ein-zuegellift.ch
 was-kostet-eine-homepage.ch
 was-kostet-eine-website.ch
 was-kostet-meine-zeitschrift.ch
+was-kostet-skiurlaub.ch
 was-kostet-solar.ch
 was-kostet.ch
 was-lauft.ch
@@ -12761,13 +12764,11 @@ wauwil-egolzwil.ch
 wauwil-zentrum.ch
 wauwil.ch
 wauwil24.ch
-wauwiler-nachrichten.ch
 wauwiler-zeitung.ch
 wauwiler.ch
 wauwilerebene.ch
 wauwilermoos.ch
 wauwilermuseum.ch
-wauwilernachrichten.ch
 wauwilerzeitung.ch
 wauwino.ch
 wauwohl.ch
