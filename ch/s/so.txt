@@ -855,7 +855,6 @@ social-card.ch
 social-care.ch
 social-circle.ch
 social-click.ch
-social-clients.ch
 social-cloud.ch
 social-clowning.ch
 social-club.ch
@@ -875,7 +874,6 @@ social-cooking.ch
 social-creator.ch
 social-credit.ch
 social-credits.ch
-social-customers.ch
 social-dance-festival.ch
 social-dance.ch
 social-day.ch
@@ -981,9 +979,7 @@ social-recruiting.ch
 social-report.ch
 social-responsibility.ch
 social-retreat.ch
-social-return.ch
 social-robot.ch
-social-roi.ch
 social-sante-ge.ch
 social-score-nein.ch
 social-scoring-nein.ch
@@ -1052,10 +1048,8 @@ socialawkwardclub.ch
 socialbar.ch
 socialbarometer.ch
 socialbase.ch
-socialbauer.ch
 socialbeer.ch
 socialben.ch
-socialbenefit.ch
 socialbern.ch
 socialbest.ch
 socialbet.ch
@@ -1100,7 +1094,6 @@ socialcity.ch
 socialclean.ch
 socialclick.ch
 socialclics.ch
-socialclients.ch
 socialcloud.ch
 socialclouding.ch
 socialclub-bern.ch
@@ -1147,7 +1140,6 @@ socialcreditfree.ch
 socialcredits.ch
 socialcribs.ch
 socialcuisine.ch
-socialcustomers.ch
 socialdance.ch
 socialdanceclub.ch
 socialdancecoach.ch
@@ -1161,7 +1153,6 @@ socialdesign.ch
 socialdesignstories.ch
 socialdesignwork.ch
 socialdevelopment.ch
-socialdigiphys.ch
 socialdinner.ch
 socialdirect.ch
 socialdistance.ch
@@ -1192,12 +1183,9 @@ socialentrepreneurdays.ch
 socialentrepreneurs.ch
 socialentrepreneursdays.ch
 sociales.ch
-socialesteem.ch
 socialfabric.ch
 socialface.ch
 socialfactor.ch
-socialfarmer.ch
-socialfarming.ch
 socialfermentation.ch
 socialfet.ch
 socialfiction.ch
@@ -1538,7 +1526,6 @@ socialpress.ch
 socialprojects.ch
 socialpromoter.ch
 socialproof.ch
-socialprosperity.ch
 socialprost.ch
 socialprotection.ch
 socialpush.ch
@@ -1568,7 +1555,6 @@ socialrevision.ch
 socialride.ch
 socialrise.ch
 socialrobot.ch
-socialroi.ch
 socialrun.ch
 socialrunbasel.ch
 socialrunning.ch
@@ -1610,7 +1596,6 @@ socialsmart.ch
 socialsmoke.ch
 socialsnackbar.ch
 socialso.ch
-socialsolar.ch
 socialsolution.ch
 socialsolve.ch
 socialsongs.ch
@@ -1619,6 +1604,7 @@ socialsourcing.ch
 socialspace.ch
 socialspaces.ch
 socialspark.ch
+socialspice.ch
 socialsporting.ch
 socialsprout.ch
 socialsprung.ch
@@ -1677,12 +1663,10 @@ socialwall360.ch
 socialwalls.ch
 socialwat.ch
 socialwave.ch
-socialwealth.ch
 socialweb-services.ch
 socialweb.ch
 socialwebassist.ch
 socialwebplus.ch
-socialwelfare.ch
 socialwellness.ch
 socialwerk-so.ch
 socialwerk-sol.ch
@@ -2489,6 +2473,7 @@ soeili-weekend.ch
 soeilibuur.ch
 soeini.ch
 soeinkaese.ch
+soeinscheiss.ch
 soeintheater.ch
 soeinzigartig.ch
 soeinzigartigwieich.ch
@@ -2816,6 +2801,7 @@ sofia-deanta.ch
 sofia-g.ch
 sofia-gallo.ch
 sofia-hintermann.ch
+sofia-jonas.ch
 sofia-laura.ch
 sofia-massage.ch
 sofia-milani.ch
@@ -3558,6 +3544,7 @@ softmusic.ch
 softnail.ch
 softnails.ch
 softnaissance.ch
+softnation.ch
 softnet.ch
 softnetic.ch
 softnews.ch
@@ -4532,6 +4519,8 @@ soife.ch
 soigetier-tattoo.ch
 soigetier.ch
 soigna.ch
+soignant.ch
+soignants.ch
 soigne-ton-futur.ch
 soigner-autrement.ch
 soigner-hypnose-musicale.ch
@@ -5005,6 +4994,8 @@ sojusholding.ch
 sojusonline.ch
 sojusta.ch
 sok.ch
+soka-shop.ch
+soka.ch
 sokal.ch
 sokala.ch
 sokalm.ch
@@ -6808,6 +6799,7 @@ solarisaviation.ch
 solarisbank.ch
 solarisbus.ch
 solariscommodities.ch
+solarisdorf.ch
 solarise.ch
 solarisfestival.ch
 solarisglas.ch
@@ -11650,6 +11642,7 @@ sommelier-fachschule.ch
 sommelier-schule.ch
 sommelier-suisse.ch
 sommelier-waelti.ch
+sommelier-wine.ch
 sommelier.ch
 sommelieradomicile.ch
 sommelieraeschlimann.ch
@@ -12071,7 +12064,6 @@ sommerpark.ch
 sommerparty.ch
 sommerpartyplus.ch
 sommerpauschalen.ch
-sommerplattenbelaege.ch
 sommerplausch.ch
 sommerplus.ch
 sommerpneu.ch
@@ -16121,7 +16113,6 @@ sora2.ch
 soraa.ch
 soraai.ch
 soraan.ch
-soraart.ch
 sorab.ch
 soraberatung.ch
 sorabern.ch
@@ -17169,6 +17160,7 @@ sos-mac-seniors.ch
 sos-mac.ch
 sos-main-geneve.ch
 sos-main.ch
+sos-maison.ch
 sos-mani.ch
 sos-mano.ch
 sos-marketing.ch
@@ -18481,7 +18473,6 @@ soulcityyoga.ch
 soulclan.ch
 soulclay.ch
 soulclick.ch
-soulclothing.ch
 soulclub.ch
 soulcoach.ch
 soulcoaching.ch
@@ -19334,7 +19325,6 @@ soundcloudgo.ch
 soundcloudgoplus.ch
 soundclub.ch
 soundcoach.ch
-soundcode.ch
 soundcollective.ch
 soundconcept.ch
 soundconstruction.ch
@@ -19497,7 +19487,6 @@ soundmeditationcenter.ch
 soundmeditationonline.ch
 soundmeetsdesign.ch
 soundmemo.ch
-soundmemory.ch
 soundmensch.ch
 soundmeter.ch
 soundmetrics.ch

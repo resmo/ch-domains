@@ -78,7 +78,6 @@ ns-t.ch
 ns-ti.ch
 ns-training.ch
 ns-weeber.ch
-ns-wheels.ch
 ns.0daysober.ch
 ns.1.baucampus.ch
 ns.3dsupplies.ch
@@ -714,6 +713,7 @@ ns1-01.ti.ch
 ns1-02.ti.ch
 ns1-ext.unibas.ch
 ns1-extern.css.ch
+ns1.0091.ch
 ns1.0304.ch
 ns1.0800freecall.ch
 ns1.0x3.ch
@@ -1002,6 +1002,7 @@ ns1.be-hosted.ch
 ns1.be-source-it.ch
 ns1.be-source.ch
 ns1.be.ch
+ns1.beautifulmag.ch
 ns1.beauty-business-school.ch
 ns1.beauty-carousel-celikovic.ch
 ns1.beauty-center-fuellinsdorf.ch
@@ -2034,7 +2035,6 @@ ns1.hostcloud.ch
 ns1.hostfactory.ch
 ns1.hostgalaxy.ch
 ns1.hostgarden.ch
-ns1.hostify.ch
 ns1.hosting-atprovider.ch
 ns1.hosting-horat.ch
 ns1.hosting-power.ch
@@ -3186,7 +3186,6 @@ ns1.ringrealag.ch
 ns1.riniu.ch
 ns1.riono.ch
 ns1.ripe-domains.ch
-ns1.ripperdoc.ch
 ns1.ripz.ch
 ns1.rivalution.ch
 ns1.rivejob.ch
@@ -3464,7 +3463,6 @@ ns1.stalderart.ch
 ns1.stallvisite.ch
 ns1.stampit.ch
 ns1.stanson.ch
-ns1.stanzshop24.ch
 ns1.star-host.ch
 ns1.star-media.ch
 ns1.stardesign-hosting.ch
@@ -3813,7 +3811,6 @@ ns1.waldhus.ch
 ns1.waldvogelcomputer.ch
 ns1.wallissimo.ch
 ns1.walterengineering.ch
-ns1.waly.ch
 ns1.wambo.ch
 ns1.wanon.ch
 ns1.waren-treuhand.ch
@@ -4096,6 +4093,7 @@ ns1848.patriota.ch
 ns1902.mspa.ch
 ns2-ext.unibas.ch
 ns2-extern.css.ch
+ns2.0091.ch
 ns2.0304.ch
 ns2.0800freecall.ch
 ns2.0x3.ch
@@ -4378,6 +4376,7 @@ ns2.be-source-it.ch
 ns2.be-source.ch
 ns2.be.ch
 ns2.beaulieu-sa.ch
+ns2.beautifulmag.ch
 ns2.beauty-business-school.ch
 ns2.beauty-carousel-celikovic.ch
 ns2.beauty-center-fuellinsdorf.ch
@@ -5362,7 +5361,6 @@ ns2.hostboutique.ch
 ns2.hostby.ch
 ns2.hostcloud.ch
 ns2.hostgalaxy.ch
-ns2.hostify.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
 ns2.hosting-power.ch
@@ -6457,7 +6455,6 @@ ns2.rightpun.ch
 ns2.riniu.ch
 ns2.riono.ch
 ns2.ripe-domains.ch
-ns2.ripperdoc.ch
 ns2.ripz.ch
 ns2.rivalution.ch
 ns2.rivejob.ch
@@ -6735,7 +6732,6 @@ ns2.staircase.ch
 ns2.stallvisite.ch
 ns2.stampit.ch
 ns2.stanson.ch
-ns2.stanzshop24.ch
 ns2.star-host.ch
 ns2.star-media.ch
 ns2.stardesign-hosting.ch
@@ -7081,7 +7077,6 @@ ns2.wahaca.ch
 ns2.wajo-cloud.ch
 ns2.wallissimo.ch
 ns2.walterengineering.ch
-ns2.waly.ch
 ns2.wambo.ch
 ns2.wanon.ch
 ns2.waren-treuhand.ch
@@ -8760,6 +8755,7 @@ nsmaterials.ch
 nsmc.ch
 nsmediadesign.ch
 nsmedical.ch
+nsmh.ch
 nsmmusic.ch
 nsmonitoring.ch
 nsmrecords.ch

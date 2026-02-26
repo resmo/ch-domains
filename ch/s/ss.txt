@@ -18,7 +18,6 @@ ss-int.ch
 ss-managment.ch
 ss-properties.ch
 ss-r.ch
-ss-retail.ch
 ss-rm.ch
 ss-swiss.ch
 ss-t.ch
@@ -409,6 +408,7 @@ sses.ch
 ssesecurite.ch
 sset.ch
 sseweb.ch
+ssex.ch
 ssey.ch
 ssf-ag.ch
 ssf-facilityservice.ch

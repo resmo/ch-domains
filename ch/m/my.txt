@@ -804,7 +804,6 @@ my-holistic-beauty.ch
 my-holzland.ch
 my-home-automation.ch
 my-home-bar.ch
-my-home-gym.ch
 my-home-is-my-castle.ch
 my-home-leasing.ch
 my-home-styling.ch
@@ -1142,6 +1141,7 @@ my-mofa.ch
 my-moment-of-happiness.ch
 my-moment-of-silence-and-music.ch
 my-momo.ch
+my-money.ch
 my-moneyhouse.ch
 my-moneypenny.ch
 my-monk.ch
@@ -1733,7 +1733,6 @@ my-tag.ch
 my-tags.ch
 my-tailor.ch
 my-takko.ch
-my-talent-booster.ch
 my-talent.ch
 my-talents.ch
 my-tamina.ch
@@ -1901,6 +1900,7 @@ my-way-tours.ch
 my-way.ch
 my-waycard.ch
 my-wc.ch
+my-wealth-coach.ch
 my-wealth.ch
 my-web-cv.ch
 my-web-global.ch
@@ -2082,7 +2082,6 @@ mya.ch
 myaadorf.ch
 myaarau.ch
 myaareboot.ch
-myabacus-egk.ch
 myabacus.ch
 myaberdeen.ch
 myaberdeenstandard.ch
@@ -3041,6 +3040,7 @@ mybon.ch
 mybonbon.ch
 myboncard.ch
 myboncoupauto.ch
+mybond.ch
 mybonny.ch
 mybonus.ch
 mybonuscard.ch
@@ -3210,6 +3210,7 @@ mybuenzli.ch
 mybuergenstock.ch
 mybuero.ch
 mybueroshop.ch
+mybuffet.ch
 mybug.ch
 mybuhler.ch
 mybuildassist.ch
@@ -3856,7 +3857,6 @@ mycocooningandmore.ch
 mycocooninghome.ch
 mycocoonstore.ch
 mycode.ch
-mycodecanvas.ch
 mycoderm.ch
 mycodesbois.ch
 mycodex.ch
@@ -5305,6 +5305,7 @@ myflightlog.ch
 myflightoffer.ch
 myflims.ch
 myfling.ch
+myflipbook.ch
 myflippingbook.ch
 myflirt.ch
 myflix.ch
@@ -6162,7 +6163,6 @@ myhomefashion.ch
 myhomefs.ch
 myhomegarden.ch
 myhomegate.ch
-myhomegym.ch
 myhomehotel.ch
 myhomeimmo.ch
 myhomeimmobilier.ch
@@ -6544,6 +6544,7 @@ myitalyselection.ch
 myitcorner.ch
 myitdata.ch
 myitems.ch
+myitinerary.ch
 myitjob.ch
 myitjobs.ch
 myitlab.ch
@@ -8175,6 +8176,7 @@ myntpro.ch
 myntree.ch
 myntro.ch
 myntrocollect.ch
+myntrosavings.ch
 mynttree.ch
 mynudgeplan.ch
 mynudgeplanbyxls.ch
@@ -8592,7 +8594,6 @@ mypaketshop-verzollung.ch
 mypaketshop.ch
 mypalace.ch
 mypalletsonline.ch
-mypalmshop.ch
 mypals.ch
 mypanasonic.ch
 mypancreas.ch
@@ -9834,6 +9835,7 @@ mysailingtoern.ch
 mysailportal.ch
 mysakids.ch
 mysaladdressing.ch
+mysalario.ch
 mysalary.ch
 mysale.ch
 mysales.ch
@@ -11115,6 +11117,7 @@ myswisscars24.ch
 myswisscase.ch
 myswisscasino.ch
 myswisscasinos.ch
+myswisscaution.ch
 myswisscfo.ch
 myswisschalet.ch
 myswisscheck.ch
@@ -11360,7 +11363,6 @@ mytakeaway.ch
 mytakko-fashion.ch
 mytakko.ch
 mytalent.ch
-mytalentbooster.ch
 mytalents.ch
 mytalentsdirect.ch
 mytalk.ch
@@ -11446,7 +11448,6 @@ myteazer.ch
 mytecbuddy.ch
 mytecenergies.ch
 mytech.ch
-mytechbs.ch
 mytechbuddy.ch
 mytechcoach.ch
 mytechmobile.ch
@@ -12385,6 +12386,7 @@ mywboard.ch
 mywc.ch
 mywe.ch
 mywealth.ch
+mywealthcoach.ch
 mywealthcompliance.ch
 mywealthconsulting.ch
 mywealthfortress.ch
