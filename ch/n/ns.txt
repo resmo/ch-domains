@@ -3543,6 +3543,7 @@ ns1.swisscum.ch
 ns1.swissdigicert.ch
 ns1.swissdigit.ch
 ns1.swissdruck24.ch
+ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
 ns1.swisshipec.ch
@@ -6810,6 +6811,7 @@ ns2.swisscum.ch
 ns2.swissdigit.ch
 ns2.swissdruck24.ch
 ns2.swisselectricity.ch
+ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
 ns2.swisshipec.ch
 ns2.swisshostserver.ch
@@ -7715,7 +7717,6 @@ ns3.letsbuild.ch
 ns3.libracore.ch
 ns3.libralures.ch
 ns3.lieferzonen.ch
-ns3.lifemagic.ch
 ns3.lilo.ch
 ns3.linthcom.ch
 ns3.linux-guru.ch
@@ -8237,7 +8238,6 @@ ns4.lakenet.ch
 ns4.laviweb.ch
 ns4.ledspecialist.ch
 ns4.letsbuild.ch
-ns4.lifemagic.ch
 ns4.linux-guru.ch
 ns4.linuxtec.ch
 ns4.ma-secretere.ch

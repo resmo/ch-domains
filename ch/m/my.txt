@@ -122,6 +122,7 @@ my-backup.ch
 my-bag.ch
 my-band.ch
 my-bank.ch
+my-banker.ch
 my-bankomat.ch
 my-banner.ch
 my-bar.ch
@@ -214,7 +215,6 @@ my-budget.ch
 my-building.ch
 my-bunny.ch
 my-burger-point-frauenfeld.ch
-my-business-app.ch
 my-business-card.ch
 my-business-game.ch
 my-business-model.ch
@@ -270,6 +270,7 @@ my-casino-joa.ch
 my-casino-poker.ch
 my-casino.ch
 my-casinos.ch
+my-castel.ch
 my-casual-date.ch
 my-cat.ch
 my-catch.ch
@@ -786,6 +787,7 @@ my-healthy-horse.ch
 my-heartbeat.ch
 my-help.ch
 my-helper.ch
+my-helsana.ch
 my-helvetia.ch
 my-henri.ch
 my-herba.ch
@@ -806,6 +808,7 @@ my-home-automation.ch
 my-home-bar.ch
 my-home-is-my-castle.ch
 my-home-leasing.ch
+my-home-my-castel.ch
 my-home-styling.ch
 my-home.ch
 my-homecare-service.ch
@@ -1077,7 +1080,6 @@ my-mart.ch
 my-massage.ch
 my-massages.ch
 my-massagetraum.ch
-my-matcha.ch
 my-matelas.ch
 my-matrix.ch
 my-mazda.ch
@@ -1373,6 +1375,7 @@ my-pressing.ch
 my-price.ch
 my-print.ch
 my-prints.ch
+my-private-banker.ch
 my-private-boutique.ch
 my-private-care.ch
 my-private-doctor.ch
@@ -1691,6 +1694,7 @@ my-sweeper.ch
 my-sweethome.ch
 my-sweety.ch
 my-swiss-ai.ch
+my-swiss-banker.ch
 my-swiss-center.ch
 my-swiss-chocolate.ch
 my-swiss-company-hydration.ch
@@ -1703,6 +1707,7 @@ my-swiss-kiss.ch
 my-swiss-moment.ch
 my-swiss-number.ch
 my-swiss-phone.ch
+my-swiss-private-banker.ch
 my-swiss-smile.ch
 my-swiss-tweed.ch
 my-swiss-wool.ch
@@ -3528,7 +3533,6 @@ myce-liens.ch
 mycecb.ch
 myceesv.ch
 myceinture.ch
-mycel-ium.ch
 mycel.ch
 mycelboard.ch
 mycelclean.ch
@@ -3881,6 +3885,7 @@ mycoiffure.ch
 mycoin.ch
 mycoinify.ch
 mycoins.ch
+mycoinsight.ch
 mycokemusic.ch
 mycolacote.ch
 mycolex.ch
@@ -6537,7 +6542,6 @@ myissue.ch
 myisuzu.ch
 myit-edge.ch
 myit.ch
-myit365.ch
 myitaly.ch
 myitalyfestival.ch
 myitalyselection.ch
@@ -6957,6 +6961,7 @@ mylarplug.ch
 mylas.ch
 mylasamtpfoten.ch
 mylasaponi.ch
+mylascnc.ch
 mylaser.ch
 mylaserclinic.ch
 mylasergravur.ch
@@ -9142,6 +9147,7 @@ myprivate-search.ch
 myprivate.ch
 myprivateassetmanager.ch
 myprivatebaer.ch
+myprivatebanker.ch
 myprivatebanking.ch
 myprivatebear.ch
 myprivateboat.ch
@@ -9901,7 +9907,6 @@ mysavings.ch
 mysb.ch
 mysba.ch
 mysbb.ch
-mysbc.ch
 mysbier.ch
 mysbs.ch
 mysc.ch
@@ -10115,8 +10120,6 @@ myshares.ch
 mysharingbox.ch
 mysharkys.ch
 mysharona.ch
-myshave.ch
-myshave24.ch
 mysheepi.ch
 myshelf.ch
 myshell.ch
@@ -10632,6 +10635,7 @@ mysteriesdasoriginal.ch
 mysterio.ch
 mysterion.ch
 mysterioso.ch
+mysteriouskids.ch
 mysterium-fidei.ch
 mysterium-oltensis.ch
 mysterium.ch
@@ -11092,6 +11096,7 @@ myswissautotrasporti.ch
 myswissbackup.ch
 myswissbank.ch
 myswissbank24.ch
+myswissbanker.ch
 myswissbankpoints.ch
 myswissbeauty.ch
 myswissbets.ch
@@ -11252,6 +11257,7 @@ myswisspost.ch
 myswisspps.ch
 myswissprint.ch
 myswissprints.ch
+myswissprivatebanker.ch
 myswissproperty.ch
 myswissqr.ch
 myswissquote.ch
@@ -11843,7 +11849,6 @@ mytrade-online.ch
 mytrade-schweiz.ch
 mytrade-swiss.ch
 mytrade.ch
-mytrade24.ch
 mytradedentalgroup.ch
 mytradegroup.ch
 mytrader.ch
@@ -12307,6 +12312,7 @@ myvpnathome.ch
 myvq.ch
 myvr.ch
 myvs.ch
+myvtc.ch
 myvuorz.ch
 myvw.ch
 myvy.ch
@@ -12482,7 +12488,6 @@ mywellnessworld.ch
 mywerkstatt.ch
 mywesco.ch
 mywettbonus.ch
-mywetter.ch
 mywey.ch
 mywg.ch
 mywhales.ch
@@ -12653,7 +12658,6 @@ myyoga.ch
 myyogaatelier.ch
 myyogaretreat.ch
 myyogi.ch
-myyolp.ch
 myyougo.ch
 myyp.ch
 myysongwriterding.ch

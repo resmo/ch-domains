@@ -2414,6 +2414,7 @@ syntax-and-servos.ch
 syntax-error.ch
 syntax-media.ch
 syntax.ch
+syntaxbio.ch
 syntaxe.ch
 syntaxerror.ch
 syntaxfin.ch
@@ -2873,7 +2874,6 @@ syshelp.ch
 syshop.ch
 syshost.ch
 syshub.ch
-sysiano.ch
 sysicon.ch
 sysif.ch
 sysin.ch

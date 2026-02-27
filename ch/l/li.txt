@@ -1021,7 +1021,6 @@ libis.ch
 libitoys.ch
 libix.ch
 libl-gestion.ch
-liblet.ch
 libli.ch
 liblin-ruckstuhl.ch
 libloc.ch
@@ -1219,6 +1218,8 @@ libreacces.ch
 libreautourdumonde.ch
 librebite.ch
 librec.ch
+librechat.ch
+librecirculation.ch
 librecloud.ch
 libreco.ch
 librecommelo.ch
@@ -1441,7 +1442,6 @@ licence-software.ch
 licence-to-go.ch
 licence-to-lead.ch
 licence-to-sell.ch
-licence.ch
 licence24.ch
 licence2go.ch
 licencedetransport.ch
@@ -3411,7 +3411,6 @@ liebesschrift.ch
 liebesseminar.ch
 liebessex.ch
 liebesspiele.ch
-liebesspielzeug.ch
 liebessprueche.ch
 liebessucht.ch
 liebestaetigkeit.ch
@@ -4014,6 +4013,7 @@ liechtstrahl.ch
 liechttraeff.ch
 liechtundliebi.ch
 liechtvoll.ch
+liechtwaerts.ch
 liechty.ch
 liechtzeichen.ch
 lieco.ch
@@ -4484,7 +4484,6 @@ liegenschaftergu.ch
 liegenschaftkaufen.ch
 liegenschaftpreis.ch
 liegenschaftpreise.ch
-liegenschafts-bewertung.ch
 liegenschafts-check.ch
 liegenschafts-gravur.ch
 liegenschafts-kompass.ch
@@ -4492,7 +4491,6 @@ liegenschafts-managment.ch
 liegenschafts-pflege.ch
 liegenschafts-und-steuerberatung.ch
 liegenschafts-unterhalt.ch
-liegenschafts-vergleich.ch
 liegenschafts-verwaltung.ch
 liegenschafts-verwaltungen.ch
 liegenschaftsabnahme.ch
@@ -4534,7 +4532,6 @@ liegenschaftspflege.ch
 liegenschaftsplanung.ch
 liegenschaftsprofi.ch
 liegenschaftsprofis.ch
-liegenschaftsrating.ch
 liegenschaftsreinigung.ch
 liegenschaftsschaetzung.ch
 liegenschaftsschatzung.ch
@@ -5231,7 +5228,6 @@ life-work-happiness.ch
 life-workbalance.ch
 life-x.ch
 life.ch
-life120.ch
 life24.ch
 life2home.ch
 life3.ch
@@ -6017,7 +6013,6 @@ lifesmile.ch
 lifesmyle.ch
 lifesolar.ch
 lifesolution.ch
-lifesound24.ch
 lifesoundinstitute.ch
 lifesourcecapital.ch
 lifespace.ch
@@ -6083,7 +6078,6 @@ lifestyle-digitalmagazin.ch
 lifestyle-domain.ch
 lifestyle-eh.ch
 lifestyle-ernaehrung.ch
-lifestyle-fitness.ch
 lifestyle-fitundgsund.ch
 lifestyle-focus.ch
 lifestyle-for-you.ch
@@ -6346,7 +6340,6 @@ lifevac-schweiz.ch
 lifevac-shop.ch
 lifevac-suisse.ch
 lifevac.ch
-lifevalley.ch
 lifeverde.ch
 lifevest-prescrition.ch
 lifevest-prescrivere.ch
@@ -7670,6 +7663,12 @@ lignotrend.ch
 lignovista.ch
 lignowerk.ch
 lignowork.ch
+lignox-holzbau.ch
+lignox-modulbau.ch
+lignox-news.ch
+lignox-systembau.ch
+lignox-totalunternehmung.ch
+lignox.ch
 lignula.ch
 lignum-art.ch
 lignum-artem.ch
@@ -8853,7 +8852,6 @@ lilogemperle.ch
 lilohuber.ch
 liloia.ch
 lilokennel.ch
-lilola.ch
 lilolab.ch
 lilole.ch
 lilolearn.ch
@@ -9283,6 +9281,7 @@ lime-clean.ch
 lime-go.ch
 lime-it.ch
 lime-light.ch
+lime-melon.ch
 lime-mindset.ch
 lime-portraits.ch
 lime-suisse.ch
@@ -9321,6 +9320,7 @@ limedas.ch
 limedeco.ch
 limedix.ch
 limeemil.ch
+limeetmelon.ch
 limefi.ch
 limeflight.ch
 limeframe.ch
@@ -11703,6 +11703,7 @@ linea-femina.ch
 linea-formation.ch
 linea-formations.ch
 linea-hair.ch
+linea-juris.ch
 linea-led.ch
 linea-lex.ch
 linea-light.ch
@@ -13305,7 +13306,6 @@ linssen-yacht.ch
 linssen-yachts.ch
 linssen.ch
 linssenyacht.ch
-linssenyachts.ch
 linst.ch
 linstald.ch
 linstan.ch
@@ -13553,6 +13553,7 @@ linumgroup.ch
 linumiz.ch
 linumlabs.ch
 linumone.ch
+linundlykke.ch
 linup.ch
 linur.ch
 linura.ch
@@ -13642,6 +13643,7 @@ linuva.ch
 linux-akademie.ch
 linux-beratung.ch
 linux-burg.ch
+linux-conference.ch
 linux-day.ch
 linux-einfach.ch
 linux-forum.ch
@@ -14862,7 +14864,6 @@ liquid-drops.ch
 liquid-energy.ch
 liquid-express.ch
 liquid-for-you.ch
-liquid-force.ch
 liquid-grape.ch
 liquid-haerri.ch
 liquid-hairsalon.ch
@@ -15066,7 +15067,6 @@ liquidskills.ch
 liquidsky.ch
 liquidsky365.ch
 liquidsmoke.ch
-liquidsmood.ch
 liquidsociety.ch
 liquidsolution.ch
 liquidsonline.ch
@@ -16664,7 +16664,6 @@ litteraturarumantscha.ch
 litteraturasvizra.ch
 litterature-francaise.ch
 litterature-publique.ch
-litterature.ch
 litteratureenfance.ch
 litteraturehelvete.ch
 litteratureimaginaire.ch
@@ -16756,6 +16755,7 @@ little-garden.ch
 little-genius.ch
 little-giant.ch
 little-greek.ch
+little-greene.ch
 little-gruyere.ch
 little-gruyeres.ch
 little-happiness.ch
@@ -17049,6 +17049,7 @@ littlehandmadesoul.ch
 littlehands.ch
 littlehappiness.ch
 littlehaus.ch
+littlehausblog.ch
 littlehawaii.ch
 littlehealthstore.ch
 littlehearts.ch
@@ -17884,6 +17885,7 @@ livecam24.ch
 livecam360.ch
 livecamchat.ch
 livecamera.ch
+livecameragame.ch
 livecameras.ch
 livecamgirl.ch
 livecamgirls.ch
@@ -19158,6 +19160,7 @@ livingrooms.ch
 livingroomsession.ch
 livingroomshop.ch
 livingrossi.ch
+livingrunes.ch
 livingschool.ch
 livingscience.ch
 livingseeds.ch
@@ -19645,6 +19648,7 @@ livu-immo.ch
 livu-immobilien.ch
 livu.ch
 livum.ch
+livundlin.ch
 livup.ch
 livurban.ch
 livus.ch
