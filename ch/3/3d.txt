@@ -954,7 +954,6 @@
 3dmindmap.ch
 3dmoba.ch
 3dmobilemapping.ch
-3dmodel.ch
 3dmodeldrucken.ch
 3dmodellbau.ch
 3dmodelldrucken.ch
@@ -989,6 +988,7 @@
 3dobjekt.ch
 3docean.ch
 3doerferpost.ch
+3doex.ch
 3dofen.ch
 3domustech.ch
 3done.ch
@@ -1100,7 +1100,6 @@
 3dproduktionen.ch
 3dprofessionals.ch
 3dprofi.ch
-3dproject.ch
 3dprojects.ch
 3dprojekt.ch
 3dprototyp.ch
@@ -1117,7 +1116,6 @@
 3draumtour.ch
 3dreams.ch
 3dreforged.ch
-3dregal.ch
 3drelief.ch
 3drender.ch
 3drendering.ch

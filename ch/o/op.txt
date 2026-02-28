@@ -57,7 +57,6 @@ op10.ch
 op2.ch
 op365.ch
 op3d.ch
-op3nsafe.ch
 op3r.ch
 op4.ch
 op97.ch
@@ -988,6 +987,7 @@ openbanklending.ch
 openbankmobility.ch
 openbankpay.ch
 openbankrenting.ch
+openbao.ch
 openbar.ch
 openbauto.ch
 openbc.ch
@@ -1224,6 +1224,7 @@ openestate.ch
 openevent.ch
 openeventdata.ch
 openevidence.ch
+openexam.ch
 openexcellence.ch
 openexchange.ch
 openexpo.ch
@@ -1665,6 +1666,7 @@ openscreens.ch
 openscript.ch
 opensea.ch
 openseal.ch
+opensearch.ch
 openseason.ch
 opensecurity.ch
 openserum.ch
@@ -3086,7 +3088,6 @@ opt-om.ch
 opt-strategy.ch
 opt-x.ch
 opt-x22.ch
-opt-x23.ch
 opt-x24.ch
 opt.ch
 opt1mus.ch
@@ -4346,7 +4347,6 @@ optimys.ch
 optimysgroup.ch
 optimytool.ch
 optin-collect.ch
-optin.ch
 optina.ch
 optinance.ch
 optinatura.ch
@@ -4715,7 +4715,6 @@ optiworld.ch
 optix.ch
 optix19.ch
 optix22.ch
-optix23.ch
 optixlifestyle.ch
 optixswiss.ch
 optizen.ch

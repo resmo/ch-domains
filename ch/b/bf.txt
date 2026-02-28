@@ -194,7 +194,6 @@ bfd-sg.ch
 bfd-treuhand.ch
 bfd.ch
 bfdecolletages.ch
-bfdglobal.ch
 bfdtrio.ch
 bfe-fishing.ch
 bfe-ogd.ch
@@ -354,6 +353,7 @@ bfk-construction.ch
 bfk-consulting.ch
 bfk-edv-consulting.ch
 bfk-glarnerland.ch
+bfk-invest.ch
 bfk-law.ch
 bfk-partner-ag.ch
 bfk-partner.ch
@@ -569,6 +569,7 @@ bft12.ch
 bftag.ch
 bftaler.ch
 bftca.ch
+bfte.ch
 bftechnik.ch
 bftext.ch
 bfti.ch

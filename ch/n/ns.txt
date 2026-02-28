@@ -492,7 +492,6 @@ ns.vsag.ch
 ns.wahaca.ch
 ns.web02.ch
 ns.web03.ch
-ns.web4free.ch
 ns.webmial.ch
 ns.webmoreplus.ch
 ns.webstyle4you.ch
@@ -854,7 +853,6 @@ ns1.am-server.ch
 ns1.amenic.ch
 ns1.amerco.ch
 ns1.amirakasri.ch
-ns1.anaconsol.ch
 ns1.ancoristagesstruktur.ch
 ns1.anderthalb.ch
 ns1.andreas-horvath.ch
@@ -1574,6 +1572,7 @@ ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
 ns1.dynanet.ch
+ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -1912,7 +1911,6 @@ ns1.graessle.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
 ns1.grb-renovation.ch
-ns1.grd-renovation.ch
 ns1.gregorich.ch
 ns1.grellhost.ch
 ns1.gretlerintermedia.ch
@@ -2707,7 +2705,6 @@ ns1.nanolash.ch
 ns1.nasser.ch
 ns1.nast.ch
 ns1.nativenet.ch
-ns1.naturheilpraxissolothurn.ch
 ns1.navacoaching.ch
 ns1.nawotop.ch
 ns1.nbhost.ch
@@ -3120,7 +3117,6 @@ ns1.raetz-plaettli.ch
 ns1.railtour.ch
 ns1.railtronic.ch
 ns1.ralphschuler.ch
-ns1.ramona-webdesign.ch
 ns1.rampensau.ch
 ns1.rayhaan.ch
 ns1.razor.ch
@@ -3622,7 +3618,6 @@ ns1.testing-beauty-secret.ch
 ns1.tetras.ch
 ns1.thamilar.ch
 ns1.thebc.ch
-ns1.theorieundpraxis.ch
 ns1.thesky.ch
 ns1.thhp.ch
 ns1.think-digital.ch
@@ -4229,7 +4224,6 @@ ns2.amenic.ch
 ns2.amerco.ch
 ns2.amipeonweb.ch
 ns2.amirakasri.ch
-ns2.anaconsol.ch
 ns2.ancoristagesstruktur.ch
 ns2.anderthalb.ch
 ns2.anixa.ch
@@ -4919,6 +4913,7 @@ ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
 ns2.dynanet.ch
+ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5245,7 +5240,6 @@ ns2.graessle.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
 ns2.grb-renovation.ch
-ns2.grd-renovation.ch
 ns2.greatsite.ch
 ns2.gregorich.ch
 ns2.grellhost.ch
@@ -6004,7 +5998,6 @@ ns2.naissances.ch
 ns2.namesrv.ch
 ns2.nanolash.ch
 ns2.nativenet.ch
-ns2.naturheilpraxissolothurn.ch
 ns2.navacoaching.ch
 ns2.nawotop.ch
 ns2.nbit.ch
@@ -6396,7 +6389,6 @@ ns2.radlosservice.ch
 ns2.raetz-plaettli.ch
 ns2.railtronic.ch
 ns2.ralphschuler.ch
-ns2.ramona-webdesign.ch
 ns2.rampensau.ch
 ns2.rayhaan.ch
 ns2.razor.ch
@@ -6894,7 +6886,6 @@ ns2.tgcrc.ch
 ns2.thamilar.ch
 ns2.the2ndsky.ch
 ns2.thedearfoundation.ch
-ns2.theorieundpraxis.ch
 ns2.theswissbay.ch
 ns2.thhp.ch
 ns2.thier.ch
@@ -7786,7 +7777,6 @@ ns3.nabiona.ch
 ns3.namemaster.ch
 ns3.namesrv.ch
 ns3.nashire.ch
-ns3.naturheilpraxissolothurn.ch
 ns3.navacoaching.ch
 ns3.nct.ch
 ns3.neaweb.ch
@@ -8606,7 +8596,6 @@ nsdesign.ch
 nsdestinations.ch
 nsdev.ch
 nsdr.ch
-nsdrafter.ch
 nsdtent.ch
 nse-game.ch
 nse-metallbau.ch

@@ -553,6 +553,7 @@ scale-dent.ch
 scale-fit.ch
 scale-heli.ch
 scale-heliflug.ch
+scale-lab.ch
 scale-media.ch
 scale-modelcars.ch
 scale-models.ch
@@ -616,6 +617,7 @@ scaleinvoice.ch
 scaleio.ch
 scaleit.ch
 scaleknights.ch
+scalelab.ch
 scalelabs.ch
 scalelasers.ch
 scalelielle.ch
@@ -2292,7 +2294,6 @@ schachakademie-zuerich.ch
 schachanalyse.ch
 schachaufgaben.ch
 schachbar.ch
-schachbirsfelden.ch
 schachblog.ch
 schachboxer.ch
 schachbrett.ch
@@ -5743,6 +5744,7 @@ scheidungsanwaeltinzuerich.ch
 scheidungsanwaeltinzug.ch
 scheidungsanwaeltinzurich.ch
 scheidungsanwalt-bern.ch
+scheidungsanwalt-familienrecht.ch
 scheidungsanwalt-luzern.ch
 scheidungsanwalt-schweiz.ch
 scheidungsanwalt-schwyz.ch
@@ -9100,6 +9102,7 @@ schlafapnoe-selbsthilfe.ch
 schlafapnoe-stopp.ch
 schlafapnoe-test.ch
 schlafapnoe-zentrum.ch
+schlafapnoe-zuerich.ch
 schlafapnoe.ch
 schlafapnoebern.ch
 schlafapnoegeraet.ch
@@ -10369,7 +10372,6 @@ schleifen.ch
 schleifenbauer.ch
 schleifenbaum.ch
 schleifendruck.ch
-schleifenrentsch.ch
 schleifenroute.ch
 schleifentech.ch
 schleifenundpolieren.ch
@@ -12735,6 +12737,7 @@ schmerz-ade.ch
 schmerz-arzt.ch
 schmerz-basel.ch
 schmerz-chirurg.ch
+schmerz-coach.ch
 schmerz-coaching.ch
 schmerz-frei-leben.ch
 schmerz-frei.ch
@@ -12788,6 +12791,7 @@ schmerzberatung.ch
 schmerzcenter.ch
 schmerzcentrum.ch
 schmerzcoach.ch
+schmerzcoaching.ch
 schmerzcocktail.ch
 schmerzcode.ch
 schmerzen-ade.ch
@@ -12801,7 +12805,6 @@ schmerzengeld.ch
 schmerzensbrecher.ch
 schmerzensgeld.ch
 schmerzensgeldtabelle.ch
-schmerzenverlernen.ch
 schmerzexperten.ch
 schmerzfinder.ch
 schmerzfokus.ch
@@ -12819,7 +12822,6 @@ schmerzfrei-golfen.ch
 schmerzfrei-im-gleichgewicht.ch
 schmerzfrei-in-niederweningen.ch
 schmerzfrei-leben.ch
-schmerzfrei-luzern.ch
 schmerzfrei-olten.ch
 schmerzfrei-praxis.ch
 schmerzfrei-raum.ch
@@ -12967,7 +12969,6 @@ schmerztherapie-ksm.ch
 schmerztherapie-liebscher-bracht.ch
 schmerztherapie-locarno.ch
 schmerztherapie-lu.ch
-schmerztherapie-luzern.ch
 schmerztherapie-lyss.ch
 schmerztherapie-massagen.ch
 schmerztherapie-mueller.ch
@@ -13431,7 +13432,6 @@ schmid7000.ch
 schmid99.ch
 schmida.ch
 schmidabandi.ch
-schmidadvisory.ch
 schmidag-klima.ch
 schmidag-ossingen.ch
 schmidag-schaffhausen.ch
@@ -14261,6 +14261,7 @@ schmitte-bassersdorf.ch
 schmitte-bier.ch
 schmitte-bourbon.ch
 schmitte-braeu.ch
+schmitte-cup.ch
 schmitte-da-nino.ch
 schmitte-erlinsbach.ch
 schmitte-eventlocation.ch
@@ -17305,7 +17306,6 @@ schnupfdose.ch
 schnupfdosen.ch
 schnupfen.ch
 schnupfgenoss.ch
-schnupfgenosse.ch
 schnupfhub.ch
 schnupfhus.ch
 schnupfkalender.ch
@@ -17506,7 +17506,6 @@ schnyderblapp.ch
 schnydercm.ch
 schnydercom.ch
 schnydercomp.ch
-schnyderelektroag.ch
 schnyderfredy.ch
 schnydergartenbau.ch
 schnyderhof.ch
@@ -19458,6 +19457,7 @@ schoppy.ch
 schops.ch
 schopschop.ch
 schor.ch
+schorbrek.ch
 schorch.ch
 schord.ch
 schorderet-family.ch
@@ -22602,7 +22602,6 @@ schuerfeld.ch
 schuerfleiste.ch
 schuerfleisten.ch
 schuerfraupe.ch
-schuergalerie.ch
 schuerhof-apotheke.ch
 schuerhof-oftringen.ch
 schuerhof.ch
@@ -23378,7 +23377,6 @@ schul-evaluation.ch
 schul-flachbildschirm.ch
 schul-foto.ch
 schul-fotograf.ch
-schul-fotos.ch
 schul-hof.ch
 schul-holzbau.ch
 schul-ict.ch
@@ -25842,6 +25840,7 @@ schulprojekt-nepal.ch
 schulprojekt.ch
 schulprojekte.ch
 schulprojektesambia.ch
+schulprojektleesand.ch
 schulprojektwochen.ch
 schulpromo.ch
 schulprovisorium.ch
@@ -28010,6 +28009,7 @@ schwarzhorn-capital.ch
 schwarzhorn.ch
 schwarzhornlodge.ch
 schwarzhornsalami.ch
+schwarzhumor.ch
 schwarzichatz.ch
 schwarzimmo.ch
 schwarzinger-consulting.ch
@@ -28297,7 +28297,6 @@ schwedensnus.ch
 schwedenstuga.ch
 schwedenteile.ch
 schwedentorte.ch
-schwedentriathlon.ch
 schwedentritt.ch
 schwedenurlaub.ch
 schweder.ch
@@ -28731,7 +28730,6 @@ schweiz-frankreich.ch
 schweiz-fugen.ch
 schweiz-fussballblick.ch
 schweiz-garage.ch
-schweiz-gas.ch
 schweiz-gehalt.ch
 schweiz-geht-online.ch
 schweiz-geht-waldbaden.ch
@@ -28929,7 +28927,6 @@ schweiz-sexkontakte.ch
 schweiz-sextreffen.ch
 schweiz-shirts.ch
 schweiz-shop.ch
-schweiz-signal.ch
 schweiz-singt.ch
 schweiz-skiferien.ch
 schweiz-smba-pro.ch
@@ -29012,7 +29009,6 @@ schweiz-vorsorge.ch
 schweiz-vozol.ch
 schweiz-wahlen.ch
 schweiz-wandern.ch
-schweiz-wasser.ch
 schweiz-web-hosting.ch
 schweiz-webagentur.ch
 schweiz-webcam.ch
@@ -30690,8 +30686,6 @@ schweizereisenbahnfotografen.ch
 schweizerelectronic.ch
 schweizereleganz.ch
 schweizerelektro.ch
-schweizereliteakademie.ch
-schweizerelitemakler.ch
 schweizerelternmagazin.ch
 schweizerelternpass.ch
 schweizerenergy.ch
@@ -31012,9 +31006,7 @@ schweizerimker.ch
 schweizerimmo-team.ch
 schweizerimmobilie.ch
 schweizerimmobilien.ch
-schweizerimmobilienberater.ch
 schweizerimmobilienberatung.ch
-schweizerimmobilientreuhand.ch
 schweizerimmobilienwerte.ch
 schweizerimmopartner.ch
 schweizerimmoteam.ch
@@ -31685,7 +31677,6 @@ schweizerstiftungen.ch
 schweizerstiftungstag.ch
 schweizerstoryhaus.ch
 schweizerstrassen.ch
-schweizerstretchlimousinen.ch
 schweizerstrohmuseum.ch
 schweizerstube.ch
 schweizerstudio.ch
@@ -31937,7 +31928,6 @@ schweizfreizeit.ch
 schweizfuehrer.ch
 schweizfugen.ch
 schweizgadget.ch
-schweizgas.ch
 schweizgaytours.ch
 schweizgehalt.ch
 schweizgehtaus.ch
@@ -32124,7 +32114,6 @@ schweizsextreffen.ch
 schweizshop.ch
 schweizshow.ch
 schweizshuttle.ch
-schweizsignal.ch
 schweizskrilcasino.ch
 schweizsmarthome.ch
 schweizsnus.ch
@@ -32186,7 +32175,6 @@ schweizvozol.ch
 schweizvreneli.ch
 schweizwanderer.ch
 schweizwandern.ch
-schweizwasser.ch
 schweizweb.ch
 schweizwebcam.ch
 schweizwebhosting.ch
@@ -32713,6 +32701,7 @@ schwimmbad-os.ch
 schwimmbad-plaffeien.ch
 schwimmbad-planung.ch
 schwimmbad-pumpen.ch
+schwimmbad-reckingen.ch
 schwimmbad-renovation.ch
 schwimmbad-revision.ch
 schwimmbad-roboter.ch
@@ -32722,7 +32711,6 @@ schwimmbad-schweiz.ch
 schwimmbad-selberbauen.ch
 schwimmbad-selbstbau.ch
 schwimmbad-selbstbauer.ch
-schwimmbad-sense.ch
 schwimmbad-service.ch
 schwimmbad-seuzach.ch
 schwimmbad-shop.ch
@@ -33395,7 +33383,6 @@ schwingtore.ch
 schwingundstampf.ch
 schwingung-im-einklang.ch
 schwingung-shop.ch
-schwingung.ch
 schwingungdesseins.ch
 schwingungen.ch
 schwingungs-isolation.ch
@@ -36401,6 +36388,7 @@ scriptingframework.ch
 scriptis.ch
 scriptit.ch
 scriptlab.ch
+scriptli.ch
 scriptlite.ch
 scriptly.ch
 scriptnau.ch
@@ -36703,7 +36691,6 @@ scsgmbh.ch
 scsgwaterpolo.ch
 scsh.ch
 scshelp.ch
-scsi.ch
 scsin.ch
 scsinternational.ch
 scsion.ch
