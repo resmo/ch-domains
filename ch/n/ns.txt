@@ -374,7 +374,6 @@ ns.plans-fixes.ch
 ns.plansfixes.ch
 ns.polecommunication.ch
 ns.polyades.ch
-ns.pony-hof.ch
 ns.poole.ch
 ns.popart.ch
 ns.populaer.ch
@@ -1525,7 +1524,6 @@ ns1.dnssecurity.ch
 ns1.dnsserver.ch
 ns1.dnsservice.ch
 ns1.dnssys.ch
-ns1.dnsxs.ch
 ns1.do21.ch
 ns1.docscf.ch
 ns1.doing.ch
@@ -2230,7 +2228,6 @@ ns1.itivity.ch
 ns1.itkb.ch
 ns1.itprime.ch
 ns1.itrain.ch
-ns1.itservices-gmbh.ch
 ns1.itsieber.ch
 ns1.itsk.ch
 ns1.itzh.ch
@@ -4871,7 +4868,6 @@ ns2.dnssecurity.ch
 ns2.dnsserver.ch
 ns2.dnsservice.ch
 ns2.dnssys.ch
-ns2.dnsxs.ch
 ns2.do21.ch
 ns2.doing.ch
 ns2.doingit.ch
@@ -5551,7 +5547,6 @@ ns2.itivity.ch
 ns2.itkb.ch
 ns2.itprime.ch
 ns2.itrain.ch
-ns2.itservices-gmbh.ch
 ns2.itsk.ch
 ns2.itu.ch
 ns2.itzh.ch
@@ -6283,7 +6278,6 @@ ns2.polyoperation-test.ch
 ns2.polyoperation.ch
 ns2.pomzeddesign.ch
 ns2.pomzedroot1.ch
-ns2.pony-hof.ch
 ns2.pool-informatik.ch
 ns2.poole.ch
 ns2.pop24.ch
