@@ -22,7 +22,6 @@ ns-anycast2.hostpoint.ch
 ns-automobiles.ch
 ns-b.hohenegg.ch
 ns-b.pillo-srv.ch
-ns-bodenbelaege.ch
 ns-c.ch
 ns-cabletech.ch
 ns-carrelage.ch
@@ -36,7 +35,6 @@ ns-covering.ch
 ns-edition.ch
 ns-elektro.ch
 ns-etancheite-fribourg.ch
-ns-fassaden.ch
 ns-firestop.ch
 ns-group.ch
 ns-hamilton.ch
@@ -390,7 +388,6 @@ ns.raus-mit-der-wahrheit.ch
 ns.ravana.ch
 ns.rdcm.ch
 ns.ready-to-ride.ch
-ns.rebecamode.ch
 ns.rebmatt.ch
 ns.redics.ch
 ns.reputatio.ch
@@ -1399,7 +1396,6 @@ ns1.damlok.ch
 ns1.damutten.ch
 ns1.dance50.ch
 ns1.danielabrecht.ch
-ns1.dariopalmeri.ch
 ns1.dariosulser.ch
 ns1.darkbox.ch
 ns1.darkforce.ch
@@ -3020,7 +3016,6 @@ ns1.portaledeicontadini.ch
 ns1.portaledellecontadine.ch
 ns1.posttenebraslab.ch
 ns1.potentielsdentrepreneurs.ch
-ns1.poupy.ch
 ns1.powdershape.ch
 ns1.power7.ch
 ns1.power9.ch
@@ -4340,7 +4335,6 @@ ns2.bailong.ch
 ns2.balschun.ch
 ns2.band.ch
 ns2.bandgenossenschaft.ch
-ns2.banes.ch
 ns2.bangladeshembassy.ch
 ns2.baratta.ch
 ns2.bargnac.ch
@@ -6291,7 +6285,6 @@ ns2.portaledeicontadini.ch
 ns2.portaledellecontadine.ch
 ns2.posttenebraslab.ch
 ns2.potentielsdentrepreneurs.ch
-ns2.poupy.ch
 ns2.powdershape.ch
 ns2.power7.ch
 ns2.power9.ch
@@ -7702,6 +7695,7 @@ ns3.letsbuild.ch
 ns3.libracore.ch
 ns3.libralures.ch
 ns3.lieferzonen.ch
+ns3.lifemagic.ch
 ns3.lilo.ch
 ns3.linthcom.ch
 ns3.linux-guru.ch
@@ -8222,6 +8216,7 @@ ns4.lakenet.ch
 ns4.laviweb.ch
 ns4.ledspecialist.ch
 ns4.letsbuild.ch
+ns4.lifemagic.ch
 ns4.linux-guru.ch
 ns4.linuxtec.ch
 ns4.ma-secretere.ch
@@ -8768,7 +8763,6 @@ nsoft.ch
 nsolo.ch
 nsomediacorp.ch
 nson.ch
-nsorb.ch
 nsoservice.ch
 nsource.ch
 nsp-one.ch

@@ -149,6 +149,7 @@ ki-com.ch
 ki-commerce.ch
 ki-communication.ch
 ki-communications.ch
+ki-compliance-schweiz.ch
 ki-compliance.ch
 ki-consult.ch
 ki-consultant.ch
@@ -457,7 +458,6 @@ ki-messe.ch
 ki-mii-locations.ch
 ki-mind.ch
 ki-mit-plan.ch
-ki-mitarbeiter.ch
 ki-mitarbeiterin.ch
 ki-mo-now.ch
 ki-mode-webseite.ch
@@ -635,6 +635,8 @@ ki-shani.ch
 ki-sheriff.ch
 ki-shiatsu.ch
 ki-shop.ch
+ki-shoppen.ch
+ki-shopping.ch
 ki-sicherheit.ch
 ki-sichtbar.ch
 ki-sichtbarkeit.ch
@@ -715,6 +717,7 @@ ki-textberatung.ch
 ki-texten.ch
 ki-textwerk.ch
 ki-theorie.ch
+ki-therapie.ch
 ki-therapies.ch
 ki-tierarzt.ch
 ki-tipps.ch
@@ -798,6 +801,7 @@ ki-werbung-schweiz.ch
 ki-werbung.ch
 ki-werk.ch
 ki-werkstatt.ch
+ki-werkzeug.ch
 ki-wettbewerb.ch
 ki-whatsapp.ch
 ki-wissen.ch
@@ -1324,8 +1328,6 @@ kichler.ch
 kici.ch
 kiciu.ch
 kick-ads.ch
-kick-back.ch
-kick-backs.ch
 kick-box.ch
 kick-boxen.ch
 kick-boxing.ch
@@ -1905,7 +1907,6 @@ kids-on-ski.ch
 kids-on-sugar.ch
 kids-openair.ch
 kids-optic.ch
-kids-ortho.ch
 kids-park.ch
 kids-permanence.ch
 kids-physio.ch
@@ -2455,6 +2456,7 @@ kiducation.ch
 kidult.ch
 kidultmania.ch
 kidults.ch
+kidup.ch
 kidurchblick.ch
 kidventure.ch
 kidwatch.ch
@@ -2663,7 +2665,9 @@ kieferortho-zug.ch
 kieferortho.ch
 kieferorthoaarau.ch
 kieferorthobern.ch
+kieferorthokoeniz.ch
 kieferortholab.ch
+kieferortholiebefeld.ch
 kieferorthomuensingen.ch
 kieferorthoneuengasse.ch
 kieferorthooberland.ch
@@ -2818,6 +2822,7 @@ kieferorthopaedieduedingen.ch
 kieferorthopaediefrutigen.ch
 kieferorthopaediegommiswald.ch
 kieferorthopaediekandertal.ch
+kieferorthopaediekoeniz.ch
 kieferorthopaedieliestal.ch
 kieferorthopaedieneuengasse.ch
 kieferorthopaedieoberland.ch
@@ -3048,7 +3053,6 @@ kies.ch
 kies24.ch
 kiesabbau.ch
 kiesag-tiefbau.ch
-kiesag.ch
 kiesando.ch
 kiesaufbereitung.ch
 kiesbauer.ch
@@ -3649,7 +3653,6 @@ kikuvi.ch
 kikuwo.ch
 kikuzen.ch
 kikwit.ch
-kikysshop.ch
 kil-dil.ch
 kil.ch
 kila-beatenberg.ch
@@ -4538,6 +4541,7 @@ kimsenglish.ch
 kimsenn.ch
 kimsfellatelier.ch
 kimsg.ch
+kimshaekelwelt.ch
 kimshairkitchen.ch
 kimsi.ch
 kimsidney.ch
@@ -4695,7 +4699,6 @@ kinchara.ch
 kincho.ch
 kinco-robot.ch
 kinco-robotics.ch
-kinco.ch
 kinconsulting.ch
 kincorobot.ch
 kincorobotics.ch
@@ -4727,6 +4730,7 @@ kind-psychotherapie.ch
 kind-sein-ergo.ch
 kind-sein.ch
 kind-und-du.ch
+kind-und-hund.ch
 kind-und-ich.ch
 kind-und-schule.ch
 kind.ch
@@ -5858,7 +5862,6 @@ kinderernaehrung.ch
 kindererziehung-kompakt.ch
 kinderescaperoom.ch
 kinderevent.ch
-kinderevents.ch
 kinderexpeditionen.ch
 kinderey.ch
 kinderfahrensicher.ch
@@ -6819,7 +6822,6 @@ kinderorientierte-elternberatung.ch
 kinderorientierteelternberatung.ch
 kinderort-windspiel.ch
 kinderort.ch
-kinderorthesen.ch
 kinderortho-bern.ch
 kinderortho-luzern.ch
 kinderortho-piaferrat.ch
@@ -6837,7 +6839,6 @@ kinderorthopaedie-zentrum.ch
 kinderorthopaedie.ch
 kinderorthopaedin.ch
 kinderorthopraxis.ch
-kinderortung.ch
 kinderosteopathen.ch
 kinderosteopathie-ostschweiz.ch
 kinderosteopathie-stgallen.ch
@@ -7354,7 +7355,6 @@ kinderstaern.ch
 kinderstark.ch
 kinderstarkmachen.ch
 kinderstartbahn.ch
-kinderstern.ch
 kinderstiefel.ch
 kinderstiftung-partnerschaft.ch
 kinderstiftung-schweiz.ch
@@ -7879,7 +7879,6 @@ kinderzentrum-lindenpark.ch
 kinderzentrum-romanshorn.ch
 kinderzentrum.ch
 kinderzeug.ch
-kinderziitig.ch
 kinderzimmer-maler.ch
 kinderzimmer-shop.ch
 kinderzimmer.ch
@@ -7929,7 +7928,6 @@ kindesvertretung.ch
 kindeswille.ch
 kindeswohl-abklaerung.ch
 kindeswohl-diagnostik.ch
-kindeswohl.ch
 kindeswohlabklaerung.ch
 kindex.ch
 kindfx.ch
@@ -9008,7 +9006,6 @@ kinesiologieost.ch
 kinesiologieportal.ch
 kinesiologiepraxis-ambuehl.ch
 kinesiologiepraxis-trix-ammann.ch
-kinesiologiepraxis.ch
 kinesiologiepunkt.ch
 kinesiologiequantique.ch
 kinesiologiereuss.ch
@@ -9063,7 +9060,6 @@ kinesiologue-sion.ch
 kinesiologue-suisse.ch
 kinesiologue-valleedejoux.ch
 kinesiologue.ch
-kinesiologuegeneve.ch
 kinesiologuelausanne.ch
 kinesiologues-geneve.ch
 kinesiologues.ch
@@ -10079,7 +10075,6 @@ kino-openairs.ch
 kino-orion.ch
 kino-oris.ch
 kino-polska.ch
-kino-programm.ch
 kino-rapperswil.ch
 kino-riffraff.ch
 kino-rio.ch
@@ -10402,6 +10397,7 @@ kinteso.ch
 kintessence.ch
 kintetsu.ch
 kintex.ch
+kinth.ch
 kinti.ch
 kinto-center.ch
 kinto-flex.ch
@@ -11018,7 +11014,6 @@ kirche-gwz.ch
 kirche-gz.ch
 kirche-habkern.ch
 kirche-hasle.ch
-kirche-haslen.ch
 kirche-heimberg.ch
 kirche-heimenschwand.ch
 kirche-henggart.ch
@@ -11127,7 +11122,6 @@ kirche-pieterlen.ch
 kirche-pilgerweg-bielersee.ch
 kirche-pratteln.ch
 kirche-radelfingen.ch
-kirche-rapperswil-be.ch
 kirche-rapperswil-wengi.ch
 kirche-regensberg.ch
 kirche-reichenbach.ch
@@ -11724,7 +11718,6 @@ kirchensteuern-firma.ch
 kirchensteuern-schweiz.ch
 kirchensteuern-sei-dank.ch
 kirchensteuern-unternehmen.ch
-kirchensteuern.ch
 kirchensteuerseidank.ch
 kirchensteuerung.ch
 kirchensteuerwirkt.ch
@@ -12259,6 +12252,7 @@ kirtiskitchen.ch
 kirtz.ch
 kiru.ch
 kirubakaran.ch
+kirubel.ch
 kirue.ch
 kiruma.ch
 kirumaconsulting.ch
@@ -13290,7 +13284,6 @@ kita-nussbaum.ch
 kita-nw.ch
 kita-oasis.ch
 kita-oberbipp.ch
-kita-oberfeld.ch
 kita-obersimmental.ch
 kita-oberuzwil.ch
 kita-oberwil.ch
@@ -13813,7 +13806,6 @@ kitanova.ch
 kitanoyoga.ch
 kitanshop.ch
 kitao.ch
-kitaoberfeld.ch
 kitaole.ch
 kitaonline.ch
 kitaorchidee.ch
@@ -14736,6 +14728,7 @@ kivo.ch
 kivodds.ch
 kivoncleaning.ch
 kivoo.ch
+kivora.ch
 kivorteil.ch
 kivox.ch
 kivra.ch

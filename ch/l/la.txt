@@ -630,7 +630,6 @@ la-fin-du-chene.ch
 la-fin.ch
 la-finance.ch
 la-finca.ch
-la-fine-bouche-rit.ch
 la-finestra.ch
 la-finice.ch
 la-fiorista.ch
@@ -1422,7 +1421,6 @@ la-ruche-verte.ch
 la-ruche.ch
 la-rumeur-express.ch
 la-russinette.ch
-la-rustica.ch
 la-sa-ga.ch
 la-sage-femme.ch
 la-sage.ch
@@ -2211,7 +2209,6 @@ labarque.ch
 labarre.ch
 labarreblanche.ch
 labarrese.ch
-labarrica.ch
 labarriere.ch
 labarsch.ch
 labarte.ch
@@ -2433,7 +2430,6 @@ label-viande.ch
 label-vie.ch
 label-villa.ch
 label-world.ch
-label-x.ch
 label.ch
 label1.ch
 label17.ch
@@ -3287,7 +3283,6 @@ labor-altstadt.ch
 labor-am-zugersee.ch
 labor-analytica.ch
 labor-basel.ch
-labor-bauchemie.ch
 labor-benchmark.ch
 labor-bern.ch
 labor-bilder.ch
@@ -3944,7 +3939,6 @@ labpoint.ch
 labpro.ch
 labpura.ch
 labr.ch
-labra.ch
 labracadabra.ch
 labraccia.ch
 labrace.ch
@@ -4569,7 +4563,6 @@ lacartefood.ch
 lacartefoods.ch
 lacartegourmande.ch
 lacarteplus.ch
-lacarterie.ch
 lacarteriedemorgane.ch
 lacartetimbree.ch
 lacartoleria.ch
@@ -4627,6 +4620,7 @@ lacasadelhabanostgallen.ch
 lacasadelhabanozug.ch
 lacasadelhabanozugo.ch
 lacasadeljamon.ch
+lacasadellapasta.ch
 lacasadellapizza.ch
 lacasadellepaste.ch
 lacasadellhockey.ch
@@ -5493,7 +5487,6 @@ lacledesiles.ch
 lacledesjeux.ch
 lacledesmots.ch
 lacledor.ch
-lacledubienetre.ch
 lacledujardin.ch
 lacledusoin.ch
 laclef-fribourg.ch
@@ -5599,7 +5592,6 @@ lacochera-bar.ch
 lacochera.ch
 lacocherabar.ch
 lacochere.ch
-lacocina.ch
 lacocottedegusteria.ch
 lacocreatrice.ch
 lacodhachante.ch
@@ -5810,7 +5802,6 @@ lacortedeibambini.ch
 lacortedeisapori.ch
 lacortestudio.ch
 lacorvette.ch
-lacos.ch
 lacosa.ch
 lacosita.ch
 lacosmetic.ch
@@ -6451,7 +6442,6 @@ ladenlokale.ch
 ladenmacher.ch
 ladenmanufaktur.ch
 ladenoberamt.ch
-ladenoeffnungszeiten.ch
 ladenplakate.ch
 ladenpunkt.ch
 ladenregal.ch
@@ -6643,7 +6633,6 @@ ladiesfirstchallenge.ch
 ladiesfirstclinique.ch
 ladiesfirstcliniquedelafemme.ch
 ladiesfisrt.ch
-ladiesfit.ch
 ladiesflohmi.ch
 ladiesforladies.ch
 ladiesgccw.ch
@@ -7075,7 +7064,6 @@ ladydrive.ch
 ladydriven.ch
 ladydrivers.ch
 ladyduracell.ch
-ladyelise.ch
 ladyeva.ch
 ladyevelyn.ch
 ladyfarrier.ch
@@ -7619,7 +7607,6 @@ laerchenheim.ch
 laerchenhof-ag.ch
 laerchenhof-samnaun.ch
 laerchenhof-vordemwald.ch
-laerchenhof.ch
 laerchenholz-essenz.ch
 laerchenholz-pfaehle.ch
 laerchenholz-produkte.ch
@@ -8698,6 +8685,7 @@ lagencewebdesign.ch
 lagenda.ch
 lagendadesenfantines.ch
 lagendadureseauteur.ch
+lagendaparfums.ch
 lagenerale.ch
 lageneraledufroid.ch
 lagenerusa.ch
@@ -9400,6 +9388,7 @@ lagougra.ch
 lagouille.ch
 lagouilleonsemouille.ch
 lagoule.ch
+lagoulette.ch
 lagourmandie.ch
 lagourmandiere.ch
 lagourmandine.ch
@@ -12192,6 +12181,7 @@ lameena.ch
 lameenconscience.ch
 lameetsonducoeur.ch
 lamegere.ch
+lameilleure.ch
 lameilleureassurance.ch
 lameiras.ch
 lamek.ch
@@ -12254,12 +12244,14 @@ lamellenstoren-werkstatt.ch
 lamellenstoren.ch
 lamellenstorenreinigung.ch
 lamellenstorenschweiz.ch
+lamellenstorenx.ch
 lamellenvorhaenge.ch
 lamellenvorhang-shop.ch
 lamellenvorhang.ch
 lamellenvorhangshop.ch
 lamellenwand.ch
 lamellenwandeshop.ch
+lamellenxstoren.ch
 lamellereinigung.ch
 lamelli.ch
 lamello-elektrowerkzeug.ch
@@ -12667,7 +12659,6 @@ lamone.ch
 lamone24.ch
 lamongolfiera.ch
 lamonigrogg.ch
-lamonnaie.ch
 lamont-development.ch
 lamont.ch
 lamonta.ch
@@ -12717,7 +12708,6 @@ lamoto.ch
 lamotra.ch
 lamott.ch
 lamotta-scuol.ch
-lamotta.ch
 lamottaz.ch
 lamotte.ch
 lamouche.ch
@@ -13062,6 +13052,16 @@ lamutta.ch
 lamutuelle.ch
 lamvanken.ch
 lamx.ch
+lamxbasel.ch
+lamxbern.ch
+lamxchur.ch
+lamxgeneve.ch
+lamxluzern.ch
+lamxschweiz.ch
+lamxswiss.ch
+lamxticino.ch
+lamxzh.ch
+lamxzuerich.ch
 lamxzug.ch
 lamy-academy.ch
 lamy-expertise.ch
@@ -16069,6 +16069,7 @@ langrutigartli.ch
 langs-cafe.ch
 langs.ch
 langsam-bewegt.ch
+langsam-unterwegs.ch
 langsam-verkehr.ch
 langsam.ch
 langsambier.ch
@@ -16732,7 +16733,6 @@ lanuto.ch
 lanutrition-sante.ch
 lanutritionsante.ch
 lanutrizionista.ch
-lanuvo.ch
 lanux-it.ch
 lanux.ch
 lanuza-shop.ch
@@ -16932,7 +16932,6 @@ laochur.ch
 laocon.ch
 laodica.ch
 laodicee.ch
-laoh.ch
 laokanalprofi.ch
 laokanalprofis.ch
 laokoon.ch
@@ -18246,6 +18245,7 @@ larakoch.ch
 larakollep.ch
 larakrebs.ch
 larakuehne.ch
+larakuhn.ch
 laralab.ch
 laralba.ch
 laralei.ch
@@ -19159,6 +19159,7 @@ larouteverte.ch
 laroutine.ch
 larouvraie.ch
 larouxla.ch
+larox.ch
 laroyale.ch
 larp-cloud.ch
 larp-netz.ch
@@ -20083,6 +20084,7 @@ laser-proktologie.ch
 laser-promed.ch
 laser-rapide.ch
 laser-reinigen.ch
+laser-reinigung-schweiz.ch
 laser-reinigung.ch
 laser-rent.ch
 laser-run.ch
@@ -20551,7 +20553,6 @@ lasermed24.ch
 lasermedico.ch
 lasermedizin-zuerich.ch
 lasermedizin.ch
-lasermedshop.ch
 laserment.ch
 lasermessgeraet.ch
 lasermesstechnik.ch
@@ -21075,7 +21076,6 @@ laskowski.ch
 laskschweiz.ch
 lasku-app.ch
 lasku-boden.ch
-lasku.ch
 laskyparc.ch
 laslaguzzi.ch
 laslatiarnas.ch
@@ -21978,7 +21978,6 @@ latash.ch
 latatadelulu.ch
 lataupiniere.ch
 lataverna-hendschiken.ch
-lataverna-murten.ch
 lataverna-zuerich.ch
 latavernadadavide.ch
 latavernazb.ch
@@ -22064,7 +22063,6 @@ latelier-39.ch
 latelier-ac.ch
 latelier-arch.ch
 latelier-automobile.ch
-latelier-barber.ch
 latelier-beaute.ch
 latelier-bois.ch
 latelier-brulant.ch
@@ -22664,7 +22662,6 @@ latinofoods.ch
 latinogirlsca.ch
 latinomarket.ch
 latinoparty.ch
-latinopimp.ch
 latinorestaurant.ch
 latinorestaurantbar.ch
 latinos-en-suiza.ch
@@ -22859,7 +22856,6 @@ latraboule.ch
 latrace.ch
 latracebleue.ch
 latraction.ch
-latradition.ch
 latraditionepizzaexpress.ch
 latradizionedeisapori.ch
 latradizionepizzaexpress-wohlen.ch
@@ -26474,6 +26470,7 @@ lavilleneuvoise.ch
 lavillesa.ch
 lavilliere.ch
 lavillosa.ch
+lavimae.ch
 lavimail.ch
 lavimo.ch
 lavimya.ch
@@ -26906,7 +26903,6 @@ lawandcyber.ch
 lawandmore.ch
 lawandnegotiation.ch
 lawandnegotiations.ch
-lawandorder.ch
 lawandsign.ch
 lawandsociety.ch
 lawandstyle.ch
