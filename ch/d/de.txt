@@ -438,6 +438,7 @@ deal-desk.ch
 deal-engine.ch
 deal-estate.ch
 deal-finder.ch
+deal-flow-partner.ch
 deal-flow.ch
 deal-haus.ch
 deal-hive.ch
@@ -498,6 +499,7 @@ dealauto.ch
 dealaviator.ch
 dealbank.ch
 dealblob.ch
+dealbo.ch
 dealboat.ch
 dealbook.ch
 dealbot.ch
@@ -578,6 +580,7 @@ dealfilter.ch
 dealfinity.ch
 dealfit.ch
 dealflow.ch
+dealflowpartner.ch
 dealfons.ch
 dealfortwo.ch
 dealfox.ch
@@ -708,7 +711,6 @@ dealspot.ch
 dealsschweiz.ch
 dealstar.ch
 dealstogo.ch
-dealstore.ch
 dealsuisse.ch
 dealsuite.ch
 dealsvip.ch
@@ -1466,7 +1468,6 @@ debosselage.ch
 debosselagesuisse.ch
 debosseler.ch
 debosses.ch
-debossesch.ch
 debosset.ch
 debotton.ch
 debouba-beratung.ch
@@ -1533,7 +1534,6 @@ debritodesign.ch
 debritoimmobilien.ch
 debroglie.ch
 debros.ch
-debrosses.ch
 debrossin.ch
 debrot-environnement-nocturne.ch
 debrot.ch
@@ -3167,7 +3167,6 @@ dedabau.ch
 dedaelementi.ch
 dedagroup.ch
 dedaj.ch
-dedaja.ch
 dedale-blog.ch
 dedale-slab.ch
 dedale.ch
@@ -3335,6 +3334,7 @@ deducta.ch
 dedun.ch
 dedup.ch
 dedushi.ch
+dedushiairtech.ch
 dedzo-gym.ch
 dee-brand.ch
 dee-che.ch
@@ -3406,6 +3406,7 @@ deek-nagershop.ch
 deek-pets.ch
 deek.ch
 deekay.ch
+deekaydanceschool.ch
 deekhundeshop.ch
 deekkatzenshop.ch
 deeknagershop.ch
@@ -3735,6 +3736,7 @@ deepin.ch
 deepinbox.ch
 deepindream-video.ch
 deepindream.ch
+deepinference.ch
 deepinfo.ch
 deepinfos.ch
 deepinity.ch
@@ -3835,7 +3837,6 @@ deeprank.ch
 deeprecai.ch
 deeprecovery.ch
 deeprelax-coaching.ch
-deeprelax.ch
 deeprelaxation.ch
 deeprelief.ch
 deepresear.ch
@@ -5652,6 +5653,7 @@ dein-sexshop.ch
 dein-shiatsu.ch
 dein-shirt.ch
 dein-shop.ch
+dein-sicherer-hafen.ch
 dein-sign.ch
 dein-sim.ch
 dein-sim24.ch
@@ -6065,6 +6067,7 @@ deine-berater.ch
 deine-beraterin.ch
 deine-beratung.ch
 deine-berufswahl.ch
+deine-bewerbung.ch
 deine-bibel.ch
 deine-biografie.ch
 deine-box-zaehlt.ch
@@ -6597,6 +6600,7 @@ deineselektion.ch
 deinesexologin.ch
 deinesoftware.ch
 deinesolarenergie.ch
+deinesolutionsag.ch
 deinesoterik.ch
 deinespange.ch
 deinesprache.ch
@@ -10251,7 +10255,6 @@ deltadoc.ch
 deltadog.ch
 deltadok.ch
 deltadore-group.ch
-deltadore-schweiz.ch
 deltadore.ch
 deltadoregroup.ch
 deltadorf.ch
@@ -10397,6 +10400,7 @@ deltapool.ch
 deltapoolshop.ch
 deltaportfolio.ch
 deltaprint.ch
+deltapro-securite.ch
 deltapro.ch
 deltaproject.ch
 deltaprojectcontrol.ch
@@ -13407,6 +13411,7 @@ dentabene.ch
 dentabrice.ch
 dentabrux.ch
 dentabs.ch
+dentacademy.ch
 dentacall.ch
 dentacare-murten.ch
 dentacare.ch
@@ -13536,7 +13541,6 @@ dental-implantate.ch
 dental-implants.ch
 dental-info.ch
 dental-innovation.ch
-dental-it.ch
 dental-job.ch
 dental-jobs.ch
 dental-kalender.ch
@@ -14222,6 +14226,7 @@ dentalyte.ch
 dentalytix.ch
 dentalzenglasses.ch
 dentalzentrum-cakarevic.ch
+dentalzentrum.ch
 dentalzentrumzug.ch
 dentalzone-hard.ch
 dentalzone.ch
@@ -14809,7 +14814,6 @@ dentoffice.ch
 dentofit.ch
 dentogo.ch
 dentogrim.ch
-dentoheal.ch
 dentohelp.ch
 dentolan.ch
 dentoline.ch
@@ -15317,6 +15321,7 @@ depanne-info.ch
 depanne-moi.ch
 depanne-tout.ch
 depanne.ch
+depanne24.ch
 depanneinfo.ch
 depanner.ch
 depanneur-comparatif.ch
@@ -19690,7 +19695,6 @@ deryk.ch
 deryl.ch
 deryogi.ch
 derz.ch
-derza.ch
 derzahn.ch
 derzahnarzt.ch
 derzahnarzthilft.ch
@@ -19965,6 +19969,7 @@ deschwellbrunner.ch
 deschwerzebachersprint.ch
 desci.ch
 descience.ch
+descienced.ch
 desck.ch
 desclean.ch
 desclics.ch
@@ -21159,7 +21164,6 @@ designforrecycling.ch
 designfortomorrow.ch
 designforumwinterthur.ch
 designforwines.ch
-designforyou.ch
 designfoto.ch
 designfox.ch
 designfreak.ch

@@ -85,7 +85,6 @@ so-geht-es.ch
 so-geht-fussball.ch
 so-geht-nachhaltig.ch
 so-geht-nachhaltigkeit.ch
-so-geht-sommer.ch
 so-geht-vertrieb.ch
 so-geht-vorsorge.ch
 so-gehts.ch
@@ -117,6 +116,7 @@ so-is-gsi.ch
 so-isst-die-schweiz.ch
 so-isst-man-heute.ch
 so-ist-offen.ch
+so-it-lab.ch
 so-it.ch
 so-ja.ch
 so-kantonsgeschichte.ch
@@ -138,7 +138,6 @@ so-leicht.ch
 so-lesch.ch
 so-licare.ch
 so-light.ch
-so-logisch.ch
 so-los.ch
 so-loved.ch
 so-loveherb.ch
@@ -505,6 +504,7 @@ sobildung.ch
 sobillig.ch
 sobim.ch
 sobima.ch
+sobimex.ch
 sobimo.ch
 sobinich.ch
 sobio-solocal.ch
@@ -709,7 +709,6 @@ soccercourt.ch
 soccercourts.ch
 soccerdeal.ch
 soccerdevils.ch
-soccerdream.ch
 soccerdrill.ch
 soccerdynamics.ch
 soccerevents.ch
@@ -1001,6 +1000,7 @@ social-stock-exchange.ch
 social-store.ch
 social-switzerland.ch
 social-systems-engineering.ch
+social-talents.ch
 social-tools.ch
 social-town.ch
 social-trading.ch
@@ -2370,6 +2370,7 @@ sodimars.ch
 sodimas.ch
 sodimed-stat.ch
 sodimed.ch
+sodimedgroup.ch
 sodimedshop.ch
 sodina.ch
 sodionix.ch
@@ -4024,6 +4025,7 @@ softwaremarcopost.ch
 softwaremarkt.ch
 softwaremat.ch
 softwaremind.ch
+softwaremodernisierung.ch
 softwarenatives.ch
 softwarenet.ch
 softwarenetz.ch
@@ -4201,7 +4203,6 @@ sogehtmarketing.ch
 sogehtpresse.ch
 sogehts.ch
 sogehtschule.ch
-sogehtsommer.ch
 sogehttanken.ch
 sogehtvorsorge.ch
 sogeil.ch
@@ -9102,6 +9103,7 @@ solie.ch
 solieb.ch
 soliel.ch
 soliend.ch
+soliestudio.ch
 solievo.ch
 soliflex.ch
 solifonds.ch
@@ -9604,7 +9606,6 @@ sologeneration.ch
 sologesang-mirelle.ch
 sologic.ch
 sologics.ch
-sologisch.ch
 solognac.ch
 sologne.ch
 sologroup.ch
@@ -10334,7 +10335,6 @@ solution-benefit.ch
 solution-blockchain.ch
 solution-bois.ch
 solution-boutique.ch
-solution-broker.ch
 solution-cafe.ch
 solution-card.ch
 solution-carrelage.ch
@@ -10452,7 +10452,6 @@ solutionbim.ch
 solutionbleu.ch
 solutionboutique.ch
 solutionboxx.ch
-solutionbroker.ch
 solutioncafe.ch
 solutioncarrelage.ch
 solutioncenter.ch
@@ -11317,6 +11316,7 @@ somatic-health.ch
 somatic-institute.ch
 somatic-leadership.ch
 somatic-luzern.ch
+somatic-practice.ch
 somatic-presence.ch
 somatic-psychotherapy.ch
 somatic-reading.ch
@@ -12020,6 +12020,7 @@ sommerman68.ch
 sommermanfred.ch
 sommermanfredfoto.ch
 sommermanfredphoto.ch
+sommermarc.ch
 sommermarketing.ch
 sommermartin.ch
 sommermassagen.ch
@@ -12944,6 +12945,7 @@ sonia-fotografie.ch
 sonia-gomez.ch
 sonia-griffiths.ch
 sonia-grimm.ch
+sonia-kinesiologie.ch
 sonia-kinesiologue.ch
 sonia-magano.ch
 sonia-molinari.ch
@@ -14223,13 +14225,10 @@ sonnenschein-transport.ch
 sonnenschein.ch
 sonnenscheinreute.ch
 sonnenschicksal.ch
-sonnenschirm-doktor.ch
 sonnenschirm-express.ch
 sonnenschirm-holz.ch
-sonnenschirm-klinik.ch
 sonnenschirm-rechteckig.ch
 sonnenschirm-schweiz.ch
-sonnenschirm-service.ch
 sonnenschirm-shop.ch
 sonnenschirm.ch
 sonnenschirm24.ch
@@ -14246,8 +14245,6 @@ sonnenschirme.ch
 sonnenschirme24.ch
 sonnenschirmeshop.ch
 sonnenschirmexpress.ch
-sonnenschirmklinik.ch
-sonnenschirmservice.ch
 sonnenschirmsockel.ch
 sonnenschirmtage.ch
 sonnenschlau.ch
@@ -14407,6 +14404,7 @@ sonnenstorenx.ch
 sonnenstrahl-reinigung.ch
 sonnenstrahl-spiez.ch
 sonnenstrahl.ch
+sonnenstrahlen.ch
 sonnenstrahlenweltweit.ch
 sonnenstrasse.ch
 sonnenstrom-mg.ch
@@ -14423,6 +14421,7 @@ sonnenstudio-wabern.ch
 sonnenstudio.ch
 sonnenstudios.ch
 sonnenstutz.ch
+sonnensystem.ch
 sonnensysteme.ch
 sonnentag-ag.ch
 sonnentag-augenarzt.ch
@@ -15643,7 +15642,6 @@ sophiejmueller.ch
 sophiejochems.ch
 sophiejoline.ch
 sophiejuriens.ch
-sophiek-interiors.ch
 sophiek.ch
 sophiekiefer.ch
 sophiekoller.ch
@@ -16900,6 +16898,7 @@ soru.ch
 sorum.ch
 sorunja.ch
 sorus.ch
+sorva.ch
 sorveglianza-della-revisione.ch
 sorveglianza.ch
 sorvilier.ch
@@ -16944,7 +16943,6 @@ sos-aspest.ch
 sos-assainissement.ch
 sos-assechement.ch
 sos-assurances.ch
-sos-auto.ch
 sos-autoglas.ch
 sos-avocat.ch
 sos-axpo-systems.ch
@@ -17407,6 +17405,7 @@ sosama.ch
 sosan-nawid.ch
 sosana.ch
 sosanimaux.ch
+sosanitaire.ch
 sosanma.ch
 sosannas.ch
 sosapneedusommeil.ch
@@ -17510,6 +17509,7 @@ sosdentiste.ch
 sosdentistedomicile.ch
 sosdentpully.ch
 sosdents.ch
+sosdepannage.ch
 sosdepannage24.ch
 sosdesamiantage.ch
 sosdettes.ch
@@ -18184,7 +18184,6 @@ souffleurs-sapa.ch
 souffleuses.ch
 soufflevital.ch
 soufflevoix.ch
-souffrances-travail.ch
 souffry.ch
 soufi.ch
 soufiane.ch
@@ -18793,7 +18792,6 @@ soulmovements.ch
 soulmovie.ch
 soulmoving.ch
 soulmusic.ch
-soulnature.ch
 soulndbody.ch
 soulness.ch
 soulnest.ch
@@ -20257,6 +20255,7 @@ southwestservices.ch
 southwind.ch
 southwines.ch
 souti.ch
+soutien-admin.ch
 soutien-administratif-senior.ch
 soutien-administratif.ch
 soutien-aisd-benin.ch
@@ -20388,6 +20387,7 @@ souveraen-lernen.ch
 souveraen-resilient.ch
 souveraen.ch
 souveraendigital.ch
+souveraene-kraft.ch
 souveraene-medien-schweiz.ch
 souveraene-medien.ch
 souveraene-stimmen.ch

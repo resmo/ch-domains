@@ -53,7 +53,6 @@ ex-p.ch
 ex-pad.ch
 ex-perience.ch
 ex-po.ch
-ex-press-visuelle-medien.ch
 ex-press.ch
 ex-pression.ch
 ex-products.ch
@@ -2476,6 +2475,7 @@ expansion-schweiz.ch
 expansion-system.ch
 expansion.ch
 expansionassurance.ch
+expansionassurances.ch
 expansionjoint.ch
 expansionjoints.ch
 expansions.ch
@@ -2963,6 +2963,7 @@ experimental-park.ch
 experimental-pharmacology.ch
 experimental-stmoritz.ch
 experimental.ch
+experimentalbrews.ch
 experimentalcenter.ch
 experimentalchaletstmoritz.ch
 experimentalchesa.ch

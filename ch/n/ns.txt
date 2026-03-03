@@ -1428,7 +1428,6 @@ ns1.dc4131.ch
 ns1.dcb-systems.ch
 ns1.dcmedia.ch
 ns1.dcom.ch
-ns1.dcsolution.ch
 ns1.dcwn.ch
 ns1.dd-informatic.ch
 ns1.ddis.ch
@@ -3888,7 +3887,6 @@ ns1.westinet.ch
 ns1.wesu.ch
 ns1.weyland.ch
 ns1.wgnet.ch
-ns1.wh-gartenpflege.ch
 ns1.wifisolution.ch
 ns1.wimpernserentest.ch
 ns1.wimpernserumbericht.ch
@@ -3995,6 +3993,7 @@ ns1.zahnarztvermittlung.ch
 ns1.zebs.ch
 ns1.zeedivision.ch
 ns1.zeitglei.ch
+ns1.zeitlupe.ch
 ns1.zelliversum.ch
 ns1.zem-emc.ch
 ns1.zen-rollers.ch
@@ -4779,7 +4778,6 @@ ns2.dc-visual.ch
 ns2.dc1.ch
 ns2.dcb-systems.ch
 ns2.dcmedia.ch
-ns2.dcsolution.ch
 ns2.dcwn.ch
 ns2.dd-informatic.ch
 ns2.ddis.ch
@@ -7143,7 +7141,6 @@ ns2.werthdata.ch
 ns2.westinet.ch
 ns2.weyland.ch
 ns2.wgnet.ch
-ns2.wh-gartenpflege.ch
 ns2.wificom.ch
 ns2.wifisolution.ch
 ns2.willmann.ch
@@ -7242,6 +7239,7 @@ ns2.ypsonet.ch
 ns2.zahnarztvermittlung.ch
 ns2.zeedivision.ch
 ns2.zeitglei.ch
+ns2.zeitlupe.ch
 ns2.zekihosting.ch
 ns2.zelliversum.ch
 ns2.zem-emc.ch
@@ -7462,7 +7460,6 @@ ns3.cyberlink.ch
 ns3.darryl.ch
 ns3.dataperformance.ch
 ns3.dataxa.ch
-ns3.dcsolution.ch
 ns3.ddis.ch
 ns3.dearsolidaritesuisse.ch
 ns3.deimos.ch

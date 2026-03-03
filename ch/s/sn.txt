@@ -771,7 +771,6 @@ snd15.ch
 snd22.ch
 snd30.ch
 snd39.ch
-snd40.ch
 snd41.ch
 snd42.ch
 snd43.ch
@@ -819,7 +818,6 @@ sneakair.ch
 sneakapeek.ch
 sneakazz.ch
 sneakbitezone.ch
-sneakbuster.ch
 sneakcleaner.ch
 sneakdistrict.ch
 sneakeezz.ch
@@ -1875,6 +1873,7 @@ snowlabs.ch
 snowland.ch
 snowlashes.ch
 snowleader.ch
+snowlens.ch
 snowleoopardblue.ch
 snowleopard-investments.ch
 snowleopard.ch

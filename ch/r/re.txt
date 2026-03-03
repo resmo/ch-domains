@@ -386,6 +386,7 @@ re-wind.ch
 re-wired.ch
 re-wise.ch
 re-x.ch
+re-you.ch
 re-zone.ch
 re1-capital.ch
 re1.ch
@@ -1018,6 +1019,7 @@ real-economy.ch
 real-eden-immo.ch
 real-eden-immobilier.ch
 real-edenimmobilier.ch
+real-elec.ch
 real-energie.ch
 real-engines.ch
 real-entretiens.ch
@@ -4543,7 +4545,6 @@ rechtsanwalt-wil.ch
 rechtsanwalt-winterthur.ch
 rechtsanwalt-wollerau.ch
 rechtsanwalt-zollikon.ch
-rechtsanwalt-zuerich-arbeitsrecht.ch
 rechtsanwalt-zuerich-erbrecht.ch
 rechtsanwalt-zuerich-scheidung.ch
 rechtsanwalt-zuerich-strafrecht.ch
@@ -5754,6 +5755,7 @@ recrutement.ch
 recrutementlogistique.ch
 recrutements.ch
 recrutementsupplychain.ch
+recrutementtwilo.ch
 recruter.ch
 recruteur.ch
 recruteurdedonateur.ch
@@ -5903,6 +5905,7 @@ recycc.ch
 recycel.ch
 recyceln.ch
 recycl-move.ch
+recycl3d.ch
 recyclab.ch
 recyclable-carpet.ch
 recyclable-eventcarpet.ch
@@ -5940,6 +5943,7 @@ recycle-move.ch
 recycle-recup.ch
 recycle-reward.ch
 recycle.ch
+recycle3d.ch
 recycleart.ch
 recyclebaar.ch
 recyclecollect.ch
@@ -10130,7 +10134,6 @@ refugelechaudron.ch
 refugelemarcheuson.ch
 refugelepeuty.ch
 refugelespace.ch
-refugeloc.ch
 refugerenens.ch
 refuges.ch
 refugetonneau.ch
@@ -10151,6 +10154,7 @@ refugium-hotel.ch
 refugium-immobilien.ch
 refugium-neumueli.ch
 refugium-org.ch
+refugium-peccatorum.ch
 refugium-romontberg.ch
 refugium-schwendi.ch
 refugium-verdina.ch
@@ -11600,7 +11604,6 @@ regio-telefon.ch
 regio-textil.ch
 regio-ticino.ch
 regio-ticker.ch
-regio-ticket.ch
 regio-transport.ch
 regio-treuhand.ch
 regio-vera.ch
@@ -12476,6 +12479,7 @@ regioreinigungen.ch
 regioreisen.ch
 regioreno.ch
 regiorenorecy.ch
+regiorent.ch
 regiorep.ch
 regioreport.ch
 regiororschach.ch
@@ -12555,7 +12559,6 @@ regiotextil.ch
 regiotherm.ch
 regiotic.ch
 regioticker.ch
-regioticket.ch
 regiotipps.ch
 regiotisch.ch
 regiotore.ch
@@ -12676,6 +12679,8 @@ registerderschweizernotare.ch
 registerdonaziunorgans.ch
 registered.ch
 registeredagent.ch
+registeredletter.ch
+registeredmail.ch
 registeredrefurbisher.ch
 registergesbg.ch
 registergesunheitsberufe.ch
@@ -12901,7 +12906,6 @@ reglimedia.ch
 reglis-ag.ch
 reglis-polish.ch
 reglis.ch
-reglist.ch
 reglist24.ch
 regliweine.ch
 reglo.ch
@@ -13133,7 +13137,6 @@ regula-steiger.ch
 regula-straessler.ch
 regula-syz.ch
 regula-trutmann.ch
-regula-tschanz.ch
 regula-tschumi.ch
 regula-umbricht.ch
 regula-villiger.ch
@@ -13356,7 +13359,6 @@ regulatpro-vet.ch
 regulatpro.ch
 regulatprovet.ch
 regulatreichler.ch
-regulatschanz.ch
 regulatschuemperlin.ch
 regulatschumi-photography.ch
 regulatschumi.ch
@@ -15043,6 +15045,7 @@ reime.ch
 reimech.ch
 reimelt.ch
 reimen.ch
+reimer.ch
 reimerei.ch
 reimering.ch
 reimers.ch
@@ -17353,6 +17356,7 @@ reissnadel.ch
 reissprofil.ch
 reissprofile.ch
 reissquarterhorses.ch
+reissverschluesse.ch
 reissverschluss-schweiz.ch
 reissverschluss-winterthur.ch
 reissverschluss-zuerich.ch
@@ -17681,6 +17685,7 @@ reitladen.ch
 reitlager.ch
 reitlehre-horsemanship.ch
 reitlehre.ch
+reitlehrer.ch
 reitloop.ch
 reitmann.ch
 reitmeier.ch
@@ -18046,6 +18051,7 @@ reiyel.ch
 reiz-offen.ch
 reiz.ch
 reizakt.ch
+reizarm.ch
 reizart.ch
 reizblase.ch
 reizdarm-behandlung.ch
@@ -19535,7 +19541,6 @@ relofinder.ch
 reloflow.ch
 relog-lohn.ch
 relog.ch
-relogement.ch
 relogisfrunz.ch
 relogix.ch
 relogo.ch
@@ -22489,6 +22494,7 @@ renespicher.ch
 renessence.ch
 renessences.ch
 renessenciel.ch
+renest.ch
 renestalder.ch
 renestaufferbooks.ch
 renesteudle.ch
@@ -23326,7 +23332,6 @@ renouvellementurbain.ch
 renouvokinesio.ch
 renouvolt.ch
 renoux.ch
-renov-as.ch
 renov-atelierbrocante.ch
 renov-bat.ch
 renov-brienz.ch
@@ -23660,6 +23665,7 @@ renovations-service-graf.ch
 renovations-tuere.ch
 renovations-valais.ch
 renovations.ch
+renovationsabzug.ch
 renovationsalledebain.ch
 renovationsalledebaingeneve.ch
 renovationsalledebainneuchatel.ch
@@ -27655,6 +27661,7 @@ resense.ch
 resensespas.ch
 resenso.ch
 reser-vation.ch
+reser.ch
 reserch.ch
 reserentomologie.ch
 reserica.ch
@@ -28475,6 +28482,7 @@ residenzalavizzari.ch
 residenzalea.ch
 residenzalessandra.ch
 residenzaluce.ch
+residenzalugia.ch
 residenzalumino.ch
 residenzaluna.ch
 residenzalupa.ch
@@ -34100,6 +34108,7 @@ reswuerenlingen.ch
 reswuerenlos.ch
 resy.ch
 resyam.ch
+resyes.ch
 resyl.ch
 resylchap.ch
 resync.ch
@@ -35546,7 +35555,6 @@ retromode.ch
 retromonamour.ch
 retromoto.ch
 retromuseum.ch
-retron.ch
 retronbox.ch
 retronic.ch
 retronics.ch
@@ -37941,7 +37949,6 @@ rework-sg.ch
 rework-so.ch
 rework-tg.ch
 rework.ch
-rework357.ch
 reworked.ch
 reworkly.ch
 reworks.ch
@@ -38135,6 +38142,7 @@ rextours.ch
 rextraining.ch
 rexult.ch
 rexulti.ch
+rexuni.ch
 rexus.ch
 rexverlag.ch
 rexweb.ch
