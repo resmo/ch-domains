@@ -849,6 +849,7 @@ ns1.am-server.ch
 ns1.amenic.ch
 ns1.amerco.ch
 ns1.amirakasri.ch
+ns1.anaconsol.ch
 ns1.ancoristagesstruktur.ch
 ns1.anderthalb.ch
 ns1.andreas-horvath.ch
@@ -1565,7 +1566,6 @@ ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
 ns1.dynanet.ch
-ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -1865,11 +1865,9 @@ ns1.gl.ch
 ns1.glamoursein.ch
 ns1.glatthosting.ch
 ns1.glaun.ch
-ns1.global-piscine.ch
 ns1.globaldns.ch
 ns1.globalinformatik.ch
 ns1.globalnetsystem.ch
-ns1.globalpiscines.ch
 ns1.globalpower.ch
 ns1.globus.ch
 ns1.gloeggli.ch
@@ -2493,6 +2491,7 @@ ns1.mailprofiler.ch
 ns1.mailuser.ch
 ns1.mainbase.ch
 ns1.mainstyle.ch
+ns1.makats.ch
 ns1.makeupbeautyacademy.ch
 ns1.malermolinari.ch
 ns1.managededv.ch
@@ -4215,6 +4214,7 @@ ns2.amenic.ch
 ns2.amerco.ch
 ns2.amipeonweb.ch
 ns2.amirakasri.ch
+ns2.anaconsol.ch
 ns2.ancoristagesstruktur.ch
 ns2.anderthalb.ch
 ns2.anixa.ch
@@ -4901,7 +4901,6 @@ ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
 ns2.dynanet.ch
-ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5194,11 +5193,9 @@ ns2.glaro.ch
 ns2.glatthosting.ch
 ns2.glaun.ch
 ns2.glavas.ch
-ns2.global-piscine.ch
 ns2.globaldns.ch
 ns2.globalinformatik.ch
 ns2.globalnetsystem.ch
-ns2.globalpiscines.ch
 ns2.globalpower.ch
 ns2.globus.ch
 ns2.glweb.ch
@@ -5798,6 +5795,7 @@ ns2.mailgott.ch
 ns2.mailuser.ch
 ns2.mainstyle.ch
 ns2.makamit.ch
+ns2.makats.ch
 ns2.makeupbeautyacademy.ch
 ns2.malermolinari.ch
 ns2.managededv.ch
@@ -7713,6 +7711,7 @@ ns3.made-easy.ch
 ns3.maebi.ch
 ns3.maharshi.ch
 ns3.mainbase.ch
+ns3.makats.ch
 ns3.malermolinari.ch
 ns3.manarasoft.ch
 ns3.manuelfritschi.ch
@@ -8026,6 +8025,7 @@ ns3.volleyuntervaz.ch
 ns3.vr-technics.ch
 ns3.w-4.ch
 ns3.w3design.ch
+ns3.waly.ch
 ns3.waser-solutions.ch
 ns3.webcom-system.ch
 ns3.webcom-systems.ch
@@ -8219,6 +8219,7 @@ ns4.linuxtec.ch
 ns4.ma-secretere.ch
 ns4.macchinista.ch
 ns4.maebi.ch
+ns4.makats.ch
 ns4.marco-salzmann.ch
 ns4.matrixserver.ch
 ns4.maxbit.ch
@@ -8327,6 +8328,7 @@ ns4.unique-hosting.ch
 ns4.video2000.ch
 ns4.virtualhosts.ch
 ns4.viseca.ch
+ns4.waly.ch
 ns4.webland.ch
 ns4.webwer.ch
 ns4.witweb.ch

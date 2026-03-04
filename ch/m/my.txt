@@ -122,7 +122,6 @@ my-backup.ch
 my-bag.ch
 my-band.ch
 my-bank.ch
-my-banker.ch
 my-bankomat.ch
 my-banner.ch
 my-bar.ch
@@ -309,6 +308,7 @@ my-choices.ch
 my-chollet.ch
 my-christchindli.ch
 my-ci.ch
+my-cigar-corner.ch
 my-cineclub.ch
 my-cio.ch
 my-cit.ch
@@ -1143,7 +1143,6 @@ my-mofa.ch
 my-moment-of-happiness.ch
 my-moment-of-silence-and-music.ch
 my-momo.ch
-my-money.ch
 my-moneyhouse.ch
 my-moneypenny.ch
 my-monk.ch
@@ -1377,7 +1376,6 @@ my-pressing.ch
 my-price.ch
 my-print.ch
 my-prints.ch
-my-private-banker.ch
 my-private-boutique.ch
 my-private-care.ch
 my-private-gallery.ch
@@ -1696,7 +1694,6 @@ my-sweeper.ch
 my-sweethome.ch
 my-sweety.ch
 my-swiss-ai.ch
-my-swiss-banker.ch
 my-swiss-center.ch
 my-swiss-chocolate.ch
 my-swiss-company-hydration.ch
@@ -1709,7 +1706,6 @@ my-swiss-kiss.ch
 my-swiss-moment.ch
 my-swiss-number.ch
 my-swiss-phone.ch
-my-swiss-private-banker.ch
 my-swiss-smile.ch
 my-swiss-tweed.ch
 my-swiss-wool.ch
@@ -3675,6 +3671,7 @@ mychvr.ch
 myci.ch
 mycicor.ch
 mycigar.ch
+mycigarcorner.ch
 mycigars.ch
 mycili.ch
 mycimbali.ch
@@ -4720,6 +4717,7 @@ myeasymeals.ch
 myeasypack.ch
 myeasypower.ch
 myeasyshop.ch
+myeasytime.ch
 myeasytransport.ch
 myeat.ch
 myebf.ch
@@ -5108,7 +5106,6 @@ myfasnacht.ch
 myfate.ch
 myfav.ch
 myfave.ch
-myfavorite.ch
 myfavoritecocktail.ch
 myfavoritecolor.ch
 myfavoriteday.ch
@@ -7034,6 +7031,7 @@ mylechner.ch
 myled.ch
 myledger.ch
 myledger24.ch
+myleds.ch
 myledshop.ch
 myledticino.ch
 mylee.ch
@@ -7250,7 +7248,6 @@ mylittlelove.ch
 mylittlemadeleines.ch
 mylittleme.ch
 mylittlemomento.ch
-mylittlemorbuscrohn.ch
 mylittlemountain.ch
 mylittleoasis.ch
 mylittleone.ch
@@ -9139,7 +9136,6 @@ myprivate-search.ch
 myprivate.ch
 myprivateassetmanager.ch
 myprivatebaer.ch
-myprivatebanker.ch
 myprivatebanking.ch
 myprivatebear.ch
 myprivateboat.ch
@@ -10695,6 +10691,7 @@ mysteryketchup.ch
 mysterykugel.ch
 mysterykurier.ch
 mysterylunch.ch
+mysterymailclub.ch
 mysteryman.ch
 mysterymind.ch
 mysterymoment.ch
@@ -11078,7 +11075,6 @@ myswissautotrasporti.ch
 myswissbackup.ch
 myswissbank.ch
 myswissbank24.ch
-myswissbanker.ch
 myswissbankpoints.ch
 myswissbeauty.ch
 myswissbets.ch
@@ -11238,7 +11234,6 @@ myswisspost.ch
 myswisspps.ch
 myswissprint.ch
 myswissprints.ch
-myswissprivatebanker.ch
 myswissproperty.ch
 myswissqr.ch
 myswissquote.ch
@@ -11517,6 +11512,7 @@ mythaimassage.ch
 mythaivilla.ch
 mythaler.ch
 mythaleya.ch
+mythanexis.ch
 mythbuster.ch
 mythcloth.ch
 mythe-saint-gothard.ch

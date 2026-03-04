@@ -1029,6 +1029,7 @@ cms-wheels.ch
 cms-zuerich.ch
 cms.ch
 cms.www-dev.nic.ch
+cms.www-test.cloud.nic.ch
 cms.www-test.nic.ch
 cms.www.cloud.nic.ch
 cms.www.nic.ch
@@ -1238,7 +1239,6 @@ cmws.ch
 cmx-production.ch
 cmx-switzerland.ch
 cmx.ch
-cmxbern.ch
 cmxkonzepte.ch
 cmxonline.ch
 cmxproduction.ch

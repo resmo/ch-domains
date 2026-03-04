@@ -292,7 +292,6 @@ fsax.ch
 fsb-ag.ch
 fsb-biblio.ch
 fsb-blaser.ch
-fsb-finanz.ch
 fsb-gr.ch
 fsb-sa.ch
 fsb-singt.ch
@@ -669,6 +668,7 @@ fsgeo-unibe.ch
 fsgeo.ch
 fsgeolog.ch
 fsgeotechnik.ch
+fsgerhard.ch
 fsgerzensee.ch
 fsgestavayer.ch
 fsgfontainemelon.ch

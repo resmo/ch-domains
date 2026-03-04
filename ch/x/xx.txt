@@ -16,6 +16,7 @@ xx8.ch
 xx9.ch
 xxa.ch
 xxb.ch
+xxbrits.ch
 xxc.ch
 xxceramics.ch
 xxconsulting.ch
@@ -41,6 +42,9 @@ xxl-beck.ch
 xxl-bedarf.ch
 xxl-buchstaben.ch
 xxl-discount.ch
+xxl-drohne.ch
+xxl-drohnen.ch
+xxl-drone.ch
 xxl-druck.ch
 xxl-erotik.ch
 xxl-fliesen.ch
@@ -85,7 +89,9 @@ xxlcamp.ch
 xxlcare.ch
 xxldigital.ch
 xxldonation.ch
+xxldrohne.ch
 xxldrone-service.ch
+xxldrone.ch
 xxldruck.ch
 xxled.ch
 xxlenergy.ch

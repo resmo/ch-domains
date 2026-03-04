@@ -453,6 +453,7 @@ ctrl-a.ch
 ctrl-alt-del.ch
 ctrl-alt-delete.ch
 ctrl-alt-play.ch
+ctrl-alt.ch
 ctrl-c.ch
 ctrl-data.ch
 ctrl-design.ch
