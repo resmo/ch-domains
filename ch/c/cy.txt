@@ -1491,7 +1491,6 @@ cycle-clerc.ch
 cycle-depot.ch
 cycle-fitting.ch
 cycle-lab.ch
-cycle-labs.ch
 cycle-operant.ch
 cycle-orientation.ch
 cycle-panamericana.ch
@@ -2661,6 +2660,7 @@ cytix.ch
 cyto-club.ch
 cyto-service.ch
 cyto-shop.ch
+cyto.ch
 cytoc.ch
 cytokines.ch
 cytokinetics.ch

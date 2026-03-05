@@ -18,7 +18,6 @@ re-al.ch
 re-alliance.ch
 re-alm.ch
 re-animated.ch
-re-ar.ch
 re-architecture.ch
 re-art.ch
 re-autoreinigung.ch
@@ -2952,7 +2951,6 @@ rebelcustoms.ch
 rebelday.ch
 rebeldia.ch
 rebeldog.ch
-rebeldogs.ch
 rebelduck.ch
 rebele-motowear.ch
 rebelesbeyond.ch
@@ -3466,6 +3464,7 @@ rebranded.ch
 rebranding-swisspdefence.ch
 rebranding.ch
 rebrave.ch
+rebrealestate.ch
 rebreathe.ch
 rebreather-diving.ch
 rebreather-service.ch
@@ -4164,6 +4163,7 @@ rechsteinerscatering.ch
 recht-ai.ch
 recht-aktuell.ch
 recht-auf-heimat.ch
+recht-auf-leben.ch
 recht-auf-protest.ch
 recht-auf-saatgut.ch
 recht-auf-siegen.ch
@@ -4335,7 +4335,6 @@ rechtlaupen.ch
 rechtleicht.ch
 rechtli.ch
 rechtlich-vorsorgen.ch
-rechtliche-antworten.ch
 rechtliche-familienbegleitung.ch
 rechtliche-vorsorge.ch
 rechtlicheintelligenz.ch
@@ -10468,6 +10467,7 @@ regards-9.ch
 regards-croises.ch
 regards-etoiles.ch
 regards-neufs.ch
+regards-paysage.ch
 regards-recits.ch
 regards.ch
 regards9.ch
@@ -15129,6 +15129,7 @@ rein-oehl.ch
 rein-prozess-technik.ch
 rein-sein.ch
 rein-service.ch
+rein-solar.ch
 rein-wasser.ch
 rein-werk.ch
 rein.ch
@@ -18800,7 +18801,6 @@ relaxathome.ch
 relaxatio.ch
 relaxation-ge.ch
 relaxation-mezame.ch
-relaxation-sophrologie.ch
 relaxation-station.ch
 relaxation-therapeutique.ch
 relaxation.ch
@@ -19897,7 +19897,6 @@ remax-news.ch
 remax-oberbaselbiet.ch
 remax-obersee.ch
 remax-oberwallis.ch
-remax-pel.ch
 remax-platin-zuerich.ch
 remax-pratteln.ch
 remax-privatverkauf.ch
@@ -24272,6 +24271,7 @@ rent-shop.ch
 rent-ski.ch
 rent-skis.ch
 rent-spot.ch
+rent-starlink.ch
 rent-store.ch
 rent-switzerland.ch
 rent-systems.ch
@@ -24394,6 +24394,7 @@ rentac.ch
 rentacallagent.ch
 rentacamp.ch
 rentacamper.ch
+rentacanadian.ch
 rentacar-airport.ch
 rentacar-basel.ch
 rentacar-beograd.ch
@@ -24709,7 +24710,6 @@ rentarob.ch
 rentarobot.ch
 rentaroof.ch
 rentart.ch
-rentaru.ch
 rentary.ch
 rentasafe.ch
 rentasalesteam.ch
@@ -28294,6 +28294,7 @@ resident-protection.ch
 resident.ch
 residentcrm.ch
 residenthome.ch
+residenthub.ch
 residentia-card.ch
 residentia.ch
 residentiacard.ch
@@ -29653,6 +29654,7 @@ responsematrix.ch
 responsepipe.ch
 responseproducts.ch
 responseteam.ch
+responsia.ch
 responsiball.ch
 responsibility-consulting.ch
 responsibility-europe.ch
@@ -31430,6 +31432,7 @@ restaurant-pizzeria-angolino.ch
 restaurant-pizzeria-baeren.ch
 restaurant-pizzeria-bahnhof.ch
 restaurant-pizzeria-bella-italia.ch
+restaurant-pizzeria-bestellsystem-software.ch
 restaurant-pizzeria-boccadasse.ch
 restaurant-pizzeria-borsalino.ch
 restaurant-pizzeria-cardinal-schmitten.ch
@@ -31801,7 +31804,6 @@ restaurant-stampf.ch
 restaurant-stans.ch
 restaurant-stansstad.ch
 restaurant-station-bottmingen-bottmingen.ch
-restaurant-station-bottmingen.ch
 restaurant-station.ch
 restaurant-stauffacher.ch
 restaurant-steeltec.ch
@@ -32517,6 +32519,7 @@ restaurantengelrotkreuz.ch
 restaurantenja.ch
 restaurantenoi.ch
 restaurantentracte.ch
+restauranteppenberg.ch
 restaurantergolz.ch
 restauranterle.ch
 restauranterlen.ch
@@ -33548,6 +33551,7 @@ restelberg.ch
 restelbergstrasse.ch
 restemoebel.ch
 restenabler.ch
+restep.ch
 rester-connectes.ch
 rester-libre.ch
 rester-mobile.ch
@@ -35298,7 +35302,6 @@ retreats4u.ch
 retreatsonline.ch
 retreature.ch
 retreaty.ch
-retreatyoga.ch
 retreatz.ch
 retreet.ch
 retren.ch
@@ -35680,7 +35683,6 @@ retrovia.ch
 retrovibes.ch
 retrovibez.ch
 retrovideogameboerse.ch
-retrovintage.ch
 retrovision.ch
 retrovogue-boutique.ch
 retrovogue-secondhand.ch
@@ -36264,6 +36266,9 @@ reussmill.ch
 reussner.ch
 reussnet.ch
 reusspark.ch
+reusspartners-group.ch
+reusspartners.ch
+reusspartnersgroup.ch
 reussperle-buchrain.ch
 reussperle.ch
 reussperlebuchrain.ch
@@ -36846,6 +36851,7 @@ reverte.ch
 revertech.ch
 revertera.ch
 reverto.ch
+revertura.ch
 reveruzzi.ch
 revery.ch
 reveryplay.ch
@@ -37100,6 +37106,7 @@ reviotour.ch
 reviovalue.ch
 revipartner.ch
 revipedia.ch
+reviplan.ch
 reviplus.ch
 revipro.ch
 revips.ch
@@ -37113,6 +37120,7 @@ reviresco-hypnose.ch
 reviresco-praxis.ch
 reviresco-psychiatrie.ch
 revirest.ch
+reviro.ch
 revis-audit.ch
 revis-motoren.ch
 revis.ch
@@ -37390,7 +37398,6 @@ revivalsound.ch
 revivalsounds.ch
 revivalstore.ch
 revivaltreasures.ch
-revivalusm.ch
 revivalyouth.ch
 revivaphysio-zuerich.ch
 revive-association.ch
@@ -37923,6 +37930,7 @@ rewind-carpet.ch
 rewind-festival.ch
 rewind-outdoor.ch
 rewind.ch
+rewindarwish.ch
 rewindcarpet.ch
 rewindfestival.ch
 rewindme.ch

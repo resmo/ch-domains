@@ -1201,6 +1201,7 @@ scanoffice.ch
 scanomat.ch
 scanomise.ch
 scanon.ch
+scanor.ch
 scanory.ch
 scanpan.ch
 scanpart.ch
@@ -1969,7 +1970,6 @@ scent-trackers-unit.ch
 scent.ch
 scent3.ch
 scentair.ch
-scentart.ch
 scentatelier.ch
 scentaure.ch
 scentbird.ch
@@ -5195,6 +5195,7 @@ schaumstoff.ch
 schaumstoff24.ch
 schaumstoffag.ch
 schaumstoffartikel.ch
+schaumstoffcenter.ch
 schaumstoffe-verpackungen.ch
 schaumstoffe.ch
 schaumstoffeinlage.ch
@@ -10862,6 +10863,7 @@ schlittler.ch
 schlittlerillustration.ch
 schlittlerteppiche.ch
 schlittlerundpartner.ch
+schlittn.ch
 schlittschuh-arena-gurmels.ch
 schlittschuh-margarethen.ch
 schlittschuh-schleifen.ch
@@ -11772,7 +11774,6 @@ schlucht.ch
 schluchtae-gruftis.ch
 schluchtalhof.ch
 schluchtcloud.ch
-schluchten.ch
 schluchter-indeko.ch
 schluchter.ch
 schluchterlicci.ch
@@ -15453,7 +15454,6 @@ schneeberichte.ch
 schneebi.ch
 schneebi24.ch
 schneebilanz.ch
-schneeblick.ch
 schneeblind.ch
 schneeblog.ch
 schneebloser.ch
@@ -16245,7 +16245,6 @@ schneiderin-mit-herz.ch
 schneiderin-simona.ch
 schneiderin-zuerich.ch
 schneiderin.ch
-schneiderindoor.ch
 schneiderinformatik.ch
 schneideringenieure.ch
 schneiderinnen.ch
@@ -17803,7 +17802,6 @@ schoen-erklaert.ch
 schoen-fit.ch
 schoen-gesund.ch
 schoen-golban.ch
-schoen-gruen.ch
 schoen-gut.ch
 schoen-gwundrig.ch
 schoen-hauswartung.ch
@@ -18486,6 +18484,7 @@ schoenthals-kochwerkstatt.ch
 schoentoon.ch
 schoenundberger.ch
 schoenundfein.ch
+schoenundgesund.ch
 schoenundgut.ch
 schoenundsein.ch
 schoenundwohl.ch
@@ -24442,6 +24441,7 @@ schule-wallbach.ch
 schule-waltenschwil.ch
 schule-walzenhausen.ch
 schule-wangen.ch
+schule-wangensz.ch
 schule-warth-weiningen.ch
 schule-wasserstelzen.ch
 schule-wauwil.ch
@@ -25549,6 +25549,7 @@ schulhaus-roggern1.ch
 schulhaus-roggern2.ch
 schulhaus-schwerzgrueb.ch
 schulhaus-steig.ch
+schulhaus-wangensz.ch
 schulhaus-zuteilung.ch
 schulhaus-zweidlen.ch
 schulhaus-zwischenflueh.ch
@@ -28378,6 +28379,7 @@ schweikert.ch
 schweikhof-restaurant.ch
 schweikhof-weier.ch
 schweikhof.ch
+schweikirt.ch
 schweiko.ch
 schwein-gehabt.ch
 schwein-schwein.ch
@@ -28676,7 +28678,6 @@ schweiz-dialyse.ch
 schweiz-dienstrad.ch
 schweiz-digitalisieren.ch
 schweiz-diskret.ch
-schweiz-domain.ch
 schweiz-domains.ch
 schweiz-dotnet.ch
 schweiz-drohne.ch
@@ -29198,6 +29199,7 @@ schweizer-autoankauf.ch
 schweizer-autoaufbereitung.ch
 schweizer-autoexport.ch
 schweizer-autofreunde.ch
+schweizer-automobil-uhrenhaus.ch
 schweizer-automobile.ch
 schweizer-autopartei.ch
 schweizer-baeuerin.ch
@@ -33180,7 +33182,6 @@ schwingclub-unterlandquart.ch
 schwingclubbinningen.ch
 schwingclubgais.ch
 schwingclubzug.ch
-schwingding.ch
 schwingel.ch
 schwingen-ag.ch
 schwingen-be.ch
@@ -34093,7 +34094,6 @@ science-talents.ch
 science-techno-park.ch
 science-terrain.ch
 science-textflow.ch
-science-uzh.ch
 science-valais.ch
 science-valens.ch
 science-visual.ch
@@ -36565,6 +36565,7 @@ scrutiny.ch
 scruun.ch
 scruzzi.ch
 scrydex.ch
+scryp.ch
 scrypt-225.ch
 scrypt.ch
 scrypta.ch

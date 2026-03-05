@@ -1457,10 +1457,6 @@ exeltis.ch
 exeltra.ch
 exelya.ch
 exelyas.ch
-exelyon-audit.ch
-exelyon-conseil.ch
-exelyon-expertise.ch
-exelyon-strat.ch
 exelyon.ch
 exelyse.ch
 exem-ag.ch
@@ -3158,6 +3154,7 @@ expert-immobilier.ch
 expert-immobiliere.ch
 expert-impot.ch
 expert-impots.ch
+expert-in-the-loop.ch
 expert-incendie.ch
 expert-int.ch
 expert-interieur.ch
@@ -3196,6 +3193,7 @@ expert-netzwerk.ch
 expert-now.ch
 expert-one-corporate.ch
 expert-opticien.ch
+expert-parquet.ch
 expert-parts.ch
 expert-patrimoine.ch
 expert-peinture.ch
@@ -3250,6 +3248,7 @@ expert-solar-swiss.ch
 expert-solution.ch
 expert-sommer.ch
 expert-sommerag.ch
+expert-spa.ch
 expert-speed.ch
 expert-storiste.ch
 expert-strittmatter.ch
@@ -3734,6 +3733,7 @@ experts-immobiliers-suisse.ch
 experts-immobiliers.ch
 experts-in-swiss-engineering.ch
 experts-in-swissengineering.ch
+experts-in-the-loop.ch
 experts-institut.ch
 experts-js.ch
 experts-legal.ch
@@ -5724,7 +5724,6 @@ extrashop.ch
 extrasito.ch
 extrasmile.ch
 extrasolar.ch
-extraspaces.ch
 extrasped.ch
 extrasport.ch
 extrastockage.ch

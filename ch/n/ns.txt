@@ -1566,6 +1566,7 @@ ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
 ns1.dynanet.ch
+ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -2572,6 +2573,7 @@ ns1.mfo-psycho.ch
 ns1.mgajdo.ch
 ns1.mgcweb.ch
 ns1.mgehosting.ch
+ns1.mgeweb.ch
 ns1.mgit.ch
 ns1.mgks.ch
 ns1.mhd.ch
@@ -3410,7 +3412,6 @@ ns1.softwareschneiderei.ch
 ns1.softxs.ch
 ns1.sogea.ch
 ns1.sol-tax.ch
-ns1.solar-bier.ch
 ns1.solarcom.ch
 ns1.solarisnet.ch
 ns1.solidhosting.ch
@@ -3865,6 +3866,7 @@ ns1.webtrend.ch
 ns1.webucation.ch
 ns1.webunion.ch
 ns1.webuniverse.ch
+ns1.webvona.ch
 ns1.webwer.ch
 ns1.webxpress.ch
 ns1.weihnachten25.ch
@@ -4901,6 +4903,7 @@ ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
 ns2.dynanet.ch
+ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5871,6 +5874,7 @@ ns2.mfkey.ch
 ns2.mfo-psycho.ch
 ns2.mgcweb.ch
 ns2.mgehosting.ch
+ns2.mgeweb.ch
 ns2.mgit.ch
 ns2.mhd.ch
 ns2.miaxcom.ch
@@ -6670,7 +6674,6 @@ ns2.softwareschneiderei.ch
 ns2.softxs.ch
 ns2.sogea.ch
 ns2.sol-tax.ch
-ns2.solar-bier.ch
 ns2.solarbox.ch
 ns2.solarcom.ch
 ns2.solarisnet.ch
@@ -7118,6 +7121,7 @@ ns2.webtrend.ch
 ns2.webucation.ch
 ns2.webunion.ch
 ns2.webuniverse.ch
+ns2.webvona.ch
 ns2.webwer.ch
 ns2.webxpress.ch
 ns2.weihnachten25.ch
@@ -7727,6 +7731,7 @@ ns3.mediavail.ch
 ns3.medienpreis-ostschweiz.ch
 ns3.mfkey.ch
 ns3.mgehosting.ch
+ns3.mgeweb.ch
 ns3.mhd.ch
 ns3.microdyn.ch
 ns3.migros.ch
