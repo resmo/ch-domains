@@ -137,6 +137,7 @@ ch-domain-registry.ch
 ch-domain.ch
 ch-domains.ch
 ch-doubles.ch
+ch-dragon-slots.ch
 ch-dragonslots.ch
 ch-drones.ch
 ch-duospin.ch
@@ -358,6 +359,7 @@ ch-naturstein.ch
 ch-natursteine.ch
 ch-naturwerkstatt.ch
 ch-neble.ch
+ch-need-for-slots.ch
 ch-neid.ch
 ch-neptune.ch
 ch-nettoyage.ch
@@ -1676,6 +1678,7 @@ chalet-a-vendre-valdebagnes.ch
 chalet-a-vendre-verbier.ch
 chalet-a-vendre.ch
 chalet-a-villars.ch
+chalet-aargovia.ch
 chalet-abendruh.ch
 chalet-abendstern.ch
 chalet-achat.ch
@@ -2256,7 +2259,6 @@ chalet-thoeny-arosa.ch
 chalet-timber-inn.ch
 chalet-tirolia.ch
 chalet-toggenburg.ch
-chalet-topas.ch
 chalet-torgon.ch
 chalet-traeumli-frutt.ch
 chalet-traeumli.ch
@@ -3335,12 +3337,14 @@ chamberplayers.ch
 chambers.ch
 chambersa.ch
 chambersandvoices.ch
+chambersberg.ch
 chambersday.ch
 chambersoul.ch
 chambersouthafrica.ch
 chamberwindorchestra.ch
 chamberyzette.ch
 chambesy-conseils.ch
+chambesy-immo.ch
 chambesy-immobilier.ch
 chambesy-vieux-bois.ch
 chambet.ch
@@ -3553,6 +3557,7 @@ champagne-vd.ch
 champagne-veuve-fourny.ch
 champagne.ch
 champagne1114.ch
+champagne2025.ch
 champagne24.ch
 champagne35.ch
 champagneandfriends.ch
@@ -3562,7 +3567,6 @@ champagneartisan.ch
 champagneaudemars.ch
 champagneautreau.ch
 champagnebabe.ch
-champagnebar.ch
 champagnecarbon.ch
 champagnecheztoi.ch
 champagneclub.ch
@@ -3902,6 +3906,7 @@ chanceafrika.ch
 chancearmee.ch
 chanceavecletemps.ch
 chancebildungbuelach.ch
+chancebit.ch
 chanceboxsuisse.ch
 chancecoeur.ch
 chancedigitalitaet.ch
@@ -4466,6 +4471,7 @@ channeling-hemisync.ch
 channeling-institute.ch
 channeling-medium.ch
 channeling-portal.ch
+channeling-suisse-romande.ch
 channeling-zirkel.ch
 channeling.ch
 channelling.ch
@@ -5617,6 +5623,7 @@ charismarealestate.ch
 charismarke.ch
 charismarken.ch
 charismaschool.ch
+charismasierre.ch
 charismastiftung.ch
 charismaticbranding.ch
 charismatique.ch
@@ -7490,8 +7497,10 @@ chatgpt-agent.ch
 chatgpt-akademie-schweiz.ch
 chatgpt-akademie.ch
 chatgpt-butler.ch
+chatgpt-engineer.ch
 chatgpt-geo.ch
 chatgpt-ia.ch
+chatgpt-ingenieur.ch
 chatgpt-input.ch
 chatgpt-keeper.ch
 chatgpt-keeper24.ch
@@ -8106,6 +8115,7 @@ chaux.ch
 chauxdabel.ch
 chauxdefonds.ch
 chauxdefondsassurance.ch
+chauxdefondsmarketing.ch
 chauxit.ch
 chauxping.ch
 chauxpping.ch
@@ -8216,6 +8226,7 @@ chayarituals.ch
 chayatech.ch
 chayenbubbletea.ch
 chayenne.ch
+chayennegraber.ch
 chayi.ch
 chayidesign.ch
 chayka.ch
@@ -8889,7 +8900,6 @@ checklive.ch
 checkly.ch
 checkmagazin.ch
 checkmail.ch
-checkmal.ch
 checkmamemoire.ch
 checkmat.ch
 checkmate.ch
@@ -13827,6 +13837,7 @@ chilltown.ch
 chillum.ch
 chillvibes.ch
 chillville.ch
+chillwithtlq.ch
 chillwithus.ch
 chilly-dogs.ch
 chilly.ch
@@ -15738,6 +15749,7 @@ chk3chk.ch
 chkbt.ch
 chkchk.ch
 chkconsulting.ch
+chkd.ch
 chkdsk.ch
 chkehl.ch
 chkeller.ch
@@ -16185,6 +16197,7 @@ chloez.ch
 chlog.ch
 chlois.ch
 chlooster.ch
+chloote.ch
 chlootebus.ch
 chlootetaxi.ch
 chlopf-frequenz.ch
@@ -21098,7 +21111,6 @@ christineschaffner.ch
 christineschambron.ch
 christineschenk.ch
 christineschmid.ch
-christineschnapp.ch
 christineschneider.ch
 christineschoepf.ch
 christinescholl.ch
@@ -22399,6 +22411,7 @@ chromo-energie.ch
 chromo.ch
 chromoflux.ch
 chromoframe.ch
+chromogothic.ch
 chromograph.ch
 chromohost.ch
 chromonorm.ch

@@ -952,7 +952,6 @@ tcm-akupunktur-gr.ch
 tcm-akupunktur-kriens.ch
 tcm-akupunktur-luzern.ch
 tcm-akupunktur-rueti.ch
-tcm-akupunktur-schaffhausen.ch
 tcm-akupunktur-sg.ch
 tcm-akupunktur-wallisellen.ch
 tcm-akupunktur-wettingen.ch
@@ -1649,6 +1648,7 @@ tcmhan.ch
 tcmharmonia.ch
 tcmhealingqi.ch
 tcmhealth.ch
+tcmherbi.ch
 tcmhofstetter.ch
 tcmhotel.ch
 tcmigros.ch

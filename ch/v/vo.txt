@@ -3713,7 +3713,6 @@ volt-days.ch
 volt-e.ch
 volt-guard.ch
 volt-interactive.ch
-volt-kapseln.ch
 volt-king.ch
 volt-lager.ch
 volt-line.ch
@@ -3848,6 +3847,10 @@ voltarama.ch
 voltaren-dolo.ch
 voltaren-emulgel.ch
 voltaren.ch
+voltari-energy.ch
+voltari-solar.ch
+voltari.ch
+voltarienergy.ch
 voltaris.ch
 voltaro.ch
 voltarys.ch
@@ -5889,6 +5892,7 @@ vonsys.ch
 vont.ch
 vontaka.ch
 vontalzutal.ch
+vontaris.ch
 vontavon.ch
 vontax.ch
 vonte.ch

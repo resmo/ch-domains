@@ -603,7 +603,6 @@ tablegames.ch
 tablegastro.ch
 tablegourmande.ch
 tablegray.ch
-tablehairspa.ch
 tablehaute.ch
 tableheadspavente.ch
 tablehotes.ch
@@ -3965,7 +3964,6 @@ takraw.ch
 takrawbasel.ch
 takrima.ch
 taksado.ch
-takse.ch
 taksi.ch
 taksim.ch
 taksimocakbasi.ch
@@ -6346,7 +6344,6 @@ tandem-sg.ch
 tandem-sprung.ch
 tandem-studio.ch
 tandem-tagesbetreuung.ch
-tandem-teach.ch
 tandem-ticino.ch
 tandem-traduction.ch
 tandem-trainer.ch
@@ -6379,6 +6376,7 @@ tandemfliegen.ch
 tandemflight.ch
 tandemflights.ch
 tandemfluege.ch
+tandemflug-alpstein.ch
 tandemflug-luzern.ch
 tandemflug-mythen.ch
 tandemflug-pilatus.ch
@@ -6427,7 +6425,6 @@ tandir.ch
 tandirgrill.ch
 tandirgrillch.ch
 tandjung.ch
-tandler.ch
 tandm.ch
 tandom.ch
 tandon.ch
@@ -6636,7 +6633,6 @@ tangoevasion.ch
 tangofederal.ch
 tangofestival.ch
 tangofino.ch
-tangofire.ch
 tangofleur.ch
 tangofluido.ch
 tangofolie.ch
@@ -8511,7 +8507,6 @@ tanzen.ch
 tanzen11.ch
 tanzen50plus.ch
 tanzen60.ch
-tanzen60plus.ch
 tanzenab30.ch
 tanzenbasel.ch
 tanzenbefreit.ch
@@ -9878,6 +9873,7 @@ tarantinogroup.ch
 tarantinoscafe.ch
 tarantoga.ch
 tarantula-knife.ch
+tarantula-neo.ch
 tarantula.ch
 taranubis-info.ch
 taranubis.ch
@@ -11113,6 +11109,7 @@ tasknet.ch
 tasko.ch
 taskodin.ch
 taskon.ch
+taskora.ch
 taskorbit.ch
 taskorg.ch
 taskpage.ch
@@ -11572,6 +11569,7 @@ tasty-ads.ch
 tasty-and-more.ch
 tasty-chicken-spot.ch
 tasty-crousty.ch
+tasty-dose.ch
 tasty-food-siselen.ch
 tasty-food.ch
 tasty-for-you.ch
@@ -11611,6 +11609,7 @@ tastycrousty.ch
 tastydelightsarl.ch
 tastydonuts-winterthur.ch
 tastydonuts.ch
+tastydose.ch
 tastyeatin.ch
 tastyfinish.ch
 tastyflames.ch
@@ -11848,7 +11847,6 @@ tatik.ch
 tatil.ch
 tatilegit.ch
 tatilo.ch
-tatim.ch
 tatin.ch
 tationil.ch
 tatipedrotti.ch
@@ -12993,7 +12991,6 @@ taun.ch
 taunebel.ch
 taunerhaus.ch
 taunus-m.ch
-taunus-systems.ch
 taunus-trust.ch
 taunus-wunderland.ch
 taunus-zodiac.ch
@@ -13748,6 +13745,7 @@ tax-planning.ch
 tax-point.ch
 tax-pro.ch
 tax-refund.ch
+tax-representation.ch
 tax-representative.ch
 tax-return-online.ch
 tax-return-swiss.ch
@@ -13893,6 +13891,7 @@ taxcare.ch
 taxcat.ch
 taxchat.ch
 taxcheck.ch
+taxchimp.ch
 taxclar.ch
 taxclinic.ch
 taxcloud.ch
@@ -14497,6 +14496,7 @@ taxi-thun.ch
 taxi-thurauen.ch
 taxi-thurgau.ch
 taxi-thurgi-frauenfeld.ch
+taxi-thusis.ch
 taxi-ticino.ch
 taxi-ticino24.ch
 taxi-time.ch
@@ -15510,6 +15510,7 @@ taxitesla.ch
 taxithalwil.ch
 taxitheorie.ch
 taxitherwil.ch
+taxithusis.ch
 taxiti.ch
 taxiticino.ch
 taxiticket.ch

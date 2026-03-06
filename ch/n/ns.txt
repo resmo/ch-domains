@@ -353,7 +353,6 @@ ns.novacom.ch
 ns.nscluster.ch
 ns.nusbaumer.ch
 ns.oblcom.ch
-ns.ocfiduciaire.ch
 ns.offertube.ch
 ns.oliverseiler.ch
 ns.onlinetravel.ch
@@ -1736,6 +1735,7 @@ ns1.feusolidarite.ch
 ns1.fhvi.ch
 ns1.fibreshape.ch
 ns1.fiduciaire-du-mont-blanc.ch
+ns1.fiducie.ch
 ns1.fidusafe.ch
 ns1.filmfreund.ch
 ns1.filmschloesser.ch
@@ -2171,7 +2171,6 @@ ns1.inverson.ch
 ns1.invoca.ch
 ns1.inware.ch
 ns1.iomax.ch
-ns1.iorg.ch
 ns1.ip-dns.ch
 ns1.ip-link.ch
 ns1.ipadju.ch
@@ -2870,7 +2869,6 @@ ns1.out.ch
 ns1.overrea.ch
 ns1.ovx.ch
 ns1.owcd.ch
-ns1.owebdesign.ch
 ns1.ownspace.ch
 ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
@@ -5492,7 +5490,6 @@ ns2.inverson.ch
 ns2.invoca.ch
 ns2.inware.ch
 ns2.iomax.ch
-ns2.iorg.ch
 ns2.ip-dns.ch
 ns2.ip-link.ch
 ns2.ipark.ch
@@ -6147,7 +6144,6 @@ ns2.outback.ch
 ns2.overrea.ch
 ns2.ovx.ch
 ns2.owcd.ch
-ns2.owebdesign.ch
 ns2.ownspace.ch
 ns2.oxyhelp.ch
 ns2.oyez-oyez.ch
