@@ -138,6 +138,7 @@ ns.cdns.ch
 ns.chalet-bettmeralp.ch
 ns.chrobot.ch
 ns.chroot.ch
+ns.cirrax.ch
 ns.claubscher.ch
 ns.claudineetpierre.ch
 ns.clickpoint.ch
@@ -1564,7 +1565,6 @@ ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
-ns1.dynanet.ch
 ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
@@ -1808,7 +1808,6 @@ ns1.furrerundpartner.ch
 ns1.futurelab.ch
 ns1.futureweb.ch
 ns1.futurio.ch
-ns1.fvab.ch
 ns1.fwg-ba.ch
 ns1.g-web.ch
 ns1.gabit.ch
@@ -2274,7 +2273,6 @@ ns1.jufri.ch
 ns1.julianails.ch
 ns1.jumedia.ch
 ns1.juwgab.ch
-ns1.jvab.ch
 ns1.jvweb.ch
 ns1.kaesgate.ch
 ns1.kafiwerk.ch
@@ -2869,6 +2867,7 @@ ns1.out.ch
 ns1.overrea.ch
 ns1.ovx.ch
 ns1.owcd.ch
+ns1.owebdesign.ch
 ns1.ownspace.ch
 ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
@@ -4900,7 +4899,6 @@ ns2.dur.ch
 ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
-ns2.dynanet.ch
 ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
@@ -5135,7 +5133,6 @@ ns2.funktionierts.ch
 ns2.furrerundpartner.ch
 ns2.futureweb.ch
 ns2.futurio.ch
-ns2.fvab.ch
 ns2.fwg-ba.ch
 ns2.g-web.ch
 ns2.gabit.ch
@@ -5590,7 +5587,6 @@ ns2.jufri.ch
 ns2.julianails.ch
 ns2.jumedia.ch
 ns2.juwgab.ch
-ns2.jvab.ch
 ns2.jvweb.ch
 ns2.kaesgate.ch
 ns2.kajendran.ch
@@ -6144,6 +6140,7 @@ ns2.outback.ch
 ns2.overrea.ch
 ns2.ovx.ch
 ns2.owcd.ch
+ns2.owebdesign.ch
 ns2.ownspace.ch
 ns2.oxyhelp.ch
 ns2.oyez-oyez.ch

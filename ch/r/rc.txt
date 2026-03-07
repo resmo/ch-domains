@@ -119,6 +119,7 @@ rc-import.ch
 rc-indoorbahn.ch
 rc-industries.ch
 rc-ingenierie.ch
+rc-innerschweiz.ch
 rc-it.ch
 rc-kies.ch
 rc-kirchberg.ch
@@ -154,6 +155,7 @@ rc-modellflugzeug.ch
 rc-modellsegeln.ch
 rc-modellshop.ch
 rc-modelshop.ch
+rc-motodrom.ch
 rc-motorboot.ch
 rc-motors.ch
 rc-mtv.ch
@@ -184,7 +186,6 @@ rc-racing-club.ch
 rc-racing-team.ch
 rc-reacasa.ch
 rc-redliwil.ch
-rc-renovation.ch
 rc-renovationen.ch
 rc-reuss.ch
 rc-review-card.ch

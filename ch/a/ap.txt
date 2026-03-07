@@ -1374,6 +1374,8 @@ apexparts.ch
 apexperf.ch
 apexperformance.ch
 apexperformancecenter.ch
+apexphysio.ch
+apexphysiotherapy.ch
 apexportcars.ch
 apexpro-concordat.ch
 apexpro.ch
@@ -5115,6 +5117,7 @@ appiacontract.ch
 appiani.ch
 appianos.ch
 appic.ch
+appicina.ch
 appick.ch
 appidev.ch
 appie.ch
@@ -5419,7 +5422,6 @@ application-hosting.ch
 application-kaltas.ch
 application-lab.ch
 application-mobile.ch
-application-modernization.ch
 application-suisse.ch
 application-systems.ch
 application.ch

@@ -331,6 +331,7 @@ doc-flow.ch
 doc-flows.ch
 doc-for-pro.ch
 doc-garage.ch
+doc-gen.ch
 doc-gin.ch
 doc-gpt.ch
 doc-harder.ch
@@ -417,7 +418,6 @@ docabo.ch
 docacademy.ch
 docaccounting.ch
 docacuisines.ch
-docademy.ch
 docadix.ch
 docadom.ch
 docadvisor.ch
@@ -439,6 +439,7 @@ docandcare.ch
 docandor.ch
 docandpost.ch
 docanimal.ch
+docanto.ch
 docap.ch
 docapo.ch
 docapp.ch
@@ -1369,7 +1370,6 @@ documedica.ch
 documedinfo.ch
 documedis.ch
 document-automation.ch
-document-creation-server.ch
 document-creation.ch
 document-foundation.ch
 document-intelligence.ch
@@ -1384,7 +1384,6 @@ document-retrieval.ch
 document-server.ch
 document-signing.ch
 document-technology.ch
-document-workflow.ch
 document.ch
 document24.ch
 document2print.ch
@@ -1447,6 +1446,7 @@ docunity.ch
 docunize.ch
 docup.ch
 docupass.ch
+docupay.ch
 docuphot.ch
 docupier.ch
 docupit.ch
@@ -1700,7 +1700,6 @@ dodokebap-stgallen.ch
 dodol.ch
 dodole.ch
 dodolock.ch
-dodomargot.ch
 dodomassage.ch
 dodomassages.ch
 dodomeroni.ch
@@ -3786,6 +3785,7 @@ dokumenten-safe.ch
 dokumenten-scanning.ch
 dokumenten-verwaltung.ch
 dokumentenablage.ch
+dokumentenarchivierung.ch
 dokumentenbox.ch
 dokumentengenerator.ch
 dokumentenkanzlei.ch
@@ -3818,6 +3818,7 @@ dokumenty.ch
 dokumenzi.ch
 dokunet.ch
 dokupass.ch
+dokupay.ch
 dokuphot.ch
 dokupit.ch
 dokuprint.ch
@@ -4533,6 +4534,7 @@ dolunogmbh.ch
 dolutegravir.ch
 dolux.ch
 doly.ch
+dolya.ch
 dolysduftkerzen.ch
 dolzanbetonkosmetik.ch
 dolzer.ch
@@ -5993,7 +5995,6 @@ domi-syl.ch
 domi-thalmann.ch
 domi-works.ch
 domi-zihl.ch
-domi-zoe.ch
 domi.ch
 domi77.ch
 domia-immo.ch
@@ -7265,6 +7266,7 @@ domo-dorm.ch
 domo-elektro.ch
 domo-energie.ch
 domo-energies.ch
+domo-entwicklungen.ch
 domo-express.ch
 domo-fotos.ch
 domo-gourmet.ch
@@ -9101,7 +9103,6 @@ doppelklick.ch
 doppelklicker.ch
 doppelknoten.ch
 doppelkopf.ch
-doppelkreis.ch
 doppelkupplungsgetriebe.ch
 doppelleben.ch
 doppelleu-boxer.ch
@@ -11525,8 +11526,6 @@ dotmugs.ch
 dotnet-academy.ch
 dotnet-beratung.ch
 dotnet-bern.ch
-dotnet-developers.ch
-dotnet-engineers.ch
 dotnet-training.ch
 dotnet-zentral.ch
 dotnet-zurich.ch
@@ -11534,8 +11533,6 @@ dotnet.ch
 dotnetarchitekt.ch
 dotnetcorner.ch
 dotnetday.ch
-dotnetdevelopers.ch
-dotnetengineers.ch
 dotnetfreelancer.ch
 dotnethost.ch
 dotnethosting.ch
@@ -12076,7 +12073,6 @@ dougoud.ch
 dougoudsa.ch
 dougpotter.ch
 dougwei.ch
-dougycare.ch
 douillard.ch
 douillet.ch
 douilletconsulting.ch

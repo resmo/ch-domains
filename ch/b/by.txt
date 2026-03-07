@@ -265,6 +265,7 @@ byd-car.ch
 byd-cars.ch
 byd-center.ch
 byd-chauxdefonds.ch
+byd-denza.ch
 byd-ev.ch
 byd-fila.ch
 byd-freienbach.ch
@@ -279,15 +280,18 @@ byd-lausanne.ch
 byd-motors.ch
 byd-neuchatel.ch
 byd-olten.ch
+byd-ostschweiz.ch
 byd-pratteln.ch
 byd-remetschwil.ch
 byd-schwaller.ch
 byd-schweiz.ch
 byd-schwyz.ch
 byd-seeregion.ch
+byd-sg.ch
 byd-shop.ch
 byd-solar.ch
 byd-solothurn.ch
+byd-stgallen.ch
 byd-suisse.ch
 byd-swiss.ch
 byd-truck.ch
@@ -602,7 +606,6 @@ bylr.ch
 bylse.ch
 bylt.ch
 bylu.ch
-byludwig.ch
 byluigia.ch
 bylunessence.ch
 bylvay.ch
