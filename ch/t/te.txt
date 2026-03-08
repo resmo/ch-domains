@@ -600,7 +600,6 @@ team-lafermedesmoulins.ch
 team-landschaft.ch
 team-lantretemps.ch
 team-larsen.ch
-team-lasuisse.ch
 team-laube.ch
 team-leadership.ch
 team-leder.ch
@@ -639,6 +638,7 @@ team-mero.ch
 team-milu-says-yes.ch
 team-mind.ch
 team-mitchabou.ch
+team-mk.ch
 team-mohler.ch
 team-mohrmann.ch
 team-monadmin.ch
@@ -785,7 +785,6 @@ team-stream.ch
 team-stucki.ch
 team-suisse.ch
 team-sunneschyn.ch
-team-svizra.ch
 team-svp.ch
 team-sw.ch
 team-swiss-icc-2027.ch
@@ -829,6 +828,7 @@ team-viny-bjj.ch
 team-vision.ch
 team-vorwaerts.ch
 team-voutaz.ch
+team-vuilleumier.ch
 team-w-informatik.ch
 team-w.ch
 team-wackelzahn.ch
@@ -2282,6 +2282,7 @@ teazaric.ch
 teazer.ch
 teazerland.ch
 teazr.ch
+teb-ai.ch
 teb-fillment.ch
 teb-jouets.ch
 teb.ch
@@ -2337,6 +2338,7 @@ tebook24.ch
 tebookstore24.ch
 tebor.ch
 tebra.ch
+tebraep.ch
 tebrag.ch
 tebrake.ch
 tebramil.ch
@@ -4726,7 +4728,6 @@ techybecky.ch
 techydro.ch
 techygiene.ch
 techyo.ch
-techzen.ch
 techzenter-reinach.ch
 techzenterreinach.ch
 techzh-ag.ch
@@ -7210,6 +7211,7 @@ teleenergia.ch
 teleevolene.ch
 telefabi.ch
 telefax.ch
+telefaxen.ch
 telefeeric.ch
 teleferica-croveggia.ch
 telefil.ch
@@ -8642,7 +8644,6 @@ tellsauna.ch
 tellsbells.ch
 tellscale.ch
 tellschnitt.ch
-tellsearch.ch
 tellsgarten.ch
 tellsgeschoss.ch
 tellsguide.ch
@@ -9787,6 +9788,7 @@ tenbos.ch
 tenbrinke.ch
 tenbuminmen.ch
 tenbythen.ch
+tencal.ch
 tencare.ch
 tencate-sport.ch
 tencategeo.ch
@@ -12310,7 +12312,6 @@ terra-master.ch
 terra-med.ch
 terra-metal-invest.ch
 terra-mia.ch
-terra-mineral.ch
 terra-monitoring.ch
 terra-motion.ch
 terra-nature-store.ch
@@ -13509,6 +13510,7 @@ terreetlumiere.ch
 terreetmer.ch
 terreetnature.ch
 terreetserregenevoises.ch
+terreetsoleil.ch
 terreexcellence.ch
 terreexotique.ch
 terrefamiglia.ch
@@ -14048,7 +14050,6 @@ tesla-antenne.ch
 tesla-anwalt.ch
 tesla-archiv.ch
 tesla-autoankauf.ch
-tesla-autofahrschule.ch
 tesla-autozubehoer.ch
 tesla-batterie.ch
 tesla-beratung.ch
@@ -14072,7 +14073,6 @@ tesla-ersatzteile.ch
 tesla-events.ch
 tesla-facts.ch
 tesla-fahrlehrer.ch
-tesla-fahrschule-zuerich.ch
 tesla-fahrschule.ch
 tesla-fahrwerk.ch
 tesla-folieren.ch
@@ -14676,6 +14676,7 @@ test-dich.ch
 test-disc.ch
 test-dm.ch
 test-dmarc-dev-workspace-test.ch
+test-domain-check-123.ch
 test-domain-test.ch
 test-domain.ch
 test-dreyfusbank.ch
