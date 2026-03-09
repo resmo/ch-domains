@@ -77,7 +77,6 @@ ns-ti.ch
 ns-training.ch
 ns-weeber.ch
 ns.0daysober.ch
-ns.1.baucampus.ch
 ns.3dsupplies.ch
 ns.4mybaby-blog.ch
 ns.4mybabyag.ch
@@ -515,7 +514,6 @@ ns0.7asecond.ch
 ns0.barracudadesign.ch
 ns0.bscloud.ch
 ns0.calnet.ch
-ns0.cantusnet.ch
 ns0.ch
 ns0.cxg.ch
 ns0.damlok.ch
@@ -977,7 +975,6 @@ ns1.barmettler-ict-hosting.ch
 ns1.basel-landschaft.ch
 ns1.basler.ch
 ns1.basx.ch
-ns1.baucampus.ch
 ns1.bauern-portal.ch
 ns1.bauernportal.ch
 ns1.baumer.ch
@@ -1178,7 +1175,6 @@ ns1.campus42.ch
 ns1.campusequipment.ch
 ns1.canberg.ch
 ns1.cantinedigitale.ch
-ns1.cantusnet.ch
 ns1.capex.ch
 ns1.captns.ch
 ns1.caracal.ch
@@ -1436,7 +1432,6 @@ ns1.deinhost.ch
 ns1.delfdalf-test.ch
 ns1.delfdalf.ch
 ns1.delic-it.ch
-ns1.delic.ch
 ns1.delit.ch
 ns1.dellacasameride.ch
 ns1.deltasrv.ch
@@ -1475,6 +1470,7 @@ ns1.dietsch-web.ch
 ns1.diffinco.ch
 ns1.digibisch-dz.ch
 ns1.digibisch-ks.ch
+ns1.digiestate.ch
 ns1.digimen.ch
 ns1.digint.ch
 ns1.digio.ch
@@ -1634,7 +1630,6 @@ ns1.emation.ch
 ns1.emilfrey.ch
 ns1.emmewebhosting.ch
 ns1.emmi.ch
-ns1.emps.ch
 ns1.endl.ch
 ns1.englishagogo.ch
 ns1.engstringen.ch
@@ -2635,6 +2630,7 @@ ns1.mrpage.ch
 ns1.ms-operation.ch
 ns1.ms-swiss.ch
 ns1.msd-informatik.ch
+ns1.msdomain.ch
 ns1.mso.ch
 ns1.msp-creative.ch
 ns1.mtcomp.ch
@@ -2950,7 +2946,6 @@ ns1.pihosting.ch
 ns1.pimp-your-web-ag.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
-ns1.pinet.ch
 ns1.pinkbox.ch
 ns1.pinklemon.ch
 ns1.pintarelli.ch
@@ -3042,7 +3037,6 @@ ns1.profilbauglas.ch
 ns1.progest.ch
 ns1.progitec2.ch
 ns1.progressive.ch
-ns1.prohosting.ch
 ns1.projectrosling.ch
 ns1.projugendschutz.ch
 ns1.promahnmal.ch
@@ -3667,7 +3661,6 @@ ns1.treff24.ch
 ns1.trekking-switzerland.ch
 ns1.trendpoint.ch
 ns1.trendwerk.ch
-ns1.trevalli.ch
 ns1.tricontego.ch
 ns1.trimm.ch
 ns1.trinitycollege.ch
@@ -4337,7 +4330,6 @@ ns2.barium.ch
 ns2.barmettler-ict-hosting.ch
 ns2.basler.ch
 ns2.basx.ch
-ns2.baucampus.ch
 ns2.bauern-portal.ch
 ns2.bauernportal.ch
 ns2.baumer.ch
@@ -4783,7 +4775,6 @@ ns2.deinhost.ch
 ns2.delfdalf-test.ch
 ns2.delfdalf.ch
 ns2.delic-it.ch
-ns2.delic.ch
 ns2.delit.ch
 ns2.dellacasameride.ch
 ns2.deltasrv.ch
@@ -4814,6 +4805,7 @@ ns2.didacus.ch
 ns2.dieberufung.ch
 ns2.diethelm-informatik.ch
 ns2.dietsch-web.ch
+ns2.digiestate.ch
 ns2.digimen.ch
 ns2.digint.ch
 ns2.digio.ch
@@ -4960,7 +4952,6 @@ ns2.emation.ch
 ns2.emilfrey.ch
 ns2.emmewebhosting.ch
 ns2.emmi.ch
-ns2.emps.ch
 ns2.endl.ch
 ns2.englishagogo.ch
 ns2.engstringen.ch
@@ -5921,6 +5912,7 @@ ns2.ms-operation.ch
 ns2.ms-swiss.ch
 ns2.msa-net.ch
 ns2.msd-informatik.ch
+ns2.msdomain.ch
 ns2.mso.ch
 ns2.msp-creative.ch
 ns2.msrv.ch
@@ -6212,7 +6204,6 @@ ns2.pihosting.ch
 ns2.pimp-your-web-ag.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
-ns2.pinet.ch
 ns2.pinkbox.ch
 ns2.pinklemon.ch
 ns2.pintarelli.ch
@@ -6304,7 +6295,6 @@ ns2.progest.ch
 ns2.progitec2.ch
 ns2.programm.ch
 ns2.progressive.ch
-ns2.prohosting.ch
 ns2.projectrosling.ch
 ns2.projugendschutz.ch
 ns2.promahnmal.ch
@@ -6922,7 +6912,6 @@ ns2.treff24.ch
 ns2.trekking-switzerland.ch
 ns2.trendpoint.ch
 ns2.trendwerk.ch
-ns2.trevalli.ch
 ns2.tricontego.ch
 ns2.trimm.ch
 ns2.trinitycollege.ch

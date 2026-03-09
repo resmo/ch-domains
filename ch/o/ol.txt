@@ -697,6 +697,7 @@ oldtimer-arena.ch
 oldtimer-atelier.ch
 oldtimer-auction.ch
 oldtimer-auktion.ch
+oldtimer-ausfahrt.ch
 oldtimer-ausflug.ch
 oldtimer-ausstellung.ch
 oldtimer-auto.ch
@@ -722,7 +723,6 @@ oldtimer-check.ch
 oldtimer-chur.ch
 oldtimer-club-aarberg.ch
 oldtimer-club-seedorf.ch
-oldtimer-club.ch
 oldtimer-drive.ch
 oldtimer-entfeuchten.ch
 oldtimer-ersatzteile.ch
@@ -866,6 +866,7 @@ oldtimerauction.ch
 oldtimeraufbereitung.ch
 oldtimeraufbereitungen.ch
 oldtimerauktion.ch
+oldtimerausfahrt.ch
 oldtimerausfahrten.ch
 oldtimerauto.ch
 oldtimerautos.ch
@@ -3259,7 +3260,6 @@ olsdrive.ch
 olsen-reisen.ch
 olsen-traductions.ch
 olsen.ch
-olsenandg.ch
 olsenfashion.ch
 olsenreisen.ch
 olservice.ch

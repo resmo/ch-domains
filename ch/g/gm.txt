@@ -14,7 +14,6 @@ gm-autoteile.ch
 gm-av.ch
 gm-balance.ch
 gm-bau.ch
-gm-beschichtungstechnik.ch
 gm-bracket.ch
 gm-cabinet.ch
 gm-camper.ch
@@ -25,6 +24,7 @@ gm-code.ch
 gm-com.ch
 gm-communication.ch
 gm-connect.ch
+gm-construction.ch
 gm-consulting.ch
 gm-cosmetics.ch
 gm-curatelle.ch
@@ -143,6 +143,7 @@ gmaii.ch
 gmail-shortcuts.ch
 gmail.ch
 gmailbuzz.ch
+gmailer.ch
 gmailify.ch
 gmaill.ch
 gmails.ch
