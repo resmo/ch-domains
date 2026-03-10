@@ -416,8 +416,6 @@ ctplan.ch
 ctpm-lab.ch
 ctpm-labs.ch
 ctpm.ch
-ctpmi.ch
-ctpmintl.ch
 ctpmlab.ch
 ctpmlabs.ch
 ctps.ch
@@ -489,6 +487,7 @@ ctrld.ch
 ctrldata.ch
 ctrlelectrique.ch
 ctrlg.ch
+ctrlgoal.ch
 ctrlgroup.ch
 ctrlhelp.ch
 ctrlm.ch

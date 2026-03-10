@@ -29,7 +29,6 @@ mx-parts.ch
 mx-print.ch
 mx-schlatt.ch
 mx-scooter.ch
-mx-select.ch
 mx-server.ch
 mx-smarthost.ch
 mx-store.ch
@@ -167,8 +166,6 @@ mxrs.ch
 mxs.ch
 mxsave.ch
 mxscooter.ch
-mxselect-fitness.ch
-mxselect-hantel.ch
 mxselect.ch
 mxsend.ch
 mxserver.ch

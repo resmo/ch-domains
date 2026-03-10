@@ -200,7 +200,6 @@ ns.erne-challenge.ch
 ns.erne-plus.ch
 ns.erne-viva.ch
 ns.erneshop.ch
-ns.erotik-online-shop.ch
 ns.esbussigny.ch
 ns.escapade.ch
 ns.estrella-design.ch
@@ -514,6 +513,7 @@ ns0.7asecond.ch
 ns0.barracudadesign.ch
 ns0.bscloud.ch
 ns0.calnet.ch
+ns0.cantusnet.ch
 ns0.ch
 ns0.cxg.ch
 ns0.damlok.ch
@@ -1005,6 +1005,7 @@ ns1.beautysecret.ch
 ns1.bedag.ch
 ns1.bedv.ch
 ns1.bego24.ch
+ns1.beiden-renovations.ch
 ns1.bejagroup.ch
 ns1.belisoft.ch
 ns1.bellini.ch
@@ -1175,6 +1176,7 @@ ns1.campus42.ch
 ns1.campusequipment.ch
 ns1.canberg.ch
 ns1.cantinedigitale.ch
+ns1.cantusnet.ch
 ns1.capex.ch
 ns1.captns.ch
 ns1.caracal.ch
@@ -1341,7 +1343,6 @@ ns1.crater.ch
 ns1.crb.ch
 ns1.cre8.ch
 ns1.creacom-it.ch
-ns1.creadom.ch
 ns1.creancia.ch
 ns1.creativ-web.ch
 ns1.creative-business-support.ch
@@ -1894,6 +1895,7 @@ ns1.graessle.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
 ns1.grb-renovation.ch
+ns1.grd-renovation.ch
 ns1.gregorich.ch
 ns1.grellhost.ch
 ns1.gretlerintermedia.ch
@@ -2197,6 +2199,7 @@ ns1.it-interim.ch
 ns1.it-netx.ch
 ns1.it-worx.ch
 ns1.itaca.ch
+ns1.itadvanced.ch
 ns1.itapps.ch
 ns1.itautomate.ch
 ns1.itc-host.ch
@@ -2621,6 +2624,7 @@ ns1.mountaincloud.ch
 ns1.movehosting.ch
 ns1.movie2go.ch
 ns1.mowgli.ch
+ns1.mp-renovations.ch
 ns1.mpch.ch
 ns1.mphotos.ch
 ns1.mpk.ch
@@ -2901,6 +2905,7 @@ ns1.payroll-24.ch
 ns1.paysanssuisses.ch
 ns1.pbxhome.ch
 ns1.pc-fritz.ch
+ns1.pc-peinture-renovation.ch
 ns1.pcdog.ch
 ns1.pcguy.ch
 ns1.pchilfe-murten.ch
@@ -3162,6 +3167,7 @@ ns1.riniu.ch
 ns1.riono.ch
 ns1.ripe-domains.ch
 ns1.ripz.ch
+ns1.ritns.ch
 ns1.rivalution.ch
 ns1.rivejob.ch
 ns1.rixs.ch
@@ -4006,6 +4012,7 @@ ns1.zumweb.ch
 ns1.zuppi.ch
 ns1.zweibit.ch
 ns1.zwergenfeste.ch
+ns1.zwiebelring.ch
 ns1.zylstra.ch
 ns1.zynex.ch
 ns10.akb.ch
@@ -4360,6 +4367,7 @@ ns2.beautysecret.ch
 ns2.bedag.ch
 ns2.bedv.ch
 ns2.bego24.ch
+ns2.beiden-renovations.ch
 ns2.bejagroup.ch
 ns2.belisoft.ch
 ns2.belke-bodenbelaege.ch
@@ -5208,6 +5216,7 @@ ns2.graessle.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
 ns2.grb-renovation.ch
+ns2.grd-renovation.ch
 ns2.greatsite.ch
 ns2.gregorich.ch
 ns2.grellhost.ch
@@ -5505,6 +5514,7 @@ ns2.it-interim.ch
 ns2.it-netx.ch
 ns2.it-worx.ch
 ns2.itaca.ch
+ns2.itadvanced.ch
 ns2.itapps.ch
 ns2.itautomate.ch
 ns2.itc-host.ch
@@ -5901,6 +5911,7 @@ ns2.mountain.ch
 ns2.mountaincloud.ch
 ns2.movehosting.ch
 ns2.movie2go.ch
+ns2.mp-renovations.ch
 ns2.mpch.ch
 ns2.mphotos.ch
 ns2.mpk.ch
@@ -6160,6 +6171,7 @@ ns2.payroll-24.ch
 ns2.paysanssuisses.ch
 ns2.pbxhome.ch
 ns2.pc-fritz.ch
+ns2.pc-peinture-renovation.ch
 ns2.pcdog.ch
 ns2.pcguy.ch
 ns2.pchilfe-murten.ch
@@ -6412,6 +6424,7 @@ ns2.riniu.ch
 ns2.riono.ch
 ns2.ripe-domains.ch
 ns2.ripz.ch
+ns2.ritns.ch
 ns2.rivalution.ch
 ns2.rivejob.ch
 ns2.rixs.ch
@@ -7244,6 +7257,7 @@ ns2.zumweb.ch
 ns2.zuppi.ch
 ns2.zweibit.ch
 ns2.zwergenfeste.ch
+ns2.zwiebelring.ch
 ns2.zylstra.ch
 ns2.zynex.ch
 ns20.cbm.ch
@@ -7860,6 +7874,7 @@ ns3.rhserver.ch
 ns3.ria.ch
 ns3.righter.ch
 ns3.riono.ch
+ns3.ritns.ch
 ns3.rixs.ch
 ns3.rksconsulting.ch
 ns3.roe.ch
@@ -8056,6 +8071,7 @@ ns3.zhost.ch
 ns3.ziegelei-schumacher.ch
 ns3.zug94.ch
 ns3.zugnet.ch
+ns3.zwiebelring.ch
 ns30.inaya.ch
 ns30.kbsd.ch
 ns31.maxschaer.ch
@@ -8263,6 +8279,7 @@ ns4.pulseflow.ch
 ns4.purecloud.ch
 ns4.rcp.ch
 ns4.rhone.ch
+ns4.ritns.ch
 ns4.rorotec.ch
 ns4.rpm-it.ch
 ns4.rudareanu.ch
@@ -8324,6 +8341,7 @@ ns4.your-web.ch
 ns4.zeedivision.ch
 ns4.zhost.ch
 ns4.zugnet.ch
+ns4.zwiebelring.ch
 ns40.kbsd.ch
 ns41.thelin.ch
 ns42.another.ch

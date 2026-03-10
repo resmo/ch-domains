@@ -541,6 +541,7 @@ tableart.ch
 tableau-blanc.ch
 tableau-des-fanfares.ch
 tableau-electrique.ch
+tableau-sur-commande.ch
 tableau-x.ch
 tableau.ch
 tableaubau.ch
@@ -1247,6 +1248,7 @@ tacticalcare.ch
 tacticalcombatacademy.ch
 tacticalcombatfitness.ch
 tacticalcordswitzerland.ch
+tacticaldays.ch
 tacticaldefence-academy.ch
 tacticaldefencesystem.ch
 tacticaldesign.ch
@@ -1527,6 +1529,7 @@ taekwondo-bs.ch
 taekwondo-buelach.ch
 taekwondo-bulle.ch
 taekwondo-crissier.ch
+taekwondo-defence.ch
 taekwondo-defense-schweiz.ch
 taekwondo-defense-uster.ch
 taekwondo-defense.ch
@@ -1562,6 +1565,7 @@ taekwondo-zug.ch
 taekwondo.ch
 taekwondoacademy.ch
 taekwondobern.ch
+taekwondodefence.ch
 taekwondodefense.ch
 taekwondoglarus.ch
 taekwondogom.ch
@@ -2887,7 +2891,6 @@ tahiri.ch
 tahiriag.ch
 tahirpardhan.ch
 tahirukaj.ch
-tahiti-club.ch
 tahiti-noni.ch
 tahiti-sun-colarium.ch
 tahiti-sun-collarium.ch
@@ -3770,6 +3773,7 @@ takeitdown.ch
 takeiteasy.ch
 takeitezi.ch
 takeitnow.ch
+takeitormakeit.ch
 takeitpersonal.ch
 takeitswissyou.ch
 takel-ag.ch
@@ -3955,6 +3959,7 @@ takomapeinture.ch
 takomm.ch
 takommy.ch
 takomo.ch
+takoo.ch
 takoresear.ch
 takoscha.ch
 takotak.ch
@@ -5319,6 +5324,7 @@ talwinder.ch
 talwogne.ch
 talx.ch
 taly.ch
+talynor.ch
 talyra.ch
 talyshair.ch
 talyvo-dev.ch
@@ -6526,6 +6532,7 @@ tangi.ch
 tangibleart-project.ch
 tangibleart.ch
 tangibleminute.ch
+tangiblestudio.ch
 tangiers.ch
 tangin.ch
 tangipix.ch
@@ -9953,7 +9960,6 @@ tarcheck.ch
 tarchi.ch
 tarchini-consulting.ch
 tarchini-eng.ch
-tarchini-maler.ch
 tarchini-studio.ch
 tarchiniconsulting.ch
 tarchinieng.ch
@@ -10765,6 +10771,7 @@ tarzan.ch
 tarzanadventure.ch
 tarzanadventuremovie.ch
 tarzaning.ch
+tarzanjane.ch
 tarzantaxi.ch
 tarzanundgin.ch
 tarzanundjane.ch
@@ -10784,6 +10791,7 @@ tas-assistance.ch
 tas-assistenza.ch
 tas-assurance.ch
 tas-assurances.ch
+tas-automation-gmbh.ch
 tas-cas.ch
 tas-factoryshop.ch
 tas-fsa.ch
@@ -10968,7 +10976,6 @@ taschli.ch
 taschweiz.ch
 tasci-brille.ch
 tasci-elektrokontrollen.ch
-tasci-kundenmaler.ch
 tasci-soundscapes.ch
 tasciences.ch
 tasclab.ch
@@ -12072,6 +12079,7 @@ tatschner.ch
 tatsiana.ch
 tatsli-shop.ch
 tatsli.ch
+tatstrash.ch
 tatsu.ch
 tatsudojo.ch
 tatsupaysage.ch
@@ -12487,7 +12495,6 @@ tattootime.ch
 tattootools.ch
 tattootv.ch
 tattoov-wohlen.ch
-tattoov.ch
 tattooverband.ch
 tattooville.ch
 tattoovorlage.ch
@@ -13311,6 +13318,7 @@ taux24.ch
 tauxbas.ch
 tauxchange.ch
 tauxdechange.ch
+tauxdetestosterone.ch
 tauxdujour.ch
 tauxe.ch
 tauxfrontalier.ch
@@ -13499,6 +13507,7 @@ tavmotro.ch
 tavneos.ch
 tavo-shop.ch
 tavo.ch
+tavofami.ch
 tavoiture.ch
 tavoix.ch
 tavola-calda.ch
@@ -14312,6 +14321,7 @@ taxi-limousinen.ch
 taxi-lines.ch
 taxi-littau.ch
 taxi-local.ch
+taxi-locarno.ch
 taxi-loran-chur.ch
 taxi-louis.ch
 taxi-lowcost-lausanne.ch
@@ -15047,7 +15057,6 @@ taxilausanne.ch
 taxilausanne24.ch
 taxilausanneexpress.ch
 taxilausannepro.ch
-taxilausannois.ch
 taxilausen.ch
 taxilavaux.ch
 taxileitstelle.ch
@@ -15075,7 +15084,6 @@ taxilink.ch
 taxilinkticino.ch
 taxilitolenzerheide.ch
 taxilocal-biel-bienne.ch
-taxilocal.ch
 taxilocarnese.ch
 taxilocarno.ch
 taxilocarno24.ch
@@ -15321,6 +15329,7 @@ taxirufsg.ch
 taxis-24.ch
 taxis-624.ch
 taxis-aba.ch
+taxis-aigle.ch
 taxis-basel.ch
 taxis-bern.ch
 taxis-central.ch
@@ -15777,6 +15786,7 @@ taxprofi.ch
 taxprofi24.ch
 taxprolink.ch
 taxpunkt.ch
+taxr.ch
 taxrate.ch
 taxre.ch
 taxready.ch
@@ -15929,7 +15939,6 @@ tayeh.ch
 tayfa.ch
 tayfun-iriz.ch
 tayfun.ch
-tayfuncars.ch
 tayga8.ch
 taygeta.ch
 taygete.ch

@@ -169,7 +169,6 @@ mk-tech.ch
 mk-textildruck.ch
 mk-therapie.ch
 mk-ticinosecurity.ch
-mk-trading.ch
 mk-training.ch
 mk-travelgroup.ch
 mk-treuhand.ch
@@ -181,6 +180,7 @@ mk-umzug.ch
 mk-universal.ch
 mk-universe.ch
 mk-unternehmungen.ch
+mk-ventures.ch
 mk-versaflex.ch
 mk-verwaltungen.ch
 mk-vordenker.ch
@@ -265,6 +265,7 @@ mkbk-zh.ch
 mkbk.ch
 mkbmotorsport.ch
 mkbodenbelaege.ch
+mkbusiness-consulting.ch
 mkc-coaching.ch
 mkc-consulting.ch
 mkc-fitness.ch
@@ -685,11 +686,11 @@ mkv.ch
 mkv2024.ch
 mkvag.ch
 mkvcinemas.ch
+mkventures.ch
 mkverein.ch
 mkverwaltungen.ch
 mkviaggi.ch
 mkvision-marketing.ch
-mkvision.ch
 mkvo.ch
 mkvsg.ch
 mkw-abo.ch

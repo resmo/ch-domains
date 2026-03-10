@@ -545,7 +545,6 @@ usedcarroadshow.ch
 usedcars.ch
 usedclothes.ch
 usedclothing.ch
-usedequipment.ch
 usedequipmentsales.ch
 usedheavy.ch
 usedmachines.ch
@@ -1467,6 +1466,7 @@ ustria-miraval.ch
 ustria-mundaun.ch
 ustriadallaposta.ch
 ustrialacauma.ch
+ustrialumerins.ch
 ustrias.ch
 ustriasiat.ch
 ustriastaziun.ch
