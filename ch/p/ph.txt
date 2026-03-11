@@ -77,7 +77,6 @@ ph-sz.ch
 ph-test.ch
 ph-thurgau.ch
 ph-ugolini.ch
-ph-v.ch
 ph-vin.ch
 ph-vs.ch
 ph-webagenten.ch
@@ -109,6 +108,7 @@ ph7-cleanup.ch
 ph7.ch
 ph7os.ch
 ph8.ch
+ph87.ch
 ph9.ch
 pha-gen.ch
 pha.ch
@@ -6188,7 +6188,6 @@ phpprogrammierung.ch
 phpr.ch
 phprod.ch
 phprog.ch
-phps.ch
 phpspezialist.ch
 phpu.ch
 phpug.ch
@@ -8529,6 +8528,8 @@ physioegge.ch
 physioegli.ch
 physioehrendingen.ch
 physioeichberg.ch
+physioeichhof.ch
+physioeichhofwest.ch
 physioeinsiedeln.ch
 physioela.ch
 physioelena.ch
@@ -10359,6 +10360,8 @@ physiotherapiedomicile.ch
 physiotherapiedomizil.ch
 physiotherapieduchateau.ch
 physiotherapieduebendorf.ch
+physiotherapieeichhof.ch
+physiotherapieeichhofwest.ch
 physiotherapieeinsiedeln.ch
 physiotherapieerpen.ch
 physiotherapiefalk.ch

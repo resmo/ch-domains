@@ -19,6 +19,7 @@ ns-a.workaround.ch
 ns-advancement.ch
 ns-anycast1.hostpoint.ch
 ns-anycast2.hostpoint.ch
+ns-automobile.ch
 ns-automobiles.ch
 ns-b.hohenegg.ch
 ns-b.pillo-srv.ch
@@ -954,7 +955,6 @@ ns1.bach-streaming.ch
 ns1.bachmann-bbb.ch
 ns1.backbone.ch
 ns1.backmail.ch
-ns1.backslash.ch
 ns1.baconniere.ch
 ns1.bader-hetzel.ch
 ns1.baeuerinnenportal.ch
@@ -1974,7 +1974,6 @@ ns1.hex-hochschule.ch
 ns1.hgcloud.ch
 ns1.hgw-it.ch
 ns1.hiddenprimary.ch
-ns1.hidemail.ch
 ns1.higaki.ch
 ns1.highdefinition.ch
 ns1.highway1.ch
@@ -2036,7 +2035,6 @@ ns1.hostorama.ch
 ns1.hostpiumedia.ch
 ns1.hostplace.ch
 ns1.hostplex.ch
-ns1.hostplexus.ch
 ns1.hostqender.ch
 ns1.hostserv.ch
 ns1.hostspot.ch
@@ -2199,7 +2197,6 @@ ns1.it-interim.ch
 ns1.it-netx.ch
 ns1.it-worx.ch
 ns1.itaca.ch
-ns1.itadvanced.ch
 ns1.itapps.ch
 ns1.itautomate.ch
 ns1.itc-host.ch
@@ -2657,7 +2654,6 @@ ns1.mvos.ch
 ns1.mx-academy.ch
 ns1.mx3hin.ch
 ns1.mxcloud.ch
-ns1.my-dns.ch
 ns1.my-doctor.ch
 ns1.my-namaste.ch
 ns1.my-soft.ch
@@ -3415,7 +3411,6 @@ ns1.sos-serrurier.ch
 ns1.sozihosting.ch
 ns1.space-web.ch
 ns1.spahan.ch
-ns1.spanischlernen.ch
 ns1.speakeron.ch
 ns1.speeddns.ch
 ns1.speedhosting.ch
@@ -4322,7 +4317,6 @@ ns2.bach-streaming.ch
 ns2.bachmann-bbb.ch
 ns2.backbone.ch
 ns2.backmail.ch
-ns2.backslash.ch
 ns2.baconniere.ch
 ns2.baeuerinnenportal.ch
 ns2.bagnoud.ch
@@ -4564,6 +4558,7 @@ ns2.cer.ch
 ns2.cernievillers.ch
 ns2.cf-vs.ch
 ns2.cfarm.ch
+ns2.cg-dns.ch
 ns2.cgicorner.ch
 ns2.ch
 ns2.chabbeypiller.ch
@@ -5291,7 +5286,6 @@ ns2.hess-treuhand.ch
 ns2.hgcloud.ch
 ns2.hgw-it.ch
 ns2.hiddenprimary.ch
-ns2.hidemail.ch
 ns2.higaki.ch
 ns2.highway1.ch
 ns2.highweb.ch
@@ -5352,7 +5346,6 @@ ns2.hostorama.ch
 ns2.hostpiumedia.ch
 ns2.hostplace.ch
 ns2.hostplex.ch
-ns2.hostplexus.ch
 ns2.hostpoint.ch
 ns2.hostqender.ch
 ns2.hostserv.ch
@@ -5514,7 +5507,6 @@ ns2.it-interim.ch
 ns2.it-netx.ch
 ns2.it-worx.ch
 ns2.itaca.ch
-ns2.itadvanced.ch
 ns2.itapps.ch
 ns2.itautomate.ch
 ns2.itc-host.ch
@@ -5947,7 +5939,6 @@ ns2.mvos.ch
 ns2.mw-design.ch
 ns2.mx-academy.ch
 ns2.mx3hin.ch
-ns2.my-dns.ch
 ns2.my-doctor.ch
 ns2.my-namaste.ch
 ns2.my-soft.ch
@@ -7346,7 +7337,6 @@ ns3.axuris.ch
 ns3.aytec.ch
 ns3.b23.ch
 ns3.babs2.ch
-ns3.backslash.ch
 ns3.bagnoud.ch
 ns3.bargnac.ch
 ns3.baumer.ch
@@ -7891,6 +7881,7 @@ ns3.sadns.ch
 ns3.samplezone.ch
 ns3.sarom.ch
 ns3.sbiz.ch
+ns3.sceur.ch
 ns3.schaeremedical.ch
 ns3.schlagerclub.ch
 ns3.schlierholz.ch

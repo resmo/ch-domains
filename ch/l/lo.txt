@@ -757,6 +757,7 @@ locale.ch
 locale11.ch
 localead.ch
 localeat.ch
+localeats.ch
 localement-suisse.ch
 localemployer.ch
 localendrier.ch
@@ -2887,7 +2888,6 @@ loeve.ch
 loevenbalk.ch
 loeveni.ch
 loevenich.ch
-loevents.ch
 loevjewelry.ch
 loevschall.ch
 loew-ag.ch
@@ -3672,6 +3672,7 @@ logementspourmigrants.ch
 logementssierre.ch
 logementsuisse.ch
 logementsvalais.ch
+logementvalais.ch
 logen-portendienst.ch
 logen.ch
 logendienst.ch
@@ -5110,7 +5111,6 @@ logotex.ch
 logotext.ch
 logotextil.ch
 logotextildruck.ch
-logotextile.ch
 logotheater.ch
 logothek.ch
 logotherapeia.ch
@@ -5680,7 +5680,6 @@ loiclang.ch
 loicledeunff.ch
 loiclimat-maintenant.ch
 loiclimat-oui.ch
-loicmancino.ch
 loicmauroy.ch
 loicmeillard.ch
 loicmonney.ch
@@ -7859,6 +7858,7 @@ lookfabulousforever.ch
 lookfantastic.ch
 lookforthebest.ch
 lookforthegood.ch
+lookforyou.ch
 lookgooddogood.ch
 lookgoodfeelbetter.ch
 lookhome.ch
@@ -8285,7 +8285,6 @@ loosern-korporation.ch
 loosero.ch
 looseroptik.ch
 looserpcsupport.ch
-looserroman.ch
 loosers.ch
 loosersoehne.ch
 looserwerbung.ch
@@ -8517,7 +8516,6 @@ loppis.ch
 loppisolten.ch
 loppmail.ch
 loppstudio.ch
-lopr.ch
 loprenoarchitectes.ch
 lopresor.ch
 lopresti-gips.ch
@@ -8832,6 +8830,7 @@ loredanaturchi.ch
 loredanaturelle.ch
 loredano.ch
 loredarealestate.ch
+loree-sierre.ch
 loree.ch
 loreecrissier.ch
 loreedejouxtens.ch
@@ -10260,6 +10259,7 @@ lothmann.ch
 lothmannparis.ch
 lothos.ch
 lothosoft.ch
+lothritsang.ch
 loti-saltfree.ch
 loti.ch
 loti2010.ch
@@ -12627,6 +12627,7 @@ loveubaby.ch
 loveudog.ch
 loveurbangolf.ch
 loveuself.ch
+loveva.ch
 lovevegan.ch
 lovevegas.ch
 lovevelo.ch
