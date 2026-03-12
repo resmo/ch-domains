@@ -697,8 +697,10 @@ axes4.ch
 axesa.ch
 axesag.ch
 axesante.ch
+axescheck.ch
 axesdt.ch
 axesevent.ch
+axesflip.ch
 axesforts.ch
 axesinfo.ch
 axeslab.ch
@@ -711,15 +713,18 @@ axess.ch
 axessa-immobilien.ch
 axessa.ch
 axessaimmobilien.ch
+axessense.ch
 axessinvest.ch
 axession.ch
 axesslab.ch
+axesslide.ch
 axessmanagement.ch
 axesso.ch
 axessonline.ch
 axessprint.ch
 axessrealestate.ch
 axessus.ch
+axesword.ch
 axesys.ch
 axet.ch
 axetape.ch
@@ -1051,7 +1056,6 @@ axitherm.ch
 axitmo.ch
 axitrack.ch
 axium-consulting.ch
-axium-group.ch
 axium.ch
 axiumconsult.ch
 axius-swiss.ch

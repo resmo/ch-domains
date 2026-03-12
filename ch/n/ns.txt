@@ -1882,7 +1882,6 @@ ns1.goldingerit.ch
 ns1.gomami.ch
 ns1.gomedia.ch
 ns1.gonogo.ch
-ns1.gonzalez-engineering.ch
 ns1.gonzalez-lim.ch
 ns1.good-tv.ch
 ns1.goodtv.ch
@@ -2978,6 +2977,7 @@ ns1.pocket-bike-center.ch
 ns1.pocze.ch
 ns1.podorepair.ch
 ns1.poids-plume.ch
+ns1.pointlabs.ch
 ns1.pointmail.ch
 ns1.poisson-suisse.ch
 ns1.poissondulac.ch
@@ -3097,6 +3097,7 @@ ns1.raetz-plaettli.ch
 ns1.railtour.ch
 ns1.railtronic.ch
 ns1.ralphschuler.ch
+ns1.ramona-webdesign.ch
 ns1.rampensau.ch
 ns1.rayhaan.ch
 ns1.razor.ch
@@ -3411,6 +3412,7 @@ ns1.sos-serrurier.ch
 ns1.sozihosting.ch
 ns1.space-web.ch
 ns1.spahan.ch
+ns1.spanischlernen.ch
 ns1.speakeron.ch
 ns1.speeddns.ch
 ns1.speedhosting.ch
@@ -3727,6 +3729,7 @@ ns1.vdata.ch
 ns1.veloroyal.ch
 ns1.venus-aviation.ch
 ns1.verabredung.ch
+ns1.verapet.ch
 ns1.vereinshosting.ch
 ns1.verges.ch
 ns1.verveweb.ch
@@ -5199,7 +5202,6 @@ ns2.goldenviolin.ch
 ns2.goldingerit.ch
 ns2.gomami.ch
 ns2.gomedia.ch
-ns2.gonzalez-engineering.ch
 ns2.gonzalez-lim.ch
 ns2.good-tv.ch
 ns2.goodtv.ch
@@ -6235,6 +6237,7 @@ ns2.pnow.ch
 ns2.pocket-bike-center.ch
 ns2.podorepair.ch
 ns2.poids-plume.ch
+ns2.pointlabs.ch
 ns2.pointmail.ch
 ns2.poisson-suisse.ch
 ns2.poissondulac.ch
@@ -6355,6 +6358,7 @@ ns2.radlosservice.ch
 ns2.raetz-plaettli.ch
 ns2.railtronic.ch
 ns2.ralphschuler.ch
+ns2.ramona-webdesign.ch
 ns2.rampensau.ch
 ns2.rayhaan.ch
 ns2.razor.ch
@@ -6978,6 +6982,7 @@ ns2.vbgw-h.ch
 ns2.veloroyal.ch
 ns2.venus-aviation.ch
 ns2.verabredung.ch
+ns2.verapet.ch
 ns2.vereinshosting.ch
 ns2.verges.ch
 ns2.verveweb.ch
@@ -7561,7 +7566,6 @@ ns3.gmlss1.ch
 ns3.goeldi.ch
 ns3.goldingerit.ch
 ns3.gomami.ch
-ns3.gonzalez-engineering.ch
 ns3.gonzalez-lim.ch
 ns3.gr.ch
 ns3.gr8.ch
@@ -8001,6 +8005,7 @@ ns3.uzh.ch
 ns3.valentin-wine.ch
 ns3.vbgw-h.ch
 ns3.veloroyal.ch
+ns3.verapet.ch
 ns3.vfadmin.ch
 ns3.video2000.ch
 ns3.virtualhosts.ch
@@ -8164,7 +8169,6 @@ ns4.glaro.ch
 ns4.glaun.ch
 ns4.globonet.ch
 ns4.goldingerit.ch
-ns4.gonzalez-engineering.ch
 ns4.gonzalez-lim.ch
 ns4.gruppo-tfm.ch
 ns4.gruppourani.ch
@@ -8588,6 +8592,7 @@ nsedition.ch
 nseed.ch
 nseifen.ch
 nselektro.ch
+nsembodiment.ch
 nsen.ch
 nsengineering.ch
 nsenn-immobilien.ch

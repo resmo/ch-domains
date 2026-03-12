@@ -153,7 +153,6 @@ ecal-diplomes.ch
 ecal-guide.ch
 ecal-mid.ch
 ecal-poste.ch
-ecal-ringmybell.ch
 ecal-shop.ch
 ecal-talent.ch
 ecal-talentday.ch
@@ -781,6 +780,7 @@ echo-artsdivinatoires.ch
 echo-audio.ch
 echo-bueromoebel.ch
 echo-ch.ch
+echo-chain.ch
 echo-charlie.ch
 echo-clinical-exchange.ch
 echo-de-serenite.ch
@@ -2867,6 +2867,7 @@ ecoenergyconsult.ch
 ecoenergyswiss.ch
 ecoeng.ch
 ecoengineering.ch
+ecoentreprise.ch
 ecoentreprises.ch
 ecoenvie.ch
 ecoestate.ch

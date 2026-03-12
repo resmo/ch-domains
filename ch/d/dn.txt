@@ -335,6 +335,8 @@ dnry.ch
 dns-01.icdn.ch
 dns-02.icdn.ch
 dns-03.icdn.ch
+dns-1.c.alara-cloud.ch
+dns-2.c.alara-cloud.ch
 dns-53.ch
 dns-alpha.ch
 dns-check.ch
@@ -711,7 +713,6 @@ dns1.simplysoft.ch
 dns1.skypro.ch
 dns1.sonar.ch
 dns1.sourcepole.ch
-dns1.spanischlernen.ch
 dns1.spers.ch
 dns1.sportplauschwider.ch
 dns1.srzi.ch

@@ -78,6 +78,8 @@ e-amt.ch
 e-amtsblatt.ch
 e-analytics.ch
 e-and-m.ch
+e-anfrage.ch
+e-anfragen.ch
 e-anlegen.ch
 e-anniversary.ch
 e-annuaire.ch
@@ -1413,6 +1415,8 @@ e-hydro.ch
 e-hyp.ch
 e-hypo.ch
 e-hypothek.ch
+e-hypothekanfrage.ch
+e-hypothekanfragen.ch
 e-hyundai.ch
 e-i-a.ch
 e-i-c.ch
@@ -1822,7 +1826,6 @@ e-mails.ch
 e-mailserver.ch
 e-mailversand.ch
 e-maintenance.ch
-e-makers.ch
 e-makina.ch
 e-makler.ch
 e-maler.ch
