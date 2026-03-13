@@ -1,3 +1,4 @@
+cl-7.ch
 cl-ack.ch
 cl-anlabs.ch
 cl-architekt.ch
@@ -1215,7 +1216,6 @@ clasphone.ch
 clasprive.ch
 class-action.ch
 class-cafe.ch
-class-fx.ch
 class-geruestbau.ch
 class-hofer.ch
 class-imbiss-romanshorn.ch
@@ -1311,7 +1311,6 @@ classeurorange.ch
 classeurs.ch
 classevents.ch
 classfone.ch
-classfx.ch
 classglobe580.ch
 classglobe580sui26.ch
 classglobe580switzerland.ch
@@ -2496,7 +2495,6 @@ claudiahausheer.ch
 claudiahausheercoaching.ch
 claudiahebeisen.ch
 claudiahebler.ch
-claudiaheer.ch
 claudiahegner.ch
 claudiahehli.ch
 claudiaheimgartner.ch
@@ -3482,6 +3480,7 @@ cle-auto.ch
 cle-de-formation.ch
 cle-de-lumiere.ch
 cle-des-champs-palezieux.ch
+cle-des-champs.ch
 cle-directe.ch
 cle-dor.ch
 cle-en-ligne.ch
@@ -4509,7 +4508,6 @@ cleantecconsult.ch
 cleantecconsulting.ch
 cleantech-alps.ch
 cleantech-businesspark.ch
-cleantech-design.ch
 cleantech-energeek.ch
 cleantech-energy-systems.ch
 cleantech-infrastruktur.ch
@@ -5300,13 +5298,14 @@ cleomoda.ch
 cleomusic.ch
 cleon.ch
 cleondris.ch
-cleonex.ch
 cleoo.ch
 cleoodirectory.ch
 cleopatra-food.ch
+cleopatra-travel.ch
 cleopatra.ch
 cleopatras-duft-oase.ch
 cleopatras-duftoase.ch
+cleopatratravel.ch
 cleopatre.ch
 cleopatrecoiffure.ch
 cleophea-folierungen.ch
@@ -8000,7 +7999,6 @@ cliniquemoncor.ch
 cliniquemontbrillant.ch
 cliniquemontreux.ch
 cliniquemorges.ch
-cliniquemuller.ch
 cliniquenescens.ch
 cliniquenutraswiss.ch
 cliniqueoeil-ono.ch
@@ -10491,7 +10489,6 @@ club-50-plus.ch
 club-50plus.ch
 club-60.ch
 club-60plus-herisau.ch
-club-708.ch
 club-76.ch
 club-77.ch
 club-8484.ch
@@ -11342,6 +11339,7 @@ clubgangsters.ch
 clubgartenunterhalt.ch
 clubgeheimtip.ch
 clubgeheimtipp.ch
+clubgetfit.ch
 clubgirl.ch
 clubgirls.ch
 clubglaneveveyse.ch

@@ -454,7 +454,6 @@ ns.sz-immo.ch
 ns.team.ch
 ns.team3architekten.ch
 ns.telemedia.ch
-ns.tgcrc.ch
 ns.the2ndsky.ch
 ns.ticino-express.ch
 ns.ticino-online.ch
@@ -1365,7 +1364,6 @@ ns1.cste.ch
 ns1.ctfsystem.ch
 ns1.cuandu.ch
 ns1.cubic.ch
-ns1.cuernavaca.ch
 ns1.cundn.ch
 ns1.cupgift.ch
 ns1.curaden-hosting.ch
@@ -1858,6 +1856,7 @@ ns1.gl.ch
 ns1.glamoursein.ch
 ns1.glatthosting.ch
 ns1.glaun.ch
+ns1.global-piscine.ch
 ns1.globaldns.ch
 ns1.globalinformatik.ch
 ns1.globalnetsystem.ch
@@ -2542,7 +2541,6 @@ ns1.meganit.ch
 ns1.megavital.ch
 ns1.megaweb.ch
 ns1.meilebiz.ch
-ns1.mein-cms.ch
 ns1.meine-church.ch
 ns1.meineinternetseite.ch
 ns1.melowerbung.ch
@@ -2641,7 +2639,6 @@ ns1.mule.ch
 ns1.multi-renov.ch
 ns1.multimail.ch
 ns1.multimedia-loesung.ch
-ns1.multinet.ch
 ns1.multiply.ch
 ns1.mundaunweg.ch
 ns1.muntogna.ch
@@ -2921,7 +2918,6 @@ ns1.perezpeinture.ch
 ns1.perfume2share.ch
 ns1.perldev.ch
 ns1.petard.ch
-ns1.petzs.ch
 ns1.pfaendler.ch
 ns1.pflegefinesse.ch
 ns1.pfsc.ch
@@ -5182,6 +5178,7 @@ ns2.glaro.ch
 ns2.glatthosting.ch
 ns2.glaun.ch
 ns2.glavas.ch
+ns2.global-piscine.ch
 ns2.globaldns.ch
 ns2.globalinformatik.ch
 ns2.globalnetsystem.ch
@@ -5842,7 +5839,6 @@ ns2.meganit.ch
 ns2.megavital.ch
 ns2.megaweb.ch
 ns2.meilebiz.ch
-ns2.mein-cms.ch
 ns2.meine-church.ch
 ns2.meineinternetseite.ch
 ns2.melowerbung.ch
@@ -5929,7 +5925,6 @@ ns2.mule.ch
 ns2.multi-renov.ch
 ns2.multimail.ch
 ns2.multimedia-loesung.ch
-ns2.multinet.ch
 ns2.multiply.ch
 ns2.mundaunweg.ch
 ns2.muntogna.ch
@@ -6187,7 +6182,6 @@ ns2.perldev.ch
 ns2.petard.ch
 ns2.peter-unterwegs.ch
 ns2.petergfeller.ch
-ns2.petzs.ch
 ns2.pfaendler.ch
 ns2.pflegefinesse.ch
 ns2.pfsc.ch
@@ -6852,7 +6846,6 @@ ns2.teraline.ch
 ns2.tespasseul.ch
 ns2.testasecus.ch
 ns2.testing-beauty-secret.ch
-ns2.tgcrc.ch
 ns2.thamilar.ch
 ns2.the2ndsky.ch
 ns2.thedearfoundation.ch
@@ -7736,7 +7729,6 @@ ns3.msd-informatik.ch
 ns3.mtfcloud.ch
 ns3.muellerpc.ch
 ns3.mule.ch
-ns3.multinet.ch
 ns3.mundaunweg.ch
 ns3.musikzielke.ch
 ns3.mw-design.ch
@@ -8576,6 +8568,7 @@ nsdesign.ch
 nsdestinations.ch
 nsdev.ch
 nsdr.ch
+nsds.ch
 nsdtent.ch
 nse-game.ch
 nse-metallbau.ch
@@ -8912,4 +8905,5 @@ nsystem.ch
 nsz.ch
 nszh.ch
 nszh.rolotec.ch
+nszmarketing.ch
 nszu.ch

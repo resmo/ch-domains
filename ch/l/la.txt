@@ -439,6 +439,7 @@ la-compta-facile.ch
 la-conciergerie.ch
 la-confidente.ch
 la-connexion.ch
+la-conseil-fiduciaire.ch
 la-conseil.ch
 la-conseillante.ch
 la-conserve.ch
@@ -449,7 +450,6 @@ la-contree.ch
 la-conversation.ch
 la-cooperative.ch
 la-corale-zurigo.ch
-la-corde-a-linge.ch
 la-cordee.ch
 la-cordonnerie.ch
 la-cornue.ch
@@ -1313,7 +1313,6 @@ la-putia.ch
 la-pyantse.ch
 la-pyramide.ch
 la-qq.ch
-la-quadra.ch
 la-qualita-e.ch
 la-qualite-cest.ch
 la-quincaillerie.ch
@@ -1729,7 +1728,6 @@ la-veranda.ch
 la-verde.ch
 la-verdi.ch
 la-vermuteria.ch
-la-vernette.ch
 la-verrerie-location.ch
 la-verrerie.ch
 la-verrerie24.ch
@@ -3396,6 +3394,7 @@ laborati.ch
 laboratoire-3dental.ch
 laboratoire-chedel.ch
 laboratoire-de-leadership.ch
+laboratoire-de-protheses-dentaires.ch
 laboratoire-dentaire-chantal-clerc-lausanne.ch
 laboratoire-dentaire-izquierdo.ch
 laboratoire-dentaire-riviera.ch
@@ -4799,6 +4798,7 @@ laccessible.ch
 laccf.ch
 laccompagnamento.ch
 laccompagne.ch
+laccorddescorps.ch
 laccote.ch
 laccrochcoeur.ch
 laccueilparascolaire.ch
@@ -5795,7 +5795,6 @@ lacoray.ch
 lacorbiere.ch
 lacorbusier.ch
 lacord.ch
-lacordealinge.ch
 lacordiale.ch
 lacordillere.ch
 lacordonnerie.ch
@@ -8203,6 +8202,7 @@ lafiduciaria.ch
 lafidutheque.ch
 lafiera.ch
 lafiesta.ch
+lafigliainaffitto.ch
 lafigurina.ch
 lafil.ch
 lafilanda.ch
@@ -8486,6 +8486,7 @@ lafritefraiche.ch
 lafritesuisse.ch
 lafroda.ch
 lafrog.ch
+lafrom.ch
 lafromagerie-leysin.ch
 lafromagerie.ch
 lafromageriegourmande.ch
@@ -8667,7 +8668,6 @@ lagence.ch
 lagence25.ch
 lagenceads.ch
 lagenceai.ch
-lagencecommunication.ch
 lagenceculturelle.ch
 lagencedare.ch
 lagencedigitale.ch
@@ -9288,7 +9288,6 @@ lagondola.ch
 lagonelle.ch
 lagonero.ch
 lagonet.ch
-lagonzalez.ch
 lagoo.ch
 lagoom-gel.ch
 lagoom-jam.ch
@@ -9589,7 +9588,6 @@ lagugrafikdesign.ch
 laguiche.ch
 laguida.ch
 laguidoline.ch
-laguila.ch
 laguild.ch
 laguilde.ch
 laguimauveturquoise.ch
@@ -13918,6 +13916,7 @@ landgut-romange.ch
 landgut-sardinien.ch
 landgut-unterloechli.ch
 landgut-weitsicht.ch
+landgut.ch
 landguthirzel.ch
 landgutlohn.ch
 landgutpfyn.ch
@@ -16071,6 +16070,7 @@ langpartner.ch
 langpartners.ch
 langpatent.ch
 langphoto.ch
+langproperties.ch
 langrickenbach.ch
 langrickenbach24.ch
 langroup.ch
@@ -16948,6 +16948,7 @@ laochur.ch
 laocon.ch
 laodica.ch
 laodicee.ch
+laoh.ch
 laokanalprofi.ch
 laokanalprofis.ch
 laokoon.ch
@@ -19635,6 +19636,7 @@ larynx.ch
 larysmbomaretouchescouture.ch
 larz.ch
 larzep-hydraulik.ch
+larzep-onlineshop.ch
 larzep-shop.ch
 larzep.ch
 larzzz.ch
@@ -24227,7 +24229,6 @@ laurabakker.ch
 laurabaldi.ch
 laurabarby.ch
 laurabarchi.ch
-laurabattistini-soinsenergetiques.ch
 laurabaxarias.ch
 laurabayona.ch
 laurabeatriz.ch
@@ -24288,6 +24289,7 @@ lauradorman.ch
 lauradormann.ch
 lauradoula.ch
 lauradoza.ch
+lauradutemps.ch
 lauraealex.ch
 lauraeberspaecher.ch
 lauraegloff.ch
@@ -24614,6 +24616,7 @@ laurawiesmann.ch
 laurawinistoerfer.ch
 laurawinston.ch
 laurawohnli.ch
+lauraworld.ch
 laurawuelfroth.ch
 laurawunderlin.ch
 laurazachmann.ch
@@ -24670,6 +24673,7 @@ laureimmobilier.ch
 laurejaquet.ch
 laurejean.ch
 laurejolidon.ch
+laurejubran-cadoux.ch
 laurekloetzer.ch
 laurekrayenbuhl.ch
 laurel-advisory.ch
@@ -25895,7 +25899,6 @@ lavanchy-paysagiste.ch
 lavanchy-vins.ch
 lavanchy.ch
 lavanchyjb.ch
-lavanchypaysagiste.ch
 lavanda.ch
 lavande-gesundheitspraxis.ch
 lavande-patisserie.ch
@@ -26278,7 +26281,6 @@ laverite.ch
 laveritesurlepoids.ch
 lavermuteria.ch
 laverna.ch
-lavernette.ch
 laverneyre.ch
 laverony.ch
 laverrerie.ch
@@ -26862,7 +26864,6 @@ law-and-business.ch
 law-and-economics-consulting.ch
 law-and-it.ch
 law-and-order.ch
-law-benisowitsch.ch
 law-bern.ch
 law-books.ch
 law-boutique.ch

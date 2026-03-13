@@ -19,7 +19,6 @@ t-a-dach.ch
 t-a-n-t-r-a.ch
 t-a-o.ch
 t-a-r.ch
-t-a-s.ch
 t-a-w.ch
 t-a-x-i.ch
 t-a-x.ch
@@ -149,6 +148,7 @@ t-doc.ch
 t-drive.ch
 t-drivers.ch
 t-dsa.ch
+t-dsign.ch
 t-dsl.ch
 t-dunion.ch
 t-e-a.ch

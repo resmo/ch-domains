@@ -542,7 +542,6 @@ urbanbricolage.ch
 urbanbrightstore.ch
 urbanbroger.ch
 urbanbuilders.ch
-urbanbulldog.ch
 urbanbutcher.ch
 urbancamp.ch
 urbancamperspot.ch
@@ -844,6 +843,7 @@ urbanisme-construction.ch
 urbanisme-constructions.ch
 urbanisme-horloger.ch
 urbanisme-mobilite.ch
+urbanisme-neuchatel.ch
 urbanisme.ch
 urbanismegeneve.ch
 urbanismehorloger.ch
@@ -1527,6 +1527,7 @@ urgence-dentiste.ch
 urgence-dents.ch
 urgence-dermatologie-geneve.ch
 urgence-guepes.ch
+urgence-habitat.ch
 urgence-herisson.ch
 urgence-informatique.ch
 urgence-lausanne.ch
@@ -1563,6 +1564,7 @@ urgencedermato.ch
 urgencedermatologiegeneve.ch
 urgencedermatologique.ch
 urgencedisk.ch
+urgencehabitat.ch
 urgencelacote.ch
 urgencelausanne.ch
 urgencemain.ch
@@ -2146,9 +2148,12 @@ urlaubs-architekten.ch
 urlaubs-autos.ch
 urlaubs-biene.ch
 urlaubs-box.ch
+urlaubs-checker.ch
 urlaubs-dialyse.ch
 urlaubs-discounter.ch
 urlaubs-express.ch
+urlaubs-mietauto.ch
+urlaubs-mietwagen.ch
 urlaubs-partner.ch
 urlaubs-pass.ch
 urlaubs-prinz.ch
@@ -2200,6 +2205,7 @@ urlaubskalender.ch
 urlaubskassa.ch
 urlaubsland.ch
 urlaubsmesse.ch
+urlaubsmietwagen.ch
 urlaubsmodus.ch
 urlaubsmonitor.ch
 urlaubsnewsletter.ch
@@ -3516,6 +3522,7 @@ urshechteigenbrand.ch
 ursheinrich.ch
 ursheld.ch
 urshep.ch
+urshermann.ch
 ursheusser.ch
 urshiatsu.ch
 urshiestand.ch
