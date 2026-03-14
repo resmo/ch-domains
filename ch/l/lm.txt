@@ -97,6 +97,7 @@ lm1873-ch.ch
 lm32.ch
 lm3group.ch
 lm7.ch
+lm77new.ch
 lma-ag.ch
 lma-storen.ch
 lma.ch
@@ -528,7 +529,6 @@ lmsolutions.ch
 lmsp.ch
 lmsportcars.ch
 lmsportswear.ch
-lmss.ch
 lmssport.ch
 lmst.ch
 lmsteel.ch

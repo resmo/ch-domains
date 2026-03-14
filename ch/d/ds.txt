@@ -234,7 +234,6 @@ ds10.ch
 ds102.ch
 ds12.ch
 ds2.ch
-ds218.ch
 ds2a.ch
 ds2m.ch
 ds3.ch
@@ -454,6 +453,7 @@ dschwyztanzt.ch
 dscliniccars.ch
 dsclubprivilege.ch
 dscmds.ch
+dsco.ch
 dscoaching.ch
 dscoding.ch
 dscoff.ch
@@ -780,6 +780,7 @@ dsl-net.ch
 dsl-plus.ch
 dsl-portfolio.ch
 dsl-schweiz.ch
+dsl-services.ch
 dsl-style.ch
 dsl-swiss.ch
 dsl-telefonie.ch

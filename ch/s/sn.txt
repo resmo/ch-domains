@@ -393,7 +393,6 @@ snap2d.ch
 snap360event.ch
 snapaddy.ch
 snapadmin.ch
-snapandbloom.ch
 snapandgo.ch
 snapandpunch.ch
 snapandshot.ch
@@ -792,6 +791,7 @@ snd63.ch
 snd64.ch
 sndb.ch
 sndb0x.ch
+sndbn.ch
 sndf-dev.ch
 sndf.ch
 sndh.ch
@@ -1631,7 +1631,6 @@ snowboardhelm.ch
 snowboardhelmshop.ch
 snowboardhotel.ch
 snowboarding-shop.ch
-snowboarding.ch
 snowboarding4beginners.ch
 snowboardingstmoritz.ch
 snowboardingswitzerland.ch
