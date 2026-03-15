@@ -140,7 +140,6 @@ ms-fiduciaire.ch
 ms-fighter.ch
 ms-film.ch
 ms-finance.ch
-ms-finanz.ch
 ms-finanzberatung.ch
 ms-food.ch
 ms-forschung.ch
@@ -334,6 +333,7 @@ ms-service.ch
 ms-servicedenettoyage.ch
 ms-serviceline.ch
 ms-services.ch
+ms-shiatsu.ch
 ms-shop.ch
 ms-sicherheit.ch
 ms-signal.ch
@@ -348,6 +348,7 @@ ms-spendenlauf.ch
 ms-spitex.ch
 ms-sports.ch
 ms-state-of-the-art.ch
+ms-steiner.ch
 ms-styletuning.ch
 ms-sugaring.ch
 ms-swiss.ch
@@ -1055,6 +1056,7 @@ msg-basel.ch
 msg-boatrental.ch
 msg-bootsschule.ch
 msg-bootsvermietung.ch
+msg-easytax.ch
 msg-feedback.ch
 msg-for-banking.ch
 msg-gillardon-bsm.ch

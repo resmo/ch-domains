@@ -2199,6 +2199,7 @@ skill-games.ch
 skill-hikes.ch
 skill-hub.ch
 skill-id.ch
+skill-ki.ch
 skill-kinderliteratur.ch
 skill-king.ch
 skill-link.ch
@@ -2329,6 +2330,7 @@ skillio.ch
 skillis.ch
 skilljourney.ch
 skilljourneys.ch
+skillki.ch
 skillkompass.ch
 skilllab.ch
 skilllift.ch
@@ -3314,15 +3316,11 @@ skipower.ch
 skipp.ch
 skipper-allianz.ch
 skipper-ausbildung.ch
-skipper-bar.ch
 skipper-bier.ch
-skipper-bistro.ch
 skipper-consulting.ch
 skipper-dani.ch
 skipper-dream.ch
 skipper-kurs.ch
-skipper-lounge-erlach.ch
-skipper-lounge.ch
 skipper-markus.ch
 skipper-mieten.ch
 skipper-schule.ch
@@ -3331,14 +3329,11 @@ skipper-training.ch
 skipper-versicherungen.ch
 skipper.ch
 skipper24.ch
-skipper3235.ch
 skipper4u.ch
 skipperallianz.ch
 skipperandcrew.ch
 skipperausbildung.ch
-skipperbar.ch
 skipperbier.ch
-skipperbistro.ch
 skipperbuvette.ch
 skipperbuvetteerlach.ch
 skippercyrill.ch
@@ -3348,9 +3343,6 @@ skipperdream.ch
 skipperhandbuch.ch
 skipperinfo.ch
 skipperjan.ch
-skipperkiosk.ch
-skipperlounge.ch
-skipperloungeerlach.ch
 skippermario.ch
 skipperpool.ch
 skipperrestaurant.ch
@@ -3366,7 +3358,6 @@ skippertoni.ch
 skippertraining.ch
 skipperversicharungen.ch
 skipperversicherungen.ch
-skipperwerftlounge.ch
 skippfx.ch
 skippingstone.ch
 skippit.ch
@@ -4190,7 +4181,6 @@ skoda-romanel.ch
 skoda-schweiz.ch
 skoda-service.ch
 skoda-sion.ch
-skoda-slowup.ch
 skoda-spezialisten.ch
 skoda-suisse.ch
 skoda-svizzera.ch
@@ -4285,7 +4275,6 @@ skollektiv.ch
 skoller.ch
 skollers.ch
 skolnik.ch
-skoloud.ch
 skols.ch
 skolte.ch
 skolten.ch
@@ -5839,6 +5828,7 @@ skyracer.ch
 skyradar.ch
 skyradio.ch
 skyrainbet.ch
+skyrbar.ch
 skyre.ch
 skyrea.ch
 skyready.ch

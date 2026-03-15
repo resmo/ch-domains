@@ -115,7 +115,6 @@ ds-ip.ch
 ds-it.ch
 ds-jf.ch
 ds-js.ch
-ds-jungo.ch
 ds-k-co.ch
 ds-k-hp.ch
 ds-k-ht.ch
@@ -188,6 +187,7 @@ ds-scripts.ch
 ds-sec.ch
 ds-security.ch
 ds-seminaires.ch
+ds-service.ch
 ds-services.ch
 ds-shop.ch
 ds-sissach.ch
@@ -515,6 +515,7 @@ dsdl.ch
 dsdm.ch
 dsdn.ch
 dsdoc.ch
+dsdpeinture.ch
 dsdplanningcenter.ch
 dsdrenov.ch
 dsds.ch
@@ -1108,7 +1109,6 @@ dsthalwil.ch
 dstherapies.ch
 dsthun.ch
 dsthurcargo.ch
-dstill.ch
 dstimmobilien.ch
 dstimmvudo.ch
 dstk.ch
@@ -1137,7 +1137,6 @@ dstress.ch
 dstreuhand.ch
 dstriathlon.ch
 dstrict.ch
-dstruchen.ch
 dstruffer.ch
 dstucki.ch
 dstuder.ch
