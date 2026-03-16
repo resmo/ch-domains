@@ -1062,7 +1062,6 @@ mchp.ch
 mchperformance.ch
 mchproducts.ch
 mchtest.ch
-mchur.ch
 mchut.ch
 mchvnh.ch
 mchz.ch
@@ -1498,6 +1497,7 @@ mcp-praxis.ch
 mcp-schweiz.ch
 mcp-solutions.ch
 mcp-swiss.ch
+mcp-tools.ch
 mcp.ch
 mcpadel.ch
 mcpaint-colors.ch

@@ -254,6 +254,7 @@ typer.ch
 types-top.ch
 types.ch
 typesauto.ch
+typescope.ch
 typescript-developer.ch
 typescript-jobs.ch
 typescript.ch

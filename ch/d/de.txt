@@ -1243,7 +1243,6 @@ debitros.ch
 debits.ch
 debitsandcredits.ch
 debitscredits.ch
-debitsuisse.ch
 debittrust.ch
 debitum.ch
 debitwatch.ch
@@ -2299,6 +2298,7 @@ declaration-impotfribourg.ch
 declaration-impots-carouge.ch
 declaration-impots-express.ch
 declaration-impots-ge.ch
+declaration-impots.ch
 declaration-impotvalais.ch
 declaration-impotvaud.ch
 declaration-online.ch
@@ -4250,7 +4250,6 @@ defense-workshop.ch
 defense2rue.ch
 defense4me.ch
 defenseanimaux.ch
-defenseclimatique.ch
 defensecyber.ch
 defensedafficher.ch
 defensedufrancais.ch
@@ -5179,6 +5178,7 @@ dein-allrounder.ch
 dein-andenken.ch
 dein-angebot.ch
 dein-angelshop.ch
+dein-anwalt.ch
 dein-architekt.ch
 dein-armband.ch
 dein-arzt-termin.ch
@@ -5476,7 +5476,6 @@ dein-lackschutz.ch
 dein-lager.ch
 dein-lamellendach.ch
 dein-leben-jetzt.ch
-dein-leben.ch
 dein-lebens-drehbuch.ch
 dein-lebensbuch.ch
 dein-lebenslauf.ch
@@ -6680,6 +6679,7 @@ deinevietnamreise.ch
 deinevintagehochzeit.ch
 deinevision.ch
 deinevisitenkarte.ch
+deinevorsorge.ch
 deinevorteile.ch
 deinewaerme.ch
 deinewand.ch
@@ -13960,7 +13960,6 @@ dentalhygienikerin.ch
 dentalhygienikerin24.ch
 dentalhygienikerinbaden.ch
 dentalhygienikerinzuerich.ch
-dentalhygienikerluzern.ch
 dentalhygienist.ch
 dentalhygienists-hin.ch
 dentalhygienists.ch
@@ -19494,7 +19493,6 @@ dertrainer.ch
 dertrans.ch
 dertransport.ch
 dertransporter.ch
-dertransporter24.ch
 dertrauerbegleiter.ch
 dertrauerengel.ch
 dertraum.ch
@@ -20885,6 +20883,7 @@ designconfort.ch
 designconsult.ch
 designconsultant.ch
 designconsulting.ch
+designcontentstudio.ch
 designcopy.ch
 designcork.ch
 designcorner.ch
@@ -21329,7 +21328,6 @@ designklinik.ch
 designknecht.ch
 designkoenig.ch
 designkollektiv.ch
-designkompanie.ch
 designkontor.ch
 designkonzept.ch
 designkork.ch
@@ -23995,6 +23993,7 @@ deutschmachen.ch
 deutschmachtspass.ch
 deutschmann.ch
 deutschmethodicum.ch
+deutschmitdita.ch
 deutschmiteuch.ch
 deutschmitfede.ch
 deutschmittheres.ch
@@ -24007,6 +24006,7 @@ deutschperfekt.ch
 deutschplus.ch
 deutschprivatschule.ch
 deutschprivatunterricht.ch
+deutschprofi.ch
 deutschpunkt.ch
 deutschrap.ch
 deutschritter.ch
@@ -25619,6 +25619,7 @@ dewinter-productions.ch
 dewinter.ch
 dewis.ch
 dewisdo.ch
+dewise.ch
 dewiskin.ch
 dewisliger.ch
 dewisprior.ch

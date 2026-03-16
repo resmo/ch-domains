@@ -597,7 +597,6 @@ my-exterieur.ch
 my-exterieur2.ch
 my-eye.ch
 my-eyes.ch
-my-facade.ch
 my-face.ch
 my-facelift.ch
 my-factoring.ch
@@ -3206,6 +3205,7 @@ mybuddy.ch
 mybuddybag.ch
 mybuddyguard.ch
 mybudget.ch
+mybudgetdock.ch
 mybuehl.ch
 mybuehler.ch
 mybuehlmann.ch
@@ -5940,6 +5940,7 @@ myhandyplus.ch
 myhane.ch
 myhanfi.ch
 myhansesun.ch
+myhappening.ch
 myhappli.ch
 myhappy-home.ch
 myhappy.ch
@@ -7496,7 +7497,6 @@ mylyag.ch
 mylyft.ch
 mylynundpascal.ch
 mylyv.ch
-mylz.ch
 mym-zh.ch
 mym-zuerich.ch
 mym-zurich.ch
@@ -8686,6 +8686,7 @@ mypayments.ch
 mypaypod.ch
 mypayroll.ch
 mypbx.ch
+mypc.ch
 mypcl.ch
 mypcoip.ch
 mypcproblem.ch
@@ -11352,7 +11353,6 @@ mytac.ch
 mytaca.ch
 mytacklebox.ch
 mytacos.ch
-mytagblatt.ch
 mytagga.ch
 mytagheuer.ch
 mytago.ch
@@ -12251,6 +12251,7 @@ myvisual.ch
 myvisuals.ch
 myvita-plus.ch
 myvita.ch
+myvitacheck.ch
 myvitae.ch
 myvitalfit.ch
 myvitalist.ch

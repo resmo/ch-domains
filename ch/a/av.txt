@@ -129,6 +129,8 @@ ava-events.ch
 ava-group.ch
 ava-hypno.ch
 ava-im-kinderspital.ch
+ava-immo.ch
+ava-immobilien.ch
 ava-interiordesign.ch
 ava-investments.ch
 ava-investors.ch
@@ -821,7 +823,6 @@ avanzini.ch
 avanzinimedia.ch
 avanzino.ch
 avanzus.ch
-avanzza.ch
 avao.ch
 avaonda.ch
 avap-vd.ch
@@ -2471,7 +2472,6 @@ avicom.ch
 avicomecanique.ch
 avicon.ch
 avicons.ch
-aviconstruction.ch
 aviconsult.ch
 aviconsulting.ch
 avicor.ch
@@ -2811,7 +2811,6 @@ avisconso.ch
 avisconsos.ch
 avisdeces.ch
 avisdedeces.ch
-avisdemenagement.ch
 avisdevaleur.ch
 avisdevolsion.ch
 avisdexpert.ch
@@ -4038,6 +4037,7 @@ avs-fr.ch
 avs-garage.ch
 avs-ge.ch
 avs-group.ch
+avs-immo.ch
 avs-informatique.ch
 avs-insieme.ch
 avs-intergenerationnelle.ch
@@ -4101,8 +4101,10 @@ avsh-pieddujura.ch
 avsh.ch
 avsidya.ch
 avsievi.ch
+avsimmo.ch
 avsinseraterechner.ch
 avsinsieme.ch
+avsinvest.ch
 avsit.ch
 avsk.ch
 avsl.ch

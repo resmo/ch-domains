@@ -1966,7 +1966,6 @@ gedanken-zum-denken.ch
 gedanken-zum-tag.ch
 gedanken-zur-justiz.ch
 gedanken-zur-zeit.ch
-gedanken.ch
 gedankenabgleich.ch
 gedankenanstoss.ch
 gedankenarchitektur.ch
@@ -3275,7 +3274,6 @@ gehoerlosendorf.ch
 gehoerlosenfachstellen.ch
 gehoerlosengemeinde.ch
 gehoerlosengemeindezh.ch
-gehoerlosengemeinschaft.ch
 gehoerlosenkirche.ch
 gehoerlosenseelsorge.ch
 gehoerlosenseelsorgeag.ch
@@ -3808,7 +3806,6 @@ geiser-kaeppeli.ch
 geiser-logistik.ch
 geiser-maraicher.ch
 geiser-petro.ch
-geiser-physio.ch
 geiser-sports.ch
 geiser-teufen.ch
 geiser-treuhand.ch
@@ -7753,6 +7750,10 @@ generationxconsulting.ch
 generationxyz.ch
 generationz-coaching.ch
 generationzcoaching.ch
+generativ-aerospace.ch
+generativ-healthcare.ch
+generativ-industrysolutions.ch
+generativ-publicservice.ch
 generativ.ch
 generativdesign.ch
 generative-ai-kurse.ch
@@ -7888,7 +7889,6 @@ generikuminfo.ch
 generio.ch
 generique.ch
 generiques.ch
-generis-capital.ch
 generis.ch
 generischgeil.ch
 generitec.ch
@@ -8621,7 +8621,6 @@ genevair.ch
 genevairishassociation.ch
 genevajazz.ch
 genevajet.ch
-genevajets.ch
 genevajetsafc.ch
 genevajudo.ch
 genevajug.ch
@@ -8846,6 +8845,7 @@ genevateckelwalk.ch
 genevateensparty.ch
 genevatelecom.ch
 genevaticket.ch
+genevatigers.ch
 genevatime-exhibition.ch
 genevatimelounge.ch
 genevatimes.ch
@@ -17252,10 +17252,13 @@ gestion-locative-anieres.ch
 gestion-locative-bellevue.ch
 gestion-locative-bernex.ch
 gestion-locative-carouge.ch
+gestion-locative-champel.ch
 gestion-locative-chene-bougeries.ch
 gestion-locative-collonge-bellerive.ch
 gestion-locative-cologny.ch
 gestion-locative-confignon.ch
+gestion-locative-eaux-vives.ch
+gestion-locative-florissant.ch
 gestion-locative-geneve.ch
 gestion-locative-genthod.ch
 gestion-locative-lancy.ch
@@ -17294,6 +17297,7 @@ gestion-technique.ch
 gestion-venance-bonvin.ch
 gestion-vendanges.ch
 gestion-vie.ch
+gestion-villa-geneve.ch
 gestion-zc.ch
 gestion.ch
 gestiona.ch
@@ -21515,7 +21519,6 @@ gewerbe-wohlenbe.ch
 gewerbe-wuerenlingen.ch
 gewerbe-wuerenlos.ch
 gewerbe-wynau.ch
-gewerbe-zentralschweiz.ch
 gewerbe-zermatt.ch
 gewerbe-zihlschlacht-sitterdorf.ch
 gewerbe-zofingen.ch
@@ -22059,7 +22062,6 @@ gewerbewohlen-be.ch
 gewerbezeitung.ch
 gewerbezeitungen.ch
 gewerbezell.ch
-gewerbezentralschweiz.ch
 gewerbezentrum-arova.ch
 gewerbezentrum-biessenhofen.ch
 gewerbezentrum-elgg.ch
