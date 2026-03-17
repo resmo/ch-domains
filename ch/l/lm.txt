@@ -97,7 +97,10 @@ lm1873-ch.ch
 lm32.ch
 lm3group.ch
 lm7.ch
+lm77c.ch
+lm77n.ch
 lm77new.ch
+lm77r.ch
 lma-ag.ch
 lma-storen.ch
 lma.ch

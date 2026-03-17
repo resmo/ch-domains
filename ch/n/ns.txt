@@ -352,6 +352,7 @@ ns.nope.ch
 ns.novacom.ch
 ns.nscluster.ch
 ns.nusbaumer.ch
+ns.o0b.ch
 ns.oblcom.ch
 ns.offertube.ch
 ns.oliverseiler.ch
@@ -849,6 +850,7 @@ ns1.amerco.ch
 ns1.amirakasri.ch
 ns1.anaconsol.ch
 ns1.ancoristagesstruktur.ch
+ns1.andersartig.ch
 ns1.anderthalb.ch
 ns1.andreas-horvath.ch
 ns1.anixa.ch
@@ -1420,6 +1422,7 @@ ns1.dc-visual.ch
 ns1.dc1.ch
 ns1.dc4131.ch
 ns1.dcb-systems.ch
+ns1.dcep.ch
 ns1.dcmedia.ch
 ns1.dcom.ch
 ns1.dcwn.ch
@@ -1431,6 +1434,7 @@ ns1.deinhost.ch
 ns1.delfdalf-test.ch
 ns1.delfdalf.ch
 ns1.delic-it.ch
+ns1.delic.ch
 ns1.delit.ch
 ns1.dellacasameride.ch
 ns1.deltasrv.ch
@@ -1795,6 +1799,7 @@ ns1.fuchs-rasenmaeher.ch
 ns1.fuderer.ch
 ns1.fuform.ch
 ns1.funisante.ch
+ns1.funkstille.ch
 ns1.funktionierts.ch
 ns1.furrerundpartner.ch
 ns1.futurelab.ch
@@ -2341,7 +2346,6 @@ ns1.kunstderpflege.ch
 ns1.kunstderschoenheit.ch
 ns1.kupfertext.ch
 ns1.kuramo.ch
-ns1.kurdisch.ch
 ns1.kurhauskreuz.ch
 ns1.kynocom.ch
 ns1.la-paella.ch
@@ -2556,7 +2560,6 @@ ns1.meworla.ch
 ns1.mfkey.ch
 ns1.mfo-psycho.ch
 ns1.mgajdo.ch
-ns1.mgcweb.ch
 ns1.mgehosting.ch
 ns1.mgeweb.ch
 ns1.mgit.ch
@@ -2788,6 +2791,7 @@ ns1.nx-schweiz.ch
 ns1.nxs-fm.ch
 ns1.nxtlvl.ch
 ns1.nyon2014.ch
+ns1.o0b.ch
 ns1.oapublishing.ch
 ns1.obdtest.ch
 ns1.obicom.ch
@@ -4204,6 +4208,7 @@ ns2.amipeonweb.ch
 ns2.amirakasri.ch
 ns2.anaconsol.ch
 ns2.ancoristagesstruktur.ch
+ns2.andersartig.ch
 ns2.anderthalb.ch
 ns2.anixa.ch
 ns2.anniv.ch
@@ -4764,6 +4769,7 @@ ns2.dbg.ch
 ns2.dc-visual.ch
 ns2.dc1.ch
 ns2.dcb-systems.ch
+ns2.dcep.ch
 ns2.dcmedia.ch
 ns2.dcwn.ch
 ns2.dd-informatic.ch
@@ -4776,6 +4782,7 @@ ns2.deinhost.ch
 ns2.delfdalf-test.ch
 ns2.delfdalf.ch
 ns2.delic-it.ch
+ns2.delic.ch
 ns2.delit.ch
 ns2.dellacasameride.ch
 ns2.deltasrv.ch
@@ -5116,6 +5123,7 @@ ns2.fuchs-rasenmaeher.ch
 ns2.fuderer.ch
 ns2.fuform.ch
 ns2.funisante.ch
+ns2.funkstille.ch
 ns2.funktionierts.ch
 ns2.furrerundpartner.ch
 ns2.futureweb.ch
@@ -5645,7 +5653,6 @@ ns2.kunstderpflege.ch
 ns2.kunstderschoenheit.ch
 ns2.kupfertext.ch
 ns2.kuramo.ch
-ns2.kurdisch.ch
 ns2.kurhauskreuz.ch
 ns2.kynocom.ch
 ns2.la-paella.ch
@@ -5849,7 +5856,6 @@ ns2.metrohmcomtest.ch
 ns2.metzgerei-schleemann.ch
 ns2.mfkey.ch
 ns2.mfo-psycho.ch
-ns2.mgcweb.ch
 ns2.mgehosting.ch
 ns2.mgeweb.ch
 ns2.mgit.ch

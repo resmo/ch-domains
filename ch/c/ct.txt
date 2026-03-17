@@ -453,6 +453,7 @@ ctrl-alt.ch
 ctrl-c.ch
 ctrl-data.ch
 ctrl-design.ch
+ctrl-fix.ch
 ctrl-g.ch
 ctrl-help.ch
 ctrl-j.ch

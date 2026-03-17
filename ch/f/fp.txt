@@ -55,6 +55,9 @@ fp-z.ch
 fp1.ch
 fp2.ch
 fp24.ch
+fp77c.ch
+fp77n.ch
+fp77r.ch
 fpa-advisors.ch
 fpa-ge.ch
 fpa.ch
@@ -290,6 +293,7 @@ fpse.ch
 fpselection.ch
 fpservice.ch
 fpservices.ch
+fpsg.ch
 fpsi.ch
 fpsign.ch
 fpsk.ch

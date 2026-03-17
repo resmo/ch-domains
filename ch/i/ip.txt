@@ -240,6 +240,7 @@ ipa-talus.ch
 ipa-taskmanager.ch
 ipa-ticino.ch
 ipa-valais.ch
+ipa-vasic-test.ch
 ipa-vi.ch
 ipa-zentral.ch
 ipa-zh.ch
@@ -561,7 +562,6 @@ ipek-mobel.ch
 ipek-uebersetzungen.ch
 ipek.ch
 ipekacar.ch
-ipekmobel.ch
 ipekyol.ch
 ipelab.ch
 ipelement.ch
