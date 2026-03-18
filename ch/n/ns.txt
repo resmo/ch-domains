@@ -1779,7 +1779,6 @@ ns1.francocattaneo.ch
 ns1.frankie.ch
 ns1.freebrain.ch
 ns1.freesites.ch
-ns1.freesociety.ch
 ns1.freiberger-pferde.ch
 ns1.frequency.ch
 ns1.fretcom.ch
@@ -2276,7 +2275,6 @@ ns1.kaplan.ch
 ns1.kappelergastro.ch
 ns1.kath-winterthur.ch
 ns1.katzenbank.ch
-ns1.kaufmann-handel.ch
 ns1.kauzsupport.ch
 ns1.kb-bedag.ch
 ns1.kellerspeicher.ch
@@ -2575,7 +2573,6 @@ ns1.microosoft.ch
 ns1.midix.ch
 ns1.mietauto24.ch
 ns1.mig-haco.ch
-ns1.migrosticino.ch
 ns1.mikroelek.ch
 ns1.milkycloud.ch
 ns1.mimos.ch
@@ -3002,7 +2999,6 @@ ns1.portailpaysanssuisses.ch
 ns1.portaledeicontadini.ch
 ns1.portaledellecontadine.ch
 ns1.posttenebraslab.ch
-ns1.potentielsdentrepreneurs.ch
 ns1.powdershape.ch
 ns1.power7.ch
 ns1.power9.ch
@@ -3303,6 +3299,7 @@ ns1.serge-demuth.ch
 ns1.server-one.ch
 ns1.server-town.ch
 ns1.server-v.ch
+ns1.server.kaufmann-handel.ch
 ns1.serverdns.ch
 ns1.serverfabrik.ch
 ns1.serverfactory.ch
@@ -5101,7 +5098,6 @@ ns2.franco.ch
 ns2.francocattaneo.ch
 ns2.frankie.ch
 ns2.freesites.ch
-ns2.freesociety.ch
 ns2.freewifi.ch
 ns2.freiberger-pferde.ch
 ns2.frequency.ch
@@ -5867,7 +5863,6 @@ ns2.micromusic.ch
 ns2.microosoft.ch
 ns2.midix.ch
 ns2.mig-haco.ch
-ns2.migrosticino.ch
 ns2.mikroelek.ch
 ns2.milkycloud.ch
 ns2.mimos.ch
@@ -6265,7 +6260,6 @@ ns2.portailpaysanssuisses.ch
 ns2.portaledeicontadini.ch
 ns2.portaledellecontadine.ch
 ns2.posttenebraslab.ch
-ns2.potentielsdentrepreneurs.ch
 ns2.powdershape.ch
 ns2.power7.ch
 ns2.power9.ch
@@ -8895,6 +8889,7 @@ nswow.ch
 nsx.ch
 nsx.claubscher.ch
 nsx.laubschernet.ch
+nsxt.ch
 nsxwatches.ch
 nsy-ch.ch
 nsy-shop.ch

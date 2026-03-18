@@ -871,6 +871,7 @@ pshnumeric.ch
 pshofer.ch
 psholding.ch
 psholzbau.ch
+pshome.ch
 pshop.ch
 pshot.ch
 pshphc.ch
@@ -1248,6 +1249,7 @@ psoftringen.ch
 psog.ch
 psok.ch
 psol.ch
+psolten.ch
 psolution.ch
 psolutions.ch
 psom.ch
@@ -1788,7 +1790,6 @@ psy-q.ch
 psy-rauchstopp.ch
 psy-riviera.ch
 psy-rohde.ch
-psy-sante.ch
 psy-scan.ch
 psy-schmid.ch
 psy-science.ch
@@ -2001,11 +2002,9 @@ psychiater-baur.ch
 psychiater-bern.ch
 psychiater-biel.ch
 psychiater-engadin.ch
-psychiater-horgen.ch
 psychiater-kim.ch
 psychiater-luzern.ch
 psychiater-maag.ch
-psychiater-schweiz.ch
 psychiater-solothurn.ch
 psychiater-stgallen.ch
 psychiater-thun.ch
@@ -2022,7 +2021,6 @@ psychiater-zweisimmen.ch
 psychiater.ch
 psychiateramzuerichsee.ch
 psychiaterbiel.ch
-psychiaterhorgen.ch
 psychiaterin-baden.ch
 psychiaterin-dr-schobel.ch
 psychiaterin-schweiz.ch
@@ -2033,8 +2031,6 @@ psychiaterinnen.ch
 psychiaterinschweiz.ch
 psychiaterinthun.ch
 psychiaterkim.ch
-psychiaterschweiz.ch
-psychiaterzuerich.ch
 psychiatre-bernardini.ch
 psychiatre-bienne.ch
 psychiatre-enfants-et-adolescents.ch
@@ -2339,7 +2335,6 @@ psycho-fit.ch
 psycho-fribourg.ch
 psycho-ge.ch
 psycho-gear.ch
-psycho-gestalt.ch
 psycho-kine.ch
 psycho-kinesiologie-maud-gay.ch
 psycho-kinesiologie.ch
@@ -2511,7 +2506,6 @@ psychologe-online.ch
 psychologe-psychologin.ch
 psychologe-psychotherapie.ch
 psychologe-rheinfelden.ch
-psychologe-schweiz.ch
 psychologe-steiner.ch
 psychologe-wetzikon.ch
 psychologe-winterthur.ch
@@ -2527,7 +2521,6 @@ psychologen-finden.ch
 psychologen-kasse.ch
 psychologen-luzern.ch
 psychologen-psychologinnen.ch
-psychologen-schweiz.ch
 psychologen-winterthur.ch
 psychologen-zuerich.ch
 psychologen.ch
@@ -2535,12 +2528,9 @@ psychologenbasel.ch
 psychologenbern.ch
 psychologenluzern.ch
 psychologenonline.ch
-psychologenschweiz.ch
 psychologenzentrum.ch
 psychologenzuerich.ch
-psychologeschweiz.ch
 psychologesteiner.ch
-psychologezuerich.ch
 psychologia.ch
 psychologic.ch
 psychologica.ch
@@ -2598,7 +2588,6 @@ psychologie-graf.ch
 psychologie-gruntz.ch
 psychologie-hauser.ch
 psychologie-held.ch
-psychologie-hoeheres-bewusstsein.ch
 psychologie-horw.ch
 psychologie-hypnose.ch
 psychologie-im-einsatz.ch
@@ -2870,6 +2859,7 @@ psychologisches-coaching-bosshard.ch
 psychologisches-coaching-schwyz.ch
 psychologisches-coaching.ch
 psychologisches-gutachten.ch
+psychologischescoaching.ch
 psychologischesicherheit.ch
 psychologischeszentrum.ch
 psychologischetherapie.ch
@@ -4217,7 +4207,6 @@ psychotherapiezentrum.ch
 psychotherapiezentrum24.ch
 psychotherapiezuercheroberland.ch
 psychotherapiezueri.ch
-psychotherapiezuerich.ch
 psychotherapiezug.ch
 psychotherapiezurich.ch
 psychotherapist-vevey.ch
