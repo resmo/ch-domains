@@ -2369,7 +2369,6 @@ icplaner.ch
 icplog.ch
 icpmgmtprod.ch
 icpmgmttest.ch
-icpo.ch
 icpro.ch
 icproducts.ch
 icps.ch
@@ -2702,6 +2701,7 @@ ict-outsourcing.ch
 ict-p.ch
 ict-park.ch
 ict-partner.ch
+ict-pentesting.ch
 ict-personalberatung.ch
 ict-platform-development-specialist.ch
 ict-plus.ch
@@ -2727,6 +2727,10 @@ ict-schwyz.ch
 ict-scouts.ch
 ict-search.ch
 ict-sec.ch
+ict-security-bern.ch
+ict-security-schweiz.ch
+ict-security-solothurn.ch
+ict-security-swiss.ch
 ict-security.ch
 ict-sekuster.ch
 ict-service-abo.ch

@@ -333,7 +333,6 @@ doc-flows.ch
 doc-for-pro.ch
 doc-garage.ch
 doc-gen.ch
-doc-gin.ch
 doc-gpt.ch
 doc-grid.ch
 doc-harder.ch
@@ -702,6 +701,7 @@ docksschwerzenbach.ch
 dockstar.ch
 dockstart.ch
 dockstation.ch
+dockster.ch
 docktor.ch
 docktorkoffer.ch
 docktower.ch
@@ -1056,6 +1056,7 @@ docteurpoux.ch
 docteurprieur.ch
 docteurreves.ch
 docteurrichard.ch
+docteurruizlachat.ch
 docteurs-cornavin.ch
 docteurs-renard.ch
 docteurs.ch
@@ -7634,6 +7635,7 @@ domusgeneve.ch
 domusgest.ch
 domusgroup.ch
 domushaus.ch
+domushelp.ch
 domusia.ch
 domusic.ch
 domusimmo.ch
@@ -8109,6 +8111,7 @@ doneby.ch
 donebyai.ch
 donebydeer.ch
 donebyfranzi.ch
+donebywebxon.ch
 donedeal.ch
 donedelstein.ch
 donefinance.ch
@@ -8815,6 +8818,7 @@ doohmedia.ch
 doohprontonetwork.ch
 doohvertise.ch
 dooi-nespresso.ch
+dooit.ch
 dooitapp.ch
 dooitsolutions.ch
 dooka.ch
@@ -11330,6 +11334,8 @@ dossierdedroiteuropeen.ch
 dossierdepresse.ch
 dossierdesante.ch
 dossierelectronique.ch
+dossierelectroniquedesante-non.ch
+dossierelectroniquedesante-oui.ch
 dossierelectroniquedesante.ch
 dossierfest.ch
 dossierfinden.ch
@@ -12185,7 +12191,6 @@ doula-wil.ch
 doula-winterthur.ch
 doula-yoga.ch
 doula-zeit.ch
-doula-zuerich.ch
 doula-zuerichsee-linth.ch
 doula-zuerisee-linth.ch
 doula-zurichsee.ch
@@ -12272,7 +12277,6 @@ doulavie.ch
 doulaya.ch
 doulayoni.ch
 doulazeit.ch
-doulazuerich.ch
 doulet.ch
 douleur-articulaire.ch
 douleur-geneve.ch

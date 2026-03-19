@@ -1097,6 +1097,7 @@ ns1.bookingbelle.ch
 ns1.bookprojects.ch
 ns1.boombird.ch
 ns1.boosterpack.ch
+ns1.boostmyclip.ch
 ns1.bootupyourbusiness.ch
 ns1.boppart-automation.ch
 ns1.borg.ch
@@ -1233,7 +1234,6 @@ ns1.chost.ch
 ns1.christin.ch
 ns1.chrom-box.ch
 ns1.chromaflex.ch
-ns1.churmail.ch
 ns1.ci-bedag.ch
 ns1.cic.ch
 ns1.cicitt.ch
@@ -2860,7 +2860,6 @@ ns1.ownspace.ch
 ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
 ns1.ozg-hygiene.ch
-ns1.p31.ch
 ns1.p4a.ch
 ns1.padcom.ch
 ns1.padelfrenkendorf.ch
@@ -3521,6 +3520,7 @@ ns1.swissfintechinnovationlab.ch
 ns1.swisshipec.ch
 ns1.swisshostserver.ch
 ns1.swissirc.ch
+ns1.swissitcare.ch
 ns1.swisskalk.ch
 ns1.swisslink.ch
 ns1.swisslos.ch
@@ -4445,6 +4445,7 @@ ns2.bookingbelle.ch
 ns2.bookprojects.ch
 ns2.boombird.ch
 ns2.boosterpack.ch
+ns2.boostmyclip.ch
 ns2.bootupyourbusiness.ch
 ns2.borg.ch
 ns2.bornand-foundation.ch
@@ -4578,7 +4579,6 @@ ns2.chrom-box.ch
 ns2.chromaflex.ch
 ns2.chroot.ch
 ns2.chuchi-saeuliamt.ch
-ns2.churmail.ch
 ns2.ci-bedag.ch
 ns2.cic.ch
 ns2.cicitt.ch
@@ -6129,7 +6129,6 @@ ns2.ownspace.ch
 ns2.oxyhelp.ch
 ns2.oyez-oyez.ch
 ns2.ozg-hygiene.ch
-ns2.p31.ch
 ns2.p4a.ch
 ns2.padcom.ch
 ns2.padelfrenkendorf.ch
@@ -6771,6 +6770,7 @@ ns2.swisshipec.ch
 ns2.swisshostserver.ch
 ns2.swissinform.ch
 ns2.swissirc.ch
+ns2.swissitcare.ch
 ns2.swisskalk.ch
 ns2.swisslink.ch
 ns2.swisslos.ch
@@ -7398,7 +7398,6 @@ ns3.chabbeypiller.ch
 ns3.chilibi.ch
 ns3.christin.ch
 ns3.chuchi-saeuliamt.ch
-ns3.churmail.ch
 ns3.ciorciaro.ch
 ns3.cirba.ch
 ns3.citrin.ch
@@ -8109,7 +8108,6 @@ ns4.catatec.ch
 ns4.center.ch
 ns4.ch
 ns4.christin.ch
-ns4.churmail.ch
 ns4.cleanmail.ch
 ns4.coltellino.ch
 ns4.competec.ch
@@ -8529,6 +8527,7 @@ nscap.ch
 nscapital.ch
 nscare.ch
 nscbetspro.ch
+nscc.ch
 nscevents.ch
 nschaad.ch
 nschacherag.ch

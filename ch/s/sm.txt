@@ -2881,7 +2881,6 @@ smarthomegroup.ch
 smarthomekonfigurator.ch
 smarthomelab.ch
 smarthomemagazin.ch
-smarthomenetzwerk.ch
 smarthomeofficeag.ch
 smarthomeone.ch
 smarthomepartner.ch
@@ -2903,7 +2902,6 @@ smarthomesuisse.ch
 smarthomeswiss.ch
 smarthomesystem.ch
 smarthomesystems.ch
-smarthometeam.ch
 smarthometech.ch
 smarthomewerdenberg.ch
 smarthomewiser.ch
@@ -2942,6 +2940,7 @@ smarti.ch
 smartia.ch
 smartiarts.ch
 smartibex-ai.ch
+smartic-partner.ch
 smartic.ch
 smartice.ch
 smarticket.ch
@@ -3063,7 +3062,6 @@ smartitcsp.ch
 smartitservices.ch
 smartitude.ch
 smartiv.ch
-smartivate.ch
 smartivation.ch
 smartive.ch
 smartivity.ch
@@ -4299,6 +4297,7 @@ smartvolt.ch
 smartvolta.ch
 smartvoltaic.ch
 smartvoltaik.ch
+smartvorsorge.ch
 smartvorsorgen.ch
 smartvotation.ch
 smartvote.ch
@@ -4520,6 +4519,10 @@ smashit-spectacle.ch
 smashit.ch
 smashitup.ch
 smashking.ch
+smashlab-chur.ch
+smashlab-davos.ch
+smashlab-laax.ch
+smashlab.ch
 smashleague.ch
 smashline.ch
 smashmagazin.ch
@@ -6917,8 +6920,6 @@ sms-schweizermeister.ch
 sms-senden.ch
 sms-services.ch
 sms-sex.ch
-sms-sexdate.ch
-sms-sextreffen.ch
 sms-sg.ch
 sms-siemag.ch
 sms-solutions.ch
@@ -6932,7 +6933,6 @@ sms-tan.ch
 sms-technology.ch
 sms-thermoformage.ch
 sms-to-mail.ch
-sms-treffen.ch
 sms-tv.ch
 sms-umzug.ch
 sms-up.ch
@@ -7028,7 +7028,6 @@ smsf.ch
 smsfactor.ch
 smsflirt.ch
 smsflirten.ch
-smsflirts.ch
 smsfoxbox.ch
 smsg-dev.ch
 smsg-vorstand.ch
@@ -7104,7 +7103,6 @@ smssenden.ch
 smsserv.ch
 smsservice.ch
 smssex.ch
-smssexkontakte.ch
 smssiemag.ch
 smssoft.ch
 smsstamp.ch
@@ -7181,6 +7179,7 @@ smtp-gateway.ch
 smtp-host.ch
 smtp-osterwalder.ch
 smtp-proxy.ch
+smtp-relay.ch
 smtp-uig.ch
 smtp.ch
 smtp2go.ch
