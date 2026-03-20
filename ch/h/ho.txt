@@ -5840,6 +5840,7 @@ hohl-baraak.ch
 hohl-bau.ch
 hohl-ding.ch
 hohl-direkt.ch
+hohl-gebaeudetechnik.ch
 hohl-heiden.ch
 hohl-holzwaren-suhr.ch
 hohl-kopf.ch
@@ -5880,6 +5881,7 @@ hohlgasse.ch
 hohlgassland.ch
 hohlgasspass.ch
 hohlgassrassler.ch
+hohlgebaeudetechnik.ch
 hohlgraphic.ch
 hohlholz.ch
 hohlicht.ch
@@ -8536,6 +8538,7 @@ holzatelierkeiser.ch
 holzateliersikkema.ch
 holzatelierthun.ch
 holzatelierweber.ch
+holzausbau.ch
 holzausbern.ch
 holzauspolen.ch
 holzauto.ch
@@ -9002,7 +9005,6 @@ holzbecken.ch
 holzbehandlung.ch
 holzbein.ch
 holzbengel.ch
-holzberg.ch
 holzbernhard.ch
 holzberuehrt.ch
 holzbeschichtung.ch
@@ -9775,7 +9777,6 @@ holzkunst-imfeld.ch
 holzkunst-sommer.ch
 holzkunst.ch
 holzkunstdesign.ch
-holzkunsthandwerk-simon-bruelisauer.ch
 holzkunsthaus.ch
 holzkunstwerk.ch
 holzkurier.ch
@@ -11212,6 +11213,7 @@ home-somnia.ch
 home-spa.ch
 home-spirit.ch
 home-sport.ch
+home-st-joseph.ch
 home-stage.ch
 home-staging-schweiz.ch
 home-staging.ch
@@ -11545,6 +11547,7 @@ homecare-guide.ch
 homecare-gurtner.ch
 homecare-medical.ch
 homecare-mittelland.ch
+homecare-na.ch
 homecare-nordstern.ch
 homecare-ostschweiz.ch
 homecare-physio.ch
@@ -11975,7 +11978,6 @@ homeinfra.ch
 homeinlaax.ch
 homeinmotion.ch
 homeinmyself.ch
-homeinnova.ch
 homeinnovations.ch
 homeinnovationshow.ch
 homeinorder.ch
@@ -12180,7 +12182,6 @@ homemate.ch
 homemates.ch
 homematic-ip.ch
 homematic.ch
-homemax.ch
 homemaxx.ch
 homemed.ch
 homemedia.ch
@@ -12334,9 +12335,6 @@ homeofficeschweiz.ch
 homeofficeservice.ch
 homeofficeshop.ch
 homeofficestellen.ch
-homeofficesuisse.ch
-homeofficeswiss.ch
-homeofficeticino.ch
 homeofficevan.ch
 homeofficewinterthur.ch
 homeofficezurich.ch
@@ -13234,6 +13232,7 @@ homiedrinks.ch
 homiee.ch
 homielifeinbalance.ch
 homieprod.ch
+homies-tacos.ch
 homies.ch
 homiewg.ch
 homiex.ch
@@ -16056,7 +16055,6 @@ horizontalbohrungen.ch
 horizontaldirectionaldrilling.ch
 horizontalesgewerbe.ch
 horizontalmetropolis.ch
-horizontalrotierenderfis.ch
 horizontalspuelbohrung.ch
 horizontapotheke.ch
 horizontberatung.ch
@@ -16122,7 +16120,6 @@ horl-1993.ch
 horl-rollschleifer.ch
 horl-shop.ch
 horl.ch
-horlacher-champagner.ch
 horlacher-kaelin.ch
 horlacher.ch
 horlachrind.ch
@@ -16283,6 +16280,7 @@ hormonpraxis.ch
 hormonrechner.ch
 hormonsache.ch
 hormonspeicheltest.ch
+hormonspezialist.ch
 hormonspezialistin.ch
 hormonspirale.ch
 hormonsprechstunde-thun.ch
@@ -16403,7 +16401,6 @@ hornerstamm.ch
 hornet-medical.ch
 hornet-stubeli.ch
 hornet.ch
-hornet1000.ch
 hornetbet.ch
 hornetdrive.ch
 hornets.ch
@@ -22636,7 +22633,6 @@ hotint.ch
 hotisgrillterrasse.ch
 hotisshine.ch
 hotistyle.ch
-hotitec.ch
 hotium.ch
 hotiwebsite.ch
 hotjam.ch
@@ -23412,6 +23408,7 @@ house24.ch
 house25.ch
 house27.ch
 house2home.ch
+house2house.ch
 house2spot.ch
 house3.ch
 house360.ch
@@ -23633,6 +23630,7 @@ houseofchefsrestaurant.ch
 houseofchefsshop.ch
 houseofchesterfield.ch
 houseofchesterfields.ch
+houseofchicken.ch
 houseofchocolate.ch
 houseofchoice.ch
 houseofchristine.ch
@@ -23695,6 +23693,7 @@ houseoffiscal.ch
 houseofflex.ch
 houseofflexwork.ch
 houseoffloorball.ch
+houseofflow.ch
 houseofformation.ch
 houseoffrankenstein.ch
 houseoffraser.ch
@@ -24157,6 +24156,7 @@ hovelit.ch
 hoven-institut.ch
 hoven.ch
 hover-cam.ch
+hover.ch
 hoverair.ch
 hoverart.ch
 hoverbike.ch
@@ -24218,6 +24218,7 @@ how-to-metzg.ch
 how-to-new-work.ch
 how-to-open-a-company-in-switzerland.ch
 how-to-perform-better.ch
+how-to-strike.ch
 how-to-trade.ch
 how-to-win-the-game.ch
 how-to-work-modern.ch

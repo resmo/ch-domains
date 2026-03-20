@@ -5595,7 +5595,6 @@ pimz.ch
 pin-1.ch
 pin-a-paq.ch
 pin-ag.ch
-pin-board.ch
 pin-c.ch
 pin-camp.ch
 pin-coach.ch
@@ -6339,7 +6338,6 @@ pinkifashion.ch
 pinkiger.ch
 pinkilb.ch
 pinkimmobilien.ch
-pinkimmobilienag.ch
 pinkindustries.ch
 pinkinlove.ch
 pinkis.ch
@@ -6875,6 +6873,7 @@ pintedesauvabelin.ch
 pintedestroiscanards.ch
 pintedubuisson.ch
 pinteduparadis.ch
+pintedupralet.ch
 pinter-engineering.ch
 pinter-instruments.ch
 pinter.ch
@@ -7634,6 +7633,7 @@ pirateproxy.ch
 pirateradio.ch
 piraterebelle.ch
 piraterie.ch
+piraterieantifacistegeneve.ch
 piraterieantifascistegeneve.ch
 pirates-aventure.ch
 pirates-basket.ch
@@ -8346,6 +8346,7 @@ pistenverlaengerungen-nein.ch
 pistenverlaengerungen.ch
 pistenview.ch
 pistenzauber.ch
+pisteria.ch
 pistes-hepl.ch
 pistes.ch
 pistesrecyclables.ch
@@ -10001,6 +10002,7 @@ pixmy.ch
 pixnertec.ch
 pixnetic.ch
 pixngraphix.ch
+pixo.ch
 pixo77.ch
 pixoai.ch
 pixoanalytics.ch
@@ -11382,6 +11384,7 @@ pizzamatic.ch
 pizzamax.ch
 pizzamaxx-bueron.ch
 pizzamaxx.ch
+pizzamaxxfood.ch
 pizzamehl.ch
 pizzameister.ch
 pizzamelsa.ch
@@ -11593,6 +11596,7 @@ pizzasjurabernois.ch
 pizzaskits.ch
 pizzaslice.ch
 pizzasms.ch
+pizzasocial-lab.ch
 pizzasocialclub.ch
 pizzasofrastans.ch
 pizzasoftware.ch
@@ -11736,7 +11740,6 @@ pizzeria-archidee.ch
 pizzeria-arlecchino-ilvinaio.ch
 pizzeria-aroma.ch
 pizzeria-arrabbiata.ch
-pizzeria-aspendos.ch
 pizzeria-atrio.ch
 pizzeria-au.ch
 pizzeria-ausonia.ch
