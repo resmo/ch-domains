@@ -896,7 +896,6 @@ ns1.artification.ch
 ns1.artisttax.ch
 ns1.artisttaxconsulting.ch
 ns1.artmatten-immo.ch
-ns1.artofambass.ch
 ns1.artugo.ch
 ns1.as2.ch
 ns1.ascodata.ch
@@ -1517,6 +1516,7 @@ ns1.dnssecurity.ch
 ns1.dnsserver.ch
 ns1.dnsservice.ch
 ns1.dnssys.ch
+ns1.dnsxs.ch
 ns1.do21.ch
 ns1.docscf.ch
 ns1.doing.ch
@@ -1691,7 +1691,6 @@ ns1.f1rstlevel.ch
 ns1.f6link.ch
 ns1.f6mail.ch
 ns1.fabioforni.ch
-ns1.fabirkat.ch
 ns1.fabrica-capricorn.ch
 ns1.facturaplus.ch
 ns1.fahlab.ch
@@ -3727,7 +3726,6 @@ ns1.verveweb.ch
 ns1.verzeichnisdienst.ch
 ns1.vfadmin.ch
 ns1.viatraffic.ch
-ns1.video2000.ch
 ns1.vidsearch.ch
 ns1.vieweger.ch
 ns1.viewsail-electronic.ch
@@ -4247,7 +4245,6 @@ ns2.artification.ch
 ns2.artisttax.ch
 ns2.artisttaxconsulting.ch
 ns2.artmatten-immo.ch
-ns2.artofambass.ch
 ns2.artugo.ch
 ns2.as2.ch
 ns2.ascodata.ch
@@ -4847,6 +4844,7 @@ ns2.dnssecurity.ch
 ns2.dnsserver.ch
 ns2.dnsservice.ch
 ns2.dnssys.ch
+ns2.dnsxs.ch
 ns2.do21.ch
 ns2.doing.ch
 ns2.doingit.ch
@@ -5015,7 +5013,6 @@ ns2.f1rstlevel.ch
 ns2.f6link.ch
 ns2.f6mail.ch
 ns2.fabioforni.ch
-ns2.fabirkat.ch
 ns2.facturaplus.ch
 ns2.fahlab.ch
 ns2.fahrzeugtechnikmueller.ch
@@ -6971,7 +6968,6 @@ ns2.verges.ch
 ns2.verveweb.ch
 ns2.verzeichnisdienst.ch
 ns2.vfadmin.ch
-ns2.video2000.ch
 ns2.vidsearch.ch
 ns2.vieweger.ch
 ns2.viewsail-electronics.ch
@@ -7680,6 +7676,7 @@ ns3.maharshi.ch
 ns3.mainbase.ch
 ns3.makats.ch
 ns3.malermolinari.ch
+ns3.managededv.ch
 ns3.manarasoft.ch
 ns3.manuelfritschi.ch
 ns3.masterhomepage.ch
@@ -7986,7 +7983,6 @@ ns3.vbgw-h.ch
 ns3.veloroyal.ch
 ns3.verapet.ch
 ns3.vfadmin.ch
-ns3.video2000.ch
 ns3.virtualhosts.ch
 ns3.viseca.ch
 ns3.visionunit.ch
@@ -8294,7 +8290,6 @@ ns4.trinitycollege.ch
 ns4.triwdata.ch
 ns4.uhot.ch
 ns4.unique-hosting.ch
-ns4.video2000.ch
 ns4.virtualhosts.ch
 ns4.viseca.ch
 ns4.waly.ch
@@ -8795,7 +8790,6 @@ nssecure.ch
 nssen.ch
 nsservice.ch
 nssg.ch
-nssports.ch
 nsss.ch
 nssteuern.ch
 nssui.comlaude.ch

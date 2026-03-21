@@ -35,6 +35,7 @@ ai-agentic.ch
 ai-agents.ch
 ai-agentur-schweiz.ch
 ai-agentur-zuerich.ch
+ai-agentur.ch
 ai-ai-ai.ch
 ai-ai.ch
 ai-aiva.ch
@@ -85,6 +86,7 @@ ai-automation-manager.ch
 ai-automation.ch
 ai-automationagency.ch
 ai-automations.ch
+ai-automatisierung.ch
 ai-autor.ch
 ai-autorin.ch
 ai-avocats.ch
@@ -92,6 +94,7 @@ ai-ayn.ch
 ai-backend.ch
 ai-base.ch
 ai-basel.ch
+ai-basics.ch
 ai-be.ch
 ai-belevo.ch
 ai-benchmark.ch
@@ -102,6 +105,7 @@ ai-beratungsagentur.ch
 ai-bern.ch
 ai-beteiligungen.ch
 ai-bild-generator.ch
+ai-bild.ch
 ai-bilder-werkstatt.ch
 ai-bird.ch
 ai-blinddate.ch
@@ -110,6 +114,7 @@ ai-bonsai.ch
 ai-book-generator.ch
 ai-booster.ch
 ai-boot-camp.ch
+ai-bootcamp.ch
 ai-bos.ch
 ai-bot.ch
 ai-bots.ch
@@ -287,6 +292,7 @@ ai-executivesearch.ch
 ai-exit.ch
 ai-experience.ch
 ai-expert.ch
+ai-experte.ch
 ai-experten-portal.ch
 ai-experten.ch
 ai-expertenportal.ch
@@ -313,6 +319,7 @@ ai-filmstudio.ch
 ai-finance-solutions.ch
 ai-finance.ch
 ai-first.ch
+ai-fit.ch
 ai-fitness.ch
 ai-flatrate.ch
 ai-flow.ch
@@ -462,6 +469,7 @@ ai-kirche.ch
 ai-klassik.ch
 ai-kmu-marketing.ch
 ai-kmu.ch
+ai-knowhow.ch
 ai-knowledge.ch
 ai-kol.ch
 ai-kommunikation.ch
@@ -636,6 +644,8 @@ ai-print.ch
 ai-pro-medico.ch
 ai-pro.ch
 ai-process.ch
+ai-professionals.ch
+ai-profi.ch
 ai-profis.ch
 ai-promo.ch
 ai-prompt-academy.ch
@@ -657,6 +667,7 @@ ai-raumdesigner.ch
 ai-rchitecture.ch
 ai-reach.ch
 ai-readiness.ch
+ai-ready.ch
 ai-readyness.ch
 ai-realestate.ch
 ai-reception.ch
@@ -697,7 +708,9 @@ ai-scaler.ch
 ai-scan.ch
 ai-scheidung.ch
 ai-school.ch
+ai-schule.ch
 ai-schulung.ch
+ai-schulungen.ch
 ai-schweiz.ch
 ai-scout.ch
 ai-scout24.ch
@@ -709,6 +722,7 @@ ai-security-expert.ch
 ai-security.ch
 ai-sei-ryu.ch
 ai-select.ch
+ai-seminar.ch
 ai-seminare.ch
 ai-seo-schweiz.ch
 ai-seo.ch
@@ -834,15 +848,18 @@ ai-vs.ch
 ai-wear.ch
 ai-web.ch
 ai-webdesign.ch
+ai-webinar.ch
 ai-webseite.ch
 ai-website.ch
 ai-weeks.ch
+ai-weiterbildung.ch
 ai-werbeagentur.ch
 ai-werbespot.ch
 ai-werbespots.ch
 ai-werbung.ch
 ai-werk.ch
 ai-werkstatt.ch
+ai-wissen.ch
 ai-wizard.ch
 ai-work.ch
 ai-worker.ch
@@ -980,7 +997,6 @@ aiadvisors.ch
 aiadvisory.ch
 aiae.ch
 aiaed.ch
-aiaenergiesysteme.ch
 aiaf.ch
 aiafiduciaire.ch
 aiag.ch
@@ -1078,6 +1094,7 @@ aiautomation.ch
 aiautomationagency.ch
 aiautomationguide.ch
 aiautomations.ch
+aiautomatisierung.ch
 aiautomotivedms.ch
 aiava.ch
 aiavatar.ch
@@ -1148,6 +1165,7 @@ aibook.ch
 aibooking.ch
 aiboost.ch
 aibooster.ch
+aibootcamp.ch
 aibooth.ch
 aiborg.ch
 aibos.ch
@@ -2006,6 +2024,7 @@ aiexecutive.ch
 aiexecutivemonitor.ch
 aiexecutivepulse.ch
 aiexpert.ch
+aiexperte.ch
 aiexperts.ch
 aiexplorerclub.ch
 aiexpo.ch
@@ -2066,6 +2085,7 @@ aifioritenero.ch
 aifip.ch
 aifirewall.ch
 aifirst.ch
+aifit.ch
 aiflirt.ch
 aiflo.ch
 aiflow.ch
@@ -2521,6 +2541,7 @@ aikido-ch.ch
 aikido-club-basel.ch
 aikido-daehlhoelzli-bern.ch
 aikido-dojo-lausanne.ch
+aikido-dojo-liestal.ch
 aikido-dojo.ch
 aikido-eauxvives.ch
 aikido-eglisau.ch
@@ -2660,6 +2681,7 @@ aikmittelland.ch
 aikmu.ch
 aiknight.ch
 aiknow.ch
+aiknowhow.ch
 aiko-samen.ch
 aiko.ch
 aikoa-design.ch
@@ -2786,6 +2808,7 @@ ailela.ch
 ailena.ch
 ailenroc-gesund.ch
 aileonreal.ch
+ailernen.ch
 aileron.ch
 aileronpharmaceuticals.ch
 ailes-du-saint-bernard.ch
@@ -3607,6 +3630,7 @@ aipro.ch
 aiprocess.ch
 aiproduction.ch
 aiprofessional.ch
+aiprofi.ch
 aiprogram.ch
 aiprojektentwicklung.ch
 aiprolink.ch
@@ -4004,6 +4028,7 @@ airbion.ch
 airbit.ch
 airblast.ch
 airblech.ch
+airblechgmbh.ch
 airblue.ch
 airbn.ch
 airbnb-04.ch
@@ -5757,6 +5782,7 @@ aischahamdipacha.ch
 aischahueppin.ch
 aischines.ch
 aischool.ch
+aischule.ch
 aischulung.ch
 aischwyz.ch
 aiscicomm.ch
@@ -6093,6 +6119,7 @@ aitoons.ch
 aitor.ch
 aitos.ch
 aitotattoo.ch
+aitourpilot.ch
 aitown.ch
 aitoy.ch
 aitracker.ch
@@ -6324,6 +6351,7 @@ aiwebdesign.ch
 aiwebsite.ch
 aiwebsitebuilder.ch
 aiwebsites.ch
+aiweiterbildung.ch
 aiwerbung.ch
 aiwerk.ch
 aiwert.ch

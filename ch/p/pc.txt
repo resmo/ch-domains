@@ -481,6 +481,7 @@ pca-bern.ch
 pca-services.ch
 pca.ch
 pca4business.ch
+pcaarau.ch
 pcaarburg.ch
 pcab.ch
 pcaboard.ch
@@ -876,6 +877,7 @@ pckurse.ch
 pckursebelp.ch
 pcl-ag.ch
 pcl-air.ch
+pcl-fidu.ch
 pcl-fiduciaire.ch
 pcl-holding.ch
 pcl-pcardin.ch
@@ -895,7 +897,9 @@ pcleimental.ch
 pclengnau.ch
 pclernatelier.ch
 pclfamily.ch
+pclfidu.ch
 pclfiduciaire.ch
+pclfiduciairesa.ch
 pclife.ch
 pclinux.ch
 pclinuxdoktor.ch
