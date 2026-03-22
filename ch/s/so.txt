@@ -957,7 +957,6 @@ social-medical.ch
 social-monitoring.ch
 social-network.ch
 social-networker.ch
-social-networking.ch
 social-networks.ch
 social-o-matic.ch
 social-olymp.ch
@@ -1084,7 +1083,6 @@ socialcent.ch
 socialch.ch
 socialchange.ch
 socialchangeswitzerland.ch
-socialcharity.ch
 socialchat.ch
 socialcheck.ch
 socialchef.ch
@@ -3012,6 +3010,7 @@ sofort-reinigen.ch
 sofort-reinigung.ch
 sofort-schlank.ch
 sofort-sex.ch
+sofort-solar-offerte.ch
 sofort-spende.ch
 sofort-spenden.ch
 sofort-support.ch
@@ -3442,7 +3441,6 @@ softgun.ch
 softguns.ch
 softgunshop.ch
 softhale.ch
-softharmony.ch
 softhelp.ch
 softhentic.ch
 softherm.ch
@@ -5264,7 +5262,6 @@ soladonna.ch
 solae.ch
 solaecole.ch
 solaer.ch
-solaera-tech.ch
 solaerlenbach.ch
 solaeya.ch
 solafide-foodtruck.ch
@@ -5581,6 +5578,7 @@ solar-cube.ch
 solar-dach-plicht.ch
 solar-dach.ch
 solar-dachanalyse.ch
+solar-dachflaeche-check.ch
 solar-dachpotenzial.ch
 solar-dachreinigung.ch
 solar-dachziegel.ch
@@ -5593,6 +5591,7 @@ solar-dialog.ch
 solar-dienstleistung.ch
 solar-dienstleistungen.ch
 solar-direkt.ch
+solar-direktvergleich.ch
 solar-discount.ch
 solar-doctor.ch
 solar-doktor.ch
@@ -5600,6 +5599,7 @@ solar-doku.ch
 solar-dorf.ch
 solar-drive.ch
 solar-echafaudages.ch
+solar-effizienz-check.ch
 solar-effizienz.ch
 solar-eigenbau.ch
 solar-eigenheim-check.ch
@@ -5617,6 +5617,7 @@ solar-energie-beratung.ch
 solar-energie-partner-ag.ch
 solar-energie-schweiz.ch
 solar-energie.ch
+solar-energieberater.ch
 solar-energieberatung.ch
 solar-energiehaus.ch
 solar-energien.ch
@@ -5639,6 +5640,7 @@ solar-fachstelle.ch
 solar-factory.ch
 solar-faehre.ch
 solar-fahrzeuge.ch
+solar-fakten-schweiz.ch
 solar-farm.ch
 solar-fassade.ch
 solar-fassaden.ch
@@ -5651,6 +5653,7 @@ solar-firma.ch
 solar-firmen.ch
 solar-fix.ch
 solar-fizz.ch
+solar-flachdach-check.ch
 solar-flair.ch
 solar-flow.ch
 solar-foerderung.ch
@@ -5683,6 +5686,7 @@ solar-gr.ch
 solar-green-power.ch
 solar-grossanlagen.ch
 solar-grosshandel.ch
+solar-grundstueck-check.ch
 solar-gruppe.ch
 solar-guide.ch
 solar-guru.ch
@@ -5692,6 +5696,7 @@ solar-haldimann.ch
 solar-handel.ch
 solar-handlauf.ch
 solar-haus.ch
+solar-hauscheck.ch
 solar-heart.ch
 solar-heimspeicher.ch
 solar-held.ch
@@ -5794,13 +5799,16 @@ solar-metallbau.ch
 solar-mine.ch
 solar-miner.ch
 solar-mining.ch
+solar-modernisierung.ch
 solar-modul.ch
 solar-module.ch
 solar-modules.ch
 solar-montagen.ch
 solar-motion.ch
+solar-nachruesten.ch
 solar-nepal.ch
 solar-net.ch
+solar-neubau-check.ch
 solar-next.ch
 solar-niederberger.ch
 solar-nomaden.ch
@@ -5876,6 +5884,7 @@ solar-railing.ch
 solar-rappen.ch
 solar-raptor.ch
 solar-ratgeber.ch
+solar-rechner-tool.ch
 solar-rechner.ch
 solar-rechner365.ch
 solar-recycling.ch
@@ -5912,6 +5921,7 @@ solar-schoepfi.ch
 solar-schweiz.ch
 solar-schwimmteich.ch
 solar-screen.ch
+solar-selbstversorgung.ch
 solar-service-schweiz.ch
 solar-services.ch
 solar-sessellift.ch
@@ -5949,10 +5959,12 @@ solar-star-swiss.ch
 solar-star.ch
 solar-starswiss.ch
 solar-starten.ch
+solar-steuerbonus.ch
 solar-storen.ch
 solar-strassenbeleuchtung.ch
 solar-stratos.ch
 solar-strom.ch
+solar-strompreis-check.ch
 solar-suisse.ch
 solar-support.ch
 solar-swiss-ag.ch
@@ -5988,6 +6000,7 @@ solar-trade.ch
 solar-trust.ch
 solar-turning-point.ch
 solar-tx.ch
+solar-umwelt-check.ch
 solar-unddu.ch
 solar-universe.ch
 solar-unternehmen.ch
@@ -5996,6 +6009,7 @@ solar-update.ch
 solar-uster.ch
 solar-ventilator.ch
 solar-verband.ch
+solar-verbrauch-check.ch
 solar-vergleich-schweiz.ch
 solar-vergleich.ch
 solar-versand.ch
@@ -6018,6 +6032,7 @@ solar-wil.ch
 solar-wind.ch
 solar-window.ch
 solar-winterthur.ch
+solar-wohnhaus-check.ch
 solar-wohnmobil.ch
 solar-x.ch
 solar-zahner.ch
@@ -6033,6 +6048,7 @@ solar-zone.ch
 solar-zubehoer.ch
 solar-zuerich.ch
 solar-zug.ch
+solar-zukunft-schweiz.ch
 solar-zukunft.ch
 solar-zumikon.ch
 solar-zuschuss.ch
@@ -6123,6 +6139,7 @@ solaranlage-angebot.ch
 solaranlage-basel.ch
 solaranlage-beratung.ch
 solaranlage-berechnen.ch
+solaranlage-bestellen.ch
 solaranlage-camper.ch
 solaranlage-campingbus.ch
 solaranlage-direkt-vom-hersteller.ch
@@ -6497,6 +6514,7 @@ solarenergie-fachverband.ch
 solarenergie-gr.ch
 solarenergie-graubuenden.ch
 solarenergie-in-meiner-naehe.ch
+solarenergie-info.ch
 solarenergie-kueng.ch
 solarenergie-nutzen.ch
 solarenergie-obwalden.ch
@@ -6703,7 +6721,6 @@ solarhandel-schweiz.ch
 solarhandel.ch
 solarhandel24.ch
 solarhandling.ch
-solarhans.ch
 solarhaus-info.ch
 solarhaus-schweiz.ch
 solarhaus.ch
@@ -6799,6 +6816,7 @@ solarimport.ch
 solarimpuls.ch
 solarimpulse.ch
 solarindustrie.ch
+solarinfluencer.ch
 solarinfo.ch
 solarinfoschweiz.ch
 solaringenieur.ch
@@ -7110,12 +7128,14 @@ solarmacher.ch
 solarmacherei.ch
 solarmail.ch
 solarmaker.ch
+solarmanagement.ch
 solarmanager.ch
 solarmann.ch
 solarmanufaktur.ch
 solarmappro.ch
 solarmaps.ch
 solarmarket.ch
+solarmarkise.ch
 solarmarkt.ch
 solarmarkt24.ch
 solarmarktplatz.ch
@@ -7202,6 +7222,7 @@ solarofferte-online.ch
 solarofferte.ch
 solarofferte24.ch
 solaroffertecheck.ch
+solarofferteinfo.ch
 solarofferten.ch
 solarofferten24.ch
 solaroffertenvergleich.ch
@@ -10618,6 +10639,8 @@ solutions-communes.ch
 solutions-concept.ch
 solutions-creatives.ch
 solutions-crm.ch
+solutions-cross-web.ch
+solutions-crossweb.ch
 solutions-digital.ch
 solutions-digitales.ch
 solutions-dokhane.ch
@@ -12251,6 +12274,7 @@ sommetclimat.ch
 sommetdesvignes.ch
 sommeteducation.ch
 sommeteducationfoundation.ch
+sommetlab.ch
 sommets-musicaux.ch
 sommets-pour-tous.ch
 sommets.ch
@@ -13152,6 +13176,7 @@ soniclab.ch
 soniclabnet.ch
 soniclabnetwork.ch
 soniclefilm.ch
+soniclumina.ch
 sonicmail.ch
 sonicmar.ch
 sonicmat.ch
@@ -14475,6 +14500,7 @@ sonnenstrahl.ch
 sonnenstrahlen.ch
 sonnenstrahlenweltweit.ch
 sonnenstrasse.ch
+sonnenstrom-info.ch
 sonnenstrom-mg.ch
 sonnenstrom-schweiz.ch
 sonnenstrom.ch
@@ -17883,7 +17909,6 @@ sosschreiner.ch
 sosschweiz.ch
 sosse.ch
 sossecretaire.ch
-sossen.ch
 sosserrurier.ch
 sosserruriergeneve247.ch
 sosservice.ch
@@ -18624,6 +18649,7 @@ soulfantasy.ch
 soulfarm.ch
 soulfarming.ch
 soulfeeling.ch
+soulfeet.ch
 soulfi.ch
 soulfinder.ch
 soulfinity-tattoo.ch
@@ -19023,7 +19049,6 @@ soulsnowband.ch
 soulsnstories.ch
 soulsocks.ch
 soulsoflight.ch
-soulsofrock.ch
 soulsoma-healing.ch
 soulsoma.ch
 soulsound.ch
@@ -19229,6 +19254,7 @@ sound-design.ch
 sound-designer.ch
 sound-emotions.ch
 sound-factory.ch
+sound-floating.ch
 sound-gallery.ch
 sound-garage.ch
 sound-garden.ch
@@ -19449,6 +19475,7 @@ soundfield.ch
 soundfire.ch
 soundflake.ch
 soundflash-studio.ch
+soundfloating.ch
 soundfloor.ch
 soundflow.ch
 soundflux.ch
@@ -21153,7 +21180,6 @@ soziale-kompetenz.ch
 soziale-medien.ch
 soziale-mitte.ch
 soziale-musik.ch
-soziale-netzwerke.ch
 soziale-phobie.ch
 soziale-plastik.ch
 soziale-produkte.ch
@@ -21198,7 +21224,6 @@ sozialekontakte.ch
 sozialemedien.ch
 sozialemedizin.ch
 sozialemitte.ch
-sozialephobie.ch
 sozialeprojekte.ch
 sozialeprozesse.ch
 sozialer-job.ch
@@ -21435,7 +21460,6 @@ sozialversicherungenzug.ch
 sozialversicherungsabkommen.ch
 sozialversicherungsanstalt.ch
 sozialversicherungsanwalt.ch
-sozialversicherungschweiz.ch
 sozialversicherungsexperte.ch
 sozialversicherungsexperten.ch
 sozialversicherungsfachfrau.ch

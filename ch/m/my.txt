@@ -127,6 +127,7 @@ my-bank.ch
 my-bankomat.ch
 my-banner.ch
 my-bar.ch
+my-barber.ch
 my-base.ch
 my-basefit.ch
 my-bat.ch
@@ -1018,7 +1019,6 @@ my-lift.ch
 my-light.ch
 my-limo.ch
 my-line.ch
-my-lions.ch
 my-liposuction.ch
 my-liquid.ch
 my-little-cow.ch
@@ -3752,6 +3752,7 @@ myclean.ch
 myclean9.ch
 mycleancar.ch
 mycleanenergy.ch
+mycleaner.ch
 mycleaning.ch
 mycleanix.ch
 mycleanmail.ch
@@ -5082,6 +5083,7 @@ myfairdiamonds.ch
 myfairevents.ch
 myfairfood.ch
 myfairmoney.ch
+myfairpath.ch
 myfairtrade.ch
 myfairytalestories.ch
 myfaith.ch
@@ -6967,7 +6969,6 @@ mylane.ch
 mylaneuveville.ch
 mylangenthal.ch
 mylanguagedrill.ch
-mylania.ch
 mylanina.ch
 mylanka.ch
 mylanparty.ch
@@ -7232,7 +7233,6 @@ mylink.ch
 mylinks.ch
 mylinterieur.ch
 mylion.ch
-mylions.ch
 mylipo.ch
 myliposuction.ch
 myliquid.ch
@@ -9357,6 +9357,7 @@ myradiology.ch
 myradns.ch
 myrado.ch
 myrae.ch
+myrafertility.ch
 myrah-watches.ch
 myrah.ch
 myrai-marmorholz.ch
@@ -11155,7 +11156,6 @@ myswisscompanyhydration.ch
 myswisscomputer.ch
 myswissconcierge.ch
 myswissconnect.ch
-myswisscontact.ch
 myswisscorp.ch
 myswisscorporation.ch
 myswisscosmetics.ch
@@ -11943,6 +11943,7 @@ mytribu.ch
 mytrikki.ch
 mytripblog.ch
 mytriplea.ch
+mytrips.ch
 mytripset.ch
 mytrix.ch
 mytroc.ch

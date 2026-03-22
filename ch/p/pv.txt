@@ -15,12 +15,14 @@ pv-anlage-reinigung.ch
 pv-anlagen.ch
 pv-anlagencheck.ch
 pv-architektur.ch
+pv-ausrichtung-check.ch
 pv-axpo-nok.ch
 pv-barometer.ch
 pv-basel.ch
 pv-batterie.ch
 pv-bench.ch
 pv-berater-finden.ch
+pv-beratung-schweiz.ch
 pv-beratung.ch
 pv-besitzer.ch
 pv-best.ch
@@ -52,7 +54,10 @@ pv-diebstahl.ch
 pv-direkt.ch
 pv-display.ch
 pv-doku.ch
+pv-eigenheim-rechner.ch
 pv-eigenverbrauchsgemeinschaft.ch
+pv-einfamilienhaus.ch
+pv-einspeisetarif.ch
 pv-energie-beratung.ch
 pv-energien.ch
 pv-energiespeicher.ch
@@ -82,6 +87,7 @@ pv-info.ch
 pv-inspektion.ch
 pv-inspektionen.ch
 pv-installateur.ch
+pv-installation-schweiz.ch
 pv-interlaken.ch
 pv-invest.ch
 pv-kampagne.ch
@@ -92,7 +98,9 @@ pv-komponenten.ch
 pv-kontrolle.ch
 pv-kosten.ch
 pv-lab.ch
+pv-ladestation-solar.ch
 pv-leads.ch
+pv-leistungs-check.ch
 pv-maintenance.ch
 pv-march.ch
 pv-markt.ch
@@ -104,6 +112,7 @@ pv-mieten.ch
 pv-mieterstrom.ch
 pv-modul.ch
 pv-module.ch
+pv-monitor-schweiz.ch
 pv-monitoring.ch
 pv-mont-soleil.ch
 pv-montagesysteme.ch
@@ -111,6 +120,7 @@ pv-montlingen.ch
 pv-morges.ch
 pv-navi.ch
 pv-netz.ch
+pv-netzeinspeisung.ch
 pv-next.ch
 pv-oev.ch
 pv-offerte.ch
@@ -135,6 +145,7 @@ pv-projektberatung.ch
 pv-projektmanagement.ch
 pv-promea.ch
 pv-putzer.ch
+pv-ratgeber-info.ch
 pv-ratgeber-schweiz.ch
 pv-ratgeber.ch
 pv-rechner.ch
@@ -155,6 +166,7 @@ pv-rheintal.ch
 pv-risk.ch
 pv-roboter.ch
 pv-sandrabugmann.ch
+pv-sanierung-check.ch
 pv-sauber.ch
 pv-schweiz.ch
 pv-seeclub-sempach.ch
@@ -172,6 +184,7 @@ pv-solarstrom.ch
 pv-solutions.ch
 pv-speicher-kaufen.ch
 pv-speicher.ch
+pv-speicherloesung.ch
 pv-srk.ch
 pv-stahlbau.ch
 pv-strom.ch
@@ -200,10 +213,12 @@ pv-vzug.ch
 pv-waermepumpe-beratung.ch
 pv-wand.ch
 pv-wander.ch
+pv-wartung-schweiz.ch
 pv-wartung.ch
 pv-watt.ch
 pv-werterhalt.ch
 pv-winterthur.ch
+pv-wirtschaftlichkeit.ch
 pv-wissen.ch
 pv-worklife.ch
 pv-wp-offerten.ch

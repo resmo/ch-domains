@@ -62,6 +62,8 @@ ns-primary.confirm.ch
 ns-property.ch
 ns-propertyag.ch
 ns-publish.ch
+ns-real-estate-ag.ch
+ns-real-estate.ch
 ns-royal.ch
 ns-sarl.ch
 ns-schwimmkurse.ch
@@ -163,6 +165,7 @@ ns.dentalmcenter.ch
 ns.dexion.ch
 ns.dfi.innet.ch
 ns.dfisch.ch
+ns.dgcloud.ch
 ns.digibisch.ch
 ns.dimeo.ch
 ns.dinao.ch
@@ -2111,6 +2114,7 @@ ns1.in-addr.ch
 ns1.in2ition.ch
 ns1.in4out.ch
 ns1.incide.ch
+ns1.indiavillage.ch
 ns1.inetworx.ch
 ns1.inf-brun.ch
 ns1.infinity.ch
@@ -2264,7 +2268,6 @@ ns1.jumedia.ch
 ns1.juwgab.ch
 ns1.jvweb.ch
 ns1.kaesgate.ch
-ns1.kafiwerk.ch
 ns1.kajendran.ch
 ns1.kantiso.ch
 ns1.kaplan.ch
@@ -3364,6 +3367,7 @@ ns1.skyagent.ch
 ns1.skycore.ch
 ns1.skyhost.ch
 ns1.skyte.ch
+ns1.sleepndgo.ch
 ns1.slf.ch
 ns1.slueoend.ch
 ns1.sly.ch
@@ -5419,6 +5423,7 @@ ns2.in-addr.ch
 ns2.in2ition.ch
 ns2.in4out.ch
 ns2.incide.ch
+ns2.indiavillage.ch
 ns2.inetworx.ch
 ns2.inf-brun.ch
 ns2.infinitesolutions.ch
@@ -6609,6 +6614,7 @@ ns2.skinheads.ch
 ns2.skycore.ch
 ns2.skyhost.ch
 ns2.skyte.ch
+ns2.sleepndgo.ch
 ns2.slf.ch
 ns2.slueoend.ch
 ns2.smart-dynamic.ch
@@ -7627,7 +7633,6 @@ ns3.jthosting.ch
 ns3.jumedia.ch
 ns3.jura.ch
 ns3.jvweb.ch
-ns3.kafiwerk.ch
 ns3.kamber-hosting.ch
 ns3.kaminbau-oswald.ch
 ns3.kappelergastro.ch
@@ -8777,6 +8782,8 @@ nsr1.hansundulrich.ch
 nsr2.hansundulrich.ch
 nsracing.ch
 nsre.ch
+nsrealestate.ch
+nsrealestateag.ch
 nsrecruit.ch
 nsreinigungen.ch
 nsresear.ch
