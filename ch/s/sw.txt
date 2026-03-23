@@ -632,6 +632,7 @@ swcustom.ch
 swd.ch
 swda.ch
 swdag.ch
+swdesign.ch
 swdev.ch
 swdi.ch
 swdistrict.ch
@@ -1619,7 +1620,6 @@ swicket.ch
 swicla.ch
 swicle.ch
 swiclean.ch
-swiclo.ch
 swiclos.ch
 swico-bulletin.ch
 swico-chronik.ch
@@ -2366,7 +2366,6 @@ swingvoices.ch
 swingwalking.ch
 swingwerk.ch
 swingworks.ch
-swingz.ch
 swinis-place.ch
 swinis.ch
 swink.ch
@@ -2511,6 +2510,7 @@ swis-property.ch
 swis-quality-lizenz.ch
 swis-services.ch
 swis-ski.ch
+swis.ch
 swis4win.ch
 swisabeauty.ch
 swisante.ch
@@ -4676,6 +4676,7 @@ swiss-drops.ch
 swiss-druck.ch
 swiss-drum-academy.ch
 swiss-drums.ch
+swiss-drumshow.ch
 swiss-dry-aged-beef.ch
 swiss-dry-extractor.ch
 swiss-dry.ch
@@ -4881,7 +4882,6 @@ swiss-english-exams.ch
 swiss-english.ch
 swiss-enigma.ch
 swiss-enique.ch
-swiss-enlightend.ch
 swiss-enlightened.ch
 swiss-enneagramme.ch
 swiss-enrich.ch
@@ -5791,6 +5791,7 @@ swiss-hw.ch
 swiss-hyaluronic.ch
 swiss-hybrid-academy.ch
 swiss-hybrid-cloud.ch
+swiss-hydraulik.ch
 swiss-hydro.ch
 swiss-hydrogen-power.ch
 swiss-hydrogen-solutions.ch
@@ -6779,7 +6780,6 @@ swiss-messer.ch
 swiss-metabolomics.ch
 swiss-metal-chocolate.ch
 swiss-metal-coin.ch
-swiss-metal-tech.ch
 swiss-metallbau.ch
 swiss-metallhandel.ch
 swiss-metals.ch
@@ -7419,7 +7419,6 @@ swiss-petersohn.ch
 swiss-peterson.ch
 swiss-petfood.ch
 swiss-petroleum.ch
-swiss-pets.ch
 swiss-phamily.ch
 swiss-pharma-hub.ch
 swiss-pharma-qs.ch
@@ -9469,6 +9468,7 @@ swiss-vps.ch
 swiss-vr.ch
 swiss-vreneli.ch
 swiss-vserver.ch
+swiss-vtc.ch
 swiss-vtuber.ch
 swiss-vulkan.ch
 swiss-vx.ch
@@ -10861,7 +10861,6 @@ swissatec.ch
 swissatelier.ch
 swissatest.ch
 swissatg.ch
-swissathlet.ch
 swissathletes.ch
 swissathletics.ch
 swissathome.ch
@@ -13316,7 +13315,6 @@ swisscloud-mountain.ch
 swisscloud-systems.ch
 swisscloud.ch
 swisscloud24.ch
-swisscloudai.ch
 swisscloudbox.ch
 swisscloudcomputing.ch
 swisscloudconference.ch
@@ -14498,6 +14496,7 @@ swissdeluxegroup.ch
 swissdeluxehaylage.ch
 swissdeluxehomeservices.ch
 swissdeluxehotel.ch
+swissdeluxehotels.ch
 swissdeluxehousekeeping.ch
 swissdeluxemedicalcenters.ch
 swissdeluxemedicalresorts.ch
@@ -14545,6 +14544,7 @@ swissdentalcommunity.ch
 swissdentalcompany.ch
 swissdentaldeal.ch
 swissdentaldesignstudio.ch
+swissdentaleducation.ch
 swissdentaleurope.ch
 swissdentalexperts.ch
 swissdentalgroup.ch
@@ -19913,6 +19913,7 @@ swisslm.ch
 swisslma.ch
 swissln.ch
 swisslo.ch
+swissload.ch
 swissloan.ch
 swisslobby.ch
 swissloc.ch
@@ -20272,6 +20273,7 @@ swissmagicwindow.ch
 swissmagie.ch
 swissmagma.ch
 swissmagnets.ch
+swissmahavihara.ch
 swissmahjong.ch
 swissmaid.ch
 swissmail.ch
@@ -20547,7 +20549,6 @@ swissmechanicalmarvels.ch
 swissmechanicbusinessday.ch
 swissmechanik.ch
 swissmechatronics.ch
-swissmechtalents.ch
 swissmeclic.ch
 swissmectools.ch
 swissmed-24.ch
@@ -20672,6 +20673,7 @@ swissmedicalag.ch
 swissmedicalassistance.ch
 swissmedicalat.ch
 swissmedicalauction.ch
+swissmedicalbank.ch
 swissmedicalbeauty.ch
 swissmedicalboard.ch
 swissmedicalcannabis.ch
@@ -22584,7 +22586,6 @@ swisspeace.ch
 swisspeacekarabakh.ch
 swisspeacesupport.ch
 swisspeacesymposium.ch
-swisspeak-agency.ch
 swisspeak-partners.ch
 swisspeak-resort.ch
 swisspeak-resorts.ch
@@ -22892,6 +22893,7 @@ swisspilatesschool.ch
 swisspilgrim.ch
 swisspilgrims.ch
 swisspilgrimsguide.ch
+swisspilgrmis.ch
 swisspill.ch
 swisspillars.ch
 swisspilot.ch
@@ -24695,7 +24697,6 @@ swissroyalclub.ch
 swissroyaletours.ch
 swissroyalevent.ch
 swissroyalgroupe.ch
-swissroyaln1.ch
 swissroyalteam.ch
 swissroyaltouch.ch
 swissroyalty.ch
@@ -25641,6 +25642,7 @@ swisssweets.ch
 swissswift.ch
 swissswim.ch
 swissswimming.ch
+swissswimmschool.ch
 swissswing.ch
 swissswingpark.ch
 swissswiss.ch
@@ -25992,7 +25994,6 @@ swisstechstore.ch
 swisstechsummit.ch
 swisstechsupport.ch
 swisstechsupportweb.ch
-swisstechtalents.ch
 swisstechtalks.ch
 swisstechteam.ch
 swisstechtitans.ch
@@ -26877,6 +26878,8 @@ swissunion.ch
 swissunipress.ch
 swissuniq.ch
 swissunique.ch
+swissuniqueinspiration.ch
+swissuniqueinspirations.ch
 swissuniquejourney.ch
 swissuniquetours.ch
 swissunit.ch
@@ -28737,6 +28740,7 @@ switzerlandtrips.ch
 switzerlandtv1.ch
 switzerlandumzuege.ch
 switzerlandumzuge.ch
+switzerlandunique.ch
 switzerlandvacation.ch
 switzerlandvacations.ch
 switzerlandvanilla.ch

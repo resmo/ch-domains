@@ -1972,6 +1972,7 @@ ns1.herbstfriede.ch
 ns1.herisau-internet.ch
 ns1.herzogdemeuron.ch
 ns1.hess-treuhand.ch
+ns1.hessundmartigmbh.ch
 ns1.hex-hochschule.ch
 ns1.hgcloud.ch
 ns1.hgw-it.ch
@@ -3659,7 +3660,6 @@ ns1.trekking-switzerland.ch
 ns1.trendpoint.ch
 ns1.trendwerk.ch
 ns1.tricontego.ch
-ns1.trimm.ch
 ns1.trinitycollege.ch
 ns1.tripio.ch
 ns1.tripledns.ch
@@ -3911,6 +3911,7 @@ ns1.wp-guru.ch
 ns1.wru.ch
 ns1.wservices.ch
 ns1.wunda.ch
+ns1.wunschpreis.ch
 ns1.wwo.ch
 ns1.wwwhosting.ch
 ns1.wyni.ch
@@ -5280,6 +5281,7 @@ ns2.henryw.ch
 ns2.herbstfriede.ch
 ns2.herisau-internet.ch
 ns2.hess-treuhand.ch
+ns2.hessundmartigmbh.ch
 ns2.hgcloud.ch
 ns2.hgw-it.ch
 ns2.hiddenprimary.ch
@@ -6907,7 +6909,6 @@ ns2.trekking-switzerland.ch
 ns2.trendpoint.ch
 ns2.trendwerk.ch
 ns2.tricontego.ch
-ns2.trimm.ch
 ns2.trinitycollege.ch
 ns2.tripio.ch
 ns2.tripledns.ch
@@ -7149,6 +7150,7 @@ ns2.wru.ch
 ns2.wsbox.ch
 ns2.wservices.ch
 ns2.wunda.ch
+ns2.wunschpreis.ch
 ns2.wwo.ch
 ns2.wwwhosting.ch
 ns2.wyni.ch
