@@ -831,6 +831,7 @@ eficlean.ch
 eficode.ch
 eficy.ch
 efid.ch
+efidu.ch
 efiduciaire.ch
 efient.ch
 efifa.ch
@@ -886,7 +887,6 @@ efisa.ch
 efisan.ch
 efisch.ch
 efishingsystems.ch
-efisol.ch
 efisolar.ch
 efisuisse.ch
 efit.ch
@@ -1161,6 +1161,7 @@ eft-officiel.ch
 eft-optimal.ch
 eft-ostschweiz.ch
 eft-paartherapie.ch
+eft-pe.ch
 eft-pos.ch
 eft-pour-animaux.ch
 eft-renata.ch
