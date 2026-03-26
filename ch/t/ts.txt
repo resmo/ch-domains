@@ -872,7 +872,6 @@ tschopp-nettoyage.ch
 tschopp-obst.ch
 tschopp-optik.ch
 tschopp-pcm.ch
-tschopp-pellets.ch
 tschopp-photography.ch
 tschopp-sanitaer.ch
 tschopp-schreinerei.ch
@@ -1561,6 +1560,8 @@ tspy.ch
 tspycher.ch
 tsq.ch
 tsqc.ch
+tsqimmo.ch
+tsqimmobilien.ch
 tsquality.ch
 tsquare.ch
 tsquared.ch

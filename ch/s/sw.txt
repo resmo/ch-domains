@@ -88,6 +88,7 @@ sw0rd.ch
 sw1.ch
 sw13.ch
 sw17.ch
+sw17t.ch
 sw1e.ch
 sw1ss.ch
 sw1t.ch
@@ -7982,6 +7983,7 @@ swiss-residential-service.ch
 swiss-residenz.ch
 swiss-resilience-center.ch
 swiss-resilience-hub.ch
+swiss-resilience-lab.ch
 swiss-resine.ch
 swiss-resort.ch
 swiss-respecful-design.ch
@@ -9806,8 +9808,6 @@ swiss3dscan.ch
 swiss3dtour.ch
 swiss3dwork.ch
 swiss3football.ch
-swiss3pillar.ch
-swiss3rdpillar.ch
 swiss4-practeo.ch
 swiss4-win.ch
 swiss4.ch
@@ -12364,6 +12364,7 @@ swisscalme.ch
 swisscalorie.ch
 swisscalvus.ch
 swisscam-businesscircle.ch
+swisscam-security.ch
 swisscam.ch
 swisscam24.ch
 swisscambridgeenglish.ch
@@ -13844,6 +13845,7 @@ swisscornholeleague.ch
 swisscoronamarathon.ch
 swisscorp.ch
 swisscorpglobalmarket.ch
+swisscorporate.ch
 swisscorporateapi.ch
 swisscorporatecounsel.ch
 swisscorporatefashion.ch
@@ -14385,7 +14387,6 @@ swissdatalab.ch
 swissdatalabs.ch
 swissdataleaks.ch
 swissdatalink.ch
-swissdatalytics.ch
 swissdatanet.ch
 swissdataplus.ch
 swissdataprivacy.ch
@@ -16233,6 +16234,7 @@ swissfinancial.ch
 swissfinancialconsulting.ch
 swissfinancialeducation.ch
 swissfinancialholding.ch
+swissfinancialinnovationlab.ch
 swissfinancialmarket.ch
 swissfinancialmarketsupervisoryauthority.ch
 swissfinancialpartners.ch
@@ -16305,6 +16307,7 @@ swissfintechinnovations.ch
 swissfintechladies.ch
 swissfintechlaw.ch
 swissfintechlegal.ch
+swissfintechsandbox.ch
 swissfintechweek.ch
 swissfinx.ch
 swissfire.ch
@@ -20010,6 +20013,7 @@ swissloks.ch
 swissloma.ch
 swisslona.ch
 swisslongboardassociation.ch
+swisslongeva.ch
 swisslongevity-ag.ch
 swisslongevity-clinique.ch
 swisslongevity-lifecenter.ch
@@ -20362,6 +20366,7 @@ swissmango.ch
 swissmania.ch
 swissmaniac.ch
 swissmaniak.ch
+swissmantafoundation.ch
 swissmantrailing.ch
 swissmantrailingsearchdogs.ch
 swissmantriathlon.ch
@@ -23084,7 +23089,6 @@ swisspneus.ch
 swisspnp.ch
 swisspo.ch
 swisspocket.ch
-swisspoclean.ch
 swisspod.ch
 swisspodcast.ch
 swisspodcasta.ch
@@ -23635,6 +23639,7 @@ swissproducts.ch
 swissproductsonline.ch
 swissprodukte.ch
 swissprodukts.ch
+swissproenglish.ch
 swissproevents.ch
 swissproevolution.ch
 swissprofession.ch
@@ -25006,10 +25011,8 @@ swisssg.ch
 swisssgrid.ch
 swisssh.ch
 swissshaman.ch
-swissshape-center.ch
 swissshape-shop.ch
 swissshape.ch
-swissshapecenter.ch
 swissshapefeelgreat.ch
 swissshapelongevity.ch
 swissshare.ch
@@ -25065,6 +25068,7 @@ swissshuttle.ch
 swissside.ch
 swisssidechain.ch
 swisssidedt.ch
+swisssidejob.ch
 swisssight.ch
 swisssighthound.ch
 swisssightseeing.ch
@@ -27088,6 +27092,7 @@ swissvenacare.ch
 swissvend.ch
 swissvending.ch
 swissvendingcompany.ch
+swissvendingsolutions.ch
 swissvenirs.ch
 swissventa.ch
 swissventil.ch

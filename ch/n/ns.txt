@@ -165,7 +165,6 @@ ns.dentalmcenter.ch
 ns.dexion.ch
 ns.dfi.innet.ch
 ns.dfisch.ch
-ns.dgcloud.ch
 ns.digibisch.ch
 ns.dimeo.ch
 ns.dinao.ch
@@ -2013,6 +2012,7 @@ ns1.hoi-versicherungen.ch
 ns1.holiness.ch
 ns1.homburger.ch
 ns1.home4u.ch
+ns1.homemassagezurich.ch
 ns1.homepage39.ch
 ns1.homm-host.ch
 ns1.honda-motorrad-zuerich.ch
@@ -2346,7 +2346,6 @@ ns1.krak.ch
 ns1.krea-ns.ch
 ns1.kreativloft-shop.ch
 ns1.kreator2.ch
-ns1.krieg-saeriswil.ch
 ns1.ksb.ch
 ns1.kscag.ch
 ns1.ksso.ch
@@ -2509,7 +2508,6 @@ ns1.markattack.ch
 ns1.markethiq.ch
 ns1.marktideen.ch
 ns1.marktkreisel.ch
-ns1.marlis-gerteis.ch
 ns1.marlise-gerteis.ch
 ns1.marm8.ch
 ns1.marranchelli.ch
@@ -3409,6 +3407,7 @@ ns1.so.ch
 ns1.sofakultur.ch
 ns1.sofipo.ch
 ns1.soft-link.ch
+ns1.softcomtrading.ch
 ns1.softds.ch
 ns1.softronics.ch
 ns1.softtechhub.ch
@@ -3960,7 +3959,6 @@ ns1.xn--flckiger-optik-hrcenter-nlc9k.ch
 ns1.xn--hbergement-web-bkb.ch
 ns1.xn--hoflden-8wa.ch
 ns1.xn--kostromshop-qfb.ch
-ns1.xn--krieg-sriswil-hfb.ch
 ns1.xn--oy-oy-csad.ch
 ns1.xn--ri-wka.ch
 ns1.xn--uov-mnsingen-hlb.ch
@@ -5343,6 +5341,7 @@ ns2.hoi-versicherungen.ch
 ns2.holiness.ch
 ns2.homburger.ch
 ns2.home4u.ch
+ns2.homemassagezurich.ch
 ns2.homepage39.ch
 ns2.homm-host.ch
 ns2.honda-motorrad-zuerich.ch
@@ -6683,6 +6682,7 @@ ns2.sofakultur.ch
 ns2.sofipo.ch
 ns2.soft-link.ch
 ns2.soft-plus.ch
+ns2.softcomtrading.ch
 ns2.softds.ch
 ns2.softronics.ch
 ns2.softserve.ch
@@ -7306,7 +7306,6 @@ ns22.edvl.ch
 ns22.runway.ch
 ns23.interdns.ch
 ns24.ch
-ns25.ch
 ns2501.mspa.ch
 ns2itsieber.ch
 ns2x.hoststar.ch

@@ -101,6 +101,7 @@ loadbank.ch
 loadbee.ch
 loadedbit.ch
 loadedboards.ch
+loadedfries.ch
 loadedsmoothies.ch
 loader.ch
 loaderready.ch
@@ -617,7 +618,6 @@ local-studio.ch
 local-studios.ch
 local-suche.ch
 local-superlocal.ch
-local-supermarket.ch
 local-sushi-delivery-sankt-gallen.ch
 local-swiss.ch
 local-taxi.ch
@@ -1069,7 +1069,6 @@ localstudy.ch
 localsuccess.ch
 localsuche.ch
 localsun.ch
-localsupermarket.ch
 localsupport.ch
 localsurgeles.ch
 localswiss.ch
@@ -2519,6 +2518,7 @@ loeffel.ch
 loeffelbiegen.ch
 loeffelbuebe.ch
 loeffelburg.ch
+loeffeletfils.ch
 loeffelhase.ch
 loeffelkiste.ch
 loeffelliste.ch
@@ -7954,7 +7954,6 @@ looksport.ch
 looksswiss.ch
 looksuisse.ch
 lookswiss.ch
-lookthrough-advisory.ch
 lookthrough.ch
 looktouch.ch
 looktwice.ch
@@ -8032,7 +8031,6 @@ loompress.ch
 loomproperty.ch
 loomroom.ch
 loomsarees.ch
-loomservices.ch
 loomspace.ch
 loomstar.ch
 loomster.ch
@@ -12226,6 +12224,7 @@ lovellshogan.ch
 lovellshoganhartson.ch
 lovelmysmile.ch
 lovelo.ch
+lovelock.ch
 lovelockers.ch
 lovelodge.ch
 lovelove.ch
@@ -12529,7 +12528,6 @@ loversbootcamp.ch
 loversdate.ch
 loversgate.ch
 lovershop.ch
-loversmeditation.ch
 loverso.ch
 loverspedia.ch
 loverstv.ch
@@ -12716,6 +12714,7 @@ lovezuerich.ch
 lovezug.ch
 lovher.ch
 lovi.ch
+lovia-ag.ch
 lovia.ch
 loviaa.ch
 loviat.ch

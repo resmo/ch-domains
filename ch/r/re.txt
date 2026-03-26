@@ -671,6 +671,7 @@ readr.ch
 readring.ch
 reads.ch
 readsea.ch
+readsestosenso.ch
 readsoft.ch
 readspeaker.ch
 readtheface.ch
@@ -1276,7 +1277,6 @@ realcasadiborbone.ch
 realcasaportuguesa.ch
 realcaster.ch
 realcastillo.ch
-realcbt.ch
 realchange.ch
 realchangeoffice.ch
 realcheck.ch
@@ -2973,7 +2973,6 @@ rebelhound.ch
 rebelhounds.ch
 rebelinc.ch
 rebelink.ch
-rebelio.ch
 rebelkids.ch
 rebelkit.ch
 rebell-ski.ch
@@ -3287,6 +3286,7 @@ rebleuten-oberhofen.ch
 rebleuten.ch
 rebleutenchur.ch
 rebleutenzunft.ch
+reblig.ch
 rebling.ch
 reblo.ch
 rebloc.ch
@@ -3485,7 +3485,6 @@ rebrief.ch
 rebroker.ch
 rebru.ch
 rebrus.ch
-rebs.ch
 rebsamen-bauleitung.ch
 rebsamen-bm.ch
 rebsamen-guemligen.ch
@@ -6502,6 +6501,7 @@ redable.ch
 redaboumasmoud.ch
 redacom.ch
 redact.ch
+redacta.ch
 redacted.ch
 redacteur-graphique.ch
 redacteur-independant.ch
@@ -6916,6 +6916,7 @@ reddwarf.ch
 reddy-kueche.ch
 reddy-kuechen.ch
 reddy.ch
+reddyanna.ch
 reddye.ch
 reddytec.ch
 reddz.ch
@@ -7610,6 +7611,7 @@ redon.ch
 redonda.ch
 redondo.ch
 redondobea.ch
+redondurmishi.ch
 redone.ch
 redone4u.ch
 redonline.ch
@@ -7803,7 +7805,6 @@ redsedan.ch
 redseed.ch
 redseekers.ch
 redseelig.ch
-redseite.ch
 redselig.ch
 redsen-consulting.ch
 redsen-technology.ch
@@ -7889,6 +7890,7 @@ redspots.ch
 redsprite-dev.ch
 redsprite.ch
 redstag.ch
+redstar-barbershop.ch
 redstar.ch
 redstar24.ch
 redstars.ch
@@ -8003,16 +8005,19 @@ reduforte.ch
 redufortebiomed.ch
 reduirelescouts.ch
 reduit-ix.ch
+reduit-national.ch
 reduit-solutions.ch
 reduit.ch
 reduitli.ch
 reduitly.ch
 reduitnational.ch
+reduitnationalsuisse.ch
 reduitproductions.ch
 reduitsuisse.ch
 reduktion.ch
 reduktionvonverschwendung.ch
 reduktum.ch
+redumbrella.ch
 redumed-kaufen.ch
 redumed-schweiz.ch
 redumed-shop.ch
@@ -9091,7 +9096,6 @@ referralcodes.ch
 referralmarketing.ch
 referralmetodomerenda.ch
 referralmm.ch
-referrals.ch
 referralsaasquat.ch
 referrer.ch
 referring.ch
@@ -9435,6 +9439,8 @@ reflex-reiki.ch
 reflex-relax.ch
 reflex-sante.ch
 reflex-sens.ch
+reflex-service.ch
+reflex-services.ch
 reflex-solution.ch
 reflex-squash.ch
 reflex-systems.ch
@@ -9643,6 +9649,8 @@ reflexrihs.ch
 reflexsan.ch
 reflexschirm.ch
 reflexschirme.ch
+reflexservice.ch
+reflexservices.ch
 reflexshoes.ch
 reflexshop.ch
 reflexso.ch
@@ -10961,6 +10969,7 @@ regenwasserzentrum.ch
 regenweg.ch
 regenwelten.ch
 regenwerk.ch
+regenwert.ch
 regenwetter.ch
 regenwolkenwerkstatt.ch
 regenwort.ch
@@ -12220,6 +12229,7 @@ regionalfeuerwehr-liestal.ch
 regionalfinden.ch
 regionalfood.ch
 regionalgericht-landquart.ch
+regionalgesichter.ch
 regionalgruppe-zimmerberg.ch
 regionalgruppen.ch
 regionalgut.ch
@@ -15074,6 +15084,7 @@ reimann-bundb.ch
 reimann-fenster.ch
 reimann-gmbh.ch
 reimann-immobilien.ch
+reimann-international.ch
 reimann-kurse.ch
 reimann-online.ch
 reimann-psychotherapie.ch
@@ -15531,6 +15542,7 @@ reinigung-energiesysteme.ch
 reinigung-engadin.ch
 reinigung-engel.ch
 reinigung-express.ch
+reinigung-fassade.ch
 reinigung-fassaden.ch
 reinigung-fenster.ch
 reinigung-ferreira.ch
@@ -18268,7 +18280,6 @@ rekasi.ch
 rekastiftungferienhilfe.ch
 rekatreuhand.ch
 rekaweinundmehr.ch
-rekeczki.ch
 rekenber.ch
 rekening.ch
 reker.ch
@@ -18548,6 +18559,7 @@ relaisdumontdorge.ch
 relaisdupetitbourg.ch
 relaisdupeupe.ch
 relaisdusaintbernard.ch
+relaisdusimplon.ch
 relaisdustbernard.ch
 relaisduvalais.ch
 relaisduvin-co.ch
@@ -18931,7 +18943,6 @@ relaxitude.ch
 relaxity.ch
 relaxkissen.ch
 relaxkonzept.ch
-relaxlab-spa.ch
 relaxliege.ch
 relaxliegen.ch
 relaxlife.ch
@@ -19866,7 +19877,6 @@ remate.ch
 rematec-ag.ch
 rematec.ch
 rematech.ch
-remateq.ch
 remateria.ch
 rematerial.ch
 rematherapie.ch
@@ -21630,9 +21640,7 @@ renault-ticino.ch
 renault-trafic-camper-ausbau.ch
 renault-trafic-camper.ch
 renault-trafic-spaceclass.ch
-renault-training.ch
 renault-trucks-ch.ch
-renault-trucks-training.ch
 renault-trucks.ch
 renault-verlosung.ch
 renault-vra.ch
@@ -22737,6 +22745,8 @@ rengarenkarpus.ch
 rengel-meier.ch
 rengel.ch
 rengg3r.ch
+rengg79-wollishofen.ch
+rengg79wollishofen.ch
 rengger-chilbi.ch
 rengger3.ch
 renggerchilbi.ch
@@ -23969,6 +23979,7 @@ renowit.ch
 renowncapital.ch
 renowncapitalpartners.ch
 renowohnen.ch
+renoworkx.ch
 renox-treuhand.ch
 renox.ch
 renoxpert.ch
@@ -25084,6 +25095,7 @@ rentitag.ch
 rentitonline.ch
 rentiva.ch
 rentivate.ch
+rentivo.ch
 rentix.ch
 rentl.ch
 rentlamborghini.ch
@@ -26104,6 +26116,7 @@ reparaturschreiner-48.ch
 reparaturschreiner.ch
 reparaturschreiner24.ch
 reparaturschreiner48.ch
+reparaturscout.ch
 reparaturservice-baldinger.ch
 reparaturservice.ch
 reparaturshop.ch
@@ -26321,6 +26334,7 @@ repertoriofondazioni.ch
 repertorium.ch
 repetenten-coaching.ch
 repetentencoaching.ch
+repetgeneve.ch
 repetieren.ch
 repetikette.ch
 repetiteur.ch
@@ -26466,6 +26480,7 @@ replicati.ch
 replicator.ch
 replicauhr.ch
 replicawatch.ch
+replicawatches.ch
 replicit.ch
 replifex.ch
 replight.ch
@@ -27358,7 +27373,6 @@ rescuesoftware.ch
 rescuestudy.ch
 rescuetablet.ch
 rescueteam.ch
-rescueteammitteland.ch
 rescuetec.ch
 rescuetech.ch
 rescuetools.ch
@@ -31195,6 +31209,7 @@ restaurant-le-petit-sapin.ch
 restaurant-le-phenix.ch
 restaurant-le-postillon.ch
 restaurant-le-quinze-30.ch
+restaurant-le-quinze30.ch
 restaurant-le-relais.ch
 restaurant-le-rendez-vous.ch
 restaurant-le-safran-geneve.ch
@@ -33313,7 +33328,6 @@ restaurantslausanne.ch
 restaurantslice.ch
 restaurantslucerne.ch
 restaurantsluzern.ch
-restaurantsnearme.ch
 restaurantsng.ch
 restaurantsofra.ch
 restaurantsommerau.ch
@@ -33409,6 +33423,7 @@ restaurantthoracker.ch
 restaurantthun.ch
 restauranttibetgarten-ettenhausenbeiaadorf.ch
 restauranttiffany.ch
+restauranttilia.ch
 restauranttipps.ch
 restauranttobel.ch
 restauranttoedi.ch
@@ -34333,6 +34348,7 @@ retailmatrix.ch
 retailme.ch
 retailmedia-reach.ch
 retailmedia.ch
+retailmediasystems.ch
 retailmenot.ch
 retailmeoff.ch
 retailnet.ch
@@ -34627,6 +34643,7 @@ retinascope.ch
 retinasees.ch
 retinaspecialists.ch
 retinasuisse.ch
+retinaura.ch
 retinavision.ch
 retinavitreous.ch
 retinaward.ch
@@ -35176,7 +35193,6 @@ retouchphotos.ch
 retoundmirellaunterwegs.ch
 retoundsalo.ch
 retour-a-soi.ch
-retour-affectif-marabout-medium.ch
 retour-affectif-melvin-suisse.ch
 retour-affectif.ch
 retour-amoureux-immediat.ch
@@ -35707,7 +35723,6 @@ retrosneaker.ch
 retrosolutions.ch
 retrosound.ch
 retrospect.ch
-retrospective-pqg.ch
 retrospective-winterthur.ch
 retrospective.ch
 retrospectyves.ch
@@ -35777,7 +35792,6 @@ retsch.ch
 retschitzki-ingenieur.ch
 retschwil.ch
 retseptli.ch
-retsevmo.ch
 retsiem.ch
 retsifp.ch
 retsina.ch
@@ -35879,7 +35893,6 @@ rettetdiealpen.ch
 rettetdiebienen.ch
 rettetdieflade.ch
 rettetdiegebaermutter.ch
-rettetdieroeseren.ch
 rettetdieruetihard.ch
 rettetdiesrg.ch
 rettetdieziege.ch
@@ -36537,7 +36550,6 @@ revak-realestate.ch
 revak.ch
 reval.ch
 revaldi.ch
-revaleo.ch
 revalhair.ch
 revali.ch
 revalia-dream.ch
@@ -37023,7 +37035,6 @@ revi-sport.ch
 revi-tec.ch
 revi.ch
 revia.ch
-reviajoie.ch
 revialabs.ch
 revialp.ch
 reviamco.ch

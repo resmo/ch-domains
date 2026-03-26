@@ -1763,7 +1763,6 @@ aidentity.ch
 aidepc.ch
 aidepersonnesagees.ch
 aidepersonnesageesgeneve.ch
-aidepme.ch
 aideprimaire.ch
 aider-beit-sahour.ch
 aider-eerv.ch
@@ -1886,6 +1885,7 @@ aidoc.ch
 aidock.ch
 aidocr.ch
 aidocs.ch
+aidocteur.ch
 aidoctor.ch
 aidoctors.ch
 aidoktor.ch
@@ -4728,6 +4728,7 @@ airline.ch
 airlineband.ch
 airlineboykott.ch
 airlinecheck.ch
+airlinecleaning.ch
 airlinecrewing.ch
 airlinedirect.ch
 airlineholidays.ch
