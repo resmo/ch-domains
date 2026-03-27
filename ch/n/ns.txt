@@ -1372,7 +1372,6 @@ ns1.cshug.ch
 ns1.csl-tools.ch
 ns1.csr-company.ch
 ns1.cste.ch
-ns1.ctfsystem.ch
 ns1.cuandu.ch
 ns1.cubic.ch
 ns1.cundn.ch
@@ -2678,7 +2677,6 @@ ns1.myhostpart.ch
 ns1.myhostplus.ch
 ns1.mymeme.ch
 ns1.myrtillabox.ch
-ns1.mywebhost.ch
 ns1.n3network.ch
 ns1.n3t.ch
 ns1.nabiona.ch
@@ -3107,7 +3105,6 @@ ns1.raetz-plaettli.ch
 ns1.railtour.ch
 ns1.railtronic.ch
 ns1.ralphschuler.ch
-ns1.ramona-webdesign.ch
 ns1.rampensau.ch
 ns1.rayhaan.ch
 ns1.razor.ch
@@ -3365,6 +3362,7 @@ ns1.sikom.ch
 ns1.silent-effect.ch
 ns1.silvis-dollhouse-land.ch
 ns1.simnic68.ch
+ns1.simon-lnformatik.ch
 ns1.simonvonarx.ch
 ns1.simpledns.ch
 ns1.simplehosting.ch
@@ -4737,7 +4735,6 @@ ns2.cshug.ch
 ns2.csl-tools.ch
 ns2.csr-company.ch
 ns2.cste.ch
-ns2.ctfsystem.ch
 ns2.cuandu.ch
 ns2.cubic.ch
 ns2.cundn.ch
@@ -5985,7 +5982,6 @@ ns2.myhostpart.ch
 ns2.myhostplus.ch
 ns2.mymeme.ch
 ns2.myrtillabox.ch
-ns2.mywebhost.ch
 ns2.n3network.ch
 ns2.n3t.ch
 ns2.nabiona.ch
@@ -6388,7 +6384,6 @@ ns2.radlosservice.ch
 ns2.raetz-plaettli.ch
 ns2.railtronic.ch
 ns2.ralphschuler.ch
-ns2.ramona-webdesign.ch
 ns2.rampensau.ch
 ns2.rayhaan.ch
 ns2.razor.ch
@@ -6640,6 +6635,7 @@ ns2.silvia-harnisch.ch
 ns2.silvis-dollhouse-land.ch
 ns2.simmcomm.ch
 ns2.simnic68.ch
+ns2.simon-lnformatik.ch
 ns2.simon-stucki.ch
 ns2.simpledns.ch
 ns2.simplehosting.ch
@@ -7474,7 +7470,6 @@ ns3.conet.ch
 ns3.cons.ch
 ns3.core2.ch
 ns3.crenovelherz.ch
-ns3.ctfsystem.ch
 ns3.cyberdog.ch
 ns3.cyberlink.ch
 ns3.darryl.ch
@@ -7775,6 +7770,7 @@ ns3.my-namaste.ch
 ns3.mydns4you.ch
 ns3.mydnsnet.ch
 ns3.myhostpart.ch
+ns3.mywebhost.ch
 ns3.n3network.ch
 ns3.nabiona.ch
 ns3.namemaster.ch
@@ -8154,6 +8150,7 @@ ns4.cleanmail.ch
 ns4.coltellino.ch
 ns4.competec.ch
 ns4.computech-rz.ch
+ns4.core2.ch
 ns4.dellacasameride.ch
 ns4.demicomp.ch
 ns4.dermacast.ch
@@ -8252,6 +8249,7 @@ ns4.ms-swiss.ch
 ns4.msa-net.ch
 ns4.musikzielke.ch
 ns4.my-namaste.ch
+ns4.mywebhost.ch
 ns4.namemaster.ch
 ns4.navacoaching.ch
 ns4.neaweb.ch
@@ -8385,6 +8383,7 @@ ns5.center.ch
 ns5.ch
 ns5.cleanmail.ch
 ns5.computech-rz.ch
+ns5.core2.ch
 ns5.creativeagent.ch
 ns5.demicomp.ch
 ns5.dizmo.ch
@@ -8407,6 +8406,7 @@ ns5.maebi.ch
 ns5.marco-salzmann.ch
 ns5.mkf.ch
 ns5.musikzielke.ch
+ns5.mywebhost.ch
 ns5.nambu.ch
 ns5.namemaster.ch
 ns5.net-4-it.ch
@@ -8435,6 +8435,7 @@ ns6.b-source.ch
 ns6.bellinzonaweb.ch
 ns6.bosslab.ch
 ns6.computech-rz.ch
+ns6.core2.ch
 ns6.creativeagent.ch
 ns6.dizmo.ch
 ns6.englmaier.ch
@@ -8461,6 +8462,7 @@ ns7.b-source.ch
 ns7.bellinzonaweb.ch
 ns7.bosslab.ch
 ns7.call-up.ch
+ns7.core2.ch
 ns7.creativeagent.ch
 ns7.dizmo.ch
 ns7.engitech.ch
@@ -8480,6 +8482,7 @@ ns8.b-source.ch
 ns8.bellinzonaweb.ch
 ns8.bosslab.ch
 ns8.ch
+ns8.core2.ch
 ns8.dizmo.ch
 ns8.engitech.ch
 ns8.goline.ch

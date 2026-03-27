@@ -76,7 +76,6 @@ sv-hitzkirch.ch
 sv-hochfelden.ch
 sv-holliger-bern.ch
 sv-holliger.ch
-sv-home.ch
 sv-hotel.ch
 sv-hpr.ch
 sv-htg.ch
@@ -2286,6 +2285,7 @@ svp-rapperswil.ch
 svp-regensdorf.ch
 svp-regio-kerzers.ch
 svp-region-konolfingen.ch
+svp-regiouzwil.ch
 svp-rehag.ch
 svp-reiat.ch
 svp-reichenburg.ch
@@ -2625,6 +2625,7 @@ svpmittelland.ch
 svpmittellandsued.ch
 svpmuri.ch
 svpo.ch
+svpoberbuchsiten.ch
 svpoberengadin.ch
 svpoberhasli.ch
 svpol.ch
