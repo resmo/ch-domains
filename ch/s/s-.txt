@@ -311,7 +311,6 @@ s-fp.ch
 s-frame.ch
 s-fsouduresetformations.ch
 s-ft.ch
-s-g-f.ch
 s-g-i.ch
 s-g-n.ch
 s-g-photography.ch
@@ -327,6 +326,7 @@ s-geneve.ch
 s-ges.ch
 s-gg.ch
 s-gillieron.ch
+s-gillioz.ch
 s-glider.ch
 s-gobar.ch
 s-gp.ch
@@ -728,6 +728,7 @@ s-shop-24.ch
 s-shop.ch
 s-signer.ch
 s-sir.ch
+s-slimit.ch
 s-soft.ch
 s-sol.ch
 s-solution.ch
@@ -740,6 +741,7 @@ s-src.ch
 s-st.ch
 s-stadler.ch
 s-staender.ch
+s-staxi.ch
 s-stb.ch
 s-steinergmbh.ch
 s-store.ch

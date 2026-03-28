@@ -2433,6 +2433,7 @@ ns1.loetkompetenz.ch
 ns1.loewingert.ch
 ns1.logex-web.ch
 ns1.logging.ch
+ns1.logitracks.ch
 ns1.london-city-info.ch
 ns1.loosli-informatik.ch
 ns1.loquis.ch
@@ -3389,7 +3390,6 @@ ns1.sleepndgo.ch
 ns1.slf.ch
 ns1.slueoend.ch
 ns1.sly.ch
-ns1.smart-dynamic.ch
 ns1.smart-staging.ch
 ns1.smartmoneymatch.ch
 ns1.smartsupport.ch
@@ -5756,6 +5756,7 @@ ns2.loetkompetenz.ch
 ns2.loewingert.ch
 ns2.logex-web.ch
 ns2.logging.ch
+ns2.logitracks.ch
 ns2.london-city-info.ch
 ns2.loosli-informatik.ch
 ns2.loquis.ch
@@ -6660,7 +6661,6 @@ ns2.skyte.ch
 ns2.sleepndgo.ch
 ns2.slf.ch
 ns2.slueoend.ch
-ns2.smart-dynamic.ch
 ns2.smart-staging.ch
 ns2.smartmoneymatch.ch
 ns2.smartsupport.ch
@@ -7948,7 +7948,6 @@ ns3.simplehosting.ch
 ns3.sinmedia.ch
 ns3.sisnet.ch
 ns3.ski-bergtouren.ch
-ns3.smart-dynamic.ch
 ns3.smilla.ch
 ns3.smr-technik.ch
 ns3.snvhosting.ch

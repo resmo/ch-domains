@@ -69,7 +69,6 @@ si-goal.ch
 si-gossip.ch
 si-group.ch
 si-gruen.ch
-si-haustechnik.ch
 si-holding.ch
 si-hub.ch
 si-immo.ch
@@ -1373,6 +1372,7 @@ sichergesundzuhause.ch
 sichergross.ch
 sichergsund.ch
 sicherguenstig.ch
+sicherhand.ch
 sicherheit-aargau.ch
 sicherheit-abderhalden.ch
 sicherheit-ai.ch
@@ -1653,7 +1653,6 @@ sicherheitskongress.ch
 sicherheitskontrolle.ch
 sicherheitskonzepte.ch
 sicherheitskoordinator-vergleich.ch
-sicherheitskopie.ch
 sicherheitskultur.ch
 sicherheitskurier.ch
 sicherheitskurierdienst.ch
@@ -2534,7 +2533,6 @@ sideout.ch
 sidepower.ch
 sidepreneur.ch
 sidepro.ch
-sideproject.ch
 sideprojects.ch
 sidequest.ch
 sidequestevents.ch
@@ -4792,6 +4790,7 @@ signato.ch
 signatop.ch
 signator.ch
 signatum.ch
+signatur-generator.ch
 signatur.ch
 signatura.ch
 signaturduft.ch
@@ -4865,8 +4864,11 @@ signaturemacarons.ch
 signaturemanager.ch
 signaturemetropolitan.ch
 signaturemove.ch
+signaturen-generator.ch
+signaturen.ch
 signaturenails.ch
 signaturenet.ch
+signaturengenerator.ch
 signaturenlehre.ch
 signaturenumerique.ch
 signatureoffaith.ch
@@ -4896,6 +4898,7 @@ signatureviaggi.ch
 signaturevoyages.ch
 signatureweb.ch
 signatureyachting.ch
+signaturgenerator.ch
 signaturthun.ch
 signatys.ch
 signau-campus.ch
@@ -5039,6 +5042,7 @@ signflow.ch
 signforest.ch
 signforfuture.ch
 signform.ch
+signforpeace.ch
 signgate.ch
 signh26.ch
 signhost.ch
@@ -5352,6 +5356,7 @@ sigrist-constantin.ch
 sigrist-consulting.ch
 sigrist-cranio.ch
 sigrist-design.ch
+sigrist-diamantwerkzeuge.ch
 sigrist-eng.ch
 sigrist-engineering.ch
 sigrist-fahrzeughilfe.ch
@@ -6587,7 +6592,6 @@ silence.ch
 silenceair.ch
 silenceandmusic.ch
 silenceasaservice.ch
-silencedisco.ch
 silencedisease.ch
 silencediseaseamplifylife.ch
 silenceeco.ch
@@ -6648,7 +6652,6 @@ silent-commerce.ch
 silent-computer-systems.ch
 silent-concert.ch
 silent-conference.ch
-silent-dance.ch
 silent-deckensysteme.ch
 silent-depths-diving.ch
 silent-depths.ch
@@ -6852,6 +6855,7 @@ silentriver.ch
 silentroads.ch
 silentroom.ch
 silentrooms.ch
+silentrun.ch
 silents.ch
 silentsailing.ch
 silentscale.ch
@@ -8279,6 +8283,7 @@ silverpay.ch
 silverpea.ch
 silverpeak.ch
 silverpearl.ch
+silverpeas.ch
 silverpine.ch
 silverpixel.ch
 silverplan.ch
@@ -10030,6 +10035,7 @@ simon-wirth.ch
 simon-wirz.ch
 simon-wolfer.ch
 simon-wyss.ch
+simon-z.ch
 simon-zellweger.ch
 simon-zemp.ch
 simon-ziffermayer.ch
@@ -10573,7 +10579,6 @@ simonelustenberger.ch
 simonemail.ch
 simonemarinelli.ch
 simonemarquard.ch
-simonemasoni.ch
 simonemathies.ch
 simonematter.ch
 simonematthieu.ch
@@ -16438,6 +16443,7 @@ sistemi-uditivi.ch
 sistemica.ch
 sistemik.ch
 sistems.ch
+sister-act.ch
 sister-boy.ch
 sister-courage.ch
 sister-distribution.ch
