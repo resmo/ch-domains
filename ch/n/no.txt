@@ -2185,7 +2185,6 @@ noexcuseshop.ch
 noexcuseslanur.ch
 noexis.ch
 noexit.ch
-noexplore.ch
 noey.ch
 noeyuetsch.ch
 noez.ch
@@ -2223,6 +2222,7 @@ noflamm.ch
 noflashypics.ch
 noflawinyou.ch
 noflix.ch
+noflixdev.ch
 noflockoevent.ch
 nofloh.ch
 nofloods.ch
@@ -4916,9 +4916,6 @@ nord-lock.ch
 nord-lockgroup.ch
 nord-nrgx.ch
 nord-ost.ch
-nord-psy.ch
-nord-psycho.ch
-nord-psychologues.ch
 nord-shop.ch
 nord-side.ch
 nord-solution.ch
@@ -5574,9 +5571,6 @@ nordpool.ch
 nordportal.ch
 nordprint.ch
 nordprojekt.ch
-nordpsy.ch
-nordpsycho.ch
-nordpsychologues.ch
 nordquartier.ch
 nordquist.ch
 nordr-vikings.ch
@@ -6889,12 +6883,12 @@ nosh.ch
 nosha.ch
 noshame.ch
 noshameinthegame.ch
-nosharchitekten.ch
 noshballs.ch
 noshgmbh.ch
 noshies.ch
 noshirt.ch
 noshit.ch
+nosho.ch
 noshort.ch
 noshortcuts.ch
 noshow.ch
@@ -10944,6 +10938,7 @@ novalpin.ch
 novalpine.ch
 novalpquartz.ch
 novalsa.ch
+novalsette.ch
 novaltec.ch
 novaltectcs.ch
 novalthea.ch
@@ -12710,6 +12705,7 @@ noxli.ch
 noxmarket.ch
 noxnest.ch
 noxno.ch
+noxo.ch
 noxof.ch
 noxon.ch
 noxone.ch

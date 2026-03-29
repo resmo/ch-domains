@@ -216,7 +216,6 @@ sdc-cst.ch
 sdc-cva.ch
 sdc-economy-education.ch
 sdc-employment-income.ch
-sdc-executives.ch
 sdc-foodsecurity.ch
 sdc-foodsystems.ch
 sdc-health.ch
@@ -226,7 +225,6 @@ sdc-online.ch
 sdc-pge.ch
 sdc-psy.ch
 sdc-regions.ch
-sdc-swiss.ch
 sdc-umwelttechnik.ch
 sdc-valuechains.ch
 sdc-water.ch
