@@ -212,7 +212,6 @@ it-config.ch
 it-configuration-guide.ch
 it-congress.ch
 it-connect.ch
-it-connections.ch
 it-connects.ch
 it-conseil.ch
 it-conseils.ch
@@ -1362,6 +1361,7 @@ itadviser.ch
 itadvisory.ch
 itae-design.ch
 itae.ch
+itaeric.ch
 itaerzte.ch
 itaevo.ch
 itafel.ch
@@ -2099,8 +2099,6 @@ itconcepts-solutions.ch
 itconcepts.ch
 itconcierge.ch
 itcongress.ch
-itconnection.ch
-itconnections.ch
 itcons.ch
 itconseil.ch
 itconseils-services.ch
@@ -2681,7 +2679,6 @@ itgate.ch
 itgate4u.ch
 itgateway.ch
 itgconseil.ch
-itgconsulenze.ch
 itgeek.ch
 itgeneration.ch
 itgeneva.ch
@@ -2907,6 +2904,7 @@ itinnovativ.ch
 itins.ch
 itinshofladen.ch
 itinstitut.ch
+itintechsolutions.ch
 itintegrans.ch
 itinterim.ch
 itintrans.ch
@@ -3021,7 +3019,6 @@ itlandolt.ch
 itlas.ch
 itlaw-consulting.ch
 itlaw.ch
-itlawportal.ch
 itlawyer.ch
 itlbasel.ch
 itlc.ch
@@ -3793,7 +3790,6 @@ itsgood.ch
 itsgreatoutthere.ch
 itsgroup.ch
 itsgruppe.ch
-itsgu.ch
 itsh.ch
 itshag.ch
 itship-dns.ch

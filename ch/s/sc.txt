@@ -2418,7 +2418,6 @@ schachevents.ch
 schachevitalplus.ch
 schachferien.ch
 schachfestivalbasel.ch
-schachfiguren.ch
 schachfrauenfeld.ch
 schachfreundethun.ch
 schachgenie.ch
@@ -4172,6 +4171,7 @@ schalom.ch
 schalomcatering.ch
 schalomdemokratie.ch
 schalomhaus.ch
+schalottensalat.ch
 schalplan.ch
 schals.ch
 schalstricken.ch
@@ -5562,6 +5562,7 @@ scheibenkleber.ch
 scheibenkleister.ch
 scheibenladen.ch
 scheibenmeister.ch
+scheibenprofis.ch
 scheibenreinger.ch
 scheibenreiniger.ch
 scheibenreiniger24.ch
@@ -7511,6 +7512,8 @@ schiessen-schweiz.ch
 schiessen-svz.ch
 schiessen-zsv.ch
 schiessen.ch
+schiessenfischenjagen.ch
+schiessenjagenfischen.ch
 schiessenschweiz.ch
 schiesser-aqua.ch
 schiesser-architektur.ch
@@ -8087,7 +8090,6 @@ schilderzentrale.ch
 schildfabrik.ch
 schildgalvano.ch
 schildhalter.ch
-schildhorn.ch
 schildi.ch
 schildiland.ch
 schildimmo.ch
@@ -12383,7 +12385,6 @@ schluesselservicewinterthur.ch
 schluesselservicezuerich.ch
 schluesselshop.ch
 schluesselsituationen.ch
-schluesselspahr.ch
 schluesselstalder.ch
 schluesselstellen.ch
 schluesselstuder.ch
@@ -12435,6 +12436,7 @@ schlummerhelden.ch
 schlummerland.ch
 schlummermami.ch
 schlummern.ch
+schlummerpost.ch
 schlummersack-shop.ch
 schlummerstange.ch
 schlummertrunk.ch
@@ -15198,6 +15200,7 @@ schnapper.ch
 schnappfix.ch
 schnappi.ch
 schnappli24.ch
+schnapps.ch
 schnappsangels.ch
 schnappsbrothers.ch
 schnappscheibe.ch
@@ -15552,7 +15555,6 @@ schneeeule.ch
 schneeexpress.ch
 schneefahrtraining.ch
 schneefahrzeuge.ch
-schneefall.ch
 schneefallgrenze.ch
 schneefallgrenze21.ch
 schneefang.ch
@@ -16287,6 +16289,7 @@ schneidereiivan.ch
 schneidereikeel.ch
 schneidereiloranmscho.ch
 schneidereisaleh.ch
+schneidereisursee.ch
 schneiderelectric.ch
 schneiderevents.ch
 schneiderfamily.ch
@@ -17401,7 +17404,6 @@ schnupfschnapsundedelwyss.ch
 schnupfshop.ch
 schnupfspru.ch
 schnupfspruch.ch
-schnupfstube.ch
 schnupftaback.ch
 schnupftabak.ch
 schnupftrend.ch
@@ -18252,6 +18254,7 @@ schoenfels.ch
 schoenfis.ch
 schoenfit.ch
 schoengeist-gartenstadt.ch
+schoengeist.ch
 schoengens.ch
 schoengesund.ch
 schoengruen.ch
@@ -19836,7 +19839,6 @@ schrafl.ch
 schraft.ch
 schrag-bestattungen.ch
 schrag-constructions.ch
-schrag-controll.ch
 schrag-elementbau.ch
 schrag-wss.ch
 schrag.ch
@@ -20808,7 +20810,6 @@ schreinerei-bolliger.ch
 schreinerei-boog.ch
 schreinerei-bopp.ch
 schreinerei-bossard.ch
-schreinerei-bosshard.ch
 schreinerei-brack.ch
 schreinerei-braegger.ch
 schreinerei-braun.ch
@@ -21127,7 +21128,6 @@ schreinerei-mujota.ch
 schreinerei-mullis.ch
 schreinerei-nabholz.ch
 schreinerei-naef.ch
-schreinerei-naegele.ch
 schreinerei-nafzger.ch
 schreinerei-nb.ch
 schreinerei-nessensohn.ch
@@ -24354,7 +24354,6 @@ schule-roggwil.ch
 schule-rohrbach.ch
 schule-rohrbachgraben.ch
 schule-root-informatik.ch
-schule-root-intern.ch
 schule-root.ch
 schule-rorschach.ch
 schule-rorschacherberg.ch
@@ -26322,7 +26321,6 @@ schultreffen.ch
 schultruckli.ch
 schultuete.ch
 schultueten.ch
-schultur.ch
 schulturniere.ch
 schultv.ch
 schultz-company.ch
@@ -28754,7 +28752,6 @@ schweiz-bilder.ch
 schweiz-bildung.ch
 schweiz-bitcoin.ch
 schweiz-blockchain.ch
-schweiz-blog.ch
 schweiz-blueht-auf.ch
 schweiz-branchen.ch
 schweiz-brocki.ch
@@ -30866,7 +30863,6 @@ schweizerfirmenindex.ch
 schweizerfirmenlauf.ch
 schweizerfirmenregister.ch
 schweizerfirmensitz.ch
-schweizerfirmentriathlon.ch
 schweizerfisch.ch
 schweizerfischen.ch
 schweizerfischer.ch
@@ -31106,7 +31102,6 @@ schweizerillustrierte.ch
 schweizerillustriertestyle.ch
 schweizerimker.ch
 schweizerimmo-team.ch
-schweizerimmobilie.ch
 schweizerimmobilien.ch
 schweizerimmobilienberatung.ch
 schweizerimmobilienwerte.ch
@@ -32692,7 +32687,6 @@ schwiizdidge.ch
 schwiizer-aronia.ch
 schwiizer-chalet.ch
 schwiizer-chind.ch
-schwiizer-chuchi.ch
 schwiizer-faescht.ch
 schwiizer-goofe.ch
 schwiizer-hits.ch
@@ -35108,7 +35102,6 @@ scolary.ch
 scolas.ch
 scolasbreil.ch
 scolasedrun.ch
-scolast.ch
 scolasumvitgtrun.ch
 scolasurses.ch
 scolatrin.ch
@@ -35228,6 +35221,7 @@ scoopholding.ch
 scooping-academy.ch
 scoopmedia.ch
 scoopnest.ch
+scoopngo.ch
 scooppiercing.ch
 scoops.ch
 scoopshot.ch
@@ -35242,7 +35236,6 @@ scootaz.ch
 scootboot.ch
 scootboots.ch
 scoote.ch
-scooter-attack.ch
 scooter-center.ch
 scooter-church.ch
 scooter-classic.ch
@@ -35282,7 +35275,6 @@ scooter24.ch
 scooter4you.ch
 scooteracademy.ch
 scooterama.ch
-scooterattack.ch
 scooterbijou.ch
 scooterbyzumbi.ch
 scootercafe.ch
@@ -35323,6 +35315,7 @@ scooterparts.ch
 scooterplanet-shop.ch
 scooterplanet.ch
 scooterplanetshop.ch
+scooterplug.ch
 scooterpoint.ch
 scooterpro7.ch
 scooterrama.ch
@@ -36693,6 +36686,7 @@ scrunchies.ch
 scrunchieswitzerland.ch
 scrut.ch
 scrutare.ch
+scrutarius.ch
 scrutina.ch
 scrutineer.ch
 scrutiny-partners.ch
@@ -37390,6 +37384,7 @@ scupolafusspflege.ch
 scur.ch
 scura-isolierungen.ch
 scura-nails.ch
+scura.ch
 scuraisolierungen.ch
 scurasbestias.ch
 scuric.ch

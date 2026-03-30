@@ -267,7 +267,6 @@ agai.ch
 agaia.ch
 again-together.ch
 again.ch
-again20.ch
 againfaster.ch
 againity.ch
 againly.ch
@@ -958,6 +957,7 @@ agence-immobiliere-estimation.ch
 agence-immobiliere-florissant.ch
 agence-immobiliere-geneve.ch
 agence-immobiliere-genthod.ch
+agence-immobiliere-grand-saconnex.ch
 agence-immobiliere-grange-canal.ch
 agence-immobiliere-grottes.ch
 agence-immobiliere-hermance.ch
@@ -966,6 +966,7 @@ agence-immobiliere-la-cote.ch
 agence-immobiliere-lancy.ch
 agence-immobiliere-lausanne.ch
 agence-immobiliere-lavaux.ch
+agence-immobiliere-le-grand-saconnex.ch
 agence-immobiliere-lutry.ch
 agence-immobiliere-luxe-geneve.ch
 agence-immobiliere-luxe-suisse.ch
@@ -2360,8 +2361,10 @@ agentvision.ch
 agentvisuel.ch
 agentwerk.ch
 agentwood.ch
+agentwork.ch
 agentworkflow.ch
 agentworkflows.ch
+agentworks.ch
 agentx.ch
 agentxyz.ch
 agentys.ch
@@ -2607,6 +2610,7 @@ aggler.ch
 agglo-coude-rhone.ch
 agglo-fr.ch
 agglo-gmbh.ch
+agglo-hausgeraete.ch
 agglo-lausanne-morges.ch
 agglo-mobil.ch
 agglo-oberwallis.ch
@@ -3248,12 +3252,10 @@ agir-elektroprojektleiter.ch
 agir-ensemble.ch
 agir-formation.ch
 agir-ge.ch
-agir-genevegagne.ch
 agir-inspire.ch
 agir-inspirer.ch
 agir-ium.ch
 agir-sr.ch
-agir-traitsdunion.ch
 agir-transport.ch
 agir-uwa.ch
 agir-veysonnaz.ch
@@ -3360,6 +3362,8 @@ agktech.ch
 agkultur.ch
 agkurzimmobilien.ch
 agkv.ch
+agl-golf.ch
+agl-immo.ch
 agl-invest.ch
 agl.ch
 agla-aadorf.ch
@@ -5211,7 +5215,6 @@ agroomszurich.ch
 agroos-futterhandel.ch
 agroos.ch
 agropack.ch
-agropaper.ch
 agropartners.ch
 agropatenschaft.ch
 agropatenschaften.ch
@@ -5372,7 +5375,6 @@ agrotourismus-oberaargau.ch
 agrotourismus-q.ch
 agrotourismus-schweiz.ch
 agrotourismus-stapfa.ch
-agrotourismus-thurgau.ch
 agrotourismus-wallis.ch
 agrotourismus.ch
 agrotourismusberatung.ch
@@ -5448,7 +5450,6 @@ ags-gebaeude.ch
 ags-im-dialog.ch
 ags-lab.ch
 ags-newsportal.ch
-ags-project.ch
 ags-sanitaer-heizung.ch
 ags-schweiz.ch
 ags-sportteam.ch

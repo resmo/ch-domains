@@ -946,7 +946,6 @@ pack-champion.ch
 pack-deine-7-sachen.ch
 pack-deine-sieben-sachen.ch
 pack-direct.ch
-pack-discount.ch
 pack-division.ch
 pack-entreprise.ch
 pack-es-an.ch
@@ -1042,6 +1041,7 @@ packandroll.ch
 packandsend.ch
 packandship.ch
 packapp.ch
+packapun.ch
 packard.ch
 packard1951-1954.ch
 packard33.ch
@@ -1299,6 +1299,7 @@ pacojet.ch
 pacojetcare.ch
 pacojetservice.ch
 pacojetservices.ch
+pacolama.ch
 pacolli.ch
 pacollimotion.ch
 pacollis.ch
@@ -4546,6 +4547,7 @@ palliativnetz.ch
 palliativpflege-und-begleitung.ch
 palliativpflege.ch
 palliativpflegedienst.ch
+palliativpraxis.ch
 palliativspitex.ch
 palliativstation.ch
 palliativzentrum-basel.ch
@@ -7348,7 +7350,6 @@ panther.ch
 panthera-auto.ch
 panthera-automotive.ch
 panthera-autoshop.ch
-panthera-groupfitness.ch
 panthera-immobilien.ch
 panthera-ladysgym.ch
 panthera-leo.ch
@@ -8183,7 +8184,6 @@ papercup.ch
 papercut.ch
 papercuts.ch
 papercutstudio.ch
-paperdealer.ch
 paperdesign.ch
 paperdex.ch
 paperdiscount.ch
@@ -8474,7 +8474,6 @@ papier-chram.ch
 papier-de-copie.ch
 papier-decoupe.ch
 papier-discount.ch
-papier-engros.ch
 papier-express.ch
 papier-facture-qr.ch
 papier-handel.ch
@@ -8554,7 +8553,6 @@ papierdore.ch
 papierdrachen.ch
 papierdruckwerk.ch
 papiere.ch
-papierengros.ch
 papierexpress.ch
 papierfabrik.ch
 papierfabriken.ch
@@ -8927,6 +8925,7 @@ papoti.ch
 papotto.ch
 papou.ch
 papouf.ch
+papouille-therapie.ch
 papouilles-bienetre.ch
 papovic.ch
 papp-up.ch
@@ -9706,7 +9705,6 @@ parafilmproduction.ch
 parafina.ch
 parafinder.ch
 parafink.ch
-parafit.ch
 parafix.ch
 paraflex.ch
 parafly-surselva.ch
@@ -11277,7 +11275,6 @@ parfumroulette.ch
 parfums-caron.ch
 parfums-de-beyrouth-geneve.ch
 parfums-holistiques.ch
-parfums-lalique.ch
 parfums-personnalises.ch
 parfums-promo.ch
 parfums-salvadordali.ch
@@ -13005,7 +13002,6 @@ parkundgarten.ch
 parkundtour.ch
 parkunique.ch
 parkuno.ch
-parkup.ch
 parkur.ch
 parkura.ch
 parkvalet.ch
@@ -15133,6 +15129,7 @@ partydestinationen.ch
 partydienst.ch
 partydiscount.ch
 partydiscount24.ch
+partydj.ch
 partydjmike.ch
 partydjs.ch
 partydjservice.ch
@@ -16030,6 +16027,7 @@ pascale-fahrni.ch
 pascale-friedrich.ch
 pascale-haeusermann.ch
 pascale-hosennen.ch
+pascale-hug.ch
 pascale-leutwiler.ch
 pascale-marder.ch
 pascale-monod.ch
@@ -16605,6 +16603,7 @@ pashion-suits.ch
 paship.ch
 pashix.ch
 pashkevi.ch
+pashkevych-digitalservices.ch
 pashkula.ch
 pashm-mina.ch
 pashmania.ch
@@ -18510,7 +18509,6 @@ pastouche.ch
 pastourelle.ch
 pastpf.ch
 pastport.ch
-pastpresentfuture.ch
 pastrami-burger.ch
 pastrami-mami.ch
 pastrami.ch
@@ -19667,6 +19665,7 @@ patisserieaficionados.ch
 patisseriealafrancaise.ch
 patisserieamanyah.ch
 patisseriebessa.ch
+patisseriebilaure.ch
 patisseriecindy.ch
 patisseriedelarabie-stgallen.ch
 patisseriedelarabie.ch
@@ -20056,6 +20055,7 @@ patriciakern.ch
 patriciakocht.ch
 patriciakradolfer.ch
 patriciakummer.ch
+patriciakuster.ch
 patricialazzarini.ch
 patricialehner.ch
 patricialenger.ch
@@ -21474,6 +21474,7 @@ patronic.ch
 patronpay.ch
 patrons.ch
 patronscan.ch
+patronschein.ch
 patronsclub.ch
 patronsresilients.ch
 patronsuisse.ch
@@ -23278,6 +23279,7 @@ pawroundpet.ch
 paws-hundesalon.ch
 paws-trails.ch
 paws.ch
+pawsandbeans.ch
 pawsandclaws.ch
 pawsandhugs.ch
 pawsandpatch.ch
@@ -23289,6 +23291,7 @@ pawsandwatches.ch
 pawsandwheels.ch
 pawsandyou.ch
 pawsaventure.ch
+pawsbeans.ch
 pawsbond.ch
 pawsconcierge.ch
 pawservices.ch
@@ -23781,8 +23784,8 @@ payless.ch
 paylessrugs.ch
 payley.ch
 paylike.ch
-paylink.ch
 paylino.ch
+paylnit.ch
 paylo.ch
 payload.ch
 paylogic.ch
@@ -24286,6 +24289,7 @@ paysystem.ch
 paysystems.ch
 payt.ch
 paytag.ch
+paytap.ch
 paytax.ch
 payte.ch
 paytec-group.ch

@@ -181,12 +181,10 @@ sv-swiss.ch
 sv-swisstrade.ch
 sv-syrah.ch
 sv-systems.ch
-sv-t.ch
 sv-taeuffelen.ch
 sv-talents.ch
 sv-tasty.ch
 sv-test.ch
-sv-tg.ch
 sv-thierstein.ch
 sv-thurtal.ch
 sv-toerbel.ch
@@ -876,6 +874,7 @@ svengregorio.ch
 svengretler.ch
 svenguertler.ch
 svengutweniger.ch
+svenhaeberli.ch
 svenhaefliger.ch
 svenhaefligertrio.ch
 svenhaenni.ch
@@ -2450,7 +2449,6 @@ svp-volketswil.ch
 svp-vorderland.ch
 svp-vorderpraettigau.ch
 svp-vorlagen.ch
-svp-waedenswil.ch
 svp-waeldi-raperswilen.ch
 svp-wahlen-bl.ch
 svp-wahlen.ch
@@ -2799,7 +2797,6 @@ svsmj.ch
 svsn.ch
 svsne.ch
 svso.ch
-svsogno.ch
 svsoins.ch
 svsonline.ch
 svsound.ch

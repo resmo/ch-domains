@@ -4,7 +4,6 @@ cv-builder.ch
 cv-check.ch
 cv-clip.ch
 cv-cloud.ch
-cv-coach.ch
 cv-communication.ch
 cv-concept.ch
 cv-conseils.ch
@@ -540,6 +539,7 @@ cvusergroup.ch
 cvv.ch
 cvvc.ch
 cvvcheck.ch
+cvvcmail.ch
 cvvi.ch
 cvvideo.ch
 cvvidy.ch
