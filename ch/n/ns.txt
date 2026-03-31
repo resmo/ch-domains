@@ -493,7 +493,6 @@ ns.webmial.ch
 ns.webmoreplus.ch
 ns.webstyle4you.ch
 ns.welcome-kosmetik.ch
-ns.weltnet.ch
 ns.wetclean-center.ch
 ns.wetcleancenter-seon.ch
 ns.wificom.ch
@@ -806,6 +805,7 @@ ns1.ahja.ch
 ns1.ahorvath.ch
 ns1.ahosting.ch
 ns1.ahuskysjob.ch
+ns1.aiboard.ch
 ns1.aidns.ch
 ns1.aikido-brugg.ch
 ns1.ajoie-net.ch
@@ -1332,7 +1332,6 @@ ns1.contactoffice.ch
 ns1.contadinisvizzeri.ch
 ns1.contempla.ch
 ns1.contrastweb.ch
-ns1.conwork.ch
 ns1.cook24.ch
 ns1.coop.ch
 ns1.core2.ch
@@ -1963,6 +1962,7 @@ ns1.hdcard.ch
 ns1.he-arc.ch
 ns1.hebergement-web.ch
 ns1.hefel.ch
+ns1.heiniger-net.ch
 ns1.heinigerengineering.ch
 ns1.heissmann.ch
 ns1.helbling-networks.ch
@@ -2040,7 +2040,6 @@ ns1.hostingphp.ch
 ns1.hostingplatform.igzeit.ch
 ns1.hostkonzept.ch
 ns1.hostmamba.ch
-ns1.hostmedia.ch
 ns1.hostnext.ch
 ns1.hostone.ch
 ns1.hostorama.ch
@@ -2590,7 +2589,6 @@ ns1.miomedia.ch
 ns1.miramedia.ch
 ns1.miraweb.ch
 ns1.mironet.ch
-ns1.mirzeydin.ch
 ns1.mit-bringsel.ch
 ns1.mixbox.ch
 ns1.mixedpixels.ch
@@ -2624,7 +2622,6 @@ ns1.mount10.ch
 ns1.mountain.ch
 ns1.mountaincloud.ch
 ns1.movehosting.ch
-ns1.movena.ch
 ns1.movie2go.ch
 ns1.mowgli.ch
 ns1.mp-renovations.ch
@@ -2952,7 +2949,6 @@ ns1.pianeti.ch
 ns1.pibit.ch
 ns1.picfilm.ch
 ns1.pihosting.ch
-ns1.pimp-your-web-ag.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
 ns1.pinkbox.ch
@@ -3205,6 +3201,7 @@ ns1.rtk.ch
 ns1.rtpdns.ch
 ns1.rubansdor.ch
 ns1.ruckzuck-design.ch
+ns1.rudolflemcke.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
 ns1.rxr.ch
@@ -3273,6 +3270,7 @@ ns1.sciascia.ch
 ns1.sciencetool.ch
 ns1.scip-red.ch
 ns1.scnat.ch
+ns1.scooter4you.ch
 ns1.scottishfold.ch
 ns1.scoutmediovedeggio.ch
 ns1.scs-ns.ch
@@ -3517,6 +3515,7 @@ ns1.swiss-full.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
 ns1.swiss-support.ch
+ns1.swiss1-practeo.ch
 ns1.swiss21.ch
 ns1.swiss365.ch
 ns1.swiss4ward.ch
@@ -3632,7 +3631,6 @@ ns1.tigermus.ch
 ns1.tille.ch
 ns1.tilosub.ch
 ns1.time4fun.ch
-ns1.timetech-web.ch
 ns1.timsi.ch
 ns1.tineonet.ch
 ns1.tintentheke.ch
@@ -4176,6 +4174,7 @@ ns2.ahammer.ch
 ns2.ahja.ch
 ns2.ahosting.ch
 ns2.ahuskysjob.ch
+ns2.aiboard.ch
 ns2.aidns.ch
 ns2.aikido-brugg.ch
 ns2.akb.ch
@@ -4693,7 +4692,6 @@ ns2.contactoffice.ch
 ns2.contadinisvizzeri.ch
 ns2.contempla.ch
 ns2.contrastweb.ch
-ns2.conwork.ch
 ns2.conx.ch
 ns2.cook24.ch
 ns2.core2.ch
@@ -5289,6 +5287,7 @@ ns2.hdcard.ch
 ns2.he-arc.ch
 ns2.hebergement-web.ch
 ns2.hefel.ch
+ns2.heiniger-net.ch
 ns2.heinigerengineering.ch
 ns2.heissmann.ch
 ns2.helbling-networks.ch
@@ -5363,7 +5362,6 @@ ns2.hostingplatform.igzeit.ch
 ns2.hostings.ch
 ns2.hostkonzept.ch
 ns2.hostmamba.ch
-ns2.hostmedia.ch
 ns2.hostnext.ch
 ns2.hostone.ch
 ns2.hostorama.ch
@@ -5895,7 +5893,6 @@ ns2.miomedia.ch
 ns2.miramedia.ch
 ns2.miraweb.ch
 ns2.mironet.ch
-ns2.mirzeydin.ch
 ns2.mit-bringsel.ch
 ns2.mixbox.ch
 ns2.mixedpixels.ch
@@ -5924,7 +5921,6 @@ ns2.mount10.ch
 ns2.mountain.ch
 ns2.mountaincloud.ch
 ns2.movehosting.ch
-ns2.movena.ch
 ns2.movie2go.ch
 ns2.mp-renovations.ch
 ns2.mpch.ch
@@ -6229,7 +6225,6 @@ ns2.physionotter.ch
 ns2.pianeti.ch
 ns2.picfilm.ch
 ns2.pihosting.ch
-ns2.pimp-your-web-ag.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
 ns2.pinkbox.ch
@@ -6474,6 +6469,7 @@ ns2.rtk.ch
 ns2.rtpdns.ch
 ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
+ns2.rudolflemcke.ch
 ns2.rundb.ch
 ns2.rxr.ch
 ns2.s-business.ch
@@ -6535,6 +6531,7 @@ ns2.sciascia.ch
 ns2.sciencetool.ch
 ns2.scip-red.ch
 ns2.scnat.ch
+ns2.scooter4you.ch
 ns2.scottishfold.ch
 ns2.scoutmediovedeggio.ch
 ns2.scs-ns.ch
@@ -6647,7 +6644,6 @@ ns2.sixcom.ch
 ns2.sixhosts.ch
 ns2.skcomputing.ch
 ns2.ski-bergtouren.ch
-ns2.skilled.ch
 ns2.skinheads.ch
 ns2.skycore.ch
 ns2.skyhost.ch
@@ -6784,6 +6780,7 @@ ns2.swiss-full.ch
 ns2.swiss-made-store.ch
 ns2.swiss-pc.ch
 ns2.swiss-portal.ch
+ns2.swiss1-practeo.ch
 ns2.swiss21.ch
 ns2.swiss365.ch
 ns2.swiss4ward.ch
@@ -6900,7 +6897,6 @@ ns2.tifoto.ch
 ns2.tigermus.ch
 ns2.tilosub.ch
 ns2.time4fun.ch
-ns2.timetech-web.ch
 ns2.timsi.ch
 ns2.tineonet.ch
 ns2.tinkercave.ch
@@ -7140,7 +7136,6 @@ ns2.welcome-kosmetik.ch
 ns2.wellernet.ch
 ns2.welliland.ch
 ns2.welten.ch
-ns2.weltnet.ch
 ns2.wemohost.ch
 ns2.wepithost.ch
 ns2.weratv.ch
@@ -8505,7 +8500,6 @@ nsagarantie.ch
 nsagencement.ch
 nsagency.ch
 nsam.ch
-nsandalibrairie.ch
 nsante.ch
 nsaonline.ch
 nsarchitectes.ch
