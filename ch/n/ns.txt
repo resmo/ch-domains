@@ -501,7 +501,6 @@ ns.woody.ch
 ns.wsbox.ch
 ns.wuwang.ch
 ns.wyna.ch
-ns.xilab.ch
 ns.xirrus.ch
 ns.xmc.ch
 ns.ymc.ch
@@ -2341,7 +2340,6 @@ ns1.kpcs.ch
 ns1.krak.ch
 ns1.krea-ns.ch
 ns1.kreativloft-shop.ch
-ns1.kreator2.ch
 ns1.ksb.ch
 ns1.kscag.ch
 ns1.ksso.ch
@@ -2752,6 +2750,7 @@ ns1.nfcinside.ch
 ns1.nicliotta-hosting.ch
 ns1.nigam.ch
 ns1.nik-domain.ch
+ns1.nipponpoke.ch
 ns1.nkcd.ch
 ns1.nnet.ch
 ns1.nnv.ch
@@ -3247,7 +3246,6 @@ ns1.schaeremedical.ch
 ns1.schellings.ch
 ns1.schlagerclub.ch
 ns1.schlawini-und-filou.ch
-ns1.schlierholz.ch
 ns1.schm1dt.ch
 ns1.schmocker-gaerten.ch
 ns1.schneider-wohler.ch
@@ -3649,6 +3647,7 @@ ns1.tomax.ch
 ns1.tomeo.ch
 ns1.tomppa.ch
 ns1.tonio-service.ch
+ns1.tools4ever.ch
 ns1.toon.ch
 ns1.topdns.ch
 ns1.topway.ch
@@ -5661,7 +5660,6 @@ ns2.krak.ch
 ns2.krea-ns.ch
 ns2.kreativloft-shop.ch
 ns2.kreativmedia.ch
-ns2.kreator2.ch
 ns2.kriz.ch
 ns2.kulturbau.ch
 ns2.kulturpark.ch
@@ -6041,6 +6039,7 @@ ns2.nexxos.ch
 ns2.nfcinside.ch
 ns2.nicliotta-hosting.ch
 ns2.nik-domain.ch
+ns2.nipponpoke.ch
 ns2.nkcd.ch
 ns2.nnet.ch
 ns2.nnv.ch
@@ -6508,7 +6507,6 @@ ns2.sceur.ch
 ns2.schaeremedical.ch
 ns2.schlagerclub.ch
 ns2.schlawini-und-filou.ch
-ns2.schlierholz.ch
 ns2.schm1dt.ch
 ns2.schmocker-gaerten.ch
 ns2.schneider-wohler.ch
@@ -6915,7 +6913,6 @@ ns2.tokee.ch
 ns2.tomax.ch
 ns2.tomeo.ch
 ns2.tonio-service.ch
-ns2.tools4ever.ch
 ns2.toon.ch
 ns2.topdns.ch
 ns2.topway.ch
@@ -7902,7 +7899,6 @@ ns3.sbiz.ch
 ns3.sceur.ch
 ns3.schaeremedical.ch
 ns3.schlagerclub.ch
-ns3.schlierholz.ch
 ns3.schmitt-informatik.ch
 ns3.schmocker-gaerten.ch
 ns3.schoolaboo.ch
@@ -7999,6 +7995,7 @@ ns3.tisag.ch
 ns3.tkcloud.ch
 ns3.tockmedia.ch
 ns3.tomax.ch
+ns3.tools4ever.ch
 ns3.top-host.ch
 ns3.topway.ch
 ns3.tortiegidio.ch
@@ -8410,7 +8407,6 @@ ns5.stylebeauty.ch
 ns5.swissquake.ch
 ns5.swissrack.ch
 ns5.threema.ch
-ns5.tools4ever.ch
 ns5.uhot.ch
 ns50.kbsd.ch
 ns59.tophost.ch

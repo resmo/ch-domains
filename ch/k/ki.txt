@@ -83,6 +83,7 @@ ki-base.ch
 ki-basel.ch
 ki-basics.ch
 ki-basiskurs.ch
+ki-bau.ch
 ki-baudienstleistungen.ch
 ki-beauftragte.ch
 ki-beauftragter.ch
@@ -168,6 +169,7 @@ ki-consulting24.ch
 ki-consultingagency.ch
 ki-content-generator.ch
 ki-content.ch
+ki-control.ch
 ki-cosmetic.ch
 ki-cosmetics.ch
 ki-cours-de-langues.ch
@@ -296,6 +298,7 @@ ki-hexenwerk.ch
 ki-hilfe-schweiz.ch
 ki-hilfe.ch
 ki-ho.ch
+ki-holz.ch
 ki-homepage.ch
 ki-horizonte.ch
 ki-host.ch
@@ -587,6 +590,7 @@ ki-prompt.ch
 ki-promptengineering.ch
 ki-prompting.ch
 ki-prompts.ch
+ki-protect.ch
 ki-prototypen.ch
 ki-prozess.ch
 ki-prozessautomation.ch
@@ -616,6 +620,7 @@ ki-reform.ch
 ki-reformation.ch
 ki-reformator.ch
 ki-register.ch
+ki-regulierung.ch
 ki-reiseplan.ch
 ki-reiseplaner.ch
 ki-reiseplanung.ch
@@ -683,6 +688,7 @@ ki-skills.ch
 ki-skipper.ch
 ki-snacks.ch
 ki-social-media.ch
+ki-soft.ch
 ki-software-schweiz.ch
 ki-solarrechner.ch
 ki-solarvergleich.ch
@@ -802,6 +808,7 @@ ki-verkaufstraining.ch
 ki-verkauft.ch
 ki-vermietet.ch
 ki-vermittlung.ch
+ki-verordnung.ch
 ki-versicherung.ch
 ki-versicherungsvergleich.ch
 ki-verso.ch
@@ -852,6 +859,7 @@ ki-wissen.ch
 ki-wo.ch
 ki-wohnungsbewerbung.ch
 ki-work.ch
+ki-worker.ch
 ki-works.ch
 ki-workshop-schweiz.ch
 ki-workshop.ch
@@ -1619,6 +1627,7 @@ kiconsulting24.ch
 kiconsultingschweiz.ch
 kiconsultingzug.ch
 kicontent.ch
+kicontrol.ch
 kicosmetic.ch
 kicosmetics.ch
 kicrashkurs.ch
@@ -3676,6 +3685,7 @@ kikolily.ch
 kikomail.ch
 kikomed-brain.ch
 kikomed.ch
+kikomedystudio.ch
 kikomilano.ch
 kikommunikationskompass.ch
 kikomon.ch
@@ -4648,7 +4658,6 @@ kimtrace.ch
 kimtraining.ch
 kimu.ch
 kimub.ch
-kimukarli.ch
 kimun.ch
 kimundalex.ch
 kimundloris.ch
@@ -5113,7 +5122,6 @@ kinder-psychiater.ch
 kinder-psychiatrie-aargau.ch
 kinder-psychiatrie-spitex.ch
 kinder-psychiatrie.ch
-kinder-psychodrama.ch
 kinder-psychologie.ch
 kinder-psychotherapie.ch
 kinder-raum.ch
@@ -5717,7 +5725,6 @@ kinderbetreuung-reinach.ch
 kinderbetreuung-riu.ch
 kinderbetreuung-rothenburg.ch
 kinderbetreuung-schweiz.ch
-kinderbetreuung-so.ch
 kinderbetreuung-solothurn.ch
 kinderbetreuung-spielgruppe-elch.ch
 kinderbetreuung-stadel.ch
@@ -9437,6 +9444,7 @@ kingasrose.ch
 kingauto.ch
 kingavis.ch
 kingaweddings.ch
+kingbag.ch
 kingbar.ch
 kingbello.ch
 kingben.ch
@@ -9783,7 +9791,6 @@ kingsdesign.ch
 kingsdistric.ch
 kingsecurite.ch
 kingseggs.ch
-kingseuropokernews.ch
 kingseven-shop.ch
 kingsfamily.ch
 kingsfarm.ch
@@ -9895,7 +9902,6 @@ kingsway.ch
 kingswill.ch
 kingswing.ch
 kingswolhusen.ch
-kingsworldpokernews.ch
 kingtacos.ch
 kingtacosvevey.ch
 kingtauben.ch
@@ -10900,6 +10906,7 @@ kipromptmarkt.ch
 kiprompts.ch
 kiproof.ch
 kiproquo.ch
+kiprotect.ch
 kiproti.ch
 kiprozess.ch
 kiprozesse.ch
@@ -11309,7 +11316,6 @@ kirche-waedenswil.ch
 kirche-waegital.ch
 kirche-wald.ch
 kirche-waldenburg-langenbruck.ch
-kirche-waldenburg.ch
 kirche-walkringen.ch
 kirche-walperswil-buehl.ch
 kirche-waltenschwil.ch
@@ -12020,7 +12026,6 @@ kirchlich-heiraten.ch
 kirchliche-berufe.ch
 kirchliche-bibliothek.ch
 kirchliche-bibliotheken.ch
-kirchliche-feiertage.ch
 kirchliche-heilpaedagogik.ch
 kirchliche-jugendarbeit.ch
 kirchliche-medien.ch
@@ -12119,7 +12124,6 @@ kirgistantravel.ch
 kirgiz.ch
 kiri-group.ch
 kiri-invest.ch
-kiri-kiri.ch
 kiri-plantation.ch
 kiri-rafzerfeld.ch
 kiri-schweiz.ch
@@ -12683,7 +12687,6 @@ kissenhuellen.ch
 kissenkaufhaus.ch
 kissenkonfigurator.ch
 kissenkreation.ch
-kissenlounge.ch
 kissenmenu.ch
 kissenmenue-hotel.ch
 kissenmenue-schweiz.ch
@@ -12830,8 +12833,6 @@ kisssidewinder.ch
 kissskiss.ch
 kisssoft.ch
 kisstech.ch
-kisstext-premium-copywriting.ch
-kisstext.ch
 kissthecook.ch
 kissthedesign.ch
 kissthefrog.ch
@@ -13226,7 +13227,6 @@ kita-gossau.ch
 kita-greifensee.ch
 kita-grendolin.ch
 kita-grisu.ch
-kita-grittpark.ch
 kita-gross-und-klein.ch
 kita-grosswangen.ch
 kita-gstaad.ch
@@ -13736,7 +13736,6 @@ kitacalimero.ch
 kitacaracol.ch
 kitacare.ch
 kitacares.ch
-kitacasper.ch
 kitacat.ch
 kitacatering.ch
 kitacharivari.ch
@@ -14349,7 +14348,6 @@ kite-international.ch
 kite-it.ch
 kite-pleasure.ch
 kite-reisen.ch
-kite-reparatur.ch
 kite-reparaturen.ch
 kite-rider.ch
 kite-rowers.ch
@@ -14443,7 +14441,6 @@ kitepowergouna.ch
 kitepro.ch
 kiter.ch
 kitereisen.ch
-kitereparatur.ch
 kitereparaturen.ch
 kiterockers.ch
 kites-events.ch
@@ -15097,7 +15094,6 @@ kiwiberry.ch
 kiwibox.ch
 kiwibus.ch
 kiwicare.ch
-kiwicha.ch
 kiwiclubgva.ch
 kiwicoaching.ch
 kiwicom.ch

@@ -392,6 +392,7 @@ sg9000.ch
 sga-affichage.ch
 sga-affiche.ch
 sga-apg.ch
+sga-asam.ch
 sga-aspe.ch
 sga-asspa.ch
 sga-automation.ch
@@ -957,7 +958,6 @@ sgkc-sscp.ch
 sgkc2019.ch
 sgkc2020.ch
 sgkclinic.ch
-sgkeramik.ch
 sgkerns.ch
 sgkf.ch
 sgkfondsleitung.ch

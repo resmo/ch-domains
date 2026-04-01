@@ -752,6 +752,7 @@ weareparallel.ch
 wearepepper.ch
 wearepilates.ch
 wearepimco.ch
+weareplanet.ch
 wearepnts.ch
 wearepoesie.ch
 wearepoker.ch
@@ -964,7 +965,6 @@ web-abo.ch
 web-abteilung.ch
 web-acad.ch
 web-academy.ch
-web-access-management.ch
 web-access.ch
 web-accessibility.ch
 web-accounting.ch
@@ -1014,7 +1014,6 @@ web-app-entwicklung.ch
 web-app.ch
 web-application-engineering-hfu.ch
 web-application-engineering.ch
-web-application-firewall.ch
 web-applications.ch
 web-applikation.ch
 web-applikationen.ch
@@ -1340,6 +1339,7 @@ web-kenn.ch
 web-key.ch
 web-kino.ch
 web-klausner.ch
+web-klusiv.ch
 web-koch.ch
 web-koenig.ch
 web-kolbenacker.ch
@@ -1440,7 +1440,6 @@ web-o-mat.ch
 web-o.ch
 web-of-life.ch
 web-omat.ch
-web-on.ch
 web-online.ch
 web-optimal.ch
 web-optimierer.ch
@@ -1597,7 +1596,6 @@ web-solser.ch
 web-solution.ch
 web-solutions.ch
 web-sos.ch
-web-soul.ch
 web-space-and-arts.ch
 web-space.ch
 web-speicher.ch
@@ -1691,6 +1689,7 @@ web-valley.ch
 web-vd.ch
 web-venture.ch
 web-vermarktung.ch
+web-verzeichnis.ch
 web-vevey.ch
 web-visionen.ch
 web-visite.ch
@@ -1970,8 +1969,6 @@ webagentur-in-st-gallen.ch
 webagentur-in-zurich.ch
 webagentur-in.ch
 webagentur-interlaken.ch
-webagentur-laufen.ch
-webagentur-laufental.ch
 webagentur-liebhart.ch
 webagentur-luzern.ch
 webagentur-maik.ch
@@ -2094,7 +2091,6 @@ webandbeauty.ch
 webandbreakfast.ch
 webandco.ch
 webandcode.ch
-webandgo.ch
 webandgraphics.ch
 webandki.ch
 webandle.ch
@@ -2814,8 +2810,6 @@ webdesign-land.ch
 webdesign-landquart.ch
 webdesign-langenthal.ch
 webdesign-lartigue.ch
-webdesign-laufen.ch
-webdesign-laufental.ch
 webdesign-lauterbrunnen.ch
 webdesign-liestal.ch
 webdesign-lu.ch
@@ -3103,7 +3097,6 @@ webdev.ch
 webdev4u.ch
 webdevelop.ch
 webdevelope.ch
-webdeveloper.ch
 webdevelopers.ch
 webdevelopment-tschanz.ch
 webdevelopment.ch
@@ -4077,7 +4070,6 @@ webgearing.ch
 webgecko.ch
 webgedanken.ch
 webgeek.ch
-webgefaehrte.ch
 webgeist.ch
 webgem.ch
 webgen.ch
@@ -4134,9 +4126,7 @@ webgraphiste.ch
 webgraphix.ch
 webgroomer.ch
 webground.ch
-webgroup-consulting.ch
 webgroup.ch
-webgroupconsulting.ch
 webgrow.ch
 webgruppebrienz.ch
 webguard.ch
@@ -4251,7 +4241,6 @@ webhostingverglei.ch
 webhostingvergleich.ch
 webhostingvergleich24.ch
 webhostingverzeichnis.ch
-webhostingx.ch
 webhostlist.ch
 webhostliste.ch
 webhostmarkt.ch
@@ -4746,7 +4735,6 @@ webmarketing-services.ch
 webmarketing.ch
 webmarketing123.ch
 webmarketingagency.ch
-webmarketingagentur.ch
 webmarketingbyjoel.ch
 webmarketinglugano.ch
 webmarketingsolutions.ch
@@ -4921,7 +4909,6 @@ webmust.ch
 webmuster.ch
 webmyspace.ch
 webmystiq.ch
-webnachbar.ch
 webname.ch
 webnames.ch
 webnapps.ch
@@ -5444,6 +5431,7 @@ webschrott.ch
 webschtoff.ch
 webschuleflawil.ch
 webschumacherdesign.ch
+webschutz.ch
 webscientist.ch
 webscope-pro.ch
 webscope.ch
@@ -5637,6 +5625,7 @@ webseiteschulung.ch
 webseiteschweiz.ch
 webseiteshop.ch
 webseitetest.ch
+webseitig.ch
 webseitz.ch
 websel.ch
 webselection.ch
@@ -5666,7 +5655,6 @@ webserver.hswzfh.ch
 webservers.ch
 webservice-fuer-agenturen.ch
 webservice-luzern.ch
-webservice-muenzer.ch
 webservice-stulz.ch
 webservice-world.ch
 webservice.ch
@@ -6894,7 +6882,6 @@ wecf.ch
 wechalet.ch
 wechange.ch
 wecharge.ch
-wechat.ch
 wecheer.ch
 wechef.ch
 wechip.ch
@@ -7482,7 +7469,6 @@ weddingmood.ch
 weddingmotion.ch
 weddingmotions.ch
 weddingmusic.ch
-weddingnadegealain2025.ch
 weddingnetwork.ch
 weddingnicoleandvincenzo.ch
 weddingo.ch
@@ -7682,7 +7668,6 @@ wedima-immobilien.ch
 wedimmo.ch
 wedin.ch
 wedina.ch
-wediot.ch
 wedir.ch
 wedirekt.ch
 wedis.ch
@@ -7903,7 +7888,6 @@ weedcinema.ch
 weedcleaner.ch
 weedclub.ch
 weedcompany.ch
-weedcompass.ch
 weedcontrol.ch
 weedcore.ch
 weedcorner.ch
@@ -8184,9 +8168,9 @@ weekup.ch
 weekypedia.ch
 weekzip.ch
 weel.ch
-weelab.ch
 weelevate.ch
 weelift.ch
+weelink.ch
 weelko.ch
 weellgo.ch
 weely.ch
@@ -9773,7 +9757,6 @@ weiherschloss.ch
 weiherstrasse-freienwil.ch
 weiherstrasse.ch
 weiherstrasse2.ch
-weiherweg-rekingen.ch
 weiherweg.ch
 weiherweg36.ch
 weiherweid.ch
@@ -10276,7 +10259,6 @@ weilichbrotliebe.ch
 weilichskann.ch
 weilig.ch
 weilinger.ch
-weill-gilberte.ch
 weill.ch
 weill1911.ch
 weillbalance.ch
@@ -10570,6 +10552,7 @@ weinart.ch
 weinartig.ch
 weinat.ch
 weinatelier.ch
+weinatelierkuessnacht.ch
 weinatlas.ch
 weinaufbewahrung.ch
 weinauktion.ch
@@ -11170,6 +11153,7 @@ weingut-piemont.ch
 weingut-pircher.ch
 weingut-rarnerchumme.ch
 weingut-rebhalde.ch
+weingut-roemerweg.ch
 weingut-rosenau.ch
 weingut-rosenberg.ch
 weingut-ruetihof.ch
@@ -12739,6 +12723,7 @@ weitel.ch
 weitenau.ch
 weitensfelder.ch
 weiteq.ch
+weiter-als-funktionieren.ch
 weiter-alsderhorizont.ch
 weiter-bauen.ch
 weiter-bilden.ch
@@ -13136,6 +13121,7 @@ weizentrumpf.ch
 weizer-parkett.ch
 weizer.ch
 weizerparkett.ch
+weizgmbh.ch
 weizibier.ch
 weizibraeu.ch
 weizmann.ch
@@ -14779,12 +14765,10 @@ wellsag.ch
 wellsamed-schweiz.ch
 wellsamed.ch
 wellsan.ch
-wellsana-versand.ch
 wellsana-zh.ch
 wellsana.ch
 wellsanabasel.ch
 wellsanabs.ch
-wellsanaversand.ch
 wellsanum.ch
 wellsberg.ch
 wellscape.ch
@@ -17333,7 +17317,6 @@ werbegeschenke24.ch
 werbegeschenkeag.ch
 werbegeschenkeonline.ch
 werbegeschenkeshop.ch
-werbegeschenkidee.ch
 werbegesehen.ch
 werbegestalter.ch
 werbegestaltung.ch
@@ -18100,7 +18083,6 @@ wereg.ch
 weregoja.ch
 wereija.ch
 werelax.ch
-wereli.ch
 werelli.ch
 werema.ch
 weremember.ch
@@ -19538,7 +19520,6 @@ wernishop.ch
 wernismoba.ch
 wernisound.ch
 wernisphotography.ch
-werniss.ch
 wernisteam.ch
 wernix.ch
 wernj-bewegt.ch
@@ -21475,7 +21456,6 @@ wetterflims.ch
 wetterfoto.ch
 wetterfroesche.ch
 wetterfrosch.ch
-wetterfroscher.ch
 wetterfuchs.ch
 wetterfunker.ch
 wettergott.ch

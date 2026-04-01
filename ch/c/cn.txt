@@ -103,7 +103,6 @@ cnc-connect.ch
 cnc-cortaillod.ch
 cnc-cosmetic.ch
 cnc-cosmetics.ch
-cnc-dance.ch
 cnc-data-clip.ch
 cnc-design.ch
 cnc-devil.ch
@@ -400,6 +399,7 @@ cnl.ch
 cnlab-performance.ch
 cnlab-security.ch
 cnlab-software.ch
+cnlab-switch.ch
 cnlab.ch
 cnlabperformance.ch
 cnlabsecurity.ch
