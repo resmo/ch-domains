@@ -1749,6 +1749,7 @@ ns1.fingascom.ch
 ns1.fioupfioup-infra.ch
 ns1.firba.ch
 ns1.firelight.ch
+ns1.firemeet.ch
 ns1.fischereiarm.ch
 ns1.fisharm.ch
 ns1.fishnfun.ch
@@ -2480,7 +2481,6 @@ ns1.mail.lakecoop.ch
 ns1.mail.t2v.ch
 ns1.mail360.ch
 ns1.mailer-daemon.ch
-ns1.mailgott.ch
 ns1.mailing-direct.ch
 ns1.mailius.ch
 ns1.mailprofiler.ch
@@ -3287,7 +3287,6 @@ ns1.security-host.ch
 ns1.security-tools.ch
 ns1.securitycams.ch
 ns1.seelsorgeeinheit-magdenau.ch
-ns1.seemuller.ch
 ns1.sef-systems.ch
 ns1.seiferle-aviation.ch
 ns1.selbstheilkraft.ch
@@ -5082,6 +5081,7 @@ ns2.finews.ch
 ns2.fingascom.ch
 ns2.firba.ch
 ns2.firelight.ch
+ns2.firemeet.ch
 ns2.fischereiarm.ch
 ns2.fisharm.ch
 ns2.fistat.ch
@@ -5795,7 +5795,6 @@ ns2.mail.lakecoop.ch
 ns2.mail.t2v.ch
 ns2.mail360.ch
 ns2.mailer-daemon.ch
-ns2.mailgott.ch
 ns2.mailuser.ch
 ns2.mainstyle.ch
 ns2.makamit.ch
@@ -6548,7 +6547,6 @@ ns2.security-host.ch
 ns2.security-tools.ch
 ns2.securitycams.ch
 ns2.seelsorgeeinheit-magdenau.ch
-ns2.seemuller.ch
 ns2.sef-systems.ch
 ns2.seiferle-aviation.ch
 ns2.seiz.ch

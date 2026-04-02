@@ -1421,6 +1421,7 @@ wohnen-biel-bienne.ch
 wohnen-birrhard.ch
 wohnen-blickwinkel.ch
 wohnen-blumenhof.ch
+wohnen-brandstrasse25.ch
 wohnen-breitenbach.ch
 wohnen-brig.ch
 wohnen-brisenblick.ch
@@ -1599,6 +1600,7 @@ wohnen-roessli.ch
 wohnen-rosenthal.ch
 wohnen-saentisblick.ch
 wohnen-schlafen.ch
+wohnen-schoetz.ch
 wohnen-schweiz.ch
 wohnen-seelisberg.ch
 wohnen-seewadel.ch
@@ -1612,7 +1614,7 @@ wohnen-sonnmatt.ch
 wohnen-spezial.ch
 wohnen-studen-montlingen.ch
 wohnen-suhr.ch
-wohnen-sunvalley.ch
+wohnen-uesslingen.ch
 wohnen-und-arbeiten.ch
 wohnen-und-leben.ch
 wohnen-und-mehr.ch
@@ -1685,7 +1687,6 @@ wohnenbis25.ch
 wohnenbreitenbach.ch
 wohnench.ch
 wohnenchur.ch
-wohnenderzukunft.ch
 wohnendietikon.ch
 wohnendirekt.ch
 wohnenebertswil.ch
@@ -4773,6 +4774,8 @@ wollwasch.ch
 wollweb.ch
 wollwerk.ch
 wollwerkstatt.ch
+wollwindel.ch
+wollwindeln.ch
 wollwo.ch
 wollwolf.ch
 wollwood.ch
@@ -5094,6 +5097,7 @@ womeninlifesciences.ch
 womeninlofi.ch
 womeninlowfi.ch
 womeninmusic.ch
+womeninnatura.ch
 womeninneed.ch
 womeninnovation.ch
 womeninpower.ch
@@ -5982,6 +5986,7 @@ woodea.ch
 woodeco.ch
 woodecology.ch
 wooded.ch
+woodefficent.ch
 woodelektro.ch
 woodelements.ch
 woodelicious.ch
@@ -6001,7 +6006,6 @@ woodencomfort.ch
 woodencraft.ch
 woodencrafts.ch
 woodendreams.ch
-woodenergy.ch
 woodenfitness.ch
 woodenfloor.ch
 woodengifts.ch
@@ -6264,6 +6268,7 @@ woods.ch
 woodsafe.ch
 woodsama.ch
 woodsandtrends.ch
+woodsandwaves.ch
 woodsapp.ch
 woodscout.ch
 woodscout24.ch
@@ -6276,7 +6281,6 @@ woodsford.ch
 woodsgastro.ch
 woodsgolf.ch
 woodshapepassion.ch
-woodshaper.ch
 woodshaping.ch
 woodshine.ch
 woodshop.ch
@@ -7747,7 +7751,6 @@ workio.ch
 workisapitch.ch
 workit.ch
 workitout.ch
-workits.ch
 workitup.ch
 workiva.ch
 workjob.ch
@@ -7766,14 +7769,12 @@ workless.ch
 worklfow.ch
 worklick.ch
 worklife-balance.ch
-worklife-business.ch
 worklife-zug.ch
 worklife.ch
 worklifeaargau.ch
 worklifeag.ch
 worklifebalance.ch
 worklifebus.ch
-worklifebusiness.ch
 worklifedesign.ch
 worklifefamily.ch
 worklifefit.ch
@@ -8135,7 +8136,6 @@ worksphere-map.ch
 workspire.ch
 worksport.ch
 workssent.ch
-workstar-snickers.ch
 workstar.ch
 workstate.ch
 workstation-lucerne.ch
@@ -9382,6 +9382,7 @@ wortemalen.ch
 wortenergie.ch
 worterei.ch
 wortereignis-frequenz-therapie.ch
+wortereignis.ch
 wortesekundant.ch
 wortestillundklar.ch
 worteundmehr.ch
@@ -9865,7 +9866,6 @@ wovenhybrid.ch
 wovenimage.ch
 woveninsilence.ch
 wovenkakao.ch
-wovenroots.ch
 wovex.ch
 wovo.ch
 wovs.ch
@@ -9938,6 +9938,7 @@ wow-wau.ch
 wow-wedding.ch
 wow-wimper.ch
 wow-wir.ch
+wow-wirkt.ch
 wow-wow.ch
 wow-zo.ch
 wow-zuerich.ch

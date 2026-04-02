@@ -3520,6 +3520,7 @@ waldbrandmaterial.ch
 waldbuch.ch
 waldbueb.ch
 waldbuehne.ch
+waldbuehni.ch
 waldbuero.ch
 waldbureau.ch
 waldburg-praxis.ch
@@ -5697,6 +5698,7 @@ walliser-sommer.ch
 walliser-spezialitaet.ch
 walliser-spycher-riederalp.ch
 walliser-spycher.ch
+walliser-stadel.ch
 walliser-stall.ch
 walliser-staudamm-trophy.ch
 walliser-steuerungsbau.ch
@@ -5803,6 +5805,7 @@ walliserspezialitaet.ch
 walliserspezialitaeten.ch
 wallisersportverdienste.ch
 wallisersportwoche.ch
+walliserspycher.ch
 walliserstadel.ch
 walliserstuba.ch
 walliserstube-bettmeralp.ch
@@ -6985,7 +6988,6 @@ wama-immo.ch
 wama-immobilien.ch
 wama.ch
 wamaco.ch
-wamadiagnostics.ch
 wamag-befragungen.ch
 wamag.ch
 wamai.ch
@@ -9464,12 +9466,10 @@ wasch-garage.ch
 wasch-haertetechnik.ch
 wasch-lounge.ch
 wasch-maschinen.ch
-wasch-mobil.ch
 wasch-raum.ch
 wasch-sack.ch
 wasch-salon.ch
 wasch-service.ch
-wasch-sprinter.ch
 wasch-streifen.ch
 wasch-tag.ch
 wasch-taxi.ch
@@ -9614,7 +9614,6 @@ waschmittelautomat.ch
 waschmitteldiscount.ch
 waschmittelkampagne.ch
 waschmittelstreifen.ch
-waschmobil.ch
 waschnuesse.ch
 waschnuss.ch
 wascho.ch
@@ -9642,7 +9641,6 @@ waschsalon-niederdorf.ch
 waschsalonextra.ch
 waschsauger.ch
 waschservice.ch
-waschsprinter.ch
 waschstrasse.ch
 waschstrassen.ch
 waschstreifen.ch
@@ -9858,7 +9856,6 @@ wash-now.ch
 wash-q-lator.ch
 wash-service.ch
 wash-shine.ch
-wash-sprinter.ch
 wash-street.ch
 wash-strips.ch
 wash-tec.ch
@@ -9969,7 +9966,6 @@ washroomservices.ch
 washscreen.ch
 washshine.ch
 washsmart.ch
-washsprinter.ch
 washstreet.ch
 washte.ch
 washtec-service.ch
@@ -10637,6 +10633,7 @@ wasserhaerteschweiz.ch
 wasserhahn.ch
 wasserhahnen.ch
 wasserhaltung.ch
+wasserhaus.ch
 wasserhauswartung.ch
 wasserhedingen.ch
 wasserheizung.ch
@@ -11180,7 +11177,6 @@ wasserstoffzelle.ch
 wasserstoffzellen.ch
 wasserstop.ch
 wasserstrahl-fettabsaugung.ch
-wasserstrahl-gruppe.ch
 wasserstrahl-schneide-zentrum.ch
 wasserstrahl-schneiden.ch
 wasserstrahl-spezialisten.ch
@@ -11222,7 +11218,6 @@ wassertaxi.ch
 wassertaxibasel.ch
 wassertaxis.ch
 wassertechnik.ch
-wassertechnologie.ch
 wassertemp.ch
 wassertempel.ch
 wassertemperatur-wartau.ch
@@ -12338,6 +12333,7 @@ waterman.ch
 watermanagement.ch
 watermann.ch
 watermansports.ch
+watermap.ch
 watermark-ag.ch
 watermark.ch
 watermarked.ch

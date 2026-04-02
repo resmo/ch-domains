@@ -1925,7 +1925,6 @@ buchundmediendienst.ch
 buchundnetz.ch
 buchundrahmen.ch
 buchundrat.ch
-buchundspielkiste.ch
 buchundstabe.ch
 buchundton.ch
 buchundtuch.ch
@@ -2829,6 +2828,7 @@ budzon.ch
 bue-ag.ch
 bue-glauser.ch
 bue-ma.ch
+bue.ch
 bue3000.ch
 bue53.ch
 bueag.ch
@@ -3656,7 +3656,6 @@ buehnendekor.ch
 buehnendekoration.ch
 buehnenfeuerwerk.ch
 buehnenhandel.ch
-buehnenhandwerk.ch
 buehnenhuepfer.ch
 buehnenkunst-amwort.ch
 buehnenmaler.ch
@@ -3949,6 +3948,7 @@ buendner-birnenbrot.ch
 buendner-blockhaus.ch
 buendner-bock.ch
 buendner-box.ch
+buendner-chalet.ch
 buendner-chapter.ch
 buendner-choere.ch
 buendner-chor.ch
@@ -4612,7 +4612,6 @@ buergin-thoma.ch
 buergin-transport.ch
 buergin-transporte.ch
 buergin-uebersetzungen.ch
-buergin-vermietungen.ch
 buergin-weiss.ch
 buergin-wittinsburg.ch
 buergin-zermatt.ch
@@ -6357,6 +6356,7 @@ bugbounty-schweiz.ch
 bugbounty.ch
 bugbountyhub.ch
 bugbountyschweiz.ch
+bugbountyswiss.ch
 bugbountyswitzerland.ch
 bugboy.ch
 bugbuddy.ch
@@ -6915,6 +6915,7 @@ buildlab.ch
 buildlead.ch
 buildlink.ch
 buildlinkpitch.ch
+buildlr.ch
 buildly.ch
 buildmate.ch
 buildmyevent.ch
@@ -8183,6 +8184,8 @@ bundesinformatik.ch
 bundesirrenhaus.ch
 bundeskanzlei.ch
 bundeskanzler.ch
+bundeskrankenkasse.ch
+bundeskrankenversicherung.ch
 bundeskunstsammlung.ch
 bundeslager.ch
 bundeslandjob.ch
@@ -9042,6 +9045,7 @@ burdonhorlogerie.ch
 burdonindustrie.ch
 burdtli.ch
 bure-metzg.ch
+bure-moebelaaretal.ch
 bure-pizza.ch
 bure.ch
 bure24.ch
@@ -9673,6 +9677,7 @@ burger-restaurants.ch
 burger-rezepte.ch
 burger-sa.ch
 burger-schreinerei.ch
+burger-shake.ch
 burger-shakes-zuerich.ch
 burger-space.ch
 burger-stoeckli.ch
@@ -9732,6 +9737,7 @@ burgerch.ch
 burgerchallenge.ch
 burgerchallenge2024.ch
 burgerchuchi.ch
+burgercity.ch
 burgerclub-zh.ch
 burgercollection.ch
 burgerconsulting.ch
@@ -10283,6 +10289,7 @@ burhan.ch
 burhanamedov.ch
 burhanosmani.ch
 burhaut.ch
+burho.ch
 burhone.ch
 burhop.ch
 buri-ag.ch
@@ -11678,7 +11685,6 @@ bushcraft.ch
 bushcraftcamps.ch
 bushcraftevent.ch
 bushcraftshop.ch
-bushcraftsurvival.ch
 bushcruiser.ch
 bushgold.ch
 bushido-baden.ch
@@ -13859,7 +13865,6 @@ but-informatik.ch
 but-management.ch
 but-who-are-you.ch
 but.ch
-buta.ch
 butagaz.ch
 butalco.ch
 butangas.ch
@@ -14544,7 +14549,6 @@ buvettedelapati-morges.ch
 buvettedelaplage.ch
 buvettedesbains.ch
 buvettedesevaux.ch
-buvettedessapins.ch
 buvettedetannay.ch
 buvettedreirosen.ch
 buvettedu17.ch
