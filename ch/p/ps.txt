@@ -691,7 +691,6 @@ psconstruct.ch
 psconsult.ch
 psconsulting.ch
 pscp.ch
-pscr.ch
 pscreative.ch
 psctitlis.ch
 psctriengen.ch
@@ -2220,7 +2219,9 @@ psychiatriespitex-ausserschwyz.ch
 psychiatriespitex-beo.ch
 psychiatriespitex-biel.ch
 psychiatriespitex-isik.ch
+psychiatriespitex-kanton-schwyz.ch
 psychiatriespitex-kanton-zuerich.ch
+psychiatriespitex-kanton-zug.ch
 psychiatriespitex-lu.ch
 psychiatriespitex-luzern.ch
 psychiatriespitex-melini.ch
@@ -2228,8 +2229,10 @@ psychiatriespitex-nidwalden.ch
 psychiatriespitex-schweiz.ch
 psychiatriespitex-schwyz.ch
 psychiatriespitex-seewadel.ch
+psychiatriespitex-sz.ch
 psychiatriespitex-uri.ch
 psychiatriespitex-zentralschweiz.ch
+psychiatriespitex-zg.ch
 psychiatriespitex-zh.ch
 psychiatriespitex-zuerich.ch
 psychiatriespitex-zug.ch
@@ -3403,7 +3406,6 @@ psychotherapie-egri-klaizer.ch
 psychotherapie-ehs.ch
 psychotherapie-eichelberger.ch
 psychotherapie-eidenbenz.ch
-psychotherapie-eigerstrasse.ch
 psychotherapie-einsiedeln.ch
 psychotherapie-eisenegger.ch
 psychotherapie-emdr.ch

@@ -12,6 +12,7 @@ ic-cons.ch
 ic-consult-group.ch
 ic-consult.ch
 ic-consulting.ch
+ic-content.ch
 ic-cure.ch
 ic-derladen.ch
 ic-digitals.ch
@@ -2668,7 +2669,6 @@ ict-luzern.ch
 ict-mail.ch
 ict-maintenance.ch
 ict-managed.ch
-ict-management.ch
 ict-manager.ch
 ict-mandat.ch
 ict-mandate.ch
@@ -2710,6 +2710,7 @@ ict-professionals.ch
 ict-project.ch
 ict-projects.ch
 ict-projekttag.ch
+ict-provider.ch
 ict-recht.ch
 ict-recruitment.ch
 ict-regelstandards.ch

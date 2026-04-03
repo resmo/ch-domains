@@ -120,6 +120,7 @@ mt-visualstudio.ch
 mt-werkstatt.ch
 mt-wil.ch
 mt-zollikon.ch
+mt1.ch
 mt100.ch
 mt180.ch
 mt194.ch
@@ -1002,6 +1003,7 @@ mtv-rothenburg.ch
 mtv-schafisheim.ch
 mtv-schneebar.ch
 mtv-schwerzenbach.ch
+mtv-stansstad.ch
 mtv-stawi.ch
 mtv-steinamrhein.ch
 mtv-stuesslingen.ch
@@ -1094,7 +1096,6 @@ mtxms.ch
 mtxnutrition.ch
 mtxr.ch
 mtxservices.ch
-mtxt.ch
 mtxtech.ch
 mtxweb.ch
 mty.ch

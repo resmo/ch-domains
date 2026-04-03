@@ -981,7 +981,6 @@ ns1.basx.ch
 ns1.bauern-portal.ch
 ns1.bauernportal.ch
 ns1.baumer.ch
-ns1.bbap.ch
 ns1.bbcom.ch
 ns1.bbconsulting.ch
 ns1.bbgweb.ch
@@ -1775,6 +1774,7 @@ ns1.fognet.ch
 ns1.foodit.ch
 ns1.forapi.ch
 ns1.formidable-server.ch
+ns1.fortuna-medien.ch
 ns1.forum-bgm-sg.ch
 ns1.fossi.ch
 ns1.fournierservices.ch
@@ -2948,6 +2948,7 @@ ns1.pianeti.ch
 ns1.pibit.ch
 ns1.picfilm.ch
 ns1.pihosting.ch
+ns1.pimp-your-web-ag.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
 ns1.pinkbox.ch
@@ -4346,7 +4347,6 @@ ns2.bauern-portal.ch
 ns2.bauernportal.ch
 ns2.baumer.ch
 ns2.baz-med.ch
-ns2.bbap.ch
 ns2.bbcom.ch
 ns2.bbconsulting.ch
 ns2.bbgweb.ch
@@ -5104,6 +5104,7 @@ ns2.fogdns.ch
 ns2.fognet.ch
 ns2.foodit.ch
 ns2.formidable-server.ch
+ns2.fortuna-medien.ch
 ns2.forum-bgm-sg.ch
 ns2.fotomorgana.ch
 ns2.fournierservices.ch
@@ -6223,6 +6224,7 @@ ns2.physionotter.ch
 ns2.pianeti.ch
 ns2.picfilm.ch
 ns2.pihosting.ch
+ns2.pimp-your-web-ag.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
 ns2.pinkbox.ch
