@@ -1224,7 +1224,6 @@ erec-pro.ch
 erec.ch
 ereceipt.ch
 ereceptionist.ch
-erecfunds.ch
 erechnung.ch
 erechnungen.ch
 erechnunggenerator.ch
@@ -4526,7 +4525,6 @@ erlebnisoper.ch
 erlebnisorientiertelandwirtschaft.ch
 erlebnisorientiertepflege.ch
 erlebnisort.ch
-erlebnisostschweiz.ch
 erlebnispaedagogik-ausbildung.ch
 erlebnispaedagogik.ch
 erlebnisparadies.ch
@@ -5962,8 +5960,11 @@ ernysalon.ch
 ernyvetsch.ch
 ero-ag.ch
 ero-anzeigen.ch
+ero-blog.ch
 ero-fans.ch
 ero-holding.ch
+ero-media.ch
+ero-mediahub.ch
 ero-page.ch
 ero-scout.ch
 ero-shop.ch
@@ -6082,6 +6083,7 @@ eroom.ch
 eroomsminusio.ch
 eroots.ch
 erop.ch
+eropage.ch
 eropdesigners.ch
 eropia.ch
 eroplex.ch

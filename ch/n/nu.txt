@@ -1159,6 +1159,7 @@ nullplan.ch
 nullpoint.ch
 nullpointer.ch
 nullpointerexception.ch
+nullpointx.ch
 nullpositiv.ch
 nullpositivgebaeude.ch
 nullpromille-trophy.ch
@@ -2547,7 +2548,6 @@ nuss-kacken.ch
 nuss-koenig.ch
 nuss-mischung.ch
 nuss-mus.ch
-nuss-shop.ch
 nuss-spezialitaeten.ch
 nuss.ch
 nussabo.ch
