@@ -2983,7 +2983,6 @@ asic-group.ch
 asic-sa.ch
 asic.ch
 asicbe.ch
-asicc.ch
 asice.ch
 asicilia.ch
 asicminers.ch
@@ -6791,7 +6790,6 @@ assuranceinfo.ch
 assurancelamal.ch
 assurancelausanne.ch
 assurancemaison.ch
-assurancemaladie-online.ch
 assurancemaladie-suisse.ch
 assurancemaladie-swiss.ch
 assurancemaladiecomplementaire.ch
@@ -7414,6 +7412,7 @@ asth.ch
 asthalwil.ch
 asthaufen.ch
 asthefis.ch
+astheimer.ch
 asthemis.ch
 astherapiesonores.ch
 astherm.ch

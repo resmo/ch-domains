@@ -1512,7 +1512,6 @@ ns1.dns-zonen.ch
 ns1.dns24.ch
 ns1.dnscore.ch
 ns1.dnservice.ch
-ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -1829,7 +1828,6 @@ ns1.gartmann.ch
 ns1.gas-com.ch
 ns1.gattleninfo.ch
 ns1.gaudiano.ch
-ns1.gebr-nishori.ch
 ns1.gecko-media.ch
 ns1.gecloud.ch
 ns1.geiger-online.ch
@@ -3545,7 +3543,6 @@ ns1.swissphilanthropyacademy.ch
 ns1.swissplaza.ch
 ns1.swissteddy.ch
 ns1.swisstrans.ch
-ns1.switwork.ch
 ns1.sws-hosting.ch
 ns1.sxn.ch
 ns1.symple.ch
@@ -4856,7 +4853,6 @@ ns2.dns-online.ch
 ns2.dns-zonen.ch
 ns2.dns24.ch
 ns2.dnservice.ch
-ns2.dnsking.ch
 ns2.dnsproxy.ch
 ns2.dnssec.ch
 ns2.dnssecure.ch
@@ -5158,7 +5154,6 @@ ns2.gartmann.ch
 ns2.gas-com.ch
 ns2.gattleninfo.ch
 ns2.gaudiano.ch
-ns2.gebr-nishori.ch
 ns2.gecko-media.ch
 ns2.gecloud.ch
 ns2.geiger-online.ch
@@ -6811,7 +6806,6 @@ ns2.swissregister.ch
 ns2.swisstrans.ch
 ns2.swissvon.ch
 ns2.switch.ch
-ns2.switwork.ch
 ns2.switzerland-hosting.ch
 ns2.swix.ch
 ns2.sws-hosting.ch
@@ -7966,7 +7960,6 @@ ns3.swisslos.ch
 ns3.swissphilanthropyacademy.ch
 ns3.swissvon.ch
 ns3.switch.ch
-ns3.switwork.ch
 ns3.swix.ch
 ns3.syselcloud.ch
 ns3.systacom.ch
