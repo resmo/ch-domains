@@ -2378,7 +2378,6 @@ ns1.layer9.ch
 ns1.lcm.ch
 ns1.ldl-glamourmode.ch
 ns1.leafit.ch
-ns1.lebrun-renovation-la.ch
 ns1.lecomte.ch
 ns1.ledspecialist.ch
 ns1.leegroup.ch
@@ -2802,6 +2801,7 @@ ns1.ochm.ch
 ns1.oekostromshop.ch
 ns1.oeles-webdesign.ch
 ns1.oetiker.ch
+ns1.offcloud.ch
 ns1.offene-hoftueren.ch
 ns1.offertube.ch
 ns1.office-max.ch
@@ -3405,6 +3405,7 @@ ns1.softwareschneiderei.ch
 ns1.softxs.ch
 ns1.sogea.ch
 ns1.sol-tax.ch
+ns1.solar-bier.ch
 ns1.solarcom.ch
 ns1.solarisnet.ch
 ns1.solidhosting.ch
@@ -5689,7 +5690,6 @@ ns2.lawmail.ch
 ns2.layer9.ch
 ns2.lcm.ch
 ns2.ldl-glamourmode.ch
-ns2.lebrun-renovation-la.ch
 ns2.lecomte.ch
 ns2.lecopain.ch
 ns2.ledspecialist.ch
@@ -6083,6 +6083,7 @@ ns2.ochm.ch
 ns2.oekostromshop.ch
 ns2.oeles-webdesign.ch
 ns2.oetiker.ch
+ns2.offcloud.ch
 ns2.offene-hoftueren.ch
 ns2.office-max.ch
 ns2.oglasi24.ch
@@ -6669,6 +6670,7 @@ ns2.softwareschneiderei.ch
 ns2.softxs.ch
 ns2.sogea.ch
 ns2.sol-tax.ch
+ns2.solar-bier.ch
 ns2.solarbox.ch
 ns2.solarcom.ch
 ns2.solarisnet.ch
@@ -8582,6 +8584,7 @@ nsdconstruction.ch
 nsdesign.ch
 nsdestinations.ch
 nsdev.ch
+nsdigital.ch
 nsdr.ch
 nsds.ch
 nsdtent.ch

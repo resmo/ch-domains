@@ -974,7 +974,6 @@ teamarcticmelody.ch
 teamarena.ch
 teamargovia.ch
 teamaria.ch
-teamarin.ch
 teamarmee.ch
 teamarthur.ch
 teamassembly.ch
@@ -3208,7 +3207,6 @@ techjam.ch
 techjob.ch
 techjobs.ch
 techjournalismus.ch
-techjustiz.ch
 techkauf.ch
 techkeve.ch
 techki.ch
@@ -3287,7 +3285,6 @@ techma.ch
 techmage.ch
 techmahindra.ch
 techmail.ch
-techmain.ch
 techmak.ch
 techman.ch
 techmania.ch
@@ -3333,6 +3330,7 @@ techmo.ch
 techmobilestore.ch
 techmobility.ch
 techmoesano.ch
+techmon.ch
 techmondo.ch
 techmonkey.ch
 techmont.ch
@@ -4053,7 +4051,6 @@ technokael.ch
 technokar.ch
 technokmu.ch
 technokrat.ch
-technokratie.ch
 technokultur.ch
 technolab.ch
 technoledge.ch
@@ -6343,6 +6340,7 @@ teilt-zeit.ch
 teiltzeit.ch
 teilung.ch
 teilvonuns.ch
+teilwave.ch
 teilweise.ch
 teilwerk.ch
 teilzahlung.ch
@@ -8428,7 +8426,6 @@ tellenbrau.ch
 tellenburg.ch
 tellenmatt.ch
 tellenmooshof.ch
-tellensky.ch
 tellent.ch
 tellenwurst.ch
 teller-kraki.ch
@@ -9739,6 +9736,7 @@ tenanet.ch
 tenant-id.ch
 tenant.ch
 tenantag.ch
+tenantflow.ch
 tenantid.ch
 tenantlab.ch
 tenantpilot.ch
@@ -9855,6 +9853,8 @@ tender-loins.ch
 tender-lokstadt.ch
 tender-pilot.ch
 tender-service.ch
+tender-toolbox.ch
+tender-tools.ch
 tender-transport.ch
 tender.ch
 tendera.ch
@@ -9868,6 +9868,7 @@ tendercapitalsuisse.ch
 tendercrew.ch
 tenderdate.ch
 tenderdol.ch
+tenderengine.ch
 tenderflame.ch
 tenderflow.ch
 tenderfuel.ch
@@ -9876,6 +9877,7 @@ tendergpt.ch
 tenderhub.ch
 tenderinifotografia.ch
 tenderizer.ch
+tenderlab.ch
 tenderlake.ch
 tenderlift.ch
 tenderloin-ventures.ch
@@ -9889,12 +9891,17 @@ tendero.ch
 tenderpharma.ch
 tenderphoto.ch
 tenderpilot.ch
+tenderplatform.ch
 tenderritual.ch
 tenders.ch
 tenderscope.ch
 tendersingles.ch
+tendersolutions.ch
 tenderstar.ch
 tendertool.ch
+tendertoolbox.ch
+tendertoolkit.ch
+tendertools.ch
 tendertouches.ch
 tendertracker.ch
 tenderweb.ch
@@ -13712,7 +13719,6 @@ territorivivibili.ch
 territory-influence.ch
 territory.ch
 terrn.ch
-terrncotank.ch
 terroir-be-regional.ch
 terroir-et-climat.ch
 terroir-etcetera.ch
@@ -14699,7 +14705,6 @@ test-e-trainingtcs.ch
 test-e2e-intern-ik-wc.ch
 test-e2e-site-mail-builder.ch
 test-ecdl-geneve.ch
-test-echt.ch
 test-eduvaud.ch
 test-egai.ch
 test-env.ch
@@ -16529,6 +16534,7 @@ texbe.ch
 texbill.ch
 texbiz.ch
 texblatech.ch
+texcalytics.ch
 texcard.ch
 texcare.ch
 texclean-company.ch
