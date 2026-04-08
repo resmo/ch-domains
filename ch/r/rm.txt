@@ -114,7 +114,6 @@ rm-rf.ch
 rm-scans.ch
 rm-schaffhausen.ch
 rm-schupfart.ch
-rm-search.ch
 rm-securite.ch
 rm-services.ch
 rm-sigrist.ch
@@ -399,7 +398,6 @@ rmhorses.ch
 rmhotz.ch
 rmhpro.ch
 rmhregionalmedien.ch
-rmhrservice.ch
 rmhsa.ch
 rmi-ag.ch
 rmi-markierungen.ch
@@ -552,7 +550,6 @@ rmplatten.ch
 rmplaw.ch
 rmpoc.ch
 rmpr.ch
-rmprocurement.ch
 rmprofessional.ch
 rmprofessionals.ch
 rmpromotion.ch
@@ -619,10 +616,8 @@ rmscelgene.ch
 rmsch.ch
 rmscommunications.ch
 rmsconsulting.ch
-rmsearch.ch
 rmsecurite.ch
 rmserv.ch
-rmservice.ch
 rmservices-ge.ch
 rmservices.ch
 rmsetudiants.ch
@@ -640,7 +635,6 @@ rmsolar.ch
 rmsolutions-ge.ch
 rmsolutions.ch
 rmsr.ch
-rmss.ch
 rmssa.ch
 rmsshooting.ch
 rmssolar.ch

@@ -596,7 +596,6 @@ ns01.skvnet.ch
 ns01.sotero.ch
 ns01.stauffachercharpentes.ch
 ns01.swecdn.ch
-ns01.swiss-serve.ch
 ns01.tcnet.ch
 ns01.tso.ch
 ns01.vtx.ch
@@ -658,7 +657,6 @@ ns02.skvnet.ch
 ns02.sotero.ch
 ns02.stauffachercharpentes.ch
 ns02.swecdn.ch
-ns02.swiss-serve.ch
 ns02.tcnet.ch
 ns02.ticinohosting.ch
 ns02.tso.ch
@@ -686,7 +684,6 @@ ns03.puska.ch
 ns03.siw.ch
 ns03.smarthosting.ch
 ns03.sonderformat.ch
-ns03.swiss-serve.ch
 ns03.ticinohosting.ch
 ns03.tyle.ch
 ns04.gva.ch
@@ -1507,7 +1504,6 @@ ns1.dns-cloud.ch
 ns1.dns-lst.ch
 ns1.dns-lstschenker.ch
 ns1.dns-net.ch
-ns1.dns-online.ch
 ns1.dns-zonen.ch
 ns1.dns24.ch
 ns1.dnscore.ch
@@ -1751,6 +1747,7 @@ ns1.fischereiarm.ch
 ns1.fisharm.ch
 ns1.fishnfun.ch
 ns1.fistat.ch
+ns1.fitimschritt.ch
 ns1.fivezone.ch
 ns1.flashcable.ch
 ns1.flashillusion.ch
@@ -3705,7 +3702,6 @@ ns1.uhot.ch
 ns1.ultraspeed.ch
 ns1.umf.ch
 ns1.unibe.ch
-ns1.unidok.ch
 ns1.unil.ch
 ns1.unique-hosting.ch
 ns1.uniquer.ch
@@ -4850,7 +4846,6 @@ ns2.dns-cloud.ch
 ns2.dns-lst.ch
 ns2.dns-lstschenker.ch
 ns2.dns-net.ch
-ns2.dns-online.ch
 ns2.dns-zonen.ch
 ns2.dns24.ch
 ns2.dnservice.ch
@@ -5080,6 +5075,7 @@ ns2.firemeet.ch
 ns2.fischereiarm.ch
 ns2.fisharm.ch
 ns2.fistat.ch
+ns2.fitimschritt.ch
 ns2.fiveinfo.ch
 ns2.fivezone.ch
 ns2.flashcable.ch
@@ -6966,7 +6962,6 @@ ns2.uhot.ch
 ns2.ultraspeed.ch
 ns2.umf.ch
 ns2.unibe.ch
-ns2.unidok.ch
 ns2.unil.ch
 ns2.unique-hosting.ch
 ns2.uniquer.ch

@@ -787,7 +787,6 @@ snd58.ch
 snd59.ch
 snd6.ch
 snd63.ch
-snd64.ch
 sndb.ch
 sndb0x.ch
 sndbn.ch
@@ -1172,7 +1171,6 @@ snipmatch.ch
 snipmyscreen.ch
 snipo.ch
 snipp.ch
-snippads.ch
 snippet.ch
 snippet40.ch
 snippetizer.ch
