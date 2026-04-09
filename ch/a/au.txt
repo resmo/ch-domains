@@ -312,13 +312,11 @@ aubep-elearning.ch
 aubep-erp.ch
 aubep-logistic.ch
 aubep-manager.ch
-aubep-romandie.ch
 aubep-services.ch
 aubep.ch
 aubeparcimboldo.ch
 aubeperp.ch
 aubepsa.ch
-aubepshare.ch
 auberceaudelame.ch
 auberceaudor.ch
 auberg-manufaktur.ch
@@ -639,6 +637,7 @@ aubo.ch
 auboafumant.ch
 aubocalducoin.ch
 auboden.ch
+auboeuf.ch
 auboisdemoncoeur.ch
 auboisdormant.ch
 auboishusson.ch
@@ -3403,6 +3402,7 @@ auftragsmarkt.ch
 auftragsmeister.ch
 auftragsmord.ch
 auftragsmotor.ch
+auftragspilot.ch
 auftragsplatz.ch
 auftragsplus.ch
 auftragsportal.ch
@@ -3640,6 +3640,7 @@ augen-chur-allegra.ch
 augen-coach.ch
 augen-coaching.ch
 augen-diagnostik.ch
+augen-dielsdorf.ch
 augen-doktor.ch
 augen-duschen.ch
 augen-erlenbach.ch
@@ -3656,6 +3657,7 @@ augen-heilkunde.ch
 augen-kinder.ch
 augen-kinetik.ch
 augen-klicke.ch
+augen-klinik-dielsdorf.ch
 augen-kontakt.ch
 augen-laser-klinik.ch
 augen-laser-schweiz.ch
@@ -3787,6 +3789,7 @@ augenaerzte-olten.ch
 augenaerzte-opfikon.ch
 augenaerzte-parkside-schlieren.ch
 augenaerzte-pfaeffikon.ch
+augenaerzte-promenade.ch
 augenaerzte-rapperswil.ch
 augenaerzte-regensdorf.ch
 augenaerzte-reinach.ch
@@ -3926,7 +3929,9 @@ augenarzt-chur.ch
 augenarzt-clara.ch
 augenarzt-daepp.ch
 augenarzt-davos.ch
+augenarzt-dielsdorf.ch
 augenarzt-dierikon.ch
+augenarzt-dilsdorf.ch
 augenarzt-dishy.ch
 augenarzt-domig.ch
 augenarzt-dorenbach.ch
@@ -3985,6 +3990,7 @@ augenarzt-ingenbohl.ch
 augenarzt-keller.ch
 augenarzt-kilchberg.ch
 augenarzt-klettgau.ch
+augenarzt-klinik-dielsdorf.ch
 augenarzt-kloten.ch
 augenarzt-knonau.ch
 augenarzt-koller.ch
@@ -4026,11 +4032,13 @@ augenarzt-pfauen.ch
 augenarzt-plattner.ch
 augenarzt-praettigau.ch
 augenarzt-pratteln.ch
+augenarzt-praxis-dielsdorf.ch
 augenarzt-praxis-horgen.ch
 augenarzt-praxis-rotkreuz.ch
 augenarzt-praxis-staefa.ch
 augenarzt-praxis-thalwil.ch
 augenarzt-praxis.ch
+augenarzt-promenade.ch
 augenarzt-quader.ch
 augenarzt-quaderzentrum.ch
 augenarzt-rafzerfeld.ch
@@ -4156,6 +4164,8 @@ augenarztbrunnen.ch
 augenarztcenterpassage.ch
 augenarztcentrum.ch
 augenarztchur.ch
+augenarztdielsdorf.ch
+augenarztdilsdorf.ch
 augenarztdonato.ch
 augenarztdrhess.ch
 augenarztduebendorf.ch
@@ -4170,6 +4180,7 @@ augenarztinallschwil.ch
 augenarztinbern.ch
 augenarztinbrugg.ch
 augenarztingenbohl.ch
+augenarztklinik-dielsdorf.ch
 augenarztkuessnacht.ch
 augenarztlaufen.ch
 augenarztliestal.ch
@@ -4200,6 +4211,7 @@ augenarztpraxis-bellevue.ch
 augenarztpraxis-braun-fraenkl.ch
 augenarztpraxis-degen.ch
 augenarztpraxis-dielsdorf.ch
+augenarztpraxis-dilsdorf.ch
 augenarztpraxis-dorenbach.ch
 augenarztpraxis-dr-sens.ch
 augenarztpraxis-fleischlin.ch
@@ -4248,6 +4260,7 @@ augenarztpraxisambahnhof.ch
 augenarztpraxisamparadeplatz.ch
 augenarztpraxisbellevue.ch
 augenarztpraxisbern.ch
+augenarztpraxisdielsdorf.ch
 augenarztpraxisdrhess.ch
 augenarztpraxisgossau.ch
 augenarztpraxishorgen.ch
@@ -4320,11 +4333,13 @@ augenbehandlungen.ch
 augenblick-art.ch
 augenblick-beautyfactory.ch
 augenblick-coaching.ch
+augenblick-dielsdorf.ch
 augenblick-optik.ch
 augenblick-sh.ch
 augenblick.ch
 augenblickbysb.ch
 augenblickdebi.ch
+augenblickdielsdorf.ch
 augenblicke-atelier.ch
 augenblicke-eingefangen.ch
 augenblicke-marlene.ch
@@ -4364,6 +4379,7 @@ augencenter-ag.ch
 augencenter-baselland.ch
 augencenter-bellevue.ch
 augencenter-bern.ch
+augencenter-dielsdorf.ch
 augencenter-dietikon.ch
 augencenter-frick.ch
 augencenter-fruttal.ch
@@ -4377,6 +4393,7 @@ augencenter-selde.ch
 augencenter-uitikon.ch
 augencenter-winterthur.ch
 augencenter.ch
+augencenterdielsdorf.ch
 augencenterfruttal.ch
 augencenterfurttal.ch
 augencenterhess.ch
@@ -4394,7 +4411,9 @@ augencentrum-wallisellen.ch
 augencentrum-wetzikon.ch
 augencentrum.ch
 augencentrumsg.ch
+augencheck-dielsdorf.ch
 augencheck.ch
+augencheckdielsdorf.ch
 augencheckup.ch
 augenchirurg.ch
 augenchirurgen.ch
@@ -4405,7 +4424,11 @@ augenchirurgie-ono.ch
 augenchirurgie.ch
 augenchirurgiezuerich.ch
 augenclick.ch
+augenclinic-dielsdorf.ch
+augenclinic-dilsdorf.ch
 augenclinic.ch
+augenclinicdielsdorf.ch
+augenclinicdilsdorf.ch
 augenclinicmallorca.ch
 augenclinique.ch
 augencoach.ch
@@ -4415,6 +4438,7 @@ augencreme.ch
 augenda.ch
 augendiagnose.ch
 augendiagnostik.ch
+augendielsdorf.ch
 augendoc.ch
 augendoctor.ch
 augendoktor-eis.ch
@@ -4473,7 +4497,9 @@ augeninfo.ch
 augeninstitut-aarau.ch
 augeninstitut-aargau.ch
 augeninstitut-ag.ch
+augeninstitut-dielsdorf.ch
 augeninstitut.ch
+augeninstitutdielsdorf.ch
 augenix.ch
 augenkissen.ch
 augenklar.ch
@@ -4506,6 +4532,7 @@ augenklinik-grischuna.ch
 augenklinik-herisau.ch
 augenklinik-heuberger.ch
 augenklinik-horgen.ch
+augenklinik-in-dielsdorf.ch
 augenklinik-lenzburg.ch
 augenklinik-liestal.ch
 augenklinik-lu.ch
@@ -4554,6 +4581,7 @@ augenklinikbern.ch
 augenklinikbrugg.ch
 augenklinikbuelach.ch
 augenklinikchur.ch
+augenklinikdielsdorf.ch
 augenklinikeden.ch
 augenkliniken.ch
 augenklinikfreiburg.ch
@@ -4609,6 +4637,7 @@ augenlaser-bern.ch
 augenlaser-bodenseeklinik.ch
 augenlaser-centrum.ch
 augenlaser-check.ch
+augenlaser-dielsdorf.ch
 augenlaser-frauenfeld.ch
 augenlaser-in-der-naehe.ch
 augenlaser-in-meiner-naehe.ch
@@ -4638,6 +4667,7 @@ augenlaserbewertung.ch
 augenlasercenter.ch
 augenlasercentrum.ch
 augenlasercheck.ch
+augenlaserdielsdorf.ch
 augenlaserfinder.ch
 augenlaserinterlaken.ch
 augenlaserklinik.ch
@@ -4676,6 +4706,7 @@ augenlider.ch
 augenlidkorrektur.ch
 augenlidkorrekturen.ch
 augenlidoperation.ch
+augenlidoperationen.ch
 augenlidplastik.ch
 augenlidstraffung-luzern.ch
 augenlidstraffung-schweiz.ch
@@ -4777,6 +4808,7 @@ augenpraxis-centerpassage.ch
 augenpraxis-claridenhof.ch
 augenpraxis-dielsdorf.ch
 augenpraxis-dietikon.ch
+augenpraxis-dilsdorf.ch
 augenpraxis-emme.ch
 augenpraxis-emmen.ch
 augenpraxis-emmenbruecke.ch
@@ -4856,6 +4888,7 @@ augenpraxisbinningen.ch
 augenpraxisbirstal.ch
 augenpraxisbrunnen.ch
 augenpraxiscenterpassage.ch
+augenpraxisdielsdorf.ch
 augenpraxisfrick.ch
 augenpraxisfricktal.ch
 augenpraxisgossau.ch
@@ -4910,6 +4943,9 @@ augenschutz.ch
 augenscreening.ch
 augenspezialist-zuerich.ch
 augenspezialist.ch
+augenspital-dielsdorf.ch
+augenspital.ch
+augenspitaldielsdorf.ch
 augenspray.ch
 augensprechstunde.ch
 augenspuelflasche.ch
@@ -5086,6 +5122,7 @@ augenzentrum-picassoplatz.ch
 augenzentrum-pizol.ch
 augenzentrum-pratteln-bl.ch
 augenzentrum-pratteln.ch
+augenzentrum-promenade.ch
 augenzentrum-quader.ch
 augenzentrum-rapperswil.ch
 augenzentrum-regensdorf.ch
@@ -5149,6 +5186,7 @@ augenzentrumbrig.ch
 augenzentrumbrugg.ch
 augenzentrumbrunnen.ch
 augenzentrumbuchs.ch
+augenzentrumdielsdorf.ch
 augenzentrumdietikon.ch
 augenzentrumduebendorf.ch
 augenzentrumfreiburg.ch
@@ -7003,6 +7041,7 @@ aurevo-energy.ch
 aurevo.ch
 aurevocare-springerpool-pflege.ch
 aurevoessencials.ch
+aurevogroup.ch
 aurevoir.ch
 aurevoirmydarling.ch
 aurevomanagement.ch
@@ -7520,6 +7559,7 @@ aurum-globe.ch
 aurum-gu.ch
 aurum-guardian.ch
 aurum-heaven-services.ch
+aurum-heaven.ch
 aurum-helveticum.ch
 aurum-herba.ch
 aurum-immo.ch
@@ -7675,6 +7715,7 @@ aus-liebe-zum-geschmack.ch
 aus-liebe-zum-kirchenfeld.ch
 aus-mallorca.ch
 aus-ns.ch
+aus-oesterreich.ch
 aus-reiser.ch
 aus-schwyz.ch
 aus-sehen.ch
@@ -8952,6 +8993,7 @@ australian-labradoodles.ch
 australian-shepherd-club.ch
 australian-shepherd.ch
 australian-shepherds.ch
+australian-silky.ch
 australian-silkyterrier.ch
 australian.ch
 australianbodycare.ch
@@ -12429,7 +12471,6 @@ autocrew.ch
 autocrm.ch
 autocross-baumgartner.ch
 autocross-club-baselland.ch
-autocross-hochybrig.ch
 autocross-shop.ch
 autocross.ch
 autocrossteam.ch
@@ -12790,6 +12831,7 @@ autoev.ch
 autoeval.ch
 autoevaluation-conduite.ch
 autoevent.ch
+autoevents.ch
 autoeventschweiz.ch
 autoeverest.ch
 autoevolution.ch
@@ -12935,6 +12977,7 @@ autofashion.ch
 autofaszination.ch
 autofati.ch
 autofaupel.ch
+autofcrodrigueslouro.ch
 autofeed.ch
 autofelder.ch
 autofelge.ch
@@ -13435,6 +13478,7 @@ autohandel-ismaili.ch
 autohandel-justdrive.ch
 autohandel-limani.ch
 autohandel-luzern.ch
+autohandel-manager.ch
 autohandel-markaj.ch
 autohandel-moro.ch
 autohandel-online.ch
@@ -17613,6 +17657,7 @@ aux-saveurs-royales.ch
 aux-souhaits.ch
 aux-sylphides.ch
 aux-trois-cles.ch
+aux-trois-sapins.ch
 aux-trois-siecles.ch
 aux-trois-tonneaux.ch
 aux-urgences.ch
@@ -17851,7 +17896,6 @@ auxsaveursdanstemps.ch
 auxsaveursderovray.ch
 auxsaveursditalie.ch
 auxsaveursdumonde.ch
-auxsecretsdelasortceliere.ch
 auxsoins-auvernier.ch
 auxsoinsauvernier.ch
 auxsoinsdesbols.ch

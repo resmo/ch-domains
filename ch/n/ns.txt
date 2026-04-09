@@ -235,7 +235,6 @@ ns.gbassurances.ch
 ns.geberit.ch
 ns.gerardi.ch
 ns.gfeller-solartechnik.ch
-ns.gia.ch
 ns.giogio.ch
 ns.global-security.ch
 ns.globaldsl.ch
@@ -272,7 +271,6 @@ ns.impex-trading.ch
 ns.imprimerie-lausanne.ch
 ns.imprimerieduprogres.ch
 ns.imprimerienligne.ch
-ns.indicefr.ch
 ns.innet.ch
 ns.innuce.ch
 ns.ins-online.ch
@@ -858,7 +856,6 @@ ns1.antanet.ch
 ns1.anthonydieperink.ch
 ns1.antigruen.ch
 ns1.antilinks.ch
-ns1.antonio-renovation.ch
 ns1.anwaltsvorlagen.ch
 ns1.anwesend.ch
 ns1.anycastdns.ch
@@ -1243,7 +1240,6 @@ ns1.cirba.ch
 ns1.circularhubswitzerland.ch
 ns1.cisarda.ch
 ns1.citech-components.ch
-ns1.citrin.ch
 ns1.citycable.ch
 ns1.cityhost.ch
 ns1.citylake.ch
@@ -1508,6 +1504,7 @@ ns1.dns-zonen.ch
 ns1.dns24.ch
 ns1.dnscore.ch
 ns1.dnservice.ch
+ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -1842,7 +1839,6 @@ ns1.gesticlub.ch
 ns1.getrich.ch
 ns1.getstarted.ch
 ns1.gf-it.ch
-ns1.gia.ch
 ns1.gibb.ch
 ns1.giftcup.ch
 ns1.giginetworks.ch
@@ -2217,6 +2213,7 @@ ns1.itgarage.ch
 ns1.itguys.ch
 ns1.itivity.ch
 ns1.itkb.ch
+ns1.itoa.ch
 ns1.itprime.ch
 ns1.itrain.ch
 ns1.itsieber.ch
@@ -2606,6 +2603,7 @@ ns1.mollylove.ch
 ns1.mondani.ch
 ns1.monmarketing.ch
 ns1.montag.ch
+ns1.morandiniconsulenze.ch
 ns1.more-fidelity.ch
 ns1.more-it.ch
 ns1.morefidelity.ch
@@ -3083,7 +3081,6 @@ ns1.quantum-consulting.ch
 ns1.qubits.ch
 ns1.quick-net.ch
 ns1.quick2web.ch
-ns1.quizicall.ch
 ns1.qwery.ch
 ns1.r1e.ch
 ns1.raan-thai.ch
@@ -3102,6 +3099,7 @@ ns1.razor.ch
 ns1.rbit.ch
 ns1.rblm.ch
 ns1.rbns.ch
+ns1.rbxsystems.ch
 ns1.rc-timing.ch
 ns1.rcop.ch
 ns1.rda.ch
@@ -3663,7 +3661,6 @@ ns1.travelio.ch
 ns1.travelix.ch
 ns1.travelmail.ch
 ns1.traxxnet.ch
-ns1.treff24.ch
 ns1.trekking-switzerland.ch
 ns1.trendpoint.ch
 ns1.trendwerk.ch
@@ -4218,7 +4215,6 @@ ns2.antanet.ch
 ns2.anthonydieperink.ch
 ns2.antigruen.ch
 ns2.antilinks.ch
-ns2.antonio-renovation.ch
 ns2.anwaltsvorlagen.ch
 ns2.anwesend.ch
 ns2.anycastdns.ch
@@ -4594,7 +4590,6 @@ ns2.ciorciaro.ch
 ns2.cirba.ch
 ns2.circularhubswitzerland.ch
 ns2.cisarda.ch
-ns2.citrin.ch
 ns2.citycable.ch
 ns2.cityhost.ch
 ns2.citylake.ch
@@ -4849,6 +4844,7 @@ ns2.dns-net.ch
 ns2.dns-zonen.ch
 ns2.dns24.ch
 ns2.dnservice.ch
+ns2.dnsking.ch
 ns2.dnsproxy.ch
 ns2.dnssec.ch
 ns2.dnssecure.ch
@@ -5533,6 +5529,7 @@ ns2.itexacloud.ch
 ns2.itguys.ch
 ns2.itivity.ch
 ns2.itkb.ch
+ns2.itoa.ch
 ns2.itprime.ch
 ns2.itrain.ch
 ns2.itsk.ch
@@ -5903,6 +5900,7 @@ ns2.mollylove.ch
 ns2.mondani.ch
 ns2.monmarketing.ch
 ns2.montag.ch
+ns2.morandiniconsulenze.ch
 ns2.more-it.ch
 ns2.motorlegendswiss.ch
 ns2.mount10.ch
@@ -6356,7 +6354,6 @@ ns2.quantum-consulting.ch
 ns2.qubits.ch
 ns2.quick-net.ch
 ns2.quick2web.ch
-ns2.quizicall.ch
 ns2.qwery.ch
 ns2.r1e.ch
 ns2.raan-thai.ch
@@ -6372,6 +6369,7 @@ ns2.razor.ch
 ns2.rbit.ch
 ns2.rblm.ch
 ns2.rbns.ch
+ns2.rbxsystems.ch
 ns2.rc-timing.ch
 ns2.rcop.ch
 ns2.rda.ch
@@ -6924,7 +6922,6 @@ ns2.travelio.ch
 ns2.travelix.ch
 ns2.travelmail.ch
 ns2.traxxnet.ch
-ns2.treff24.ch
 ns2.trekking-switzerland.ch
 ns2.trendpoint.ch
 ns2.trendwerk.ch
@@ -7413,7 +7410,6 @@ ns3.christin.ch
 ns3.chuchi-saeuliamt.ch
 ns3.ciorciaro.ch
 ns3.cirba.ch
-ns3.citrin.ch
 ns3.cityhost.ch
 ns3.clancats.ch
 ns3.claudineetpierre.ch
@@ -7727,6 +7723,7 @@ ns3.modekosmetik.ch
 ns3.moebel-meier-brugg.ch
 ns3.moebelkamber.ch
 ns3.montag.ch
+ns3.morandiniconsulenze.ch
 ns3.motd.ch
 ns3.motorlegendswiss.ch
 ns3.mrmouse.ch
@@ -8217,6 +8214,7 @@ ns4.miraweb.ch
 ns4.mk-office.ch
 ns4.mobiletechnics.ch
 ns4.modekosmetik.ch
+ns4.morandiniconsulenze.ch
 ns4.motorlegendswiss.ch
 ns4.ms-swiss.ch
 ns4.msa-net.ch
@@ -8903,6 +8901,7 @@ nswow.ch
 nsx.ch
 nsx.claubscher.ch
 nsx.laubschernet.ch
+nsxlab.ch
 nsxt.ch
 nsxwatches.ch
 nsy-ch.ch

@@ -1945,7 +1945,6 @@ img-drive-tech2.ch
 img-fs.ch
 img-fuelieg.ch
 img-grenchen.ch
-img-holding.ch
 img-immo.ch
 img-medical.ch
 img-non.ch
@@ -1996,7 +1995,6 @@ imgp.ch
 imgpartners.ch
 imgraben.ch
 imgrb.ch
-imgriff.ch
 imgrindel6.ch
 imgrip.ch
 imgrossacker.ch
@@ -3234,7 +3232,6 @@ immo-aufbereitung.ch
 immo-auktion.ch
 immo-aurora.ch
 immo-avec-permis.ch
-immo-avocats.ch
 immo-az.ch
 immo-azur.ch
 immo-b.ch
@@ -3433,7 +3430,6 @@ immo-defi.ch
 immo-degen.ch
 immo-delta.ch
 immo-deluxe.ch
-immo-dent.ch
 immo-design.ch
 immo-detente.ch
 immo-developpement.ch
@@ -4606,6 +4602,7 @@ immoasset.ch
 immoassist.ch
 immoassistent.ch
 immoasta.ch
+immoatelier.ch
 immoatelier11.ch
 immoathome.ch
 immoatlas.ch
@@ -5081,7 +5078,6 @@ immobilien-event.ch
 immobilien-events.ch
 immobilien-expat.ch
 immobilien-experte.ch
-immobilien-experten.ch
 immobilien-expertisen.ch
 immobilien-expose.ch
 immobilien-expozuerich.ch
@@ -5586,6 +5582,7 @@ immobilien-zone.ch
 immobilien-zu-verkaufen.ch
 immobilien-zuercher.ch
 immobilien-zuercherunterland.ch
+immobilien-zueri.ch
 immobilien-zuerich-goldkueste.ch
 immobilien-zuerichberg.ch
 immobilien-zuerichnord.ch
@@ -5642,7 +5639,6 @@ immobilienanlage.ch
 immobilienanlagen.ch
 immobilienanlagepartner.ch
 immobilienantalya.ch
-immobilienanwaelte.ch
 immobilienanwalt24.ch
 immobilienanzeige.ch
 immobilienanzeigen.ch
@@ -9994,6 +9990,7 @@ imonda.ch
 imondaholding.ch
 imondi.ch
 imondo.ch
+imonds.ch
 imondu.ch
 imoney.ch
 imonfilm.ch
@@ -10010,7 +10007,6 @@ imoon.ch
 imoonee.ch
 imoongroup.ch
 imooo.ch
-imoos.ch
 imoox.ch
 imop.ch
 imopadel.ch
@@ -10292,6 +10288,7 @@ impact-techniken.ch
 impact-together.ch
 impact-toolbox.ch
 impact-trading.ch
+impact-transition.ch
 impact-treuhand.ch
 impact-valuation.ch
 impact-vc.ch
@@ -10928,7 +10925,6 @@ impfberatung-bern.ch
 impfberatung.ch
 impfbuch.ch
 impfbus-zuerich.ch
-impfbus.ch
 impfcard.ch
 impfcheck.ch
 impfdich.ch
@@ -10969,7 +10965,6 @@ impfkongress.ch
 impfkritik.ch
 impflexikon.ch
 impflogistik.ch
-impfmobil.ch
 impfnebenwirkung.ch
 impfo.ch
 impfplan.ch
@@ -10995,7 +10990,6 @@ impfung.ch
 impfungen.ch
 impfungimunternehmen.ch
 impfunginderfirma.ch
-impfungvorort.ch
 impfungzuhause.ch
 impfwoche.ch
 impfzentrum-aarau.ch
@@ -11392,9 +11386,7 @@ importadoracorazza.ch
 importadossaporitalia.ch
 importakustik.ch
 importamiri.ch
-important-bagatelles.ch
 important.ch
-importantbagatelles.ch
 importantcargotraffic.ch
 importantpourvous.ch
 importas.ch
