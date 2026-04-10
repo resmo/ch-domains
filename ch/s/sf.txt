@@ -144,6 +144,7 @@ sfa-delta.ch
 sfa-dock.ch
 sfa-environment.ch
 sfa-environnement.ch
+sfa-facility.ch
 sfa-gadplus.ch
 sfa-info.ch
 sfa-ispa.ch

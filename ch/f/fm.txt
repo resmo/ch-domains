@@ -525,7 +525,6 @@ fmhl.ch
 fmhlogbook.ch
 fmhlogbuch.ch
 fmholding.ch
-fmhomecare.ch
 fmhpraxis.ch
 fmhservices.ch
 fmhsp.ch
@@ -533,6 +532,7 @@ fmhtreuhand.ch
 fmhty.ch
 fmhversicherung.ch
 fmhversicherungen.ch
+fmhweb.ch
 fmhydraulik.ch
 fmi-ag.ch
 fmi-informatik.ch
@@ -717,7 +717,6 @@ fms-it.ch
 fms-media360view.ch
 fms-qr.ch
 fms-sa.ch
-fms-schweiz.ch
 fms-segcontrol.ch
 fms-segdrive.ch
 fms-segforce.ch

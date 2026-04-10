@@ -1106,7 +1106,6 @@ ns1.box.beemail.ch
 ns1.box.dukic.ch
 ns1.box.fakegmail.ch
 ns1.box.hishams.ch
-ns1.box.letsmail.ch
 ns1.box.michaelhobbs.ch
 ns1.box.sharedobject.ch
 ns1.box.slowmail.ch
@@ -3086,6 +3085,7 @@ ns1.r1e.ch
 ns1.raan-thai.ch
 ns1.rabbitnet.ch
 ns1.rabiya.ch
+ns1.radiofarts.ch
 ns1.radiogwen.ch
 ns1.radlosservice.ch
 ns1.raetz-plaettli.ch
@@ -4459,7 +4459,6 @@ ns2.box.beemail.ch
 ns2.box.dukic.ch
 ns2.box.fakegmail.ch
 ns2.box.hishams.ch
-ns2.box.letsmail.ch
 ns2.box.michaelhobbs.ch
 ns2.box.sharedobject.ch
 ns2.box.slowmail.ch
@@ -6358,6 +6357,7 @@ ns2.qwery.ch
 ns2.r1e.ch
 ns2.raan-thai.ch
 ns2.rabbitnet.ch
+ns2.radiofarts.ch
 ns2.radlosservice.ch
 ns2.raetz-plaettli.ch
 ns2.railtronic.ch
@@ -8207,6 +8207,7 @@ ns4.macchinista.ch
 ns4.maebi.ch
 ns4.makats.ch
 ns4.marco-salzmann.ch
+ns4.martronic.ch
 ns4.matrixserver.ch
 ns4.maxbit.ch
 ns4.mgehosting.ch
