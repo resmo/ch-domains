@@ -296,7 +296,6 @@ bdlconcept.ch
 bdlconseil.ch
 bdled.ch
 bdlegal.ch
-bdlevabolli.ch
 bdlf.ch
 bdlh-assistenz.ch
 bdlh-buchhaltung.ch
@@ -388,6 +387,7 @@ bdpartners.ch
 bdperformance.ch
 bdperformix.ch
 bdpgroup.ch
+bdpgroupsa.ch
 bdphoto.ch
 bdphotography.ch
 bdpilatesstudio.ch

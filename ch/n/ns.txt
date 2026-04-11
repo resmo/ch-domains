@@ -1357,7 +1357,6 @@ ns1.cs2.ch
 ns1.cscs.ch
 ns1.cshug.ch
 ns1.csl-tools.ch
-ns1.csr-company.ch
 ns1.cste.ch
 ns1.cuandu.ch
 ns1.cubic.ch
@@ -1460,7 +1459,6 @@ ns1.diag.ch
 ns1.dias-edi.ch
 ns1.diashape.ch
 ns1.dicietdailleurs.ch
-ns1.didacta-basel.ch
 ns1.didacus.ch
 ns1.dieberufung.ch
 ns1.diethelm-informatik.ch
@@ -3421,6 +3419,7 @@ ns1.spiderfrog.ch
 ns1.spiikr.ch
 ns1.spina-bifida.ch
 ns1.spinazze.ch
+ns1.spinnerundweber40.ch
 ns1.spocap.ch
 ns1.sponsoring24.ch
 ns1.spreng.ch
@@ -4710,7 +4709,6 @@ ns2.cs2.ch
 ns2.cscs.ch
 ns2.cshug.ch
 ns2.csl-tools.ch
-ns2.csr-company.ch
 ns2.cste.ch
 ns2.cuandu.ch
 ns2.cubic.ch
@@ -4806,7 +4804,6 @@ ns2.diag.ch
 ns2.dias-edi.ch
 ns2.diashape.ch
 ns2.dicietdailleurs.ch
-ns2.didacta-basel.ch
 ns2.didacus.ch
 ns2.dieberufung.ch
 ns2.diethelm-informatik.ch
@@ -6687,6 +6684,7 @@ ns2.spiderfrog.ch
 ns2.spiikr.ch
 ns2.spina-bifida.ch
 ns2.spinazze.ch
+ns2.spinnerundweber40.ch
 ns2.spocap.ch
 ns2.sponsoring24.ch
 ns2.sprachnachweis.ch
