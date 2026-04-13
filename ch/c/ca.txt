@@ -1997,7 +1997,6 @@ cache.ch
 cache24.ch
 cacheaventure.ch
 cachecache.ch
-cached.ch
 cacheequip.ch
 cachemaille.ch
 cachemical.ch
@@ -2290,7 +2289,6 @@ caddie-service.ch
 caddie.ch
 caddie102.ch
 caddies.ch
-caddieseal.ch
 caddiespourtous.ch
 caddline.ch
 caddm.ch
@@ -3232,6 +3230,7 @@ cafe-les-alpes.ch
 cafe-librairie.ch
 cafe-limon.ch
 cafe-line.ch
+cafe-lu.ch
 cafe-lumen.ch
 cafe-lyrique.ch
 cafe-maitri.ch
@@ -3397,7 +3396,6 @@ cafe-west.ch
 cafe-wolke7.ch
 cafe-x.ch
 cafe-z.ch
-cafe-zaehringer.ch
 cafe-zauberwerk.ch
 cafe-zeitlang.ch
 cafe-zentrum.ch
@@ -5253,6 +5251,7 @@ cakeshop.ch
 cakeslice.ch
 cakesofdreams.ch
 cakestore.ch
+cakestudio.ch
 cakesunlimited.ch
 cakesupplies.ch
 cakesupply.ch
@@ -6614,6 +6613,7 @@ callgirlgeneve.ch
 callgirls-geneva.ch
 callgirls.ch
 callgirls4u.ch
+callgirlx.ch
 callhandy.ch
 callhealth.ch
 callhelp.ch
@@ -6871,6 +6871,7 @@ calmandstrong.ch
 calmapad.ch
 calmaphyt.ch
 calmara.ch
+calmarimo.ch
 calmart.ch
 calmaruma.ch
 calmas.ch
@@ -8000,7 +8001,6 @@ cameroon.ch
 cameroots.ch
 cameroun-ge.ch
 cameroun.ch
-camerreisecocktail.ch
 camesco.ch
 camesta.ch
 camesto.ch
@@ -14061,7 +14061,7 @@ capacitors.ch
 capacity.ch
 capacityplus.ch
 capacityzurich.ch
-capad.ch
+capadeux.ch
 capadokia-grill.ch
 capadu.ch
 capafons.ch
@@ -16519,7 +16519,6 @@ carabo24.ch
 carabon.ch
 carabos.ch
 carabot.ch
-carabotti.ch
 carabouquin.ch
 carabu.ch
 carabus.ch
@@ -17431,6 +17430,7 @@ carburetor-expert.ch
 carburo.ch
 carburol.ch
 carbusa.ch
+carbusters.ch
 carbutler.ch
 carbuy.ch
 carbuyally.ch
@@ -21981,6 +21981,7 @@ carolinaguillaumewedding.ch
 carolinahill.ch
 carolinajaroch.ch
 carolinaluethi.ch
+carolinamarie.ch
 carolinamercedes.ch
 carolinamoscol.ch
 carolinanauer.ch
@@ -22963,7 +22964,6 @@ carreaux.ch
 carreblanc.ch
 carrecabe.ch
 carreclair.ch
-carreclay.ch
 carreco.ch
 carrecornavin.ch
 carrecycling.ch
@@ -25449,7 +25449,6 @@ carusone-gmbh.ch
 carusone.ch
 carusonegmbh.ch
 carusoneinformatik.ch
-carusonesolutions.ch
 carusonet.ch
 carusopartner.ch
 carusopasticceria.ch
@@ -25511,6 +25510,7 @@ carvendi.ch
 carvendo.ch
 carvensys.ch
 carveo.ch
+carvepoint.ch
 carver.ch
 carvera.ch
 carverband-bern-solothurn.ch
@@ -31091,6 +31091,7 @@ castybau.ch
 castybuchmann.ch
 castyoffroad.ch
 castywohnen.ch
+casu.ch
 casual-card.ch
 casual-date.ch
 casual-dates.ch
