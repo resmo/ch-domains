@@ -168,7 +168,6 @@ pv-roboter.ch
 pv-sandrabugmann.ch
 pv-sanierung-check.ch
 pv-sauber.ch
-pv-schweiz.ch
 pv-seeclub-sempach.ch
 pv-select.ch
 pv-service.ch
@@ -481,6 +480,7 @@ pvmgroup.ch
 pvmmedia.ch
 pvmmotosport.ch
 pvmobile.ch
+pvmodul.ch
 pvmodule.ch
 pvmodulepruefen.ch
 pvmodulreiniger.ch

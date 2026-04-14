@@ -714,6 +714,7 @@ dns1.sfs-network.ch
 dns1.shkermit.ch
 dns1.shopstick.ch
 dns1.sig-ge.ch
+dns1.signalys.ch
 dns1.silverhemmer.ch
 dns1.simplysoft.ch
 dns1.skypro.ch
@@ -996,6 +997,7 @@ dns2.sfs-network.ch
 dns2.shkermit.ch
 dns2.shopstick.ch
 dns2.sig-ge.ch
+dns2.signalys.ch
 dns2.silverhemmer.ch
 dns2.simplysoft.ch
 dns2.skypro.ch
@@ -1260,6 +1262,7 @@ dnssectest.ch
 dnssecure.ch
 dnssecurity.ch
 dnssek.ch
+dnssentinel.ch
 dnsserver.ch
 dnsservice.ch
 dnssex.ch

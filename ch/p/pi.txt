@@ -1496,7 +1496,6 @@ pickandpack.ch
 pickandplaybox.ch
 pickanto.ch
 pickantopfungen.ch
-pickapear.ch
 pickapooh.ch
 pickard.ch
 pickaseat.ch
@@ -1891,7 +1890,6 @@ picofisch.ch
 picog.ch
 picogrill.ch
 picohydro.ch
-picoin.ch
 picoknirps.ch
 picolaser.ch
 picolat.ch
@@ -2614,6 +2612,7 @@ piercing-ausbildung.ch
 piercing-boutique.ch
 piercing-chur.ch
 piercing-dietikon.ch
+piercing-ersteinsatz.ch
 piercing-frasson.ch
 piercing-fribourg.ch
 piercing-gutschein.ch
@@ -2642,6 +2641,7 @@ piercingausbildung.ch
 piercingbasel.ch
 piercingbischof.ch
 piercingboutique.ch
+piercingersteinsatz.ch
 piercinggaby.ch
 piercinggutschein.ch
 piercinghouse-lotzwil.ch
@@ -6348,6 +6348,7 @@ pinki.ch
 pinkibex.ch
 pinkie.ch
 pinkifashion.ch
+pinkified.ch
 pinkiger.ch
 pinkilb.ch
 pinkimmobilien.ch
@@ -7515,6 +7516,7 @@ pir2kt.ch
 pira-group.ch
 pira-lebensmittel.ch
 pira.ch
+pira10.ch
 piraat-hoeck.ch
 pirabakaran.ch
 piraccini.ch
@@ -8469,6 +8471,7 @@ pistoletvully.ch
 pistolier.ch
 pistoliers.ch
 pistolo.ch
+pistolreinigung.ch
 pistolsolar.ch
 pistolvaud.ch
 piston-art.ch
@@ -8544,7 +8547,6 @@ pitamitfleisch.ch
 pitandquarry.ch
 pitane.ch
 pitanga.ch
-pitangaparty.ch
 pitape-france.ch
 pitape.ch
 pitapinta.ch
@@ -8721,6 +8723,7 @@ pitoeuf.ch
 pitoffices.ch
 pitom.ch
 piton.ch
+pitons.ch
 pitonzo.ch
 pitools.ch
 pitouille.ch
@@ -12201,7 +12204,6 @@ pizzeriachiaramontetake-away-frauenfeld.ch
 pizzeriachur.ch
 pizzeriacittadella.ch
 pizzeriacoppet.ch
-pizzeriacorallo.ch
 pizzeriacortile.ch
 pizzeriacosanostra.ch
 pizzeriadacapo.ch
