@@ -947,7 +947,6 @@ ns1.azuris.ch
 ns1.b23.ch
 ns1.baanchantrathaimassage.ch
 ns1.babbocomptoircorse.ch
-ns1.babynames-stat.ch
 ns1.babyshiatsu-zuerioberland.ch
 ns1.bach-streaming.ch
 ns1.bachmann-bbb.ch
@@ -2049,6 +2048,7 @@ ns1.hotelzimba.ch
 ns1.hrcd.ch
 ns1.hses.ch
 ns1.hsmart.ch
+ns1.hsr-lugano.ch
 ns1.hsz-t.ch
 ns1.htechmarine.ch
 ns1.hu90.ch
@@ -3187,6 +3187,7 @@ ns1.rrroseware.ch
 ns1.rs-link.ch
 ns1.rs2k.ch
 ns1.rsnweb.ch
+ns1.rson.ch
 ns1.rtk.ch
 ns1.rtpdns.ch
 ns1.rubansdor.ch
@@ -3497,7 +3498,6 @@ ns1.svision.ch
 ns1.swapabee.ch
 ns1.sweelinck-geneve.ch
 ns1.swiprode.ch
-ns1.swishosting.ch
 ns1.swiss-bike-training.ch
 ns1.swiss-dt.ch
 ns1.swiss-farmers.ch
@@ -4311,7 +4311,6 @@ ns2.b2bconsult.ch
 ns2.baanchantrathaimassage.ch
 ns2.babbocomptoircorse.ch
 ns2.babs2.ch
-ns2.babynames-stat.ch
 ns2.babyshiatsu-zuerioberland.ch
 ns2.bach-streaming.ch
 ns2.bachmann-bbb.ch
@@ -5367,6 +5366,7 @@ ns2.hotelswiss.ch
 ns2.hrcd.ch
 ns2.hses.ch
 ns2.hsmart.ch
+ns2.hsr-lugano.ch
 ns2.hsz-t.ch
 ns2.htechmarine.ch
 ns2.hu90.ch
@@ -6448,6 +6448,7 @@ ns2.rrroseware.ch
 ns2.rs-link.ch
 ns2.rs2k.ch
 ns2.rsnweb.ch
+ns2.rson.ch
 ns2.rtk.ch
 ns2.rtpdns.ch
 ns2.rubansdor.ch
@@ -6754,7 +6755,6 @@ ns2.svision.ch
 ns2.swapabee.ch
 ns2.sweelinck-geneve.ch
 ns2.swiprode.ch
-ns2.swishosting.ch
 ns2.swiss-bike-training.ch
 ns2.swiss-dt.ch
 ns2.swiss-electricity.ch

@@ -37,7 +37,6 @@ tc-boussens.ch
 tc-brig-glis.ch
 tc-brunnen.ch
 tc-buchs.ch
-tc-buerglen.ch
 tc-buttisholz.ch
 tc-cdf.ch
 tc-ch.ch
@@ -572,6 +571,7 @@ tcfuellerich.ch
 tcfuellinsdorf.ch
 tcfully.ch
 tcg-ag.ch
+tcg-co.ch
 tcg-events.ch
 tcg-galaxy.ch
 tcg-geneve.ch

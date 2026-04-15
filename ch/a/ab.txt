@@ -1612,6 +1612,7 @@ abc-renovation.ch
 abc-rente.ch
 abc-riite.ch
 abc-samariter.ch
+abc-sanierung.ch
 abc-sante.ch
 abc-schaedlingsbekaempfung.ch
 abc-schattenplaner.ch
@@ -2507,6 +2508,7 @@ abendruh.ch
 abendruh2000.ch
 abends.ch
 abendschein.ch
+abendschule-import.ch
 abendschule.ch
 abendschuleimport.ch
 abendschulen-luzern.ch
@@ -2616,8 +2618,6 @@ abenteuer4x4.ch
 abenteuer69.ch
 abenteuerachtsamkeit.ch
 abenteuerafrika.ch
-abenteueranstifter.ch
-abenteueranstifterin.ch
 abenteuerantarktis.ch
 abenteuerarktis.ch
 abenteuerauf8hufen.ch
@@ -4333,6 +4333,7 @@ abo-finance-fiscalite-particulier-societe.ch
 abo-frosch.ch
 abo-gmbh.ch
 abo-im-keller.ch
+abo-insider.ch
 abo-internet.ch
 abo-jaguar.ch
 abo-jaguarlandrover.ch
@@ -6125,6 +6126,7 @@ abstieg.ch
 abstillen.ch
 abstimme.ch
 abstimmen-voter-votare.ch
+abstimmfit.ch
 abstimmig.ch
 abstimmigfritz.ch
 abstimmung-be.ch
@@ -6338,7 +6340,6 @@ abtautomobile.ch
 abtavocats.ch
 abtaxes.ch
 abtberater.ch
-abtc.ch
 abtcham.ch
 abtclean.ch
 abtdigital.ch

@@ -198,10 +198,12 @@ cecb-diagno.ch
 cecb-fribourg.ch
 cecb-neuchatel.ch
 cecb-plus.ch
+cecb-suisse.ch
 cecb-tool.ch
 cecb.ch
 cecbexpert.ch
 cecbexpress.ch
+cecbmanager.ch
 cecbplus.ch
 cecbvalais.ch
 cecc.ch
@@ -3722,6 +3724,7 @@ centre-dentaire-et-holistique.ch
 centre-dentaire-ferney-voltaire.ch
 centre-dentaire-forel-lavaux.ch
 centre-dentaire-geneve.ch
+centre-dentaire-jougnenaz.ch
 centre-dentaire-lancy.ch
 centre-dentaire-lausanne.ch
 centre-dentaire-rossier-lausanne.ch
@@ -4216,6 +4219,7 @@ centredentaireduseyon.ch
 centredentaireduvully.ch
 centredentaireestavayer.ch
 centredentairegeneve.ch
+centredentairejougnenaz.ch
 centredentairelabroyepayerne.ch
 centredentairelancy.ch
 centredentairemalley.ch
@@ -6163,11 +6167,9 @@ cerfdellier.ch
 cerfdesign.ch
 cerfdufief.ch
 cerfdujura.ch
-cerfeda-bau.ch
 cerfeda-cosmetic.ch
 cerfeda.ch
 cerfedaarchitekten.ch
-cerfedabau.ch
 cerfedaimmobilien.ch
 cerfestival.ch
 cerfi.ch

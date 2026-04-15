@@ -1072,7 +1072,6 @@ null-leasing.ch
 null-null.ch
 null-oder-eins.ch
 null-pointer.ch
-null-produktionsausfall.ch
 null-promille.ch
 null-provision.ch
 null-prozent.ch
@@ -1287,6 +1286,7 @@ numatrix.ch
 numatt.ch
 numatter.ch
 numavarley.ch
+numavicius.ch
 numavo.ch
 numaweb.ch
 numax.ch
@@ -2844,6 +2844,7 @@ nutrando.ch
 nutraphar.ch
 nutraplan.ch
 nutraplex.ch
+nutrapower.ch
 nutraprodukte.ch
 nutraskin.ch
 nutrasmart.ch
