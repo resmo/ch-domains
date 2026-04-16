@@ -17,6 +17,7 @@ ls-charter.ch
 ls-colors.ch
 ls-commerce.ch
 ls-concept.ch
+ls-conseil.ch
 ls-consulting.ch
 ls-craft.ch
 ls-creative.ch
@@ -83,6 +84,7 @@ ls-rhcomptabilite.ch
 ls-salzmann-architecture.ch
 ls-sanitaire.ch
 ls-schweiz.ch
+ls-services.ch
 ls-shelter.ch
 ls-signature.ch
 ls-sol.ch
@@ -162,6 +164,7 @@ lsbau.ch
 lsbauadmin.ch
 lsbaumanagement.ch
 lsbauunternehmung.ch
+lsbb.ch
 lsbc.ch
 lsbe.ch
 lsbeauty.ch

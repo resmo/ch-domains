@@ -185,6 +185,7 @@ ki-date.ch
 ki-datenbank.ch
 ki-datenschutz.ch
 ki-denkfabrik.ch
+ki-dentitaet.ch
 ki-dermascan.ch
 ki-design-check.ch
 ki-design.ch
@@ -599,6 +600,7 @@ ki-prompt.ch
 ki-protect.ch
 ki-prototypen.ch
 ki-prozess.ch
+ki-prozessarchitekt.ch
 ki-prozessautomation.ch
 ki-prozessberatung.ch
 ki-prozesse.ch
@@ -1135,7 +1137,6 @@ kiarmee.ch
 kiaro.ch
 kiaron.ch
 kiarostami.ch
-kiartwork.ch
 kiary.ch
 kiarytattoo.ch
 kiarzt.ch
@@ -1886,6 +1887,7 @@ kidpower.ch
 kidra.ch
 kidrepreneur.ch
 kidrepreneurs.ch
+kidrichie.ch
 kidrock.ch
 kidron.ch
 kids-22q11.ch
@@ -2205,7 +2207,6 @@ kidsdays-herzogenbuchsee.ch
 kidsdays.ch
 kidsdeal.ch
 kidsdeco.ch
-kidsdeluxe.ch
 kidsdental.ch
 kidsdesign.ch
 kidsdoart.ch
@@ -2335,6 +2336,7 @@ kidsmeal.ch
 kidsmeals.ch
 kidsmedias.ch
 kidsmeditation.ch
+kidsmesh.ch
 kidsmile.ch
 kidsmill.ch
 kidsmobil.ch
@@ -3484,7 +3486,6 @@ kiiaudio.ch
 kiib.ch
 kiic-ag.ch
 kiichin.ch
-kiidee.ch
 kiidoo.ch
 kiids.ch
 kiik.ch
@@ -7633,7 +7634,6 @@ kinderundmedien.ch
 kinderundnatur.ch
 kinderundrehakompetenz.ch
 kinderundschuelerweidling.ch
-kinderunfall.ch
 kinderuni-davos.ch
 kinderuni.ch
 kinderuniversitaet-winterthur.ch
@@ -10449,7 +10449,6 @@ kinowohlen.ch
 kinox.ch
 kinoxflex.ch
 kinoxklark.ch
-kinoza.ch
 kinozuerich.ch
 kinozug.ch
 kinozurich.ch
@@ -13638,6 +13637,7 @@ kita-wettingen.ch
 kita-wetzikon.ch
 kita-wichteli.ch
 kita-wichtelinsel.ch
+kita-wichtelstuebli.ch
 kita-wichtelwelt.ch
 kita-wil.ch
 kita-wildkind.ch

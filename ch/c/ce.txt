@@ -3683,6 +3683,7 @@ centre-comes.ch
 centre-commercial.ch
 centre-competence.ch
 centre-construction-durable.ch
+centre-cop.ch
 centre-corpus.ch
 centre-crissier.ch
 centre-d-expertise-en-psychologie-du-trafic.ch
@@ -3775,7 +3776,6 @@ centre-entrepreneurs.ch
 centre-eole.ch
 centre-eos.ch
 centre-epaule-coude.ch
-centre-epaule-main-fribourg.ch
 centre-epl.ch
 centre-equestre-chamberonne.ch
 centre-equestre-de-rue-crausaz.ch
@@ -3961,7 +3961,10 @@ centre-orthopedie-littoral.ch
 centre-orthopedie.ch
 centre-orthopedique.ch
 centre-osmose.ch
+centre-osteo-laconversion.ch
+centre-osteo-lutry.ch
 centre-osteopathe-morges.ch
+centre-osteopathie-lavaux.ch
 centre-osteopathie.ch
 centre-otium.ch
 centre-parc-du-rhone.ch
@@ -5439,6 +5442,7 @@ ceplene.ch
 ceplocarno.ch
 ceplugano.ch
 ceplus.ch
+ceplyin.ch
 cepm-christen.ch
 cepm.ch
 cepob.ch
@@ -6461,7 +6465,6 @@ certextract.ch
 certezza-mdp.ch
 certfast.ch
 certgrep.ch
-certi-doc.ch
 certi-med.ch
 certi-te.ch
 certi-trust.ch
