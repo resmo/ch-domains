@@ -550,6 +550,9 @@ hoch-home.ch
 hoch-landtechnik.ch
 hoch-martin.ch
 hoch-medconnect.ch
+hoch-medhub.ch
+hoch-medicalconnect.ch
+hoch-medicalhub.ch
 hoch-medlink.ch
 hoch-medpoint.ch
 hoch-oder-quer.ch
@@ -599,6 +602,7 @@ hochalpin.ch
 hochalpinland.ch
 hochamwind.ch
 hochar.ch
+hochartz.ch
 hochatelier.ch
 hochautomobile.ch
 hochautomobileag.ch
@@ -870,6 +874,7 @@ hochleitner.ch
 hochmann.ch
 hochmatt.ch
 hochmedconnect.ch
+hochmedicalhub.ch
 hochmedlink.ch
 hochmomentschrauber.ch
 hochmoor.ch
@@ -4293,6 +4298,7 @@ hofegelsee.ch
 hofegg.ch
 hofeggenberger.ch
 hofeinrichtungen.ch
+hofeinsatz.ch
 hofeis.ch
 hofele-design.ch
 hofele-swiss.ch
@@ -4749,6 +4755,7 @@ hofgutshop.ch
 hofgutstorzeln.ch
 hofgutweid.ch
 hofgygax.ch
+hofhaecki.ch
 hofhalde-altendorf.ch
 hofhalde.ch
 hofhaldemann.ch
@@ -7078,7 +7085,6 @@ holistic-personality-institute.ch
 holistic-places.ch
 holistic-practitioner.ch
 holistic-praxis.ch
-holistic-psy.ch
 holistic-quality.ch
 holistic-restaurant.ch
 holistic-rita.ch
@@ -7535,7 +7541,6 @@ hollis-bau.ch
 hollis.ch
 hollister-concorso.ch
 hollister-concours.ch
-hollister-events.ch
 hollister-wettbewerb.ch
 hollister.ch
 hollisterco.ch
@@ -9590,6 +9595,7 @@ holzhausarchitektur.ch
 holzhausbau-weiss.ch
 holzhausbau.ch
 holzhausbauen.ch
+holzhausbox.ch
 holzhausderzukunft.ch
 holzhausen.ch
 holzhausenzweifel.ch
@@ -13117,7 +13123,6 @@ hometown.ch
 hometownbicycles.ch
 hometowncap.ch
 hometoys.ch
-hometrace.ch
 hometrader.ch
 hometrades.ch
 hometrail.ch
@@ -13526,7 +13531,6 @@ homoeopathie-tier.ch
 homoeopathie-tiere.ch
 homoeopathie-und-klang.ch
 homoeopathie-uri.ch
-homoeopathie-uster.ch
 homoeopathie-walder.ch
 homoeopathie-walensee.ch
 homoeopathie-welt.ch
@@ -15539,7 +15543,6 @@ hora-geneva.ch
 hora-horlogerie.ch
 hora-nova.ch
 hora-okkupation.ch
-hora.ch
 horace-bruges.ch
 horace-constant.ch
 horace.ch
@@ -17343,7 +17346,6 @@ horvatbeschriftungen.ch
 horvatfils-immo.ch
 horvath-capital.ch
 horvath-consulting.ch
-horvath-eng.ch
 horvath-partner.ch
 horvath-partners.ch
 horvath.ch
@@ -20149,6 +20151,7 @@ hotel-swiss.ch
 hotel-switzerland.ch
 hotel-sydney.ch
 hotel-tabor.ch
+hotel-tamaro-ascona.ch
 hotel-tamaro.ch
 hotel-tamina.ch
 hotel-tanne.ch
@@ -22573,7 +22576,6 @@ hotelzumbeck.ch
 hotelzumsee.ch
 hotelzunfthaus.ch
 hotelzurbriggen.ch
-hotelzurhochmatt.ch
 hotelzuri.ch
 hotelzurich.ch
 hotelzurichcity.ch
@@ -22851,7 +22853,6 @@ hotprints.ch
 hotprivacy.ch
 hotprive.ch
 hotpun.ch
-hotrecmusicschool.ch
 hotrels.ch
 hotrema.ch
 hotrencontre.ch

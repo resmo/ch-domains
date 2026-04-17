@@ -641,6 +641,7 @@ haarimglueck.ch
 haarinbestform.ch
 haarindustrie.ch
 haarinfo.ch
+haarinsitut.ch
 haarinstitut-hk.ch
 haarinstitut.ch
 haarisma.ch
@@ -2979,7 +2980,6 @@ haenchen.ch
 haende-die-anpacken.ch
 haende-gut.ch
 haende-hygiene.ch
-haende-waschen.ch
 haende-weg-vom-lohn.ch
 haende.ch
 haendeauflegen.ch
@@ -3658,6 +3658,7 @@ haeusler-contemporary.ch
 haeusler-elektroservice.ch
 haeusler-guebeli.ch
 haeusler-holzbau.ch
+haeusler-jaeger.ch
 haeusler-metallbau.ch
 haeusler-treuhand.ch
 haeusler-wein.ch
@@ -4903,7 +4904,6 @@ hair-removal.ch
 hair-restoration-aslan-medical.ch
 hair-rider.ch
 hair-rituel.ch
-hair-room.ch
 hair-rosh.ch
 hair-salon.ch
 hair-satnam.ch
@@ -4942,7 +4942,6 @@ hair-styling.ch
 hair-stylist-retobernhard.ch
 hair-stylist.ch
 hair-swiss.ch
-hair-team12.ch
 hair-time.ch
 hair-tou.ch
 hair-touch.ch
@@ -9486,7 +9485,6 @@ handelshop.ch
 handelshuus.ch
 handelsjobs.ch
 handelsjournal.ch
-handelskammer-bern.ch
 handelskammer-bih-ch.ch
 handelskammer-d-ch.ch
 handelskammer-fin.ch
@@ -10169,10 +10167,13 @@ handpan-leihen.ch
 handpan-lernen.ch
 handpan-miete-kauf.ch
 handpan-miete.ch
+handpan-mietekauf.ch
 handpan-mieten.ch
 handpan-occasion.ch
 handpan-paradies.ch
 handpan-portal.ch
+handpan-schnupperkurs.ch
+handpan-schnupperkurse.ch
 handpan-schule.ch
 handpan-schweiz.ch
 handpan-shop.ch
@@ -10184,6 +10185,8 @@ handpan-verleih.ch
 handpan-vermietung.ch
 handpan-welt.ch
 handpan-workshop.ch
+handpan-workshops.ch
+handpan-world.ch
 handpan-zuerich.ch
 handpan.ch
 handpan1.ch
@@ -10561,7 +10564,6 @@ handwaschstation.ch
 handwebatelier-st-ursanne.ch
 handwebatelier.ch
 handweben.ch
-handweberei-kapfhuesi.ch
 handweberei-zettelbaum.ch
 handweberei.ch
 handweberin.ch
@@ -11592,7 +11594,6 @@ handzup.ch
 hane.ch
 hanebedding.ch
 hanebetten.ch
-hanebuechen.ch
 hanebuth.ch
 hanebutt.ch
 haneg-produkte.ch
@@ -11769,7 +11770,6 @@ hanfkaese.ch
 hanfkaffe.ch
 hanfkalk.ch
 hanfkalkbau.ch
-hanfkaufen.ch
 hanfkeller.ch
 hanfkiosk.ch
 hanfkissen.ch
@@ -17156,6 +17156,7 @@ hartlight.ch
 hartlinse.ch
 hartlinsen.ch
 hartlisberg.ch
+hartloeten.ch
 hartman-gartenmoebel.ch
 hartman-installationstechnik.ch
 hartman-landschaft.ch
@@ -18755,6 +18756,7 @@ hauertrasen.ch
 hauerts.ch
 hauertschneckenfalle.ch
 haueter-adelboden.ch
+haueter-advisory.ch
 haueter-ag.ch
 haueter-conseil.ch
 haueter-consulting.ch
@@ -19394,9 +19396,11 @@ haus-kaufen-mit-system.ch
 haus-kaufen-norwegen.ch
 haus-kaufen-schweiz.ch
 haus-kaufen-schwyz-24.ch
+haus-kaufen-thurgau.ch
 haus-kaufen-vip.ch
 haus-kaufen-weinfelden.ch
 haus-kaufen-zuerich-24.ch
+haus-kaufen-zuerich.ch
 haus-kaufen-zug-24.ch
 haus-kaufen.ch
 haus-komplett.ch
@@ -20040,6 +20044,7 @@ hausarzt-zentrum.ch
 hausarzt-zollikofen.ch
 hausarzt-zuerich.ch
 hausarzt-zug.ch
+hausarzt-zurich.ch
 hausarzt.ch
 hausarzt24.ch
 hausarzt2go.ch
@@ -20667,6 +20672,7 @@ hauself.ch
 hauselieferung.ch
 hauselmann-bootbau.ch
 hauselmann.ch
+hausemma.ch
 hausen-aa.ch
 hausen-am-albis24.ch
 hausen.ch
@@ -20868,6 +20874,8 @@ hauseuropa.ch
 hauseurope.ch
 hausevasavognin.ch
 hausexpert.ch
+hausexperte.ch
+hausexperten.ch
 hausextra.ch
 hausfabrik.ch
 hausfactor.ch
@@ -21001,6 +21009,7 @@ hausgeraete.ch
 hausgeraete24.ch
 hausgeraetegilde.ch
 hausgeraetekompass.ch
+hausgeschichten.ch
 hausgesundsein.ch
 hausgin.ch
 hausgini.ch
@@ -21499,6 +21508,7 @@ hauslifte.ch
 hausliquid.ch
 hauslitzi2.ch
 hausloewen.ch
+hausloree.ch
 hauslunghin.ch
 hausluxxane.ch
 hauslydia.ch
@@ -22100,7 +22110,6 @@ haustierbox.ch
 haustiercheck.ch
 haustierdienst.ch
 haustierdienstleister.ch
-haustierdiscounter.ch
 haustierdoc.ch
 haustierdoktor.ch
 haustiere-braun.ch
@@ -22124,7 +22133,6 @@ haustiergesundheit.ch
 haustierhilfe-schweiz.ch
 haustierhilfe.ch
 haustierhoroskop.ch
-haustierkiste.ch
 haustierklappe.ch
 haustierklinik.ch
 haustierkompetenz.ch
@@ -22291,8 +22299,6 @@ hausverkaufenscheidung.ch
 hausverkaufenschweiz.ch
 hausverkaufplan.ch
 hausverkaufsorganizerin.ch
-hausvermessen.ch
-hausvermessung.ch
 hausvermieten.ch
 hausvermietung.ch
 hausvermittler.ch
@@ -22311,6 +22317,7 @@ hausverwalterscout.ch
 hausverwaltersuche.ch
 hausverwaltung-365.ch
 hausverwaltung.ch
+hausverwaltung24.ch
 hausverwaltungen.ch
 hausverwaltungssoftware.ch
 hausverwaltungzuerichsee.ch

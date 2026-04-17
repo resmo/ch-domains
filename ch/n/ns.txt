@@ -806,12 +806,10 @@ ns1.aikido-brugg.ch
 ns1.ajoie-net.ch
 ns1.akb.ch
 ns1.akbern.ch
-ns1.alarme-effraction.ch
 ns1.albacoiffure.ch
 ns1.album-larinascita.ch
 ns1.albysky.ch
 ns1.alchemists.ch
-ns1.alerte-rouge.ch
 ns1.alessandrozaramella.ch
 ns1.alfahost.ch
 ns1.algorithma-it.ch
@@ -901,6 +899,7 @@ ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
+ns1.assetalpin.ch
 ns1.assh.ch
 ns1.assistancepc.ch
 ns1.assistances.ch
@@ -1606,7 +1605,6 @@ ns1.egohost.ch
 ns1.ehealth-personal.ch
 ns1.ehosting.ch
 ns1.eijay.ch
-ns1.einesoftware.ch
 ns1.eintopf.ch
 ns1.einzahlen.ch
 ns1.einzahlung.ch
@@ -3657,7 +3655,6 @@ ns1.travelix.ch
 ns1.travelmail.ch
 ns1.traxxnet.ch
 ns1.trekking-switzerland.ch
-ns1.trendpoint.ch
 ns1.trendwerk.ch
 ns1.tricontego.ch
 ns1.trinitycollege.ch
@@ -4163,7 +4160,6 @@ ns2.aidns.ch
 ns2.aikido-brugg.ch
 ns2.akb.ch
 ns2.akbern.ch
-ns2.alarme-effraction.ch
 ns2.albacoiffure.ch
 ns2.album-larinascita.ch
 ns2.albysky.ch
@@ -4930,7 +4926,6 @@ ns2.egon.ch
 ns2.ehost.ch
 ns2.ehosting.ch
 ns2.eijay.ch
-ns2.einesoftware.ch
 ns2.eintopf.ch
 ns2.einzahlen.ch
 ns2.einzahlung.ch
@@ -6911,7 +6906,6 @@ ns2.travelix.ch
 ns2.travelmail.ch
 ns2.traxxnet.ch
 ns2.trekking-switzerland.ch
-ns2.trendpoint.ch
 ns2.trendwerk.ch
 ns2.tricontego.ch
 ns2.trinitycollege.ch

@@ -1718,6 +1718,7 @@ agent-benchmark.ch
 agent-builder.ch
 agent-c.ch
 agent-casa.ch
+agent-commerce.ch
 agent-commercial-suisse.ch
 agent-creator.ch
 agent-de-joueur.ch
@@ -1740,8 +1741,10 @@ agent-online.ch
 agent-os.ch
 agent-p.ch
 agent-pay.ch
+agent-practice.ch
 agent-processus.ch
 agent-provocateur.ch
+agent-ready.ch
 agent-royal.ch
 agent-seo.ch
 agent-solutions.ch
@@ -1792,6 +1795,7 @@ agentclean.ch
 agentclient.ch
 agentco.ch
 agentcoffee.ch
+agentcommerce.ch
 agentcraft.ch
 agentdejoueurs.ch
 agentdraw.ch
@@ -1951,6 +1955,7 @@ agentmedia.ch
 agentmediabox.ch
 agentmeteo.ch
 agentmgmtacademy.ch
+agentnative.ch
 agento.ch
 agento24.ch
 agentodin.ch
@@ -1999,6 +2004,7 @@ agentsportif.ch
 agentstack.ch
 agentstore.ch
 agentstudio.ch
+agentsuisse.ch
 agentsuite.ch
 agentswarm.ch
 agentsweb.ch
@@ -3470,7 +3476,6 @@ agm-switzerland.ch
 agm-tech.ch
 agm-urania.ch
 agm.ch
-agm2024.ch
 agm2027.ch
 agm41.ch
 agmail.ch
