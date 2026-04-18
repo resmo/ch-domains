@@ -1096,7 +1096,6 @@ endmark.ch
 endmon.ch
 endnet.ch
 endnote.ch
-endo-balance.ch
 endo-basel.ch
 endo-bern.ch
 endo-bier.ch
@@ -2347,6 +2346,7 @@ energie-handelsplatz.ch
 energie-haus.ch
 energie-heilen-mit-herz.ch
 energie-heilen.ch
+energie-heilend.ch
 energie-heilkunde.ch
 energie-heilpraxis.ch
 energie-heilung.ch
@@ -3155,6 +3155,7 @@ energiehausluzern.ch
 energieheilarbeit.ch
 energieheilen-schoch.ch
 energieheilen.ch
+energieheilend.ch
 energieheiler.ch
 energieheilerin.ch
 energieheilkunde.ch
@@ -3255,6 +3256,7 @@ energiekonsumenten-konferenz.ch
 energiekonsumenten-verband.ch
 energiekonsumenten-verein.ch
 energiekonsumenten.ch
+energiekonto.ch
 energiekontor.ch
 energiekontrolle.ch
 energiekonzept-365.ch
@@ -3509,7 +3511,6 @@ energieranking.ch
 energierat.ch
 energieratgeber.ch
 energieraum-arka.ch
-energieraum-burgdorf.ch
 energieraum-neidl.ch
 energieraum.ch
 energieraumzeit.ch
@@ -4765,7 +4766,6 @@ energystrategy2050.ch
 energystream.ch
 energystreet.ch
 energysuisse.ch
-energysun.ch
 energysupply.ch
 energysurvey.ch
 energyswap.ch
@@ -8969,7 +8969,6 @@ entente-latena.ch
 entente-leysin.ch
 entente-matran.ch
 entente-monthey.ch
-entente-moudonnoise.ch
 entente-palinzarde.ch
 entente-roche.ch
 entente-sb.ch

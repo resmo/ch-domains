@@ -92,7 +92,6 @@ bk-performance.ch
 bk-planung.ch
 bk-r.ch
 bk-real.ch
-bk-reinigung.ch
 bk-rezensionen.ch
 bk-s.ch
 bk-seniorenberatung.ch
@@ -362,6 +361,7 @@ bkm-luzern.ch
 bkm-mannesmann.ch
 bkm-mediation.ch
 bkm-micronic.ch
+bkm-rec.ch
 bkm-solothurn.ch
 bkm-treuhand.ch
 bkm.ch
@@ -503,7 +503,6 @@ bksbg.ch
 bksc.ch
 bkschweiz.ch
 bkseniorenberatung.ch
-bkservice.ch
 bkservices.ch
 bksf2027.ch
 bksf2028-ins.ch

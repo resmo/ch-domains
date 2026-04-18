@@ -1348,7 +1348,6 @@ ns1.crimanet.ch
 ns1.critical.ch
 ns1.croixfederalemathod.ch
 ns1.crowdsources.ch
-ns1.cryptid.ch
 ns1.crystal.ch
 ns1.cs-web.ch
 ns1.cs2.ch
@@ -1956,6 +1955,7 @@ ns1.helgahalbritter.ch
 ns1.helix-it.ch
 ns1.hello-it.ch
 ns1.help-point.ch
+ns1.help144.ch
 ns1.helsana.ch
 ns1.helvpost.ch
 ns1.henryw.ch
@@ -2616,7 +2616,6 @@ ns1.mrpage.ch
 ns1.ms-operation.ch
 ns1.ms-swiss.ch
 ns1.msd-informatik.ch
-ns1.msdomain.ch
 ns1.mso.ch
 ns1.mtcomp.ch
 ns1.mtfcloud.ch
@@ -2932,7 +2931,6 @@ ns1.pianeti.ch
 ns1.pibit.ch
 ns1.picfilm.ch
 ns1.pihosting.ch
-ns1.pimp-your-web-ag.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
 ns1.pinkbox.ch
@@ -3655,6 +3653,7 @@ ns1.travelix.ch
 ns1.travelmail.ch
 ns1.traxxnet.ch
 ns1.trekking-switzerland.ch
+ns1.trendpoint.ch
 ns1.trendwerk.ch
 ns1.tricontego.ch
 ns1.trinitycollege.ch
@@ -5268,6 +5267,7 @@ ns2.helgahalbritter.ch
 ns2.helix-it.ch
 ns2.hello-it.ch
 ns2.help-point.ch
+ns2.help144.ch
 ns2.helsana.ch
 ns2.helvpost.ch
 ns2.henryw.ch
@@ -5903,7 +5903,6 @@ ns2.ms-operation.ch
 ns2.ms-swiss.ch
 ns2.msa-net.ch
 ns2.msd-informatik.ch
-ns2.msdomain.ch
 ns2.mso.ch
 ns2.msrv.ch
 ns2.mtcomp.ch
@@ -6195,7 +6194,6 @@ ns2.physionotter.ch
 ns2.pianeti.ch
 ns2.picfilm.ch
 ns2.pihosting.ch
-ns2.pimp-your-web-ag.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
 ns2.pinkbox.ch
@@ -6906,6 +6904,7 @@ ns2.travelix.ch
 ns2.travelmail.ch
 ns2.traxxnet.ch
 ns2.trekking-switzerland.ch
+ns2.trendpoint.ch
 ns2.trendwerk.ch
 ns2.tricontego.ch
 ns2.trinitycollege.ch
