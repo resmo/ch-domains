@@ -1516,7 +1516,6 @@ audio-2000.ch
 audio-agogik.ch
 audio-akustik.ch
 audio-ambiance.ch
-audio-base.ch
 audio-bauerpro.ch
 audio-beamforming.ch
 audio-book.ch
@@ -4347,6 +4346,7 @@ augenblick-coaching.ch
 augenblick-dielsdorf.ch
 augenblick-optik.ch
 augenblick-sh.ch
+augenblick-studio.ch
 augenblick.ch
 augenblickbysb.ch
 augenblickdebi.ch
@@ -14607,6 +14607,7 @@ automatiztonbiz.ch
 automatizzami.ch
 automato.ch
 automato24.ch
+automatoes.ch
 automaton.ch
 automator.ch
 automators.ch

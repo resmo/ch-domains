@@ -286,7 +286,6 @@ ns.itu.ch
 ns.jacquespiller.ch
 ns.jjcr.ch
 ns.joie-shop.ch
-ns.joins.ch
 ns.jthosting.ch
 ns.kaisersa.ch
 ns.kaspar-stucky.ch
@@ -1655,6 +1654,7 @@ ns1.europlink.ch
 ns1.eurotopnet.ch
 ns1.evard.ch
 ns1.eveline-massages-sante.ch
+ns1.event-safety.ch
 ns1.evohost.ch
 ns1.evohosts.ch
 ns1.evok.ch
@@ -4978,6 +4978,7 @@ ns2.eurotopnet.ch
 ns2.evard.ch
 ns2.eveline-massages-sante.ch
 ns2.even-ag.ch
+ns2.event-safety.ch
 ns2.evohost.ch
 ns2.evohosts.ch
 ns2.evok.ch
@@ -5549,7 +5550,6 @@ ns2.jobflix.ch
 ns2.jobs50plus.ch
 ns2.jogy.ch
 ns2.johngehrig.ch
-ns2.joins.ch
 ns2.jokpictures.ch
 ns2.jon02.ch
 ns2.jordan-renovations.ch
@@ -8647,6 +8647,7 @@ nsie.ch
 nsig.ch
 nsigi.ch
 nsign.ch
+nsigroup.ch
 nsimon.ch
 nsinails.ch
 nsinc.ch

@@ -2281,7 +2281,6 @@ crc4change.ch
 crcars.ch
 crccarrelages.ch
 crccoaching.ch
-crcd.ch
 crcfashion.ch
 crcg.ch
 crcgenerations.ch
@@ -5015,6 +5014,7 @@ creche-barbotine.ch
 creche-be.ch
 creche-bethleem.ch
 creche-bienne.ch
+creche-cocoon.ch
 creche-comparatif.ch
 creche-de-gibloux.ch
 creche-de-noel.ch
@@ -6572,6 +6572,7 @@ crewsaver.ch
 crewserver.ch
 crewshipfestival.ch
 crewsport.ch
+crewspot.ch
 crewting.ch
 crewtraining.ch
 crewup.ch
@@ -6999,7 +7000,6 @@ crisis.ch
 crisiscapital.ch
 crisiscom.ch
 crisiscomms360.ch
-crisiscommunicators.ch
 crisiscompetence.ch
 crisisconsulting.ch
 crisisesq.ch
@@ -10728,7 +10728,6 @@ cryptocodex.ch
 cryptocoin.ch
 cryptocoinfaq.ch
 cryptocoinfund.ch
-cryptocoininvesting.ch
 cryptocoinresear.ch
 cryptocoins.ch
 cryptocoinsulting.ch
@@ -11034,7 +11033,6 @@ cryptomillions.ch
 cryptomine.ch
 cryptominer.ch
 cryptomining.ch
-cryptomitcoin.ch
 cryptomixer.ch
 cryptomobil.ch
 cryptomondayszurich.ch
@@ -11152,6 +11150,7 @@ cryptoreport.ch
 cryptoreporting.ch
 cryptoresear.ch
 cryptoresearch.ch
+cryptorestore.ch
 cryptoreviews.ch
 cryptorex.ch
 cryptorganics.ch
@@ -11391,7 +11390,6 @@ crysalonthem.ch
 cryslabs.ch
 crysmine.ch
 crysp.ch
-crysqueen.ch
 cryssmagnetisme.ch
 crystailes.ch
 crystal-adelboden.ch
