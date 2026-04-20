@@ -20,7 +20,6 @@ la-arch.ch
 la-architecture.ch
 la-art.ch
 la-aug.ch
-la-aula-volante.ch
 la-ax.ch
 la-az.ch
 la-bafe.ch
@@ -1360,6 +1359,7 @@ la-remise.ch
 la-remorque-pliante.ch
 la-remorque.ch
 la-rencontre.ch
+la-renovation.ch
 la-reponse.ch
 la-reserve.ch
 la-residence-des-cerisiers.ch
@@ -1881,7 +1881,6 @@ laaboudi.ch
 laabubilla.ch
 laac.ch
 laad.ch
-laadte.ch
 laaf-theatre.ch
 laaf.ch
 laaf20ans.ch
@@ -3270,7 +3269,6 @@ labonnecombine.ch
 labonnecreperie.ch
 labonnecuisine.ch
 labonnecuisinededavid.ch
-labonnefeedesdoudous.ch
 labonneformule.ch
 labonnefortune.ch
 labonnefranquette.ch
@@ -4761,6 +4759,7 @@ lacatus.ch
 lacauma.ch
 lacaura.ch
 lacausa.ch
+lacausette.ch
 lacava.ch
 lacavacarona.ch
 lacavagne.ch
@@ -6751,7 +6750,6 @@ ladinablumenthal.ch
 ladinabordoli.ch
 ladinabusch.ch
 ladinac.ch
-ladinacavelti.ch
 ladinadoerig.ch
 ladinadomenica.ch
 ladinadurisch.ch
@@ -7942,6 +7940,7 @@ lafagschreiner.ch
 lafagschreinerei.ch
 lafainera.ch
 lafalaise.ch
+lafalceimport.ch
 lafalera.ch
 lafalla.ch
 lafamiglia-fluhberg.ch
@@ -9767,7 +9766,6 @@ lahore.ch
 lahorefood.ch
 lahoria.ch
 lahorsserie.ch
-lahoti.ch
 lahoule.ch
 lahr.ch
 lahrmann.ch
@@ -10174,6 +10172,7 @@ lajoiemassage.ch
 lajoiemusicale.ch
 lajoiespa.ch
 lajolie-beautycentre.ch
+lajolie.ch
 lajoliebeautycafe.ch
 lajoliemeute.ch
 lajonctionestavous.ch
@@ -10690,6 +10689,7 @@ lakesidemoments.ch
 lakesidemotion.ch
 lakesideortho.ch
 lakesideparagliding.ch
+lakesidepartner.ch
 lakesidepartners.ch
 lakesidepets.ch
 lakesidephoto.ch
@@ -13267,6 +13267,7 @@ lanalvoni.ch
 lanama.ch
 lanamatic.ch
 lanamontana.ch
+lananeta.ch
 lananguyen.ch
 lananna.ch
 lanano.ch
@@ -15079,7 +15080,6 @@ landstadt.ch
 landstadtgarten.ch
 landsteiner-executive.ch
 landsteiner.ch
-landsteinerconsulting.ch
 landstieg.ch
 landstorfer.ch
 landstrasse-29.ch
@@ -16458,7 +16458,6 @@ lani.ch
 lania.ch
 laniac.ch
 laniado.ch
-laniakea-care.ch
 laniakea-learning.ch
 laniakealearning.ch
 laniakeaswitzerland.ch
@@ -16738,6 +16737,7 @@ lantern.ch
 lanterna-magica.ch
 lanternaria.ch
 lanterncy.ch
+lanterne-japonaise.ch
 lanterne-magique.ch
 lanterne.ch
 lanternfundforum.ch
@@ -20273,7 +20273,6 @@ laser-skin-solution.ch
 laser-solution.ch
 laser-solutions.ch
 laser-spiel.ch
-laser-squads.ch
 laser-stamps.ch
 laser-statt-brille.ch
 laser-stencil.ch
@@ -22747,6 +22746,7 @@ latifi.ch
 latifiblerina.ch
 latifovic.ch
 latigela.ch
+latigo.ch
 latigrec.ch
 latikafusp.ch
 latil.ch
@@ -22911,6 +22911,7 @@ latitude-project.ch
 latitude-saveurs.ch
 latitude-zen.ch
 latitude.ch
+latitude0.ch
 latitude122.ch
 latitude21.ch
 latitude41.ch
@@ -23379,8 +23380,6 @@ lauber-motion.ch
 lauber-nautic.ch
 lauber-praxis.ch
 lauber-recruitment.ch
-lauber-sa-caisse-configurateur.ch
-lauber-sa-configurateur.ch
 lauber-sa.ch
 lauber-speuz.ch
 lauber-tamara.ch
@@ -24342,6 +24341,7 @@ laura-thoma.ch
 laura-tinta-tattoo.ch
 laura-toma.ch
 laura-trussardi.ch
+laura-und-joel.ch
 laura-vercellone.ch
 laura-vicario.ch
 laura-vincent.ch
@@ -24476,6 +24476,7 @@ lauragrazioli.ch
 lauragrob.ch
 lauragrohedesign.ch
 lauragross.ch
+lauragruetter.ch
 lauragyger.ch
 lauragyr.ch
 laurahadorn.ch

@@ -1489,6 +1489,7 @@ ns1.dizmo.ch
 ns1.dl-websites.ch
 ns1.dmedia.ch
 ns1.dmprint.ch
+ns1.dn5.ch
 ns1.dncons.ch
 ns1.dns-cloud.ch
 ns1.dns-lst.ch
@@ -3696,6 +3697,7 @@ ns1.uniquer.ch
 ns1.unisg.ch
 ns1.united-security-providers.ch
 ns1.unity-systems.ch
+ns1.universalcare.ch
 ns1.unorm.ch
 ns1.upccablecom-emailbilling.ch
 ns1.uptm.ch
@@ -3861,7 +3863,6 @@ ns1.weratv.ch
 ns1.werbefranken.ch
 ns1.werde.ch
 ns1.werthdata.ch
-ns1.westinet.ch
 ns1.wesu.ch
 ns1.weyland.ch
 ns1.wgnet.ch
@@ -4821,7 +4822,6 @@ ns2.dizmo.ch
 ns2.dl-websites.ch
 ns2.dmedia.ch
 ns2.dmprint.ch
-ns2.dn5.ch
 ns2.dnab.ch
 ns2.dns-cloud.ch
 ns2.dns-lst.ch
@@ -6946,6 +6946,7 @@ ns2.uniquer.ch
 ns2.unisg.ch
 ns2.united-security-providers.ch
 ns2.unity-systems.ch
+ns2.universalcare.ch
 ns2.unorm.ch
 ns2.unternehmertisch.ch
 ns2.uptm.ch
@@ -7105,7 +7106,6 @@ ns2.weratv.ch
 ns2.werbefranken.ch
 ns2.werde.ch
 ns2.werthdata.ch
-ns2.westinet.ch
 ns2.weyland.ch
 ns2.wgnet.ch
 ns2.wificom.ch
