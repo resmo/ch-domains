@@ -576,7 +576,6 @@ ns01.lemonbrain.ch
 ns01.manyways.ch
 ns01.monitored.ch
 ns01.mysallegra.ch
-ns01.neblcloud.ch
 ns01.netzwolke.ch
 ns01.nodeunit.ch
 ns01.oppenheimer.ch
@@ -637,7 +636,6 @@ ns02.lemonbrain.ch
 ns02.maillink.ch
 ns02.manyways.ch
 ns02.monitored.ch
-ns02.neblcloud.ch
 ns02.nodeunit.ch
 ns02.ns.kaempf-engineering.ch
 ns02.oliverseiler.ch
@@ -869,7 +867,6 @@ ns1.appstart.ch
 ns1.aptkn.ch
 ns1.arc-thomytest.ch
 ns1.arcade.ch
-ns1.archenoah-brocki.ch
 ns1.archenoah-umzug.ch
 ns1.archenoahservice.ch
 ns1.architoo.ch
@@ -2932,6 +2929,7 @@ ns1.pianeti.ch
 ns1.pibit.ch
 ns1.picfilm.ch
 ns1.pihosting.ch
+ns1.pimp-your-web-ag.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
 ns1.pinkbox.ch
@@ -4221,7 +4219,6 @@ ns2.aps-it.ch
 ns2.apsit.ch
 ns2.aptkn.ch
 ns2.arcade.ch
-ns2.archenoah-brocki.ch
 ns2.archenoah-umzug.ch
 ns2.archenoahservice.ch
 ns2.architoo.ch
@@ -6194,6 +6191,7 @@ ns2.physionotter.ch
 ns2.pianeti.ch
 ns2.picfilm.ch
 ns2.pihosting.ch
+ns2.pimp-your-web-ag.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
 ns2.pinkbox.ch
