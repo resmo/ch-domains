@@ -1734,7 +1734,6 @@ picknprice.ch
 picknroll.ch
 picko.ch
 pickobello.ch
-pickoff.ch
 pickout.ch
 pickpack.ch
 pickpacktrockner.ch
@@ -2376,7 +2375,6 @@ pieces-mustang-shop.ch
 pieces-occasion.ch
 pieces-of-heart.ch
 pieces-plomberie.ch
-pieces-rechange-remorques.ch
 pieces-rechange.ch
 pieces-to-peace.ch
 pieces-trottinettes.ch
@@ -4415,6 +4413,7 @@ pilatus-security.ch
 pilatus-seilpark.ch
 pilatus-spitz.ch
 pilatus-steinteppich.ch
+pilatus-tandemflug.ch
 pilatus-taxi.ch
 pilatus-tcg.ch
 pilatus-team.ch
@@ -7662,7 +7661,6 @@ pirateporn-loader.ch
 pirateproxy.ch
 pirateradio.ch
 piraterebelle.ch
-piraterie.ch
 piraterieantifacistegeneve.ch
 piraterieantifascistegeneve.ch
 pirates-aventure.ch
@@ -8211,7 +8209,6 @@ piscoperu.ch
 piscoraro.ch
 piscotarot.ch
 piscotime.ch
-piscoworld.ch
 piscu.ch
 pise.ch
 piseni4health.ch
@@ -9450,7 +9447,6 @@ pixelcrun.ch
 pixelcube.ch
 pixelcut.ch
 pixeld.ch
-pixeldeal.ch
 pixeldesign.ch
 pixeldesigner.ch
 pixeldesigns.ch
@@ -9956,6 +9952,7 @@ pixiegate.ch
 pixieloveweddings.ch
 pixiemania.ch
 pixien.ch
+pixierage.ch
 pixiestudio.ch
 pixifilm.ch
 pixify.ch
@@ -11156,7 +11153,6 @@ pizzain.ch
 pizzainbern.ch
 pizzainmendrisio.ch
 pizzainstinto.ch
-pizzainterlaken.ch
 pizzainticino.ch
 pizzaioli.ch
 pizzaiolini.ch
@@ -12325,6 +12321,7 @@ pizzerialaenggasse19.ch
 pizzerialafamiglia.ch
 pizzerialagomio.ch
 pizzerialagondola.ch
+pizzerialagrandefamigliagmbh.ch
 pizzerialaluna.ch
 pizzerialalupa.ch
 pizzerialandikerstuebli.ch
