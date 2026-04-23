@@ -320,7 +320,7 @@ ns.masterhomepage.ch
 ns.mazziveterinario.ch
 ns.mbpp.ch
 ns.mc-courrendlin.ch
-ns.mc-vs.ch
+ns.mdapi.ch
 ns.mediaktion.ch
 ns.migros-player.ch
 ns.mnbsserver.ch
@@ -867,6 +867,7 @@ ns1.appstart.ch
 ns1.aptkn.ch
 ns1.arc-thomytest.ch
 ns1.arcade.ch
+ns1.archenoah-brocki.ch
 ns1.archenoah-umzug.ch
 ns1.archenoahservice.ch
 ns1.architoo.ch
@@ -4219,6 +4220,7 @@ ns2.aps-it.ch
 ns2.apsit.ch
 ns2.aptkn.ch
 ns2.arcade.ch
+ns2.archenoah-brocki.ch
 ns2.archenoah-umzug.ch
 ns2.archenoahservice.ch
 ns2.architoo.ch
@@ -4548,7 +4550,6 @@ ns2.cer.ch
 ns2.cernievillers.ch
 ns2.cf-vs.ch
 ns2.cfarm.ch
-ns2.cg-dns.ch
 ns2.cgicorner.ch
 ns2.ch
 ns2.chabbeypiller.ch
@@ -5807,7 +5808,6 @@ ns2.mb-office.ch
 ns2.mbulle.ch
 ns2.mbur.ch
 ns2.mc-it.ch
-ns2.mc-vs.ch
 ns2.mc4web.ch
 ns2.meantime.ch
 ns2.mebaco.ch

@@ -1308,7 +1308,6 @@ kmugold5.ch
 kmugold6.ch
 kmugrauholz.ch
 kmuguide.ch
-kmuhandel.ch
 kmuhaus.ch
 kmuheidi.ch
 kmuhelp.ch
@@ -1483,6 +1482,7 @@ kmupromotions.ch
 kmuprozess.ch
 kmuprozesse.ch
 kmuq.ch
+kmuqdata.ch
 kmuqnorm.ch
 kmuquadrat.ch
 kmuratgeber.ch
