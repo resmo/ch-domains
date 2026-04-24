@@ -52,7 +52,6 @@ sb-g.ch
 sb-gestion.ch
 sb-global.ch
 sb-gmbh.ch
-sb-grafik.ch
 sb-graphicdesign.ch
 sb-group-ag.ch
 sb-handwerk.ch
@@ -1448,6 +1447,7 @@ sbz.ch
 sbza.ch
 sbzag.ch
 sbzcompost.ch
+sbzfestival.ch
 sbzinvestments.ch
 sbzs.ch
 sbzv.ch

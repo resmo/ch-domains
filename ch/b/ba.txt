@@ -1832,7 +1832,6 @@ babyscout.ch
 babysdream.ch
 babysdreams.ch
 babysearch.ch
-babysecondhand.ch
 babysecours.ch
 babysecrets.ch
 babyseidenschlafsack.ch
@@ -1962,7 +1961,6 @@ babyswim.ch
 babyswimmer.ch
 babyswing2go.ch
 babyswisster.ch
-babyswonderplace.ch
 babysworld.ch
 babytafel.ch
 babytafeln.ch
@@ -4936,7 +4934,6 @@ badi-elsau.ch
 badi-entfelden.ch
 badi-ermatingen.ch
 badi-espi.ch
-badi-feldbach.ch
 badi-geren.ch
 badi-goldach.ch
 badi-gommiswald.ch
@@ -6424,7 +6421,6 @@ baeren-lounge.ch
 baeren-lyss.ch
 baeren-madiswil.ch
 baeren-maegenwil.ch
-baeren-marbach.ch
 baeren-meikirch.ch
 baeren-mollis.ch
 baeren-muensingen.ch
@@ -11995,6 +11991,7 @@ balneotherapie-chamard.ch
 balneotherapie-yverdon.ch
 balneotherapiechamard.ch
 balneotherapieyverdon.ch
+balneova.ch
 balneoyverdon.ch
 balnet.ch
 balnetest.ch
@@ -12668,7 +12665,6 @@ bamat-baumaterial.ch
 bamat.ch
 bamatec.ch
 bamatech.ch
-bamato.ch
 bamax.ch
 bamazug.ch
 bamb.ch
@@ -13489,25 +13485,34 @@ band-24.ch
 band-4-you.ch
 band-akademie.ch
 band-api.ch
+band-bau.ch
+band-beruflicheintegration.ch
 band-booking.ch
 band-breite.ch
 band-coach.ch
 band-coaching.ch
 band-coco.ch
 band-fantasia.ch
+band-fertigungstechnik.ch
 band-for-you.ch
+band-gartenbau.ch
 band-genossenschaft.ch
 band-hochzeit.ch
+band-ict.ch
 band-it.ch
+band-kreislaufwirtschaft.ch
+band-logistikservices.ch
 band-makeover.ch
 band-management.ch
 band-manager.ch
 band-on-demand.ch
 band-on.ch
 band-remember.ch
+band-schreinerei.ch
 band-shirt.ch
 band-stiftung.ch
 band-union.ch
+band-verpacken.ch
 band-werkstaette.ch
 band-werkstaetten.ch
 band-x.ch
@@ -18357,6 +18362,7 @@ barnickel.ch
 barnickelfellows.ch
 barnikiener.ch
 barnipost.ch
+barnman.ch
 barno.ch
 barnold.ch
 barnone.ch
@@ -18981,6 +18987,7 @@ barrycallebaut-switzerland.ch
 barrycallebaut.ch
 barrycar.ch
 barrycioccocreative.ch
+barrycoaching.ch
 barrycook.ch
 barrydress.ch
 barrydugrandsaintbernard.ch
@@ -20955,6 +20962,7 @@ basemap.ch
 basemarketingnow.ch
 basemed.ch
 basemedia.ch
+basemedical.ch
 basemen.ch
 basement-dweller.ch
 basement.ch
@@ -21453,6 +21461,7 @@ basimilch.ch
 basimmo.ch
 basimo.ch
 basingaa.ch
+basinox.ch
 basinueri.ch
 basinueritaxi.ch
 basipilates.ch
@@ -21674,6 +21683,7 @@ baskonsolosluk.ch
 baskop.ch
 baskule.ch
 basl.ch
+baslac.ch
 basle.ch
 basleinstitute.ch
 basler-abbruch.ch
@@ -22191,6 +22201,7 @@ bass-box.ch
 bass-center.ch
 bass-creatures.ch
 bass-design.ch
+bass-foto-film.ch
 bass-n-bass.ch
 bass-security.ch
 bass-shop.ch
@@ -24095,6 +24106,7 @@ bau-bar.ch
 bau-be.ch
 bau-bedarf.ch
 bau-begleitservice.ch
+bau-beistand.ch
 bau-benz.ch
 bau-berater.ch
 bau-beratung.ch
@@ -26145,6 +26157,7 @@ baugesuchalarm.ch
 baugesuche-luzern.ch
 baugesuche.ch
 baugesucheluzern.ch
+baugesuchkarte.ch
 baugesuchluzern.ch
 baugesund.ch
 baugetman.ch
@@ -28401,6 +28414,7 @@ baupa.ch
 baupaja.ch
 baupal.ch
 baupals.ch
+bauparadies.ch
 bauparis.ch
 baupark.ch
 baupark24.ch

@@ -166,7 +166,6 @@ thai-deutsch.ch
 thai-dolmetscher.ch
 thai-dragon.ch
 thai-dreams.ch
-thai-drive.ch
 thai-elephant1.ch
 thai-epfl.ch
 thai-erawan-oerlikon.ch
@@ -206,6 +205,7 @@ thai-import.ch
 thai-isaan-studio.ch
 thai-jin.ch
 thai-jing.ch
+thai-khon-kaen.ch
 thai-khonkaen.ch
 thai-kick-box.ch
 thai-kick-boxen.ch
@@ -442,7 +442,6 @@ thaidirekt.ch
 thaidolmetscher.ch
 thaidragon.ch
 thaidrama.ch
-thaidrive.ch
 thaidumarche.ch
 thaieastern.ch
 thaiembassy.ch
@@ -676,6 +675,7 @@ thaimassageaegeri.ch
 thaimassageascona.ch
 thaimassagebaden.ch
 thaimassagebasel.ch
+thaimassagebern.ch
 thaimassagebodywork.ch
 thaimassagebycherry.ch
 thaimassagefinder.ch
@@ -1352,6 +1352,7 @@ thaqi-immo.ch
 thaqi-metall.ch
 thaqi.ch
 thaqiautomobiles.ch
+thaqib.ch
 thaqibau.ch
 thaqirenovations.ch
 thar.ch
@@ -5367,7 +5368,6 @@ thebreathingtree.ch
 thebreathlab.ch
 thebreathofthemind.ch
 thebreathstudio.ch
-thebrecon.ch
 thebreeze-bar.ch
 thebreeze-horgen.ch
 thebreeze-rocks.ch
@@ -6764,7 +6764,6 @@ thefbcompany.ch
 thefeastybeast.ch
 thefeedbackgroup.ch
 thefeelgoodsystem.ch
-thefeelgreatsystem.ch
 thefees.ch
 thefehr.ch
 thefehrs.ch
@@ -7019,7 +7018,6 @@ thefoxtalegin.ch
 thefoxyworkshop.ch
 thefoyer.ch
 thefragrance.ch
-thefragrancehouse.ch
 thefragranceshop.ch
 thefragrancestation.ch
 theframe.ch
@@ -8735,7 +8733,6 @@ thelittleark.ch
 thelittleaviator.ch
 thelittlebigfestival.ch
 thelittlebrother.ch
-thelittleenglishhouse.ch
 thelittleenglishhut.ch
 thelittlefrog.ch
 thelittlegoldsmith.ch
@@ -9144,7 +9141,6 @@ themedev.ch
 themedia.ch
 themediabrand.ch
 themediaengine.ch
-themedialab.ch
 themedialeader.ch
 themediators.ch
 themedicalcity.ch
@@ -9443,6 +9439,7 @@ themovementsuite.ch
 themovie.ch
 themovieshop.ch
 themovinghero.ch
+themovingsquare.ch
 themoyodesign.ch
 themoyodesin.ch
 themozzarellas.ch
@@ -13878,6 +13875,7 @@ thestreet.ch
 thestreetfoodclub.ch
 thestreets.ch
 thestrubs.ch
+thestryk.ch
 thestuarts.ch
 thestudentcard.ch
 thestudentchalet.ch
@@ -13908,7 +13906,6 @@ thesugarcube.ch
 thesugarfreecompany.ch
 thesugars.ch
 thesuisse.ch
-thesuissefutsalshowdown.ch
 thesuissheritage.ch
 thesuitespot.ch
 thesullivans.ch
@@ -15019,7 +15016,6 @@ thewings.ch
 thewingsoflove.ch
 thewingsquad.ch
 thewinneris.ch
-thewinnersare.ch
 thewinnertype.ch
 thewinningservice.ch
 thewinston.ch
@@ -15657,6 +15653,7 @@ thilby.ch
 thilda.ch
 thildykeller.ch
 thildyswitzerland.ch
+thileco.ch
 thilecom.ch
 thileeban.ch
 thileepan.ch
@@ -16298,7 +16295,6 @@ thirddate.ch
 thirden.ch
 thirdestate.ch
 thirdeye.ch
-thirdeyesanalytics.ch
 thirdeyeservices.ch
 thirdeyetattoo.ch
 thirdkylie.ch
@@ -18564,6 +18560,7 @@ thormeli.ch
 thorn-eco.ch
 thorn.ch
 thornburylondon.ch
+thorne.ch
 thorneco.ch
 thorner.ch
 thornfit.ch
@@ -18967,6 +18964,7 @@ thrills.ch
 thrillsandchills.ch
 thrillseeker.ch
 thrillz.ch
+thrillzz.ch
 thrive-academy.ch
 thrive-association.ch
 thrive-collection.ch
@@ -19283,6 +19281,7 @@ thumbor.ch
 thumbs-up.ch
 thumbs.ch
 thumbsup.ch
+thumbuprun.ch
 thumerelle.ch
 thuminformatik.ch
 thumm.ch
@@ -19740,7 +19739,6 @@ thurgau-ansiedlung.ch
 thurgau-autoexport.ch
 thurgau-bewegt.ch
 thurgau-bodensee.ch
-thurgau-cleanup.ch
 thurgau-cloud.ch
 thurgau-dankt.ch
 thurgau-du-heimat.ch
@@ -19757,7 +19755,6 @@ thurgau-kantonspolizei.ch
 thurgau-kieferorthopaede.ch
 thurgau-kieferorthopaedie.ch
 thurgau-ladenbau.ch
-thurgau-macht-sauber.ch
 thurgau-medical.ch
 thurgau-muldenservice.ch
 thurgau-musiziert.ch
