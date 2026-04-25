@@ -1520,7 +1520,6 @@ umzuegezurich.ch
 umzug--firma.ch
 umzug--kosten.ch
 umzug--reinigung.ch
-umzug--service.ch
 umzug--zuerich.ch
 umzug-1.ch
 umzug-123.ch
@@ -1533,7 +1532,6 @@ umzug-alexanderkeller.ch
 umzug-altersheim.ch
 umzug-ameise.ch
 umzug-anbieter.ch
-umzug-angebot.ch
 umzug-angebotschweiz.ch
 umzug-auftrag.ch
 umzug-baar.ch
@@ -1711,8 +1709,6 @@ umzugadler.ch
 umzugai.ch
 umzugalo.ch
 umzugalpha.ch
-umzugangebot.ch
-umzugangebote.ch
 umzugangebotschweiz.ch
 umzuganmeldung.ch
 umzugauftrag.ch
@@ -1755,6 +1751,7 @@ umzugfirma.ch
 umzugfirmavergleich.ch
 umzugfirme.ch
 umzugfirmen.ch
+umzugfix.ch
 umzugfreunde.ch
 umzugfuchs.ch
 umzuggenie.ch
@@ -2266,16 +2263,10 @@ umzugsmeister-zuerich.ch
 umzugsmeister.ch
 umzugsmeldung.ch
 umzugsmontage-bern.ch
-umzugsofferte-24.ch
-umzugsofferte-365.ch
 umzugsofferte-schweiz.ch
 umzugsofferte-vergleichen.ch
 umzugsofferte-zuerich.ch
 umzugsofferte.ch
-umzugsofferte24.ch
-umzugsofferte365.ch
-umzugsofferten-24.ch
-umzugsofferten-365.ch
 umzugsofferten-schweiz.ch
 umzugsofferten-vergleichen.ch
 umzugsofferten.ch

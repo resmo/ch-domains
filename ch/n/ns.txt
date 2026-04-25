@@ -1075,6 +1075,7 @@ ns1.blumenmaarsen.ch
 ns1.blyde.ch
 ns1.bmoffice-it.ch
 ns1.bmsoft.ch
+ns1.bmtc.ch
 ns1.bmw850.ch
 ns1.bnc.ch
 ns1.bnhost.ch
@@ -1292,6 +1293,7 @@ ns1.compa.ch
 ns1.compa365.ch
 ns1.comparis.ch
 ns1.compdesign.ch
+ns1.comperiomail.ch
 ns1.compi-host.ch
 ns1.compiworld.ch
 ns1.compnethosting.ch
@@ -1552,7 +1554,6 @@ ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
-ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -1867,6 +1868,7 @@ ns1.gna.ch
 ns1.gnugen.ch
 ns1.go-net.ch
 ns1.goal11.ch
+ns1.goasp.ch
 ns1.goetz-immobilien.ch
 ns1.goforweb.ch
 ns1.goldenidea.ch
@@ -2383,6 +2385,7 @@ ns1.lexo.ch
 ns1.leysart.ch
 ns1.lfo-sa.ch
 ns1.lfo.ch
+ns1.lgr-renovation.ch
 ns1.libracore.ch
 ns1.libralures.ch
 ns1.lichtensteiger.ch
@@ -2577,7 +2580,6 @@ ns1.mixologic.ch
 ns1.mizell.ch
 ns1.mjhost.ch
 ns1.mjt.ch
-ns1.mkf.ch
 ns1.mkhosting.ch
 ns1.mm-mediaholding.ch
 ns1.mnbsserver.ch
@@ -2664,6 +2666,7 @@ ns1.nadesign.ch
 ns1.naissances.ch
 ns1.namemaster.ch
 ns1.namesrv.ch
+ns1.nano-lash.ch
 ns1.nanolash.ch
 ns1.nasser.ch
 ns1.nast.ch
@@ -3094,6 +3097,7 @@ ns1.rc-timing.ch
 ns1.rcop.ch
 ns1.rda.ch
 ns1.rdde.ch
+ns1.re-fline.ch
 ns1.reachup.ch
 ns1.realness.ch
 ns1.rebelduck.ch
@@ -3188,6 +3192,7 @@ ns1.ruckzuck-design.ch
 ns1.rudolflemcke.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
+ns1.rvha.ch
 ns1.rxr.ch
 ns1.s-business.ch
 ns1.s-informatik.ch
@@ -4420,6 +4425,7 @@ ns2.blueserver.ch
 ns2.blumenmaarsen.ch
 ns2.bmoffice-it.ch
 ns2.bmsoft.ch
+ns2.bmtc.ch
 ns2.bmw850.ch
 ns2.bnc.ch
 ns2.bnhost.ch
@@ -4637,6 +4643,7 @@ ns2.compa.ch
 ns2.compa365.ch
 ns2.comparis.ch
 ns2.compdesign.ch
+ns2.comperiomail.ch
 ns2.competenceslinguistiques.ch
 ns2.competenzelinguistiche.ch
 ns2.compi-host.ch
@@ -4878,7 +4885,6 @@ ns2.dur.ch
 ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
-ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5182,6 +5188,7 @@ ns2.gmlss1.ch
 ns2.gmpeinture.ch
 ns2.gna.ch
 ns2.go-net.ch
+ns2.goasp.ch
 ns2.goeldi.ch
 ns2.goetz-immobilien.ch
 ns2.goforweb.ch
@@ -5685,6 +5692,7 @@ ns2.lexo.ch
 ns2.leysart.ch
 ns2.lfo-sa.ch
 ns2.lfo.ch
+ns2.lgr-renovation.ch
 ns2.libracore.ch
 ns2.libralures.ch
 ns2.lichtensteiger.ch
@@ -5947,6 +5955,7 @@ ns2.nacloud.ch
 ns2.nadesign.ch
 ns2.naissances.ch
 ns2.namesrv.ch
+ns2.nano-lash.ch
 ns2.nanolash.ch
 ns2.nativenet.ch
 ns2.navacoaching.ch
@@ -6352,6 +6361,7 @@ ns2.rbxsystems.ch
 ns2.rc-timing.ch
 ns2.rcop.ch
 ns2.rda.ch
+ns2.re-fline.ch
 ns2.reachup.ch
 ns2.real-stein.ch
 ns2.realness.ch
@@ -6439,6 +6449,7 @@ ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
 ns2.rudolflemcke.ch
 ns2.rundb.ch
+ns2.rvha.ch
 ns2.rxr.ch
 ns2.s-business.ch
 ns2.s-informatik.ch
@@ -7557,7 +7568,6 @@ ns3.helpvetica.ch
 ns3.hess-treuhand.ch
 ns3.hgw-it.ch
 ns3.hildidns.ch
-ns3.hitparade.ch
 ns3.holiness.ch
 ns3.hostgalaxy.ch
 ns3.hostgarden.ch
@@ -8353,7 +8363,6 @@ ns5.jpu.eraw.ch
 ns5.kmu-datacenter.ch
 ns5.maebi.ch
 ns5.marco-salzmann.ch
-ns5.mkf.ch
 ns5.musikzielke.ch
 ns5.mywebhost.ch
 ns5.nambu.ch
@@ -8654,7 +8663,6 @@ nsinfosphere.ch
 nsinsure.ch
 nsintercall.ch
 nsinternational.ch
-nsinvest.ch
 nsis.ch
 nsisagl.ch
 nsit.ch
