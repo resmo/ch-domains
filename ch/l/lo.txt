@@ -3499,7 +3499,6 @@ log-concept.ch
 log-connect.ch
 log-consult.ch
 log-data.ch
-log-ex.ch
 log-home.ch
 log-in.ch
 log-ing.ch
@@ -4730,7 +4729,6 @@ logo-zuerich.ch
 logo108.ch
 logo123.ch
 logo24.ch
-logo360.ch
 logo3d.ch
 logo48.ch
 logo4art.ch
@@ -4887,7 +4885,6 @@ logomundart.ch
 logon-aesch.ch
 logon.ch
 logona.ch
-logonaming.ch
 logonaut.ch
 logonauten.ch
 logonautik.ch
@@ -5184,6 +5181,7 @@ logowear.ch
 logoweb.ch
 logowein.ch
 logowerk.ch
+logowerkstatt.ch
 logoz.ch
 logozen.ch
 logozentrum.ch
@@ -5922,6 +5920,7 @@ lok2000.ch
 lok205.ch
 lok315.ch
 lok7.ch
+loka-bau.ch
 loka-naturbau.ch
 loka-stein.ch
 loka.ch
@@ -6396,7 +6395,6 @@ lokpilot.ch
 lokpool.ch
 lokr.ch
 lokreinach.ch
-lokremise-sulgen.ch
 lokremise-uster.ch
 lokremise.ch
 lokremisechur.ch
@@ -7302,6 +7300,7 @@ longevity-coach.ch
 longevity-coaching-academy.ch
 longevity-coaching.ch
 longevity-code.ch
+longevity-council.ch
 longevity-distribution.ch
 longevity-doc.ch
 longevity-experience.ch
@@ -7340,6 +7339,7 @@ longevity-navigator.ch
 longevity-network.ch
 longevity-nutrients.ch
 longevity-of-switzerland.ch
+longevity-partners.ch
 longevity-pen.ch
 longevity-pilates.ch
 longevity-praxis.ch
@@ -7366,6 +7366,7 @@ longevity-zug.ch
 longevity-zurich.ch
 longevity.ch
 longevityadvisor.ch
+longevityadvisory.ch
 longevityarchitecture.ch
 longevityatelier.ch
 longevitybasel.ch
@@ -7388,6 +7389,7 @@ longevitycoach.ch
 longevityconsultancy.ch
 longevityconsulting.ch
 longevitycorporation.ch
+longevitycouncil.ch
 longevitydatesuperfruitextracts.ch
 longevitydays.ch
 longevitydistribution.ch
@@ -7433,6 +7435,7 @@ longevitymedicine.ch
 longevitymindset.ch
 longevitynutrients.ch
 longevityofswitzerland.ch
+longevitypartners.ch
 longevitypen.ch
 longevitypets.ch
 longevitypilates.ch
@@ -7463,6 +7466,7 @@ longevityvalley.ch
 longevityvillage.ch
 longevityvital.ch
 longevitywater.ch
+longevityworks.ch
 longevityzug.ch
 longevityzuhause.ch
 longevityzurich.ch
@@ -12206,7 +12210,6 @@ loveinchrist.ch
 loveink.ch
 loveinlife.ch
 loveinmylife.ch
-loveinswiss.ch
 loveintheair.ch
 loveio.ch
 loveisallaround.ch

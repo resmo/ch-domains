@@ -686,6 +686,7 @@ veg.ch
 veg1.ch
 veg12.ch
 veg2.ch
+veg4.ch
 vega-absolute.ch
 vega-advisory.ch
 vega-architecture.ch
@@ -1716,7 +1717,6 @@ veiled.ch
 veilid.ch
 veilidnode.ch
 veillance.ch
-veillard-diffusion.ch
 veillard.ch
 veillard1.ch
 veillard2.ch
@@ -2538,6 +2538,7 @@ velo-tricot.ch
 velo-trikot.ch
 velo-tunnel.ch
 velo-ueli.ch
+velo-unfaelle.ch
 velo-unterstand.ch
 velo-uri.ch
 velo-uster.ch
@@ -3715,6 +3716,7 @@ veloumfrage.ch
 velounddrums.ch
 veloundschule.ch
 veloundwerk.ch
+velounfaelle.ch
 velounfall.ch
 velounterstaende.ch
 velounterstand.ch
@@ -5789,6 +5791,7 @@ venus-in-libra.ch
 venus-line.ch
 venus-living.ch
 venus-medical.ch
+venus-nails-swiss.ch
 venus-nails.ch
 venus-relax.ch
 venus-rose-tearoom.ch
@@ -8038,6 +8041,7 @@ verein1951.ch
 verein2030.ch
 verein24.ch
 verein3004.ch
+verein360.ch
 verein426.ch
 verein4417.ch
 verein50plus.ch
@@ -8866,6 +8870,7 @@ verflixt.ch
 verflixtundzugenaeht.ch
 verfluecht.ch
 verflueemeretguet.ch
+verfolgen.ch
 verfolgt.ch
 verfolgung.ch
 verfora-campaign.ch
@@ -9961,6 +9966,8 @@ verkehrs-fachschule.ch
 verkehrs-helfer.ch
 verkehrs-info.ch
 verkehrs-kommission.ch
+verkehrs-kontrolle.ch
+verkehrs-kontrollen.ch
 verkehrs-kunde-unterricht.ch
 verkehrs-kunde.ch
 verkehrs-lage.ch
@@ -10087,6 +10094,8 @@ verkehrsklima.ch
 verkehrskollaps.ch
 verkehrskommission.ch
 verkehrskonferenz.ch
+verkehrskontrolle.ch
+verkehrskontrollen.ch
 verkehrskonzepte.ch
 verkehrskunde-24.ch
 verkehrskunde-4-you.ch
@@ -10909,6 +10918,7 @@ vermisstekinder.ch
 vermisstenmeldung.ch
 vermisstenmeldungen.ch
 vermisstenspuerhund.ch
+vermisstepersonen.ch
 vermisstetiere.ch
 vermisstmeldung.ch
 vermisstmeldungen.ch
@@ -13115,6 +13125,7 @@ verti-park.ch
 verti-sun.ch
 verti-tech.ch
 verti.ch
+vertibloom.ch
 vertic-hall.ch
 vertic-halle.ch
 vertic-schweiz.ch
@@ -14145,6 +14156,7 @@ verybadideas.ch
 verybestever.ch
 verybestof.ch
 verybleu.ch
+veryboost.ch
 verybritish.ch
 verychic.ch
 verycom.ch
@@ -16184,6 +16196,7 @@ vexia.ch
 vexidus.ch
 vexilla.ch
 vexim.ch
+vexio-ortho.ch
 vexio.ch
 vexis.ch
 vexlon.ch
