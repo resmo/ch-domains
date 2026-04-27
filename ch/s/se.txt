@@ -1766,7 +1766,6 @@ secab.ch
 secacam.ch
 secacon.ch
 secademica.ch
-secag.ch
 secair.ch
 secalgest.ch
 secalin.ch
@@ -1937,7 +1936,6 @@ secid.ch
 secie.ch
 secimo.ch
 secindopt.ch
-secinf.ch
 secinform.ch
 secinspect.ch
 secintel.ch
@@ -2229,6 +2227,8 @@ secondhand-secondlove.ch
 secondhand-secondo.ch
 secondhand-shop-bazenheid.ch
 secondhand-shop-vestis.ch
+secondhand-shop.ch
+secondhand-store.ch
 secondhand-suisse.ch
 secondhand-szenario.ch
 secondhand.ch
@@ -2684,7 +2684,6 @@ secretarena.ch
 secretaria.ch
 secretariat-comptabilite.ch
 secretariat-dexamen.ch
-secretariat-expertises.ch
 secretariat-geneve.ch
 secretariat-smtp.ch
 secretariat-telephonique.ch
@@ -3005,6 +3004,7 @@ sector-bewachung.ch
 sector.ch
 sector1.ch
 sector12.ch
+sector21.ch
 sector53.ch
 sector7.ch
 sector8.ch
@@ -8081,7 +8081,6 @@ segafredozanetti.ch
 segagames.ch
 segakeramik.ch
 segakuechen.ch
-segal-antiquites.ch
 segal-selig.ch
 segal.ch
 segala-sicherheitstechnik.ch
@@ -12522,6 +12521,7 @@ selinaroeseler.ch
 selinarotach.ch
 selinarussian.ch
 selinas-babygeschenke.ch
+selinas-bunte-welt.ch
 selinas-healings.ch
 selinas-hundewelt.ch
 selinas-teb.ch
@@ -12601,6 +12601,7 @@ selinkarahan.ch
 selino.ch
 selins.ch
 selinsstiftung.ch
+selinstoll.ch
 selinthenerd.ch
 selinundroman.ch
 selinusfinancialconsulting.ch
@@ -19141,7 +19142,6 @@ serelaxer.ch
 serelepe.ch
 serelia.ch
 serelierauvivant.ch
-sereline.ch
 serelis-naef.ch
 serelis.ch
 serelya.ch
@@ -19156,6 +19156,7 @@ seremonya.ch
 serempus.ch
 serempustreuhand.ch
 seren-ai.ch
+seren-home.ch
 seren-it.ch
 seren-philipp.ch
 seren.ch
@@ -19336,6 +19337,7 @@ serenity-villars.ch
 serenity-yoga.ch
 serenity.ch
 serenity5085.ch
+serenity77.ch
 serenityandrelax.ch
 serenityatwork.ch
 serenityaudio.ch
@@ -19522,7 +19524,6 @@ sergehardmeier.ch
 sergehasenboehler.ch
 sergeheberling.ch
 sergeheusler.ch
-sergehuber.ch
 sergei.ch
 sergeivi.ch
 sergej.ch
@@ -20034,7 +20035,6 @@ serpentjourney.ch
 serpentmakers.ch
 serpentnexus.ch
 serpents.ch
-serpentsupplements.ch
 serpentype.ch
 serpha.ch
 serpiano.ch
@@ -21432,6 +21432,7 @@ servicedogschool.ch
 servicedomestique.ch
 servicedomicile.ch
 servicedomino.ch
+servicedomotique.ch
 servicedomus.ch
 servicedrive.ch
 servicedriver.ch
@@ -21568,6 +21569,7 @@ servicelinker.ch
 servicelocal.ch
 servicelog.ch
 servicelong.ch
+servicelumora.ch
 servicemaestro.ch
 servicemagic.ch
 servicemail.ch
@@ -22409,6 +22411,7 @@ sesamkmu.ch
 sesamkredit.ch
 sesamlab.ch
 sesamnet.ch
+sesamo.ch
 sesamoeffnedi.ch
 sesamoel.ch
 sesampme.ch
@@ -24666,7 +24669,6 @@ sexguru.ch
 sexhaus-basel.ch
 sexhaus.ch
 sexhealth.ch
-sexheftli.ch
 sexheuteabend.ch
 sexhibition.ch
 sexhilfe.ch
