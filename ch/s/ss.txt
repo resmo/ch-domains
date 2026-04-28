@@ -8,7 +8,6 @@ ss-car.ch
 ss-carrental.ch
 ss-clean.ch
 ss-design.ch
-ss-e-motors.ch
 ss-elektro.ch
 ss-funkservice.ch
 ss-g.ch
@@ -96,6 +95,7 @@ ssangyong-zaugg.ch
 ssangyong.ch
 ssap.ch
 ssapm.ch
+ssapp.ch
 ssaprimarbl.ch
 ssar.ch
 ssarch.ch
@@ -517,6 +517,7 @@ sshrs.ch
 sshs.ch
 sshslu.ch
 ssht.ch
+sshub.ch
 sshv.ch
 sshvaud.ch
 sshwil.ch
@@ -823,6 +824,7 @@ sso-urschweiz.ch
 sso-uw.ch
 sso-valais.ch
 sso-vaud.ch
+sso-vd.ch
 sso-waadt.ch
 sso-wallis.ch
 sso-zahnaerzte.ch

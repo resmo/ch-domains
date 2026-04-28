@@ -893,7 +893,6 @@ spacebase.ch
 spacebasel.ch
 spacebay.ch
 spacebetween.ch
-spacebetweenthoughts.ch
 spacebluecloud.ch
 spacebok.ch
 spacebook.ch
@@ -2248,7 +2247,6 @@ spare-praemien.ch
 spare-ribs.ch
 spare-steuern.ch
 spare.ch
-spareau.ch
 sparecash.ch
 spareconsulting.ch
 sparefare.ch
@@ -3522,7 +3520,6 @@ spcafe.ch
 spcag.ch
 spcal.ch
 spcalibration.ch
-spcarrosserie.ch
 spcars.ch
 spcbank.ch
 spcbasel.ch
@@ -5324,6 +5321,7 @@ spehrag.ch
 spei-ics.ch
 spei.ch
 speibi.ch
+speich-bau-garten.ch
 speich-consulting.ch
 speich-metall.ch
 speich-sailing.ch
@@ -7189,6 +7187,8 @@ spider-med.ch
 spider-peaks.ch
 spider-service.ch
 spider-swiss.ch
+spider-web.ch
+spider-webdesign.ch
 spider-work.ch
 spider-works.ch
 spider.ch
@@ -7708,6 +7708,7 @@ spielermail.ch
 spielerpass.ch
 spielerplus.ch
 spielers.ch
+spielerschmiede.ch
 spielerschutz.ch
 spielertransfer.ch
 spielervermittler.ch
@@ -8443,6 +8444,7 @@ spielgruppenjobs.ch
 spielgruppenkoeniz.ch
 spielgruppenlead.ch
 spielgruppenoberwinterthur.ch
+spielgruppenplaner.ch
 spielgruppenportal.ch
 spielgruppenremise.ch
 spielgruppenseen.ch
@@ -8797,6 +8799,7 @@ spielplatzerstellung.ch
 spielplatzfachbetrieb.ch
 spielplatzfachkraft.ch
 spielplatzfallschutz.ch
+spielplatzfest.ch
 spielplatzfilme.ch
 spielplatzfreude.ch
 spielplatzgeraet.ch
@@ -12037,6 +12040,7 @@ spitex-kanton-zueri.ch
 spitex-kanton-zuerich.ch
 spitex-kanton-zuri.ch
 spitex-kanton-zurich.ch
+spitex-kardia.ch
 spitex-karriere.ch
 spitex-karte.ch
 spitex-kath.ch
@@ -12904,6 +12908,7 @@ spitexkaiseraugst.ch
 spitexkaisten.ch
 spitexkappel.ch
 spitexkappelamalbis.ch
+spitexkardia.ch
 spitexkarte.ch
 spitexkaufmann.ch
 spitexkempt.ch
@@ -13623,6 +13628,7 @@ splashbox-switzerland.ch
 splashbox.ch
 splashcar.ch
 splashcats.ch
+splashcoins.ch
 splashcom.ch
 splashcommunications.ch
 splashcosmetiques.ch
@@ -16781,7 +16787,6 @@ sportprozent.ch
 sportprozente.ch
 sportps.ch
 sportpsy.ch
-sportpsych.ch
 sportpsyche.ch
 sportpsychiater.ch
 sportpsychiatrie-praxis.ch
@@ -16790,7 +16795,6 @@ sportpsychologe.ch
 sportpsychologie-coaching.ch
 sportpsychologie-mm.ch
 sportpsychologie-schubert.ch
-sportpsychologie-schweiz.ch
 sportpsychologie-testung.ch
 sportpsychologie.ch
 sportpsychologiezuerich.ch
@@ -18028,7 +18032,6 @@ sportzeducations.ch
 sportzeit.ch
 sportzeitmessung.ch
 sportzeitung.ch
-sportzen.ch
 sportzentrale.ch
 sportzentren-schweiz.ch
 sportzentrum-allmeind-einsiedeln.ch
@@ -18247,6 +18250,7 @@ spots.ch
 spotscan.ch
 spotsearch.ch
 spotsessions.ch
+spotshop.ch
 spotsion.ch
 spotsonscreen.ch
 spotssen.ch
@@ -20553,8 +20557,6 @@ spurlegen.ch
 spurlos.ch
 spurmacher.ch
 spurmart.ch
-spurmaus.ch
-spurmeise.ch
 spurn.ch
 spurn3800.ch
 spurnase.ch

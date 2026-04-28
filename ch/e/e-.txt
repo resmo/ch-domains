@@ -792,6 +792,7 @@ e-core.ch
 e-corner.ch
 e-corp.ch
 e-corporatenews.ch
+e-corthay.ch
 e-costinha.ch
 e-cosystem.ch
 e-coteaufleuri.ch
@@ -2606,7 +2607,6 @@ e-registerauskunft.ch
 e-registerauszug.ch
 e-registry.ch
 e-regsearch.ch
-e-rehab.ch
 e-reisen.ch
 e-relief.ch
 e-rem.ch
@@ -2711,8 +2711,6 @@ e-sammelstellen.ch
 e-sample.ch
 e-san.ch
 e-sane.ch
-e-sankt-moritz-foundation.ch
-e-sanktmoritz-foundation.ch
 e-sanpool.ch
 e-sante-securite.ch
 e-sapiens.ch
@@ -2944,9 +2942,7 @@ e-stellenmarkt.ch
 e-steuern.ch
 e-stim.ch
 e-stimate.ch
-e-stmoritz-foundation.ch
 e-stmoritz.ch
-e-stmoritzfoundation.ch
 e-stock.ch
 e-stoma.ch
 e-storage.ch

@@ -354,6 +354,7 @@ my-compact-home.ch
 my-company.ch
 my-complaint.ch
 my-compta.ch
+my-concierge.ch
 my-conciergerie.ch
 my-connect.ch
 my-conseils.ch
@@ -2717,7 +2718,6 @@ mybeckman.ch
 mybed.ch
 mybednbreakfast.ch
 mybee.ch
-mybeef.ch
 mybeef3.ch
 mybeefclub.ch
 mybeelight.ch
@@ -2893,7 +2893,6 @@ mybingo.ch
 mybini.ch
 mybio.ch
 mybiobalance.ch
-mybioclean.ch
 mybiodiversity.ch
 mybiofood.ch
 mybiogas.ch
@@ -4131,7 +4130,6 @@ mycredit24.ch
 mycreditdata.ch
 mycredits.ch
 mycredits24.ch
-mycreditscore.ch
 mycredo.ch
 mycreed.ch
 mycreperie.ch
@@ -4220,7 +4218,6 @@ mycv4job.ch
 mycvci.ch
 mycvcloud.ch
 mycvhub.ch
-mycvvideo.ch
 mycwat.ch
 mycwp.ch
 mycwt.ch
@@ -6036,6 +6033,7 @@ myhealthbank.ch
 myhealthbook.ch
 myhealthcard.ch
 myhealthcare.ch
+myhealthcheck.ch
 myhealthcity.ch
 myhealthcloud.ch
 myhealthcoach.ch
@@ -7664,6 +7662,7 @@ mymeca.ch
 mymech.ch
 mymechanic.ch
 mymed.ch
+mymedcockpit.ch
 mymedconnect.ch
 mymeddiary.ch
 mymeddossier.ch
@@ -9123,6 +9122,7 @@ myppcmetrics.ch
 myppm.ch
 mypqm.ch
 mypractice.ch
+mypraesenz.ch
 mypraevmedic.ch
 mypraline.ch
 mypralines.ch
@@ -9873,7 +9873,6 @@ mysaas.ch
 mysaasfee.ch
 mysabrinadb.ch
 mysackgeldjob.ch
-mysaess.ch
 mysafarihome.ch
 mysafe.ch
 mysafeadmin.ch
@@ -10719,7 +10718,6 @@ mystery-butler.ch
 mystery-eater.ch
 mystery-entertainment.ch
 mystery-escaperoom.ch
-mystery-game.ch
 mystery-games.ch
 mystery-guest.ch
 mystery-hikes.ch
@@ -11401,6 +11399,7 @@ mytable.ch
 mytables.ch
 mytablet.ch
 mytabletop.ch
+mytablo.ch
 mytaboo.ch
 mytac.ch
 mytaca.ch
@@ -11702,6 +11701,7 @@ mythermostar.ch
 mythersa.ch
 mythesa.ch
 mythesaintgothard.ch
+mythesetlegendes.ch
 mythesis.ch
 mytheum.ch
 mythic-study.ch
@@ -11910,6 +11910,7 @@ mytradingswiss.ch
 mytraffic.ch
 mytrail.ch
 mytrail3d.ch
+mytrailblazer.ch
 mytrailmix.ch
 mytrails.ch
 mytrainer.ch
