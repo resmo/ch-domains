@@ -1555,6 +1555,7 @@ ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
+ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -2075,7 +2076,6 @@ ns1.ictpark.ch
 ns1.icx23.ch
 ns1.icxnet.ch
 ns1.idbois.ch
-ns1.idfx-online.ch
 ns1.ie5.ch
 ns1.ievolution.ch
 ns1.ievs.ch
@@ -2591,7 +2591,6 @@ ns1.mobi-net.ch
 ns1.mobidick.ch
 ns1.modellbau-technik.ch
 ns1.modern-it.ch
-ns1.modunity.ch
 ns1.moebel-meier-brugg.ch
 ns1.moebelkamber.ch
 ns1.moerikofer.ch
@@ -2728,11 +2727,9 @@ ns1.newsbit.ch
 ns1.newsletter-email-service24.ch
 ns1.newsroom-magazin.ch
 ns1.newtechcloud.ch
-ns1.nexaai.ch
 ns1.nexanet.ch
 ns1.nexe.ch
 ns1.nexgate.ch
-ns1.nexus-network.ch
 ns1.nexxos.ch
 ns1.nfcinside.ch
 ns1.nicliotta-hosting.ch
@@ -2777,7 +2774,6 @@ ns1.nuth.ch
 ns1.nuvia-gmbh.ch
 ns1.nvweb.ch
 ns1.nx-schweiz.ch
-ns1.nxs-fm.ch
 ns1.nxtlvl.ch
 ns1.nyon2014.ch
 ns1.o0b.ch
@@ -3125,7 +3121,6 @@ ns1.remasec.ch
 ns1.remote-working.ch
 ns1.rennstallschachen.ch
 ns1.rerecord.ch
-ns1.rescuecommand.ch
 ns1.rescueone.ch
 ns1.restaurant-la-vallee.ch
 ns1.restaurant-laversoix.ch
@@ -4066,7 +4061,6 @@ ns1848.patriot.ch
 ns1848.patriota.ch
 ns1902.mspa.ch
 ns2-ext.unibas.ch
-ns2-extern.css.ch
 ns2.0091.ch
 ns2.0304.ch
 ns2.0800freecall.ch
@@ -4888,6 +4882,7 @@ ns2.dur.ch
 ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
+ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5392,7 +5387,6 @@ ns2.ictpark.ch
 ns2.icx23.ch
 ns2.icxnet.ch
 ns2.idbois.ch
-ns2.idfx-online.ch
 ns2.idiap.ch
 ns2.ie5.ch
 ns2.ievolution.ch
@@ -5885,7 +5879,6 @@ ns2.mncjobs.ch
 ns2.mobi-net.ch
 ns2.mobidick.ch
 ns2.modern-it.ch
-ns2.modunity.ch
 ns2.moebel-meier-brugg.ch
 ns2.moebelkamber.ch
 ns2.moerikofer.ch
@@ -6011,11 +6004,9 @@ ns2.newkids.ch
 ns2.newonline.ch
 ns2.newsletter-email-service24.ch
 ns2.newsroom-magazin.ch
-ns2.nexaai.ch
 ns2.nexanet.ch
 ns2.nexe.ch
 ns2.nexgate.ch
-ns2.nexus-network.ch
 ns2.nexxos.ch
 ns2.nfcinside.ch
 ns2.nicliotta-hosting.ch
@@ -6055,7 +6046,6 @@ ns2.nuth.ch
 ns2.nuvia-gmbh.ch
 ns2.nvweb.ch
 ns2.nx-schweiz.ch
-ns2.nxs-fm.ch
 ns2.nxtlvl.ch
 ns2.nyon2014.ch
 ns2.oapublishing.ch
@@ -6388,7 +6378,6 @@ ns2.remarkt.ch
 ns2.remote-working.ch
 ns2.rennstallschachen.ch
 ns2.rerecord.ch
-ns2.rescuecommand.ch
 ns2.rescueone.ch
 ns2.restaurant-la-vallee.ch
 ns2.restaurant-laversoix.ch

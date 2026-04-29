@@ -1734,12 +1734,14 @@ agent-du-changement.ch
 agent-engineering.ch
 agent-fabrik.ch
 agent-factory.ch
+agent-fi.ch
 agent-ia-receptionniste.ch
 agent-ia.ch
 agent-immo.ch
 agent-immobilier.ch
 agent-intelligent.ch
 agent-job.ch
+agent-jobs.ch
 agent-juridique-brevete.ch
 agent-juridique.ch
 agent-maintenance.ch
@@ -1765,6 +1767,7 @@ agent-transfer-shield.ch
 agent-uu3.ch
 agent-vauban.ch
 agent-wood.ch
+agent-work.ch
 agent-workflow.ch
 agent-workflows.ch
 agent-you-own.ch
@@ -1792,6 +1795,7 @@ agentaudit.ch
 agentax.ch
 agentbeauty.ch
 agentben.ch
+agentboard.ch
 agentbot.ch
 agentbrain.ch
 agentbuilder.ch
@@ -1867,6 +1871,7 @@ agentic-document-processing.ch
 agentic-engineering.ch
 agentic-enterprise.ch
 agentic-erp.ch
+agentic-jobs.ch
 agentic-kmu.ch
 agentic-lab.ch
 agentic-marketplace.ch
@@ -1897,6 +1902,7 @@ agenticerp.ch
 agenticexperiencedesign.ch
 agenticflow.ch
 agenticinsights.ch
+agenticjobs.ch
 agenticlabs.ch
 agenticmanager.ch
 agenticmarketplace.ch
@@ -1944,6 +1950,8 @@ agentix.ch
 agentixlabs.ch
 agentixservices.ch
 agentiz.ch
+agentjob.ch
+agentjobs.ch
 agentjuridique.ch
 agentjuridiquebrevete.ch
 agentki.ch
@@ -1960,6 +1968,7 @@ agentmail.ch
 agentmanagementacademy.ch
 agentmanagementinstitute.ch
 agentmanagementschool.ch
+agentmarket.ch
 agentmat.ch
 agentmedia.ch
 agentmediabox.ch
@@ -2413,7 +2422,6 @@ agenziacreativa.ch
 agenziadeluca.ch
 agenziadicollocamento.ch
 agenziadilavoro.ch
-agenziaduna.ch
 agenziaeventibellinzona.ch
 agenziaeventichiasso.ch
 agenziaeventilocarno.ch
@@ -3976,7 +3984,6 @@ agozar.ch
 agp-analytics.ch
 agp-blvk.ch
 agp-finance.ch
-agp-geissler.ch
 agp-m.ch
 agp-management.ch
 agp-pfaeffikon.ch
@@ -4505,6 +4512,7 @@ agricolturamozzini.ch
 agricolturasociale.ch
 agricoluturadeoliveira.ch
 agricom.ch
+agricompact.ch
 agricon.ch
 agriconnect.ch
 agriconomie.ch
@@ -4521,6 +4529,7 @@ agriculteurs.ch
 agricultura-regeneratio.ch
 agricultura-valmuestair.ch
 agricultura.ch
+agricultural.ch
 agriculturalreport.ch
 agriculturavalmuestair.ch
 agriculture-durable-geneve.ch

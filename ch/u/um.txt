@@ -1438,6 +1438,7 @@ umziehen-basel.ch
 umziehen-bern.ch
 umziehen-biel.ch
 umziehen-in-schaffhausen.ch
+umziehen-in-zuerich.ch
 umziehen-kloten.ch
 umziehen-melden.ch
 umziehen-nach-schaffhausen.ch
@@ -1590,6 +1591,8 @@ umzug-interlaken.ch
 umzug-international.ch
 umzug-juengling.ch
 umzug-jura.ch
+umzug-kanton-zug.ch
+umzug-kosten-sparen.ch
 umzug-kosten.ch
 umzug-kriens.ch
 umzug-langenthal.ch
@@ -1662,6 +1665,7 @@ umzug-team.ch
 umzug-tg.ch
 umzug-thun.ch
 umzug-thun365.ch
+umzug-tiefpreis.ch
 umzug-tiger.ch
 umzug-tiptop.ch
 umzug-toggenburg.ch
@@ -1693,6 +1697,7 @@ umzug-zuerich-crm.ch
 umzug-zuerich.ch
 umzug-zuerich24.ch
 umzug-zuerich365.ch
+umzug-zum-tiefpreis.ch
 umzug.ch
 umzug1.ch
 umzug123.ch
@@ -1860,6 +1865,7 @@ umzugs-heroes.ch
 umzugs-hilfe.ch
 umzugs-kalkulator.ch
 umzugs-kisten-mieten.ch
+umzugs-kosten.ch
 umzugs-lager.ch
 umzugs-logistik.ch
 umzugs-makler.ch
@@ -2001,6 +2007,7 @@ umzugsfirma-herzogenbuchsee.ch
 umzugsfirma-horgen.ch
 umzugsfirma-huttwil.ch
 umzugsfirma-in-aarau.ch
+umzugsfirma-in-aargau.ch
 umzugsfirma-in-basel.ch
 umzugsfirma-in-bern.ch
 umzugsfirma-in-biel.ch
@@ -2015,6 +2022,7 @@ umzugsfirma-in-lyss.ch
 umzugsfirma-in-meiner-naehe.ch
 umzugsfirma-in-muensingen.ch
 umzugsfirma-in-olten.ch
+umzugsfirma-in-schaffhausen.ch
 umzugsfirma-in-solothurn.ch
 umzugsfirma-in-stgallen.ch
 umzugsfirma-in-thun.ch
@@ -2023,6 +2031,12 @@ umzugsfirma-in-zuerich.ch
 umzugsfirma-in-zug.ch
 umzugsfirma-info.ch
 umzugsfirma-interlaken.ch
+umzugsfirma-kanton-aargau.ch
+umzugsfirma-kanton-schaffhausen.ch
+umzugsfirma-kanton-stgallen.ch
+umzugsfirma-kanton-thurgau.ch
+umzugsfirma-kanton-zuerich.ch
+umzugsfirma-kanton-zug.ch
 umzugsfirma-kilchberg.ch
 umzugsfirma-kosten.ch
 umzugsfirma-kreuzlingen.ch
@@ -2227,6 +2241,7 @@ umzugskoenig-zuerich.ch
 umzugskoenig.ch
 umzugskoordinator.ch
 umzugskosten-berechnen.ch
+umzugskosten-rechnen.ch
 umzugskosten-rechner.ch
 umzugskosten-sparen.ch
 umzugskosten.ch
@@ -2272,6 +2287,7 @@ umzugsofferten-schweiz.ch
 umzugsofferten-vergleichen.ch
 umzugsofferten.ch
 umzugsofferten24.ch
+umzugsofferten365.ch
 umzugsoffertenvergleichen.ch
 umzugsoffertenzuerich.ch
 umzugsoffertezuerich.ch
@@ -2292,8 +2308,12 @@ umzugsplus.ch
 umzugspool.ch
 umzugsportal.ch
 umzugspower.ch
+umzugspreis-berechnen.ch
 umzugspreis-check.ch
+umzugspreis-rechnen.ch
+umzugspreis.ch
 umzugspreischeck.ch
+umzugspreise.ch
 umzugspreisvergleich.ch
 umzugsprofi.ch
 umzugsprofi24.ch
