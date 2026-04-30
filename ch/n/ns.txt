@@ -382,7 +382,6 @@ ns.publicompserver.ch
 ns.pwxs.ch
 ns.pylonsoft.ch
 ns.qlktech.ch
-ns.qubits.ch
 ns.raus-mit-der-wahrheit.ch
 ns.ravana.ch
 ns.rdcm.ch
@@ -1429,6 +1428,7 @@ ns1.delic-it.ch
 ns1.delic.ch
 ns1.delit.ch
 ns1.dellacasameride.ch
+ns1.delta-hosting.ch
 ns1.deltasrv.ch
 ns1.deltateam.ch
 ns1.delweb.ch
@@ -1555,7 +1555,6 @@ ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
-ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -3070,7 +3069,6 @@ ns1.qualityandvalue.ch
 ns1.quantsulting.ch
 ns1.quanttrend.ch
 ns1.quantum-consulting.ch
-ns1.qubits.ch
 ns1.quick-net.ch
 ns1.quick2web.ch
 ns1.qwery.ch
@@ -3518,7 +3516,6 @@ ns1.swissdigit.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
-ns1.swisshipec.ch
 ns1.swisshostserver.ch
 ns1.swissirc.ch
 ns1.swissitcare.ch
@@ -3783,7 +3780,6 @@ ns1.wambo.ch
 ns1.wanon.ch
 ns1.waren-treuhand.ch
 ns1.wasabi2go.ch
-ns1.waser-solutions.ch
 ns1.watcheo.ch
 ns1.wayray.ch
 ns1.wbportal.ch
@@ -4774,6 +4770,7 @@ ns2.delic-it.ch
 ns2.delic.ch
 ns2.delit.ch
 ns2.dellacasameride.ch
+ns2.delta-hosting.ch
 ns2.deltasrv.ch
 ns2.deltateam.ch
 ns2.deluk.ch
@@ -4882,7 +4879,6 @@ ns2.dur.ch
 ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
-ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -6334,7 +6330,6 @@ ns2.qualityandvalue.ch
 ns2.quantsulting.ch
 ns2.quanttrend.ch
 ns2.quantum-consulting.ch
-ns2.qubits.ch
 ns2.quick-net.ch
 ns2.quick2web.ch
 ns2.qwery.ch
@@ -6768,7 +6763,6 @@ ns2.swissdigit.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
-ns2.swisshipec.ch
 ns2.swisshostserver.ch
 ns2.swissinform.ch
 ns2.swissirc.ch
@@ -7030,7 +7024,6 @@ ns2.wambo.ch
 ns2.wanon.ch
 ns2.waren-treuhand.ch
 ns2.wasabi2go.ch
-ns2.waser-solutions.ch
 ns2.watcheo.ch
 ns2.wbportal.ch
 ns2.wbz.ch
@@ -7992,7 +7985,6 @@ ns3.vr-technics.ch
 ns3.w-4.ch
 ns3.w3design.ch
 ns3.waly.ch
-ns3.waser-solutions.ch
 ns3.webcom-system.ch
 ns3.webcom-systems.ch
 ns3.webhostings.ch
