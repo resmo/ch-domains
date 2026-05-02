@@ -411,8 +411,6 @@ black-rider.ch
 black-ridge.ch
 black-river.ch
 black-rocket.ch
-black-roof-solar.ch
-black-roof.ch
 black-room.ch
 black-rose.ch
 black-roses.ch
@@ -1121,7 +1119,9 @@ blacklucky9.ch
 blackluna.ch
 blacklur.ch
 blacklurch.ch
+blacklux-transfer.ch
 blacklux.ch
+blackluxury-transfer.ch
 blackm.ch
 blackmac.ch
 blackmagic.ch
@@ -1955,6 +1955,7 @@ blaisevauthey.ch
 blaive.ch
 blaja.ch
 blaju.ch
+blak.ch
 blakagl.ch
 blakaj.ch
 blakat.ch
@@ -2025,6 +2026,7 @@ blanc-sa.ch
 blanc-tailleur.ch
 blanc-webdesign.ch
 blanc.ch
+blanca-aesthetics.ch
 blanca-bruggmann.ch
 blanca-dementiacare.ch
 blanca-sa.ch
@@ -4915,7 +4917,6 @@ blikebeer.ch
 bliki.ch
 blikisdorf.ch
 blikk.ch
-blikol.ch
 blilck.ch
 blilex.ch
 blili.ch
@@ -6070,7 +6071,6 @@ blockcontrol.ch
 blockcraft.ch
 blockcrs.ch
 blockdag.ch
-blockdata.ch
 blockdesign.ch
 blockdev.ch
 blocked-account.ch
@@ -7033,6 +7033,7 @@ bloomrocket.ch
 bloomroom.ch
 blooms.ch
 bloomsandbliss.ch
+bloomsandbubbles.ch
 bloomsbook.ch
 bloomserver.ch
 bloomsforyou.ch
@@ -7606,7 +7607,6 @@ blue-action.ch
 blue-activity.ch
 blue-adria.ch
 blue-advisor.ch
-blue-agency.ch
 blue-agile.ch
 blue-aid-festival.ch
 blue-aid-lucerne.ch
@@ -7957,7 +7957,6 @@ blueadvisor.ch
 blueaero.ch
 blueaeronautic.ch
 blueagave.ch
-blueagency.ch
 blueagile.ch
 blueagri.ch
 blueagro.ch
@@ -10852,7 +10851,6 @@ blumenschmuck.ch
 blumenschneebeli.ch
 blumenschweiz.ch
 blumenschweizer.ch
-blumenschwitter.ch
 blumenseife.ch
 blumenseifen.ch
 blumenselberschneiden.ch

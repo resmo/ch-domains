@@ -224,7 +224,6 @@ pc-mg.ch
 pc-michel.ch
 pc-michi.ch
 pc-miete.ch
-pc-mieten.ch
 pc-modding.ch
 pc-neftenbach.ch
 pc-netto.ch
@@ -671,6 +670,7 @@ pce.ch
 pce5lacs.ch
 pcedition.ch
 pceducation.ch
+pcelderhelper.ch
 pcelectric.ch
 pcem-christen.ch
 pcengel.ch
@@ -1363,6 +1363,7 @@ pcwyler.ch
 pcx.ch
 pcxpert.ch
 pcy.ch
+pcycle.ch
 pcz.ch
 pczeitung.ch
 pczen.ch

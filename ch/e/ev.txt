@@ -2293,7 +2293,6 @@ event4fun.ch
 event4gstaad.ch
 event4kids-partyshop.ch
 event4kids.ch
-event4pro.ch
 event4rent.ch
 event4saanenland.ch
 event4simmental.ch
@@ -3010,7 +3009,6 @@ eventlocation-koeniz.ch
 eventlocation-loew.ch
 eventlocation-luzern.ch
 eventlocation-mieten.ch
-eventlocation-naehe-bern.ch
 eventlocation-paradeplatz.ch
 eventlocation-roessli.ch
 eventlocation-sektor11.ch
@@ -3039,7 +3037,6 @@ eventlokal-altetonhalle.ch
 eventlokal-award.ch
 eventlokal-basel.ch
 eventlokal-bern.ch
-eventlokal-koeniz.ch
 eventlokal-luzern.ch
 eventlokal-mieten.ch
 eventlokal-moschti.ch
@@ -5062,7 +5059,6 @@ evmutschellen.ch
 evn-art.ch
 evn-direct.ch
 evn.ch
-evnart.ch
 evnb.ch
 evneuchatel.ch
 evnh.ch
@@ -5972,6 +5968,7 @@ evotrix.ch
 evotrust.ch
 evou.ch
 evoucher.ch
+evouettes.ch
 evounce.ch
 evoundso.ch
 evoura.ch

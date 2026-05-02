@@ -202,6 +202,7 @@ e-bail.ch
 e-bakery.ch
 e-balance.ch
 e-ball.ch
+e-balls.ch
 e-balmer.ch
 e-balmergmbh.ch
 e-bam.ch
@@ -744,6 +745,7 @@ e-comp.ch
 e-compactus.ch
 e-competence.ch
 e-compliance.ch
+e-comptabilite.ch
 e-comsult.ch
 e-comtrust.ch
 e-con-gmbh.ch
@@ -2369,6 +2371,7 @@ e-piq.ch
 e-piranha.ch
 e-piscine.ch
 e-pkw.ch
+e-pla.ch
 e-place.ch
 e-plan.ch
 e-planag.ch
@@ -2740,6 +2743,7 @@ e-scm.ch
 e-sco.ch
 e-scool.ch
 e-scoot.ch
+e-scooter-check.ch
 e-scooter-pannenhilfe.ch
 e-scooter-shop.ch
 e-scooter-sion.ch
@@ -3155,6 +3159,7 @@ e-tron.ch
 e-tronwerkstatt.ch
 e-trotti.ch
 e-trottinett-check.ch
+e-trottinett-und-e-scooter-check.ch
 e-trottinett-und-escooter-check.ch
 e-trottinett.ch
 e-trottinette-sion.ch
@@ -3301,7 +3306,6 @@ e-vorsorge.ch
 e-vorsorgeauftrag.ch
 e-vorsorgeausweis.ch
 e-vorsorgen.ch
-e-vortrag.ch
 e-vote-moratorium.ch
 e-vote.ch
 e-votes.ch

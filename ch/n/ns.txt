@@ -891,7 +891,6 @@ ns1.asc-neuchatel.ch
 ns1.ascodata.ch
 ns1.ascotech.ch
 ns1.asdf.ch
-ns1.ashfin.ch
 ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
@@ -1373,6 +1372,7 @@ ns1.cybstar.ch
 ns1.cyma-hosting.ch
 ns1.cynatic.ch
 ns1.cyon.ch
+ns1.cyprovider.ch
 ns1.cypulse.ch
 ns1.d-solutions.ch
 ns1.dalco.ch
@@ -2210,6 +2210,7 @@ ns1.itkb.ch
 ns1.itoa.ch
 ns1.itprime.ch
 ns1.itrain.ch
+ns1.itresolver.ch
 ns1.itsieber.ch
 ns1.itsk.ch
 ns1.itzh.ch
@@ -3355,6 +3356,7 @@ ns1.sirupzone.ch
 ns1.sisnet.ch
 ns1.sixcom.ch
 ns1.sixhosts.ch
+ns1.sk-online.ch
 ns1.skcomputing.ch
 ns1.ski-bergtouren.ch
 ns1.skilled.ch
@@ -3513,6 +3515,7 @@ ns1.swissdigit.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
+ns1.swisshipec.ch
 ns1.swisshostserver.ch
 ns1.swissirc.ch
 ns1.swissitcare.ch
@@ -3527,6 +3530,7 @@ ns1.swissphilanthropyacademy.ch
 ns1.swissplaza.ch
 ns1.swissteddy.ch
 ns1.swisstrans.ch
+ns1.swizzonicmail.ch
 ns1.sws-hosting.ch
 ns1.sxn.ch
 ns1.symple.ch
@@ -3636,6 +3640,7 @@ ns1.topwimpernserum.ch
 ns1.tortiegidio.ch
 ns1.tournelaroue.ch
 ns1.tousdescons.ch
+ns1.toutypasse.ch
 ns1.tozoo.ch
 ns1.tr-webdesign.ch
 ns1.traber-web.ch
@@ -4243,7 +4248,6 @@ ns2.ascotech.ch
 ns2.asdf.ch
 ns2.asebo.ch
 ns2.asecus.ch
-ns2.ashfin.ch
 ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
@@ -4716,6 +4720,7 @@ ns2.cybstar.ch
 ns2.cyma-hosting.ch
 ns2.cynatic.ch
 ns2.cyon.ch
+ns2.cyprovider.ch
 ns2.cypulse.ch
 ns2.d-solutions.ch
 ns2.dalco.ch
@@ -5512,6 +5517,7 @@ ns2.itkb.ch
 ns2.itoa.ch
 ns2.itprime.ch
 ns2.itrain.ch
+ns2.itresolver.ch
 ns2.itsk.ch
 ns2.itu.ch
 ns2.itzh.ch
@@ -5731,7 +5737,6 @@ ns2.lu.ch
 ns2.luba-project.ch
 ns2.lucca-safenwil.ch
 ns2.lucky-thai.ch
-ns2.luginbuhl.ch
 ns2.luma-it.ch
 ns2.luna-doro-nettoyage-demenagement.ch
 ns2.luzerncity.ch
@@ -6603,6 +6608,7 @@ ns2.sirupzone.ch
 ns2.sisnet.ch
 ns2.sixcom.ch
 ns2.sixhosts.ch
+ns2.sk-online.ch
 ns2.skcomputing.ch
 ns2.ski-bergtouren.ch
 ns2.skinheads.ch
@@ -6757,6 +6763,7 @@ ns2.swissdigit.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
+ns2.swisshipec.ch
 ns2.swisshostserver.ch
 ns2.swissinform.ch
 ns2.swissirc.ch
@@ -6776,6 +6783,7 @@ ns2.swissvon.ch
 ns2.switch.ch
 ns2.switzerland-hosting.ch
 ns2.swix.ch
+ns2.swizzonicmail.ch
 ns2.sws-hosting.ch
 ns2.symple.ch
 ns2.syntax-agency.ch

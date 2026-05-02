@@ -76,7 +76,6 @@ qr-pack-pme.ch
 qr-page.ch
 qr-papier.ch
 qr-pay.ch
-qr-pdf.ch
 qr-pme.ch
 qr-portal.ch
 qr-postfinance.ch
@@ -146,6 +145,7 @@ qralvoyages.ch
 qrantz.ch
 qrare.ch
 qrat.ch
+qrator.ch
 qraudio.ch
 qraum.ch
 qrauth.ch
@@ -226,6 +226,7 @@ qreatixx.ch
 qreator.ch
 qreceipt.ch
 qrechnung.ch
+qrecs.ch
 qred.ch
 qredit.ch
 qredy.ch
@@ -244,6 +245,7 @@ qreservation.ch
 qresto.ch
 qrevent.ch
 qrew.ch
+qrex.ch
 qrf.ch
 qrface.ch
 qrfacture.ch
@@ -337,7 +339,6 @@ qrpapier.ch
 qrpass.ch
 qrpay.ch
 qrpayment.ch
-qrpdf.ch
 qrpedia.ch
 qrpeople.ch
 qrpinternational.ch
