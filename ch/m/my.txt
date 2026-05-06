@@ -1055,6 +1055,7 @@ my-loyalty.ch
 my-lpp.ch
 my-lucas.ch
 my-lucerne.ch
+my-luethi.ch
 my-luna.ch
 my-lunch-card.ch
 my-lunch-check.ch
@@ -1721,6 +1722,7 @@ my-swissonline.ch
 my-swissphone.ch
 my-swisspor.ch
 my-swisspost.ch
+my-swisstours.ch
 my-switzerland.ch
 my-swopper.ch
 my-swyx.ch
@@ -1737,6 +1739,7 @@ my-tag.ch
 my-tags.ch
 my-tailor.ch
 my-takko.ch
+my-talent-booster.ch
 my-talent.ch
 my-talents.ch
 my-tangram.ch
@@ -2240,6 +2243,7 @@ myalimony.ch
 myaliron.ch
 myall-lake.ch
 myall.ch
+myalles.ch
 myalli.ch
 myallianz.ch
 myallmarine.ch
@@ -3726,6 +3730,8 @@ myclark.ch
 myclaro.ch
 myclaryn.ch
 myclass.ch
+myclassic.ch
+myclassiccar.ch
 myclassiccarlife.ch
 myclassiccharter.ch
 myclassicflight.ch
@@ -6061,6 +6067,7 @@ myheart.ch
 myheartforyou.ch
 myheartgmbh.ch
 myheartrun.ch
+myhearttravels.ch
 myheat.ch
 myheavygo.ch
 myhebamme.ch
@@ -6475,6 +6482,7 @@ myimpo.ch
 myimport.ch
 myimpressions.ch
 myimpulse-schweiz.ch
+myimpulse-swiss.ch
 myimpulse.ch
 myinbox.ch
 myindia.ch
@@ -7186,7 +7194,6 @@ mylifecoachfriend.ch
 mylifecoin.ch
 mylifediabetescare.ch
 mylifedirect.ch
-mylifeforbooks.ch
 mylifegestion.ch
 mylifeincars.ch
 mylifejob.ch
@@ -7831,6 +7838,7 @@ mymivoa.ch
 mymix.ch
 mymmm.ch
 mymms.ch
+mymo-live.ch
 mymo.ch
 mymobi.ch
 mymobil.ch
@@ -8366,6 +8374,7 @@ myokardinfarkt.ch
 myoki.ch
 myokin.ch
 myokko.ch
+myokla.ch
 myokmobile.ch
 myokoclubzermatt.ch
 myokozermatt.ch
@@ -8928,7 +8937,6 @@ mypika.ch
 mypilates.ch
 mypilatesbarre.ch
 mypilatescare.ch
-mypilatesjura.ch
 mypilatesplus.ch
 mypilatesroom.ch
 mypilatus.ch
@@ -9357,7 +9365,6 @@ myquickys.ch
 myquietswisslife.ch
 myquilt.ch
 myquilts.ch
-myquinoa.ch
 myquintessence.ch
 myquintet.ch
 myquipment.ch
@@ -10226,7 +10233,6 @@ myshortstory.ch
 myshot.ch
 myshots.ch
 myshoulderdoc.ch
-myshow.ch
 myshowreel.ch
 myshowroom.ch
 myshowroomprive.ch
@@ -11346,6 +11352,7 @@ myswisstool.ch
 myswisstour.ch
 myswisstourguide.ch
 myswisstourism.ch
+myswisstours.ch
 myswisstransfer.ch
 myswisstravel.ch
 myswisstrek.ch
@@ -11428,6 +11435,7 @@ mytakeaway.ch
 mytakko-fashion.ch
 mytakko.ch
 mytalent.ch
+mytalentbooster.ch
 mytalents.ch
 mytalentsdirect.ch
 mytalk.ch
@@ -11798,7 +11806,6 @@ mytify.ch
 mytiguido.ch
 mytihome.ch
 mytihomebuilding.ch
-mytihomesagl.ch
 mytika.ch
 mytiki.ch
 mytile-guide.ch
@@ -11949,6 +11956,7 @@ mytravelgpt.ch
 mytravelguide.ch
 mytravelhouse.ch
 mytravelimpressions.ch
+mytraveling.ch
 mytravelist.ch
 mytravelland.ch
 mytravellog.ch
@@ -12658,7 +12666,6 @@ myworktime.ch
 myworkwear.ch
 myworld-lts.ch
 myworld-luxurytravelservices.ch
-myworld-schweiz.ch
 myworld.ch
 myworldesign.ch
 myworldisyours.ch

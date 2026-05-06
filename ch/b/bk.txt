@@ -5,6 +5,7 @@ bk-app.ch
 bk-arch.ch
 bk-architekten.ch
 bk-architektur.ch
+bk-artbau.ch
 bk-atelier.ch
 bk-atlantis-stiftung.ch
 bk-atlantis.ch
@@ -151,10 +152,12 @@ bkb-academy.ch
 bkb-armierungen.ch
 bkb-box.ch
 bkb-cler.ch
+bkb-customer.ch
 bkb-derivate.ch
 bkb-direct.ch
 bkb-easy-trading.ch
 bkb-easytrading.ch
+bkb-gestion.ch
 bkb-homescan.ch
 bkb-i.ch
 bkb-intern.ch
@@ -380,6 +383,7 @@ bkmetall.ch
 bkmetallbau.ch
 bkmetallform.ch
 bkmf.ch
+bkmf2024.ch
 bkmi.ch
 bkms-system.ch
 bkmt.ch

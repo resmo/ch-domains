@@ -3165,6 +3165,7 @@ gleis-2.ch
 gleis-3.ch
 gleis-5.ch
 gleis-b.ch
+gleis-drei.ch
 gleis-eis.ch
 gleis-herisau.ch
 gleis-jass.ch
@@ -3951,7 +3952,6 @@ glitsch.ch
 glitschi.ch
 glitter-centroestetico.ch
 glitter-creations.ch
-glitter-dealer.ch
 glitter-plastic.ch
 glitter-smuggler.ch
 glitter.ch
@@ -3959,7 +3959,6 @@ glitterandglamour.ch
 glitterbox.ch
 glittercola.ch
 glittercreations.ch
-glitterdealer.ch
 glitterfairy.ch
 glitterfee.ch
 glitterine.ch
@@ -4118,9 +4117,15 @@ gloar-immo.ch
 gloawyn.ch
 glob-al.ch
 glob-alp.ch
+glob-charpente.ch
+glob-energie.ch
+glob-facade.ch
 glob-heb.ch
+glob-media.ch
+glob-mesuiserie.ch
 glob-solar.ch
 glob-sped.ch
+glob-toiture.ch
 glob3d.ch
 glob4pets.ch
 globacar.ch
@@ -4940,6 +4945,7 @@ globalknowledge-academy.ch
 globalknowledge.ch
 globalknowledgeacademy.ch
 globalkravmaga.ch
+globall-group.ch
 globall-solar.ch
 globall-toiture.ch
 globall.ch
@@ -6717,6 +6723,7 @@ glowschool.ch
 glowscout.ch
 glowscreen.ch
 glowsen.ch
+glowshine.ch
 glowshop.ch
 glowsigns.ch
 glowsip.ch
@@ -6836,6 +6843,7 @@ glpfund.ch
 glpg.ch
 glpgcapital.ch
 glpi.ch
+glpills.ch
 glpk.ch
 glplab.ch
 glplabnutrition.ch
