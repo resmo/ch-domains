@@ -138,8 +138,10 @@ hs-trafo.ch
 hs-treuhand.ch
 hs-tuning.ch
 hs-tunnel-engineering.ch
+hs-u-kollegen.ch
 hs-uni.ch
 hs-uri.ch
+hs-versicherung.ch
 hs-verwaltung.ch
 hs-viplimoservice.ch
 hs-ware.ch
@@ -566,6 +568,8 @@ hskgmbh.ch
 hskl.ch
 hskm.ch
 hsknigge.ch
+hskoll.ch
+hskollegen.ch
 hskollektion.ch
 hskswiss.ch
 hskventures.ch

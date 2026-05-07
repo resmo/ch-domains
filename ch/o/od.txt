@@ -169,7 +169,6 @@ odbsystem.ch
 odc-band.ch
 odc.ch
 odcdn.ch
-odco.ch
 odconseils.ch
 odconstructions.ch
 odcs.ch
@@ -745,6 +744,7 @@ odoo-logistique.ch
 odoo-lohnbuchhaltung.ch
 odoo-magento-connector.ch
 odoo-mathelpc.ch
+odoo-migration.ch
 odoo-neuchatel.ch
 odoo-on-demand.ch
 odoo-ondemand.ch
@@ -981,6 +981,7 @@ odysseeswiss.ch
 odysseevs.ch
 odysseia.ch
 odyssein.ch
+odyssence.ch
 odyssera.ch
 odysseus-bodensee-charter.ch
 odysseus-reisen.ch

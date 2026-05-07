@@ -373,7 +373,6 @@ im-zoo.ch
 im03.ch
 im1.ch
 im16ni.ch
-im2.ch
 im2c.ch
 im2o.ch
 im3.ch
@@ -2784,6 +2783,7 @@ immaterialgueterrecht.ch
 immaterielle-kultur.ch
 immaterielles-kulturerbe.ch
 immaterielleserbe.ch
+immaterielleskulturerbe-ag-so.ch
 immaterielleskulturerbe.ch
 immatics.ch
 immatriculation.ch
@@ -2954,6 +2954,7 @@ immerimmobilien.ch
 immerjetzt.ch
 immerlacht.ch
 immerleichter.ch
+immero.ch
 immeroffen.ch
 immeronline.ch
 immerplay.ch
@@ -3643,6 +3644,9 @@ immo-hfm.ch
 immo-hilfe.ch
 immo-hirsig.ch
 immo-hirt.ch
+immo-hoch-2.ch
+immo-hoch-zwei.ch
+immo-hoch2.ch
 immo-hochuli.ch
 immo-hofer.ch
 immo-hofmann.ch
@@ -3937,6 +3941,7 @@ immo-phone.ch
 immo-photos.ch
 immo-pi.ch
 immo-pilatus.ch
+immo-pix.ch
 immo-pixel.ch
 immo-pixels.ch
 immo-place.ch
@@ -5056,7 +5061,6 @@ immobilien-crm.ch
 immobilien-crowdinvest.ch
 immobilien-darlehen.ch
 immobilien-datenbank.ch
-immobilien-davinci.ch
 immobilien-davosplatz.ch
 immobilien-decornalin.ch
 immobilien-deltadelebro.ch
@@ -8438,6 +8442,7 @@ immopilot.ch
 immopink.ch
 immopionier.ch
 immopiste.ch
+immopix.ch
 immopixel.ch
 immopixels.ch
 immopixx.ch
@@ -8602,7 +8607,6 @@ immoq.ch
 immoqear.ch
 immoqi.ch
 immoqualis.ch
-immoquality.ch
 immoquant.ch
 immoqueens.ch
 immoquest-sarl.ch
@@ -9831,13 +9835,9 @@ immunologe.ch
 immunologie-allergologie-paiano.ch
 immunologie-klinik.ch
 immunologie-morges.ch
-immunologie-schweiz.ch
-immunologie-suisse.ch
 immunologie-zentrum.ch
 immunologie.ch
 immunologieklinik.ch
-immunologieschweiz.ch
-immunologiesuisse.ch
 immunologin.ch
 immunology-and-modelling.ch
 immunologyresearch.ch
@@ -10316,6 +10316,7 @@ impact-recruitment.ch
 impact-relation.ch
 impact-report.ch
 impact-rh.ch
+impact-roundtable.ch
 impact-rp.ch
 impact-sa.ch
 impact-sante.ch
@@ -11438,7 +11439,9 @@ importadoracorazza.ch
 importadossaporitalia.ch
 importakustik.ch
 importamiri.ch
+important-bagatelles.ch
 important.ch
+importantbagatelles.ch
 importantcargotraffic.ch
 importantpourvous.ch
 importas.ch
@@ -11624,7 +11627,6 @@ impots-geneve.ch
 impots-help.ch
 impots-jr.ch
 impots-jura.ch
-impots-justes.ch
 impots-ne.ch
 impots-neuchatel.ch
 impots-online.ch
@@ -12205,7 +12207,6 @@ improvelife.ch
 improvement-group.ch
 improvement.ch
 improvementgroup.ch
-improvemyhealth.ch
 improvemyprofile.ch
 improveon.ch
 improvesa.ch

@@ -1352,7 +1352,6 @@ ns1.cs2.ch
 ns1.cscs.ch
 ns1.cshug.ch
 ns1.csl-tools.ch
-ns1.cste.ch
 ns1.cuandu.ch
 ns1.cubic.ch
 ns1.cundn.ch
@@ -2328,6 +2327,7 @@ ns1.kpcs.ch
 ns1.krak.ch
 ns1.krea-ns.ch
 ns1.kreativloft-shop.ch
+ns1.kreator2.ch
 ns1.ksb.ch
 ns1.kscag.ch
 ns1.ksso.ch
@@ -2744,7 +2744,6 @@ ns1.noflow.ch
 ns1.nofun.ch
 ns1.noise.ch
 ns1.nonancoraincinta.ch
-ns1.nonsolopittura.ch
 ns1.nopixel.ch
 ns1.noraliqueurs.ch
 ns1.nordlandweb.ch
@@ -4700,7 +4699,6 @@ ns2.cs2.ch
 ns2.cscs.ch
 ns2.cshug.ch
 ns2.csl-tools.ch
-ns2.cste.ch
 ns2.cuandu.ch
 ns2.cubic.ch
 ns2.cundn.ch
@@ -5635,6 +5633,7 @@ ns2.krak.ch
 ns2.krea-ns.ch
 ns2.kreativloft-shop.ch
 ns2.kreativmedia.ch
+ns2.kreator2.ch
 ns2.kriz.ch
 ns2.kulturbau.ch
 ns2.kulturpark.ch
@@ -6018,7 +6017,6 @@ ns2.nodom.ch
 ns2.nogadata.ch
 ns2.noise.ch
 ns2.nolink.ch
-ns2.nonsolopittura.ch
 ns2.nopixel.ch
 ns2.noraliqueurs.ch
 ns2.nordlandweb.ch
