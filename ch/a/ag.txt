@@ -1746,6 +1746,7 @@ agent-job.ch
 agent-jobs.ch
 agent-juridique-brevete.ch
 agent-juridique.ch
+agent-loop.ch
 agent-maintenance.ch
 agent-media.ch
 agent-of-change.ch
@@ -1970,6 +1971,7 @@ agentlane.ch
 agentleman.ch
 agentli.ch
 agentlog.ch
+agentloop.ch
 agently.ch
 agentmacher.ch
 agentmail.ch

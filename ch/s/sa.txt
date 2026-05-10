@@ -3558,7 +3558,6 @@ safe-repair.ch
 safe-returns.ch
 safe-ride.ch
 safe-road.ch
-safe-sa.ch
 safe-schweiz.ch
 safe-scout24.ch
 safe-sear.ch
@@ -6656,6 +6655,7 @@ saison-job.ch
 saison-kalender.ch
 saison-kueche.ch
 saison-link.ch
+saison-nettoyage.ch
 saison-obst.ch
 saison-rezepte.ch
 saison-stelle.ch
@@ -6976,6 +6976,7 @@ sakezuerich.ch
 sakforum.ch
 sakheizplan.ch
 sakheizplansolar.ch
+sakho-isolierungen.ch
 saki.ch
 sakia.ch
 sakicyoki.ch
@@ -8119,6 +8120,7 @@ salesmountain.ch
 salesnavigator.ch
 salesnavigators.ch
 salesnet.ch
+salesnews.ch
 salesoffice.ch
 salesofservices.ch
 salesolution.ch
@@ -9262,6 +9264,7 @@ salonemira.ch
 salonemodart.ch
 salonen.ch
 salonenaty.ch
+salonenergetiquedivinatoire.ch
 saloneo.ch
 saloneover50.ch
 salonepia.ch
@@ -10002,13 +10005,11 @@ saltwatertank.ch
 saltwateryoga.ch
 saltway2.ch
 saltworld.ch
-salty-affair.ch
 salty-crew.ch
 salty-dog.ch
 salty-wind.ch
 salty.ch
 saltyacht.ch
-saltyaffair.ch
 saltyandfree.ch
 saltyandwild.ch
 saltybeauty.ch
@@ -13595,7 +13596,6 @@ samuell-immo.ch
 samuellang.ch
 samuellanz.ch
 samuelleber.ch
-samuellei.ch
 samueller.ch
 samuellerch.ch
 samuelletsch.ch
@@ -14004,6 +14004,7 @@ sana-sano.ch
 sana-search.ch
 sana-secura.ch
 sana-shop.ch
+sana-ssapm.ch
 sana-ste.ch
 sana-store.ch
 sana-suisse-med.ch
@@ -16053,7 +16054,6 @@ sandro-mueller.ch
 sandro-nafzger.ch
 sandro-oldani.ch
 sandro-paris.ch
-sandro-photography.ch
 sandro-raess.ch
 sandro-risi.ch
 sandro-rodrigues.ch
@@ -17040,6 +17040,7 @@ sanic.ch
 sanicalor.ch
 sanicalorpro.ch
 sanicanal.ch
+sanicaplus.ch
 sanicar.ch
 sanicare.ch
 sanichassis.ch
@@ -17770,7 +17771,6 @@ sanitairemorges.ch
 sanitaireneuchatel.ch
 sanitairenyon.ch
 sanitaireplus.ch
-sanitairerenens.ch
 sanitairerolle.ch
 sanitaires-chauffage-fribourg.ch
 sanitaires-chauffage.ch
@@ -18780,7 +18780,6 @@ santafarina.ch
 santafee.ch
 santafilomena.ch
 santafin.ch
-santafixie.ch
 santaflavia.ch
 santaflores.ch
 santag.ch
@@ -20071,6 +20070,7 @@ saphnelo.ch
 sapho.ch
 saphorakosmetik.ch
 saphotography.ch
+saphran.ch
 saphre.ch
 saphrina.ch
 saphris.ch
@@ -23428,6 +23428,7 @@ satnamsociety.ch
 satnamstudio.ch
 satnav.ch
 satnavengineering.ch
+satnet.ch
 satnews.ch
 sato-app.ch
 sato-code.ch
