@@ -239,6 +239,7 @@ ds3.ch
 ds32.ch
 ds3crossback.ch
 ds3d.ch
+ds4-abbruch.ch
 ds4.ch
 ds4s.ch
 ds5.ch
@@ -1121,7 +1122,6 @@ dstransfer.ch
 dstrategy.ch
 dstrau.ch
 dstreet-jazz.ch
-dstreet.ch
 dstress.ch
 dstriathlon.ch
 dstrict.ch

@@ -545,7 +545,6 @@ ns01.auriga.ch
 ns01.beintouch.ch
 ns01.blizzdns.ch
 ns01.cardcenter.ch
-ns01.chez-bernard.ch
 ns01.clik.ch
 ns01.dand.ch
 ns01.dnshw.ch
@@ -610,7 +609,6 @@ ns02.auriga.ch
 ns02.beintouch.ch
 ns02.blizzdns.ch
 ns02.cardcenter.ch
-ns02.chez-bernard.ch
 ns02.clik.ch
 ns02.dand.ch
 ns02.dnshw.ch
@@ -753,6 +751,7 @@ ns1.ackle.ch
 ns1.acloud.ch
 ns1.actim.ch
 ns1.action-photography.ch
+ns1.activex.ch
 ns1.actradns.ch
 ns1.adastraweb.ch
 ns1.adbw.ch
@@ -927,7 +926,6 @@ ns1.awt-digital.ch
 ns1.awt-werbeagentur.ch
 ns1.axanet.ch
 ns1.axber.ch
-ns1.axespme.ch
 ns1.aximlemoose.ch
 ns1.axiveda-hosting.ch
 ns1.axnet.ch
@@ -2287,6 +2285,7 @@ ns1.kiku.ch
 ns1.kinali.ch
 ns1.kinaxag.ch
 ns1.kinderbackstube.ch
+ns1.kinderohnerechte.ch
 ns1.kinet.ch
 ns1.kirchenweb.ch
 ns1.kirtz.ch
@@ -2683,6 +2682,7 @@ ns1.nedlox.ch
 ns1.nejak.ch
 ns1.nemsoft.ch
 ns1.neo.ch
+ns1.nessi-locarno.ch
 ns1.net-admin.ch
 ns1.netact.ch
 ns1.netauftritt.ch
@@ -2754,6 +2754,7 @@ ns1.novaci-conseil.ch
 ns1.novamanaged.ch
 ns1.novaweb.ch
 ns1.novicomag.ch
+ns1.nox-club.ch
 ns1.nr1.ch
 ns1.ns-hamilton.ch
 ns1.ns-weeber.ch
@@ -4112,6 +4113,7 @@ ns2.ackle.ch
 ns2.acloud.ch
 ns2.actim.ch
 ns2.action-photography.ch
+ns2.activex.ch
 ns2.actradns.ch
 ns2.adastraweb.ch
 ns2.adbw.ch
@@ -4287,7 +4289,6 @@ ns2.awt-digital.ch
 ns2.awt-werbeagentur.ch
 ns2.axanet.ch
 ns2.axecib.ch
-ns2.axespme.ch
 ns2.aximlemoose.ch
 ns2.axiveda-hosting.ch
 ns2.axnet.ch
@@ -5965,6 +5966,7 @@ ns2.nedlox.ch
 ns2.nejak.ch
 ns2.nemsoft.ch
 ns2.neo.ch
+ns2.nessi-locarno.ch
 ns2.net-admin.ch
 ns2.netauftritt.ch
 ns2.netbit.ch
@@ -6028,6 +6030,7 @@ ns2.novahosting.ch
 ns2.novamanaged.ch
 ns2.novaweb.ch
 ns2.novicomag.ch
+ns2.nox-club.ch
 ns2.nr1.ch
 ns2.ns-weeber.ch
 ns2.ns4you.ch
@@ -8463,6 +8466,7 @@ nsagarantie.ch
 nsagencement.ch
 nsagency.ch
 nsam.ch
+nsandalibrairie.ch
 nsante.ch
 nsaonline.ch
 nsarchitectes.ch
