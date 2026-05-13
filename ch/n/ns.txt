@@ -2261,7 +2261,6 @@ ns1.jumedia.ch
 ns1.jvogel.ch
 ns1.jvweb.ch
 ns1.kaesgate.ch
-ns1.kajendran.ch
 ns1.kantiso.ch
 ns1.kaplan.ch
 ns1.kappelergastro.ch
@@ -2287,6 +2286,7 @@ ns1.kinaxag.ch
 ns1.kinderbackstube.ch
 ns1.kinderohnerechte.ch
 ns1.kinet.ch
+ns1.kinoexil.ch
 ns1.kirchenweb.ch
 ns1.kirtz.ch
 ns1.kitgmbh.ch
@@ -5572,7 +5572,6 @@ ns2.jumedia.ch
 ns2.jvogel.ch
 ns2.jvweb.ch
 ns2.kaesgate.ch
-ns2.kajendran.ch
 ns2.kaminbau-oswald.ch
 ns2.kantiso.ch
 ns2.kaplan.ch
@@ -5599,6 +5598,7 @@ ns2.kinali.ch
 ns2.kinaxag.ch
 ns2.kinderbackstube.ch
 ns2.kinet.ch
+ns2.kinoexil.ch
 ns2.kirchenweb.ch
 ns2.kirtz.ch
 ns2.kitgmbh.ch
@@ -7987,6 +7987,7 @@ ns3.virtualhosts.ch
 ns3.viseca.ch
 ns3.visionunit.ch
 ns3.vivanet.ch
+ns3.vneko.ch
 ns3.volleyuntervaz.ch
 ns3.vr-technics.ch
 ns3.w-4.ch
