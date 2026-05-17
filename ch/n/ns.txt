@@ -1960,7 +1960,6 @@ ns1.help144.ch
 ns1.helsana.ch
 ns1.helvpost.ch
 ns1.henryw.ch
-ns1.herbstfriede.ch
 ns1.herisau-internet.ch
 ns1.herzogdemeuron.ch
 ns1.hess-treuhand.ch
@@ -2731,6 +2730,7 @@ ns1.newtechcloud.ch
 ns1.nexanet.ch
 ns1.nexe.ch
 ns1.nexgate.ch
+ns1.nexusstate.ch
 ns1.nexxos.ch
 ns1.nfcinside.ch
 ns1.nicliotta-hosting.ch
@@ -3417,7 +3417,6 @@ ns1.spinnerundweber40.ch
 ns1.spocap.ch
 ns1.sponsoring24.ch
 ns1.spreng.ch
-ns1.sprngt.ch
 ns1.sputniks.ch
 ns1.spyapp.ch
 ns1.sry-myls.ch
@@ -3516,7 +3515,6 @@ ns1.swissdruck24.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
-ns1.swisshipec.ch
 ns1.swisshostserver.ch
 ns1.swissirc.ch
 ns1.swissitcare.ch
@@ -5025,6 +5023,7 @@ ns2.familiezingg.ch
 ns2.famille-arm.ch
 ns2.familleoggier.ch
 ns2.fantasticservices.ch
+ns2.farmaciainternazionale.ch
 ns2.fasnachts-comite.ch
 ns2.fastfoodclub.ch
 ns2.fattorie-aperte.ch
@@ -5277,7 +5276,6 @@ ns2.help144.ch
 ns2.helsana.ch
 ns2.helvpost.ch
 ns2.henryw.ch
-ns2.herbstfriede.ch
 ns2.herisau-internet.ch
 ns2.hess-treuhand.ch
 ns2.hessundmartigmbh.ch
@@ -6010,6 +6008,7 @@ ns2.newsroom-magazin.ch
 ns2.nexanet.ch
 ns2.nexe.ch
 ns2.nexgate.ch
+ns2.nexusstate.ch
 ns2.nexxos.ch
 ns2.nfcinside.ch
 ns2.nicliotta-hosting.ch
@@ -6675,7 +6674,6 @@ ns2.spinnerundweber40.ch
 ns2.spocap.ch
 ns2.sponsoring24.ch
 ns2.sprachnachweis.ch
-ns2.sprngt.ch
 ns2.sputniks.ch
 ns2.sry-myls.ch
 ns2.sscloud.ch
@@ -6768,7 +6766,6 @@ ns2.swissdruck24.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
-ns2.swisshipec.ch
 ns2.swisshostserver.ch
 ns2.swissinform.ch
 ns2.swissirc.ch

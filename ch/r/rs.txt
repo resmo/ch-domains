@@ -522,7 +522,6 @@ rsd-data.ch
 rsd-equipements.ch
 rsd-gmbh.ch
 rsd-industrie.ch
-rsd-industry.ch
 rsd-management.ch
 rsd-niederbipp.ch
 rsd-oberhofen.ch
@@ -535,8 +534,6 @@ rsd-sicherheitsdienst.ch
 rsd-sumiswald.ch
 rsd-suspension.ch
 rsd-suspensions.ch
-rsd-technic.ch
-rsd-technik.ch
 rsd-technique.ch
 rsd.ch
 rsda-online.ch
