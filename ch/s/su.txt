@@ -1415,7 +1415,6 @@ suchtberatung-region-wil.ch
 suchtberatung-tg.ch
 suchtberatung-wuethrich.ch
 suchtberatung-zh.ch
-suchtberatung-zuerich.ch
 suchtberatung.ch
 suchtberatung55.ch
 suchtberatungen.ch
@@ -1433,7 +1432,6 @@ suchtfachleute.ch
 suchtfachstelle-am-see.ch
 suchtfachstelle-sg.ch
 suchtfachstelle-zh.ch
-suchtfachstelle-zuerich.ch
 suchtfachstelle.ch
 suchtfachstelleamsee.ch
 suchtfachstellezuerich.ch
@@ -1449,7 +1447,6 @@ suchthilfe-ost.ch
 suchthilfe-rorschach.ch
 suchthilfe-schweiz.ch
 suchthilfe-stgallen.ch
-suchthilfe-zuerich.ch
 suchthilfe.ch
 suchthilfeplus.ch
 suchthufa.ch
@@ -2219,7 +2216,6 @@ suez.ch
 suezcanal-collection.ch
 suezo.ch
 suf.ch
-sufa-zuerich.ch
 sufa.ch
 sufag.ch
 sufam.ch
@@ -3026,6 +3022,7 @@ suisse-digital-lab.ch
 suisse-digital-labs.ch
 suisse-digital.ch
 suisse-diplome.ch
+suisse-direct.ch
 suisse-dna.ch
 suisse-domain.ch
 suisse-domiciliation.ch
@@ -3042,6 +3039,7 @@ suisse-egalite.ch
 suisse-egov.ch
 suisse-electricite.ch
 suisse-electrosensible.ch
+suisse-email.ch
 suisse-emex.ch
 suisse-emploi.ch
 suisse-en-alpinisme.ch
@@ -3094,6 +3092,7 @@ suisse-floor.ch
 suisse-fonds.ch
 suisse-food.ch
 suisse-formation.ch
+suisse-forms.ch
 suisse-forte.ch
 suisse-fries.ch
 suisse-frog.ch
@@ -3211,8 +3210,10 @@ suisse-materiel-medical.ch
 suisse-maurice.ch
 suisse-med.ch
 suisse-medical.ch
+suisse-meet.ch
 suisse-mem.ch
 suisse-memo.ch
+suisse-mesh.ch
 suisse-mlc.ch
 suisse-mobilite.ch
 suisse-moi.ch
@@ -3285,6 +3286,7 @@ suisse-police.ch
 suisse-pompeachaleur.ch
 suisse-portugal.ch
 suisse-poschiavo.ch
+suisse-post.ch
 suisse-power.ch
 suisse-pr.ch
 suisse-premium.ch
@@ -3318,8 +3320,6 @@ suisse-retraite.ch
 suisse-risk.ch
 suisse-riviera-business.ch
 suisse-robot.ch
-suisse-robotic.ch
-suisse-robotics.ch
 suisse-robots.ch
 suisse-romande-assurance.ch
 suisse-romande-assurances-sa.ch
@@ -3382,11 +3382,14 @@ suisse-switzerland-schweiz.ch
 suisse-systems.ch
 suisse-t.ch
 suisse-talent.ch
+suisse-talk.ch
+suisse-tasks.ch
 suisse-tattoo-geneve.ch
 suisse-tattoo.ch
 suisse-tax.ch
 suisse-taxi.ch
 suisse-taxis.ch
+suisse-teams.ch
 suisse-tec.ch
 suisse-tente.ch
 suisse-terrain.ch
@@ -4318,7 +4321,6 @@ suisserex.ch
 suisserexcapital.ch
 suisseride.ch
 suisserisk.ch
-suisserobotic.ch
 suisseromand.ch
 suisseromande-ayurveda.ch
 suisseromande-surpoids.ch
@@ -5760,6 +5762,7 @@ summitadvisorpartners.ch
 summitaekwondo.ch
 summitaesthetics.ch
 summitag.ch
+summitandco.ch
 summitandfly.ch
 summitandstem.ch
 summitas-group.ch
@@ -6486,6 +6489,7 @@ sundiscount.ch
 sundiscounter.ch
 sundj.ch
 sundk.ch
+sundkheiraten.ch
 sundl.ch
 sundlauenen-am-jakobsweg.ch
 sundlauenen-thunersee.ch
@@ -10496,6 +10500,8 @@ supplyx.ch
 supplyzory.ch
 suppmania.ch
 suppoint.ch
+suppora.ch
+supporadaily.ch
 supporama.ch
 support-4-it.ch
 support-4-u.ch
@@ -13102,7 +13108,6 @@ susformers.ch
 sush2o.ch
 sushain.ch
 susheiniger.ch
-sushi-acasa.ch
 sushi-and-bowl.ch
 sushi-association.ch
 sushi-at-home.ch
@@ -13211,7 +13216,6 @@ sushibar-yamasaki.ch
 sushibar.ch
 sushibasel.ch
 sushibassersdorf.ch
-sushibellinzona.ch
 sushibern.ch
 sushibestellen.ch
 sushibike.ch
@@ -13300,7 +13304,6 @@ sushilounge.ch
 sushiloungechur.ch
 sushilover.ch
 sushilovers.ch
-sushiluganese.ch
 sushima.ch
 sushimail.ch
 sushimaison.ch
@@ -13311,7 +13314,6 @@ sushimania.ch
 sushimanufaktur.ch
 sushimaster.ch
 sushimedia.ch
-sushimendrisiotto.ch
 sushimesser.ch
 sushimetropole.ch
 sushimiyazaki.ch
