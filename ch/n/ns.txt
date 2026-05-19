@@ -1621,6 +1621,7 @@ ns1.emation.ch
 ns1.emilfrey.ch
 ns1.emmewebhosting.ch
 ns1.emmi.ch
+ns1.emovencia.ch
 ns1.endl.ch
 ns1.englishagogo.ch
 ns1.engstringen.ch
@@ -1859,6 +1860,7 @@ ns1.globus.ch
 ns1.gloeggli.ch
 ns1.gluc.ch
 ns1.glweb.ch
+ns1.glycoscore.ch
 ns1.gmacg.ch
 ns1.gmailtours.ch
 ns1.gmlss1.ch
@@ -1959,6 +1961,7 @@ ns1.hello-it.ch
 ns1.help-point.ch
 ns1.help144.ch
 ns1.helsana.ch
+ns1.helvetiprint3d.ch
 ns1.helvitiprint3d.ch
 ns1.helvpost.ch
 ns1.henryw.ch
@@ -2216,6 +2219,7 @@ ns1.itzh.ch
 ns1.iuks.ch
 ns1.iuz.ch
 ns1.iworkforyou.ch
+ns1.ixcloud.ch
 ns1.iz-computer.ch
 ns1.izcomputer.ch
 ns1.jaald.ch
@@ -2660,6 +2664,7 @@ ns1.myhostpart.ch
 ns1.myhostplus.ch
 ns1.mymeme.ch
 ns1.myrtillabox.ch
+ns1.myserverpanel.ch
 ns1.n3network.ch
 ns1.n3t.ch
 ns1.nabiona.ch
@@ -4949,6 +4954,7 @@ ns2.emation.ch
 ns2.emilfrey.ch
 ns2.emmewebhosting.ch
 ns2.emmi.ch
+ns2.emovencia.ch
 ns2.endl.ch
 ns2.englishagogo.ch
 ns2.engstringen.ch
@@ -5183,6 +5189,7 @@ ns2.globalnetsystem.ch
 ns2.globalpower.ch
 ns2.globus.ch
 ns2.glweb.ch
+ns2.glycoscore.ch
 ns2.gmacg.ch
 ns2.gmailtours.ch
 ns2.gmlss1.ch
@@ -5278,6 +5285,7 @@ ns2.hello-it.ch
 ns2.help-point.ch
 ns2.help144.ch
 ns2.helsana.ch
+ns2.helvetiprint3d.ch
 ns2.helvitiprint3d.ch
 ns2.helvpost.ch
 ns2.henryw.ch
@@ -5530,6 +5538,7 @@ ns2.itzh.ch
 ns2.iuks.ch
 ns2.iuz.ch
 ns2.iworkforyou.ch
+ns2.ixcloud.ch
 ns2.iz-computer.ch
 ns2.izcomputer.ch
 ns2.jaald.ch
@@ -5951,6 +5960,7 @@ ns2.myhostpart.ch
 ns2.myhostplus.ch
 ns2.mymeme.ch
 ns2.myrtillabox.ch
+ns2.myserverpanel.ch
 ns2.n3network.ch
 ns2.n3t.ch
 ns2.nabiona.ch
@@ -7546,6 +7556,7 @@ ns3.glaun.ch
 ns3.globaldns.ch
 ns3.globonet.ch
 ns3.globus.ch
+ns3.glycoscore.ch
 ns3.gmlss1.ch
 ns3.goeldi.ch
 ns3.goldingerit.ch
@@ -7726,6 +7737,7 @@ ns3.my-namaste.ch
 ns3.mydns4you.ch
 ns3.mydnsnet.ch
 ns3.myhostpart.ch
+ns3.myserverpanel.ch
 ns3.mywebhost.ch
 ns3.n3network.ch
 ns3.nabiona.ch
@@ -8210,6 +8222,7 @@ ns4.ms-swiss.ch
 ns4.msa-net.ch
 ns4.musikzielke.ch
 ns4.my-namaste.ch
+ns4.myserverpanel.ch
 ns4.mywebhost.ch
 ns4.namemaster.ch
 ns4.navacoaching.ch

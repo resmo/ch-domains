@@ -167,6 +167,7 @@ ch-es-reicht.ch
 ch-es.ch
 ch-estate.ch
 ch-events.ch
+ch-evignette.ch
 ch-evote.ch
 ch-evoting.ch
 ch-f.ch
@@ -2005,6 +2006,7 @@ chalet-ideal.ch
 chalet-idylka.ch
 chalet-igeli.ch
 chalet-im-ahorn.ch
+chalet-im-gaessli.ch
 chalet-im-moos.ch
 chalet-im-rach.ch
 chalet-in-bellwald.ch
@@ -2808,7 +2810,6 @@ chaletpalace.ch
 chaletpanorama.ch
 chaletpanoramagstaad.ch
 chaletpapillon.ch
-chaletparadise.ch
 chaletparahyangan.ch
 chaletpark-edelweiss.ch
 chaletpark-rona.ch
@@ -6762,6 +6763,7 @@ chasaguarda.ch
 chasahubertus.ch
 chasajaura.ch
 chasajrena.ch
+chasalba.ch
 chasallegria.ch
 chasamelchior.ch
 chasamina.ch
@@ -8242,6 +8244,7 @@ chaviar.ch
 chaville.ch
 chaviolas.ch
 chavjoh.ch
+chavo-immo.ch
 chavoir.ch
 chavonnes.ch
 chavornay-terminal.ch
@@ -9656,6 +9659,7 @@ cheguevara.ch
 chehab.ch
 cheib.ch
 cheibe-guet.ch
+cheibe.ch
 cheibechoge.ch
 cheibegaudi.ch
 cheibeglatt.ch
@@ -11138,7 +11142,6 @@ cheval-loisir.ch
 cheval-loisirs.ch
 cheval-mediateur.ch
 cheval-mediation.ch
-cheval-miroir.ch
 cheval-montsoleil.ch
 cheval-nature.ch
 cheval-par-coeur.ch
@@ -13800,7 +13803,6 @@ chillgeo.ch
 chillglobal.ch
 chillgrill.ch
 chillguy.ch
-chillhead.ch
 chillhill.ch
 chillhouse.ch
 chilli-bar.ch
@@ -15734,6 +15736,7 @@ chisound.ch
 chispa-firedance.ch
 chispa.ch
 chispasupport.ch
+chispirit.ch
 chissgroup.ch
 chissihuis.ch
 chiste.ch
@@ -18099,6 +18102,7 @@ choros.ch
 chorosonor.ch
 chorplus.ch
 chorpodeste.ch
+chorportal.ch
 chorprobe.ch
 chorprojekt-ennetbuergen.ch
 chorprojekt-schaffhausen.ch
@@ -19195,7 +19199,6 @@ chrispkobler.ch
 chrispolus.ch
 chrisport.ch
 chrisquickhands.ch
-chrisr.ch
 chrisrau.ch
 chrisraw.ch
 chrisrc.ch
@@ -21960,6 +21963,7 @@ christophecastella.ch
 christophecattaneo.ch
 christopheclaret.ch
 christopheclivaz.ch
+christophecomte.ch
 christopheconstantin.ch
 christophedamas.ch
 christophedarbellay.ch
@@ -22655,6 +22659,7 @@ chronarte.ch
 chronator.ch
 chronautic.ch
 chronax.ch
+chronaxis.ch
 chronbx.ch
 chrondel.ch
 chrondesk.ch
@@ -23327,6 +23332,7 @@ chsun.ch
 chsunier.ch
 chsupplies.ch
 chsupport.ch
+chsurvey.ch
 chsutter.ch
 chsw.ch
 chswisstech.ch
