@@ -703,7 +703,6 @@ vsp-asrp.ch
 vsp-bl.ch
 vsp-f.ch
 vsp-fsec.ch
-vsp-go.ch
 vsp-group.ch
 vsp-pcdo.ch
 vsp-so.ch

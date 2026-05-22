@@ -72,6 +72,7 @@ b-arena.ch
 b-arpagaus.ch
 b-art-b.ch
 b-art-design.ch
+b-art-flachdach.ch
 b-art.ch
 b-assurances.ch
 b-at.ch
@@ -110,7 +111,6 @@ b-baumanagement.ch
 b-baumgartner.ch
 b-baumpflege.ch
 b-bauphysik.ch
-b-bauplan.ch
 b-bauplanung.ch
 b-baut.ch
 b-bb.ch
@@ -739,6 +739,7 @@ b-rice.ch
 b-rightshore.ch
 b-rightsource.ch
 b-rime.ch
+b-rise.ch
 b-road.ch
 b-robotized.ch
 b-rock-i.ch

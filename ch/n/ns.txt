@@ -1255,11 +1255,13 @@ ns1.cloud-dns.ch
 ns1.cloudcluster.ch
 ns1.cloudcrown.ch
 ns1.clouddns.ch
+ns1.cloudflex.ch
 ns1.cloudler.ch
 ns1.cloudnode.ch
 ns1.cloudscale.ch
 ns1.cloudstudios.ch
 ns1.cloudwalkers.ch
+ns1.clubmailer.ch
 ns1.cmdlc.ch
 ns1.cmshost.ch
 ns1.cmsonline.ch
@@ -2677,6 +2679,7 @@ ns1.namemaster.ch
 ns1.namesrv.ch
 ns1.nano-lash.ch
 ns1.nanolash.ch
+ns1.nardiellos.ch
 ns1.nasser.ch
 ns1.nast.ch
 ns1.nativenet.ch
@@ -2851,6 +2854,7 @@ ns1.ossio.ch
 ns1.otterstaetter.ch
 ns1.ouf2toi.ch
 ns1.out.ch
+ns1.overrea.ch
 ns1.ovx.ch
 ns1.owcd.ch
 ns1.owebdesign.ch
@@ -3065,7 +3069,6 @@ ns1.pyropac.ch
 ns1.pyxis.ch
 ns1.qboys.ch
 ns1.qid.ch
-ns1.qit-cloud.ch
 ns1.qlns.ch
 ns1.qnetcore.ch
 ns1.qsv.ch
@@ -3641,6 +3644,7 @@ ns1.tonio-service.ch
 ns1.tools4ever.ch
 ns1.toon.ch
 ns1.topdns.ch
+ns1.topdomain.ch
 ns1.topway.ch
 ns1.topwimpernseren.ch
 ns1.topwimpernserum.ch
@@ -3988,6 +3992,7 @@ ns1.zen-rollers.ch
 ns1.zenis.ch
 ns1.zenvoo.ch
 ns1.zerspanungspartner.ch
+ns1.zetadev.ch
 ns1.zh.hostbin.ch
 ns1.zhaw.ch
 ns1.zhbsd.ch
@@ -4608,12 +4613,14 @@ ns2.cloud-dns.ch
 ns2.cloudcluster.ch
 ns2.cloudcrown.ch
 ns2.clouddns.ch
+ns2.cloudflex.ch
 ns2.cloudler.ch
 ns2.cloudnode.ch
 ns2.cloudox.ch
 ns2.cloudscale.ch
 ns2.cloudstudios.ch
 ns2.cloudwalkers.ch
+ns2.clubmailer.ch
 ns2.cluster3.ch
 ns2.clweb.ch
 ns2.cmb.ch
@@ -5970,6 +5977,7 @@ ns2.naissances.ch
 ns2.namesrv.ch
 ns2.nano-lash.ch
 ns2.nanolash.ch
+ns2.nardiellos.ch
 ns2.nativenet.ch
 ns2.navacoaching.ch
 ns2.nawotop.ch
@@ -6130,6 +6138,7 @@ ns2.otterstaetter.ch
 ns2.ouf2toi.ch
 ns2.out.ch
 ns2.outback.ch
+ns2.overrea.ch
 ns2.ovx.ch
 ns2.owcd.ch
 ns2.owebdesign.ch
@@ -6337,7 +6346,6 @@ ns2.pyropac.ch
 ns2.pyxis.ch
 ns2.qboys.ch
 ns2.qid.ch
-ns2.qit-cloud.ch
 ns2.qlns.ch
 ns2.qnetcore.ch
 ns2.qsv.ch
@@ -6900,6 +6908,7 @@ ns2.tomeo.ch
 ns2.tonio-service.ch
 ns2.toon.ch
 ns2.topdns.ch
+ns2.topdomain.ch
 ns2.topway.ch
 ns2.topwimpernseren.ch
 ns2.topwimpernserum.ch
@@ -7232,6 +7241,7 @@ ns2.zen-rollers.ch
 ns2.zenis.ch
 ns2.zenvoo.ch
 ns2.zerspanungspartner.ch
+ns2.zetadev.ch
 ns2.zh.hostbin.ch
 ns2.zhaw.ch
 ns2.zhdk.ch
