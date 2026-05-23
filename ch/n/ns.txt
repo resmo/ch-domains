@@ -893,6 +893,7 @@ ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
+ns1.aspservice.ch
 ns1.assetalpin.ch
 ns1.assh.ch
 ns1.assistancepc.ch
@@ -3522,6 +3523,7 @@ ns1.swissclouds.ch
 ns1.swisscum.ch
 ns1.swissdigicert.ch
 ns1.swissdigit.ch
+ns1.swissdyndns.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
 ns1.swissfintechinnovationlab.ch
@@ -3616,7 +3618,6 @@ ns1.tiadmin.ch
 ns1.tibetanhealing-massage.ch
 ns1.ticinohost.ch
 ns1.ticinowebonline.ch
-ns1.ticonnect.ch
 ns1.tictocevents.ch
 ns1.tierschutz-aargau.ch
 ns1.tifoto.ch
@@ -4266,6 +4267,7 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
+ns2.aspservice.ch
 ns2.assh.ch
 ns2.assistancepc.ch
 ns2.assistances.ch
@@ -6785,6 +6787,7 @@ ns2.swisscloudhosting.ch
 ns2.swissclouds.ch
 ns2.swisscum.ch
 ns2.swissdigit.ch
+ns2.swissdyndns.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
 ns2.swissfintechinnovationlab.ch
@@ -6884,7 +6887,6 @@ ns2.tibetanhealing-massage.ch
 ns2.ticino-online.ch
 ns2.ticinohost.ch
 ns2.ticinowebonline.ch
-ns2.ticonnect.ch
 ns2.tifoto.ch
 ns2.tigermus.ch
 ns2.tilosub.ch
@@ -7940,7 +7942,6 @@ ns3.spreng.ch
 ns3.sputniks.ch
 ns3.srgssr.ch
 ns3.stageone.ch
-ns3.stanson.ch
 ns3.steinertank.ch
 ns3.stilvollesmagazin.ch
 ns3.strateo.ch

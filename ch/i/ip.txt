@@ -225,6 +225,7 @@ ipa-badge.ch
 ipa-beiderbasel.ch
 ipa-bern.ch
 ipa-biel-bienne.ch
+ipa-coach.ch
 ipa-elektro.ch
 ipa-engelberg.ch
 ipa-globaltravel.ch
@@ -266,6 +267,7 @@ ipackt.ch
 ipackthefuture.ch
 ipacloud.ch
 ipacnetwork.ch
+ipacoach.ch
 ipacoaching.ch
 ipacre.ch
 ipacs.ch
@@ -1343,6 +1345,7 @@ ipsec.ch
 ipseco.ch
 ipsector.ch
 ipseite.ch
+ipsemio.ch
 ipsen-med.ch
 ipsen-pharma.ch
 ipsen-space.ch
@@ -1352,6 +1355,7 @@ ipsenol.ch
 ipserv.ch
 ipservice.ch
 ipsetup.ch
+ipsevault.ch
 ipsfaktura.ch
 ipsg.ch
 ipsh.ch
@@ -1534,7 +1538,6 @@ iptvschweize.ch
 iptvschweizertv.ch
 iptvschweizhd.ch
 iptvschweizhq.ch
-iptvschweizhub.ch
 iptvschweizlive.ch
 iptvschweizlivetv.ch
 iptvschweizsg.ch
@@ -1558,6 +1561,7 @@ iptvsuissehd.ch
 iptvsuissemax.ch
 iptvsuissepass.ch
 iptvsuisseplus.ch
+iptvsuissepremium.ch
 iptvsuissepro.ch
 iptvsuissetv.ch
 iptvswiss.ch
