@@ -6814,6 +6814,7 @@ perform-now.ch
 perform-perform.ch
 perform-pt.ch
 perform-smarter.ch
+perform-system.ch
 perform-training.ch
 perform-x.ch
 perform.ch
@@ -7301,6 +7302,7 @@ periart.ch
 periat.ch
 periatenergie.ch
 peribass.ch
+peric-adhesive.ch
 peric-tattoo.ch
 peric.ch
 perica.ch
@@ -7912,6 +7914,7 @@ perlesdefruit.ch
 perlesdelame.ch
 perlesdelune.ch
 perlesdenoix.ch
+perlesdesagesse.ch
 perlesdesalpes.ch
 perlesdeseigle.ch
 perlesdeverre.ch
@@ -11590,7 +11593,6 @@ pet-bac.ch
 pet-balance.ch
 pet-bewerbung.ch
 pet-book.ch
-pet-boutique.ch
 pet-box.ch
 pet-camp-trailers.ch
 pet-can.ch
