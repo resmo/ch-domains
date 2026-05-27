@@ -2084,6 +2084,7 @@ accountingtaxpoint.ch
 accountingtime.ch
 accountingundcontrolling.ch
 accountingwork.ch
+accountinq.ch
 accountio.ch
 accountiq.ch
 accountit.ch
@@ -4865,7 +4866,6 @@ acqua-farina.ch
 acqua-fire-tube.ch
 acqua-glatt.ch
 acqua-kangen.ch
-acqua-mag.ch
 acqua-one.ch
 acqua-pura-e-fine.ch
 acqua-stop.ch
@@ -6655,7 +6655,6 @@ activeheal.ch
 activehealth.ch
 activehearts.ch
 activehemostasis.ch
-activeholiday.ch
 activehome.ch
 activehorse.ch
 activehost.ch
@@ -6961,7 +6960,6 @@ activsolar.ch
 activspa.ch
 activspagmbh.ch
 activsport.ch
-activswiss.ch
 activteam.ch
 activtec.ch
 activtex.ch

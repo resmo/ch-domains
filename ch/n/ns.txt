@@ -2593,7 +2593,6 @@ ns1.mjt.ch
 ns1.mkhosting.ch
 ns1.mm-mediaholding.ch
 ns1.mnbsserver.ch
-ns1.mncjobs.ch
 ns1.mobi-net.ch
 ns1.mobidick.ch
 ns1.modellbau-technik.ch
@@ -3659,6 +3658,7 @@ ns1.traber-web.ch
 ns1.tradesystem.ch
 ns1.tradeup.ch
 ns1.train4it.ch
+ns1.traiteur-kreol.ch
 ns1.transfert-geneve-aeroport.ch
 ns1.transnorm.ch
 ns1.traussniggweb.ch
@@ -3694,7 +3694,6 @@ ns1.typescript.ch
 ns1.u-s-p.ch
 ns1.uelihost.ch
 ns1.uex.ch
-ns1.ufa24h.ch
 ns1.ufoclick.ch
 ns1.ugres.ch
 ns1.uhc-consulting.ch
@@ -5895,7 +5894,6 @@ ns2.mjhost.ch
 ns2.mjt.ch
 ns2.mkhosting.ch
 ns2.mm-mediaholding.ch
-ns2.mncjobs.ch
 ns2.mobi-net.ch
 ns2.mobidick.ch
 ns2.modern-it.ch
@@ -6922,6 +6920,7 @@ ns2.tracenet.ch
 ns2.tradesystem.ch
 ns2.tradeup.ch
 ns2.train4it.ch
+ns2.traiteur-kreol.ch
 ns2.transfert-geneve-aeroport.ch
 ns2.transnorm.ch
 ns2.traussniggweb.ch
@@ -6956,7 +6955,6 @@ ns2.typescript.ch
 ns2.u-blox.ch
 ns2.u-s-p.ch
 ns2.uelihost.ch
-ns2.ufa24h.ch
 ns2.ufoclick.ch
 ns2.ugres.ch
 ns2.uhc-consulting.ch
