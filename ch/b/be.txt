@@ -1300,6 +1300,7 @@ beans-wir-kochen.ch
 beans.ch
 beansandballs.ch
 beansandcodes.ch
+beansandcrumbs.ch
 beansandnuts.ch
 beansbrothers.ch
 beanscoffee.ch
@@ -2682,6 +2683,7 @@ beau-color.ch
 beau-jardin.ch
 beau-lieu.ch
 beau-life.ch
+beau-lys-gland.ch
 beau-mouton.ch
 beau-paysage.ch
 beau-rivage-bar.ch
@@ -3969,7 +3971,6 @@ beautycheck.ch
 beautychic.ch
 beautychicrg.ch
 beautychoice.ch
-beautyciel.ch
 beautycircle.ch
 beautycity.ch
 beautyclass.ch
@@ -6883,6 +6884,7 @@ beefbutter.ch
 beefcacke.ch
 beefcake.ch
 beefcasino.ch
+beefcasinoswiss.ch
 beefcattle.ch
 beefclub.ch
 beefclubamriswil.ch
@@ -6928,7 +6930,6 @@ beefranch.ch
 beefree.ch
 beefront.ch
 beefs-lausanne.ch
-beefshare.ch
 beefshop.ch
 beefsnack.ch
 beefstar.ch
@@ -10005,7 +10006,6 @@ belden-hirschmann.ch
 belden.ch
 beldesign.ch
 beldi.ch
-beldiart.ch
 beldico.ch
 beldini.ch
 beldischreinerei.ch
@@ -12775,6 +12775,7 @@ belwoodag.ch
 belya.ch
 belyaki.ch
 belyan.ch
+belynora.ch
 belz-hl.ch
 belz.ch
 belzebub.ch
@@ -14022,7 +14023,6 @@ benflet.ch
 benfluri.ch
 benfly.ch
 benfn.ch
-benfordbowles.ch
 benfoto.ch
 benfritzi.ch
 beng-ar.ch
@@ -16182,6 +16182,7 @@ beqiri-reinigung.ch
 beqiri.ch
 beqiripartner.ch
 beqom.ch
+beqombee.ch
 beqome.ch
 beqoming.ch
 beqooni.ch
@@ -18694,7 +18695,6 @@ bergmetzg.ch
 bergmetzgerei-schlaeppi.ch
 bergmichi.ch
 bergmilch.ch
-bergmilchkaese.ch
 bergminze.ch
 bergmode.ch
 bergmodell.ch
@@ -19039,6 +19039,7 @@ bergspur.ch
 bergspuren.ch
 bergsstyle.ch
 bergstad.ch
+bergstaedter.ch
 bergstaeger.ch
 bergstars.ch
 bergstation-belalp.ch
@@ -19754,7 +19755,6 @@ berlingpartner.ch
 berlingreen.ch
 berlingueri.ch
 berlinheals.ch
-berlini.ch
 berlinlebengal.ch
 berlinoise.ch
 berlinorganics.ch
@@ -19937,6 +19937,7 @@ bern-junkerngasse.ch
 bern-kaiserhaus.ch
 bern-kammerjaeger.ch
 bern-kantonspolizei.ch
+bern-kebab.ch
 bern-kernbohrung.ch
 bern-kieferorthopaede.ch
 bern-kieferorthopaedie.ch
@@ -21335,7 +21336,6 @@ bernertumorabende.ch
 bernertumortage.ch
 bernertv.ch
 bernerumbauten.ch
-berneruniball.ch
 bernerurologen.ch
 bernerveloboerse.ch
 bernerverein-frick.ch
@@ -21407,6 +21407,7 @@ bernet-webdesign.ch
 bernet.ch
 bernetanalytica.ch
 bernetbau.ch
+bernetbaumanagement.ch
 bernetblog.ch
 bernetgroup.ch
 bernethaustechnik.ch
@@ -22575,7 +22576,6 @@ berrut-freres.ch
 berrut.ch
 berrutbois.ch
 berry-ag.ch
-berry-consulting.ch
 berry-face.ch
 berry-giugliano.ch
 berry-good.ch
@@ -22584,12 +22584,9 @@ berry-house.ch
 berry-nice.ch
 berry-pharma.ch
 berry-pool.ch
-berry-talents.ch
 berry-tea.ch
 berry-time.ch
 berry-well.ch
-berry-worklife.ch
-berry-workspace.ch
 berry.ch
 berry2.ch
 berryag.ch
@@ -22629,7 +22626,6 @@ berrys-potpourri.ch
 berrys.ch
 berrysboiler.ch
 berrysg.ch
-berryshome.ch
 berrysownselection.ch
 berrytasty.ch
 berrytea.ch
@@ -22868,6 +22864,7 @@ bertholet-immobilien.ch
 bertholet-mathis.ch
 bertholet.ch
 bertholjotti.ch
+berthon-moine.ch
 berthoud-charpente.ch
 berthoud-festival.ch
 berthoud-financement.ch
@@ -27895,6 +27892,7 @@ betfi.ch
 betfinder.ch
 betfirst.ch
 betflag-casino.ch
+betflag-ch.ch
 betflag.ch
 betflags.ch
 betflagwetten.ch
@@ -27914,6 +27912,7 @@ beth.ch
 beth24.ch
 bethall.ch
 bethallcas.ch
+bethallcasino.ch
 bethallch.ch
 bethalls.ch
 bethania-im-stedtli.ch
@@ -28060,6 +28059,7 @@ betistan.ch
 betit-all.ch
 betit.ch
 betitall.ch
+betitallwetten.ch
 betitor.ch
 betivibet.ch
 betjeman.ch
@@ -28529,6 +28529,7 @@ betox.ch
 betozeta.ch
 betpanda.ch
 betpandacasino.ch
+betpandaonline.ch
 betpark.ch
 betpassion.ch
 betpawa.ch
@@ -28727,6 +28728,7 @@ betreuungen.ch
 betreuungjob.ch
 betreuungkind.ch
 betreuungmalters.ch
+betreuungmeggerwald.ch
 betreuungmitherz.ch
 betreuungplus.ch
 betreuungprivat.ch
@@ -29189,6 +29191,7 @@ betsson.ch
 betsson49.ch
 betssoncasino.ch
 betssontv.ch
+betssonwetten.ch
 betstar.ch
 betstars.ch
 betstart.ch
@@ -30392,7 +30395,6 @@ bettyfox.ch
 bettygrafy.ch
 bettyheart.ch
 bettykern.ch
-bettyku.ch
 bettyorganero.ch
 bettyotter.ch
 bettyphotography.ch
@@ -30411,6 +30413,7 @@ bettystoicovici.ch
 bettyswelt.ch
 bettytuesday.ch
 bettywins.ch
+bettywinscasino.ch
 bettywoof.ch
 bettyzucker.ch
 bettzeug.ch
@@ -31649,7 +31652,6 @@ bewerbungsanschreiben.ch
 bewerbungsapp.ch
 bewerbungsassistent.ch
 bewerbungsbar.ch
-bewerbungsbegleitung-dasoriginal.ch
 bewerbungsberater.ch
 bewerbungsberatung-online.ch
 bewerbungsberatung.ch
@@ -33137,11 +33139,8 @@ bezhi.ch
 beziehigswiesend.ch
 beziehigswiis.ch
 beziehung-formen.ch
-beziehung-geht-einfach.ch
-beziehung-geht-einfacher.ch
 beziehung-gestalten.ch
 beziehung-kommunikation.ch
-beziehung-leicht-gemacht.ch
 beziehung-mit-autismus.ch
 beziehung-ohne-leine.ch
 beziehung-retten.ch

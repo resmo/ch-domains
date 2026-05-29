@@ -326,8 +326,6 @@ swap-test-workspace-a.ch
 swap-test-workspace-b.ch
 swap-test-workspace-c.ch
 swap-test-workspace-d.ch
-swap-tron.ch
-swap-trx.ch
 swap.ch
 swap17xexalgo.ch
 swapa-zip.ch
@@ -399,8 +397,6 @@ swapsac.ch
 swapservice.ch
 swapsies.ch
 swapswiss.ch
-swaptron.ch
-swaptrx.ch
 swapvv.ch
 swapwatch.ch
 swapy.ch
@@ -1897,7 +1893,6 @@ swilearn.ch
 swiled.ch
 swilenzio.ch
 swilet.ch
-swilex.ch
 swilingua.ch
 swilink.ch
 swilive.ch
@@ -4200,6 +4195,7 @@ swiss-corna-freie-zonen.ch
 swiss-corner.ch
 swiss-cornhole.ch
 swiss-corona-frei.ch
+swiss-corp.ch
 swiss-corporate-api.ch
 swiss-corporate-events.ch
 swiss-corporate-fashion.ch
@@ -4573,7 +4569,6 @@ swiss-digital-academy.ch
 swiss-digital-agent.ch
 swiss-digital-agents.ch
 swiss-digital-award.ch
-swiss-digital-coaching.ch
 swiss-digital-development.ch
 swiss-digital-events.ch
 swiss-digital-expert.ch
@@ -8484,6 +8479,7 @@ swiss-sighthound.ch
 swiss-sightseeing-tours.ch
 swiss-sign.ch
 swiss-signature.ch
+swiss-silent-party.ch
 swiss-silk.ch
 swiss-simplexity.ch
 swiss-simracing-league.ch
@@ -11287,6 +11283,7 @@ swissbankingfuture.ch
 swissbankinglaw.ch
 swissbankingonair.ch
 swissbankingoperations.ch
+swissbankingregulations.ch
 swissbankingschool.ch
 swissbankingservices.ch
 swissbankingsurvey.ch
@@ -11557,6 +11554,7 @@ swissberkey.ch
 swissberli.ch
 swissbermuda.ch
 swissberries.ch
+swissberriesbozze.ch
 swissberryworld.ch
 swissbert.ch
 swissberuf.ch
@@ -11766,6 +11764,7 @@ swissbistro.ch
 swissbit-security.ch
 swissbit.ch
 swissbit26.ch
+swissbitch.ch
 swissbitco.ch
 swissbitcoin.ch
 swissbitcoinaward.ch
@@ -12272,6 +12271,7 @@ swissbusiness.ch
 swissbusiness24.ch
 swissbusinessaccess.ch
 swissbusinessanalytics.ch
+swissbusinessathlete.ch
 swissbusinessbooster.ch
 swissbusinessbroker.ch
 swissbusinesscab.ch
@@ -13890,7 +13890,6 @@ swisscontech.ch
 swisscontent-dev.ch
 swisscontent.ch
 swisscontentcloud.ch
-swisscontentfactory.ch
 swisscontestclub.ch
 swisscontinencefoundation.ch
 swisscontingent.ch
@@ -15278,7 +15277,6 @@ swissdrive-in.ch
 swissdrive-net.ch
 swissdrive-training.ch
 swissdrive.ch
-swissdrive360.ch
 swissdrivebusiness.ch
 swissdrivecamp.ch
 swissdrivecoach.ch
@@ -17692,7 +17690,6 @@ swissgutscheine.ch
 swissgwm.ch
 swissgym.ch
 swissgymcoaches.ch
-swissgymgala.ch
 swissgymnastics.ch
 swissgymwear.ch
 swissgymzollikofen.ch
@@ -19172,7 +19169,6 @@ swissjob.ch
 swissjob4you.ch
 swissjobai.ch
 swissjobber.ch
-swissjobby.ch
 swissjobcare.ch
 swissjobcenter.ch
 swissjobcoach.ch
@@ -19495,6 +19491,7 @@ swisskristall.ch
 swisskristallglas.ch
 swisskristallgroup.ch
 swisskristallhealth.ch
+swisskrok.ch
 swisskrono.ch
 swisskronogroup.ch
 swisskross.ch
@@ -20046,6 +20043,7 @@ swisslinkholding.ch
 swisslinkimport.ch
 swisslinkinterim.ch
 swisslinkjobs.ch
+swisslinknetwork.ch
 swisslinkpayroll.ch
 swisslinkpersonal.ch
 swisslinq.ch
@@ -20248,7 +20246,6 @@ swissloupe.ch
 swissloupes.ch
 swisslove.ch
 swisslover.ch
-swisslovesitaly.ch
 swisslovestories.ch
 swisslowline.ch
 swissloxx.ch
@@ -20290,6 +20287,7 @@ swisslung.ch
 swisslupuscohort-fr.ch
 swisslupuscohort.ch
 swisslures.ch
+swisslutions.ch
 swisslux-ortho.ch
 swisslux-orthopedics.ch
 swisslux.ch
@@ -20303,7 +20301,6 @@ swissluxemobel.ch
 swissluxerental.ch
 swissluxetechnology.ch
 swissluxetours.ch
-swissluxgelaender.ch
 swissluxgmbh.ch
 swissluximmo.ch
 swissluxlimo.ch
@@ -20367,7 +20364,6 @@ swisslyft.ch
 swisslyit.ch
 swisslymo.ch
 swisslymph.ch
-swisslynk.ch
 swisslynx.ch
 swisslynxinternational.ch
 swisslyy.ch
@@ -22816,6 +22812,7 @@ swisspeacesymposium.ch
 swisspeak-partners.ch
 swisspeak-resort.ch
 swisspeak-resorts.ch
+swisspeak-solutions.ch
 swisspeak.ch
 swisspeakadvisor.ch
 swisspeakcookies.ch
@@ -23566,7 +23563,6 @@ swisspremiereleague.ch
 swisspremierleague.ch
 swisspremio.ch
 swisspremium-chows.ch
-swisspremium-events.ch
 swisspremium-management.ch
 swisspremium.ch
 swisspremiumag.ch
@@ -24490,6 +24486,7 @@ swissrealtor.ch
 swissrealtravel.ch
 swissrealty.ch
 swissrealtypartners.ch
+swissrealtypatners.ch
 swissrealtyservices.ch
 swissreanimation.ch
 swissrebar.ch
@@ -24504,7 +24501,6 @@ swissreception.ch
 swissrechner.ch
 swissrechnung.ch
 swissrecht.ch
-swissreco.ch
 swissrecom.ch
 swissrecon.ch
 swissrecords.ch
@@ -25300,7 +25296,6 @@ swissshowcase.ch
 swissshowdown.ch
 swissshredders.ch
 swissshrimp.ch
-swissshrimps.ch
 swissshuffle.ch
 swissshuffleboard.ch
 swissshuttle.ch
@@ -26591,6 +26586,7 @@ swisstopbin.ch
 swisstopcare.ch
 swisstopclean.ch
 swisstopclinics.ch
+swisstopcoach-association.ch
 swisstopcoach.ch
 swisstopcolor.ch
 swisstopdriver.ch
@@ -26646,7 +26642,6 @@ swisstouchshop.ch
 swisstour.ch
 swisstour365.ch
 swisstourallye.ch
-swisstourauto.ch
 swisstourfed.ch
 swisstourguide.ch
 swisstourguideacademy.ch
@@ -26991,6 +26986,7 @@ swisstrustcertificate.ch
 swisstrustchain.ch
 swisstrustconsultants.ch
 swisstrusted.ch
+swisstrustedadvisor.ch
 swisstrustee.ch
 swisstrustees.ch
 swisstrusteesofgeneva.ch
@@ -28233,7 +28229,6 @@ swissxxxjobs.ch
 swissy.ch
 swissya.ch
 swissyacht.ch
-swissyachtbrokers.ch
 swissyachtcharter.ch
 swissyachting.ch
 swissyachtingassociation.ch

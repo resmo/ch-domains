@@ -399,7 +399,6 @@ ns.rptd.ch
 ns.ruedunord.ch
 ns.s2.werner-bernhard.ch
 ns.sbb.ch
-ns.schellings.ch
 ns.schmidelnet.ch
 ns.schnyder-kerzen.ch
 ns.scriptwriter.ch
@@ -1819,6 +1818,7 @@ ns1.gartmann.ch
 ns1.gas-com.ch
 ns1.gattleninfo.ch
 ns1.gaudiano.ch
+ns1.gdns.ch
 ns1.gecko-media.ch
 ns1.gecloud.ch
 ns1.geek.ch
@@ -3242,7 +3242,6 @@ ns1.sbru.ch
 ns1.sc-ns.ch
 ns1.sceur.ch
 ns1.schaeremedical.ch
-ns1.schellings.ch
 ns1.schlagerclub.ch
 ns1.schlawini-und-filou.ch
 ns1.schm1dt.ch
@@ -5152,6 +5151,7 @@ ns2.gartmann.ch
 ns2.gas-com.ch
 ns2.gattleninfo.ch
 ns2.gaudiano.ch
+ns2.gdns.ch
 ns2.gecko-media.ch
 ns2.gecloud.ch
 ns2.geek.ch
