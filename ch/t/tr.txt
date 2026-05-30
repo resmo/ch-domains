@@ -49,6 +49,7 @@ tr0x.ch
 tr1.ch
 tr18.ch
 tr1nsf0rm.ch
+tr2.ch
 tr2001.ch
 tr24.ch
 tr27.ch
@@ -3794,8 +3795,6 @@ tramstation.ch
 tramstrasse.ch
 tramstrasse100.ch
 tramtracker.ch
-tramtreno.ch
-tramtrenoluganese.ch
 tramudu.ch
 tramundbass.ch
 tramundi.ch
@@ -4345,7 +4344,6 @@ transdoubs.ch
 transdrive.ch
 transdrone.ch
 transe-actions.ch
-transe-guerison.ch
 transe-mission.ch
 transe.ch
 transear.ch
@@ -5802,6 +5800,7 @@ transporthilfen.ch
 transporthub.ch
 transportica.ch
 transportieren.ch
+transportigo.ch
 transporting.ch
 transportino.ch
 transportissimo.ch
@@ -7606,7 +7605,6 @@ traumhypo.ch
 traumich.ch
 traumimmo.ch
 traumimmobilie.ch
-traumimmobilien.ch
 trauminholz.ch
 trauminsel.ch
 trauminseln.ch
@@ -8219,7 +8217,6 @@ travel-guide.ch
 travel-guru.ch
 travel-haus.ch
 travel-hawaii.ch
-travel-healing.ch
 travel-himalaya.ch
 travel-hous.ch
 travel-house-media.ch
@@ -9274,6 +9271,7 @@ travisebcomp.ch
 travisio.ch
 travislim.ch
 travismathew.ch
+travispartners.ch
 travista.ch
 travisys.ch
 travita.ch
@@ -10017,7 +10015,6 @@ treffpunkt-malatelier.ch
 treffpunkt-maur.ch
 treffpunkt-mediation.ch
 treffpunkt-meilen.ch
-treffpunkt-meinradsberg.ch
 treffpunkt-merci.ch
 treffpunkt-muenchwilen.ch
 treffpunkt-natur.ch
@@ -11773,10 +11770,12 @@ tresorhandel.ch
 tresorhaus.ch
 tresorhosting.ch
 tresorimmod.ch
+tresorio.ch
 tresorion.ch
 tresoris.ch
 tresorit.ch
 tresorive.ch
+tresorlagreemaster.ch
 tresorloesungen.ch
 tresormontage.ch
 tresoro-international.ch
@@ -13694,6 +13693,7 @@ tribu-architecture.ch
 tribu-ascona.ch
 tribu-avocat.ch
 tribu-castors.ch
+tribu-edu.ch
 tribu-humanimale.ch
 tribu-stop-alcool.ch
 tribu-stop-cannabis.ch
@@ -15149,7 +15149,6 @@ trio-lighting.ch
 trio-lignum.ch
 trio-lushuebel.ch
 trio-magic.ch
-trio-mar.ch
 trio-o.ch
 trio-oberdiessbach.ch
 trio-oreade.ch
@@ -15616,7 +15615,6 @@ triplock.ch
 triplog.ch
 triplum.ch
 triplumbau.ch
-triplus.ch
 triply.ch
 triplygo.ch
 tripmail.ch
@@ -17015,6 +17013,7 @@ troislunes.ch
 troismarchesaudessus.ch
 troismondes.ch
 troisnuages.ch
+troisol.ch
 troisp.ch
 troispetits.ch
 troispetitspoints.ch
@@ -18748,7 +18747,9 @@ truebit.ch
 truebklar.ch
 trueblanks.ch
 trueblete.ch
+truebli-bassersdorf.ch
 truebli.ch
+trueblibassersdorf.ch
 trueblieins.ch
 trueblue.ch
 truebluecapital.ch

@@ -1809,7 +1809,6 @@ asdg.ch
 asdgroupcustoms.ch
 asdgroupe.ch
 asdgrouptax.ch
-asdi.ch
 asdialoggroup.ch
 asdic.ch
 asdigital-groupe.ch
@@ -3496,6 +3495,7 @@ askjob.ch
 askjuliette.ch
 askjuri.ch
 askk.ch
+askka.ch
 askladyb.ch
 asklea.ch
 asklep.ch
@@ -6152,7 +6152,6 @@ associationbeaulieu.ch
 associationbibemus.ch
 associationbosquets.ch
 associationboulevardsante.ch
-associationbreath.ch
 associationburo.ch
 associationcactus.ch
 associationcalabash.ch
@@ -6456,6 +6455,7 @@ associazionesportforpeace.ch
 associazionestaats.ch
 associazionesupernova.ch
 associazioneswisselectronicmusic.ch
+associazionetassametristi.ch
 associazioneterapisti.ch
 associazioneticinesecuochi.ch
 associazionetirispetto.ch
@@ -8824,6 +8824,7 @@ astroterra.ch
 astrotexte.ch
 astroticino.ch
 astrotime.ch
+astrotiming.ch
 astrotinuschneider.ch
 astrotobe.ch
 astrotoday.ch

@@ -384,6 +384,7 @@ hr-temp.ch
 hr-ticino.ch
 hr-time.ch
 hr-today.ch
+hr-tomorrow.ch
 hr-tool-finder.ch
 hr-toolbox.ch
 hr-toolfinder.ch
@@ -1260,6 +1261,7 @@ hrtime.ch
 hrtlnd.ch
 hrtmnn.ch
 hrtoday.ch
+hrtomorrow.ch
 hrtoolbox.ch
 hrtools.ch
 hrtop.ch

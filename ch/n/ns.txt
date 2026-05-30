@@ -181,7 +181,6 @@ ns.dnab.ch
 ns.dnslab.ch
 ns.domrobot.ch
 ns.dotforge.ch
-ns.dsgserver2.ch
 ns.dt360.ch
 ns.e-imprimerie.ch
 ns.e621gmbh.ch
@@ -970,7 +969,6 @@ ns1.bauernportal.ch
 ns1.baumer.ch
 ns1.bbcom.ch
 ns1.bbconsulting.ch
-ns1.bbgweb.ch
 ns1.bbiconstruct.ch
 ns1.bboxbbs.ch
 ns1.bbx.ch
@@ -1624,6 +1622,7 @@ ns1.emilfrey.ch
 ns1.emmewebhosting.ch
 ns1.emmi.ch
 ns1.emovencia.ch
+ns1.empiredance.ch
 ns1.endl.ch
 ns1.englishagogo.ch
 ns1.engstringen.ch
@@ -3021,6 +3020,7 @@ ns1.pre.ch
 ns1.predesnoyers.ch
 ns1.premiumcontent.ch
 ns1.premotec.ch
+ns1.presence-plus.ch
 ns1.pri.ch
 ns1.prime-host.ch
 ns1.printhirsch.ch
@@ -4341,7 +4341,6 @@ ns2.baumer.ch
 ns2.baz-med.ch
 ns2.bbcom.ch
 ns2.bbconsulting.ch
-ns2.bbgweb.ch
 ns2.bbiconstruct.ch
 ns2.bboxbbs.ch
 ns2.bbz.ch
@@ -4962,6 +4961,7 @@ ns2.emilfrey.ch
 ns2.emmewebhosting.ch
 ns2.emmi.ch
 ns2.emovencia.ch
+ns2.empiredance.ch
 ns2.endl.ch
 ns2.englishagogo.ch
 ns2.engstringen.ch
@@ -6297,6 +6297,7 @@ ns2.pre.ch
 ns2.predesnoyers.ch
 ns2.premiumcontent.ch
 ns2.premotec.ch
+ns2.presence-plus.ch
 ns2.pri.ch
 ns2.prime-host.ch
 ns2.printhirsch.ch
@@ -8031,7 +8032,6 @@ ns3.webland.ch
 ns3.webmoreplus.ch
 ns3.webseitentool.ch
 ns3.websitenow.ch
-ns3.websitepro.ch
 ns3.webunion.ch
 ns3.webwer.ch
 ns3.weihnachten25.ch
