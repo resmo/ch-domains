@@ -3,6 +3,7 @@ ns-01.ocrcl-staging.ch
 ns-01.stepping-stone.ch
 ns-01.stoney-cloud.ch
 ns-01.stoneycloud.ch
+ns-02.nachmittag.ch
 ns-02.ocrcl-staging.ch
 ns-02.stepping-stone.ch
 ns-02.stoney-cloud.ch
@@ -3641,7 +3642,6 @@ ns1.tokee.ch
 ns1.tomax.ch
 ns1.tomeo.ch
 ns1.tomppa.ch
-ns1.tonio-service.ch
 ns1.tools4ever.ch
 ns1.toon.ch
 ns1.topdns.ch
@@ -6909,7 +6909,6 @@ ns2.toedtli.ch
 ns2.tokee.ch
 ns2.tomax.ch
 ns2.tomeo.ch
-ns2.tonio-service.ch
 ns2.toon.ch
 ns2.topdns.ch
 ns2.topdomain.ch

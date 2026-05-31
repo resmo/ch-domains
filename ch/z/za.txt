@@ -1039,9 +1039,6 @@ zahnaerzte-heimberg.ch
 zahnaerzte-herisau.ch
 zahnaerzte-hersberger.ch
 zahnaerzte-hirzel-horgen.ch
-zahnaerzte-hirzel.ch
-zahnaerzte-horgen-hirzel.ch
-zahnaerzte-horgen.ch
 zahnaerzte-huldi-duran.ch
 zahnaerzte-im-zentrum.ch
 zahnaerzte-in-basel.ch
@@ -1156,7 +1153,6 @@ zahnaerztecenter-harryfrey.ch
 zahnaerztecenterharryfrey.ch
 zahnaerztefortbildung.ch
 zahnaerztegemeinschaft.ch
-zahnaerztegeroldswil.ch
 zahnaerztegommiswald.ch
 zahnaerztehasenberg.ch
 zahnaerztehaus-arch.ch
@@ -1375,7 +1371,6 @@ zahnarzt-bedjeti.ch
 zahnarzt-beeler.ch
 zahnarzt-behandlung-ungarn.ch
 zahnarzt-behandlung.ch
-zahnarzt-bellach.ch
 zahnarzt-bellevue.ch
 zahnarzt-bellinzona.ch
 zahnarzt-belp.ch
@@ -1700,7 +1695,6 @@ zahnarzt-hofer.ch
 zahnarzt-hofstetter.ch
 zahnarzt-hombrechtikon.ch
 zahnarzt-homecare.ch
-zahnarzt-horgen-hirzel.ch
 zahnarzt-horgen.ch
 zahnarzt-horw.ch
 zahnarzt-hotline.ch
@@ -1985,7 +1979,6 @@ zahnarzt-nuerensdorf.ch
 zahnarzt-oberaargau-notfalldienst.ch
 zahnarzt-oberaargau.ch
 zahnarzt-oberbueren.ch
-zahnarzt-oberengstringen.ch
 zahnarzt-oberentfelden.ch
 zahnarzt-oberglatt-niederglatt.ch
 zahnarzt-oberglatt.ch
@@ -2007,7 +2000,6 @@ zahnarzt-oerlikon-dental.ch
 zahnarzt-oerlikon.ch
 zahnarzt-oertig.ch
 zahnarzt-oettli.ch
-zahnarzt-oetwil.ch
 zahnarzt-oey.ch
 zahnarzt-oezkaynak.ch
 zahnarzt-offerte.ch
@@ -2207,7 +2199,6 @@ zahnarzt-spehar.ch
 zahnarzt-speicher.ch
 zahnarzt-spelterini.ch
 zahnarzt-spiez.ch
-zahnarzt-spreitenbach.ch
 zahnarzt-sso.ch
 zahnarzt-st-gallen.ch
 zahnarzt-stadelhofen.ch
@@ -2290,10 +2281,8 @@ zahnarzt-ungarn-budapest.ch
 zahnarzt-ungarn-heviz.ch
 zahnarzt-ungarn-oswald.ch
 zahnarzt-ungarn.ch
-zahnarzt-unterengstringen.ch
 zahnarzt-unterseen.ch
 zahnarzt-untertor.ch
-zahnarzt-urdorf.ch
 zahnarzt-uri-erstfeld.ch
 zahnarzt-uri.ch
 zahnarzt-urlaub.ch
@@ -2346,11 +2335,9 @@ zahnarzt-weideli.ch
 zahnarzt-weiherschloss.ch
 zahnarzt-weiland.ch
 zahnarzt-weinfelden.ch
-zahnarzt-weiningen.ch
 zahnarzt-weinmarkt.ch
 zahnarzt-welte.ch
 zahnarzt-westhauser.ch
-zahnarzt-wettingen.ch
 zahnarzt-wetzel.ch
 zahnarzt-wetzikon.ch
 zahnarzt-wick.ch
@@ -2380,7 +2367,6 @@ zahnarzt-wollerau.ch
 zahnarzt-wollishofen.ch
 zahnarzt-worb.ch
 zahnarzt-wuensch.ch
-zahnarzt-wuerenlos.ch
 zahnarzt-wuerzenbach.ch
 zahnarzt-wuethrich.ch
 zahnarzt-wymann.ch
@@ -2624,7 +2610,6 @@ zahnarztgemeinschaft.ch
 zahnarztgeorgis.ch
 zahnarztgerber.ch
 zahnarztgerlafingen.ch
-zahnarztgeroldswil.ch
 zahnarztglattbrugg.ch
 zahnarztglattpark.ch
 zahnarztgnaedinger.ch
@@ -2714,6 +2699,7 @@ zahnarztklinik-ungarn.ch
 zahnarztklinik.ch
 zahnarztkliniksursee.ch
 zahnarztklinikwallis.ch
+zahnarztkloten.ch
 zahnarztkoch.ch
 zahnarztkocher.ch
 zahnarztkonolfingen.ch
@@ -2959,11 +2945,9 @@ zahnarztpraxis-hildisrieden.ch
 zahnarztpraxis-hinterkappelen.ch
 zahnarztpraxis-hinwil.ch
 zahnarztpraxis-hirzel-horgen.ch
-zahnarztpraxis-hirzel.ch
 zahnarztpraxis-hofgarten.ch
 zahnarztpraxis-hofmann.ch
 zahnarztpraxis-holzer.ch
-zahnarztpraxis-horgen-hirzel.ch
 zahnarztpraxis-horgen.ch
 zahnarztpraxis-horw.ch
 zahnarztpraxis-htw.ch
@@ -3351,7 +3335,6 @@ zahnarztpro.ch
 zahnarztpromenade.ch
 zahnarztratgeber.ch
 zahnarztrechnung.ch
-zahnarztregensdorf.ch
 zahnarztreiden.ch
 zahnarztreinach.ch
 zahnarztreinigung24.ch
@@ -3503,7 +3486,6 @@ zahnarztzentrum-baden.ch
 zahnarztzentrum-basel.ch
 zahnarztzentrum-bern.ch
 zahnarztzentrum-herisau.ch
-zahnarztzentrum-horgen.ch
 zahnarztzentrum-jegenstorf.ch
 zahnarztzentrum-koeniz.ch
 zahnarztzentrum-konstanz.ch
@@ -3912,7 +3894,6 @@ zahnklinik-dreilaendereck.ch
 zahnklinik-drjans.ch
 zahnklinik-fairsmile.ch
 zahnklinik-genferhaus.ch
-zahnklinik-horgen.ch
 zahnklinik-in-staefa.ch
 zahnklinik-in-thun.ch
 zahnklinik-in-ungarn.ch
