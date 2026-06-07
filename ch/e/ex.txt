@@ -1187,6 +1187,7 @@ exec-coach.ch
 exec-comm.ch
 exec-express.ch
 exec-reader.ch
+exec-solution.ch
 exec-solutions.ch
 exec.ch
 execal.ch
@@ -1203,6 +1204,7 @@ execon-partners.ch
 execpartners.ch
 execreader.ch
 execs.ch
+execsolution.ch
 execsolutions.ch
 exectime.ch
 exectly.ch
@@ -2898,7 +2900,6 @@ experienceday.ch
 experiencedays.ch
 experiencedesign.ch
 experiencedesigninstitute.ch
-experienceenergy.ch
 experienceenhancer.ch
 experienceetreconnaissance.ch
 experienceevents.ch
@@ -3047,7 +3048,6 @@ expert-batiment-suisse.ch
 expert-batiments.ch
 expert-baumann.ch
 expert-bertschi.ch
-expert-beton.ch
 expert-bohl.ch
 expert-bois.ch
 expert-buesser-caduff.ch
@@ -3228,7 +3228,6 @@ expert-pomatti.ch
 expert-pool.ch
 expert-portes.ch
 expert-promoteur-immobilier.ch
-expert-protection-incendie.ch
 expert-psy.ch
 expert-q.ch
 expert-quote.ch
@@ -3249,7 +3248,6 @@ expert-salaries.ch
 expert-salle-de-bain.ch
 expert-sanitaire.ch
 expert-schelbert.ch
-expert-schutz.ch
 expert-sea.ch
 expert-securite-incendie.ch
 expert-seminars.ch
@@ -3538,7 +3536,6 @@ experticon.ch
 experticum.ch
 expertier.ch
 expertiese-en-construction-metallique.ch
-expertifyer.ch
 expertikus.ch
 expertim.ch
 expertime.ch
@@ -3561,11 +3558,9 @@ expertinumag.ch
 expertis-fiduciaire.ch
 expertis.ch
 expertisa.ch
-expertise-aeai.ch
 expertise-amiante-yersin.ch
 expertise-backend.ch
 expertise-batiment.ch
-expertise-beton.ch
 expertise-bijoux-bise.ch
 expertise-confiance.ch
 expertise-conseil.ch

@@ -2765,7 +2765,6 @@ planum-bau.ch
 planum-int.ch
 planum-zuerich.ch
 planum.ch
-planun-bau.ch
 planundbau.ch
 planundform.ch
 planundholz.ch
@@ -4178,6 +4177,7 @@ plattenlegerei.ch
 plattenlegerfirmen.ch
 plattenlegergstaad.ch
 plattenlegerin.ch
+plattenlegerlarskrueger.ch
 plattenlegerluzern.ch
 plattenlegermeister-danielrowek.ch
 plattenlegermeister.ch
@@ -6595,6 +6595,7 @@ plootarch.ch
 plop-app.ch
 plop.ch
 plopapp.ch
+plopball.ch
 plopbox.ch
 ploper.ch
 ploply.ch
