@@ -1591,7 +1591,6 @@ wunschimmobilien.ch
 wunschindex.ch
 wunschinni.ch
 wunschjob.ch
-wunschkandidat.ch
 wunschkapsel.ch
 wunschkarte.ch
 wunschkarten.ch
@@ -1931,9 +1930,11 @@ wurzel-biber.ch
 wurzel-chraft.ch
 wurzel-energie.ch
 wurzel-gold.ch
+wurzel-kind.ch
 wurzel-kraft.ch
 wurzel-leben.ch
 wurzel-licht.ch
+wurzel-power.ch
 wurzel-stark.ch
 wurzel-stock-fraesen.ch
 wurzel-stockfraesen.ch
@@ -2036,6 +2037,7 @@ wurzelort.ch
 wurzelpablo.ch
 wurzelpfad.ch
 wurzelpfahl.ch
+wurzelpower.ch
 wurzelpurzel.ch
 wurzelratte.ch
 wurzelraum.ch

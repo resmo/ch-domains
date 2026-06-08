@@ -89,6 +89,7 @@ ns-solution.ch
 ns-stallion1.ganjaland.ch
 ns-t.ch
 ns-ti.ch
+ns-training.ch
 ns-weeber.ch
 ns.0daysober.ch
 ns.3dsupplies.ch
@@ -1924,6 +1925,7 @@ ns1.gvs.ch
 ns1.gymer.ch
 ns1.h-cockpit.ch
 ns1.h-web.ch
+ns1.h2it.ch
 ns1.h4cker.ch
 ns1.haarphonie.ch
 ns1.haarwelt-stans.ch
@@ -2474,7 +2476,6 @@ ns1.magicline.ch
 ns1.magno.ch
 ns1.mai1.ch
 ns1.maia.ch
-ns1.mail.fahrschule-valentin.ch
 ns1.mail.huppertz.ch
 ns1.mail.lakecoop.ch
 ns1.mail.t2v.ch
@@ -5253,6 +5254,7 @@ ns2.gvs.ch
 ns2.gymer.ch
 ns2.h-cockpit.ch
 ns2.h-web.ch
+ns2.h2it.ch
 ns2.h4cker.ch
 ns2.haarphonie.ch
 ns2.haarwelt-stans.ch
@@ -5787,7 +5789,6 @@ ns2.maexweb.ch
 ns2.magahugu.ch
 ns2.magicline.ch
 ns2.magno.ch
-ns2.mail.fahrschule-valentin.ch
 ns2.mail.huppertz.ch
 ns2.mail.lakecoop.ch
 ns2.mail.t2v.ch
