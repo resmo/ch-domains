@@ -704,7 +704,6 @@ blackcards.ch
 blackcarrent.ch
 blackcarrot.ch
 blackcarrotbbq.ch
-blackcars.ch
 blackcarsrent.ch
 blackcarwash.ch
 blackcastle.ch
@@ -863,7 +862,6 @@ blackfountaincapital.ch
 blackfountainpartners.ch
 blackfourteen.ch
 blackfox.ch
-blackfoxprint.ch
 blackfragrance.ch
 blackframe-media.ch
 blackframe.ch
@@ -1112,7 +1110,6 @@ blackmagicdesign.ch
 blackmagick.ch
 blackmail.ch
 blackmailonline.ch
-blackmamba.ch
 blackmambainvestment.ch
 blackmandarin.ch
 blackmaple.ch
@@ -1970,7 +1967,6 @@ blam-audio.ch
 blam.ch
 blamail.ch
 blamar.ch
-blamblamblam.ch
 blame-game.ch
 blamegame.ch
 blameless-security.ch
@@ -2207,7 +2203,9 @@ blank-punkt.ch
 blank-sanitaer.ch
 blank-space.ch
 blank-sphere.ch
+blank-tech.ch
 blank-technik.ch
+blank-technologies.ch
 blank-vpn.ch
 blank-zug.ch
 blank.ch
@@ -2243,6 +2241,7 @@ blanketandbrownie.ch
 blanketino.ch
 blankets.ch
 blankfamily.ch
+blankgroup.ch
 blankhonegger.ch
 blankimmo.ch
 blankinformatik.ch
@@ -2272,6 +2271,7 @@ blankpunkt.ch
 blankqr.ch
 blankreinigung.ch
 blankroast.ch
+blankroot.ch
 blanks-agency.ch
 blankspace-ag.ch
 blankspace.ch
@@ -2279,6 +2279,7 @@ blankstahl.ch
 blankstd.ch
 blankstudio.ch
 blankstudios.ch
+blanktech.ch
 blanktechnik.ch
 blankton-gmbh.ch
 blankton.ch
@@ -2286,6 +2287,7 @@ blanktree.ch
 blankvisual.ch
 blankwaeg.ch
 blankwaffen.ch
+blankweb.ch
 blankweg-ostermundigen.ch
 blankweg.ch
 blankwerk.ch
@@ -5007,7 +5009,6 @@ blindenverband.ch
 blindenwelten.ch
 blindenwerkstatt-sbsw.ch
 blindenwerkstatt.ch
-blinderfleck.ch
 blindfest.ch
 blindfis.ch
 blindfish.ch
@@ -6811,7 +6812,6 @@ bloom-neuchatel.ch
 bloom-now.ch
 bloom-parking.ch
 bloom-partners.ch
-bloom-properties.ch
 bloom-rapperswil.ch
 bloom-riverside.ch
 bloom-rocket.ch
@@ -8853,7 +8853,6 @@ bluemeparadies.ch
 bluemeparadiesli.ch
 bluemepark.ch
 bluemepost.ch
-bluemer.ch
 bluemerei.ch
 bluemeria.ch
 bluemerle.ch
@@ -9963,7 +9962,6 @@ bluff-drink.ch
 bluff.ch
 blufield.ch
 blufink.ch
-blufire.ch
 bluflow.ch
 blug.ch
 bluga.ch
@@ -10185,7 +10183,6 @@ blumen-creativ.ch
 blumen-daniela.ch
 blumen-des-lebens.ch
 blumen-diana.ch
-blumen-direkt.ch
 blumen-dolder.ch
 blumen-epp.ch
 blumen-etc.ch
@@ -11231,7 +11228,6 @@ bluphoria.ch
 blupi.ch
 blupill.ch
 bluplanet.ch
-blupoint.ch
 bluprisma.ch
 bluprnt.ch
 blupura.ch
@@ -11382,7 +11378,6 @@ blutdiagnostik.ch
 blutdienst.ch
 blutdoc.ch
 blutdruck-gesundheit.ch
-blutdruck-info.ch
 blutdruck-messen.ch
 blutdruck-messgeraet.ch
 blutdruck-messgeraete.ch
@@ -11391,7 +11386,6 @@ blutdruck-salz.ch
 blutdruck-senken.ch
 blutdruck.ch
 blutdruckcomputer.ch
-blutdruckinfo.ch
 blutdruckmessen.ch
 blutdruckmessenistboso.ch
 blutdruckmesser.ch
@@ -11452,10 +11446,8 @@ blutgruppe-schnelltest.ch
 blutgruppe.ch
 blutgruppef.ch
 blutgruppen.ch
-bluthochdruck-info.ch
 bluthochdruck-senken.ch
 bluthochdruck.ch
-bluthochdruckinfo.ch
 bluthservices.ch
 blutimdunkelfeld.ch
 blutimdunkelfeldbetrachtet.ch

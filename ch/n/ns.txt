@@ -192,7 +192,6 @@ ns.dnslab.ch
 ns.domrobot.ch
 ns.dotforge.ch
 ns.dt360.ch
-ns.e-imprimerie.ch
 ns.e621gmbh.ch
 ns.eac-leshalles.ch
 ns.eaw-ot.ch
@@ -251,7 +250,6 @@ ns.goeldi.ch
 ns.goldschopf.ch
 ns.goline.ch
 ns.gonogo.ch
-ns.graphiplus.ch
 ns.greatsite.ch
 ns.gutekueche.ch
 ns.h2o.ch
@@ -2660,7 +2658,6 @@ ns1.mychoice.ch
 ns1.mycreperie.ch
 ns1.mydelta.ch
 ns1.mydiabet.ch
-ns1.mydns.ch
 ns1.mydns4you.ch
 ns1.mydnsnet.ch
 ns1.mydo.ch
@@ -2894,6 +2891,7 @@ ns1.pascalraemy.ch
 ns1.past-webhosting.ch
 ns1.patmedia.ch
 ns1.patrickgut.ch
+ns1.patriziatotremona.ch
 ns1.patschafer.ch
 ns1.patschbo.ch
 ns1.paus.ch
@@ -3131,7 +3129,6 @@ ns1.register.ch
 ns1.rehmatt.ch
 ns1.reichardt.ch
 ns1.reisen.ch
-ns1.relation.ch
 ns1.remarkt.ch
 ns1.remasec.ch
 ns1.remote-working.ch
@@ -3978,7 +3975,6 @@ ns1.yourdevice-cloud.ch
 ns1.yourdevice.ch
 ns1.yourmedia.ch
 ns1.yoursite.ch
-ns1.yourspot.ch
 ns1.yousway.ch
 ns1.yparc-hotel.ch
 ns1.ypsonet.ch
@@ -5408,7 +5404,6 @@ ns2.ictpark.ch
 ns2.icx23.ch
 ns2.icxnet.ch
 ns2.idbois.ch
-ns2.idiap.ch
 ns2.ie5.ch
 ns2.ievolution.ch
 ns2.ify.ch
@@ -5959,7 +5954,6 @@ ns2.mychoice.ch
 ns2.mycreperie.ch
 ns2.mydelta.ch
 ns2.mydiabet.ch
-ns2.mydns.ch
 ns2.mydns4you.ch
 ns2.mydnsnet.ch
 ns2.mydo.ch
@@ -6168,6 +6162,7 @@ ns2.pascalraemy.ch
 ns2.past-webhosting.ch
 ns2.patmedia.ch
 ns2.patrickgut.ch
+ns2.patriziatotremona.ch
 ns2.patschafer.ch
 ns2.patschbo.ch
 ns2.paus.ch
@@ -6399,7 +6394,6 @@ ns2.regiorama.ch
 ns2.register.ch
 ns2.rehmatt.ch
 ns2.reisen.ch
-ns2.relation.ch
 ns2.remarkt.ch
 ns2.remote-working.ch
 ns2.rennstallschachen.ch
@@ -7227,7 +7221,6 @@ ns2.yourdevice-cloud.ch
 ns2.yourdevice.ch
 ns2.yourmedia.ch
 ns2.yoursite.ch
-ns2.yourspot.ch
 ns2.yousway.ch
 ns2.yparc-hotel.ch
 ns2.ypsonet.ch
@@ -7807,6 +7800,7 @@ ns3.owcd.ch
 ns3.padcom.ch
 ns3.paraplegie.ch
 ns3.partybeats.ch
+ns3.patriziatotremona.ch
 ns3.paycon.ch
 ns3.pcdog.ch
 ns3.pcguy.ch
@@ -8254,6 +8248,7 @@ ns4.osintswitzerland.ch
 ns4.ovx.ch
 ns4.panthere.ch
 ns4.partybeats.ch
+ns4.patriziatotremona.ch
 ns4.paycon.ch
 ns4.pcdog.ch
 ns4.pedake.ch
@@ -8791,6 +8786,7 @@ nspielart.ch
 nspilates.ch
 nspir.ch
 nspire.ch
+nspiresports.ch
 nspirit.ch
 nspirits.ch
 nspitz.ch

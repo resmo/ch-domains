@@ -42,6 +42,7 @@ op-schema.ch
 op-schemen.ch
 op-schuhe.ch
 op-services.ch
+op-skins.ch
 op-t.ch
 op-termin.ch
 op-therapie-praxis.ch
@@ -1342,7 +1343,6 @@ openglide.ch
 openglobefoundation.ch
 opengmbhinswitzerland.ch
 opengoal.ch
-opengov.ch
 opengovclimate.ch
 opengovcode.ch
 opengovdata.ch
@@ -1449,7 +1449,6 @@ openjur.ch
 openjustice.ch
 openjustitia.ch
 openjustizia.ch
-openkarma.ch
 openkf.ch
 openki-festival.ch
 openki.ch
@@ -1646,6 +1645,7 @@ openpress.ch
 openprices.ch
 openprivacy.ch
 openprivatebanking.ch
+openproductdata.ch
 openproductivity.ch
 openproject.ch
 openprojects.ch
@@ -2098,6 +2098,7 @@ operation-des-ligaments-croises.ch
 operation-dielsdorf.ch
 operation-du-genou.ch
 operation-endoprothetik.ch
+operation-ensemble.ch
 operation-esthetique.ch
 operation-hernien.ch
 operation-hope.ch
@@ -2130,6 +2131,7 @@ operationdechange.ch
 operationdielsdorf.ch
 operationen-thun.ch
 operationen.ch
+operationensemble.ch
 operationesthetique.ch
 operationfalafel.ch
 operationlibero.ch
@@ -2386,9 +2388,7 @@ opfusaft.ch
 opg.ch
 opge.ch
 opgo.ch
-oph-ag.ch
 oph.ch
-ophag.ch
 ophardt-hygiene.ch
 ophardt.ch
 ophaso.ch

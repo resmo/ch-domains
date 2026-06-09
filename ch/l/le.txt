@@ -232,7 +232,6 @@ le-cigar.ch
 le-cigare.ch
 le-cigarr.ch
 le-cinq.ch
-le-cintra.ch
 le-cirque.ch
 le-citoyen-de-geneve.ch
 le-citoyen-genevois.ch
@@ -491,7 +490,6 @@ le-juste-millieu.ch
 le-k.ch
 le-kabinet.ch
 le-kebap-biel.ch
-le-kebap-swiss.ch
 le-kebap.ch
 le-kids-club.ch
 le-kotchi-cite-lausanne.ch
@@ -640,6 +638,7 @@ le-mondial-aigle.ch
 le-mondial-pizza-kebab-aigle.ch
 le-monot-binningen.ch
 le-mont-sur-lausanne24.ch
+le-mont.ch
 le-montagnard-restaurant.ch
 le-montagnard.ch
 le-monturio.ch
@@ -786,6 +785,7 @@ le-piaf-luzern.ch
 le-piaf.ch
 le-pic-qui-clique.ch
 le-pic.ch
+le-picotin.ch
 le-pied.ch
 le-pierriste.ch
 le-pigeon.ch
@@ -3316,7 +3316,6 @@ learningbyviewing.ch
 learningcards.ch
 learningcenter.ch
 learningcoach.ch
-learningcoaching.ch
 learningcommunity.ch
 learningconbere.ch
 learningcosmos.ch
@@ -4730,7 +4729,6 @@ lebens-stark.ch
 lebens-start.ch
 lebens-stil.ch
 lebens-t-raum.ch
-lebens-tor.ch
 lebens-trainer.ch
 lebens-trauerbegleitung.ch
 lebens-traum.ch
@@ -5512,6 +5510,7 @@ lebensrede.ch
 lebensreden.ch
 lebensreflexion.ch
 lebensreform-zeitgeschichte.ch
+lebensreform.ch
 lebensregenwassercenter.ch
 lebensreich.ch
 lebensreise-balance.ch
@@ -6994,6 +6993,7 @@ leclouneuenegg.ch
 leclourouge2018.ch
 leclub-boussens.ch
 leclub.ch
+leclubcinema.ch
 leclubdefrancais.ch
 leclubdescanailles.ch
 leclubdescoiffeursgenevois.ch
@@ -9720,9 +9720,9 @@ legale-hanfprodukte.ch
 legale-notarile.ch
 legale-online-casinos.ch
 legale.ch
+legale365.ch
 legalea.ch
 legalease.ch
-legalecasinos.ch
 legaleco.ch
 legalecorti.ch
 legalehanfprodukte.ch
@@ -10423,6 +10423,7 @@ legial.ch
 legian.ch
 legiano.ch
 legianocas.ch
+legianocasino.ch
 legianoch.ch
 legib.ch
 legibierdudomaine.ch
@@ -11306,7 +11307,6 @@ lehmling.ch
 lehmofen.ch
 lehmofenbrot.ch
 lehmotion.ch
-lehmpark.ch
 lehmpizzaofen.ch
 lehmprodukte.ch
 lehmputz-reisch.ch
@@ -11699,6 +11699,7 @@ lehrlingsradio.ch
 lehrlingssaeule.ch
 lehrlingstag.ch
 lehrlingstausch.ch
+lehrlingstower.ch
 lehrlingswerkstatt.ch
 lehrlingswesen.ch
 lehrlingswettbewerb.ch
@@ -11981,7 +11982,6 @@ leibrente-schweiz.ch
 leibrente-vergleich.ch
 leibrente-vergleichen.ch
 leibrente.ch
-leibrenten.ch
 leibschneiderei.ch
 leibschneiderin.ch
 leibstadt.ch
@@ -13544,6 +13544,7 @@ lelandgoldston.ch
 lelanducoeur.ch
 lelangourmand.ch
 lelani.ch
+lelapin.ch
 lelapinblanc.ch
 lelapinbo.ch
 lelapinvert.ch
@@ -13622,7 +13623,6 @@ lelien-levaud.ch
 leliendelatribu.ch
 lelienessentiel.ch
 leliennaissant.ch
-lelierre.ch
 lelieu.ch
 lelieu23.ch
 lelieu24.ch
@@ -13663,7 +13663,6 @@ lelivresurlesquais.ch
 lelixir-de-parfum.ch
 lelixir.ch
 lelixircafe.ch
-leliy.ch
 lelk.ch
 lelkadre.ch
 lell.ch
@@ -14078,6 +14077,7 @@ lemandriversclub.ch
 lemandroneservices.ch
 lemanege.ch
 lemanemploi.ch
+lemanenergy.ch
 lemanespacesverts.ch
 lemanet.ch
 lemanevasion.ch
@@ -14813,7 +14813,6 @@ lemonbyte.ch
 lemoncake.ch
 lemoncaketheory.ch
 lemoncare.ch
-lemoncasino.ch
 lemoncasinos.ch
 lemoncat.ch
 lemonceramics.ch
@@ -15982,6 +15981,7 @@ lenomare.ch
 lenombredor.ch
 lenomusic.ch
 lenonband.ch
+lenondit.ch
 lenonmusic.ch
 lenonverbal.ch
 lenoo.ch
@@ -17533,6 +17533,7 @@ leonpizzakebaphaus-selzach.ch
 leonplatten.ch
 leonpluess.ch
 leonpromotionals.ch
+leonproperties.ch
 leonprotection.ch
 leonprotectioncontractors.ch
 leonrecyclage.ch
@@ -18679,7 +18680,6 @@ leqvio.ch
 ler-nen.ch
 ler.ch
 ler3.ch
-lera.ch
 leracapital.ch
 lerachat-express.ch
 lerachatexpress.ch
@@ -19300,7 +19300,6 @@ lerncoach-untergoms.ch
 lerncoach-zuerich.ch
 lerncoach.ch
 lerncoaches.ch
-lerncoaching-aargau.ch
 lerncoaching-adhs.ch
 lerncoaching-ammann.ch
 lerncoaching-beratung-bern.ch
@@ -19597,7 +19596,6 @@ lernenmitholz.ch
 lernenmithund.ch
 lernenmitki.ch
 lernenmitleo.ch
-lernenmitlust.ch
 lernenmitmanuelaschmid.ch
 lernenmitpferden.ch
 lernenmitroger.ch
@@ -20427,7 +20425,6 @@ lernupevolution.ch
 lernveranstaltungen.ch
 lernverlag.ch
 lernvertrauen.ch
-lernvideo.ch
 lernvideos.ch
 lernvideosammlung.ch
 lernvikariat.ch
@@ -20990,6 +20987,7 @@ les-decorateurs.ch
 les-delices-de-barbara.ch
 les-delices-de-caux.ch
 les-delices-de-karine.ch
+les-delices-de-lavaux.ch
 les-delices-du-fromager.ch
 les-delices-du-sud.ch
 les-delices.ch
@@ -21551,6 +21549,7 @@ les-rendez-vous-alternatif-bien-etre.ch
 les-renovations.ch
 les-reparations.ch
 les-residences-champ-bally.ch
+les-residences-du-poirier.ch
 les-residences-lully.ch
 les-residences-st-claude.ch
 les-residences.ch
@@ -21572,7 +21571,6 @@ les-rochers.ch
 les-roches.ch
 les-rodriguez.ch
 les-rois-du-vin.ch
-les-rois-mages.ch
 les-rosacees.ch
 les-rosatlits.ch
 les-rose-escort.ch
@@ -22745,7 +22743,6 @@ lescoco.ch
 lescocottes.ch
 lescocreatrices.ch
 lescoeursdesiviriez.ch
-lescol.ch
 lescollections.ch
 lescollectionsdegaetane.ch
 lescollectivesromandes.ch
@@ -22961,6 +22958,7 @@ lesdelicesdecheznous.ch
 lesdelicesdecycy.ch
 lesdelicesdefad.ch
 lesdelicesdejustine.ch
+lesdelicesdelavaux.ch
 lesdelicesdemanon.ch
 lesdelicesdemanuella.ch
 lesdelicesdemargaux.ch
@@ -23426,7 +23424,6 @@ lesestivalesdesvinsduvalais.ch
 lesestoff.ch
 lesestube.ch
 lesestudio.ch
-lesesuchti.ch
 leset.ch
 lesetagebu.ch
 lesetagebuch.ch
@@ -23580,6 +23577,7 @@ lesforestiersdujura.ch
 lesforfaits.ch
 lesformateurs.ch
 lesforster.ch
+lesforumidables.ch
 lesfosses.ch
 lesfouchies.ch
 lesfougeres-blonay.ch
@@ -24465,7 +24463,6 @@ lesopticiensmutualistes.ch
 lesoptometristes.ch
 lesopusduvorbourg.ch
 lesorangesdecarmelo.ch
-lesorbier.ch
 lesorceleur.ch
 lesorclothing.ch
 lesoreillesvolantes.ch
@@ -24573,7 +24570,6 @@ lespasserelles.ch
 lespasseursdememoire.ch
 lespassions.ch
 lespatagiles.ch
-lespatarox.ch
 lespatesdulions.ch
 lespatisseriesduroi.ch
 lespatounes.ch
@@ -25145,6 +25141,7 @@ lessee-direct.ch
 lesseedirect.ch
 lesselectionsdegreg.ch
 lesselectionswyss.ch
+lesselliers.ch
 lesselliersdudomaine.ch
 lessemeuses.ch
 lessence-ciel.ch
@@ -25915,6 +25912,7 @@ letheatredesfous.ch
 letheatreduconcert.ch
 letheatredugibloux.ch
 letheatredujura.ch
+letheatreemoi.ch
 lethedesmamans.ch
 letheophile.ch
 lether.ch
@@ -26415,7 +26413,6 @@ letsgobike.ch
 letsgobit.ch
 letsgobrandon.ch
 letsgobrunch.ch
-letsgodaddy.ch
 letsgodrive.ch
 letsgoevent.ch
 letsgoevents.ch
@@ -26731,7 +26728,6 @@ letthecitybreathe.ch
 letthegamecontinue.ch
 letthingstalk.ch
 letti-lugano.ch
-letti-nails.ch
 letti-ticino.ch
 letti.ch
 letticeramics.ch
@@ -28291,6 +28287,7 @@ leviager.ch
 levian.ch
 leviandobidelivery.ch
 levianettoyage.ch
+leviapatch.ch
 leviat-campus.ch
 leviat.ch
 leviatan-properties.ch
@@ -28942,6 +28939,7 @@ lexfidfiduciary.ch
 lexfile.ch
 lexfin.ch
 lexfind.ch
+lexfix.ch
 lexflex.ch
 lexflix.ch
 lexflow.ch
@@ -28970,7 +28968,6 @@ lexhist.ch
 lexhof.ch
 lexhr.ch
 lexhub.ch
-lexi-cosmetic.ch
 lexi-lrs-training.ch
 lexi-notaris.ch
 lexi-search.ch
@@ -29229,6 +29226,7 @@ lexte.ch
 lextec-demo.ch
 lextec-rechtsberatung.ch
 lextec.ch
+lextech.ch
 lextechinstitute.ch
 lextel.ch
 lextension.ch

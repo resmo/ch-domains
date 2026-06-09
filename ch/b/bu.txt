@@ -530,7 +530,6 @@ buch-dich-weg.ch
 buch-drucker.ch
 buch-e.ch
 buch-empfehlung.ch
-buch-er.ch
 buch-festival.ch
 buch-gestaltung.ch
 buch-handlung.ch
@@ -1194,6 +1193,7 @@ buchhaltig.ch
 buchhaltino.ch
 buchhaltung-administration.ch
 buchhaltung-anlagestiftung.ch
+buchhaltung-automatisiert.ch
 buchhaltung-basel.ch
 buchhaltung-basic.ch
 buchhaltung-bewegung.ch
@@ -1226,6 +1226,7 @@ buchhaltung-ivanova.ch
 buchhaltung-jobs-basel.ch
 buchhaltung-kaiser.ch
 buchhaltung-keller.ch
+buchhaltung-kmu.ch
 buchhaltung-luzern.ch
 buchhaltung-manfrin.ch
 buchhaltung-mit-topal.ch
@@ -2056,6 +2057,7 @@ buckfast.ch
 buckfastbiene.ch
 buckfastbienen.ch
 buckfastimker.ch
+buckhaus.ch
 buckhauser.ch
 buckhauserstrasse.ch
 buckholding.ch
@@ -2137,6 +2139,7 @@ budak-textiles.ch
 budak-textileshop.ch
 budak-textilreinigung.ch
 budak.ch
+budakfirstclass.ch
 budakovagarden.ch
 budakow.ch
 budanet.ch
@@ -3027,7 +3030,6 @@ buecherhandel.ch
 buecherhaus.ch
 buecherinmeinerhand.ch
 buecherinsel.ch
-buecherkabine.ch
 buecherkasten.ch
 buecherkaufen.ch
 buecherkiste.ch
@@ -3072,7 +3074,6 @@ buecherstand.ch
 buecherstimmen.ch
 buecherstube.ch
 buechertaxi.ch
-buecherthandwerk.ch
 buechertipps.ch
 buechertruhe.ch
 buecherundbergsicht.ch
@@ -3173,7 +3174,6 @@ buechler-meierhofer.ch
 buechler-messing-bruenieren.ch
 buechler-metallveredelung.ch
 buechler-multimedia.ch
-buechler-partner.ch
 buechler-plattenbelaege.ch
 buechler-providera.ch
 buechler-verlag.ch
@@ -5061,7 +5061,6 @@ buero-sona.ch
 buero-spaeti.ch
 buero-spezialist.ch
 buero-spitex.ch
-buero-sprichwort.ch
 buero-stalder.ch
 buero-stehleuchte.ch
 buero-stellen.ch
@@ -6059,7 +6058,6 @@ buettel.ch
 buetteli.ch
 buettenberg-schuetzen.ch
 buettenberg.ch
-buettenbergag.ch
 buettenen.ch
 buettenentreff.ch
 buettenhardt.ch
@@ -6318,6 +6316,7 @@ bufis.ch
 bufishop.ch
 bufisshop.ch
 bufisshot.ch
+bufiverse.ch
 bufix.ch
 buflix.ch
 bufo.ch
@@ -6726,7 +6725,6 @@ build.ch
 build10sport.ch
 build365.ch
 build3d.ch
-build4.ch
 build4life.ch
 build4me.ch
 build4travel.ch
@@ -7872,6 +7870,7 @@ bulluri.ch
 bullvodka.ch
 bullweb.ch
 bullweedcbd.ch
+bullwerk.ch
 bully-bar.ch
 bully-event.ch
 bully-und-barf.ch
@@ -9489,7 +9488,6 @@ burg-im-leimental24.ch
 burg-immobilien.ch
 burg-ipsach.ch
 burg-kirsch.ch
-burg-leuk.ch
 burg-merlischachen.ch
 burg-palma.ch
 burg-pfungen.ch
@@ -11638,7 +11636,6 @@ buscon.ch
 busconcept.ch
 busconso.ch
 busconsult.ch
-buscontrol.ch
 buscopan.ch
 buscore.ch
 buscos.ch
@@ -12770,7 +12767,6 @@ businesscom.ch
 businesscombi.ch
 businesscominternational.ch
 businesscommunication.ch
-businesscommunicationschool.ch
 businesscompta.ch
 businesscomputers.ch
 businesscomputing.ch
@@ -13998,6 +13994,7 @@ butcherandthechef.ch
 butcherclub.ch
 butcherfinch.ch
 butcherline.ch
+butchero.ch
 butchers.ch
 butchersandbicycles.ch
 butchersbistro.ch
@@ -14683,6 +14680,7 @@ buvettetolo.ch
 buvettezou.ch
 buvettezurlorze.ch
 buvettina.ch
+buvettli8.ch
 buvezag1.ch
 buvezdeleau.ch
 buvicon.ch
@@ -14697,6 +14695,7 @@ buwalda-design.ch
 buwalshop.ch
 buwaprint.ch
 buware.ch
+buwe3.ch
 buweb.ch
 buweg.ch
 buwel.ch
@@ -14886,6 +14885,7 @@ buygold.ch
 buygreece.ch
 buygreen.ch
 buygreenworks.ch
+buyhasbro.ch
 buyhealthy.ch
 buyhelvetica.ch
 buyheredogood.ch
@@ -15007,6 +15007,7 @@ buyswisswatch.ch
 buytaime.ch
 buythai.ch
 buythebea.ch
+buythebusiness.ch
 buythehamptons.ch
 buythelake.ch
 buytheriviera.ch
