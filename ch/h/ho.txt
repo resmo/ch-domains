@@ -722,6 +722,7 @@ hochdreibau.ch
 hochdruck-hero.ch
 hochdruck-injektion.ch
 hochdruck-injektionen.ch
+hochdruck-reinigen.ch
 hochdruck-reiniger.ch
 hochdruck-reinigung.ch
 hochdruck.ch
@@ -3895,6 +3896,7 @@ hof-griesbrunnen.ch
 hof-grossegg.ch
 hof-grosstannen.ch
 hof-gruenau.ch
+hof-gruober.ch
 hof-gstein.ch
 hof-guggenbuehl.ch
 hof-guggete.ch
@@ -4723,6 +4725,7 @@ hofgondas.ch
 hofgrafen.ch
 hofgravas.ch
 hofgruben.ch
+hofgruen.ch
 hofgschwend.ch
 hofgstein.ch
 hofguet.ch
@@ -6520,6 +6523,7 @@ holdor.ch
 holdorr.ch
 holdovers-film.ch
 holdpraxis.ch
+holdr.ch
 holdrgagl.ch
 holdrio-wsf.ch
 holdrio.ch
@@ -7617,6 +7621,7 @@ hollywood-club.ch
 hollywood-coiffure.ch
 hollywood-collection.ch
 hollywood-escort.ch
+hollywood-ice-magic.ch
 hollywood-nails.ch
 hollywood-network-visualizer.ch
 hollywood-on-the-rocks.ch
@@ -9629,6 +9634,7 @@ holzhuesli-chalet.ch
 holzhuesli.ch
 holzhuette.ch
 holzhuettegaudi.ch
+holzhuettle.ch
 holzhuettli-pizza.ch
 holzhuser.ch
 holzhybrid.ch
@@ -9978,6 +9984,8 @@ holzmitfunktion.ch
 holzmitherz.ch
 holzmitschwung.ch
 holzmitstolz.ch
+holzmobil.ch
+holzmobile.ch
 holzmock.ch
 holzmodelle.ch
 holzmodul.ch
@@ -12139,6 +12147,7 @@ homelink.ch
 homelinker.ch
 homelinknet.ch
 homelinux.ch
+homelio.ch
 homelist.ch
 homelisting.ch
 homelite.ch
@@ -15123,6 +15132,7 @@ hopfendrinks.ch
 hopfenerd.ch
 hopfenfeld.ch
 hopfenfetzen.ch
+hopfenfeuer.ch
 hopfenfisch.ch
 hopfenfreak.ch
 hopfenfreaks.ch
@@ -16057,6 +16067,7 @@ horizons-magazine.ch
 horizons-nature.ch
 horizons-nouveaux-cb.ch
 horizons-psy.ch
+horizons-rh.ch
 horizons-riviera-chablais.ch
 horizons-valaisans.ch
 horizons.ch
@@ -17015,6 +17026,7 @@ horsephysio.ch
 horsepilot.ch
 horseplanet.ch
 horseplus.ch
+horsepoint.ch
 horsepool.ch
 horsepower-cars.ch
 horsepower.ch
@@ -17970,6 +17982,7 @@ hostcon.ch
 hostconnect.ch
 hostcontrol.ch
 hostcorner.ch
+hostcover.ch
 hostcow.ch
 hostcube.ch
 hostdata.ch
@@ -18370,7 +18383,6 @@ hostingspeicher.ch
 hostingstarterkit.ch
 hostingsuche.ch
 hostingsvizzera.ch
-hostingswiss.ch
 hostingswitch.ch
 hostingtech.ch
 hostingtestdomain.ch
@@ -18875,6 +18887,7 @@ hotel-agarta.ch
 hotel-agent.ch
 hotel-ahorni.ch
 hotel-ai-assistant.ch
+hotel-ai-check.ch
 hotel-ai.ch
 hotel-aigle.ch
 hotel-air.ch
@@ -19016,6 +19029,7 @@ hotel-baslertor-basel.ch
 hotel-baslertor-muttenz.ch
 hotel-bb-stossplatz.ch
 hotel-bb.ch
+hotel-beatenberg.ch
 hotel-beau-rivage.ch
 hotel-beau-sejour.ch
 hotel-beaurivage-nyon.ch
@@ -19060,6 +19074,7 @@ hotel-bernina.ch
 hotel-betten-check.ch
 hotel-betten-report.ch
 hotel-betten.ch
+hotel-bettmeralp.ch
 hotel-bettwaesche.ch
 hotel-biel.ch
 hotel-bienenberg.ch
@@ -19225,6 +19240,7 @@ hotel-delondres.ch
 hotel-delphin.ch
 hotel-derby-interlaken.ch
 hotel-derby-zermatt.ch
+hotel-derby.ch
 hotel-des-arts-neuchatel.ch
 hotel-des-arts.ch
 hotel-des-associations.ch
@@ -19562,6 +19578,7 @@ hotel-kaufen.ch
 hotel-kernen.ch
 hotel-kerzers.ch
 hotel-kettenbruecke.ch
+hotel-ki-check.ch
 hotel-ki-rezeption.ch
 hotel-ki-tool.ch
 hotel-ki.ch
@@ -19656,6 +19673,7 @@ hotel-leshautsderive.ch
 hotel-lesplanets.ch
 hotel-lessources.ch
 hotel-leukerbad.ch
+hotel-leysin.ch
 hotel-libelle.ch
 hotel-lido.ch
 hotel-limmathof-zuerich.ch
@@ -20004,6 +20022,7 @@ hotel-royalplaza.ch
 hotel-rubus.ch
 hotel-ruetli.ch
 hotel-rustico.ch
+hotel-saanen.ch
 hotel-saanenmoeser.ch
 hotel-saas.ch
 hotel-saasfee.ch
@@ -20063,6 +20082,7 @@ hotel-schwert.ch
 hotel-schwyz.ch
 hotel-scout.ch
 hotel-scouts.ch
+hotel-scuol.ch
 hotel-seaside.ch
 hotel-security.ch
 hotel-sedartis.ch
@@ -20085,6 +20105,7 @@ hotel-seraina.ch
 hotel-service.ch
 hotel-services.ch
 hotel-sicherheit.ch
+hotel-sichtbarkeit.ch
 hotel-sierre.ch
 hotel-siesta.ch
 hotel-sillot.ch
@@ -20453,6 +20474,7 @@ hotelanalyser.ch
 hotelandclinic.ch
 hotelandcliniconsulting.ch
 hotelanderaare.ch
+hotelandermatt.ch
 hotelanderreuss.ch
 hotelandthecity.ch
 hotelangebote.ch
@@ -20557,6 +20579,7 @@ hotelbaslertor.ch
 hotelbau.ch
 hotelbauberatung.ch
 hotelbb.ch
+hotelbeatenberg.ch
 hotelbeaulac.ch
 hotelbeaurivage-nyon.ch
 hotelbeaurivage.ch
@@ -20615,6 +20638,7 @@ hotelbett.ch
 hotelbett24.ch
 hotelbetten-schweiz.ch
 hotelbetten.ch
+hotelbettmeralp.ch
 hotelbettplaza.ch
 hotelbettwaesche.ch
 hotelbetween.ch
@@ -21211,6 +21235,7 @@ hotelgemmi.ch
 hotelgemse.ch
 hotelgeneva.ch
 hotelgeneve.ch
+hotelgenf.ch
 hotelgenossenschaft.ch
 hotelgeranio.ch
 hotelgeroldswil.ch
@@ -21241,6 +21266,7 @@ hotelgregory.ch
 hotelgreina.ch
 hotelgrimsel.ch
 hotelgrina.ch
+hotelgrindelwald.ch
 hotelgrischa.ch
 hotelgrischadavos.ch
 hotelgrischasils.ch
@@ -21251,6 +21277,7 @@ hotelgruesch.ch
 hotelgruppen.ch
 hotelgstaad.ch
 hotelgstaaderhof.ch
+hotelguard.ch
 hotelguenstig.ch
 hotelguenstiger.ch
 hotelguide-bodensee.ch
@@ -21471,6 +21498,7 @@ hotelkronewolfhalden.ch
 hotelkugelschreiber.ch
 hotelkurhaus.ch
 hotell.ch
+hotellaax.ch
 hotellabalance.ch
 hotellabarcablu.ch
 hotellachauxdabel.ch
@@ -21560,6 +21588,7 @@ hotellesfleurettes.ch
 hotelleslilas.ch
 hotellessapins.ch
 hotelletter.ch
+hotelleysin.ch
 hotelliberty.ch
 hotellido.ch
 hotellimmathof.ch
@@ -22135,6 +22164,7 @@ hotels.ch
 hotels24.ch
 hotels4u.ch
 hotels4you.ch
+hotelsaanen.ch
 hotelsaanenmoeser.ch
 hotelsaas.ch
 hotelsaasfee.ch
@@ -22216,6 +22246,7 @@ hotelschynigeplatte.ch
 hotelscom.ch
 hotelscombined.ch
 hotelscouts.ch
+hotelscuol.ch
 hotelsdeluxe.ch
 hotelsearch.ch
 hotelseaside.ch
@@ -22562,6 +22593,7 @@ hotelweisskreuz.ch
 hotelwelcomeinn.ch
 hotelwellenberg.ch
 hotelwellness.ch
+hotelwengen.ch
 hotelwerbung.ch
 hotelwerk.ch
 hotelwetterhorn.ch

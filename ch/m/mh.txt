@@ -21,6 +21,9 @@ mh-coiffure.ch
 mh-commerce.ch
 mh-communication.ch
 mh-comptabilite-gestion.ch
+mh-conseil-et-formation.ch
+mh-conseil-formation.ch
+mh-conseil.ch
 mh-consulting.ch
 mh-cosmetics.ch
 mh-creative.ch
@@ -37,6 +40,7 @@ mh-excellence.ch
 mh-facility.ch
 mh-fiduciaire.ch
 mh-fit.ch
+mh-formation.ch
 mh-fotografie.ch
 mh-fusspflege.ch
 mh-futtercoaching.ch
@@ -206,6 +210,9 @@ mhcom.ch
 mhcommunication.ch
 mhcomputer.ch
 mhcon.ch
+mhconseil.ch
+mhconseiletformation.ch
+mhconseilformation.ch
 mhconsulenza.ch
 mhconsult.ch
 mhconsulting.ch
@@ -289,6 +296,7 @@ mhf.ch
 mhfa.ch
 mhfiduciaire.ch
 mhfoetali.ch
+mhformation.ch
 mhfotografie.ch
 mhfproductions.ch
 mhfs.ch
