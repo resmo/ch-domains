@@ -943,7 +943,6 @@ ns1.b23.ch
 ns1.baanchantrathaimassage.ch
 ns1.babbocomptoircorse.ch
 ns1.babyshiatsu-zuerioberland.ch
-ns1.bach-streaming.ch
 ns1.bachmann-bbb.ch
 ns1.backbone.ch
 ns1.baconniere.ch
@@ -1590,6 +1589,7 @@ ns1.ecomedia.ch
 ns1.ecomp.ch
 ns1.econostrom.ch
 ns1.ecothermsolar.ch
+ns1.ecowalldesign.ch
 ns1.ecowave.ch
 ns1.ecoweb.ch
 ns1.edebuser.ch
@@ -2244,6 +2244,7 @@ ns1.jdns.ch
 ns1.jean-marc-yersin.ch
 ns1.jemeteste.ch
 ns1.jenix.ch
+ns1.jenspoulsen.ch
 ns1.jetzt-kochen.ch
 ns1.jetztkochen.ch
 ns1.jlldealpage.ch
@@ -2363,6 +2364,7 @@ ns1.lagirra.ch
 ns1.lakenet.ch
 ns1.lamadrina.ch
 ns1.lamatouren.ch
+ns1.lamed.ch
 ns1.lamenuiseriegenevoise.ch
 ns1.lancer.ch
 ns1.landescape.ch
@@ -2392,7 +2394,6 @@ ns1.lesfeesdusommeil.ch
 ns1.lestudiodepierre.ch
 ns1.letirol.ch
 ns1.letsbuild.ch
-ns1.leuchterag.ch
 ns1.leunet.ch
 ns1.lexarcom.ch
 ns1.lexferenda.ch
@@ -3051,7 +3052,6 @@ ns1.proton.ch
 ns1.protonmail.ch
 ns1.protontech.ch
 ns1.protonvpn.ch
-ns1.providing.ch
 ns1.proxaid.ch
 ns1.psah.ch
 ns1.pschuetz.ch
@@ -3222,6 +3222,7 @@ ns1.samplezone.ch
 ns1.samsgarage.ch
 ns1.sandboxed.ch
 ns1.sandhofer-hosting.ch
+ns1.sandwee.ch
 ns1.sangue.ch
 ns1.sansolutions.ch
 ns1.sar-ha.ch
@@ -3426,7 +3427,6 @@ ns1.spiikr.ch
 ns1.spina-bifida.ch
 ns1.spinazze.ch
 ns1.spinnerundweber40.ch
-ns1.spocap.ch
 ns1.sponsoring24.ch
 ns1.spreng.ch
 ns1.sputniks.ch
@@ -4313,7 +4313,6 @@ ns2.baanchantrathaimassage.ch
 ns2.babbocomptoircorse.ch
 ns2.babs2.ch
 ns2.babyshiatsu-zuerioberland.ch
-ns2.bach-streaming.ch
 ns2.bachmann-bbb.ch
 ns2.backbone.ch
 ns2.baconniere.ch
@@ -4922,6 +4921,7 @@ ns2.ecolize.ch
 ns2.ecomp.ch
 ns2.econostrom.ch
 ns2.ecothermsolar.ch
+ns2.ecowalldesign.ch
 ns2.ecoweb.ch
 ns2.edebuser.ch
 ns2.edunetwork.ch
@@ -5561,6 +5561,7 @@ ns2.jdns.ch
 ns2.jean-marc-yersin.ch
 ns2.jemeteste.ch
 ns2.jenix.ch
+ns2.jenspoulsen.ch
 ns2.jetzt-kochen.ch
 ns2.jetztkochen.ch
 ns2.jjcr.ch
@@ -5673,6 +5674,7 @@ ns2.ladygym.ch
 ns2.lakenet.ch
 ns2.lamadrina.ch
 ns2.lamatouren.ch
+ns2.lamed.ch
 ns2.lamenuiseriegenevoise.ch
 ns2.lancer.ch
 ns2.landescape.ch
@@ -5703,7 +5705,6 @@ ns2.lesfeesdusommeil.ch
 ns2.lestudiodepierre.ch
 ns2.letirol.ch
 ns2.letsbuild.ch
-ns2.leuchterag.ch
 ns2.leunet.ch
 ns2.lexarcom.ch
 ns2.lexferenda.ch
@@ -6320,7 +6321,6 @@ ns2.proton.ch
 ns2.protonmail.ch
 ns2.protontech.ch
 ns2.protonvpn.ch
-ns2.providing.ch
 ns2.proxaid.ch
 ns2.psah.ch
 ns2.pschuetz.ch
@@ -6478,6 +6478,7 @@ ns2.salverte.ch
 ns2.sam.ch
 ns2.samplezone.ch
 ns2.sandhofer-hosting.ch
+ns2.sandwee.ch
 ns2.sangue.ch
 ns2.sansolutions.ch
 ns2.sar-ha.ch
@@ -6689,7 +6690,6 @@ ns2.spiikr.ch
 ns2.spina-bifida.ch
 ns2.spinazze.ch
 ns2.spinnerundweber40.ch
-ns2.spocap.ch
 ns2.sponsoring24.ch
 ns2.sprachnachweis.ch
 ns2.sputniks.ch

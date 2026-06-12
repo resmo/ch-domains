@@ -1809,7 +1809,6 @@ aventure-gruyere.ch
 aventure-interieure.ch
 aventure-katmandou.ch
 aventure-linguistique.ch
-aventure-pawsitive.ch
 aventure-physio.ch
 aventure-sauvage.ch
 aventure-sur-la-paille.ch
@@ -1827,6 +1826,7 @@ aventuregruyere.ch
 aventurejuraparc.ch
 aventurekids.ch
 aventurelactee.ch
+aventurelli.ch
 aventurenature.ch
 aventurephysio.ch
 aventures-nutrition.ch
@@ -2249,6 +2249,8 @@ avia-lieferschein.ch
 avia-luftwaffe.ch
 avia-maechler.ch
 avia-master.ch
+avia-masters-bet.ch
+avia-masters-play.ch
 avia-masters.ch
 avia-masters1.ch
 avia-osterwalder-sg.ch
@@ -2298,8 +2300,10 @@ aviall.ch
 aviamail.ch
 aviamarine.ch
 aviamaster.ch
+aviamasters-bet.ch
 aviamasters-casino.ch
 aviamasters-game.ch
+aviamasters-play.ch
 aviamasters-slot.ch
 aviamasters.ch
 aviamasters1.ch

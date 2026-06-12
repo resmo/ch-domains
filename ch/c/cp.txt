@@ -34,6 +34,7 @@ cp-controleoibt.ch
 cp-culinarik.ch
 cp-cv.ch
 cp-design.ch
+cp-dev.ch
 cp-elec.ch
 cp-electricite.ch
 cp-elektro.ch
@@ -324,7 +325,6 @@ cpdprodukteweltneuheit.ch
 cpdt-june.ch
 cpdzone.ch
 cpe-fribourg.ch
-cpe-infirmiere.ch
 cpe-lausanne.ch
 cpe-swiss.ch
 cpe-switzerland.ch
@@ -668,6 +668,7 @@ cppef.ch
 cppeinture.ch
 cppenfance-vaud.ch
 cppf-pbkf.ch
+cppf.ch
 cppg.ch
 cppi.ch
 cppib.ch
