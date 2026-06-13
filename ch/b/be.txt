@@ -600,7 +600,6 @@ be5s.ch
 be7.ch
 be8bar.ch
 be8en.ch
-be8energy.ch
 bea-art.ch
 bea-bears.ch
 bea-box.ch
@@ -1387,6 +1386,7 @@ bearded-butcher.ch
 bearded3dprints.ch
 beardedchefs.ch
 beardedcollie.ch
+beardedgoatrecords.ch
 beardedking-hotdogs.ch
 beardedking.ch
 beardedman.ch
@@ -1530,7 +1530,6 @@ beas-bunter-warenladen.ch
 beas-golden-wonderland.ch
 beas-hundeleinen.ch
 beas-it.ch
-beas-karten.ch
 beas-klangwelten.ch
 beas-krd.ch
 beas-kreatione.ch
@@ -3699,6 +3698,7 @@ beautyalliance.ch
 beautyaloha.ch
 beautyalvita.ch
 beautyampulle.ch
+beautyandbalance.ch
 beautyandbeast.ch
 beautyandbeyond.ch
 beautyandbodycare.ch
@@ -3943,6 +3943,7 @@ beautycenter-kosmetik.ch
 beautycenter-luzern.ch
 beautycenter-paradise.ch
 beautycenter-rigi.ch
+beautycenter-seelisberg.ch
 beautycenter-spalenberg.ch
 beautycenter.ch
 beautycenterbasel.ch
@@ -5968,6 +5969,7 @@ becomdesign.ch
 become-a-leader.ch
 become-a-mighty.ch
 become-a-nurse.ch
+become-advisory.ch
 become-group.ch
 become-leader.ch
 become-mvp.ch
@@ -6887,7 +6889,6 @@ beefer.ch
 beeferei.ch
 beeferia.ch
 beeferschweiz.ch
-beefershop.ch
 beefersuisse.ch
 beefgeneve.ch
 beefilmproductions.ch
@@ -9480,7 +9481,6 @@ bekindclub.ch
 bekindsnacks.ch
 bekindstore.ch
 bekine.ch
-beking.ch
 bekinky.ch
 bekion.ch
 bekipan.ch
@@ -12046,6 +12046,7 @@ bellurbis.ch
 bellus.ch
 belluscio.ch
 bellut.ch
+belluxe.ch
 belluxo.ch
 belluz.ch
 belluzzo-limousinen.ch
@@ -13365,7 +13366,9 @@ benda-switzerland.ch
 benda.ch
 bendahan.ch
 bendakova.ch
+bendamoto-schweiz.ch
 bendamoto-suedost.ch
+bendamoto-swiss.ch
 bendamoto.ch
 bendamotorcycles.ch
 bendamotozuerich.ch
@@ -14111,6 +14114,7 @@ benguela.ch
 benguerel.ch
 benguigui.ch
 bengundbartholin.ch
+bengusto.ch
 bengwerder.ch
 bengy.ch
 benha.ch
@@ -15923,6 +15927,7 @@ beomedia.ch
 beomedzentrum.ch
 beomoto.ch
 beomusic.ch
+beon-bet.ch
 beon-renovation.ch
 beon.ch
 beonais.ch
@@ -17346,6 +17351,7 @@ berg-skiclub-novartis.ch
 berg-stellt-aus.ch
 berg-stube.ch
 berg-swiss.ch
+berg-sync.ch
 berg-systems.ch
 berg-tal.ch
 berg-tg.ch
@@ -19087,6 +19093,7 @@ bergsteinmusic.ch
 bergstelltaus.ch
 bergstern.ch
 bergstiefel.ch
+bergstill.ch
 bergstille.ch
 bergstimme.ch
 bergstoff.ch
@@ -19138,6 +19145,8 @@ bergsunne.ch
 bergswiss.ch
 bergswisseistee.ch
 bergswissicetea.ch
+bergsync-automations.ch
+bergsync.ch
 bergsystems.ch
 bergtage.ch
 bergtal.ch
@@ -21464,7 +21473,6 @@ bernex-autrement.ch
 bernex-dentiste.ch
 bernex-lamaisontherapeutique.ch
 bernex-natation.ch
-bernex-place.ch
 bernex-soleil.ch
 bernex-tc.ch
 bernex-therapie.ch
@@ -22349,8 +22357,6 @@ bernsteincollection.ch
 bernsteindesign.ch
 bernsteine.ch
 bernsteiner.ch
-bernsteinfilm.ch
-bernsteinfilms.ch
 bernsteinhandel.ch
 bernsteinkette.ch
 bernsteinmanagement.ch
@@ -22689,6 +22695,7 @@ bersetkeller.ch
 bersets-homeoffice.ch
 bersetten.ch
 bersfit.ch
+bershebaskennel.ch
 bershka.ch
 bershkajobs.ch
 bersienne.ch
@@ -24294,6 +24301,7 @@ besecurity.ch
 beseder-immobiliare.ch
 beseder-immobilien.ch
 beseder-immobilier.ch
+beseder-news.ch
 beseder.ch
 besederimmobilien.ch
 besee.ch
@@ -26880,6 +26888,7 @@ bestofpastaswiss.ch
 bestofpinball.ch
 bestofpizzaswiss.ch
 bestofplastics.ch
+bestofportugal.ch
 bestofrapp.ch
 bestofschaffhausen.ch
 bestofschwyz.ch
@@ -30536,6 +30545,7 @@ betwise.ch
 betwixtandbetweentheater.ch
 betwn.ch
 bety.ch
+betya.ch
 betyle.ch
 betypic.ch
 betyr.ch
@@ -30546,6 +30556,7 @@ betz-engineering.ch
 betz-espinosa.ch
 betz-law.ch
 betz.ch
+betzastudio.ch
 betzavta.ch
 betzcoiffeur.ch
 betzcoiffure.ch
@@ -30977,6 +30988,7 @@ bewaesserung.ch
 bewaesserungen.ch
 bewaesserungs-anlage.ch
 bewaesserungs-system.ch
+bewaesserungs-systeme.ch
 bewaesserungs-technik.ch
 bewaesserungsanlage.ch
 bewaesserungsanlagen.ch
@@ -31676,6 +31688,7 @@ bewerbungonline.ch
 bewerbungpro.ch
 bewerbungs-berater.ch
 bewerbungs-bilder.ch
+bewerbungs-center.ch
 bewerbungs-coach.ch
 bewerbungs-coaching.ch
 bewerbungs-dokumente.ch
@@ -31718,6 +31731,7 @@ bewerbungsblog.ch
 bewerbungsboutique.ch
 bewerbungsbox.ch
 bewerbungsbuddy.ch
+bewerbungscenter.ch
 bewerbungschreiben.ch
 bewerbungschreibenlassen.ch
 bewerbungschreiber.ch
@@ -31942,6 +31956,7 @@ bewilligt.ch
 bewilligung.ch
 bewilligungen.ch
 bewilligungsbehoerden.ch
+bewilly.ch
 bewilux.ch
 bewimo.ch
 bewin.ch

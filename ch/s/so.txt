@@ -5348,6 +5348,7 @@ solaire-fribourg.ch
 solaire-ge.ch
 solaire-geneve.ch
 solaire-maintenance.ch
+solaire-maintenant.ch
 solaire-online.ch
 solaire-panneau.ch
 solaire-placedapprentissage.ch
@@ -5356,7 +5357,6 @@ solaire-romandie.ch
 solaire-service.ch
 solaire-services.ch
 solaire-suisse.ch
-solaire-sur-le-toit.ch
 solaire-thermique-valais.ch
 solaire-thermique.ch
 solaire-valais.ch
@@ -5392,7 +5392,6 @@ solairesav.ch
 solaireservices.ch
 solairestores.ch
 solairesuisse.ch
-solairesurletoit.ch
 solairethermique.ch
 solairevalais.ch
 solairevd.ch
@@ -5753,6 +5752,7 @@ solar-held.ch
 solar-helden.ch
 solar-help-point.ch
 solar-hero.ch
+solar-heute.ch
 solar-hirsch.ch
 solar-hoefe.ch
 solar-home.ch
@@ -9747,11 +9747,14 @@ solodaris.ch
 solodays.ch
 solodentis.ch
 solodesk.ch
+solodeskdigital.ch
 solodeskgo.ch
 solodeskhub.ch
 solodeskme.ch
 solodeskone.ch
 solodeskplus.ch
+solodesksoftware.ch
+solodesksystems.ch
 solodko.ch
 solodogwalks.ch
 solodonna.ch
@@ -10211,6 +10214,7 @@ solsetconstructions.ch
 solsfroids.ch
 solsg.ch
 solshare.ch
+solside.ch
 solsilva.ch
 solsiris.ch
 solsociety.ch
@@ -11017,6 +11021,7 @@ solvanastudio.ch
 solvance-gmbh.ch
 solvance.ch
 solvancegroup.ch
+solvane.ch
 solvanta.ch
 solvantics.ch
 solvantis.ch
@@ -12451,6 +12456,7 @@ somnia.ch
 somniabona.ch
 somniacenterbasel.ch
 somniacs.ch
+somniaintelligence.ch
 somniatis.ch
 somniazh.ch
 somnicare.ch
@@ -12773,6 +12779,7 @@ sondaggio-gastro-alberghiero.ch
 sondaggio-usc.ch
 sondaggio.ch
 sondaggiotraffico.ch
+sondar.ch
 sondaro.ch
 sondatore.ch
 sonde.ch
@@ -20579,6 +20586,7 @@ southshore.ch
 southside.ch
 southsideride.ch
 southstate.ch
+southstone.ch
 southsuisse.ch
 southte.ch
 southville.ch
@@ -21423,6 +21431,7 @@ soziale-innovation-fhnw.ch
 soziale-innovation.ch
 soziale-integration.ch
 soziale-jobs.ch
+soziale-ki.ch
 soziale-kompetenz-durch-coaching.ch
 soziale-kompetenz.ch
 soziale-medien.ch
@@ -21465,6 +21474,7 @@ sozialeinnovation.ch
 sozialeintegration.ch
 sozialeintelligenz.ch
 sozialejobs.ch
+sozialeki.ch
 sozialekontakte.ch
 sozialemedien.ch
 sozialemedizin.ch
@@ -21569,6 +21579,7 @@ sozialjurist.ch
 sozialkaffee.ch
 sozialkafi.ch
 sozialkarte.ch
+sozialki.ch
 sozialkit.ch
 sozialkitt.ch
 sozialklar.ch

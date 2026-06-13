@@ -963,7 +963,6 @@ ns1.bargnac.ch
 ns1.barium.ch
 ns1.barmettler-ict-hosting.ch
 ns1.basel-landschaft.ch
-ns1.basicsindesign.ch
 ns1.basler.ch
 ns1.basx.ch
 ns1.bauern-portal.ch
@@ -2341,6 +2340,7 @@ ns1.kpcs.ch
 ns1.krak.ch
 ns1.krea-ns.ch
 ns1.kreativloft-shop.ch
+ns1.krone-siebnen.ch
 ns1.ksb.ch
 ns1.kscag.ch
 ns1.ksso.ch
@@ -2364,7 +2364,6 @@ ns1.lagirra.ch
 ns1.lakenet.ch
 ns1.lamadrina.ch
 ns1.lamatouren.ch
-ns1.lamed.ch
 ns1.lamenuiseriegenevoise.ch
 ns1.lancer.ch
 ns1.landescape.ch
@@ -2664,7 +2663,6 @@ ns1.mydo.ch
 ns1.myexpatshop.ch
 ns1.myhostpart.ch
 ns1.myhostplus.ch
-ns1.mymeme.ch
 ns1.myrtillabox.ch
 ns1.myserverpanel.ch
 ns1.mysticindigo.ch
@@ -4327,7 +4325,6 @@ ns2.baratta.ch
 ns2.bargnac.ch
 ns2.barium.ch
 ns2.barmettler-ict-hosting.ch
-ns2.basicsindesign.ch
 ns2.basler.ch
 ns2.basx.ch
 ns2.bauern-portal.ch
@@ -5657,6 +5654,7 @@ ns2.krea-ns.ch
 ns2.kreativloft-shop.ch
 ns2.kreativmedia.ch
 ns2.kriz.ch
+ns2.krone-siebnen.ch
 ns2.kulturbau.ch
 ns2.kulturpark.ch
 ns2.kunstderpflege.ch
@@ -5674,7 +5672,6 @@ ns2.ladygym.ch
 ns2.lakenet.ch
 ns2.lamadrina.ch
 ns2.lamatouren.ch
-ns2.lamed.ch
 ns2.lamenuiseriegenevoise.ch
 ns2.lancer.ch
 ns2.landescape.ch
@@ -5958,7 +5955,6 @@ ns2.mydnsnet.ch
 ns2.mydo.ch
 ns2.myhostpart.ch
 ns2.myhostplus.ch
-ns2.mymeme.ch
 ns2.myrtillabox.ch
 ns2.myserverpanel.ch
 ns2.mysticindigo.ch
