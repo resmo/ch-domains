@@ -144,6 +144,7 @@ la-bouche-rit.ch
 la-boucherie.ch
 la-boucle-traiteur.ch
 la-bougie-enchantee.ch
+la-bouille.ch
 la-bouillotte.ch
 la-boulange.ch
 la-boulangerie-brevine.ch
@@ -1630,7 +1631,6 @@ la-terra.ch
 la-terrassa.ch
 la-terrasse-frauenfeld.ch
 la-terrasse-sion.ch
-la-terrasse.ch
 la-terrazza-chatelaine.ch
 la-terrazza.ch
 la-terza.ch
@@ -8553,7 +8553,6 @@ lafringale.ch
 lafringalegourmande.ch
 lafripamax.ch
 lafriperie.ch
-lafriquevousparle.ch
 lafrite.ch
 lafritefraiche.ch
 lafritesuisse.ch
@@ -11807,6 +11806,7 @@ lamalagahla.ch
 lamalam.ch
 lamaland.ch
 lamalapp.ch
+lamalcompare.ch
 lamalcote.ch
 lamalexpat.ch
 lamalgame.ch
@@ -15778,13 +15778,10 @@ langenthalerluft.ch
 langenthalerlust.ch
 langenthalernachtlaebe.ch
 langenthalertagblatt.ch
-langenthalerwasser.ch
 langenthalerzeitung.ch
 langenthalmitte.ch
 langenthalmusiziert.ch
 langenthals-mitte.ch
-langenthalwasser.ch
-langenthe.ch
 langeoog.ch
 langepatrick.ch
 langepult.ch
@@ -15818,19 +15815,10 @@ langetafel.ch
 langetautaxi.ch
 langete.ch
 langeten.ch
-langetenwasser.ch
 langetetal.ch
-langetewasser.ch
-langethen.ch
-langethenwasser.ch
-langethewasser.ch
-langethuschnaps.ch
-langethuwasser.ch
 langets.ch
 langetufit.ch
-langetuschnaps.ch
 langetustei.ch
-langetuwasser.ch
 langeuhren.ch
 langevents.ch
 langeweb.ch
@@ -17922,7 +17910,6 @@ lapoire.ch
 lapoirie.ch
 lapoissine.ch
 lapoissonnerie.ch
-lapola.ch
 lapolice.ch
 lapolpetta.ch
 lapolpettaticinese.ch
@@ -17976,6 +17963,7 @@ laposte.ch
 laposte13.ch
 laposte1341.ch
 lapostebanque.ch
+laposteinfo.ch
 laposterestaurant.ch
 lapostesuisse.ch
 lapostevisp.ch
@@ -18282,6 +18270,7 @@ lapwinggames.ch
 lapyantse.ch
 laq.ch
 laqa.ch
+laqcf.ch
 laqolline.ch
 laqqua.ch
 laqs.ch
@@ -22858,6 +22847,7 @@ latifa.ch
 latifapichler.ch
 latiffe.ch
 latiffolia.ch
+latiffy.ch
 latifi-consulting.ch
 latifi-design.ch
 latifi-events.ch
@@ -26770,7 +26760,6 @@ lavieensuite.ch
 lavieenverre.ch
 lavieenwool.ch
 lavieestbelle.ch
-lavieestdanslaprairie.ch
 lavieestmagnifique.ch
 lavieestmerveilleuse.ch
 lavieestsybelle.ch

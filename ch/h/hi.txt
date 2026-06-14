@@ -2,7 +2,6 @@ hi-2-u.ch
 hi-3d.ch
 hi-4-u.ch
 hi-5.ch
-hi-a.ch
 hi-advisory.ch
 hi-ag.ch
 hi-agency.ch
@@ -99,6 +98,7 @@ hi-res.ch
 hi-rheintal.ch
 hi-rice.ch
 hi-robin.ch
+hi-roestigraben.ch
 hi-rules.ch
 hi-saints.ch
 hi-schweiz.ch
@@ -3616,6 +3616,7 @@ hintermann-gallery.ch
 hintermann-gmbh.ch
 hintermann-reisen.ch
 hintermann-ruffini.ch
+hintermann-solutions.ch
 hintermann-treuhand.ch
 hintermann-werk.ch
 hintermann-wolfhausen.ch
@@ -3688,8 +3689,6 @@ hints.ch
 hintsa.ch
 hintsaclinic.ch
 hintshare.ch
-hintsolution.ch
-hintsolutions.ch
 hintsolver.ch
 hintsuite.ch
 hintto.ch
