@@ -2367,7 +2367,6 @@ declaration-impots-carouge.ch
 declaration-impots-express.ch
 declaration-impots-ge.ch
 declaration-impots.ch
-declaration-online.ch
 declaration-quasi-resident.ch
 declaration-registre-transparence.ch
 declaration-sinistre.ch
@@ -2511,6 +2510,7 @@ deco-line.ch
 deco-lumiere.ch
 deco-maison.ch
 deco-mariage.ch
+deco-mixte.ch
 deco-more.ch
 deco-netservices.ch
 deco-noel.ch
@@ -5959,6 +5959,7 @@ deinangebot.ch
 deinangebot24.ch
 deinangelshop.ch
 deinankauf.ch
+deinanker.ch
 deinanlass.ch
 deinanwalt.ch
 deinanwalt24.ch
@@ -9119,6 +9120,7 @@ delicious-dreams.ch
 delicious-events.ch
 delicious-food.ch
 delicious-goods.ch
+delicious-insects.ch
 delicious-network.ch
 delicious-nutrition.ch
 delicious.ch
@@ -9202,7 +9204,6 @@ delighted.ch
 delightfactory.ch
 delightful-goldenbliss.ch
 delightful.ch
-delightfulcrime.ch
 delightfull.ch
 delightfulstillness.ch
 delightlab.ch
@@ -11576,7 +11577,6 @@ demenzhilfe.ch
 demenzhomecare.ch
 demenzinfo.ch
 demenzinitiative.ch
-demenzjournal.ch
 demenzkafi.ch
 demenzkompass.ch
 demenzkompetenz.ch
@@ -11609,6 +11609,7 @@ demenzpark.ch
 demenzpeers.ch
 demenzpfad.ch
 demenzpflege.ch
+demenzpflegeberatung.ch
 demenzpfoten.ch
 demenzplattform.ch
 demenzplus.ch
@@ -11821,6 +11822,7 @@ demirandaco.ch
 demirautomobile.ch
 demiray.ch
 demirbas-mbt.ch
+demirbas.ch
 demircali.ch
 demircan.ch
 demirci-it.ch
@@ -12295,6 +12297,7 @@ demoseite.ch
 demoserver.ch
 demoshapp.ch
 demoshop.ch
+demosite.ch
 demositeinternet.ch
 demoskopie.ch
 demosmobilia.ch
@@ -12327,6 +12330,7 @@ demoulain.ch
 demoura.ch
 demoures.ch
 demoussagetoit.ch
+demoussagetoiture.ch
 demousse-toit.ch
 demoustier.ch
 demoveo.ch
@@ -13399,6 +13403,7 @@ dennisgrobe.ch
 dennisjensen.ch
 dennisjueni.ch
 dennislueck.ch
+dennismarbacher.ch
 dennismoya.ch
 dennismuenger.ch
 dennisnelson.ch
@@ -16780,7 +16785,6 @@ der-schwager.ch
 der-schwarze-mob.ch
 der-schwarze-rabe.ch
 der-schwarze-tod.ch
-der-schweighofer.ch
 der-schweiz-verbunden.ch
 der-schweizer-krankenkassen-vergleich.ch
 der-schweizer-stiftungstag.ch
@@ -17029,7 +17033,6 @@ deraltemannzockt.ch
 deraltepfad.ch
 deralteweg.ch
 deramoklauf.ch
-deranalyst.ch
 deranalytiker.ch
 derandere.ch
 derandereadvent.ch
@@ -19981,7 +19984,6 @@ derzuvus.ch
 derzweisprachigeweg.ch
 derzweiteblick.ch
 derzweitegipfel.ch
-derzwischenraum.ch
 des-actes-pas-des-mots.ch
 des-ailes.ch
 des-alpes-taverne.ch
@@ -20277,7 +20279,6 @@ desegonzac.ch
 deseia.ch
 desein-dein-shirt.ch
 deseiner.ch
-desejo.ch
 deselaers.ch
 desema.ch
 desembouage-chauffage.ch
@@ -22579,7 +22580,6 @@ despromesses.ch
 desptitsbonheurs.ch
 despudelskern.ch
 desq.ch
-desqhub.ch
 desquaispourtous.ch
 desrand.ch
 desres.ch
@@ -23063,6 +23063,7 @@ destyle.ch
 destynea.ch
 desu.ch
 desuisse.ch
+desute.ch
 desverronieres.ch
 desviadas.ch
 desvins.ch
@@ -24082,7 +24083,6 @@ deutschepost.ch
 deutschepostbank.ch
 deutschepreise.ch
 deutscher-boxer.ch
-deutscher-club.ch
 deutscher-doggen-club.ch
 deutscher-fertighaus-verbund.ch
 deutscher-gewinnbote.ch
@@ -24738,7 +24738,6 @@ developics.ch
 developien.ch
 developimmo.ch
 developing-brands.ch
-developing-effective-organisations.ch
 developing.ch
 developingtalent.ch
 developintime.ch
@@ -25911,7 +25910,6 @@ dexclean.ch
 dexcleaningsystems.ch
 dexco.ch
 dexcom.ch
-dexcomone.ch
 dexcon.ch
 dexcook.ch
 dexd.ch
