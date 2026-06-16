@@ -1727,6 +1727,7 @@ ns1.fiducie.ch
 ns1.fidusafe.ch
 ns1.filmfreund.ch
 ns1.filmschloesser.ch
+ns1.filo-3d.ch
 ns1.fima-hosting.ch
 ns1.finalbit.ch
 ns1.finalfrontier.ch
@@ -1904,7 +1905,6 @@ ns1.gringo.ch
 ns1.grmail.ch
 ns1.grocy.ch
 ns1.groupemutuel.ch
-ns1.grouping.ch
 ns1.gruppo-tfm.ch
 ns1.gruppourani.ch
 ns1.gsdnet.ch
@@ -2204,7 +2204,6 @@ ns1.itaca.ch
 ns1.itapps.ch
 ns1.itautomate.ch
 ns1.itc-host.ch
-ns1.itc-rise.ch
 ns1.itcircle.ch
 ns1.itde.ch
 ns1.itdev.ch
@@ -5059,6 +5058,7 @@ ns2.fiduciaire-du-mont-blanc.ch
 ns2.fidusafe.ch
 ns2.filmfreund.ch
 ns2.filmschloesser.ch
+ns2.filo-3d.ch
 ns2.fima-hosting.ch
 ns2.finalbit.ch
 ns2.finalfrontier.ch
@@ -5228,7 +5228,6 @@ ns2.gridware.ch
 ns2.gringo.ch
 ns2.grmail.ch
 ns2.groupemutuel.ch
-ns2.grouping.ch
 ns2.gruppo-tfm.ch
 ns2.gruppourani.ch
 ns2.gsdnet.ch
@@ -5522,7 +5521,6 @@ ns2.itaca.ch
 ns2.itapps.ch
 ns2.itautomate.ch
 ns2.itc-host.ch
-ns2.itc-rise.ch
 ns2.itcircle.ch
 ns2.itdev.ch
 ns2.iteconomy.ch

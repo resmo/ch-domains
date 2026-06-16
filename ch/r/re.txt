@@ -443,7 +443,6 @@ rea-sim.ch
 rea-son.ch
 rea-spur0.ch
 rea-suisse.ch
-rea-swiss.ch
 rea-team.ch
 rea-treuhand.ch
 rea-yoga-luzern.ch
@@ -785,6 +784,7 @@ ready4fight.ch
 ready4fun.ch
 ready4gymi.ch
 ready4job.ch
+ready4lap.ch
 ready4meat.ch
 ready4money.ch
 ready4nature.ch
@@ -1062,7 +1062,6 @@ real-estate-logistics-solutions.ch
 real-estate-management.ch
 real-estate-marketing.ch
 real-estate-service.ch
-real-estate-services.ch
 real-estate-staging.ch
 real-estate-switzerland.ch
 real-estate-token.ch
@@ -1259,7 +1258,6 @@ realbauinvest.ch
 realbeauty.ch
 realbeautyglobal.ch
 realbeautystudio.ch
-realbelag.ch
 realberg.ch
 realbit.ch
 realblack.ch
@@ -1521,6 +1519,7 @@ realestatematching24.ch
 realestatemediation.ch
 realestatements.ch
 realestatemonkey.ch
+realestatemontreux.ch
 realestatemove.ch
 realestatenight.ch
 realestatepartner.ch
@@ -3529,6 +3528,7 @@ rebsamen.ch
 rebsamenag.ch
 rebsamengmbh.ch
 rebsamenguemligen.ch
+rebschule-keller.ch
 rebschule-meier.ch
 rebschule.ch
 rebschulen.ch
@@ -3814,6 +3814,7 @@ reception-academy.ch
 reception-ai.ch
 reception-hotel-ia.ch
 reception-manager.ch
+reception-par-type.ch
 reception-services.ch
 reception-telephonique-ia.ch
 reception.ch
@@ -4150,7 +4151,6 @@ rechnungsklar.ch
 rechnungskontrolle.ch
 rechnungskopie.ch
 rechnungslegung.ch
-rechnungspapier.ch
 rechnungspilot.ch
 rechnungsportal.ch
 rechnungsprogramm-handwerker.ch
@@ -5762,7 +5762,6 @@ recruitingiq.ch
 recruitingjob.ch
 recruitingjobs.ch
 recruitingkarriere.ch
-recruitingkompass.ch
 recruitinglikeaboss.ch
 recruitingmail.ch
 recruitingmitarbeiter.ch
@@ -9463,6 +9462,7 @@ reflektorwelt.ch
 reflektorzentrum.ch
 reflektstyle.ch
 reflengnau.ch
+reflet-alpin.ch
 reflet-de-l-ame.ch
 reflet-de-soi.ch
 reflet-neuchatel.ch
@@ -15272,6 +15272,7 @@ reimport-auto.ch
 reimport-wimmer.ch
 reimport.ch
 reimprecht.ch
+reimrammler.ch
 reimraupe.ch
 reims.ch
 reimundez.ch
@@ -15345,6 +15346,7 @@ reinarobin.ch
 reinart.ch
 reinarz-hygienemanagement.ch
 reinasan.ch
+reinau.ch
 reinauer-immobilien.ch
 reinauer.ch
 reinax.ch
@@ -15948,7 +15950,6 @@ reinigungscenter.ch
 reinigungscheck.ch
 reinigungschemie.ch
 reinigungschneider.ch
-reinigungschweiz.ch
 reinigungschweiz24.ch
 reinigungscockpit.ch
 reinigungscout.ch
@@ -16917,7 +16918,6 @@ reiseguru.ch
 reisegutschein.ch
 reisegutscheine.ch
 reisehaus.ch
-reisehelfer.ch
 reisehinweise.ch
 reisehit.ch
 reisehochschule-zuerich.ch
@@ -18397,6 +18397,7 @@ rekasi.ch
 rekastiftungferienhilfe.ch
 rekatreuhand.ch
 rekaweinundmehr.ch
+rekbm.ch
 rekenber.ch
 rekening.ch
 reker.ch
@@ -18823,6 +18824,7 @@ relaun.ch
 relaunch-it.ch
 relaunch-website.ch
 relaunch.ch
+relaunched.ch
 relausanne.ch
 relavance.ch
 relavancelab.ch
@@ -19697,6 +19699,7 @@ relocationexpert.ch
 relocationgeneva.ch
 relocationgenevoise.ch
 relocationlugano.ch
+relocationmontreux.ch
 relocationplus.ch
 relocations-services.ch
 relocations.ch
@@ -23880,6 +23883,7 @@ renovationenergetiquevalais.ch
 renovationenergetiquevaud.ch
 renovationenplus.ch
 renovationetdeco.ch
+renovationfacade.ch
 renovationfernandez.ch
 renovationfuchs.ch
 renovationgauthier.ch
@@ -24803,6 +24807,7 @@ rentalcompany.ch
 rentalconcept.ch
 rentalcover.ch
 rentalcy.ch
+rentaldossier.ch
 rentaldream.ch
 rentalens.ch
 rentalfamilyfilm.ch
@@ -25162,7 +25167,6 @@ renteria-online.ch
 renteria.ch
 rentero.ch
 renteroyal.ch
-rentery.ch
 rentes-avs-sures.ch
 rentes-des-femmes.ch
 rentes-genevoises.ch
@@ -25662,6 +25666,7 @@ renubero.ch
 renue.ch
 renuel.ch
 renuka.ch
+renukindle.ch
 renuli.ch
 renumag.ch
 renumbau.ch
@@ -25693,6 +25698,7 @@ renuwell.ch
 renvabau.ch
 renverse.ch
 renvi.ch
+renvia.ch
 renview.ch
 renvos.ch
 renvosreg.ch
@@ -26011,6 +26017,7 @@ repairme.ch
 repairmind.ch
 repairmobile.ch
 repairmstore.ch
+repairnet.ch
 repairnow.ch
 repairnshare.ch
 repairnstore.ch
@@ -26921,6 +26928,8 @@ reprate-design.ch
 reprax.ch
 reprefo-capital.ch
 reprefo.ch
+reprendre-entreprise.ch
+reprendrepme.ch
 repreneurs.ch
 repreno.ch
 reprep.ch
@@ -26945,6 +26954,7 @@ reprinted-by-huber.ch
 reprintedbyhuber.ch
 repris-ici.ch
 reprisdejustesse.ch
+reprise-alignee.ch
 reprise-auto.ch
 reprise-chantier.ch
 reprise-citroen.ch
@@ -26953,7 +26963,9 @@ reprise-de-biens.ch
 reprise-digital.ch
 reprise-entreprise.ch
 reprise-media.ch
+reprise-pme.ch
 reprise.ch
+reprisealignee.ch
 repriseauto.ch
 repriseautosuisse.ch
 reprisecitroen.ch
@@ -26965,6 +26977,8 @@ repriseentreprise.ch
 reprisegroup.ch
 repriselogement.ch
 reprisemediaww.ch
+reprisentreprise.ch
+reprisepme.ch
 reprises.ch
 reprisevoiture.ch
 repriseww.ch
@@ -27066,6 +27080,7 @@ reptec.ch
 reptech.ch
 reptechnic.ch
 reptechpro.ch
+reptechzone.ch
 reptelion.ch
 repterra.ch
 repti.ch
@@ -28293,6 +28308,7 @@ residence-du-chateau.ch
 residence-du-couchant.ch
 residence-du-leman.ch
 residence-du-marche.ch
+residence-du-puits.ch
 residence-du-soleil.ch
 residence-du-vallon.ch
 residence-du-village.ch
@@ -28843,6 +28859,7 @@ residenzaparcogeneroso.ch
 residenzaparcosanmichele.ch
 residenzapegaso.ch
 residenzappenzell.ch
+residenzaquerciabella.ch
 residenzariver.ch
 residenzarosalugano.ch
 residenzarovello.ch
@@ -29533,6 +29550,7 @@ resonance.ch
 resonanceart.ch
 resonancecapital.ch
 resonancedesign.ch
+resonanceducorps.ch
 resonancefarben.ch
 resonanceflow.ch
 resonancehub.ch
@@ -31036,6 +31054,7 @@ restaurant-fang.ch
 restaurant-farfallina.ch
 restaurant-farnsburg.ch
 restaurant-fass.ch
+restaurant-fattoria-mammamia.ch
 restaurant-favorita.ch
 restaurant-feldhof.ch
 restaurant-felsenblick.ch
@@ -32825,7 +32844,6 @@ restaurantducentre-saxon.ch
 restaurantduchasseur.ch
 restaurantduchevalblanc.ch
 restaurantduchevalnoir.ch
-restaurantducygne.ch
 restaurantdugolf.ch
 restaurantdugolfdepayerne.ch
 restaurantdugolfdesbois.ch
@@ -33655,7 +33673,6 @@ restaurantstoller.ch
 restaurantstory.ch
 restaurantstrajets.ch
 restaurantstrassburgerhof.ch
-restaurantstudenpark.ch
 restaurantstyl.ch
 restaurantsuanlong.ch
 restaurantsuche.ch
@@ -34682,6 +34699,7 @@ retaron.ch
 retarus.ch
 retas-schema.ch
 retas.ch
+retassocies.ch
 retatrutid.ch
 retatrutide.ch
 retaurant-schmiede.ch
@@ -36467,6 +36485,7 @@ reunderwat.ch
 reunet.ch
 reunify.ch
 reunion-academy.ch
+reunion-club.ch
 reunion-reisen.ch
 reunion.ch
 reunion2006.ch
@@ -36581,7 +36600,6 @@ reusser-cleaning.ch
 reusser-gartengestaltung.ch
 reusser-holzbau.ch
 reusser-immobilien.ch
-reusser-innendekorationen.ch
 reusser-ist.ch
 reusser-rueegg.ch
 reusser-thurgau.ch

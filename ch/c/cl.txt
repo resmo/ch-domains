@@ -7,7 +7,6 @@ cl-b.ch
 cl-baumanagement.ch
 cl-bausupport.ch
 cl-ceramiche.ch
-cl-coaching.ch
 cl-consult.ch
 cl-cottens.ch
 cl-design.ch
@@ -1055,6 +1054,7 @@ claro-app.ch
 claro-arbon.ch
 claro-baetterkinden.ch
 claro-balsthal.ch
+claro-belp.ch
 claro-brienz.ch
 claro-bubendorf.ch
 claro-burgdorf.ch
@@ -1711,6 +1711,7 @@ classicgarage-hombi.ch
 classicgaragehauser.ch
 classicgaragen.ch
 classicgolftours.ch
+classicgrand.ch
 classichabbo.ch
 classichair.ch
 classichandel.ch
@@ -4860,6 +4861,7 @@ clearaligner.ch
 clearaliner.ch
 clearance-group.ch
 clearance.ch
+clearancesystem.ch
 clearandbrief.ch
 clearandco.ch
 clearandcozy.ch
@@ -5128,6 +5130,7 @@ clearwell.ch
 clearwhey.ch
 clearwork.ch
 clearworks.ch
+clearx.ch
 cleary.ch
 clearyl.ch
 clearyourparcel.ch
@@ -9659,7 +9662,6 @@ cloudcatalog.ch
 cloudcatcher.ch
 cloudcdi.ch
 cloudcdn.ch
-cloudcenter.ch
 cloudchain.ch
 cloudchampion.ch
 cloudchampions.ch

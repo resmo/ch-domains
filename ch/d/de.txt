@@ -197,6 +197,7 @@ de-pet.ch
 de-pin.ch
 de-pizzol.ch
 de-pl-bielbienne-seeland.ch
+de-planification.ch
 de-planta.ch
 de-poly.ch
 de-power.ch
@@ -499,7 +500,6 @@ dealagent.ch
 dealalarm.ch
 dealamigo.ch
 dealan.ch
-dealance.ch
 dealanddeal.ch
 dealando.ch
 dealangebot.ch
@@ -1059,6 +1059,7 @@ debarras-vs.ch
 debarras-yverdon-les-bains.ch
 debarras.ch
 debarrasappartements.ch
+debarrascuisine.ch
 debarraselectro.ch
 debarrasfacile.ch
 debarrasgeneva.ch
@@ -1662,7 +1663,6 @@ debuechi.ch
 debuehler.ch
 debug.ch
 debugdeploy.ch
-debugfox.ch
 debugged.ch
 debugger.ch
 debugify.ch
@@ -4313,7 +4313,6 @@ defenda.ch
 defendable.ch
 defendcam.ch
 defendcellcam.ch
-defendcore.ch
 defendecolint.ch
 defendeer.ch
 defender-buchen.ch
@@ -4358,7 +4357,6 @@ defense-numerique.ch
 defense-penal.ch
 defense-solution-academy.ch
 defense-workshop.ch
-defense2rue.ch
 defense4me.ch
 defenseanimaux.ch
 defensecyber.ch
@@ -5909,7 +5907,6 @@ dein-webshop.ch
 dein-webspace.ch
 dein-weddingteam.ch
 dein-weg.ch
-dein-wegweiser.ch
 dein-wein.ch
 dein-weinachten.ch
 dein-wendepunkt.ch
@@ -10677,6 +10674,7 @@ deltherm.ch
 delti.ch
 deltian.ch
 delticom.ch
+deltify.ch
 deltigroup.ch
 deltima.ch
 deltix.ch
@@ -11901,6 +11899,7 @@ demo-1klick.ch
 demo-365.ch
 demo-alpgis.ch
 demo-ansicht.ch
+demo-app.ch
 demo-ara.ch
 demo-bauservice.ch
 demo-bf.ch
@@ -12465,6 +12464,7 @@ denbreems.ch
 denbrok.ch
 denc.ch
 dencars.ch
+dencartransport.ch
 dencell.ch
 dencheva.ch
 dencity.ch
@@ -15775,7 +15775,6 @@ deploypsy.ch
 deployswisstech.ch
 deplus.ch
 depnering.ch
-depo-nie.ch
 depo.ch
 depo3.ch
 depoformance.ch
@@ -16852,13 +16851,13 @@ der-tawus.ch
 der-techniker.ch
 der-techpart.ch
 der-teppich-meister.ch
-der-tester.ch
 der-textcoach.ch
 der-textdesigner.ch
 der-therapielaser.ch
 der-tierschutzverein.ch
 der-tiershop.ch
 der-tiful.ch
+der-tipp.ch
 der-tisch.ch
 der-tobi.ch
 der-tod.ch
@@ -17169,6 +17168,7 @@ derbeerenhof.ch
 derbeetplaner.ch
 derbefresh.ch
 derbegleitendeweg.ch
+derbeichtstuhl.ch
 derbekanntestemakler.ch
 derbelper.ch
 derbenny.ch
@@ -19447,7 +19447,6 @@ derrootserver.ch
 derrosenkranz.ch
 derroteengel.ch
 derrotefaden.ch
-derrotepunkt.ch
 derroteschuh.ch
 derrovita.ch
 derrubelrollt.ch
@@ -19664,7 +19663,6 @@ dertenorhornbauer.ch
 derteppichmeister.ch
 dertermin.ch
 dertest.ch
-dertester.ch
 dertext.ch
 dertexter.ch
 dertheatermacher.ch
@@ -24814,7 +24812,6 @@ developpeurimmobilier.ch
 developpeurweb.ch
 developptoi.ch
 developr.ch
-develops.ch
 developt.ch
 developu.ch
 developweb.ch
@@ -25037,6 +25034,7 @@ deviens-pinailleur.ch
 deviens-policier.ch
 deviens-qui-tu-es.ch
 deviens-toi.ch
+deviens.ch
 deviensarbitre.ch
 devienscettefemme.ch
 devienscroupier.ch
@@ -25649,6 +25647,7 @@ devries.ch
 devriesitconsulting.ch
 devrieslegaltax.ch
 devrmsoft.ch
+devrogermoser.ch
 devromandie.ch
 devrow.ch
 devrun.ch
@@ -25910,6 +25909,7 @@ dexclean.ch
 dexcleaningsystems.ch
 dexco.ch
 dexcom.ch
+dexcomone.ch
 dexcon.ch
 dexcook.ch
 dexd.ch

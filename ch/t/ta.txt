@@ -3651,7 +3651,6 @@ take-off-energy.ch
 take-off.ch
 take-on.ch
 take-one.ch
-take-part.ch
 take-shape.ch
 take-thai.ch
 take-the-best.ch
@@ -4128,6 +4127,7 @@ takunomi.ch
 takup.ch
 takushi.ch
 takutatu.ch
+takvim.ch
 takvimi.ch
 takvorian.ch
 takyu.ch
@@ -6082,6 +6082,7 @@ taminopalm.ch
 taminori.ch
 tamins.ch
 tamins24.ch
+tamir.ch
 tamira.ch
 tamis-hundesalon.ch
 tamis-redaction.ch
@@ -9382,6 +9383,7 @@ tap-room.ch
 tap-schiene.ch
 tap-toe.ch
 tap.ch
+tap1s.ch
 tap2.ch
 tap2cash.ch
 tap2pay.ch
@@ -11597,6 +11599,7 @@ tasteof.ch
 tasteofasia.ch
 tasteofbalkan.ch
 tasteofbalkank4.ch
+tasteofbalkans.ch
 tasteofbangkok.ch
 tasteofbelgium.ch
 tasteofbern.ch
