@@ -1290,7 +1290,6 @@ ns1.compa.ch
 ns1.compa365.ch
 ns1.comparis.ch
 ns1.compdesign.ch
-ns1.comperiomail.ch
 ns1.compi-host.ch
 ns1.compiworld.ch
 ns1.compnethosting.ch
@@ -1526,6 +1525,7 @@ ns1.dplan.ch
 ns1.dpmg.ch
 ns1.dpsintra.ch
 ns1.dpsoft.ch
+ns1.drachenstolz.ch
 ns1.drahtlos.ch
 ns1.draussen-im-element.ch
 ns1.dreamdiver.ch
@@ -1874,7 +1874,6 @@ ns1.gna.ch
 ns1.gnugen.ch
 ns1.go-net.ch
 ns1.goal11.ch
-ns1.goasp.ch
 ns1.goetz-immobilien.ch
 ns1.goforweb.ch
 ns1.goldenidea.ch
@@ -2944,6 +2943,7 @@ ns1.picfilm.ch
 ns1.pihosting.ch
 ns1.pimp-your-web-ag.ch
 ns1.pimp-your-web-hosting.ch
+ns1.pimp-your-web.ch
 ns1.pimpernet.ch
 ns1.pincopalloncino.ch
 ns1.pinkbox.ch
@@ -3107,7 +3107,6 @@ ns1.rc-timing.ch
 ns1.rcop.ch
 ns1.rda.ch
 ns1.rdde.ch
-ns1.re-fline.ch
 ns1.reachup.ch
 ns1.realness.ch
 ns1.rebelduck.ch
@@ -3198,7 +3197,6 @@ ns1.ruckzuck-design.ch
 ns1.rudolflemcke.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
-ns1.rvha.ch
 ns1.rxr.ch
 ns1.s-informatik.ch
 ns1.s-mi.ch
@@ -3772,7 +3770,6 @@ ns1.vs-creative.ch
 ns1.vs.ch
 ns1.vsm-nettoyage.ch
 ns1.vtspace.ch
-ns1.vulvantine.ch
 ns1.vyma.ch
 ns1.w-4.ch
 ns1.w3design.ch
@@ -4644,7 +4641,6 @@ ns2.compa.ch
 ns2.compa365.ch
 ns2.comparis.ch
 ns2.compdesign.ch
-ns2.comperiomail.ch
 ns2.competenceslinguistiques.ch
 ns2.competenzelinguistiche.ch
 ns2.compi-host.ch
@@ -4864,6 +4860,7 @@ ns2.dplan.ch
 ns2.dpmg.ch
 ns2.dpsintra.ch
 ns2.dpsoft.ch
+ns2.drachenstolz.ch
 ns2.drahtlos.ch
 ns2.dreamdiver.ch
 ns2.dreamgate.ch
@@ -5198,7 +5195,6 @@ ns2.gmlss1.ch
 ns2.gmpeinture.ch
 ns2.gna.ch
 ns2.go-net.ch
-ns2.goasp.ch
 ns2.goeldi.ch
 ns2.goetz-immobilien.ch
 ns2.goforweb.ch
@@ -6211,6 +6207,7 @@ ns2.picfilm.ch
 ns2.pihosting.ch
 ns2.pimp-your-web-ag.ch
 ns2.pimp-your-web-hosting.ch
+ns2.pimp-your-web.ch
 ns2.pimpernet.ch
 ns2.pincopalloncino.ch
 ns2.pinkbox.ch
@@ -6371,7 +6368,6 @@ ns2.rbxsystems.ch
 ns2.rc-timing.ch
 ns2.rcop.ch
 ns2.rda.ch
-ns2.re-fline.ch
 ns2.reachup.ch
 ns2.real-stein.ch
 ns2.realness.ch
@@ -6455,7 +6451,6 @@ ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
 ns2.rudolflemcke.ch
 ns2.rundb.ch
-ns2.rvha.ch
 ns2.rxr.ch
 ns2.s-informatik.ch
 ns2.s-mi.ch
@@ -7027,7 +7022,6 @@ ns2.vsag.ch
 ns2.vshn.ch
 ns2.vsm-nettoyage.ch
 ns2.vtspace.ch
-ns2.vulvantine.ch
 ns2.vyan.ch
 ns2.vyma.ch
 ns2.w-4.ch
@@ -8575,6 +8569,7 @@ nsctsacarrozzeria.ch
 nsd.brg.ch
 nsd.ch
 nsdag.ch
+nsdap.ch
 nsdconstruction.ch
 nsdesign.ch
 nsdestinations.ch

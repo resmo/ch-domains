@@ -1199,7 +1199,6 @@ exec.ch
 execal.ch
 execbridge.ch
 execdelta.ch
-execit.ch
 execlab.ch
 execleadership.ch
 execo-ag.ch
@@ -1526,6 +1525,7 @@ exeontrace.ch
 exeora.ch
 exeption.ch
 exeq.ch
+exequatur.ch
 exer-bautenschutz.ch
 exer-performance.ch
 exer.ch
@@ -2195,6 +2195,7 @@ exolift.ch
 exoline.ch
 exolink.ch
 exolis.ch
+exolotl.ch
 exolounge.ch
 exolutiomed.ch
 exolynk.ch
@@ -4535,6 +4536,7 @@ export-ticino.ch
 export-verlag.ch
 export-voiture.ch
 export.ch
+export24.ch
 exporta.ch
 exportabwicklung.ch
 exportal.ch
@@ -5419,7 +5421,6 @@ externalis.ch
 externalisation-expert.ch
 externalise.ch
 externality.ch
-externalwork.ch
 externalys.ch
 externas.ch
 externat-glacis.ch

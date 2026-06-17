@@ -11,6 +11,7 @@ op-benchmarking.ch
 op-beo.ch
 op-bm.ch
 op-campus.ch
+op-cases.ch
 op-en.ch
 op-ex.ch
 op-fc.ch
@@ -630,7 +631,6 @@ open-net.ch
 open-network.ch
 open-news.ch
 open-now.ch
-open-office.ch
 open-olitor.ch
 open-opportunities.ch
 open-padel.ch
@@ -4104,6 +4104,7 @@ optimasales.ch
 optimashop.ch
 optimasolar-aargau.ch
 optimasolar-ag.ch
+optimasolar-bern.ch
 optimasolar-chablais.ch
 optimasolar-fr.ch
 optimasolar-freiamt.ch
@@ -4268,7 +4269,6 @@ optimize-conseils.ch
 optimize-for-conversions.ch
 optimize-it.ch
 optimize-plus.ch
-optimize-today.ch
 optimize-your-life.ch
 optimize.ch
 optimize360.ch
@@ -4757,6 +4757,7 @@ optistore-designer.ch
 optistrom.ch
 optisuite.ch
 optisun.ch
+optisura.ch
 optisure.ch
 optiswiss.ch
 optisys.ch
