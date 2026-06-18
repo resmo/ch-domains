@@ -509,7 +509,6 @@ ns.zahnarztmuenchenstein.ch
 ns.zem-emc.ch
 ns.ziegelei-schumacher.ch
 ns.zlg.futurelab.ch
-ns.zyri.ch
 ns0.7asecond.ch
 ns0.barracudadesign.ch
 ns0.bscloud.ch
@@ -896,7 +895,6 @@ ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
-ns1.aspservice.ch
 ns1.assetalpin.ch
 ns1.assh.ch
 ns1.assistancepc.ch
@@ -2440,6 +2438,7 @@ ns1.lovanet.ch
 ns1.lovedns.ch
 ns1.lsne.ch
 ns1.lspd.ch
+ns1.lt7-lab.ch
 ns1.ltec.ch
 ns1.lu.ch
 ns1.luba-project.ch
@@ -3211,6 +3210,7 @@ ns1.sagar.ch
 ns1.sagitservices.ch
 ns1.sagservices.ch
 ns1.sahac.anniv.ch
+ns1.sakogroup.ch
 ns1.salverte.ch
 ns1.sam.ch
 ns1.samplezone.ch
@@ -4259,7 +4259,6 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
-ns2.aspservice.ch
 ns2.assh.ch
 ns2.assistancepc.ch
 ns2.assistances.ch
@@ -5747,6 +5746,7 @@ ns2.lounge-it.ch
 ns2.lovanet.ch
 ns2.lsne.ch
 ns2.lspd.ch
+ns2.lt7-lab.ch
 ns2.ltec.ch
 ns2.lu.ch
 ns2.luba-project.ch
@@ -6464,6 +6464,7 @@ ns2.sagar.ch
 ns2.sagitservices.ch
 ns2.sagservices.ch
 ns2.sahac.anniv.ch
+ns2.sakogroup.ch
 ns2.salverte.ch
 ns2.sam.ch
 ns2.samplezone.ch
