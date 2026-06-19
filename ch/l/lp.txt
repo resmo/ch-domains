@@ -45,7 +45,6 @@ lp-portal.ch
 lp-pratique.ch
 lp-protect.ch
 lp-radar.ch
-lp-s.ch
 lp-schweiz.ch
 lp-securite.ch
 lp-services.ch
@@ -55,6 +54,7 @@ lp-support.ch
 lp-test.ch
 lp-therapie.ch
 lp-treu.ch
+lp-treuhand-aarau.ch
 lp-visual.ch
 lp-wan.ch
 lp-zuerich.ch
@@ -364,7 +364,6 @@ lprova.ch
 lprs-reparaturservice.ch
 lprs.ch
 lprt-arch.ch
-lprz.ch
 lps-businesscenter.ch
 lps-ge-ecrivainpublic.ch
 lps-group.ch

@@ -717,7 +717,6 @@ bsgu.ch
 bsguitars.ch
 bsgw.ch
 bsgwettingen.ch
-bsgwin.ch
 bsgz.ch
 bsgzo.ch
 bsh-audio.ch
@@ -972,6 +971,7 @@ bsource.ch
 bsourcesa.ch
 bsouvenirs.ch
 bsow.ch
+bsp-advisory.ch
 bsp-ag.ch
 bsp-brandschutz.ch
 bsp-ch.ch
@@ -979,6 +979,7 @@ bsp-construction.ch
 bsp-datalabeling.ch
 bsp-elite.ch
 bsp-energie.ch
+bsp-group.ch
 bsp-hws.ch
 bsp-immo.ch
 bsp-ing.ch
@@ -988,6 +989,8 @@ bsp-law.ch
 bsp-management.ch
 bsp-meditech.ch
 bsp-network.ch
+bsp-partner.ch
+bsp-partners.ch
 bsp-shop.ch
 bsp-trading.ch
 bsp-zuerich.ch
@@ -995,6 +998,7 @@ bsp.ch
 bsp7.ch
 bspa.ch
 bspace.ch
+bspadvisory.ch
 bspag.ch
 bspahni.ch
 bspaint.ch
