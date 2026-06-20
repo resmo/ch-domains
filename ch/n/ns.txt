@@ -895,6 +895,7 @@ ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
+ns1.aspservice.ch
 ns1.assetalpin.ch
 ns1.assh.ch
 ns1.assistancepc.ch
@@ -970,7 +971,6 @@ ns1.baumer.ch
 ns1.bbcom.ch
 ns1.bbconsulting.ch
 ns1.bbiconstruct.ch
-ns1.bboxbbs.ch
 ns1.bbx.ch
 ns1.bbz.ch
 ns1.bc-net.ch
@@ -2760,7 +2760,6 @@ ns1.nordlandweb.ch
 ns1.nordmedia.ch
 ns1.notfalltraining.ch
 ns1.notfy.ch
-ns1.novaci-conseil.ch
 ns1.novamanaged.ch
 ns1.novaweb.ch
 ns1.novicomag.ch
@@ -3197,6 +3196,7 @@ ns1.ruckzuck-design.ch
 ns1.rudolflemcke.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
+ns1.rvha.ch
 ns1.rxr.ch
 ns1.s-informatik.ch
 ns1.s-mi.ch
@@ -4259,6 +4259,7 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
+ns2.aspservice.ch
 ns2.assh.ch
 ns2.assistancepc.ch
 ns2.assistances.ch
@@ -4331,7 +4332,6 @@ ns2.baz-med.ch
 ns2.bbcom.ch
 ns2.bbconsulting.ch
 ns2.bbiconstruct.ch
-ns2.bboxbbs.ch
 ns2.bbz.ch
 ns2.bc-net.ch
 ns2.bcts.ch
@@ -6036,7 +6036,6 @@ ns2.noraliqueurs.ch
 ns2.nordlandweb.ch
 ns2.nordmedia.ch
 ns2.notfy.ch
-ns2.novaci-conseil.ch
 ns2.novahosting.ch
 ns2.novamanaged.ch
 ns2.novaweb.ch
@@ -6452,6 +6451,7 @@ ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
 ns2.rudolflemcke.ch
 ns2.rundb.ch
+ns2.rvha.ch
 ns2.rxr.ch
 ns2.s-informatik.ch
 ns2.s-mi.ch
@@ -7328,6 +7328,7 @@ ns3.autorodel.ch
 ns3.avalisnt.ch
 ns3.avaloq-sourcing.ch
 ns3.avaloq.ch
+ns3.aviation.ch
 ns3.awk.ch
 ns3.axuris.ch
 ns3.aytec.ch
@@ -8611,6 +8612,7 @@ nsext3.avdtec.ch
 nsf-group.ch
 nsf-immobilien.ch
 nsf.ch
+nsfacadecolors-sarl.ch
 nsfamilyaffairs.ch
 nsfgroup.ch
 nsfk.ch

@@ -2146,7 +2146,6 @@ rideauxfranges.ch
 ridebanked.ch
 ridebase.ch
 ridebetter.ch
-ridebeyond.ch
 ridebeyondlimits.ch
 ridebeyondroutes.ch
 ridebicy.ch
@@ -2158,7 +2157,6 @@ ridebook.ch
 ridebrain.ch
 ridebright.ch
 ridebutler.ch
-ridebyond.ch
 ridecake.ch
 rideclean.ch
 ridecore-printed.ch
@@ -3941,6 +3939,8 @@ rigireisen.ch
 rigirelax.ch
 rigiremote.ch
 rigiresidence.ch
+rigirestaurant-steakhause.ch
+rigirestaurant-steakhouse.ch
 rigiriviera.ch
 rigirock.ch
 rigirolle.ch
@@ -3958,7 +3958,6 @@ rigiseafood.ch
 rigiseifen.ch
 rigiship.ch
 rigishop.ch
-rigisicht-zufikon.ch
 rigisleep.ch
 rigismile.ch
 rigismiles.ch
@@ -8364,6 +8363,7 @@ rivcams.ch
 rivco.ch
 rivdom.ch
 rive-azur.ch
+rive-centre.ch
 rive-change.ch
 rive-claire.ch
 rive-droite.ch

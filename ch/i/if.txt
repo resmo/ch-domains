@@ -2,7 +2,6 @@ if-ag.ch
 if-arch.ch
 if-atelier.ch
 if-bau.ch
-if-baugroup.ch
 if-c.ch
 if-consulting.ch
 if-es.ch
@@ -793,6 +792,7 @@ ifusa.ch
 ifuse.ch
 ifuture.ch
 ifux.ch
+ifv-ag.ch
 ifv-ejv.ch
 ifv-mastria.ch
 ifv.ch
