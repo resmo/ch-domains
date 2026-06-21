@@ -60,6 +60,8 @@ pf-wat.ch
 pf-watch.ch
 pf24-test.ch
 pf24.ch
+pf3l.ch
+pf3s.ch
 pf4.ch
 pf8.ch
 pf80.ch
@@ -1350,6 +1352,7 @@ pfdistribution.ch
 pfdivers.ch
 pfdl.ch
 pfdm.ch
+pfds.ch
 pfdubois.ch
 pfduleman.ch
 pfe-bau.ch
@@ -5220,6 +5223,7 @@ pftcar.ch
 pftest.ch
 pftheodoloz.ch
 pftimmermansag.ch
+pftl.ch
 pftm.ch
 pftp.ch
 pftreuhand.ch
