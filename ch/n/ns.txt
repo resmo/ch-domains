@@ -1497,6 +1497,7 @@ ns1.dns-zonen.ch
 ns1.dns24.ch
 ns1.dnscore.ch
 ns1.dnservice.ch
+ns1.dnsguardian.ch
 ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
@@ -3108,6 +3109,7 @@ ns1.rcop.ch
 ns1.rda.ch
 ns1.rdde.ch
 ns1.reachup.ch
+ns1.ready4lap.ch
 ns1.realness.ch
 ns1.rebelduck.ch
 ns1.reci.ch
@@ -3217,11 +3219,9 @@ ns1.salverte.ch
 ns1.sam.ch
 ns1.samplezone.ch
 ns1.samsgarage.ch
-ns1.sandboxed.ch
 ns1.sandhofer-hosting.ch
 ns1.sangue.ch
 ns1.sansolutions.ch
-ns1.sar-ha.ch
 ns1.sarahsideen.ch
 ns1.sarasanilagerplaetze.ch
 ns1.sarom.ch
@@ -3986,6 +3986,7 @@ ns1.zen-rollers.ch
 ns1.zenis.ch
 ns1.zenvoo.ch
 ns1.zerspanungspartner.ch
+ns1.zetadev.ch
 ns1.zh.hostbin.ch
 ns1.zhaw.ch
 ns1.zhbsd.ch
@@ -4835,6 +4836,7 @@ ns2.dns-net.ch
 ns2.dns-zonen.ch
 ns2.dns24.ch
 ns2.dnservice.ch
+ns2.dnsguardian.ch
 ns2.dnsking.ch
 ns2.dnsproxy.ch
 ns2.dnssec.ch
@@ -6370,6 +6372,7 @@ ns2.rc-timing.ch
 ns2.rcop.ch
 ns2.rda.ch
 ns2.reachup.ch
+ns2.ready4lap.ch
 ns2.real-stein.ch
 ns2.realness.ch
 ns2.rebelduck.ch
@@ -6473,7 +6476,6 @@ ns2.samplezone.ch
 ns2.sandhofer-hosting.ch
 ns2.sangue.ch
 ns2.sansolutions.ch
-ns2.sar-ha.ch
 ns2.sarahsideen.ch
 ns2.sarom.ch
 ns2.saschadonati.ch
@@ -7226,6 +7228,7 @@ ns2.zen-rollers.ch
 ns2.zenis.ch
 ns2.zenvoo.ch
 ns2.zerspanungspartner.ch
+ns2.zetadev.ch
 ns2.zh.hostbin.ch
 ns2.zhaw.ch
 ns2.zhdk.ch
@@ -8581,6 +8584,7 @@ nsdigital.ch
 nsdr.ch
 nsds.ch
 nsdtent.ch
+nsdtr-tajo.ch
 nse-game.ch
 nse-metallbau.ch
 nse-normschrank.ch
