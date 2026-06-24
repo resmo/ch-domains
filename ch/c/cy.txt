@@ -1960,7 +1960,6 @@ cydef.ch
 cydentity.ch
 cydepsa.ch
 cydepsarx.ch
-cyder.ch
 cydesign.ch
 cydesk.ch
 cydev.ch
@@ -1982,6 +1981,7 @@ cyfa-tech.ch
 cyfantir.ch
 cyfeed.ch
 cyfence.ch
+cyfend.ch
 cyfense-security.ch
 cyfense.ch
 cyfer.ch
@@ -2138,6 +2138,7 @@ cynamon.ch
 cynaps.ch
 cynar.ch
 cynara.ch
+cynarama.ch
 cynariste.ch
 cynaristes.ch
 cynatic-gmbh.ch

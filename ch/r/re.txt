@@ -127,7 +127,6 @@ re-find.ch
 re-fine.ch
 re-fined.ch
 re-fit.ch
-re-fix.ch
 re-flex.ch
 re-flexion.ch
 re-fline.ch
@@ -506,6 +505,7 @@ reachimpact.ch
 reaching-higher-ground.ch
 reachingout.ch
 reachingsummits.ch
+reachinternational.ch
 reachit-successofwomen.ch
 reachlink.ch
 reachly.ch
@@ -1854,6 +1854,7 @@ realitymaps.ch
 realitymotion.ch
 realityplus.ch
 realityproductions.ch
+realityscore.ch
 realitytextile.ch
 realitytraining.ch
 realityverse.ch
@@ -7570,6 +7571,7 @@ redmarble.ch
 redmarket.ch
 redmarmot.ch
 redmatt.ch
+redmatters.ch
 redmax.ch
 redmed.ch
 redmedia.ch
@@ -8317,6 +8319,7 @@ reedoo.ch
 reeds-festival.ch
 reeds.ch
 reedsfestival.ch
+reedshore.ch
 reedsolutions.ch
 reedspeedkart.ch
 reedsshop.ch
@@ -8478,6 +8481,7 @@ reemts.ch
 reena.ch
 reenactment-normandie-tours.ch
 reenactment.ch
+reenactors.ch
 reenakrishnaraja.ch
 reenathelly.ch
 reenchante-tes-courses.ch
@@ -9122,6 +9126,7 @@ referendum-materieldeguerre.ch
 referendum-morges.ch
 referendum-pbg.ch
 referendum-rectification.ch
+referendum-salaireminimum.ch
 referendum-spitalgesetz.ch
 referendum-subito.ch
 referendum-ue.ch
@@ -9929,6 +9934,7 @@ reformeavs2030.ch
 reformed-abc.ch
 reformed.ch
 reformedchurch.ch
+reformees.ch
 reformeesbaptistes.ch
 reformeet.ch
 reformefiscale-oui.ch
@@ -10651,7 +10657,6 @@ regb.ch
 regbas.ch
 regbl.ch
 regbox.ch
-regcan.ch
 regcell.ch
 regchdcapr24.ch
 regcheck.ch
@@ -10815,7 +10820,6 @@ regenefacteurs.ch
 regeneon.ch
 regenepure.ch
 regener.ch
-regener8.ch
 regenera-action.ch
 regenera.ch
 regeneragentur.ch
@@ -12633,7 +12637,6 @@ regioschrank.ch
 regioschreinerei.ch
 regioschule.ch
 regioschweiz.ch
-regioscore.ch
 regioscout.ch
 regiosearch-basel.ch
 regiosearch-consulting.ch
@@ -19085,7 +19088,6 @@ relaximochsen.ch
 relaxin.ch
 relaxinc-studio.ch
 relaxinc.ch
-relaxinfo.ch
 relaxing-music.ch
 relaxing-video.ch
 relaxing-videos.ch
@@ -19314,7 +19316,6 @@ relevance.ch
 relevancy.ch
 relevant-consulting.ch
 relevant-im-unterland.ch
-relevant-leben.ch
 relevant.ch
 relevantable.ch
 relevante-inhalte.ch
@@ -19323,7 +19324,6 @@ relevanteinhalte.ch
 relevantimunterland.ch
 relevantlab.ch
 relevantlabs.ch
-relevantleben.ch
 relevanto.ch
 relevantresearch.ch
 relevanz.ch
@@ -19376,6 +19376,7 @@ reliance-centre.ch
 reliance-centres.ch
 reliance-ge.ch
 reliance-geneve.ch
+reliance-hypnose.ch
 reliance-sa.ch
 reliance-therapie.ch
 reliance-therapies.ch
@@ -25086,7 +25087,6 @@ rentcalculator.ch
 rentcamper.ch
 rentcar.ch
 rentcar24.ch
-rentcardibartolo.ch
 rentcardo.ch
 rentcargeneva.ch
 rentcarlausanne.ch
@@ -25397,6 +25397,7 @@ rentmybulli.ch
 rentmycam.ch
 rentmycampervan.ch
 rentmycar.ch
+rentmycar24.ch
 rentmyclassiccar.ch
 rentmycompany.ch
 rentmydomains.ch
@@ -25666,6 +25667,7 @@ rentyourbarkeeper.ch
 rentyourbike.ch
 rentyourbrand.ch
 rentyourcamp.ch
+rentyourcar24.ch
 rentyourcfo.ch
 rentyourclothes.ch
 rentyourcounsel.ch
@@ -25866,7 +25868,6 @@ reoplan-zuerich.ch
 reoplan.ch
 reoplanbewirtschaftung.ch
 reoplannn-immobilien.ch
-reopz.ch
 reor-shop.ch
 reor.ch
 reorbis.ch
@@ -28221,6 +28222,7 @@ resetju.ch
 resetkosmetik.ch
 resetlab.ch
 resetlaser.ch
+resetlife.ch
 resetmaler.ch
 resetmeschweiz.ch
 resetnow.ch
@@ -29968,6 +29970,7 @@ respiranatira.ch
 respiranatiraverlag.ch
 respiranatura.ch
 respirando.ch
+respirapilates.ch
 respiraplus.ch
 respirar.ch
 respirare-atemtherapie.ch
@@ -30174,7 +30177,6 @@ responsiblepeace.ch
 responsibleperson.ch
 responsiblereturns.ch
 responsiblestay.ch
-responsiblesupplychain.ch
 responsiblete.ch
 responsibly.ch
 responsiva.ch
@@ -32439,7 +32441,6 @@ restaurant-vaud.ch
 restaurant-vda.ch
 restaurant-vegan.ch
 restaurant-veranda-geneve.ch
-restaurant-veranda.ch
 restaurant-vereinigung.ch
 restaurant-verena.ch
 restaurant-verenahof.ch
@@ -32716,7 +32717,6 @@ restaurantbenedikt.ch
 restaurantbeppi.ch
 restaurantberg.ch
 restaurantbergbach.ch
-restaurantbergli.ch
 restaurantberingerrandenturm.ch
 restaurantbermuda.ch
 restaurantbern.ch
@@ -32850,6 +32850,7 @@ restaurantdelafontaine.ch
 restaurantdelagarecroy.ch
 restaurantdelagoule.ch
 restaurantdelaigle.ch
+restaurantdelajungle.ch
 restaurantdelalaiterie.ch
 restaurantdelange.ch
 restaurantdelaplace.ch
@@ -35309,6 +35310,7 @@ retogruenenfelder.ch
 retogrueninger.ch
 retogschwend.ch
 retogsell.ch
+retogugger.ch
 retogurtner.ch
 retogygax.ch
 retohaas.ch
@@ -37648,7 +37650,6 @@ revision-citerne-migrol.ch
 revision-codage.ch
 revision-comptable.ch
 revision-domenghini.ch
-revision-dsg.ch
 revision-ebg.ch
 revision-haftung.ch
 revision-laa.ch

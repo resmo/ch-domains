@@ -1082,6 +1082,7 @@ ns1.bollow.ch
 ns1.bomm.ch
 ns1.bomweb.ch
 ns1.bondelle.ch
+ns1.bondloc.ch
 ns1.bonetticostruzioni.ch
 ns1.bonvintransports.ch
 ns1.bookingbelle.ch
@@ -1699,7 +1700,6 @@ ns1.falcohost.ch
 ns1.familienstimmen.ch
 ns1.familiezingg.ch
 ns1.famille-arm.ch
-ns1.famtec.ch
 ns1.fantasticservices.ch
 ns1.farmaciainternazionale.ch
 ns1.fasnachts-comite.ch
@@ -2665,7 +2665,6 @@ ns1.myexpatshop.ch
 ns1.myhostpart.ch
 ns1.myhostplus.ch
 ns1.myrtillabox.ch
-ns1.myserverpanel.ch
 ns1.mysticindigo.ch
 ns1.n3network.ch
 ns1.n3t.ch
@@ -3416,7 +3415,6 @@ ns1.spahan.ch
 ns1.spanischlernen.ch
 ns1.speakeron.ch
 ns1.speeddns.ch
-ns1.speedhosting.ch
 ns1.spendenseite.ch
 ns1.spiderfrog.ch
 ns1.spiikr.ch
@@ -4437,6 +4435,7 @@ ns2.bollow.ch
 ns2.bomm.ch
 ns2.bomweb.ch
 ns2.bondelle.ch
+ns2.bondloc.ch
 ns2.bonetticostruzioni.ch
 ns2.bonvintransports.ch
 ns2.bookingbelle.ch
@@ -5956,7 +5955,6 @@ ns2.mydo.ch
 ns2.myhostpart.ch
 ns2.myhostplus.ch
 ns2.myrtillabox.ch
-ns2.myserverpanel.ch
 ns2.mysticindigo.ch
 ns2.n3network.ch
 ns2.n3t.ch
@@ -6677,7 +6675,6 @@ ns2.space-web.ch
 ns2.spahan.ch
 ns2.speakeron.ch
 ns2.speeddns.ch
-ns2.speedhosting.ch
 ns2.spendenseite.ch
 ns2.spiderfrog.ch
 ns2.spiikr.ch
@@ -7735,7 +7732,6 @@ ns3.my-namaste.ch
 ns3.mydns4you.ch
 ns3.mydnsnet.ch
 ns3.myhostpart.ch
-ns3.myserverpanel.ch
 ns3.mysticindigo.ch
 ns3.mywebhost.ch
 ns3.n3network.ch
@@ -8220,7 +8216,6 @@ ns4.ms-swiss.ch
 ns4.msa-net.ch
 ns4.musikzielke.ch
 ns4.my-namaste.ch
-ns4.myserverpanel.ch
 ns4.mysticindigo.ch
 ns4.mywebhost.ch
 ns4.namemaster.ch
