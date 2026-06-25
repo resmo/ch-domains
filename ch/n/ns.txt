@@ -1499,7 +1499,6 @@ ns1.dns24.ch
 ns1.dnscore.ch
 ns1.dnservice.ch
 ns1.dnsguardian.ch
-ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -1549,7 +1548,6 @@ ns1.dsw-ag.ch
 ns1.dt360.ch
 ns1.dtpschmid.ch
 ns1.dudes.ch
-ns1.duflnet.ch
 ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
@@ -2403,6 +2401,7 @@ ns1.lgr-renovation.ch
 ns1.libracore.ch
 ns1.libralures.ch
 ns1.lichtensteiger.ch
+ns1.lichtquelle.ch
 ns1.lieferzonen.ch
 ns1.lightshining.ch
 ns1.likebets.ch
@@ -2665,6 +2664,7 @@ ns1.myexpatshop.ch
 ns1.myhostpart.ch
 ns1.myhostplus.ch
 ns1.myrtillabox.ch
+ns1.myserverpanel.ch
 ns1.mysticindigo.ch
 ns1.n3network.ch
 ns1.n3t.ch
@@ -3219,7 +3219,6 @@ ns1.sam.ch
 ns1.samplezone.ch
 ns1.samsgarage.ch
 ns1.sandhofer-hosting.ch
-ns1.sangue.ch
 ns1.sansolutions.ch
 ns1.sarahsideen.ch
 ns1.sarasanilagerplaetze.ch
@@ -3415,6 +3414,7 @@ ns1.spahan.ch
 ns1.spanischlernen.ch
 ns1.speakeron.ch
 ns1.speeddns.ch
+ns1.speedhosting.ch
 ns1.spendenseite.ch
 ns1.spiderfrog.ch
 ns1.spiikr.ch
@@ -4836,7 +4836,6 @@ ns2.dns-zonen.ch
 ns2.dns24.ch
 ns2.dnservice.ch
 ns2.dnsguardian.ch
-ns2.dnsking.ch
 ns2.dnsproxy.ch
 ns2.dnssec.ch
 ns2.dnssecure.ch
@@ -4880,7 +4879,6 @@ ns2.dsteiner.ch
 ns2.dsw-ag.ch
 ns2.dtpschmid.ch
 ns2.dudes.ch
-ns2.duflnet.ch
 ns2.duotones.ch
 ns2.dur.ch
 ns2.dustgroove.ch
@@ -5710,6 +5708,7 @@ ns2.lgr-renovation.ch
 ns2.libracore.ch
 ns2.libralures.ch
 ns2.lichtensteiger.ch
+ns2.lichtquelle.ch
 ns2.lieferzonen.ch
 ns2.lightshining.ch
 ns2.likebets.ch
@@ -5955,6 +5954,7 @@ ns2.mydo.ch
 ns2.myhostpart.ch
 ns2.myhostplus.ch
 ns2.myrtillabox.ch
+ns2.myserverpanel.ch
 ns2.mysticindigo.ch
 ns2.n3network.ch
 ns2.n3t.ch
@@ -6472,7 +6472,6 @@ ns2.salverte.ch
 ns2.sam.ch
 ns2.samplezone.ch
 ns2.sandhofer-hosting.ch
-ns2.sangue.ch
 ns2.sansolutions.ch
 ns2.sarahsideen.ch
 ns2.sarom.ch
@@ -6675,6 +6674,7 @@ ns2.space-web.ch
 ns2.spahan.ch
 ns2.speakeron.ch
 ns2.speeddns.ch
+ns2.speedhosting.ch
 ns2.spendenseite.ch
 ns2.spiderfrog.ch
 ns2.spiikr.ch
@@ -7458,6 +7458,7 @@ ns3.dns-cloud.ch
 ns3.dns-lst.ch
 ns3.dns-zonen.ch
 ns3.dnservice.ch
+ns3.dnsking.ch
 ns3.dnssecure.ch
 ns3.dnssecurity.ch
 ns3.doingit.ch
@@ -7732,6 +7733,7 @@ ns3.my-namaste.ch
 ns3.mydns4you.ch
 ns3.mydnsnet.ch
 ns3.myhostpart.ch
+ns3.myserverpanel.ch
 ns3.mysticindigo.ch
 ns3.mywebhost.ch
 ns3.n3network.ch
@@ -8121,6 +8123,7 @@ ns4.design4media.ch
 ns4.digitalsystems.ch
 ns4.dizmo.ch
 ns4.dns-cloud.ch
+ns4.dnsking.ch
 ns4.dnssecure.ch
 ns4.dnssecurity.ch
 ns4.doit-verein.ch
@@ -8216,6 +8219,7 @@ ns4.ms-swiss.ch
 ns4.msa-net.ch
 ns4.musikzielke.ch
 ns4.my-namaste.ch
+ns4.myserverpanel.ch
 ns4.mysticindigo.ch
 ns4.mywebhost.ch
 ns4.namemaster.ch
@@ -8565,7 +8569,6 @@ nsconsultant.ch
 nsconsulting.ch
 nscorsi.ch
 nscp.ch
-nscticino2023.ch
 nsctsacarrozzeria.ch
 nsd.brg.ch
 nsd.ch
