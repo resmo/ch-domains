@@ -269,6 +269,8 @@ ki-films.ch
 ki-filmstudio.ch
 ki-finanzen.ch
 ki-finder.ch
+ki-firmen.ch
+ki-firmenverzeichnis.ch
 ki-first.ch
 ki-fit.ch
 ki-fitness.ch
@@ -334,6 +336,7 @@ ki-haftung.ch
 ki-hamann.ch
 ki-handwerk.ch
 ki-hardware.ch
+ki-haus.ch
 ki-health.ch
 ki-healthcare.ch
 ki-hebel.ch
@@ -765,6 +768,7 @@ ki-seo-agentur.ch
 ki-seo-beratung.ch
 ki-seo-schweiz.ch
 ki-seo.ch
+ki-server.ch
 ki-service.ch
 ki-services-fuer-unternehmen.ch
 ki-servises.ch
@@ -908,6 +912,7 @@ ki-und-kirche.ch
 ki-und-management.ch
 ki-und-therapie.ch
 ki-unternehmen.ch
+ki-unternehmensverzeichnis.ch
 ki-unterricht.ch
 ki-unterstuetzung.ch
 ki-update.ch
@@ -928,6 +933,7 @@ ki-verso.ch
 ki-verstehen.ch
 ki-vertrieb.ch
 ki-verwaltungsrat.ch
+ki-verzeichnis.ch
 ki-video-produktion.ch
 ki-video.ch
 ki-videoads.ch
@@ -5379,6 +5385,7 @@ kinder-turniere.ch
 kinder-ueberraschen.ch
 kinder-umzug.ch
 kinder-und-eltern-im-schulstress.ch
+kinder-und-familienpraxis.ch
 kinder-und-jugend-praxis.ch
 kinder-und-jugend-psychiater.ch
 kinder-und-jugend-psychiatrie.ch
@@ -6319,6 +6326,7 @@ kindergeschirrshop.ch
 kindergesichter-lesen.ch
 kindergesichterlesen.ch
 kindergesundheit-nussbaum.ch
+kindergesundheit-zug.ch
 kindergesundheit.ch
 kindergesundheitbiel.ch
 kinderglueck-praxis.ch
@@ -6385,6 +6393,9 @@ kinderhaut-zuerich.ch
 kinderhaut.ch
 kinderhaven.ch
 kinderheilcoach.ch
+kinderheilkunde-huenenberg.ch
+kinderheilkunde-zentralschweiz.ch
+kinderheilkunde-zug.ch
 kinderheilkunde.ch
 kinderheilpraktiker-zuerich.ch
 kinderheilpraktiker.ch
@@ -6451,6 +6462,7 @@ kinderhoerengott.ch
 kinderhoergeraete.ch
 kinderhoerzentrum.ch
 kinderhof.ch
+kinderhomoeopathie-zug.ch
 kinderhomoeopathie.ch
 kinderhormonzentrum.ch
 kinderhoroskop.ch
@@ -6883,11 +6895,13 @@ kinderleben.ch
 kinderleicht-entspannen.ch
 kinderleicht-lernen.ch
 kinderleicht-luzern.ch
+kinderleicht-sehen.ch
 kinderleicht-tragen.ch
 kinderleicht.ch
 kinderleicht123.ch
 kinderleichtentdecken.ch
 kinderleichtgmbh.ch
+kinderleichtsehen.ch
 kinderleichtversichert.ch
 kinderlernenessen.ch
 kinderlernenleichter.ch
@@ -10111,6 +10125,7 @@ kingtom.ch
 kingtony.ch
 kingtoy.ch
 kingtrade.ch
+kingtransfer.ch
 kingtrone.ch
 kingturf.ch
 kingtut-interlaken.ch
@@ -10269,6 +10284,7 @@ kinly.ch
 kinlysocial.ch
 kinlytime.ch
 kinmed.ch
+kinmind.ch
 kinmotion.ch
 kinn.ch
 kinna.ch
@@ -10323,7 +10339,6 @@ kino-flims.ch
 kino-fr.ch
 kino-frauenfeld.ch
 kino-fuer-alle.ch
-kino-glarus.ch
 kino-gstaad.ch
 kino-gutschein.ch
 kino-gutscheine.ch
@@ -11105,7 +11120,6 @@ kipri.ch
 kiprint.ch
 kipro-ag.ch
 kipro.ch
-kiprofi.ch
 kiprofis.ch
 kiprojekt.ch
 kiprompt.ch
@@ -11619,6 +11633,7 @@ kircheimdorf.ch
 kircheimpark.ch
 kircheimpolyfeld.ch
 kircheimsihltal.ch
+kircheimumbau.ch
 kircheinbewegung.ch
 kirchejesuchristi.ch
 kirchejesuchristiderheiligenderletztentage.ch
@@ -12261,7 +12276,6 @@ kirchlindach24.ch
 kirchlipark.ch
 kirchmann-jobs.ch
 kirchmann.ch
-kirchmatt-breitenbach.ch
 kirchmatt.ch
 kirchmatte-neuenkirch.ch
 kirchmatte.ch
@@ -15105,7 +15119,6 @@ kivoncleaning.ch
 kivonfrauzufrau.ch
 kivora.ch
 kivorteil.ch
-kivox.ch
 kivra.ch
 kivu.ch
 kivuinvest.ch

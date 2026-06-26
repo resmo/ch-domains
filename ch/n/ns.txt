@@ -520,6 +520,7 @@ ns0.cxg.ch
 ns0.damlok.ch
 ns0.deurin.ch
 ns0.dn5.ch
+ns0.dnshub.ch
 ns0.drozilla.ch
 ns0.ecodev.ch
 ns0.estada.ch
@@ -617,7 +618,6 @@ ns02.blizzdns.ch
 ns02.cardcenter.ch
 ns02.clik.ch
 ns02.dand.ch
-ns02.dnshw.ch
 ns02.ender-informatics.ch
 ns02.fides.ch
 ns02.fis-he.ch
@@ -1499,6 +1499,7 @@ ns1.dns24.ch
 ns1.dnscore.ch
 ns1.dnservice.ch
 ns1.dnsguardian.ch
+ns1.dnshub.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -3545,7 +3546,6 @@ ns1.symple.ch
 ns1.syntax-agency.ch
 ns1.syselcloud.ch
 ns1.sysinfhosting.ch
-ns1.syslog.ch
 ns1.syslogsa.ch
 ns1.systacom.ch
 ns1.systemcrew.ch
@@ -4836,6 +4836,7 @@ ns2.dns-zonen.ch
 ns2.dns24.ch
 ns2.dnservice.ch
 ns2.dnsguardian.ch
+ns2.dnshub.ch
 ns2.dnsproxy.ch
 ns2.dnssec.ch
 ns2.dnssecure.ch
@@ -6804,7 +6805,6 @@ ns2.symple.ch
 ns2.syntax-agency.ch
 ns2.syselcloud.ch
 ns2.sysinfhosting.ch
-ns2.syslog.ch
 ns2.syslogsa.ch
 ns2.systacom.ch
 ns2.systemcrew.ch
@@ -7458,6 +7458,7 @@ ns3.dns-cloud.ch
 ns3.dns-lst.ch
 ns3.dns-zonen.ch
 ns3.dnservice.ch
+ns3.dnshub.ch
 ns3.dnsking.ch
 ns3.dnssecure.ch
 ns3.dnssecurity.ch
@@ -8123,6 +8124,7 @@ ns4.design4media.ch
 ns4.digitalsystems.ch
 ns4.dizmo.ch
 ns4.dns-cloud.ch
+ns4.dnshub.ch
 ns4.dnsking.ch
 ns4.dnssecure.ch
 ns4.dnssecurity.ch
@@ -8360,6 +8362,7 @@ ns5.core2.ch
 ns5.creativeagent.ch
 ns5.demicomp.ch
 ns5.dizmo.ch
+ns5.dnshub.ch
 ns5.emation.ch
 ns5.ezns.ch
 ns5.fhnw.ch
