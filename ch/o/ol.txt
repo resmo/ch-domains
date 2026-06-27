@@ -972,7 +972,6 @@ oldtimerparts.ch
 oldtimerparty.ch
 oldtimerpneu.ch
 oldtimerpostauto.ch
-oldtimerpostautofahrten.ch
 oldtimerprincess.ch
 oldtimerprofi.ch
 oldtimerradio.ch
@@ -1012,7 +1011,6 @@ oldtimertaxi.ch
 oldtimerteile.ch
 oldtimertouren.ch
 oldtimertraktoren.ch
-oldtimertraktorenclub.ch
 oldtimertransporte.ch
 oldtimertreff-schwaegalp.ch
 oldtimertreff.ch
@@ -1502,7 +1500,6 @@ olibell.ch
 olibernet.ch
 olibet.ch
 olibetta.ch
-oliblank.ch
 oliboesch.ch
 olibois.ch
 oliboswil.ch
@@ -3580,6 +3577,7 @@ olympesoftware.ch
 olympesport.ch
 olympfit.ch
 olympia-2022-schweiz.ch
+olympia-2038-partner.ch
 olympia-advisory.ch
 olympia-apotheke.ch
 olympia-bobrun.ch
@@ -3594,6 +3592,7 @@ olympia-kaffee.ch
 olympia-kaffeemaschinen.ch
 olympia-kassen.ch
 olympia-nein.ch
+olympia-partner-2038.ch
 olympia-pizza-kebab.ch
 olympia-riederalp.ch
 olympia-skin.ch

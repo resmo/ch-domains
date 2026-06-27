@@ -214,7 +214,6 @@ teachin.ch
 teaching-by-horses.ch
 teaching-english.ch
 teaching-heroes.ch
-teaching-lab.ch
 teaching-science.ch
 teaching-team-turicum.ch
 teaching.ch
@@ -228,7 +227,6 @@ teachinghealth.ch
 teachingheroes.ch
 teachinghorse.ch
 teachingknowledgetest.ch
-teachinglab.ch
 teachingphysics.ch
 teachingplus.ch
 teachings.ch
@@ -2487,7 +2485,6 @@ tecabau.ch
 tecables.ch
 tecaclac.ch
 tecad.ch
-tecad3d.ch
 tecadent.ch
 tecadicristallo.ch
 tecadio.ch
@@ -2663,7 +2660,6 @@ tech-design.ch
 tech-desk.ch
 tech-dev.ch
 tech-diving.ch
-tech-dock.ch
 tech-drive.ch
 tech-e.ch
 tech-easy.ch
@@ -2683,7 +2679,6 @@ tech-fest.ch
 tech-films.ch
 tech-finanz.ch
 tech-firm.ch
-tech-force.ch
 tech-fox.ch
 tech-glossar.ch
 tech-group.ch
@@ -2937,6 +2932,7 @@ techbank.ch
 techbar.ch
 techbasar.ch
 techbase.ch
+techbasel.ch
 techbat-ge.ch
 techbat.ch
 techbati.ch
@@ -4645,7 +4641,6 @@ techtimeapp.ch
 techtip.ch
 techtipp.ch
 techtipps.ch
-techtitute.ch
 techtones.ch
 techtonic.ch
 techtonik.ch
@@ -6499,7 +6494,6 @@ tejerina.ch
 tejero.ch
 tejerokeller.ch
 tejiner.ch
-tejo-immobilien.ch
 tejo.ch
 tejomed.ch
 tejoni.ch
@@ -6880,6 +6874,7 @@ telaristelecom.ch
 telaros.ch
 telart.ch
 telas.ch
+telassist.ch
 telast.ch
 telau.ch
 telauskunft.ch
@@ -10178,6 +10173,7 @@ teniolatev.ch
 tenir-parole.ch
 tenis.ch
 tenisch.ch
+tenish.ch
 tenispoint.ch
 tenisschule-horw.ch
 tenity.ch
@@ -10990,6 +10986,7 @@ tensorik.ch
 tensorlot.ch
 tensorlynx.ch
 tensormate.ch
+tensorpm.ch
 tensorte.ch
 tensorwave.ch
 tensorwealth.ch
@@ -12591,6 +12588,7 @@ terrablu.ch
 terrabois.ch
 terrabomb.ch
 terrabot.ch
+terrabox.ch
 terrabrain.ch
 terrabrasil.ch
 terrabrix.ch
@@ -13340,6 +13338,7 @@ terrasuite.ch
 terraswiss.ch
 terraswitzerland.ch
 terrasystems.ch
+terratec-fundation.ch
 terratec.ch
 terratech-ag.ch
 terratech.ch
@@ -13618,6 +13617,7 @@ terredecybele.ch
 terrededecouverte.ch
 terrededecouvertes.ch
 terredefeu.ch
+terredefleurs.ch
 terredeglaces.ch
 terredeguerison.ch
 terredeicastelli.ch
@@ -13757,7 +13757,6 @@ terresaintenatation.ch
 terresassoleeshumides.ch
 terresauvage.ch
 terresaventures.ch
-terrescue.ch
 terresdecafe.ch
 terresdecuisine.ch
 terresdelavaux.ch
@@ -14011,7 +14010,6 @@ terrys.ch
 terrysblingjewellry.ch
 terrysco.ch
 terrysmobilerhundesalon.ch
-terryspace.ch
 terryx.ch
 tersa-ag.ch
 tersa.ch
@@ -15406,6 +15404,7 @@ testcoach.ch
 testcoin.ch
 testcommaerp.ch
 testcommandeapi.ch
+testcommandedoc.ch
 testcommandefraudscore.ch
 testcommandeseb20250422.ch
 testcompass-it.ch
@@ -15622,7 +15621,6 @@ testictab.ch
 testieren.ch
 testierfaulheit.ch
 testiestili.ch
-testify.ch
 testigen.ch
 testikdevcrosspreprod.ch
 testikofen.ch
