@@ -25,6 +25,7 @@ qr-checkin.ch
 qr-checkout.ch
 qr-cloud.ch
 qr-code-1000.ch
+qr-code-demo.ch
 qr-code-generator.ch
 qr-code-generieren.ch
 qr-code-rechnung.ch
@@ -343,6 +344,7 @@ qrops.ch
 qrorder.ch
 qrorpa.ch
 qroses.ch
+qrosso.ch
 qround.ch
 qrox.ch
 qroyn.ch
