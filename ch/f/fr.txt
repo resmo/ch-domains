@@ -477,7 +477,6 @@ frag-den-treuhaender.ch
 frag-den-waeck.ch
 frag-die-apotheke.ch
 frag-die-engel.ch
-frag-die-karten.ch
 frag-dormann.ch
 frag-einen-steuerberater.ch
 frag-einen-steuerprofi.ch
@@ -1358,6 +1357,7 @@ francescaschori.ch
 francescasgroi.ch
 francescaspinedi.ch
 francescasproccati.ch
+francescastockersprachen.ch
 francescasuardi.ch
 francescathaler.ch
 francescato.ch
@@ -4952,7 +4952,6 @@ frauenverein-bonstetten.ch
 frauenverein-boswilkallern.ch
 frauenverein-brittnau.ch
 frauenverein-bruetten.ch
-frauenverein-bruettisellen.ch
 frauenverein-brunnen.ch
 frauenverein-bubikon-wolfhausen.ch
 frauenverein-buelach.ch
@@ -7118,6 +7117,7 @@ freelancerboerse.ch
 freelancercheck.ch
 freelancercloud.ch
 freelancerconcept.ch
+freelancerechner.ch
 freelancerfinden.ch
 freelancergate.ch
 freelancerhub.ch
@@ -8659,7 +8659,6 @@ freie-jobs.ch
 freie-journalisten.ch
 freie-journalistenschule.ch
 freie-journalistinnen.ch
-freie-jugend.ch
 freie-kmu.ch
 freie-landschaft-schwyz.ch
 freie-landschaft-sg.ch
@@ -10945,7 +10944,6 @@ fresh4u.ch
 fresh4you.ch
 fresha-restaurant.ch
 fresha.ch
-freshabc.ch
 freshacademy.ch
 freshaday.ch
 freshag.ch
@@ -12571,7 +12569,6 @@ fribourg-guardians.ch
 fribourg-guepes.ch
 fribourg-hotel.ch
 fribourg-hotels.ch
-fribourg-hypnose.ch
 fribourg-hypnotherapeute.ch
 fribourg-hypotheque.ch
 fribourg-hypotheques.ch
@@ -12679,7 +12676,6 @@ fribourggourmettour.ch
 fribourghockeywear.ch
 fribourghotel.ch
 fribourghotels.ch
-fribourghypnose.ch
 fribourghypo.ch
 fribourghypotheque.ch
 fribourgimmobilien.ch
@@ -16559,6 +16555,26 @@ frontiersin.ch
 frontiersofpandora.ch
 frontiersoftware.ch
 frontierte.ch
+frontierx-agenten.ch
+frontierx-agents.ch
+frontierx-ai.ch
+frontierx-automation.ch
+frontierx-automatisierung.ch
+frontierx-beratung.ch
+frontierx-consulting.ch
+frontierx-digital.ch
+frontierx-flow.ch
+frontierx-ki.ch
+frontierx-kmu.ch
+frontierx-labs.ch
+frontierx-operator.ch
+frontierx-ops.ch
+frontierx-prozesse.ch
+frontierx-services.ch
+frontierx-solutions.ch
+frontierx-systeme.ch
+frontierx-tech.ch
+frontierx-workflows.ch
 frontierx.ch
 frontify.ch
 frontigo.ch
@@ -17751,7 +17767,6 @@ frutex.ch
 fruth.ch
 fruthwilen.ch
 fruti.ch
-frutica.ch
 fruticetum-helveticum.ch
 frutico.ch
 fruticuti.ch
