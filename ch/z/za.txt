@@ -1494,11 +1494,9 @@ zahnarzt-dental-graenichen.ch
 zahnarzt-dental-horw.ch
 zahnarzt-dental-kriens.ch
 zahnarzt-dental-lenzburg.ch
-zahnarzt-dental-liebefeld.ch
 zahnarzt-dental-lounge.ch
 zahnarzt-dental-meggen.ch
 zahnarzt-dental-nottwil.ch
-zahnarzt-dental-ostermundigen.ch
 zahnarzt-dental-schaffhausen.ch
 zahnarzt-dental-schlieren.ch
 zahnarzt-dental-suhr.ch
@@ -1972,7 +1970,6 @@ zahnarzt-notfall-aargau.ch
 zahnarzt-notfall-chur.ch
 zahnarzt-notfall-schweiz.ch
 zahnarzt-notfall-stans.ch
-zahnarzt-notfall-wallisellen.ch
 zahnarzt-notfall-wetzikon.ch
 zahnarzt-notfall-zentrale.ch
 zahnarzt-notfall-zuerich.ch
@@ -2051,7 +2048,6 @@ zahnarzt-pfaffnau.ch
 zahnarzt-pfister.ch
 zahnarzt-pflug.ch
 zahnarzt-philipp.ch
-zahnarzt-phobie.ch
 zahnarzt-picassoplatz.ch
 zahnarzt-pilatus-zentrum.ch
 zahnarzt-pilatuszentum.ch
@@ -2515,7 +2511,6 @@ zahnarztbaumann.ch
 zahnarztbedarf.ch
 zahnarztbehandlung-ungarn.ch
 zahnarztbehandlung.ch
-zahnarztbellach.ch
 zahnarztbellevue.ch
 zahnarztbenken.ch
 zahnarztbenz.ch
@@ -2651,6 +2646,7 @@ zahnarztheuberger.ch
 zahnarztheviz.ch
 zahnarzthilfe.ch
 zahnarzthinwil.ch
+zahnarzthirschi.ch
 zahnarzthitzkirch.ch
 zahnarzthombrechtikon.ch
 zahnarzthomecare.ch
@@ -2846,7 +2842,6 @@ zahnarztpraxis-baumann.ch
 zahnarztpraxis-beckenried.ch
 zahnarztpraxis-beeler.ch
 zahnarztpraxis-beereuter.ch
-zahnarztpraxis-bellach.ch
 zahnarztpraxis-bellevue.ch
 zahnarztpraxis-belp.ch
 zahnarztpraxis-beringen.ch
@@ -3240,7 +3235,6 @@ zahnarztpraxisbahnhofuster.ch
 zahnarztpraxisbasel.ch
 zahnarztpraxisbaumann.ch
 zahnarztpraxisbeckenried.ch
-zahnarztpraxisbellach.ch
 zahnarztpraxisbern.ch
 zahnarztpraxisbertschinger.ch
 zahnarztpraxisbettoni.ch
@@ -3486,6 +3480,7 @@ zahnarztwinterthur.ch
 zahnarztwinti.ch
 zahnarztwohlen.ch
 zahnarztwollishofen.ch
+zahnarztworb.ch
 zahnarztwymann.ch
 zahnarztwyttenbach.ch
 zahnarztzehnder.ch
@@ -6955,6 +6950,7 @@ zazaosteria.ch
 zazapharma.ch
 zazarap.ch
 zazario.ch
+zazaza.ch
 zazd.ch
 zazeiken.ch
 zazen.ch

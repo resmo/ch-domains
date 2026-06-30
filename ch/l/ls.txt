@@ -37,6 +37,7 @@ ls-events.ch
 ls-facility.ch
 ls-films.ch
 ls-gartenbau.ch
+ls-gastro.ch
 ls-gestion.ch
 ls-gips.ch
 ls-golf.ch
@@ -309,7 +310,6 @@ lsgarage.ch
 lsgartenbau.ch
 lsgb.ch
 lsgc.ch
-lsge-data.ch
 lsge.ch
 lsgestion.ch
 lsgg.ch
@@ -352,7 +352,6 @@ lsi-gmbh.ch
 lsi-isoliertechnik.ch
 lsi-media.ch
 lsi-partners.ch
-lsi-students.ch
 lsi.ch
 lsib.ch
 lsic.ch

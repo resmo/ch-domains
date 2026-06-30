@@ -400,13 +400,13 @@ ksfw.ch
 ksg-advo.ch
 ksg-bau24.ch
 ksg-ccr.ch
-ksg-cdr.ch
 ksg-nw.ch
 ksg-nw175.ch
 ksg.ch
 ksgag.ch
 ksgarage.ch
 ksgb.ch
+ksgbl.ch
 ksggv.ch
 ksgk.ch
 ksgl.ch
@@ -469,6 +469,7 @@ ksimmo.ch
 ksinfo.ch
 ksinfra.ch
 ksing.ch
+ksinkasso-ag.ch
 ksinkasso.ch
 ksino.ch
 ksinstitut.ch
@@ -778,7 +779,6 @@ kstraining.ch
 kstransport.ch
 kstravel.ch
 kstreet.ch
-kstreetoast.ch
 kstreetoastch.ch
 kstreuhand.ch
 kstreuhandag.ch
