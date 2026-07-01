@@ -134,7 +134,6 @@ t-consteel.ch
 t-constructions.ch
 t-consult.ch
 t-consultant.ch
-t-consulting-gva.ch
 t-consulting.ch
 t-contract.ch
 t-control.ch
@@ -304,6 +303,7 @@ t-mail.ch
 t-mails.ch
 t-man.ch
 t-marineconsulting.ch
+t-mat.ch
 t-match.ch
 t-matik.ch
 t-max.ch

@@ -189,7 +189,6 @@ ch-formaggio.ch
 ch-formation.ch
 ch-forrer.ch
 ch-forschung.ch
-ch-fotodesign.ch
 ch-fotomontagen.ch
 ch-frauenfeld.ch
 ch-free-wifi.ch
@@ -560,7 +559,6 @@ ch-umzugsportal.ch
 ch-umzugsservice.ch
 ch-un.ch
 ch-v.ch
-ch-vergleich.ch
 ch-versicherungsmakler.ch
 ch-vertrieb.ch
 ch-views.ch
@@ -600,6 +598,7 @@ ch-wow.ch
 ch-wyss.ch
 ch-x.ch
 ch-xonbet.ch
+ch-ymne.ch
 ch-yoga.ch
 ch-zahnarzt-brunnen.ch
 ch-zentral.ch
@@ -2055,6 +2054,7 @@ chalet-la-lumiere.ch
 chalet-la-marmotte.ch
 chalet-la-tzoumaz.ch
 chalet-ladaille.ch
+chalet-laerche.ch
 chalet-laerchenhalte.ch
 chalet-lamarmotte-bruson.ch
 chalet-lapantheredesneiges.ch
@@ -3703,6 +3703,7 @@ champeronline.ch
 champery-aventure.ch
 champery-blanc.ch
 champery-chalet.ch
+champery-classic.ch
 champery-location.ch
 champery-parapente.ch
 champery-vacances.ch
@@ -4309,6 +4310,7 @@ changehiv.ch
 changehorizon.ch
 changehub.ch
 changeimpact.ch
+changeimpactexplorer.ch
 changeinabox.ch
 changeisintheair.ch
 changeispossible.ch
@@ -4459,7 +4461,6 @@ changnoi.ch
 chango.ch
 changpuak.ch
 changpuakassociation.ch
-changsha.ch
 changshou.ch
 changten.ch
 changthai-massage.ch
@@ -4876,6 +4877,7 @@ chantiersmagazine.ch
 chantiersnature.ch
 chantiersnews.ch
 chantili.ch
+chantilly.ch
 chantillyag.ch
 chantis-handwerk.ch
 chantis-herzwerk.ch
@@ -4885,10 +4887,6 @@ chantischreibt.ch
 chantishaarsalon.ch
 chantismakana.ch
 chantisoul.ch
-chantlabdiffusion.ch
-chantlabfestival.ch
-chantlabinfo.ch
-chantlabprod.ch
 chantmicheldumonthay.ch
 chantoiseau.ch
 chanton-wannenwechsel.ch
@@ -6006,7 +6004,6 @@ charliemaxwell.ch
 charliemaxwellcounselling.ch
 charliemaxwelltherapy.ch
 charliemike.ch
-charliemorecraft.ch
 charlienrik.ch
 charliepets.ch
 charliepopette.ch
@@ -6136,7 +6133,6 @@ charlottenordin.ch
 charlotteochocolat.ch
 charlotteparfois.ch
 charlottepralong.ch
-charlotteprobst.ch
 charlotterhys.ch
 charlotteroux.ch
 charlottes.ch
@@ -8263,8 +8259,10 @@ chavannes-le-chene24.ch
 chavannes-le-veyron.ch
 chavannes-le-veyron24.ch
 chavannes-pres-renens24.ch
+chavannes-residence-terre-sainte.ch
 chavannes-sur-moudon.ch
 chavannes-sur-moudon24.ch
+chavannes-terre-sainte-residence.ch
 chavannes.ch
 chavannes1022.ch
 chavannes2026.ch
@@ -8941,6 +8939,7 @@ checkfuchs.ch
 checkgpt.ch
 checkgreen.ch
 checkgse.ch
+checkhero.ch
 checkifreal.ch
 checkify.ch
 checkimmo.ch
@@ -8973,6 +8972,7 @@ checkinpay.ch
 checkins.ch
 checkinscan.ch
 checkinschwand.ch
+checkinshine.ch
 checkinstall.ch
 checkinthebox.ch
 checkinticket.ch
@@ -11678,6 +11678,7 @@ chezalain.ch
 chezalbert.ch
 chezalcina.ch
 chezalexandre.ch
+chezalexcosmetics.ch
 chezalice.ch
 chezaline.ch
 chezallemann.ch
@@ -11962,7 +11963,6 @@ chezmanu-epicerie.ch
 chezmanu.ch
 chezmanuepicerie.ch
 chezmaphysio.ch
-chezmarco.ch
 chezmargerite.ch
 chezmaria.ch
 chezmarie-france.ch
@@ -11970,7 +11970,6 @@ chezmarie.ch
 chezmarilou.ch
 chezmario-lausanne.ch
 chezmario.ch
-chezmarion.ch
 chezmartin.ch
 chezmartine.ch
 chezmatherapeute.ch
@@ -12462,6 +12461,7 @@ chiara-schnyder.ch
 chiara-schuler.ch
 chiara-software.ch
 chiara-sola.ch
+chiara-spieser.ch
 chiara-timo-hochzeit.ch
 chiara-voice.ch
 chiara.ch
@@ -13077,7 +13077,9 @@ chie.ch
 chiebrendli.ch
 chiecchi.ch
 chiedereadesi.ch
+chiedi-robin.ch
 chiediloasam.ch
+chiedirobin.ch
 chief-agent-officer.ch
 chief-agentic-officer.ch
 chief-ai-officer-academy.ch
@@ -13134,7 +13136,6 @@ chiemseelight-swiss.ch
 chiemseelightswiss.ch
 chien-agility.ch
 chien-bleu.ch
-chien-chien.ch
 chien-de-protection.ch
 chien-ecole.ch
 chien-en-mouvement.ch
@@ -13156,7 +13157,6 @@ chienborder.ch
 chienboxer.ch
 chienchat.ch
 chienchatgold.ch
-chienchien-hundehort.ch
 chienchienhundehort.ch
 chienconfiance.ch
 chiendavalanche.ch
@@ -13198,7 +13198,6 @@ chiensdetraineau.ch
 chiensdetraineaudubelly.ch
 chiensdetroupeaux.ch
 chiensetchats.ch
-chiensetcompagnie.ch
 chiensocial.ch
 chiensreactifs.ch
 chienssociaux.ch
@@ -15353,7 +15352,6 @@ chiropraktikzentrum.ch
 chiropraktische-medizin.ch
 chiropraktor-basel.ch
 chiropraktor-in-meiner-naehe.ch
-chiropraktor-schweiz.ch
 chiropraktor.ch
 chiropraktoren.ch
 chiropraktorin.ch
@@ -17489,6 +17487,7 @@ chofflonsarl.ch
 choffry.ch
 chofmaenner.ch
 chofu.ch
+chogan-bystjm.ch
 chogan-parfum.ch
 chogan-schweiz.ch
 chogan-switzerland.ch
@@ -17786,7 +17785,6 @@ chong-firearms.ch
 chong-tei.ch
 chong.ch
 chonge.ch
-chongqing.ch
 chonifroy.ch
 chonji.ch
 chonkscorner.ch
@@ -17859,7 +17857,6 @@ chooseyourbeans.ch
 chooseyourbos.ch
 chooseyourfreedom.ch
 chooseyourimpact.ch
-chooseyourjuice.ch
 choosing-love.ch
 choosing-wisely.ch
 choosingbyadvantages.ch
@@ -18991,8 +18988,6 @@ chris1.ch
 chris10.ch
 chris27.ch
 chris77.ch
-chrisa-personaltrainer.ch
-chrisa-personaltraining.ch
 chrisa.ch
 chrisaas.ch
 chrisaimobilien.ch
@@ -19009,8 +19004,6 @@ chrisandcrane.ch
 chrisandelise.ch
 chrisandmike.ch
 chrisantem.ch
-chrisapersonaltrainer.ch
-chrisapersonaltraining.ch
 chrisaro.ch
 chrisart.ch
 chrisartdesign.ch
@@ -19106,7 +19099,6 @@ chrischona-reinach.ch
 chrischona-rft.ch
 chrischona-ruemlang.ch
 chrischona-samstagern.ch
-chrischona-schaffhausen.ch
 chrischona-schinznach.ch
 chrischona-schleitheim.ch
 chrischona-schlieren.ch
@@ -23009,7 +23001,6 @@ chronologisch.ch
 chronolounge.ch
 chronolux.ch
 chronolyre.ch
-chronolys.ch
 chronolytics.ch
 chronomade.ch
 chronomarket.ch
@@ -23937,7 +23928,6 @@ chunlin.ch
 chunnt-guet.ch
 chunntschoguet.ch
 chunnwerk.ch
-chunsch-au.ch
 chunsch-drus.ch
 chunschau.ch
 chunschdrus.ch

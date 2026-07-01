@@ -2150,6 +2150,7 @@ scfag.ch
 scfaidocari.ch
 scfbau.ch
 scfcommunity.ch
+scfeb.ch
 scfeldschloesschen.ch
 scfg.ch
 scfholding.ch
@@ -3012,7 +3013,6 @@ schaefli-liegenschaften.ch
 schaefli-marummatum.ch
 schaefli-neuheim.ch
 schaefli-restaurant.ch
-schaefli-romanshorn.ch
 schaefli-schaffhausen.ch
 schaefli-sg.ch
 schaefli-steinegg.ch
@@ -3298,7 +3298,6 @@ schaerfarm.ch
 schaerfdienst.ch
 schaerfen-tech.ch
 schaerfen.ch
-schaerfentiefe.ch
 schaerferei-hohl.ch
 schaerferei-schneebeli.ch
 schaerferei-stieger.ch
@@ -3987,7 +3986,6 @@ schall-kamera.ch
 schall-oase.ch
 schall-raum.ch
 schall-schutz.ch
-schall-team.ch
 schall-und-rauch.ch
 schall-wellen.ch
 schall.ch
@@ -4165,7 +4163,6 @@ schallsonic.ch
 schallstall.ch
 schallsysteme.ch
 schalltag.ch
-schallteam.ch
 schalltec.ch
 schalltechnik.ch
 schalltter.ch
@@ -6231,6 +6228,7 @@ schematherapie-bern.ch
 schematherapie-netzwerk.ch
 schematherapie-ostschweiz.ch
 schematherapie-praxis.ch
+schematherapie-schwyz.ch
 schematherapie.ch
 schematherapy.ch
 schematherapytraining.ch
@@ -12823,7 +12821,6 @@ schmalz.ch
 schmalzag.ch
 schmalzconsulting.ch
 schmalzfrei.ch
-schmalzgrueb.ch
 schmalzi.ch
 schmalzing.ch
 schmalzpicker.ch
@@ -13041,7 +13038,6 @@ schmerzfrei-werden.ch
 schmerzfrei-winterthur.ch
 schmerzfrei-zuerich.ch
 schmerzfrei.ch
-schmerzfreibewegen.ch
 schmerzfreibewegungsraum.ch
 schmerzfreiderneueweg.ch
 schmerzfreie-haarentfernung.ch
@@ -14150,7 +14146,6 @@ schmidtcoaching.ch
 schmidtcolleg.ch
 schmidtconsult.ch
 schmidtconsulting.ch
-schmidtcuisines.ch
 schmidtdenktmit.ch
 schmidteamcons.ch
 schmidtech.ch
@@ -16178,7 +16173,6 @@ schneider-jan.ch
 schneider-kaelin.ch
 schneider-kaffee.ch
 schneider-kaminfeger.ch
-schneider-kinderarzt.ch
 schneider-klaeusli-architekten.ch
 schneider-klaeusli.ch
 schneider-kompost.ch
@@ -16540,6 +16534,7 @@ schneiderpc.ch
 schneiderpen.ch
 schneiderplattenbelaege.ch
 schneiderpratteln.ch
+schneiderpraxis.ch
 schneiderprotec.ch
 schneiderrecht.ch
 schneiderrecycling.ch
@@ -19831,7 +19826,6 @@ schoso.ch
 schoss-ruum.ch
 schoss.ch
 schossacher-immobilien.ch
-schossraum.ch
 schossraumheilung.ch
 schossraumkraft.ch
 schossruum.ch
@@ -19906,7 +19900,6 @@ schotz.ch
 schotzebischelis.ch
 schou.ch
 schouchana.ch
-schoufeischter.ch
 schoufhouf.ch
 schouker.ch
 schoumaniti.ch
@@ -20060,11 +20053,7 @@ schrank-48.ch
 schrank-accessoires.ch
 schrank-ag.ch
 schrank-atelier.ch
-schrank-element.ch
-schrank-elemente.ch
 schrank-factory.ch
-schrank-inhalt.ch
-schrank-inhalte.ch
 schrank-kaufen.ch
 schrank-laden.ch
 schrank-masswerk.ch
@@ -20090,8 +20079,6 @@ schrank-spezialist.ch
 schrank-swiss.ch
 schrank-systeme.ch
 schrank-werk.ch
-schrank-zubehoer.ch
-schrank-zubehoere.ch
 schrank.ch
 schrank1.ch
 schrank24.ch
@@ -20174,7 +20161,6 @@ schrankwelt.ch
 schrankwelt24.ch
 schrankwelten.ch
 schrankwerk.ch
-schrankzubehoer.ch
 schranner-art.ch
 schranner.ch
 schranni.ch
@@ -20332,7 +20318,6 @@ schreib-cabaret.ch
 schreib-das.ch
 schreib-dienst.ch
 schreib-do.ch
-schreib-du-das.ch
 schreib-einfach.ch
 schreib-freude.ch
 schreib-gut.ch
@@ -20516,7 +20501,6 @@ schreibklara.ch
 schreibklartext.ch
 schreibklasse.ch
 schreibknecht.ch
-schreibkompetenz.ch
 schreibkopf.ch
 schreibkorrekt.ch
 schreibkraehe.ch
@@ -20565,7 +20549,6 @@ schreibplanet.ch
 schreibplatz.ch
 schreibpool.ch
 schreibpraxis.ch
-schreibprofis.ch
 schreibquelle.ch
 schreibrakete.ch
 schreibraum.ch
@@ -20583,7 +20566,6 @@ schreibschmiede.ch
 schreibschraube.ch
 schreibschriften.ch
 schreibschule-sent.ch
-schreibschule.ch
 schreibseinfach.ch
 schreibservice-zuerichsee.ch
 schreibservice.ch
@@ -23173,7 +23155,6 @@ schuetzenhaus-altdorf.ch
 schuetzenhaus-basel.ch
 schuetzenhaus-chur.ch
 schuetzenhaus-glarus.ch
-schuetzenhaus-hombi.ch
 schuetzenhaus-luzern.ch
 schuetzenhaus-oberuzwil.ch
 schuetzenhaus-ramlinsburg.ch
@@ -27062,7 +27043,6 @@ schutz-und-desinfektion.ch
 schutz-und-rettung.ch
 schutz-und-rettungshunde.ch
 schutz-von-wildtieren.ch
-schutz-vor-behoerdenwillkuer.ch
 schutz-vor-der-grippe.ch
 schutz-vor-elektrosmog.ch
 schutz-vor-esmog.ch
@@ -27606,7 +27586,6 @@ schwamdirigent.ch
 schwamedinge.ch
 schwamenair.ch
 schwamenbienen.ch
-schwamendingen-einhausung.ch
 schwamendingen.ch
 schwamendingen24.ch
 schwamendingenhandball.ch
@@ -28830,7 +28809,6 @@ schweisser.ch
 schweisserei-hinnen.ch
 schweisserei-kaeppeli.ch
 schweisserei.ch
-schweissereischlosserei.ch
 schweisserkurse.ch
 schweisserpersonal.ch
 schweisserpruefung-iso9606.ch
@@ -29432,7 +29410,6 @@ schweizbet.ch
 schweizbets.ch
 schweizbetting.ch
 schweizbewegt.ch
-schweizbild.ch
 schweizbilder.ch
 schweizbingo.ch
 schweizbitcoincasino.ch
@@ -31250,6 +31227,7 @@ schweizerhaus-glarus.ch
 schweizerhaus-klosters.ch
 schweizerhaus-ricken.ch
 schweizerhaus-riehen.ch
+schweizerhaus.ch
 schweizerhausapotheke.ch
 schweizerhausarztservice.ch
 schweizerhauschur.ch
@@ -32562,7 +32540,6 @@ schweizvertikal.ch
 schweizvignette.ch
 schweizvital.ch
 schweizvozol.ch
-schweizvreneli.ch
 schweizwanderer.ch
 schweizwandern.ch
 schweizweb.ch
@@ -32614,6 +32591,7 @@ schwellenmaetteli.ch
 schwellenmauersanierung.ch
 schwellenmeister.ch
 schwellenraum.ch
+schwellenverband-1sektion-emme.ch
 schwellenzauber.ch
 schwellenzeit.ch
 schwellenzeiten.ch
@@ -34487,7 +34465,6 @@ science-collaborative.ch
 science-com.ch
 science-communication.ch
 science-communications.ch
-science-connect.ch
 science-corner.ch
 science-cosmonaut.ch
 science-cosmonautrix.ch
@@ -34864,7 +34841,6 @@ scinet.ch
 scinex.ch
 scinext.ch
 scinformatik.ch
-scinformatique.ch
 scinora.ch
 scinstitute.ch
 scint.ch
@@ -35104,7 +35080,6 @@ sclinth.ch
 scllauerz.ch
 sclm.ch
 scln.ch
-scloby.ch
 sclocarno.ch
 scloud.ch
 sclp.ch

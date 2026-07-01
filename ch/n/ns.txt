@@ -305,7 +305,6 @@ ns.kreativwebdesign.ch
 ns.kriz.ch
 ns.labomecum.ch
 ns.laiteriedegruyere.ch
-ns.landolt-network.ch
 ns.lants.ch
 ns.laubschernet.ch
 ns.lavillesa.ch
@@ -914,7 +913,6 @@ ns1.atelier-haemmerle.ch
 ns1.atomstudio.ch
 ns1.atphp.ch
 ns1.atrix-consult-gmbh.ch
-ns1.auchatnoir.ch
 ns1.audiogen.ch
 ns1.aurafilm.ch
 ns1.aurelisferrum.ch
@@ -1144,6 +1142,7 @@ ns1.buffs.ch
 ns1.bug.ch
 ns1.buncic.ch
 ns1.bunix.ch
+ns1.business-lync.ch
 ns1.businessbox.ch
 ns1.butinfo.ch
 ns1.bvb.ch
@@ -1296,7 +1295,6 @@ ns1.compnethosting.ch
 ns1.compufix.ch
 ns1.compusafe.ch
 ns1.compusol.ch
-ns1.computerexpress.ch
 ns1.computrade.ch
 ns1.comstock.ch
 ns1.comtronic.ch
@@ -1381,7 +1379,6 @@ ns1.dance50.ch
 ns1.danielabrecht.ch
 ns1.dariosulser.ch
 ns1.darkbox.ch
-ns1.darkforce.ch
 ns1.darkgamex.ch
 ns1.darkink.ch
 ns1.darryl.ch
@@ -1451,6 +1448,7 @@ ns1.dg2.ch
 ns1.di-enovation.ch
 ns1.di-renovations.ch
 ns1.diag.ch
+ns1.dias-edi.ch
 ns1.diashape.ch
 ns1.dicietdailleurs.ch
 ns1.didacus.ch
@@ -2143,7 +2141,6 @@ ns1.insel.ch
 ns1.inseratedispo.ch
 ns1.inseratex.ch
 ns1.institut-la-vallee.ch
-ns1.insurancequotes.ch
 ns1.insval.ch
 ns1.insyma.ch
 ns1.intermezzo-zug.ch
@@ -2247,7 +2244,6 @@ ns1.jmc-software.ch
 ns1.jn-demeter-renovation.ch
 ns1.jobchannel.ch
 ns1.jobflix.ch
-ns1.jobs50plus.ch
 ns1.jocher.ch
 ns1.jogy.ch
 ns1.johngehrig.ch
@@ -2600,7 +2596,6 @@ ns1.moebel-meier-brugg.ch
 ns1.moebelkamber.ch
 ns1.moerikofer.ch
 ns1.moerschwilpreiswert.ch
-ns1.mollylove.ch
 ns1.mondani.ch
 ns1.monmarketing.ch
 ns1.montag.ch
@@ -2928,7 +2923,6 @@ ns1.phirents.ch
 ns1.phme.ch
 ns1.phoenixsystems.ch
 ns1.photo-occasion.ch
-ns1.phovoz.ch
 ns1.php72webagentur.ch
 ns1.phphost.ch
 ns1.phr.ch
@@ -3027,7 +3021,6 @@ ns1.privat.ch
 ns1.privatekosmetikerin.ch
 ns1.privatemedia.ch
 ns1.privatnet.ch
-ns1.privatradio.ch
 ns1.proceed.ch
 ns1.prodosia.ch
 ns1.profectis.ch
@@ -3048,6 +3041,7 @@ ns1.proton.ch
 ns1.protonmail.ch
 ns1.protontech.ch
 ns1.protonvpn.ch
+ns1.providing.ch
 ns1.proxaid.ch
 ns1.psah.ch
 ns1.pschuetz.ch
@@ -3095,7 +3089,6 @@ ns1.railtour.ch
 ns1.railtronic.ch
 ns1.ralphschuler.ch
 ns1.ramonawicki-fotografie.ch
-ns1.rampensau.ch
 ns1.rayhaan.ch
 ns1.razor.ch
 ns1.rbit.ch
@@ -3265,6 +3258,7 @@ ns1.scottishfold.ch
 ns1.scoutmediovedeggio.ch
 ns1.scs-ns.ch
 ns1.scuolainfattoria.ch
+ns1.sdgs.ch
 ns1.sdhost.ch
 ns1.sdns.ch
 ns1.seabix.ch
@@ -4273,7 +4267,6 @@ ns2.atomstudio.ch
 ns2.atozenglish.ch
 ns2.atphp.ch
 ns2.atrix-consult-gmbh.ch
-ns2.auchatnoir.ch
 ns2.audiogen.ch
 ns2.aurafilm.ch
 ns2.aurelisferrum.ch
@@ -4491,6 +4484,7 @@ ns2.bug.ch
 ns2.buncic.ch
 ns2.bunix.ch
 ns2.burgers.ch
+ns2.business-lync.ch
 ns2.businessbox.ch
 ns2.butinfo.ch
 ns2.bvb.ch
@@ -4644,7 +4638,6 @@ ns2.compiworld.ch
 ns2.compufix.ch
 ns2.compusafe.ch
 ns2.compusol.ch
-ns2.computerexpress.ch
 ns2.computrade.ch
 ns2.comspirit.ch
 ns2.comstock.ch
@@ -4731,7 +4724,6 @@ ns2.damutten.ch
 ns2.dance50.ch
 ns2.dariosulser.ch
 ns2.darkbox.ch
-ns2.darkforce.ch
 ns2.darkgamex.ch
 ns2.darkink.ch
 ns2.darryl.ch
@@ -4792,6 +4784,7 @@ ns2.dg2.ch
 ns2.di-enovation.ch
 ns2.di-renovations.ch
 ns2.diag.ch
+ns2.dias-edi.ch
 ns2.diashape.ch
 ns2.dicietdailleurs.ch
 ns2.didacus.ch
@@ -5456,7 +5449,6 @@ ns2.insel.ch
 ns2.inseratedispo.ch
 ns2.inseratex.ch
 ns2.institut-la-vallee.ch
-ns2.insurancequotes.ch
 ns2.insval.ch
 ns2.insyma.ch
 ns2.interdesk.ch
@@ -5557,7 +5549,6 @@ ns2.jmc-software.ch
 ns2.jn-demeter-renovation.ch
 ns2.jobchannel.ch
 ns2.jobflix.ch
-ns2.jobs50plus.ch
 ns2.jogy.ch
 ns2.johngehrig.ch
 ns2.jokpictures.ch
@@ -5664,7 +5655,6 @@ ns2.lamatouren.ch
 ns2.lamenuiseriegenevoise.ch
 ns2.lancer.ch
 ns2.landescape.ch
-ns2.landolt-network.ch
 ns2.landwirtschaft.ch
 ns2.lanexperts.ch
 ns2.lang-lit.ch
@@ -5887,7 +5877,6 @@ ns2.moebel-meier-brugg.ch
 ns2.moebelkamber.ch
 ns2.moerikofer.ch
 ns2.moerschwilpreiswert.ch
-ns2.mollylove.ch
 ns2.mondani.ch
 ns2.monmarketing.ch
 ns2.montag.ch
@@ -6191,7 +6180,6 @@ ns2.phinex.ch
 ns2.phirents.ch
 ns2.phme.ch
 ns2.phoenixsystems.ch
-ns2.phovoz.ch
 ns2.php72webagentur.ch
 ns2.phphost.ch
 ns2.phutter.ch
@@ -6287,7 +6275,6 @@ ns2.privat.ch
 ns2.privatekosmetikerin.ch
 ns2.privatemedia.ch
 ns2.privatnet.ch
-ns2.privatradio.ch
 ns2.proceed.ch
 ns2.prodosia.ch
 ns2.profectis.ch
@@ -6309,6 +6296,7 @@ ns2.proton.ch
 ns2.protonmail.ch
 ns2.protontech.ch
 ns2.protonvpn.ch
+ns2.providing.ch
 ns2.proxaid.ch
 ns2.psah.ch
 ns2.pschuetz.ch
@@ -6354,7 +6342,6 @@ ns2.raetz-plaettli.ch
 ns2.railtronic.ch
 ns2.ralphschuler.ch
 ns2.ramonawicki-fotografie.ch
-ns2.rampensau.ch
 ns2.rayhaan.ch
 ns2.razor.ch
 ns2.rbit.ch
@@ -6512,6 +6499,7 @@ ns2.scottishfold.ch
 ns2.scoutmediovedeggio.ch
 ns2.scs-ns.ch
 ns2.scuolainfattoria.ch
+ns2.sdgs.ch
 ns2.sdhost.ch
 ns2.sdns.ch
 ns2.seabix.ch
