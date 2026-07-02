@@ -239,7 +239,6 @@ ns.forapi.ch
 ns.fotomorgana.ch
 ns.freewifi.ch
 ns.freizeitmobilestucki.ch
-ns.gamingfederation.ch
 ns.gbassurances.ch
 ns.geberit.ch
 ns.gerardi.ch
@@ -1179,7 +1178,6 @@ ns1.carspace.ch
 ns1.casalavida.ch
 ns1.casino-suisse.ch
 ns1.casprode.ch
-ns1.casy.ch
 ns1.catatec.ch
 ns1.cause-music.ch
 ns1.cavedesarts.ch
@@ -1399,6 +1397,7 @@ ns1.datenpark.ch
 ns1.datenverkehr.ch
 ns1.datimo.ch
 ns1.davidmarsden.ch
+ns1.davinci-pizzeria.ch
 ns1.davitals.ch
 ns1.dbg.ch
 ns1.dc-visual.ch
@@ -1806,7 +1805,6 @@ ns1.gajtani.ch
 ns1.galactictreetribe.ch
 ns1.galactus.ch
 ns1.galeriederschoenheit.ch
-ns1.gamingfederation.ch
 ns1.gao.ch
 ns1.garage-homepage.ch
 ns1.garagelavio.ch
@@ -2675,7 +2673,6 @@ ns1.nasser.ch
 ns1.nast.ch
 ns1.nativenet.ch
 ns1.navacoaching.ch
-ns1.nawotop.ch
 ns1.nbhost.ch
 ns1.nbit.ch
 ns1.ncag.ch
@@ -2787,7 +2784,6 @@ ns1.oblecta.ch
 ns1.ocartu.ch
 ns1.occschop.ch
 ns1.ochm.ch
-ns1.oekostromshop.ch
 ns1.oeles-webdesign.ch
 ns1.oetiker.ch
 ns1.offcloud.ch
@@ -2923,6 +2919,7 @@ ns1.phirents.ch
 ns1.phme.ch
 ns1.phoenixsystems.ch
 ns1.photo-occasion.ch
+ns1.phovoz.ch
 ns1.php72webagentur.ch
 ns1.phphost.ch
 ns1.phr.ch
@@ -3455,7 +3452,6 @@ ns1.stree.ch
 ns1.streuli-it.ch
 ns1.strich-acht.ch
 ns1.strimer-strimer.ch
-ns1.stromhandel.ch
 ns1.stromkompass.ch
 ns1.strompower.ch
 ns1.struzek.ch
@@ -3537,7 +3533,6 @@ ns1.symple.ch
 ns1.syntax-agency.ch
 ns1.syselcloud.ch
 ns1.sysinfhosting.ch
-ns1.syslogsa.ch
 ns1.systacom.ch
 ns1.systemcrew.ch
 ns1.systemhost.ch
@@ -3924,7 +3919,6 @@ ns1.xn--buerinnenportal-0kb.ch
 ns1.xn--flckiger-optik-hrcenter-nlc9k.ch
 ns1.xn--hbergement-web-bkb.ch
 ns1.xn--hoflden-8wa.ch
-ns1.xn--kostromshop-qfb.ch
 ns1.xn--oy-oy-csad.ch
 ns1.xn--ri-wka.ch
 ns1.xn--sterrei-80a.ch
@@ -4007,6 +4001,7 @@ ns10.hcweb.ch
 ns10.hostingmanager.ch
 ns10.hostname.ch
 ns10.kbsd.ch
+ns10.martinoni.ch
 ns10.neotrend.ch
 ns10.produktiv.ch
 ns10.q-digital.ch
@@ -4519,7 +4514,6 @@ ns2.carspace.ch
 ns2.casalavida.ch
 ns2.casino-suisse.ch
 ns2.casprode.ch
-ns2.casy.ch
 ns2.catatec.ch
 ns2.cause-music.ch
 ns2.cavedesarts.ch
@@ -4740,6 +4734,7 @@ ns2.dataworld-consulting.ch
 ns2.dataxa.ch
 ns2.datcom.ch
 ns2.datenpark.ch
+ns2.davinci-pizzeria.ch
 ns2.davitals.ch
 ns2.dbg.ch
 ns2.dc-visual.ch
@@ -5951,7 +5946,6 @@ ns2.nano-lash.ch
 ns2.nanolash.ch
 ns2.nativenet.ch
 ns2.navacoaching.ch
-ns2.nawotop.ch
 ns2.nbit.ch
 ns2.ncag.ch
 ns2.nct.ch
@@ -6051,7 +6045,6 @@ ns2.oblecta.ch
 ns2.ocartu.ch
 ns2.occschop.ch
 ns2.ochm.ch
-ns2.oekostromshop.ch
 ns2.oeles-webdesign.ch
 ns2.oetiker.ch
 ns2.offcloud.ch
@@ -6180,6 +6173,7 @@ ns2.phinex.ch
 ns2.phirents.ch
 ns2.phme.ch
 ns2.phoenixsystems.ch
+ns2.phovoz.ch
 ns2.php72webagentur.ch
 ns2.phphost.ch
 ns2.phutter.ch
@@ -6702,7 +6696,6 @@ ns2.streamlineag.ch
 ns2.stree.ch
 ns2.streuli-it.ch
 ns2.strimer-strimer.ch
-ns2.stromhandel.ch
 ns2.stromkompass.ch
 ns2.struzek.ch
 ns2.studio-internet.ch
@@ -6786,7 +6779,6 @@ ns2.symple.ch
 ns2.syntax-agency.ch
 ns2.syselcloud.ch
 ns2.sysinfhosting.ch
-ns2.syslogsa.ch
 ns2.systacom.ch
 ns2.systemcrew.ch
 ns2.systemhost.ch
@@ -7158,7 +7150,6 @@ ns2.xn--bett-geflster-4ob.ch
 ns2.xn--buerinnenportal-0kb.ch
 ns2.xn--flckiger-optik-hrcenter-nlc9k.ch
 ns2.xn--hoflden-8wa.ch
-ns2.xn--kostromshop-qfb.ch
 ns2.xn--oy-oy-csad.ch
 ns2.xn--ri-wka.ch
 ns2.xn--sterrei-80a.ch
@@ -7233,6 +7224,7 @@ ns20.cbm.ch
 ns20.def.ch
 ns20.inaya.ch
 ns20.kbsd.ch
+ns20.martinoni.ch
 ns20.produktiv.ch
 ns20.seedshop.ch
 ns20.sio.ch
@@ -8043,6 +8035,7 @@ ns3.zugnet.ch
 ns3.zwiebelring.ch
 ns30.inaya.ch
 ns30.kbsd.ch
+ns30.martinoni.ch
 ns31.maxschaer.ch
 ns31.mentras.ch
 ns4-extern.css.ch

@@ -590,7 +590,6 @@ viamala-brocki.ch
 viamala-ferien.ch
 viamala-gartenbau.ch
 viamala-gebaeudereinigung.ch
-viamala-honig.ch
 viamala-kaese.ch
 viamala-moebel.ch
 viamala-pflege.ch
@@ -609,7 +608,6 @@ viamalabau.ch
 viamalabrocki.ch
 viamalaferien.ch
 viamalahaustechnik.ch
-viamalahonig.ch
 viamalakaese.ch
 viamalamarkt.ch
 viamalaschlucht.ch
@@ -2455,7 +2453,6 @@ video-dsg.ch
 video-dvd.ch
 video-editing.ch
 video-editor.ch
-video-entreprise.ch
 video-erfolg.ch
 video-erstellen-lassen.ch
 video-escort.ch
@@ -2543,7 +2540,6 @@ video-recruiting.ch
 video-referenz.ch
 video-regie.ch
 video-reha.ch
-video-reisen.ch
 video-reportage.ch
 video-reportagen.ch
 video-reseaux-sociaux-entreprise.ch
@@ -2589,7 +2585,6 @@ video-todes-anzeige.ch
 video-todes-anzeigen.ch
 video-todesanzeigen.ch
 video-traffic.ch
-video-trailer-production.ch
 video-trailer.ch
 video-training.ch
 video-transkription.ch
@@ -3427,7 +3422,6 @@ viebox.ch
 viebration.ch
 viebrations.ch
 viebrockhaus-gebaut-wie-versprochen.ch
-viebus.ch
 vieceli.ch
 viecelis.ch
 viecelli.ch
@@ -3946,6 +3940,7 @@ vierte-saeule.ch
 vierte-welt.ch
 vierte.ch
 viertedimension.ch
+viertedrittu.ch
 viertekanzlei.ch
 viertel-ab.ch
 viertel-kreis.ch
@@ -5186,6 +5181,7 @@ villa-allegria.ch
 villa-alpenblick.ch
 villa-alpina.ch
 villa-am-bahnhof.ch
+villa-am-berg.ch
 villa-am-park.ch
 villa-am-see-goldach.ch
 villa-am-see.ch
@@ -5201,6 +5197,7 @@ villa-architecte.ch
 villa-aurica.ch
 villa-aurum.ch
 villa-auszeit.ch
+villa-aux-petits-soins.ch
 villa-bahnsinn.ch
 villa-balli.ch
 villa-ballypark.ch
@@ -5454,6 +5451,7 @@ villa-serenya.ch
 villa-silvana.ch
 villa-silvia.ch
 villa-sion.ch
+villa-soins.ch
 villa-solaris.ch
 villa-sonnenberg.ch
 villa-sophie.ch
@@ -11291,6 +11289,7 @@ virtualofficeinzug.ch
 virtualoffices.ch
 virtualofficezug.ch
 virtualofficezurich.ch
+virtualoptima.ch
 virtualpa.ch
 virtualpancreas.ch
 virtualpanorama.ch
@@ -11571,7 +11570,6 @@ virtuelles-bergrennen.ch
 virtuelles-buero-zuerich.ch
 virtuelles-buero.ch
 virtuelles-dojo.ch
-virtuelles-fotoshooting.ch
 virtuelles-haus.ch
 virtuelles-home-staging.ch
 virtuelles-kaufhaus.ch
@@ -11585,13 +11583,11 @@ virtuelleschule.ch
 virtuelleschweiz.ch
 virtuellesfamilyoffice.ch
 virtuellesfohlen.ch
-virtuellesfotoshooting.ch
 virtuellesfotostudio.ch
 virtuelleshaus.ch
 virtuellesklassenzimmer.ch
 virtuellesmagenband.ch
 virtuellesmanagement.ch
-virtuellesmuseum.ch
 virtuellesnetzwerk.ch
 virtuellestheater.ch
 virtuelletelefonanlage.ch
@@ -12064,6 +12060,7 @@ visavie.ch
 visavipontresina.ch
 visavis-ag.ch
 visavis-baden.ch
+visavis-bern.ch
 visavis-coiffeur.ch
 visavis-danse.ch
 visavis-immobilien.ch
@@ -14263,7 +14260,6 @@ vistait.ch
 vistaklinik.ch
 vistakon.ch
 vistalago.ch
-vistalake.ch
 vistalid.ch
 vistaline.ch
 vistalk.ch
@@ -14466,7 +14462,6 @@ visual-learning.ch
 visual-management.ch
 visual-media.ch
 visual-merchandising.ch
-visual-mind-channeling.ch
 visual-minds.ch
 visual-net.ch
 visual-now.ch
@@ -15067,6 +15062,7 @@ vita-armoniosa.ch
 vita-attiva.ch
 vita-aurea.ch
 vita-bad.ch
+vita-bag.ch
 vita-balance.ch
 vita-balanz.ch
 vita-base.ch
@@ -15113,6 +15109,7 @@ vita-flex.ch
 vita-form.ch
 vita-forte-personaltraining.ch
 vita-fresh.ch
+vita-fusion.ch
 vita-game.ch
 vita-games.ch
 vita-gesundheit.ch
@@ -15256,6 +15253,7 @@ vitaarbor.ch
 vitaaudio.ch
 vitaaurea.ch
 vitabad.ch
+vitabag.ch
 vitabal.ch
 vitabalance-bodensee.ch
 vitabalance-massage.ch
@@ -15490,6 +15488,7 @@ vitafresh.ch
 vitafriend.ch
 vitafriends.ch
 vitafunke.ch
+vitafusion.ch
 vitafutura.ch
 vitafy-brands.ch
 vitafy-protein.ch
@@ -16009,6 +16008,7 @@ vitaliangelo.ch
 vitaliano.ch
 vitaliapraxis.ch
 vitalibera.ch
+vitaliberata.ch
 vitaliberaunascelta.ch
 vitaliberty.ch
 vitalic-gmbh.ch
@@ -18082,7 +18082,6 @@ viva-vita.ch
 viva-vitalis.ch
 viva-vite.ch
 viva-voce.ch
-viva-vr-coach.ch
 viva-wgzimmer.ch
 viva-wil.ch
 viva-wila.ch
@@ -18092,6 +18091,7 @@ viva.ch
 viva24.ch
 viva55.ch
 viva88.ch
+viva88i.ch
 vivaa.ch
 vivaaa.ch
 vivaadvertising.ch
@@ -19339,6 +19339,7 @@ vivifit.ch
 viviflor.ch
 viviforte.ch
 vivify.ch
+vivifyconsulting.ch
 vivifys.ch
 vivigorla.ch
 vivih.ch
@@ -19525,7 +19526,6 @@ vivo-libero.ch
 vivo-life.ch
 vivo-lino.ch
 vivo-management.ch
-vivo-o.ch
 vivo-opfikon.ch
 vivo-prosecco.ch
 vivo-racing.ch

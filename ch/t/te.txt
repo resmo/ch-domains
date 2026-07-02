@@ -704,7 +704,6 @@ team-recruiting.ch
 team-regionentlebuch.ch
 team-reinigungen.ch
 team-reisen.ch
-team-renovation.ch
 team-resistance.ch
 team-resource-management.ch
 team-retreat.ch
@@ -3233,7 +3232,6 @@ techki.ch
 techkick.ch
 techkiste.ch
 techkistli.ch
-techkit.ch
 techkitchen.ch
 techklar.ch
 techknowledge.ch
@@ -3587,6 +3585,7 @@ technik-guide.ch
 technik-guru.ch
 technik-held.ch
 technik-helfer.ch
+technik-hilfe-winterthur.ch
 technik-hilfe.ch
 technik-jobs.ch
 technik-keller.ch
@@ -4263,7 +4262,6 @@ technopieux.ch
 technopiraten.ch
 technoplan.ch
 technoplant.ch
-technoplast.ch
 technoplot.ch
 technoplus.ch
 technopme.ch
@@ -6032,6 +6030,8 @@ tegia-alp-uaul.ch
 tegia-uaul.ch
 tegia.ch
 tegiacamutsch.ch
+tegianaraus.ch
+tegiaraus.ch
 tegiasulai.ch
 tegis-projets.ch
 tegistra.ch
@@ -6984,6 +6984,7 @@ tele-doc.ch
 tele-docteur.ch
 tele-dole.ch
 tele-evolene.ch
+tele-expertise.ch
 tele-fix.ch
 tele-flamatt.ch
 tele-freiamt.ch
@@ -8243,6 +8244,7 @@ telexma.ch
 telexo.ch
 telexoo.ch
 telexpert.ch
+telexpertise.ch
 telez.ch
 telezahn.ch
 telezahnmedizin.ch
@@ -9201,7 +9203,6 @@ temperlikosmetik.ch
 temperlisanitaer.ch
 tempersona.ch
 temperteen.ch
-tempest-in-a-teapot.ch
 tempest-photography.ch
 tempest.ch
 tempesta-fpv.ch
@@ -9260,6 +9261,7 @@ template-sennsation.ch
 template-shop.ch
 template-webseite.ch
 template.ch
+templateforest.ch
 templateking.ch
 templatemaster.ch
 templatemonster.ch
@@ -12069,6 +12071,7 @@ termin-tool.ch
 termin-vereinbaren.ch
 termin-vergleich.ch
 termin.ch
+termin1.ch
 termin24.ch
 termin24x7.ch
 termin2go.ch
@@ -12481,7 +12484,6 @@ terra-protect.ch
 terra-pur.ch
 terra-qualita.ch
 terra-raetica.ch
-terra-rhona.ch
 terra-robotics.ch
 terra-ross.ch
 terra-rossa-appenzell.ch
@@ -13924,6 +13926,8 @@ terroiristwein.ch
 terroiristweine.ch
 terroiristwine.ch
 terroirkaffee.ch
+terroirpartner.ch
+terroirpartners.ch
 terroirresear.ch
 terroirromand.ch
 terroirs-et-climats.ch
