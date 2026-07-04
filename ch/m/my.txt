@@ -2070,7 +2070,6 @@ my3dsign.ch
 my3dsimulator.ch
 my3dwatch.ch
 my3dworld.ch
-my420.ch
 my45.ch
 my4d.ch
 my4p.ch
@@ -3425,6 +3424,7 @@ mycareer-i.ch
 mycareer-psychologie.ch
 mycareer.ch
 mycareerbook.ch
+mycareercoach.ch
 mycareergate.ch
 mycareerme.ch
 mycareerself.ch
@@ -6620,6 +6620,7 @@ myiq.ch
 myiqos.ch
 myiris.ch
 myirishhome.ch
+myironlog.ch
 myis24.ch
 myisenau.ch
 myislam.ch
@@ -6858,6 +6859,7 @@ mykloud.ch
 myklub.ch
 mykm.ch
 mykmi.ch
+mykmo.ch
 mykmu.ch
 mykmu24.ch
 mykmubtn.ch
@@ -8368,7 +8370,6 @@ myoekkbvg.ch
 myoekklpp.ch
 myoem.ch
 myoemotional.ch
-myoenergetic.ch
 myoenergetik.ch
 myofabric.ch
 myofaktur.ch
@@ -10014,6 +10015,7 @@ mysanoflore.ch
 mysanta.ch
 mysantaclaus.ch
 mysante.ch
+mysantis.ch
 mysap.ch
 mysapeur-pompier.ch
 mysapeurs-pompiers.ch
@@ -10206,7 +10208,6 @@ myserve.ch
 myserver.ch
 myservercontrol.ch
 myserverpanel.ch
-myservers.ch
 myservice.ch
 myservice24.ch
 myservice2go.ch
