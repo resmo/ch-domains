@@ -324,6 +324,7 @@ ccc-bl.ch
 ccc-canin.ch
 ccc-center.ch
 ccc-ch.ch
+ccc-change.ch
 ccc-community.ch
 ccc-design-art.ch
 ccc-elmercy.ch
@@ -549,7 +550,6 @@ ccgame.ch
 ccgc.ch
 ccgcavs.ch
 ccgconception.ch
-ccge.ch
 ccgeo.ch
 ccgestion.ch
 ccgg.ch
@@ -674,6 +674,7 @@ ccisrca.ch
 ccissk.ch
 ccissp.ch
 ccist.ch
+ccistg.ch
 ccistn.ch
 ccisug.ch
 ccity.ch
