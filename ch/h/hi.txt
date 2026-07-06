@@ -415,6 +415,7 @@ hidden-place.ch
 hidden-primary.ch
 hidden-room.ch
 hidden-secrets-of-italy.ch
+hidden-sense-games.ch
 hidden-talents.ch
 hidden-taste.ch
 hidden-treasures.ch
@@ -3637,7 +3638,6 @@ hintermatt.ch
 hintermeggen.ch
 hintermeier.ch
 hintermeir.ch
-hintermeister-lechalet.ch
 hintermeister-stiftung.ch
 hintermeister.ch
 hintermhorizont.ch
@@ -6026,6 +6026,7 @@ hive-logistics.ch
 hive-mind-consulting.ch
 hive-mobility.ch
 hive-momentum.ch
+hive-parts.ch
 hive-q.ch
 hive-service.ch
 hive-services.ch
