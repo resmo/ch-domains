@@ -3927,6 +3927,7 @@ industrie-leasing.ch
 industrie-licht.ch
 industrie-lindenmoos.ch
 industrie-marketing.ch
+industrie-material.ch
 industrie-mechanik.ch
 industrie-medienservice.ch
 industrie-metall.ch
@@ -4886,7 +4887,6 @@ inf-guye.ch
 inf-in-ita.ch
 inf-ind.ch
 inf-jaccard.ch
-inf-jura.ch
 inf-kmsu.ch
 inf-lacote.ch
 inf-schule.ch
@@ -6128,7 +6128,6 @@ info-gov.ch
 info-graechen.ch
 info-grafik.ch
 info-grafiker.ch
-info-grindelwald.ch
 info-group.ch
 info-gs.ch
 info-guide.ch
@@ -6364,6 +6363,7 @@ info-vs.ch
 info-wallis.ch
 info-wasserstoff.ch
 info-web.ch
+info-wechselstube.ch
 info-wedding-planner.ch
 info-werkstatt.ch
 info-windblick.ch
@@ -12713,6 +12713,7 @@ innodevelopment.ch
 innodiff.ch
 innodigit.ch
 innodigo.ch
+innodigym.ch
 innodis.ch
 innodisk.ch
 innodisplay.ch
@@ -14496,6 +14497,7 @@ inorelay.ch
 inores.ch
 inorga.ch
 inorganicventures.ch
+inori-projekte.ch
 inori.ch
 inorisk.ch
 inorm.ch
@@ -15054,7 +15056,6 @@ inpsychotherapie.ch
 inpsyde.ch
 inpto.ch
 inpublico.ch
-inpuls-gp.ch
 inpuls-vs.ch
 inpuls.ch
 inpulse.ch
@@ -15948,6 +15949,7 @@ inserteverkauf.ch
 insertfilm.ch
 insertio.ch
 insertion-geneve.ch
+insertion-pro.ch
 insertion-suisse.ch
 insertion-valais.ch
 insertion-vaud.ch
@@ -17918,6 +17920,7 @@ institut-bellissima.ch
 institut-bharaniuk.ch
 institut-bien-etre.ch
 institut-biodermie.ch
+institut-bioresonance.ch
 institut-biosystemique.ch
 institut-biotiful.ch
 institut-blink.ch
@@ -18042,6 +18045,7 @@ institut-geduna.ch
 institut-gefaessmedizin.ch
 institut-geneve-main.ch
 institut-genevois-main.ch
+institut-geobiologie.ch
 institut-germaine.ch
 institut-ghalia.ch
 institut-giacometti.ch
@@ -18080,6 +18084,7 @@ institut-irene.ch
 institut-isabelle.ch
 institut-isf.ch
 institut-isis.ch
+institut-iyashidome.ch
 institut-jador.ch
 institut-jaeger.ch
 institut-je.ch
@@ -19486,7 +19491,6 @@ integralcoaching.ch
 integralconsult.ch
 integralconsulting.ch
 integralcosmetics.ch
-integraldesign.ch
 integraldevelopment.ch
 integrale-abfallwirtschaft.ch
 integrale-akademie.ch
@@ -19824,6 +19828,7 @@ integrative-zellpflege.ch
 integrative.ch
 integrativeernaehrung.ch
 integrativegesundheit.ch
+integrativehausarztmedizin.ch
 integrativehealth.ch
 integrativehub4change.ch
 integrativekinesiologie.ch
@@ -20323,7 +20328,6 @@ intelligenzartigianale.ch
 intelligenzbestien.ch
 intelligenzbilder.ch
 intelligenzblatt.ch
-intelligenzia.ch
 intelligenzint.ch
 intelligenzinvest.ch
 intelligenzquotient.ch
@@ -24352,7 +24356,6 @@ intim1.ch
 intim8.ch
 intima.ch
 intima2000.ch
-intimabox.ch
 intimacare.ch
 intimacy-coordination.ch
 intimacy-coordinator.ch
@@ -25045,7 +25048,6 @@ intrum-credit-information-ws.ch
 intrum-justitia.ch
 intrum.ch
 intrumjustitia.ch
-intrusion.ch
 intrusionsschutz.ch
 intruso.ch
 intrust.ch
@@ -25205,6 +25207,7 @@ intuitivework.ch
 intuitiveworks.ch
 intuitivheilen.ch
 intuitivherzraum.ch
+intuitivklavierspielen.ch
 intuitivkreativ.ch
 intuitivmalen.ch
 intuitivo.ch
@@ -25850,7 +25853,6 @@ invest-plus24.ch
 invest-romania.ch
 invest-rs.ch
 invest-sa.ch
-invest-school.ch
 invest-sila.ch
 invest-suisse.ch
 invest-swiss-homes.ch
@@ -26702,7 +26704,6 @@ invisible-elephants.ch
 invisible-technology.ch
 invisible-tg.ch
 invisible-thinking.ch
-invisible-vih.ch
 invisible-zurichs.ch
 invisible.ch
 invisiblebeauty.ch

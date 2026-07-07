@@ -2208,6 +2208,7 @@ skill-campus.ch
 skill-check-up.ch
 skill-check.ch
 skill-checkup.ch
+skill-companion.ch
 skill-drill.ch
 skill-economy.ch
 skill-forge.ch
@@ -2364,6 +2365,8 @@ skillmestore.ch
 skillmining.ch
 skillmix.ch
 skillmons-collectorshop.ch
+skillmotion-academy.ch
+skillmotion.ch
 skillnation.ch
 skillnet.ch
 skillnote.ch
@@ -2575,6 +2578,7 @@ skilltrickz.ch
 skilltwin.ch
 skilluminati.ch
 skillunited.ch
+skillup-companion.ch
 skillup-digital.ch
 skillup-festival.ch
 skillup-outdoors.ch
@@ -4321,6 +4325,7 @@ skok.ch
 skokka.ch
 skol.ch
 skola.ch
+skolan.ch
 skolazmaj.ch
 skole.ch
 skolelinux.ch
@@ -6027,7 +6032,6 @@ skyshare.ch
 skyshark.ch
 skyshell.ch
 skyshepherd.ch
-skyshield.ch
 skyship.ch
 skyshock.ch
 skyshop.ch

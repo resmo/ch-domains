@@ -168,7 +168,6 @@ ch-erdbeben.ch
 ch-erp-experten.ch
 ch-es-reicht.ch
 ch-es.ch
-ch-eservice.ch
 ch-estate.ch
 ch-events.ch
 ch-evote.ch
@@ -443,6 +442,7 @@ ch-reiseburo.ch
 ch-reitpony.ch
 ch-renovation.ch
 ch-renovbau.ch
+ch-renovierung.ch
 ch-rent.ch
 ch-rep.ch
 ch-representative.ch
@@ -535,6 +535,7 @@ ch-thuer.ch
 ch-ticino.ch
 ch-tierrettung.ch
 ch-tierrettungsdienst.ch
+ch-time.ch
 ch-tod.ch
 ch-tools.ch
 ch-trade.ch
@@ -1922,6 +1923,7 @@ chalet-erika.ch
 chalet-erlebnis.ch
 chalet-erwin.ch
 chalet-eule.ch
+chalet-evasion.ch
 chalet-event.ch
 chalet-fankhus.ch
 chalet-favre.ch
@@ -3599,7 +3601,6 @@ champagne-luc-mojard.ch
 champagne-martin-et-martin.ch
 champagne-maxime-blin.ch
 champagne-mercier.ch
-champagne-millesime.ch
 champagne-ruinart.ch
 champagne-suite.ch
 champagne-sunday.ch
@@ -5568,6 +5569,7 @@ chargeme.ch
 chargementale.ch
 chargemondo.ch
 chargemycar.ch
+chargengo.ch
 chargeon.ch
 chargeone.ch
 chargeplus.ch
@@ -5832,6 +5834,7 @@ charles-henri-favre.ch
 charles-hussy.ch
 charles-jourdan.ch
 charles-kuonen.ch
+charles-menge.ch
 charles-michel.ch
 charles-mueller.ch
 charles-nguela.ch
@@ -5949,7 +5952,6 @@ charlessauter.ch
 charlessauterag.ch
 charlesshaker.ch
 charlessuter.ch
-charleston-pub.ch
 charleston.ch
 charlestonjazzgroup.ch
 charlestonzuerich.ch
@@ -9542,6 +9544,7 @@ chefcoach.ch
 chefconnect.ch
 chefconsultant.ch
 chefcost.ch
+chefct47.ch
 chefdays.ch
 chefdeal.ch
 chefdeals.ch
@@ -10040,6 +10043,7 @@ chemin-d-histoires.ch
 chemin-de-fer-fribourg.ch
 chemin-de-la-sarine.ch
 chemin-de-st-jacques.ch
+chemin-de-stjacques.ch
 chemin-de-traverse.ch
 chemin-de-vie.ch
 chemin-des-arts.ch
@@ -11701,7 +11705,6 @@ chezanja.ch
 chezannas.ch
 chezanne.ch
 chezannette.ch
-chezanny.ch
 chezanouk.ch
 chezantoine.ch
 chezantonia.ch
@@ -12033,7 +12036,6 @@ cheznanou.ch
 cheznathalie.ch
 cheznelly.ch
 cheznhan-catering.ch
-cheznhan-zuerich.ch
 cheznhan.ch
 cheznico.ch
 cheznicoclub.ch
@@ -12700,7 +12702,6 @@ chicandcharming.ch
 chicanddog-shop.ch
 chicanddog.ch
 chicandfame-fashion.ch
-chicandgourmet.ch
 chicandshabby.ch
 chicandtonic.ch
 chicanimal.ch
@@ -13785,6 +13786,7 @@ chilisex.ch
 chilishop.ch
 chilisoft.ch
 chilispirit.ch
+chilisstatsfloorball.ch
 chilistar.ch
 chilistorage.ch
 chilistore.ch
@@ -15362,6 +15364,7 @@ chiropraktikzentrum.ch
 chiropraktische-medizin.ch
 chiropraktor-basel.ch
 chiropraktor-in-meiner-naehe.ch
+chiropraktor-schweiz.ch
 chiropraktor.ch
 chiropraktoren.ch
 chiropraktorin.ch
@@ -16455,7 +16458,6 @@ chloronag.ch
 chlorophorm.ch
 chlorophyll-tropfen.ch
 chlorophyll.ch
-chloroquine.ch
 chlorpool.ch
 chlorshop.ch
 chloschi.ch
@@ -21675,7 +21677,6 @@ christmas-tattoo.ch
 christmas-tree.ch
 christmas-us.ch
 christmas-village.ch
-christmas-zoo.ch
 christmas.ch
 christmasband.ch
 christmasbox.ch
@@ -21730,7 +21731,6 @@ christmastattoo.ch
 christmaswithmama.ch
 christmaswonderland.ch
 christmasworld.ch
-christmaszoo.ch
 christmysong.ch
 christnet.ch
 christo-holzdesign.ch
@@ -23526,6 +23526,7 @@ chthonic.ch
 chtierrettung.ch
 chtierrettungsdienst.ch
 chtikiki.ch
+chtime.ch
 chtjura.ch
 chtk.ch
 chtonk.ch
