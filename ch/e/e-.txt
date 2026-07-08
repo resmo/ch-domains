@@ -166,7 +166,6 @@ e-autos-jac.ch
 e-autos.ch
 e-autoteile.ch
 e-autotest.ch
-e-autotime.ch
 e-autovermietung.ch
 e-autoverschrottung.ch
 e-autoverwertung.ch
@@ -1115,6 +1114,7 @@ e-floreal.ch
 e-flotte.ch
 e-flow.ch
 e-flower.ch
+e-flugschule.ch
 e-flugzeug.ch
 e-flux.ch
 e-fly.ch
@@ -1439,7 +1439,6 @@ e-id-service.ch
 e-id-services.ch
 e-id-support.ch
 e-id-swiss.ch
-e-id-votation.ch
 e-id.ch
 e-idblog.ch
 e-iddi.ch
@@ -3119,7 +3118,6 @@ e-transaction.ch
 e-transit.ch
 e-transition.ch
 e-transparenz-register.ch
-e-transport.ch
 e-transporter.ch
 e-travail.ch
 e-travel.ch

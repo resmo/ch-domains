@@ -168,6 +168,7 @@ ch-erdbeben.ch
 ch-erp-experten.ch
 ch-es-reicht.ch
 ch-es.ch
+ch-eservice.ch
 ch-estate.ch
 ch-events.ch
 ch-evote.ch
@@ -507,7 +508,6 @@ ch-start.ch
 ch-starvegas.ch
 ch-steuern.ch
 ch-strategy.ch
-ch-streams.ch
 ch-strom-sparen.ch
 ch-studhalter.ch
 ch-style.ch
@@ -1955,6 +1955,7 @@ chalet-frutt.ch
 chalet-fulehung.ch
 chalet-furka.ch
 chalet-gaby.ch
+chalet-gade.ch
 chalet-gadmen.ch
 chalet-gaerlich.ch
 chalet-gafri.ch
@@ -2054,7 +2055,6 @@ chalet-kondore.ch
 chalet-kristall.ch
 chalet-krokus.ch
 chalet-l-ourse.ch
-chalet-la-boheme.ch
 chalet-la-cha.ch
 chalet-la-chotte.ch
 chalet-la-licorne.ch
@@ -3615,6 +3615,7 @@ champagneandfriends.ch
 champagneandwine-bar.ch
 champagneanyday.ch
 champagneartisan.ch
+champagneatelier.ch
 champagneaudemars.ch
 champagneautreau.ch
 champagnebabe.ch
@@ -5952,6 +5953,7 @@ charlessauter.ch
 charlessauterag.ch
 charlesshaker.ch
 charlessuter.ch
+charleston-pub.ch
 charleston.ch
 charlestonjazzgroup.ch
 charlestonzuerich.ch
@@ -7784,7 +7786,6 @@ chats-seniors.ch
 chats-zeureux.ch
 chats.ch
 chatsa.ch
-chatsapp.ch
 chatscale.ch
 chatscha.ch
 chatschadapp.ch
@@ -10529,7 +10530,6 @@ cheops-libre.ch
 cheops-pyramide.ch
 cheops-services.ch
 cheops-techmnology.ch
-cheops-technologies.ch
 cheops-technology.ch
 cheops.ch
 cheopscyberdefense.ch
@@ -10802,6 +10802,7 @@ chervo.ch
 chervoboys.ch
 chervosports.ch
 chery-fab.ch
+chery-support.ch
 chery-ti.ch
 chery-ticino.ch
 chery-traktoren.ch
@@ -13154,7 +13155,6 @@ chien-guide.ch
 chien-lose.ch
 chien-nu.ch
 chien-perdu.ch
-chien-pour-tous.ch
 chien-reactif.ch
 chien.ch
 chienbaese-liestal.ch
@@ -16451,6 +16451,7 @@ chloris-outdoor.ch
 chloris.ch
 chlorium.ch
 chlorladen.ch
+chlormeister.ch
 chlorofil.ch
 chloroform.ch
 chlorom.ch
@@ -22621,6 +22622,8 @@ chrobinson.ch
 chrobok.ch
 chrobot.ch
 chroc.ch
+chrochet.ch
+chrochetnode.ch
 chrocircle.ch
 chrock.ch
 chrocks.ch

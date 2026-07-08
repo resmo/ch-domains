@@ -548,7 +548,7 @@ ns01.appbnsr.ch
 ns01.as1836.ch
 ns01.aspcloud.ch
 ns01.auriga.ch
-ns01.beintouch.ch
+ns01.bitasp.ch
 ns01.blizzdns.ch
 ns01.cardcenter.ch
 ns01.clik.ch
@@ -612,7 +612,7 @@ ns02.aironaut.ch
 ns02.appbnsr.ch
 ns02.aspcloud.ch
 ns02.auriga.ch
-ns02.beintouch.ch
+ns02.bitasp.ch
 ns02.blizzdns.ch
 ns02.cardcenter.ch
 ns02.clik.ch
@@ -1931,6 +1931,7 @@ ns1.hakko.ch
 ns1.hakkoschweiz.ch
 ns1.hamasil.ch
 ns1.handloeten.ch
+ns1.handytecswiss.ch
 ns1.hanhartweb.ch
 ns1.hardest30.ch
 ns1.hasa.ch
@@ -3851,7 +3852,6 @@ ns1.wepithost.ch
 ns1.weratv.ch
 ns1.werbefranken.ch
 ns1.werde.ch
-ns1.werthdata.ch
 ns1.wesu.ch
 ns1.weyland.ch
 ns1.wgnet.ch
@@ -5240,6 +5240,7 @@ ns2.hakko.ch
 ns2.hakkoschweiz.ch
 ns2.hamasil.ch
 ns2.handloeten.ch
+ns2.handytecswiss.ch
 ns2.hanhartweb.ch
 ns2.hardest30.ch
 ns2.hasa.ch
@@ -7087,7 +7088,6 @@ ns2.wepithost.ch
 ns2.weratv.ch
 ns2.werbefranken.ch
 ns2.werde.ch
-ns2.werthdata.ch
 ns2.weyland.ch
 ns2.wgnet.ch
 ns2.wificom.ch
@@ -7567,7 +7567,6 @@ ns3.hses.ch
 ns3.hu90.ch
 ns3.huberinformatik.ch
 ns3.hugy.ch
-ns3.hunderunde.ch
 ns3.hunzikernet.ch
 ns3.hxh.ch
 ns3.ictpark.ch
@@ -8148,7 +8147,6 @@ ns4.holiness.ch
 ns4.hostmamba.ch
 ns4.hpbsc.ch
 ns4.hugy.ch
-ns4.hunderunde.ch
 ns4.hxh.ch
 ns4.implog.ch
 ns4.incide.ch
@@ -8906,4 +8904,3 @@ nsz.ch
 nszh.ch
 nszh.rolotec.ch
 nszmarketing.ch
-nszu.ch

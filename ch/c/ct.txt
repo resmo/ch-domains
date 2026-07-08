@@ -479,6 +479,7 @@ ctrl-z.ch
 ctrl.ch
 ctrl42.ch
 ctrlag.ch
+ctrlalt.ch
 ctrlaltcreate.ch
 ctrlaltdefeat.ch
 ctrlaltdel.ch
