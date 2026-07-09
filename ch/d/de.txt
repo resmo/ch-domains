@@ -394,7 +394,6 @@ deadsimple.ch
 deadstar.ch
 deadstock.ch
 deadte.ch
-deadvisors.ch
 deadwood.ch
 deadwriter.ch
 deadzero.ch
@@ -410,6 +409,7 @@ deafblind.ch
 deafblindinclusion.ch
 deafcbasel.ch
 deafening.ch
+deafilms.ch
 deafin.ch
 deafjob.ch
 deafkids.ch
@@ -1322,7 +1322,6 @@ debiundralf.ch
 debiwalther.ch
 debix.ch
 debixa.ch
-debixplus.ch
 debkinesiologie.ch
 debknot.ch
 deblab.ch
@@ -2045,7 +2044,6 @@ dechetteriesmobiles.ch
 dechettor.ch
 dechettriadomicile.ch
 dechex.ch
-dechezchrist-soins-de-beaute.ch
 dechezelles.ch
 dechiara-fotograf.ch
 dechiara.ch
@@ -2341,6 +2339,7 @@ deckputz.ch
 deckr.ch
 deckruede.ch
 decks.ch
+decksandlinks.ch
 decksndice.ch
 deckstation.ch
 deckstein.ch
@@ -4452,6 +4451,7 @@ defi24.ch
 defi300.ch
 defi5jours.ch
 defiaddictions.ch
+defiance.ch
 defiant-es.ch
 defiant.443.ch
 defiant.ch
@@ -5173,7 +5173,6 @@ dehaudt.ch
 dehaumont.ch
 dehautelutte.ch
 dehavilland-watches.ch
-dehavillandwatches.ch
 dehaynin.ch
 dehbel-it.ch
 dehdar.ch
@@ -5557,7 +5556,6 @@ dein-humandesign-potenzial.ch
 dein-hund-dein-coach.ch
 dein-hund-verstehen.ch
 dein-hund.ch
-dein-hundesalon.ch
 dein-hundetrainer.ch
 dein-hypnosecoach.ch
 dein-i-vent.ch
@@ -6204,6 +6202,7 @@ deine-berater.ch
 deine-beraterin.ch
 deine-beratung.ch
 deine-berufswahl.ch
+deine-bestform.ch
 deine-bewerbung.ch
 deine-bibel.ch
 deine-biografie.ch
@@ -6351,6 +6350,7 @@ deine-private-ki.ch
 deine-psychologische-hilfe.ch
 deine-pusteblume.ch
 deine-putzfrau.ch
+deine-quelle.ch
 deine-rabatte.ch
 deine-rechtsberatung.ch
 deine-region.ch
@@ -6599,7 +6599,6 @@ deineitprofis.ch
 deinejuweliere.ch
 deinekanti.ch
 deinekarriere.ch
-deinekarte.ch
 deinekerze.ch
 deineki.ch
 deinekiagentur.ch
@@ -9148,7 +9147,6 @@ deliciasyeventosmaria.ch
 deliciel.ch
 delicieux.ch
 delicima.ch
-delicio.ch
 delicioeufs.ch
 delicious-artspace.ch
 delicious-club.ch
@@ -9235,7 +9233,6 @@ delightdesign.ch
 delighted-data.ch
 delighted.ch
 delightfactory.ch
-delightful-goldenbliss.ch
 delightful.ch
 delightfull.ch
 delightfulstillness.ch
@@ -10606,6 +10603,7 @@ deltarealestate.ch
 deltareinigung.ch
 deltareinraum.ch
 deltarentcars.ch
+deltarisks.ch
 deltarix.ch
 deltarom.ch
 deltarr.ch
@@ -12004,7 +12002,6 @@ demo-ton-informaticien.ch
 demo-typo3.ch
 demo-vonmedia.ch
 demo-web.ch
-demo-weblsy.ch
 demo-webseite-webnio.ch
 demo-webshop.ch
 demo-xbees.ch
@@ -13662,7 +13659,6 @@ dentacare.ch
 dentacaremurten.ch
 dentacas.ch
 dentachatte.ch
-dentacity.ch
 dentaclean.ch
 dentaclever.ch
 dentacloud.ch
@@ -13904,7 +13900,6 @@ dentalbalance-akademie.ch
 dentalbarometer.ch
 dentalbasilea.ch
 dentalbauer.ch
-dentalbazaar.ch
 dentalbazar.ch
 dentalbeaulieu.ch
 dentalbeauty.ch
@@ -14089,7 +14084,6 @@ dentalhygiene-borer.ch
 dentalhygiene-brunnen.ch
 dentalhygiene-claudia-steinle.ch
 dentalhygiene-dental-aarau.ch
-dentalhygiene-dental-schaffhausen.ch
 dentalhygiene-dental-sursee.ch
 dentalhygiene-dh.ch
 dentalhygiene-duebendorf.ch
@@ -15192,6 +15186,7 @@ denttech.ch
 dentup.ch
 dentura.ch
 denture.ch
+dentures.ch
 denturist.ch
 dentury.ch
 dentvetica.ch
@@ -15249,19 +15244,41 @@ denz-office.ch
 denz-weine.ch
 denz.ch
 denza-appenzell.ch
+denza-automobile.ch
+denza-automobiles.ch
+denza-bern.ch
+denza-berne.ch
 denza-bodensee.ch
 denza-byd.ch
+denza-fribourg.ch
+denza-geneve.ch
 denza-icarauto.ch
+denza-jura.ch
+denza-neuchatel.ch
 denza-ostschweiz.ch
 denza-reintal.ch
 denza-rheinthal.ch
+denza-romandie.ch
 denza-sg.ch
 denza-stgallen.ch
+denza-suisse.ch
+denza-swiss.ch
+denza-switzerland.ch
 denza-thurgau.ch
+denza-valais.ch
+denza-vaud.ch
 denza-zuerich.ch
 denza.ch
+denzabern.ch
+denzaberne.ch
+denzafribourg.ch
+denzageneve.ch
+denzajura.ch
 denzali.ch
+denzaneuchatel.ch
 denzauktionen.ch
+denzavalais.ch
+denzavaud.ch
 denzconcept-bern.ch
 denzdesign.ch
 denzdetail.ch
@@ -15676,6 +15693,7 @@ departure-suisse.ch
 departure-swiss.ch
 departure.ch
 departures.ch
+departureservice.ch
 depascal.ch
 depascali.ch
 depascalis.ch
@@ -15729,7 +15747,6 @@ depfyffer.ch
 dephamon.ch
 depharmacy.ch
 dephasium.ch
-dephysio.ch
 depi.ch
 depicciotto-office.ch
 depicciotto.ch
@@ -16136,7 +16153,6 @@ deqore.ch
 deqori.ch
 deqster.ch
 dequartery.ch
-dequarze.ch
 dequattro.ch
 deque.ch
 dequerreetdaplomb.ch
@@ -16455,6 +16471,7 @@ der-graveur.ch
 der-grenzgaenger.ch
 der-groesste-fan.ch
 der-groesste-hunger.ch
+der-grosse-kanton.ch
 der-group.ch
 der-growshop.ch
 der-gruene-gaul.ch
@@ -17945,6 +17962,7 @@ deriggi.ch
 derighetti.ch
 derigo.ch
 deriguide.ch
+derila-ergo.ch
 derila-ergonomic.ch
 derila.ch
 derilaergo.ch
@@ -18673,6 +18691,7 @@ dermarketingexperte.ch
 dermarketingplaner.ch
 dermarkt.ch
 dermarktkalender.ch
+dermarktreport.ch
 dermaroemerhof.ch
 dermaroller.ch
 dermarollers.ch
@@ -19382,6 +19401,7 @@ derporno.ch
 derporscheclub.ch
 derportraitfotograf.ch
 derposaunenbauer.ch
+derpost.ch
 derpostraub.ch
 derpotenzialfinder.ch
 derpr0t0type.ch
@@ -19557,7 +19577,6 @@ derschulhund.ch
 derschwaermer.ch
 derschwarzehund.ch
 derschwarzemob.ch
-derschweighofer.ch
 derschweiz-fonds.ch
 derschweizer.ch
 derschweizerfernsehpreis.ch
@@ -19807,6 +19826,7 @@ derungs-laib.ch
 derungs-lebensmittel.ch
 derungs-powercoaching.ch
 derungs-quinter.ch
+derungs-sparring.ch
 derungs-treuhand.ch
 derungs-uors.ch
 derungs-werbetechnik.ch
@@ -21318,7 +21338,6 @@ designergrill.ch
 designergy.ch
 designerhandbags.ch
 designerhandtaschen.ch
-designeria.ch
 designerie.ch
 designerin.ch
 designering.ch
@@ -22583,6 +22602,7 @@ despicableme3.ch
 despideyvowinti.ch
 despiedsalatete.ch
 despiedsetunemission.ch
+despierta.ch
 despina.ch
 despinacorazza.ch
 despindler.ch
@@ -22666,6 +22686,7 @@ dessert-werk-statt.ch
 dessert-wine.ch
 dessert.ch
 dessertbar.ch
+dessertblog.ch
 desserteria.ch
 dessertgnuss.ch
 dessertkerzen.ch
@@ -23397,7 +23418,6 @@ detectives-fribourg.ch
 detectives-lausanne.ch
 detectives-prives.ch
 detectives-suisse.ch
-detectives.ch
 detectivesgeneve.ch
 detectivesneuchatel.ch
 detectivesnyon.ch
@@ -23444,6 +23464,7 @@ detektei-rama.ch
 detektei-schenkel.ch
 detektei-schweiz.ch
 detektei-signia.ch
+detektei-suljagic.ch
 detektei-thailand.ch
 detektei-thomasmueller.ch
 detektei-widder.ch
@@ -24907,7 +24928,6 @@ devenir-mannequin.ch
 devenir-masseuse-medicale.ch
 devenir-medecin-independant.ch
 devenir-meilleur.ch
-devenir-membre-permanent.ch
 devenir-membre.ch
 devenir-meurtrier.ch
 devenir-opticien.ch
@@ -25866,7 +25886,6 @@ dewalt-tools.ch
 dewalt-werkzeug.ch
 dewalt-world.ch
 dewalt.ch
-dewalt4you.ch
 dewaltschweiz.ch
 dewam.ch
 dewande.ch

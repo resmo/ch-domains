@@ -594,6 +594,7 @@ ns01.skvnet.ch
 ns01.sotero.ch
 ns01.stauffachercharpentes.ch
 ns01.swecdn.ch
+ns01.sys4.ch
 ns01.tcnet.ch
 ns01.tso.ch
 ns01.vtx.ch
@@ -968,7 +969,6 @@ ns1.bauernportal.ch
 ns1.baumer.ch
 ns1.bbcom.ch
 ns1.bbconsulting.ch
-ns1.bbiconstruct.ch
 ns1.bbx.ch
 ns1.bbz.ch
 ns1.bc-net.ch
@@ -1495,6 +1495,7 @@ ns1.dnscore.ch
 ns1.dnservice.ch
 ns1.dnsguardian.ch
 ns1.dnshub.ch
+ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -2199,7 +2200,6 @@ ns1.itapps.ch
 ns1.itautomate.ch
 ns1.itc-host.ch
 ns1.itcircle.ch
-ns1.itde.ch
 ns1.itdev.ch
 ns1.iteconomy.ch
 ns1.itexacloud.ch
@@ -2469,7 +2469,6 @@ ns1.magno.ch
 ns1.mai1.ch
 ns1.maia.ch
 ns1.mail.huppertz.ch
-ns1.mail.lakecoop.ch
 ns1.mail.t2v.ch
 ns1.mail360.ch
 ns1.mailer-daemon.ch
@@ -4314,7 +4313,6 @@ ns2.baumer.ch
 ns2.baz-med.ch
 ns2.bbcom.ch
 ns2.bbconsulting.ch
-ns2.bbiconstruct.ch
 ns2.bbz.ch
 ns2.bc-net.ch
 ns2.bcts.ch
@@ -5760,7 +5758,6 @@ ns2.magahugu.ch
 ns2.magicline.ch
 ns2.magno.ch
 ns2.mail.huppertz.ch
-ns2.mail.lakecoop.ch
 ns2.mail.t2v.ch
 ns2.mail360.ch
 ns2.mailer-daemon.ch

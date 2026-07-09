@@ -3277,7 +3277,6 @@ immo-argus.ch
 immo-art.ch
 immo-as.ch
 immo-ascolux.ch
-immo-ascona.ch
 immo-asset.ch
 immo-assist.ch
 immo-assistent.ch
@@ -3793,7 +3792,6 @@ immo-kuhn.ch
 immo-kultur.ch
 immo-kunz.ch
 immo-kupfenag.ch
-immo-l.ch
 immo-laden.ch
 immo-lagler.ch
 immo-lago-maggiore.ch
@@ -3877,6 +3875,7 @@ immo-market.ch
 immo-marketer.ch
 immo-marketing.ch
 immo-markt.ch
+immo-marktreport.ch
 immo-marktwertanalyse.ch
 immo-marti.ch
 immo-master.ch
@@ -4315,6 +4314,8 @@ immo-trends.ch
 immo-treuhand-babic.ch
 immo-treuhand.ch
 immo-trimbach.ch
+immo-trova-casa.ch
+immo-trovacasa.ch
 immo-trust.ch
 immo-tscherry.ch
 immo-tube.ch
@@ -8671,7 +8672,6 @@ immoprojektag.ch
 immoprojekte.ch
 immoproll.ch
 immoprom.ch
-immopromo.ch
 immopromote.ch
 immopromotion.ch
 immoprompt.ch
@@ -9384,6 +9384,7 @@ immotriage.ch
 immotrix.ch
 immotro.ch
 immotron.ch
+immotrovacasa.ch
 immotrust-ge.ch
 immotrust.ch
 immotrustag.ch
@@ -11837,6 +11838,7 @@ impresadipitturagf.ch
 impresadipitturalugano.ch
 impresadipulizie.ch
 impresadipuliziealbatros.ch
+impresadipuliziecrystal.ch
 impresadipulizieelmafrouhi.ch
 impresadipulizieleone.ch
 impresadipulizieperfecthomes.ch
@@ -11989,7 +11991,6 @@ imprimere.ch
 imprimerie-arve.ch
 imprimerie-aubonne.ch
 imprimerie-basel.ch
-imprimerie-beaulieu.ch
 imprimerie-bureau-services.ch
 imprimerie-calligraphy-sierre.ch
 imprimerie-carrara.ch

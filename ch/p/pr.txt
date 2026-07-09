@@ -1165,6 +1165,9 @@ pramien.ch
 pramienrechner.ch
 pramienrechner2026.ch
 pramienrechner2027.ch
+pramienrechner2028.ch
+pramienrechner2029.ch
+pramienrechner2030.ch
 pramienvergleich.ch
 pramin.ch
 pramipexole.ch
@@ -1603,6 +1606,7 @@ praxi-suisse.ch
 praxi.ch
 praxia.ch
 praxiaweb.ch
+praxica.ch
 praxicare.ch
 praxiclan.ch
 praxiclean.ch
@@ -1679,6 +1683,7 @@ praxis-ah.ch
 praxis-ahoi.ch
 praxis-ainea.ch
 praxis-ajna.ch
+praxis-ak.ch
 praxis-akademie.ch
 praxis-akasha.ch
 praxis-akela.ch
@@ -2594,7 +2599,6 @@ praxis-foerster.ch
 praxis-fortuna.ch
 praxis-fotograf.ch
 praxis-fraenzl.ch
-praxis-franca.ch
 praxis-francospera.ch
 praxis-frangipani.ch
 praxis-frank.ch
@@ -2792,7 +2796,6 @@ praxis-gschwandtner.ch
 praxis-gschwind.ch
 praxis-gsund.ch
 praxis-gsundwaerts.ch
-praxis-guarneri.ch
 praxis-guebeli.ch
 praxis-gueltekin.ch
 praxis-guentensperger.ch
@@ -3025,6 +3028,7 @@ praxis-im-see.ch
 praxis-im-sihltor.ch
 praxis-im-singeisenhof.ch
 praxis-im-spiegel.ch
+praxis-im-staedtli.ch
 praxis-im-tal.ch
 praxis-im-weggishof.ch
 praxis-im-winkel.ch
@@ -3562,7 +3566,6 @@ praxis-millefolium.ch
 praxis-mindbalance.ch
 praxis-mindflow.ch
 praxis-minnier.ch
-praxis-minoretti.ch
 praxis-miraculis.ch
 praxis-miramed.ch
 praxis-miriam.ch
@@ -3987,7 +3990,6 @@ praxis-rosenberg.ch
 praxis-rosenberger.ch
 praxis-rosengasse.ch
 praxis-rosenstihl.ch
-praxis-rosenstrasse.ch
 praxis-roshan.ch
 praxis-rosin.ch
 praxis-rossbach.ch
@@ -4339,7 +4341,6 @@ praxis-steigrueti.ch
 praxis-steinachpark.ch
 praxis-steinbach.ch
 praxis-steinberggasse.ch
-praxis-steinen.ch
 praxis-steinenring.ch
 praxis-steiner.ch
 praxis-steinfeld.ch
@@ -4925,6 +4926,7 @@ praxisalessandri.ch
 praxisalexandra.ch
 praxisallemann.ch
 praxisallenbach.ch
+praxisallmend.ch
 praxisalpnach.ch
 praxisaltendorf.ch
 praxisalterswil.ch
@@ -7068,6 +7070,7 @@ praxiszoe.ch
 praxiszoellner.ch
 praxiszoggsilvia.ch
 praxiszollstrasse.ch
+praxiszsb.ch
 praxiszubehoer.ch
 praxiszuber.ch
 praxiszuercher.ch
@@ -8347,7 +8350,9 @@ prelu.ch
 preluce.ch
 prelude-design.ch
 prelude.ch
+preludeatelier.ch
 preludelabs.ch
+preludeliving.ch
 preludes.ch
 preludesa.ch
 preludia.ch
@@ -8591,14 +8596,12 @@ premio-martigny.ch
 premio-per-la-sostenibilita.ch
 premio-reifen.ch
 premio-romanel.ch
-premio-schnyder.ch
 premio-scientifico-svizzero.ch
 premio-st-blaise.ch
 premio-tuning.ch
 premio-vernier.ch
 premio-wauwil.ch
 premio-worb.ch
-premio-zuerich.ch
 premio.ch
 premiobasso.ch
 premioboni.ch
@@ -8633,7 +8636,6 @@ premioticino.ch
 premiotuning.ch
 premiovantaggioso.ch
 premiox.ch
-premiozuerich.ch
 premira-capital.ch
 premira-invest.ch
 premira.ch
@@ -9681,7 +9683,6 @@ prepaid-global.ch
 prepaid-internet.ch
 prepaid-karte.ch
 prepaid-karten.ch
-prepaid-kreditkarte.ch
 prepaid-kreditkarten.ch
 prepaid-rootserver.ch
 prepaid-sim-karte.ch
@@ -10508,6 +10509,7 @@ presstech.ch
 pressthebutton.ch
 presstime.ch
 presstival.ch
+presstory.ch
 presstourism.ch
 presstrade.ch
 presstv.ch
@@ -10612,6 +10614,7 @@ prestegg.ch
 prestel-gemmer.ch
 prestel-rallyemetrie.ch
 prestel.ch
+prestence.ch
 presthouse.ch
 presti-clean.ch
 presti-leads.ch
@@ -11603,7 +11606,6 @@ previu.ch
 previva.ch
 previvo.ch
 prevo-conseils.ch
-prevo-consulting.ch
 prevo-swiss.ch
 prevo.ch
 prevoclub.ch
@@ -12349,7 +12351,6 @@ primagenerations.ch
 primaghana.ch
 primagioia.ch
 primaglanz.ch
-primagolf.ch
 primagolfreisen.ch
 primagora.ch
 primagran.ch
@@ -12434,7 +12435,6 @@ primapagina.ch
 primaparquet.ch
 primapave.ch
 primapelle.ch
-primapen.ch
 primaperla-shop.ch
 primaperla.ch
 primapflege.ch
@@ -14873,6 +14873,7 @@ printonly.ch
 printoo.ch
 printop.ch
 printopia-3druck.ch
+printopia-swiss.ch
 printopia.ch
 printor.ch
 printora.ch
@@ -16274,7 +16275,6 @@ privatbox.ch
 privatboxing.ch
 privatbrauerei.ch
 privatbumsen.ch
-privatbutler.ch
 privatcam.ch
 privatcamper.ch
 privatcare.ch
@@ -16289,7 +16289,6 @@ privatchef.ch
 privatclinicforum.ch
 privatcloud.ch
 privatclub.ch
-privatcoiffeur.ch
 privatconcept.ch
 privatcredit.ch
 privatcroupier.ch
@@ -19834,9 +19833,7 @@ probetraining.ch
 probetrainings.ch
 probett.ch
 probeve.ch
-probezeit-gymnasium.ch
 probezeit.ch
-probezeitbegleitung.ch
 probi.ch
 probiag.ch
 probible.ch
@@ -20232,6 +20229,7 @@ procap-sport-burgdorf.ch
 procap-sport.ch
 procap-sportweb.ch
 procap-sw.ch
+procap-ticino.ch
 procap-valais.ch
 procap-vaud.ch
 procap-voyage.ch
@@ -20677,6 +20675,7 @@ procommerz.ch
 procommodum.ch
 procommunication.ch
 procomp.ch
+procompare.ch
 procomplaint.ch
 procompo.ch
 procompta.ch
@@ -23198,7 +23197,6 @@ profit24.ch
 profit4good.ch
 profit4life.ch
 profit4purpose.ch
-profit4you.ch
 profita.ch
 profitabel.ch
 profitability.ch
@@ -24962,6 +24960,7 @@ projekt-online.ch
 projekt-otter.ch
 projekt-p.ch
 projekt-papa.ch
+projekt-papillon.ch
 projekt-partnerin.ch
 projekt-perspektive.ch
 projekt-phoenix.ch
@@ -25741,7 +25740,6 @@ projmatics.ch
 projo.ch
 projob-shop.ch
 projob-workwear.ch
-projob.ch
 projobs.ch
 projobshop.ch
 projoint.ch
@@ -26673,6 +26671,7 @@ prominpar.ch
 promint.ch
 prominusio.ch
 prominvest.ch
+promio.ch
 promiobio.ch
 promipool.ch
 promipost.ch
@@ -27449,6 +27448,7 @@ prompteuripad.ch
 promptfactory.ch
 promptfinder.ch
 promptforge.ch
+promptgenerator-studio.ch
 promptgenius.ch
 prompthaus.ch
 prompthost.ch
@@ -27942,6 +27942,7 @@ propa.ch
 propac.ch
 propacag.ch
 propace.ch
+propacem.ch
 propack.ch
 propadu.ch
 propaed.ch
@@ -28650,6 +28651,7 @@ proprex.ch
 propri-service.ch
 propri.ch
 propria.ch
+propriacapital.ch
 proprietaire-bailleur-geneve.ch
 proprietaire-immo.ch
 proprietaire-immobilier.ch
@@ -29439,7 +29441,6 @@ prospektstaender.ch
 prospektverteilung.ch
 prospeo.ch
 prospeqt.ch
-prosper-consulting.ch
 prosper-it.ch
 prosper-montagne.ch
 prosper-power.ch
@@ -29793,7 +29794,6 @@ protagonistar.ch
 protagoniste.ch
 protagonistin.ch
 protagonizer.ch
-protainnail.ch
 protake.ch
 protaktik.ch
 protal.ch
@@ -31346,6 +31346,7 @@ provibar.ch
 provibes.ch
 provibia.ch
 provibo.ch
+provica.ch
 provicom.ch
 provicon.ch
 provicons.ch
@@ -32263,6 +32264,7 @@ prp-sa.ch
 prp-shot.ch
 prp-siwss.ch
 prp-therapie.ch
+prp.ch
 prpa.ch
 prpapp.ch
 prpbehandlung.ch
