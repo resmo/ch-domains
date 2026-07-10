@@ -376,6 +376,7 @@ dsc2.ch
 dsc33.ch
 dsc357.ch
 dsc42.ch
+dsc9x.ch
 dscag.ch
 dscargo.ch
 dscasapro.ch
@@ -1078,6 +1079,7 @@ dssx.ch
 dssz.ch
 dst-ag.ch
 dst-automotive.ch
+dst-c.ch
 dst-combitrans.ch
 dst-consulting.ch
 dst-energie.ch

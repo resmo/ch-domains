@@ -272,6 +272,7 @@ oralchirurgiesolothurn.ch
 oralclinic.ch
 oralcontrems.ch
 oralcontrescleroseenplaques.ch
+oralcreation.ch
 oraldent.ch
 oraldesign-ti.ch
 oraldesign-turicum.ch
@@ -692,6 +693,7 @@ oravio.ch
 oravita.ch
 oravitavr.ch
 oravius.ch
+oravo.ch
 oravox.ch
 oraworld.ch
 orax.ch
@@ -1477,6 +1479,7 @@ orderlive.ch
 orderloop.ch
 orderly.ch
 orderlylife.ch
+orderlyo.ch
 ordermail.ch
 ordermails.ch
 ordermanagementsystem.ch
@@ -1802,6 +1805,7 @@ ordre-chevaleresque.ch
 ordre-de-la-channe.ch
 ordre-de-st-jean.ch
 ordre-des-avocats.ch
+ordre-du-sceau.ch
 ordre-sauvage.ch
 ordre.ch
 ordre5continents.ch
@@ -1812,6 +1816,7 @@ ordredemalte.ch
 ordredesavocatsvaudois.ch
 ordredexpedition.ch
 ordreduhoublon.ch
+ordredusceau.ch
 ordreecossais-sub-rosa.ch
 ordreecossais.ch
 ordris.ch
@@ -3307,6 +3312,7 @@ origenes.ch
 origenial.ch
 origenis.ch
 origenpatagoniadesign.ch
+origenriviera.ch
 origens.ch
 origensbbq.ch
 oright-swiss.ch
@@ -3825,8 +3831,6 @@ orionconsulting.ch
 orioncrypto.ch
 oriondev.ch
 oriondirect.ch
-oriondrift.ch
-oriondriftvr.ch
 oriondrive.ch
 orione.ch
 orionedp.ch
@@ -4082,7 +4086,6 @@ orl-nyon.ch
 orl-oerlikon.ch
 orl-opera.ch
 orl-otoneurol.ch
-orl-plainpalais.ch
 orl-planung.ch
 orl-praxis-chur.ch
 orl-praxis-milchbuck.ch
@@ -4125,7 +4128,6 @@ orlaco.ch
 orlade.ch
 orlakustik.ch
 orlam-luzern.ch
-orlam.ch
 orlamuende.ch
 orlamuender.ch
 orland.ch
@@ -4210,6 +4212,7 @@ orlatti.ch
 orlax.ch
 orlaya.ch
 orlbaden.ch
+orlbelleterre.ch
 orlbienne.ch
 orlchampel.ch
 orlcharmilles.ch
@@ -4552,7 +4555,6 @@ orogroup.ch
 oroguarani.ch
 oroh.ch
 orohotel.ch
-oroin-groupe.ch
 oroineuro.ch
 oroineurogroup.ch
 orok-immo.ch
@@ -5459,6 +5461,7 @@ orthodontie-boutdulac.ch
 orthodontie-bulle.ch
 orthodontie-bussigny.ch
 orthodontie-chablais.ch
+orthodontie-chavannes-renens.ch
 orthodontie-echallens.ch
 orthodontie-fully-smile.ch
 orthodontie-geneve.ch
@@ -5498,7 +5501,11 @@ orthodontienyon.ch
 orthodontieouchy.ch
 orthodontiepediatrique.ch
 orthodontiepraxis.ch
+orthodonties-lausanne.ch
+orthodonties-pully.ch
 orthodonties.ch
+orthodontieslausanne.ch
+orthodontiespully.ch
 orthodontiesuisse.ch
 orthodontietaieb.ch
 orthodontievaud.ch
@@ -5510,6 +5517,7 @@ orthodontist.ch
 orthodontiste-aigle.ch
 orthodontiste-blonay.ch
 orthodontiste-carouge.ch
+orthodontiste-chavannes-renens.ch
 orthodontiste-dentiste.ch
 orthodontiste-enfant-lausanne.ch
 orthodontiste-enfant.ch
@@ -5520,6 +5528,7 @@ orthodontiste-montreux.ch
 orthodontiste-ne.ch
 orthodontiste-nyon.ch
 orthodontiste-orthodontie.ch
+orthodontiste-pully.ch
 orthodontiste-specialiste.ch
 orthodontiste-territet.ch
 orthodontiste-thiercelin.ch
@@ -5530,10 +5539,13 @@ orthodontiste-villeneuve.ch
 orthodontiste.ch
 orthodontiste24.ch
 orthodontistegeneve.ch
+orthodontistepully.ch
+orthodontistes-lausanne.ch
 orthodontistes-ne.ch
 orthodontistes-orthodontie.ch
 orthodontistes-specialistes.ch
 orthodontistes.ch
+orthodontisteslausanne.ch
 orthodontistesneuchatel.ch
 orthodontistesuisse.ch
 orthodontistgeneva.ch

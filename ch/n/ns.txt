@@ -1495,7 +1495,6 @@ ns1.dnscore.ch
 ns1.dnservice.ch
 ns1.dnsguardian.ch
 ns1.dnshub.ch
-ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -3317,6 +3316,7 @@ ns1.sg-edv.ch
 ns1.sg-wanderweg.ch
 ns1.sgone.ch
 ns1.shapery.ch
+ns1.sharebox.ch
 ns1.shareout.ch
 ns1.shinhosting.ch
 ns1.shins.ch
@@ -4816,6 +4816,7 @@ ns2.dns24.ch
 ns2.dnservice.ch
 ns2.dnsguardian.ch
 ns2.dnshub.ch
+ns2.dnsking.ch
 ns2.dnsproxy.ch
 ns2.dnssec.ch
 ns2.dnssecure.ch
@@ -6557,6 +6558,7 @@ ns2.sg-edv.ch
 ns2.sg-wanderweg.ch
 ns2.sgone.ch
 ns2.shapery.ch
+ns2.sharebox.ch
 ns2.shareout.ch
 ns2.shinhosting.ch
 ns2.shins.ch

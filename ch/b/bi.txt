@@ -1990,7 +1990,6 @@ bidplace.ch
 bidplan.ch
 bidpointer.ch
 bidradar.ch
-bidrat.ch
 bidrento.ch
 bids-ag.ch
 bids-bbh.ch
@@ -2257,6 +2256,7 @@ bielerseemauern.ch
 bielerseemeisterschaft.ch
 bielerseeschiff.ch
 bielerseesegeln.ch
+bielerseestatus.ch
 bielerseetourismus.ch
 bielerseewein.ch
 bielerseeweine.ch
@@ -6212,7 +6212,6 @@ bikebike.ch
 bikebirrer.ch
 bikeblackweek.ch
 bikeblog.ch
-bikeboard.ch
 bikeboerse24.ch
 bikebooking.ch
 bikeboutique.ch
@@ -7308,6 +7307,7 @@ biko33.ch
 bikobill.ch
 bikompass.ch
 bikovery.ch
+bikr.ch
 bikram-yoga.ch
 bikram.ch
 bikramyoco.ch
@@ -8520,7 +8520,6 @@ bildungs-kompass.ch
 bildungs-konzepte.ch
 bildungs-kredit.ch
 bildungs-magazin.ch
-bildungs-management.ch
 bildungs-partnerschaft.ch
 bildungs-podcast.ch
 bildungs-portal.ch
@@ -8768,7 +8767,6 @@ bildungsquali.ch
 bildungsqualitaet-aargau.ch
 bildungsqualitaet-jetzt.ch
 bildungsqualitaet-sichern-aargau.ch
-bildungsqualitaet-sichern-jetzt.ch
 bildungsqualitaet-sichern.ch
 bildungsqualitaet.ch
 bildungsrabatte.ch
@@ -10895,7 +10893,6 @@ binegrau.ch
 bineigenverlag.ch
 binek.ch
 binekocht.ch
-bineli.ch
 binella-switzerland.ch
 binella.ch
 binelli-app.ch
@@ -13317,7 +13314,6 @@ biogasexpress.ch
 biogasflare.ch
 biogashatzukunft.ch
 biogasmagadino.ch
-biogasmonitoring.ch
 biogasnews.ch
 biogasplus.ch
 biogasregio.ch
@@ -14120,7 +14116,6 @@ biokueche.ch
 biokuerbis.ch
 biokult.ch
 biokunststoff-gehaeuse.ch
-biokunststoff.ch
 biokunststoffe.ch
 biokunststoffgehaeuse.ch
 biokurier.ch
@@ -15003,7 +14998,6 @@ bioplants-suisse.ch
 bioplantssuisse.ch
 bioplantswiss.ch
 bioplas.ch
-bioplastic.ch
 bioplastics.ch
 bioplastik.ch
 bioplat.ch
@@ -17394,7 +17388,6 @@ birstv.ch
 birsuferweg.ch
 birswasserkraft.ch
 birswelle.ch
-birswest-tend.ch
 birt.ch
 birte.ch
 birtedorenkamp.ch
@@ -19372,7 +19365,6 @@ bitcoinsuissecustody.ch
 bitcoinsuissesecurities.ch
 bitcoinsuissesecurity.ch
 bitcoinsuissevault.ch
-bitcoinsult.ch
 bitcoinsv.ch
 bitcoinsvererben.ch
 bitcoinswiss.ch
@@ -19488,6 +19480,7 @@ bitdown.ch
 bitdream.ch
 bitdreams.ch
 bitdrive.ch
+bite-app.ch
 bite-defender.ch
 bite-me.ch
 bite-net.ch
