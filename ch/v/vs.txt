@@ -709,7 +709,6 @@ vsp-f.ch
 vsp-fsec.ch
 vsp-group.ch
 vsp-pcdo.ch
-vsp-so.ch
 vsp.ch
 vspa.ch
 vspace.ch
@@ -901,6 +900,7 @@ vsv-sg.ch
 vsv-shtg.ch
 vsv-so.ch
 vsv-staufen.ch
+vsv-suhr.ch
 vsv-sz.ch
 vsv-unterwalden.ch
 vsv-ur.ch

@@ -56,6 +56,7 @@ ki-anwalt.ch
 ki-anwenden.ch
 ki-anwendungen.ch
 ki-anzeigen.ch
+ki-app.ch
 ki-apps.ch
 ki-arbeitsmarkt.ch
 ki-arbeitszeugnis.ch
@@ -188,6 +189,7 @@ ki-consulting.ch
 ki-consulting24.ch
 ki-consultingagency.ch
 ki-content-generator.ch
+ki-content.ch
 ki-contor.ch
 ki-control.ch
 ki-controlling.ch
@@ -273,6 +275,8 @@ ki-filmstudio.ch
 ki-finanzen.ch
 ki-finder.ch
 ki-firmen.ch
+ki-firmendaten.ch
+ki-firmenprofil.ch
 ki-firmenverzeichnis.ch
 ki-first.ch
 ki-fit.ch
@@ -565,6 +569,7 @@ ki-mechanics.ch
 ki-med.ch
 ki-media.ch
 ki-medien-ombudsstelle.ch
+ki-medien.ch
 ki-medizin.ch
 ki-meetup-gr.ch
 ki-meetup.ch
@@ -615,6 +620,8 @@ ki-netzwerk.ch
 ki-news-schweiz.ch
 ki-news.ch
 ki-newsletter.ch
+ki-newsportal.ch
+ki-newsroom.ch
 ki-no-bi.ch
 ki-now.ch
 ki-nutrition.ch
@@ -677,6 +684,7 @@ ki-praxis.ch
 ki-praxisassistenz.ch
 ki-praxisportal.ch
 ki-praxistrainings.ch
+ki-presse.ch
 ki-print.ch
 ki-privat.ch
 ki-privatunterricht.ch
@@ -880,6 +888,7 @@ ki-talk.ch
 ki-te.ch
 ki-teacher.ch
 ki-team.ch
+ki-tech-radar.ch
 ki-telefon.ch
 ki-telefonagent.ch
 ki-telefonassistent.ch
@@ -936,6 +945,8 @@ ki-und-kirche.ch
 ki-und-management.ch
 ki-und-therapie.ch
 ki-unternehmen.ch
+ki-unternehmensdaten.ch
+ki-unternehmensprofil.ch
 ki-unternehmensverzeichnis.ch
 ki-unterricht.ch
 ki-unterstuetzung.ch
@@ -4265,7 +4276,6 @@ killian-perretgentil.ch
 killian-podologue.ch
 killian.ch
 killiandrive.ch
-killianpasquier.ch
 killianpeier.ch
 killianschaer.ch
 killianwenger.ch
@@ -6081,7 +6091,6 @@ kinderdatenschutz.ch
 kinderdeal.ch
 kinderdeko.ch
 kinderdelice.ch
-kinderdemenz-events.ch
 kinderdemenz-schweiz.ch
 kinderdemenz-stiftung.ch
 kinderdemenz.ch
@@ -6868,6 +6877,7 @@ kinderkrippenindex.ch
 kinderkrippenjobs.ch
 kinderkrippenonnarosa.ch
 kinderkrippensuche.ch
+kinderkrippenvereindietikon.ch
 kinderkrippenvergleich.ch
 kinderkrippeschlieren.ch
 kinderkrippeschlumpfhuesli.ch
@@ -13240,6 +13250,7 @@ kistudios.ch
 kistutz.ch
 kisuche.ch
 kisuchen.ch
+kisuchmaschine.ch
 kisuchoptimierung.ch
 kisucht.ch
 kisuisse.ch
@@ -15399,6 +15410,7 @@ kiwibaum.ch
 kiwibeere.ch
 kiwibox.ch
 kiwibus.ch
+kiwicapital.ch
 kiwicare.ch
 kiwiclubgva.ch
 kiwicoaching.ch

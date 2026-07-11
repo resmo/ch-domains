@@ -1612,7 +1612,6 @@ ns1.elektro-andres.ch
 ns1.elena-nails.ch
 ns1.elitework.ch
 ns1.eliver.ch
-ns1.ellize-boutique.ch
 ns1.ello.ch
 ns1.emailto.ch
 ns1.emation.ch
@@ -2397,6 +2396,7 @@ ns1.libralures.ch
 ns1.lichtensteiger.ch
 ns1.lichtquelle.ch
 ns1.lieferzonen.ch
+ns1.lifehost.ch
 ns1.lightshining.ch
 ns1.likebets.ch
 ns1.lilo.ch
@@ -3735,6 +3735,7 @@ ns1.visitedetables.ch
 ns1.visitesdetables.ch
 ns1.visol.ch
 ns1.visual-fantastix.ch
+ns1.visualobject.ch
 ns1.vitaplan.ch
 ns1.vitascreen.ch
 ns1.vitodata.ch
@@ -4924,7 +4925,6 @@ ns2.elektro-andres.ch
 ns2.elena-nails.ch
 ns2.elitework.ch
 ns2.eliver.ch
-ns2.ellize-boutique.ch
 ns2.ello.ch
 ns2.email4.ch
 ns2.emailto.ch
@@ -5690,6 +5690,7 @@ ns2.libralures.ch
 ns2.lichtensteiger.ch
 ns2.lichtquelle.ch
 ns2.lieferzonen.ch
+ns2.lifehost.ch
 ns2.lightshining.ch
 ns2.likebets.ch
 ns2.lilo.ch
@@ -6975,6 +6976,7 @@ ns2.visitedetables.ch
 ns2.visitesdetables.ch
 ns2.visol.ch
 ns2.visual-fantastix.ch
+ns2.visualobject.ch
 ns2.vitaplan.ch
 ns2.vitascreen.ch
 ns2.vitodata.ch
@@ -8654,6 +8656,7 @@ nsimon.ch
 nsinails.ch
 nsinc.ch
 nsinfosphere.ch
+nsinit-q.ch
 nsinsure.ch
 nsintercall.ch
 nsinternational.ch

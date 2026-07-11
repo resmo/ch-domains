@@ -2799,7 +2799,6 @@ chaletmonbijou.ch
 chaletmoncalme.ch
 chaletmondesir.ch
 chaletmonika.ch
-chaletmontagne.ch
 chaletmontclair.ch
 chaletmontclairverbier.ch
 chaletmontis.ch
@@ -3760,11 +3759,9 @@ champignons-stadler.ch
 champignons-suisses.ch
 champignons-tschabold.ch
 champignons-vitaux.ch
-champignons.ch
 champignonsmedicinaux.ch
 champignonsuisse.ch
 champignonsvitaux.ch
-champiland.ch
 champillon-sa.ch
 champiomont.ch
 champion-brillen.ch
@@ -5333,11 +5330,13 @@ chapter1291.ch
 chapter19.ch
 chapter2.ch
 chapter2bikes.ch
+chapter4055.ch
 chapter7.ch
 chapter99.ch
 chaptercheck.ch
 chapterhouse.ch
 chapterlucerne.ch
+chapterobjects.ch
 chapterone.ch
 chapters.ch
 chaptersandchampagne.ch
@@ -5948,6 +5947,7 @@ charlesrunge.ch
 charlesrungework.ch
 charlesrussell.ch
 charlesrussellspeechlys.ch
+charlessage.ch
 charlessauter.ch
 charlessauterag.ch
 charlesshaker.ch
@@ -7830,6 +7830,7 @@ chatter-raum.ch
 chatter.ch
 chatterbot.ch
 chatterbox.ch
+chatterhorn.ch
 chatterie-clair-matin.ch
 chatterie-ile-st-pierre.ch
 chatterie-ronron.ch
@@ -11300,7 +11301,6 @@ chevalley-transports.ch
 chevalley.ch
 chevalleyap.ch
 chevalleyavocats.ch
-chevalleydigital.ch
 chevalleyexclusive.ch
 chevalleylebris.ch
 chevalleyres.ch
@@ -12338,6 +12338,7 @@ chi-chek.ch
 chi-chest.ch
 chi-colormaster.ch
 chi-cosmetic.ch
+chi-drops.ch
 chi-edu.ch
 chi-energy.ch
 chi-fit.ch
@@ -12638,6 +12639,7 @@ chibiangel.ch
 chibicon.ch
 chibis.ch
 chibitreats.ch
+chibo.ch
 chiboz.ch
 chibrawu.ch
 chibre.ch
@@ -12968,6 +12970,8 @@ chickenscrat.ch
 chickenslap.ch
 chickensoup-wettingen.ch
 chickensoup.ch
+chickenspiele.ch
+chickenspielonline.ch
 chickensroad.ch
 chickensroads.ch
 chickenstyle.ch
@@ -13082,6 +13086,7 @@ chidoba.ch
 chidohome.ch
 chidokai-zurich.ch
 chidokai.ch
+chidrops.ch
 chids.ch
 chidupaul.ch
 chidynamic.ch
@@ -14279,6 +14284,7 @@ chinachuchireinach.ch
 chinacircle.ch
 chinacity.ch
 chinaclinic.ch
+chinaclub.ch
 chinaconsulting.ch
 chinacontact.ch
 chinacontainer.ch
@@ -16775,6 +16781,7 @@ chnuupesager.ch
 chnuuschti.ch
 cho-d-punt.ch
 cho-i-ce.ch
+cho.ch
 choaibbourahla.ch
 choaysante.ch
 chobachoba.ch
@@ -18781,6 +18788,7 @@ chridebuechsler.ch
 chridlerpark.ch
 chrieg.ch
 chrienbachtaucher.ch
+chriens.ch
 chriesbaum.ch
 chriesbaume.ch
 chriesbaumweid.ch
