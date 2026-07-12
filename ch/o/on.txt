@@ -1036,7 +1036,6 @@ one-point-bruettisellen.ch
 one-print.ch
 one-prod.ch
 one-properties.ch
-one-property.ch
 one-provide.ch
 one-pun.ch
 one-q.ch
@@ -1108,6 +1107,8 @@ one-vision.ch
 one-voice.ch
 one-way-mobility.ch
 one-way.ch
+one-wealth-management-ag.ch
+one-wealth.ch
 one-week.ch
 one-work.ch
 one-world-foundation.ch
@@ -2413,6 +2414,8 @@ onewaycoaching.ch
 onewayconsulting.ch
 onewaytospace.ch
 onewaywines.ch
+onewealth.ch
+onewealthmanagement.ch
 oneweb.ch
 onewebsite.ch
 onewebwork.ch
@@ -6751,7 +6754,6 @@ onthatass.ch
 onthebea.ch
 onthebus.ch
 onthecamper.ch
-onthecloud.ch
 onthecou.ch
 onthedot.ch
 ontheedge.ch

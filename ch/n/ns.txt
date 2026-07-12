@@ -1240,7 +1240,6 @@ ns1.clauser.ch
 ns1.cleanpac.ch
 ns1.clever-concept.ch
 ns1.cleverpat.ch
-ns1.clima-pro.ch
 ns1.climbit.ch
 ns1.clinch.ch
 ns1.clinique-la-vallee.ch
@@ -3785,6 +3784,7 @@ ns1.web-pro.ch
 ns1.web-punkt.ch
 ns1.web-stage.ch
 ns1.web-stage2.ch
+ns1.web-wiiser.ch
 ns1.web05.ch
 ns1.web2use.ch
 ns1.web4business.ch
@@ -3792,6 +3792,7 @@ ns1.web4swiss.ch
 ns1.web600.ch
 ns1.webagentur-website4u.ch
 ns1.webauftritt.ch
+ns1.webautomation.ch
 ns1.webbooster.ch
 ns1.webcan.ch
 ns1.webcare.ch
@@ -4573,7 +4574,6 @@ ns2.clauser.ch
 ns2.cleanpac.ch
 ns2.clever-concept.ch
 ns2.cleverpat.ch
-ns2.clima-pro.ch
 ns2.climbit.ch
 ns2.clinch.ch
 ns2.clinique-la-vallee.ch
@@ -7024,6 +7024,7 @@ ns2.web-pro.ch
 ns2.web-punkt.ch
 ns2.web-stage.ch
 ns2.web-stage2.ch
+ns2.web-wiiser.ch
 ns2.web05.ch
 ns2.web2use.ch
 ns2.web4business.ch
@@ -7031,6 +7032,7 @@ ns2.web4swiss.ch
 ns2.web600.ch
 ns2.webagentur-website4u.ch
 ns2.webauftritt.ch
+ns2.webautomation.ch
 ns2.webbooster.ch
 ns2.webcan.ch
 ns2.webcare.ch
