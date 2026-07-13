@@ -667,6 +667,7 @@ sslcc.ch
 sslcert.ch
 sslcertificate.ch
 sslcerts.ch
+sslcloak.ch
 ssldomain.ch
 ssle.ch
 ssler.ch
@@ -738,7 +739,6 @@ ssmig.ch
 ssmile.ch
 ssmits.ch
 ssmix.ch
-ssmk-construction.ch
 ssmk.ch
 ssml.ch
 ssmlab.ch

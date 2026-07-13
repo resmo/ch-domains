@@ -428,6 +428,7 @@ my-death.ch
 my-debitors.ch
 my-debt.ch
 my-debts.ch
+my-decla.ch
 my-deco.ch
 my-decobox.ch
 my-deed.ch
@@ -1348,6 +1349,7 @@ my-plan.ch
 my-planb.ch
 my-planner.ch
 my-plants.ch
+my-players.ch
 my-playrooms.ch
 my-pli.ch
 my-pme.ch
@@ -1370,6 +1372,7 @@ my-popcorn.ch
 my-porsche.ch
 my-portal.ch
 my-portfolio.ch
+my-portrait.ch
 my-posso.ch
 my-post-24.ch
 my-post-it.ch
@@ -1586,6 +1589,7 @@ my-skin-care.ch
 my-skin.ch
 my-skincare-lausanne.ch
 my-skincare.ch
+my-skinlab.ch
 my-skoda.ch
 my-sky.ch
 my-sleep.ch
@@ -6063,7 +6067,6 @@ myhead.ch
 myheadache.ch
 myheadspa.ch
 myheadway.ch
-myhealing.ch
 myhealth-academy.ch
 myhealth-advisor.ch
 myhealth-aesthetics.ch
@@ -8841,7 +8844,6 @@ myperfectday.ch
 myperfectdraft.ch
 myperfecthair.ch
 myperfecthome.ch
-myperfectjourney.ch
 myperfectkitchen.ch
 myperfectlook.ch
 myperfectresume.ch
@@ -9148,6 +9150,7 @@ myportfolio.ch
 myportfoliosignal.ch
 myportos.ch
 myportrait.ch
+myportraits.ch
 mypos.ch
 myposef.ch
 myposition.ch
@@ -11601,9 +11604,7 @@ mytechmod.ch
 mytechnics.ch
 mytechnis.ch
 mytechnohouse.ch
-mytechnostore.ch
 mytechnovideo.ch
-mytechworld.ch
 mytecnet.ch
 mytectum.ch
 myteddys.ch
@@ -12664,6 +12665,7 @@ mywig.ch
 mywiid.ch
 mywiki.ch
 mywil.ch
+mywildplaces.ch
 mywilen.ch
 mywillow.ch
 mywinbiz.ch

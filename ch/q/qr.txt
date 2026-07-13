@@ -40,7 +40,6 @@ qr-credit-suisse.ch
 qr-cube.ch
 qr-demenagement-nettoyage.ch
 qr-ebill.ch
-qr-einzahlungsschein.ch
 qr-erstellen.ch
 qr-face.ch
 qr-facture-suisse.ch
@@ -90,7 +89,6 @@ qr-rechnung-api.ch
 qr-rechnung-app.ch
 qr-rechnung-erstellen.ch
 qr-rechnung-generator.ch
-qr-rechnung-online.ch
 qr-rechnung-schweiz.ch
 qr-rechnung-software.ch
 qr-rechnung.ch
@@ -336,8 +334,8 @@ qroma.ch
 qromio.ch
 qromo.ch
 qromotest.ch
+qron.ch
 qrona.ch
-qrone.ch
 qronix.ch
 qronline.ch
 qrops.ch
@@ -346,6 +344,7 @@ qrorpa.ch
 qroses.ch
 qrosso.ch
 qround.ch
+qrown.ch
 qrox.ch
 qroyn.ch
 qroyw.ch
@@ -369,7 +368,6 @@ qrportal.ch
 qrpostfinance.ch
 qrprint.ch
 qrpro.ch
-qrpromo.ch
 qrq.ch
 qrqc-academy.ch
 qrqr.ch
@@ -444,6 +442,7 @@ qrwallet.ch
 qrwatch.ch
 qrwaybill.ch
 qrwerk.ch
+qrwn.ch
 qrwp.ch
 qrx.ch
 qry.ch
