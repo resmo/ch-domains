@@ -2094,7 +2094,6 @@ my8913.ch
 my9001.ch
 my90s.ch
 my911.ch
-my99ex.ch
 mya-app.ch
 mya-backup.ch
 mya-coaching.ch
@@ -3568,6 +3567,7 @@ mycedolino.ch
 myceesv.ch
 myceinture.ch
 mycel.ch
+mycelavia.ch
 mycelclean.ch
 mycelevolution.ch
 mycelf.ch
@@ -3768,12 +3768,10 @@ myclassroom.ch
 myclaudefieni.ch
 myclavid.ch
 myclaw.ch
-myclean-9.ch
 myclean-facility-services.ch
 myclean-home.ch
 myclean-umzugsreinigung.ch
 myclean.ch
-myclean9.ch
 mycleancar.ch
 mycleanenergy.ch
 mycleaner.ch
@@ -7019,6 +7017,7 @@ mylady.ch
 myladybird.ch
 myladys.ch
 myladyship.ch
+mylaen.ch
 mylaenderli.ch
 mylaeus.ch
 mylagom.ch
@@ -8459,7 +8458,6 @@ myomzentrum-bern.ch
 myomzentrum.ch
 myon-cigar.ch
 myon-fashion.ch
-myon.ch
 myona.ch
 myonat.ch
 myoncompass.ch
@@ -11220,6 +11218,7 @@ myswiss.ch
 myswiss24.ch
 myswissaccount.ch
 myswissaccountant.ch
+myswissaddress.ch
 myswissadmin.ch
 myswissai.ch
 myswissair.ch
@@ -11293,6 +11292,7 @@ myswissdiary.ch
 myswissdirector.ch
 myswissdoc.ch
 myswissdoctor.ch
+myswissdocuments.ch
 myswissdoll.ch
 myswissdoor.ch
 myswissdoors.ch
@@ -12688,6 +12688,7 @@ mywinter.ch
 mywintersport.ch
 mywintersteiger.ch
 mywinterthur.ch
+mywintertravel.ch
 mywinti.ch
 mywinvest.ch
 mywip.ch

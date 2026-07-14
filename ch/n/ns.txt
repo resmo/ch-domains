@@ -3163,6 +3163,7 @@ ns1.rockethealth.ch
 ns1.roe.ch
 ns1.rohn.ch
 ns1.rolandzahnd.ch
+ns1.rolero.ch
 ns1.romande-energie.ch
 ns1.romibi.ch
 ns1.roninf.ch
@@ -3419,6 +3420,7 @@ ns1.sscloud.ch
 ns1.stabilionet.ch
 ns1.stadtundland.ch
 ns1.staempfli.ch
+ns1.staempfliserver.ch
 ns1.stafin.ch
 ns1.stagecolor.ch
 ns1.stageone.ch
@@ -6409,6 +6411,7 @@ ns2.rockethealth.ch
 ns2.roe.ch
 ns2.rohn.ch
 ns2.rolandzahnd.ch
+ns2.rolero.ch
 ns2.romande-energie.ch
 ns2.romibi.ch
 ns2.roninf.ch
@@ -6667,6 +6670,7 @@ ns2.sry-myls.ch
 ns2.sscloud.ch
 ns2.stabilionet.ch
 ns2.stadtundland.ch
+ns2.staempfliserver.ch
 ns2.stafin.ch
 ns2.stagecolor.ch
 ns2.stageone.ch
@@ -7439,6 +7443,7 @@ ns3.dnshub.ch
 ns3.dnsking.ch
 ns3.dnssecure.ch
 ns3.dnssecurity.ch
+ns3.dnssys.ch
 ns3.doingit.ch
 ns3.doit-verein.ch
 ns3.door-42.ch

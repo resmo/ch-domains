@@ -519,6 +519,7 @@ cabincrewcourses.ch
 cabincrewmember.ch
 cabincrewroom.ch
 cabincrewtraining.ch
+cabincruise.ch
 cabine-de-douche.ch
 cabine-dnb.ch
 cabine-infrarouge.ch
@@ -2340,6 +2341,7 @@ caddyvorzelt.ch
 cade.ch
 cade3d.ch
 cadeau-anniversaire-exclusif.ch
+cadeau-anniversaire.ch
 cadeau-bebe.ch
 cadeau-client.ch
 cadeau-couture.ch
@@ -3221,8 +3223,6 @@ cafe-huguenin.ch
 cafe-huissoud.ch
 cafe-hypnose.ch
 cafe-il-bacio-renens.ch
-cafe-in-der-naehe.ch
-cafe-in-meiner-naehe.ch
 cafe-in-morges.ch
 cafe-in.ch
 cafe-inter-national.ch
@@ -7467,7 +7467,6 @@ camacho-zigarren.ch
 camacho.ch
 camachocigars.ch
 camacholding.ch
-camachoservicespro.ch
 camachozigarren.ch
 camaco-travel.ch
 camade-tomdidu.ch
@@ -9029,6 +9028,8 @@ camperei.ch
 campereinstellplatz.ch
 camperelektrik.ch
 camperemil.ch
+camperensuisse.ch
+camperenvalais.ch
 camperexperte.ch
 camperfabrik.ch
 camperfactory.ch
@@ -9062,6 +9063,7 @@ camperhome-brail.ch
 camperhome.ch
 camperhotel.ch
 camperhub.ch
+camperhuus.ch
 camperia.ch
 camperica.ch
 campericeland.ch
@@ -9133,6 +9135,7 @@ campers-home.ch
 campers-paradise.ch
 campers-place.ch
 campers.ch
+campersale.ch
 campersamnaun.ch
 campersboulevard.ch
 camperschaumstoffe.ch
@@ -9270,12 +9273,14 @@ campimpro.ch
 campimpuls.ch
 campin.ch
 campinambulle.ch
+campincariste.ch
 campinera.ch
 camping-4-you.ch
 camping-a-la-ferme.ch
 camping-aarburg.ch
 camping-aareschlucht.ch
 camping-acquarossa.ch
+camping-adventure.ch
 camping-aeschi.ch
 camping-allondon.ch
 camping-alpenblick.ch
@@ -9670,6 +9675,7 @@ camping-waldegg.ch
 camping-waldheim.ch
 camping-waldhof.ch
 camping-waldhort.ch
+camping-wallis.ch
 camping-wang.ch
 camping-waschmaschine.ch
 camping-wc.ch
@@ -9705,6 +9711,7 @@ camping4x4.ch
 camping4you.ch
 campingaargau.ch
 campingacademy.ch
+campingadventure.ch
 campingalbert.ch
 campingalbula.ch
 campingalex.ch
@@ -9820,6 +9827,7 @@ campingcar24.ch
 campingcaraccessoires.ch
 campingcard-berneroberland.ch
 campingcard.ch
+campingcariste.ch
 campingcarjura.ch
 campingcarlocation.ch
 campingcarloisir.ch
@@ -10115,6 +10123,7 @@ campingsaignelegier.ch
 campingsamnaun.ch
 campingsardinien.ch
 campingsatanlage.ch
+campingsauvage.ch
 campingschaffhausen.ch
 campingschine.ch
 campingschlafsack.ch
@@ -10214,6 +10223,7 @@ campingunteraegeri.ch
 campinguri.ch
 campingurlaub.ch
 campingurmiberg.ch
+campingvalais.ch
 campingvalcentre.ch
 campingvan.ch
 campingvans.ch
@@ -11185,6 +11195,7 @@ canadiandream.ch
 canadianhorse.ch
 canadianlifestyle.ch
 canadianmarket.ch
+canadianpharmacy.ch
 canadianshop.ch
 canadiansolar.ch
 canadianspa.ch
@@ -12585,8 +12596,6 @@ cannabisapo.ch
 cannabisapo24.ch
 cannabisapothecarium.ch
 cannabisapotheke.ch
-cannabisapotheke24.ch
-cannabisapothekeplus.ch
 cannabisary.ch
 cannabisarzt.ch
 cannabisaufrechnung.ch
@@ -12599,13 +12608,13 @@ cannabisblitz.ch
 cannabisboerse.ch
 cannabisboutique.ch
 cannabisbox.ch
-cannabiscard.ch
 cannabiscenter.ch
 cannabischeck24.ch
 cannabiscity.ch
 cannabisclinics.ch
 cannabisclub.ch
 cannabisclubbern.ch
+cannabisclubs.ch
 cannabisclubswitzerland.ch
 cannabiscoin.ch
 cannabiscollege.ch
@@ -12614,7 +12623,6 @@ cannabisconcentratesconnaisseurs.ch
 cannabisconsenso.ch
 cannabisconsensus.ch
 cannabiscontainer.ch
-cannabiscontrol.ch
 cannabiscup.ch
 cannabiscupswitzerland.ch
 cannabisdelivery.ch
@@ -12668,7 +12676,6 @@ cannabisladen.ch
 cannabislaedeli.ch
 cannabislaw.ch
 cannabislegal.ch
-cannabislicense.ch
 cannabisliebe.ch
 cannabislieferservice.ch
 cannabisliquid.ch
@@ -12694,7 +12701,6 @@ cannabisonlineshop.ch
 cannabisordonnance.ch
 cannabisparadise-cbd.ch
 cannabisparadise.ch
-cannabispass.ch
 cannabispatient.ch
 cannabispatienten.ch
 cannabispharm.ch
@@ -13767,6 +13773,7 @@ cantusfirmus.ch
 cantusmagister24.ch
 cantusmeggen.ch
 cantusnet.ch
+cantusonus.ch
 cantusplus.ch
 cantusregio.ch
 cantusvocalensemble.ch
@@ -15282,6 +15289,7 @@ capramed.ch
 capramonte.ch
 capramontes.ch
 capranea.ch
+capranel.ch
 capranera.ch
 capranet.ch
 caprani.ch
@@ -15606,6 +15614,8 @@ capsplus.ch
 capssana.ch
 capsservice.ch
 capsservicekaufhold.ch
+capsstudio-media.ch
+capsstudio.ch
 capstack.ch
 capstar.ch
 capster.ch
@@ -16151,6 +16161,7 @@ car-couture.ch
 car-cowboys.ch
 car-crew.ch
 car-cs.ch
+car-culator.ch
 car-culture.ch
 car-deal.ch
 car-dealer.ch
@@ -16539,6 +16550,7 @@ car8808.ch
 car9.ch
 cara-ag.ch
 cara-boutique.ch
+cara-capital.ch
 cara-cara.ch
 cara-collection.ch
 cara-concept.ch
@@ -16769,6 +16781,7 @@ caran-baumanagement.ch
 caran-d-ache.ch
 caran.ch
 carana.ch
+caranalyse.ch
 caranci-immobilien.ch
 caranci.ch
 caranciimmobilien.ch
@@ -17711,6 +17724,7 @@ carcrash.ch
 carcrash24.ch
 carcredit.ch
 carcristal.ch
+carculator.ch
 carculture.ch
 carcultureeurope.ch
 carcuro.ch
@@ -18087,6 +18101,7 @@ cardiochatel.ch
 cardioclinic.ch
 cardiocom.ch
 cardiocompact.ch
+cardiocontrol.ch
 cardiocuira.ch
 cardiodance.ch
 cardiodepot.ch
@@ -18421,7 +18436,6 @@ cardz.ch
 cardzelo.ch
 cardzilla.ch
 cardzone.ch
-care-2-share.ch
 care-2-you.ch
 care-21.ch
 care-24.ch
@@ -19171,7 +19185,6 @@ carelink.ch
 carelinkmed.ch
 carelist.ch
 carelite.ch
-careliteswiss.ch
 carelive.ch
 carella-consulting.ch
 carella.ch
@@ -20026,6 +20039,7 @@ carholdervalue.ch
 carhome.ch
 carhood.ch
 carhoodie.ch
+carhorizon.ch
 carhost.ch
 carhotel.ch
 carhotelweibel.ch
@@ -27200,6 +27214,7 @@ casadecopeinture.ch
 casadecor.ch
 casadecuentos.ch
 casadedu.ch
+casadeespana.ch
 casadefilla.ch
 casadeflutes.ch
 casadegalicia.ch
@@ -29536,7 +29551,6 @@ cashwineclub.ch
 cashwork.ch
 cashworker.ch
 cashworkers.ch
-cashworks.ch
 cashx.ch
 cashy-pos.ch
 cashy.ch
@@ -29877,6 +29891,7 @@ casino-spiele.ch
 casino-spielen.ch
 casino-spin.ch
 casino-spinbara.ch
+casino-spinrollz.ch
 casino-spinsino.ch
 casino-spinzen.ch
 casino-sport1.ch
@@ -29926,6 +29941,7 @@ casino10chf.ch
 casino11.ch
 casino1291.ch
 casino22.ch
+casino22bet.ch
 casino24.ch
 casino247.ch
 casino24seven.ch
@@ -32271,7 +32287,6 @@ cater-held.ch
 cater-hero.ch
 cater-profi.ch
 caterchef.ch
-catercom.ch
 caterer.ch
 caterers.ch
 caterham-7.ch
@@ -32327,8 +32342,6 @@ catering-granada.ch
 catering-grenchen.ch
 catering-group.ch
 catering-heaven.ch
-catering-in-der-naehe.ch
-catering-in-meiner-naehe.ch
 catering-in-style.ch
 catering-interlaken.ch
 catering-iris.ch
@@ -32798,6 +32811,7 @@ cathome.ch
 cathomen-consulting.ch
 cathomen-haustechnik.ch
 cathomen-partner.ch
+cathomen-trefzer.ch
 cathomen.ch
 cathor.ch
 cathoras.ch
@@ -32850,7 +32864,6 @@ catia-beni.ch
 catia-gubelmann.ch
 catia.ch
 catiabatano-skinexpert.ch
-catiacabral.ch
 catiacrisafulli.ch
 catiadasilva-hairstylist.ch
 catiadasilva.ch
@@ -32918,6 +32931,7 @@ catlante.ch
 catlante720.ch
 catlanteyacht.ch
 catlanteyachting.ch
+catlavoisin.ch
 catlaw.ch
 catlbattery.ch
 catlea.ch
@@ -33000,6 +33014,7 @@ catopik.ch
 cator.ch
 catora.ch
 catorex.ch
+catos.ch
 catoswiss.ch
 catourne.ch
 catova-mcdo.ch
@@ -33099,7 +33114,6 @@ catschoice.ch
 catscradleart.ch
 catscrat.ch
 catscratch.ch
-catsdogs-water.ch
 catsdogs.ch
 catseasylife.ch
 catsevents.ch

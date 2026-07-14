@@ -403,7 +403,6 @@ doc2be.ch
 doc2doc.ch
 doc2file.ch
 doc2human.ch
-doc2med.ch
 doc2print.ch
 doc2sign.ch
 doc2you.ch
@@ -525,6 +524,7 @@ docdavos.ch
 docday.ch
 docdaya.ch
 docdental.ch
+docdepoche.ch
 docdeposit.ch
 docdesign.ch
 docdesk.ch
@@ -635,6 +635,7 @@ dock-angel.ch
 dock-bar.ch
 dock-basel.ch
 dock-equipment.ch
+dock-flow.ch
 dock-gruppe.ch
 dock-luzern.ch
 dock-midfield.ch
@@ -3488,6 +3489,7 @@ dokkoon.ch
 dokkup.ch
 doklab.ch
 dokle.ch
+doklify.ch
 dokmai.ch
 dokmedia.ch
 dokmedicus.ch
@@ -7088,6 +7090,7 @@ domino-moebel.ch
 domino-nail-design.ch
 domino-pizza.ch
 domino-project.ch
+domino-restart.ch
 domino-sh.ch
 domino-social-club.ch
 domino-sport.ch
@@ -7133,6 +7136,7 @@ dominomoebel.ch
 dominomusig.ch
 dominonotes.ch
 dominooperating.ch
+dominorestart.ch
 dominoresterant.ch
 dominos-franchising.ch
 dominos-pizza.ch
@@ -8020,6 +8024,7 @@ donarion.ch
 donaris.ch
 donartberisha.ch
 donarvida.ch
+donarvidaa.ch
 donas-werk.ch
 donascimentopeinture.ch
 donaservice.ch
@@ -9835,6 +9840,7 @@ dorfdachdecker.ch
 dorfdesankommens.ch
 dorfdeshandwerks.ch
 dorfdesjahres.ch
+dorfdigital.ch
 dorfdreieck-benken.ch
 dorfdrogerie-davos.ch
 dorfdrogerie-richterswil.ch
@@ -11285,6 +11291,7 @@ dorsys.ch
 dort-baum.ch
 dort.ch
 dorta.ch
+dortavisuals.ch
 dortex.ch
 dorthe-hoffmann.ch
 dorthe.ch
@@ -12619,6 +12626,7 @@ douxi.ch
 douxreves.ch
 douxsecret.ch
 douxtennis.ch
+douz.ch
 douze-consulting.ch
 douze-cycles.ch
 douze-voyance.ch

@@ -1945,10 +1945,7 @@ beatensteel.ch
 beater.ch
 beaterb.ch
 beaternst.ch
-beatery-bar-zuerich.ch
-beatery-bar.ch
 beatery.ch
-beaterybarzuerich.ch
 beates.ch
 beateschmitt.ch
 beateseitz.ch
@@ -4186,6 +4183,7 @@ beautyhelfer.ch
 beautyhero.ch
 beautyheroes.ch
 beautyhills.ch
+beautyhinwil.ch
 beautyhof.ch
 beautyholic.ch
 beautyhome-einsiedeln.ch
@@ -6288,6 +6286,7 @@ bedbug-hunter.ch
 bedbug.ch
 bedbugbuster.ch
 bedbugdog.ch
+bedbugemergency.ch
 bedbugfinder.ch
 bedbugs-detection-dog.ch
 bedbugs-experts.ch
@@ -6663,12 +6662,14 @@ bee-spirit.ch
 bee-surfing.ch
 bee-surrounded.ch
 bee-sustainable.ch
+bee-swiss.ch
 bee-systems.ch
 bee-tax.ch
 bee-tech.ch
 bee-top.ch
 bee-tower.ch
 bee-tox.ch
+bee-valid.ch
 bee-vita.ch
 bee-ware.ch
 bee-wild.ch
@@ -6809,7 +6810,6 @@ beecyde.ch
 beedance.ch
 beedata.ch
 beedees.ch
-beedesign.ch
 beedigital.ch
 beedoc.ch
 beedom.ch
@@ -7198,7 +7198,6 @@ beenet-solutions.ch
 beenet.ch
 beeng.ch
 beenhere.ch
-beeni.ch
 beenice.ch
 beeniceblends.ch
 beenicelife.ch
@@ -7336,7 +7335,6 @@ beerbarons.ch
 beerbastards.ch
 beerbau.ch
 beerbaum.ch
-beerbee.ch
 beerbeer.ch
 beerbigliel.ch
 beerbike.ch
@@ -11495,6 +11493,7 @@ bellevue-immobilien.ch
 bellevue-insurance.ch
 bellevue-interieur.ch
 bellevue-interlaken.ch
+bellevue-invest.ch
 bellevue-iseltwald.ch
 bellevue-ittigen.ch
 bellevue-kanzlei.ch
@@ -14327,7 +14326,6 @@ beniskyhigh.ch
 benisol.ch
 benisolo.ch
 benisouk.ch
-benisowitsch-puricel.ch
 benisowitsch.ch
 benispecker.ch
 benissimo.ch
@@ -15511,6 +15509,7 @@ benys.ch
 benz-advisory.ch
 benz-aesch.ch
 benz-ag.ch
+benz-akustik.ch
 benz-attorneys.ch
 benz-bau.ch
 benz-baustoffe24.ch
@@ -15541,6 +15540,7 @@ benz-partners.ch
 benz-reeds.ch
 benz-reinigung.ch
 benz-reinigungen.ch
+benz-rizzi-ofenbau.ch
 benz-schreinerei.ch
 benz-skulpturen.ch
 benz-solutions.ch
@@ -15559,6 +15559,7 @@ benzadvisory.ch
 benzag.ch
 benzahler.ch
 benzaknen.ch
+benzakustik.ch
 benzarchitekten.ch
 benzaria.ch
 benzaugg.ch
@@ -16934,7 +16935,6 @@ berbhair-coiffeur-barbier-geneve.ch
 berbhair.ch
 berbi.ch
 berbico.ch
-berbig.ch
 berbleaux-wasser.ch
 berbos.ch
 berbox.ch
@@ -17394,6 +17394,8 @@ berg-treu.ch
 berg-treuhand.ch
 berg-trust.ch
 berg-turbenthal.ch
+berg-ueberdachung.ch
+berg-ueberdachungen.ch
 berg-umzuege.ch
 berg-umzug.ch
 berg-umzuge.ch
@@ -21534,6 +21536,7 @@ berney-finearts.ch
 berney-precision.ch
 berney.ch
 berneyassocies.ch
+berneycratie.ch
 berneyessential.ch
 berneyessentials.ch
 berneyhorlogerie.ch
@@ -22284,6 +22287,7 @@ bernot.ch
 bernou-consulting.ch
 bernou.ch
 bernouconsulting.ch
+bernouilli.ch
 bernoulli-advisory.ch
 bernoulli-biotech.ch
 bernoulli-design.ch
@@ -23335,6 +23339,7 @@ berufio.ch
 berufkraut.ch
 berufli.ch
 berufliche-ausbildung.ch
+berufliche-grundbildung.ch
 berufliche-massnahmen.ch
 berufliche-neuorientierung.ch
 berufliche-orientierung.ch
@@ -24034,6 +24039,7 @@ besa-med.ch
 besa-ontour.ch
 besa-qsys.ch
 besa-reinigung.ch
+besa-treuhand.ch
 besa-web.ch
 besa.ch
 besa200.ch
@@ -24042,6 +24048,7 @@ besaart.ch
 besabe.ch
 besabeauty.ch
 besabenieallei.ch
+besabes.ch
 besacare.ch
 besaclean.ch
 besacloud.ch
@@ -24217,6 +24224,7 @@ beschraenkt.ch
 beschraenkungsinitiative.ch
 beschready2026.ch
 beschreibbar.ch
+beschreibung.ch
 beschrieb.ch
 beschrift-mi.ch
 beschrifta.ch
@@ -25587,7 +25595,6 @@ bestatter-druckerei.ch
 bestatter-druckservice.ch
 bestatter-glarus.ch
 bestatter-ilanz.ch
-bestatter-in-der-naehe.ch
 bestatter-in.ch
 bestatter-kalender.ch
 bestatter-kulm.ch
@@ -25683,7 +25690,6 @@ bestattungen-hauser.ch
 bestattungen-heinis.ch
 bestattungen-huguenin.ch
 bestattungen-ilanz.ch
-bestattungen-in-meiner-naehe.ch
 bestattungen-ittigen.ch
 bestattungen-kaech.ch
 bestattungen-kanton-aargau.ch
@@ -25850,6 +25856,7 @@ bestattungsinstitutvergleich.ch
 bestattungsinstitutwynental.ch
 bestattungskalender.ch
 bestattungskonfigurator.ch
+bestattungskosten-vergleich.ch
 bestattungskultur.ch
 bestattungsmesse.ch
 bestattungsnotfall.ch
@@ -30437,6 +30444,7 @@ bettwanzen-entfernen.ch
 bettwanzen-erkennen.ch
 bettwanzen-finden.ch
 bettwanzen-hund.ch
+bettwanzen-notfall.ch
 bettwanzen-retter.ch
 bettwanzen-schnelltest.ch
 bettwanzen-spuerhund.ch
@@ -30458,6 +30466,7 @@ bettwanzenhund-schweiz.ch
 bettwanzenhund.ch
 bettwanzenhunde-schweiz.ch
 bettwanzenhunde.ch
+bettwanzennotfall.ch
 bettwanzenretter.ch
 bettwanzenschnelltest.ch
 bettwanzenspuerhund.ch
@@ -31005,7 +31014,6 @@ bevisionai.ch
 bevissimo.ch
 bevista.ch
 bevisual.ch
-bevisualgraphic.ch
 bevisy.ch
 bevita.ch
 bevital.ch
