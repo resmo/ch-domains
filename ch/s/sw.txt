@@ -421,6 +421,7 @@ swarm.ch
 swarmai.ch
 swarmbatterie.ch
 swarmbattery.ch
+swarmcollective.ch
 swarmdirigent.ch
 swarmdrone.ch
 swarmelectricity.ch
@@ -1078,6 +1079,7 @@ sweetescape.ch
 sweetescort.ch
 sweetessence.ch
 sweetest-taboo.ch
+sweetest.ch
 sweetfactory.ch
 sweetfairytale.ch
 sweetfish.ch
@@ -3454,7 +3456,6 @@ swiss-boat.ch
 swiss-boats.ch
 swiss-bock.ch
 swiss-bodenbelage.ch
-swiss-bodenexperten.ch
 swiss-body-shape.ch
 swiss-body.ch
 swiss-bodychange.ch
@@ -4373,7 +4374,6 @@ swiss-cyclocross.ch
 swiss-d-sign.ch
 swiss-dab.ch
 swiss-dach.ch
-swiss-dachexperten.ch
 swiss-daemmungen.ch
 swiss-dahomey.ch
 swiss-dance-award.ch
@@ -4695,6 +4695,7 @@ swiss-drive-in.ch
 swiss-drive-limousine.ch
 swiss-drive-net.ch
 swiss-drive.ch
+swiss-driveap.ch
 swiss-drivecoach.ch
 swiss-driveforum.ch
 swiss-drivein.ch
@@ -4848,7 +4849,6 @@ swiss-electron.ch
 swiss-electronics.ch
 swiss-elefant.ch
 swiss-elegance.ch
-swiss-elektrik-experten.ch
 swiss-elektriker.ch
 swiss-elektro.ch
 swiss-elektromotoren.ch
@@ -5393,7 +5393,6 @@ swiss-garantie.ch
 swiss-garde.ch
 swiss-garden.ch
 swiss-garrison.ch
-swiss-gartenexperten.ch
 swiss-gartenmoebel.ch
 swiss-gas-invest.ch
 swiss-gas-trading.ch
@@ -5678,7 +5677,6 @@ swiss-heidi-chat.ch
 swiss-heidi.ch
 swiss-heimat.ch
 swiss-heizbandtechnik.ch
-swiss-heizung-experten.ch
 swiss-helal.ch
 swiss-helden.ch
 swiss-heli.ch
@@ -6644,7 +6642,6 @@ swiss-makeup.ch
 swiss-makler.ch
 swiss-maklerpool.ch
 swiss-maler.ch
-swiss-malerexperten.ch
 swiss-malerteam.ch
 swiss-malinois.ch
 swiss-mall.ch
@@ -7919,7 +7916,6 @@ swiss-radio-rescue.ch
 swiss-radio.ch
 swiss-radiology.ch
 swiss-raeumung.ch
-swiss-raeumungsexperten.ch
 swiss-raffle.ch
 swiss-rai.ch
 swiss-rail-park-san-gottardo.ch
@@ -8017,7 +8013,6 @@ swiss-reiki-akademie.ch
 swiss-reinigung.ch
 swiss-reinigung24.ch
 swiss-reinigungen.ch
-swiss-reinigungsexperten.ch
 swiss-reisen.ch
 swiss-reit.ch
 swiss-relay.ch
@@ -8262,7 +8257,6 @@ swiss-sana.ch
 swiss-sandblasting.ch
 swiss-sani.ch
 swiss-sanierung.ch
-swiss-sanitaerexperten.ch
 swiss-sanitaires.ch
 swiss-sap.ch
 swiss-sapiens.ch
@@ -8318,7 +8312,6 @@ swiss-school.ch
 swiss-schools.ch
 swiss-schrank.ch
 swiss-schreiner.ch
-swiss-schreinerexperten.ch
 swiss-schreinermontagen.ch
 swiss-schutz.ch
 swiss-schwebebett.ch
@@ -8813,6 +8806,7 @@ swiss-sports-academy.ch
 swiss-sports-benefits.ch
 swiss-sports-cards.ch
 swiss-sports-edition.ch
+swiss-sports-events.ch
 swiss-sports-hub.ch
 swiss-sports-medical-center.ch
 swiss-sports-orthopaedics.ch
@@ -9085,7 +9079,6 @@ swiss-tech-academy.ch
 swiss-tech-diving.ch
 swiss-tech-trade-center.ch
 swiss-tech-trockenbau-gmbh.ch
-swiss-tech-ventures.ch
 swiss-tech.ch
 swiss-tech8.ch
 swiss-techjobs.ch
@@ -9402,7 +9395,6 @@ swiss-umzuege365.ch
 swiss-umzug-reinigung.ch
 swiss-umzug.ch
 swiss-umzug24.ch
-swiss-umzugexperten.ch
 swiss-umzugsfirma.ch
 swiss-umzugsreinigung.ch
 swiss-uni.ch
@@ -9778,6 +9770,7 @@ swiss-worx.ch
 swiss-wow-cow.ch
 swiss-wp.ch
 swiss-wrestling.ch
+swiss-write.ch
 swiss-wte.ch
 swiss-x-tri.ch
 swiss-x.ch
@@ -14515,7 +14508,6 @@ swissdaily.ch
 swissdailynews.ch
 swissdairy.ch
 swissdairytrade.ch
-swissdalmatiner.ch
 swissdamed-webinar.ch
 swissdamed.ch
 swissdams.ch
@@ -15885,6 +15877,7 @@ swissentrepreneurawards.ch
 swissentrepreneurforum.ch
 swissentrepreneurs.ch
 swissentrepreneurship.ch
+swissentrepreneursmagazine.ch
 swissentrepreneursummit.ch
 swissentro.ch
 swissentry.ch
@@ -16115,6 +16108,7 @@ swissexpeditions.ch
 swissexperience.ch
 swissexperiences-dmc.ch
 swissexperiences.ch
+swissexperimentalbuild.ch
 swissexpert.ch
 swissexpertconcierge.ch
 swissexpertendo.ch
@@ -16286,6 +16280,7 @@ swissfashionfederation.ch
 swissfashionimpulse.ch
 swissfashionpoint.ch
 swissfashiontv.ch
+swissfashionweek.ch
 swissfassadenreinigung.ch
 swissfassadentechnik.ch
 swissfast.ch
@@ -16853,6 +16848,7 @@ swissformula.ch
 swissformulation.ch
 swissforniture.ch
 swissfort.ch
+swissfortalent.ch
 swissfortknox.ch
 swissfortress.ch
 swissforts.ch
@@ -17192,6 +17188,7 @@ swissgateway-gaofeng.ch
 swissgateway.ch
 swissgaucho.ch
 swissgay.ch
+swissgayart.ch
 swissgaychat.ch
 swissgaydad.ch
 swissgaydating.ch
@@ -18900,7 +18897,6 @@ swissinnoplus.ch
 swissinnotec.ch
 swissinnova.ch
 swissinnovatio.ch
-swissinnovationbank.ch
 swissinnovationchallenge.ch
 swissinnovationconsulting.ch
 swissinnovationday.ch
@@ -18911,7 +18907,6 @@ swissinnovationhub.ch
 swissinnovationlab.ch
 swissinnovationpark.ch
 swissinnovations.ch
-swissinnovationsbank.ch
 swissinnovationservices.ch
 swissinnovationtrans.ch
 swissinnovativ.ch
@@ -20361,7 +20356,6 @@ swisslosch.ch
 swisslose.ch
 swisslosgames.ch
 swisslosjass.ch
-swissloslotto.ch
 swisslosmail.ch
 swisslosr.ch
 swissloss.ch
@@ -21768,6 +21762,7 @@ swissmultisolutions.ch
 swissmultivendor.ch
 swissmums.ch
 swissmun.ch
+swissmunca.ch
 swissmundo.ch
 swissmusafirin.ch
 swissmuscle.ch
@@ -23721,6 +23716,7 @@ swisspoya.ch
 swisspp.ch
 swissppa.ch
 swisspr.ch
+swisspraca.ch
 swisspraevensana.ch
 swisspragency.ch
 swisspraxisgrowth.ch
@@ -28850,6 +28846,7 @@ switzerland-executive-protection.ch
 switzerland-executive.ch
 switzerland-expat.ch
 switzerland-explorer.ch
+switzerland-first-1291.ch
 switzerland-first.ch
 switzerland-for-you.ch
 switzerland-freelance-marketplace.ch
@@ -29048,6 +29045,7 @@ switzerlandculture.ch
 switzerlandd.ch
 switzerlanddata.ch
 switzerlanddatarep.ch
+switzerlanddaytours.ch
 switzerlanddeluxe.ch
 switzerlanddigital.ch
 switzerlanddiscovery.ch
