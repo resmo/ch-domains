@@ -839,7 +839,6 @@ la-ligne-rose.ch
 la-ligne.ch
 la-ligniere.ch
 la-ligue.ch
-la-limousine.ch
 la-lionne.ch
 la-lisiere.ch
 la-liste-noire.ch
@@ -2129,6 +2128,7 @@ lab8.ch
 lab88.ch
 lab8info.ch
 lab91.ch
+laba.ch
 labaaz.ch
 lababilleuse.ch
 labac.ch
@@ -6003,7 +6003,6 @@ lacredenza.ch
 lacrem.ch
 lacremadelacrema.ch
 lacremecosmetics.ch
-lacremedelacreme.ch
 lacremiere.ch
 lacrepe.ch
 lacrepecidre.ch
@@ -6149,7 +6148,6 @@ lactoferrin.ch
 lactoferrine.ch
 lactojoy.ch
 lactolab.ch
-lactopet.ch
 lactose-free.ch
 lactose.ch
 lactosefrei.ch
@@ -6896,6 +6894,7 @@ ladolcevista.ch
 ladolcevita-brugg.ch
 ladolcevita-engelberg.ch
 ladolcevita-gossau.ch
+ladolcevita-wollerau.ch
 ladolcevita.ch
 ladolcevitabar.ch
 ladolcevitacreperia.ch
@@ -8223,6 +8222,7 @@ laferventerie.ch
 lafesta.ch
 lafestuca.ch
 lafet.ch
+lafete-geneve.ch
 lafete.ch
 lafeteajouxtens.ch
 lafeteblanche.ch
@@ -8234,6 +8234,7 @@ lafetedesvigneronnes.ch
 lafetedesvoisins.ch
 lafeteducine.ch
 lafeteduslip.ch
+lafetegeneve.ch
 lafetemagique.ch
 lafette.ch
 lafeu.ch
@@ -9548,7 +9549,6 @@ lagrandebouffe.ch
 lagrandebraderie.ch
 lagrandecouture.ch
 lagrandedame.ch
-lagrandedaphne.ch
 lagrandeevasion.ch
 lagrandeferme.ch
 lagrandefeuille.ch
@@ -9881,7 +9881,6 @@ laich-medical.ch
 laich.ch
 laichwerk.ch
 laichzeit.ch
-laicite-ge.ch
 laicite.ch
 laico.ch
 laicom.ch
@@ -10856,6 +10855,7 @@ lakeview-hotel.ch
 lakeview-immensee.ch
 lakeview-kilchberg.ch
 lakeview-limousine-taxi.ch
+lakeview-living-meilen.ch
 lakeview-living.ch
 lakeview-lucerne.ch
 lakeview-partners.ch
@@ -10933,6 +10933,7 @@ lakitchen.ch
 lakits.ch
 lakka.ch
 lakki.ch
+lakkis.ch
 lakkritz.ch
 laklandestine.ch
 laklaw.ch
@@ -11673,6 +11674,7 @@ lamaisondedante.ch
 lamaisondefati.ch
 lamaisondegeneve.ch
 lamaisondeladanse.ch
+lamaisondelagaufre.ch
 lamaisondelapetitearvine.ch
 lamaisondelapistache.ch
 lamaisondelasante.ch
@@ -12046,7 +12048,6 @@ lamatura.ch
 lamatura24.ch
 lamature.ch
 lamaundalpaka.ch
-lamauritia.ch
 lamaventura.ch
 lamavida.ch
 lamaviglia.ch
@@ -14181,6 +14182,7 @@ landhausdieleonline.ch
 landhausdiva.ch
 landhausdornegg.ch
 landhausflaesch.ch
+landhausflair.ch
 landhausgarten.ch
 landhausgoms.ch
 landhaushurnen.ch
@@ -17643,6 +17645,7 @@ lapetitetable.ch
 lapetitetribu.ch
 lapetitetroupe.ch
 lapetitevadrouille.ch
+lapettiela.ch
 lapetz.ch
 lapeutau.ch
 lapeyre.ch
@@ -18379,7 +18382,6 @@ lara-sophie-selz.ch
 lara-talloncini.ch
 lara-thomann.ch
 lara-und-kim.ch
-lara-und-moritz.ch
 lara-wisler.ch
 lara-zimmermann.ch
 lara-zoe.ch
@@ -19298,7 +19300,6 @@ laroi.ch
 laroiva.ch
 laroja.ch
 larojita.ch
-larok.ch
 laroma-ricardo.ch
 laroma.ch
 laromagnola.ch
@@ -20186,7 +20187,6 @@ laseklasik.ch
 laselection.ch
 laselectiondusommelier.ch
 laselectionimmostreet.ch
-laselectionlfdc.ch
 laselezione.ch
 laself.ch
 lasella.ch
@@ -20698,29 +20698,12 @@ lasergravur-und-holz.ch
 lasergravur.ch
 lasergravur24.ch
 lasergravur4you.ch
-lasergravuraarau.ch
-lasergravurbasel.ch
-lasergravurbern.ch
-lasergravurbiel.ch
-lasergravurchur.ch
 lasergravuren-aries.ch
 lasergravuren-shop.ch
 lasergravuren-sissach.ch
 lasergravuren.ch
-lasergravurfribourg.ch
-lasergravurinterlaken.ch
-lasergravurlausanne.ch
-lasergravurluzern.ch
-lasergravurneuchatel.ch
-lasergravurschwyz.ch
 lasergravurshop.ch
-lasergravursion.ch
-lasergravursolothurn.ch
-lasergravurstgallen.ch
-lasergravurthun.ch
 lasergravurwartau.ch
-lasergravurzug.ch
-lasergravurzurich.ch
 lasergyn.ch
 lasergyneco.ch
 laserhaarentfernung-basel.ch
@@ -24500,7 +24483,6 @@ laura-spadarotto.ch
 laura-stauffer.ch
 laura-tarot.ch
 laura-thoma.ch
-laura-tinta-tattoo.ch
 laura-toma.ch
 laura-trussardi.ch
 laura-und-joel.ch
@@ -25381,6 +25363,7 @@ laurinkraan.ch
 laurinluepold.ch
 laurinmannhart.ch
 laurinmomo.ch
+laurinmoor.ch
 laurinmurer.ch
 laurinnagel.ch
 laurinneff.ch
@@ -25969,6 +25952,8 @@ lautleise.ch
 lautlesetutor.ch
 lautlos-musizieren.ch
 lautlos.ch
+lautloses-feuerwerk.ch
+lautlosesfeuerwerk.ch
 lautmaler.ch
 lautmalerei.ch
 lautmedia.ch
@@ -26379,6 +26364,7 @@ lavaux-unesco.ch
 lavaux-vevey-montreux.ch
 lavaux-vibrations.ch
 lavaux-vignerons.ch
+lavaux-vin.ch
 lavaux-vineyard.ch
 lavaux-vineyards.ch
 lavaux-vinorama.ch
@@ -27024,7 +27010,6 @@ lavo-club.ch
 lavo-easy.ch
 lavo-lounge.ch
 lavo.ch
-lavoa.ch
 lavobar.ch
 lavocatdudiable.ch
 lavocate.ch
@@ -28220,7 +28205,6 @@ lazyte.ch
 lazytestserver.ch
 lazytiger.ch
 lazytown.ch
-lazyvegan.ch
 lazyware.ch
 lazzara.ch
 lazzaretti-kinesiologie.ch
