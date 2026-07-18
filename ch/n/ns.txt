@@ -1534,7 +1534,6 @@ ns1.druckpatronen.ch
 ns1.ds-dreamsmile.ch
 ns1.dsprod.ch
 ns1.dsrmarketing.ch
-ns1.dssnet.ch
 ns1.dssr.ch
 ns1.dsteiner.ch
 ns1.dsw-ag.ch
@@ -2704,7 +2703,6 @@ ns1.nets.ch
 ns1.netspark.ch
 ns1.netstyle.ch
 ns1.netswarm.ch
-ns1.nettec.ch
 ns1.nettrust.ch
 ns1.nettuning.ch
 ns1.nettvplus.ch
@@ -3920,6 +3918,7 @@ ns1.xn--baconnire-63a.ch
 ns1.xn--bett-geflster-4ob.ch
 ns1.xn--buerinnenportal-0kb.ch
 ns1.xn--flckiger-optik-hrcenter-nlc9k.ch
+ns1.xn--frmond-3yaa.ch
 ns1.xn--hbergement-web-bkb.ch
 ns1.xn--hoflden-8wa.ch
 ns1.xn--oy-oy-csad.ch
@@ -4855,7 +4854,6 @@ ns2.druiden.ch
 ns2.ds-dreamsmile.ch
 ns2.dsprod.ch
 ns2.dsrmarketing.ch
-ns2.dssnet.ch
 ns2.dssr.ch
 ns2.dsteiner.ch
 ns2.dsw-ag.ch
@@ -5979,7 +5977,6 @@ ns2.nets.ch
 ns2.netsolution.ch
 ns2.netstyle.ch
 ns2.netsuisse.ch
-ns2.nettec.ch
 ns2.nettrust.ch
 ns2.nettuning.ch
 ns2.network-corner.ch
@@ -7155,6 +7152,7 @@ ns2.xn--baconnire-63a.ch
 ns2.xn--bett-geflster-4ob.ch
 ns2.xn--buerinnenportal-0kb.ch
 ns2.xn--flckiger-optik-hrcenter-nlc9k.ch
+ns2.xn--frmond-3yaa.ch
 ns2.xn--hoflden-8wa.ch
 ns2.xn--oy-oy-csad.ch
 ns2.xn--ri-wka.ch
@@ -8874,6 +8872,7 @@ nsvelgg.ch
 nsvisano.ch
 nsvital.ch
 nsvm.ch
+nsvmt.ch
 nsvolley.ch
 nsvr.ch
 nsvw.ch

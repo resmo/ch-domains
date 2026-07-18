@@ -608,6 +608,7 @@ swcargo.ch
 swcbase.ch
 swcc.ch
 swcd.ch
+swcdf.ch
 swcenter.ch
 swcflex.ch
 swcg.ch
@@ -1683,6 +1684,7 @@ swident.ch
 swideo.ch
 swider.ch
 swiderm.ch
+swidev.ch
 swidex.ch
 swidex24.ch
 swidias.ch
@@ -6562,6 +6564,7 @@ swiss-loto.ch
 swiss-lotterie.ch
 swiss-lottery.ch
 swiss-lotto.ch
+swiss-lottoo.ch
 swiss-lounge.ch
 swiss-lounges.ch
 swiss-lpp.ch
@@ -9388,6 +9391,7 @@ swiss-ukraine.ch
 swiss-ukrainian.ch
 swiss-ultracycling.ch
 swiss-ultralight.ch
+swiss-umbau.ch
 swiss-umef-university.ch
 swiss-umef.ch
 swiss-umzuege-transporte.ch
@@ -9539,6 +9543,7 @@ swiss-virtualstaging.ch
 swiss-visa.ch
 swiss-visio.ch
 swiss-vision-care.ch
+swiss-vision-center.ch
 swiss-vision-int.ch
 swiss-vision-optic.ch
 swiss-visit.ch
@@ -9960,6 +9965,7 @@ swiss4wincasino-ch.ch
 swiss4wincasino.ch
 swiss4wincasinoch.ch
 swiss4wincasinos.ch
+swiss4wine.ch
 swiss4winofficial.ch
 swiss4x4parts.ch
 swiss4you.ch
@@ -10029,7 +10035,6 @@ swissaccent.ch
 swissacces.ch
 swissaccess.ch
 swissaccesscard.ch
-swissaccessgroup.ch
 swissaccessmachinery.ch
 swissaccessolution.ch
 swissaccessory.ch
@@ -10329,6 +10334,7 @@ swissair-rescue.ch
 swissair-shop.ch
 swissair-tower.ch
 swissair-trolley.ch
+swissair-ventilation.ch
 swissair.ch
 swissair00.ch
 swissairambulance.ch
@@ -11312,7 +11318,6 @@ swissbank24.ch
 swissbankaccount.ch
 swissbankaccounts.ch
 swissbankcorporation.ch
-swissbankcrypto.ch
 swissbankedslalom.ch
 swissbanker.ch
 swissbankerclub.ch
@@ -12540,7 +12545,6 @@ swisscam24.ch
 swisscambridgeenglish.ch
 swisscamchat.ch
 swisscamel.ch
-swisscamera.ch
 swisscameramen.ch
 swisscameramuseum.ch
 swisscamgirls.ch
@@ -12956,6 +12960,7 @@ swisscasinobonus.ch
 swisscasinobonuscode.ch
 swisscasinoch.ch
 swisscasinodeals.ch
+swisscasinoe.ch
 swisscasinoguide.ch
 swisscasinointernational.ch
 swisscasinoo.ch
@@ -17264,6 +17269,7 @@ swissgensolutions.ch
 swissgent.ch
 swissgentech.ch
 swissgentechlaboratories.ch
+swissgentleman.ch
 swissgentlemanclub.ch
 swissgentlemansclub.ch
 swissgentlemen.ch
@@ -17375,6 +17381,7 @@ swissglassbau.ch
 swissglasspolish.ch
 swissglassticino.ch
 swissglastec.ch
+swissglaucomagroup.ch
 swissglaucomaresearch.ch
 swissglider.ch
 swissgliders.ch
@@ -18790,7 +18797,6 @@ swissina.ch
 swissinarabic.ch
 swissinbox.ch
 swissinc.ch
-swissincapital.ch
 swissincentives.ch
 swissinclusivesport.ch
 swissinco.ch
@@ -19688,6 +19694,7 @@ swisslabs.ch
 swisslabshop.ch
 swisslabsnutrition.ch
 swisslabsolution.ch
+swisslabspc.ch
 swisslabstesting.ch
 swisslabyrinthe.ch
 swisslabz.ch
@@ -20376,6 +20383,7 @@ swissloss.ch
 swisslostandfound.ch
 swisslostproperty.ch
 swisslostraining.ch
+swisslosy.ch
 swissloterie.ch
 swissloto.ch
 swissloto50ans.ch
@@ -20965,6 +20973,7 @@ swissmedhealth.ch
 swissmedi.ch
 swissmedia-center.ch
 swissmedia-design.ch
+swissmedia-lab.ch
 swissmedia-learning.ch
 swissmedia.ch
 swissmediaacademy.ch
@@ -26266,6 +26275,7 @@ swisstaxai.ch
 swisstaxation.ch
 swisstaxboutique.ch
 swisstaxbydesign.ch
+swisstaxclarity.ch
 swisstaxconsulting.ch
 swisstaxcrypto.ch
 swisstaxdesk.ch
@@ -27408,7 +27418,6 @@ swissurbanwinery.ch
 swissurbanwines.ch
 swissure.ch
 swissurf.ch
-swissurn.ch
 swissurnen.ch
 swissurns.ch
 swissuro.ch
@@ -27691,6 +27700,7 @@ swissvisio.ch
 swissvision-int.ch
 swissvision.ch
 swissvisionacademy.ch
+swissvisioncenter.ch
 swissvisionfilms.ch
 swissvisionfootbonplan.ch
 swissvisions.ch
@@ -29577,6 +29587,8 @@ swmmotorcycles.ch
 swmsa.ch
 swmschweiz.ch
 swmss.ch
+swmsuisse.ch
+swmsvizzera.ch
 swmswiss.ch
 swmswitzerland.ch
 swmuster.ch
@@ -29973,6 +29985,7 @@ swws.ch
 swwv.ch
 swww.ch
 swwwiss.ch
+swwyw.ch
 swx-test.ch
 swx.ch
 swxdev.ch

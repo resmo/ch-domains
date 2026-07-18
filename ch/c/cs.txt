@@ -702,7 +702,6 @@ csfx.ch
 csg-architecture.ch
 csg-be.ch
 csg-hydraumeca.ch
-csg-hydromeca.ch
 csg-keramik.ch
 csg-online.ch
 csg-schelenz.ch
@@ -1626,6 +1625,7 @@ csv-aargau.ch
 csv-academy.ch
 csv-csg.ch
 csv-gnaedig.ch
+csv-isolation.ch
 csv-luzern.ch
 csv-planung.ch
 csv-tec.ch
