@@ -1561,7 +1561,6 @@ pickfood.ch
 pickfords.ch
 pickforu.ch
 pickforyou.ch
-pickfresh.ch
 pickfrog.ch
 pickgun.ch
 pickheads.ch
@@ -1577,6 +1576,7 @@ pickit.ch
 pickitall.ch
 pickitup.ch
 pickl.ch
+picklclub.ch
 pickle-ball.ch
 pickle-daddy.ch
 pickle-point.ch
@@ -2965,7 +2965,6 @@ pierrebuhlersa.ch
 pierrecardin-ahlers.ch
 pierrecardin.ch
 pierrecarronetfilssa.ch
-pierrecarronsa.ch
 pierrecase.ch
 pierrecasetti.ch
 pierrecfrey.ch
@@ -4778,7 +4777,6 @@ piliers.ch
 piliersuisse.ch
 pilif.ch
 piliflix.ch
-piligrims.ch
 pilim.ch
 pilimpi.ch
 pilina.ch
@@ -7979,6 +7977,7 @@ pirminbreu.ch
 pirminduerr.ch
 pirminfischer.ch
 pirminfuchs.ch
+pirminherzog.ch
 pirminholdener.ch
 pirminhuber.ch
 pirminius.ch
@@ -10634,6 +10633,7 @@ pizza-corner.ch
 pizza-corra.ch
 pizza-corsaro.ch
 pizza-crew.ch
+pizza-cup.ch
 pizza-da-noi.ch
 pizza-da-salvatore.ch
 pizza-da-toni-chur.ch
@@ -11678,6 +11678,7 @@ pizzapastakurierfulmine.ch
 pizzapastapanini.ch
 pizzapastaplease.ch
 pizzapastavino.ch
+pizzapay.ch
 pizzapazza-safenwil.ch
 pizzapazza.ch
 pizzapeel.ch
@@ -12185,7 +12186,6 @@ pizzeria-nosch.ch
 pizzeria-nuda.ch
 pizzeria-oberdiessbach.ch
 pizzeria-oberhofen.ch
-pizzeria-officina.ch
 pizzeria-olympia-biel.ch
 pizzeria-onur-zollikofen.ch
 pizzeria-ostring.ch
