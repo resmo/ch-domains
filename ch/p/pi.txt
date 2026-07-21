@@ -1784,6 +1784,7 @@ picktime.ch
 picktolight.ch
 picktoplay.ch
 picktrue.ch
+picktrup.ch
 pickuapp.ch
 pickundpack.ch
 pickup-camper.ch
@@ -3004,6 +3005,7 @@ pierreemmanuel.ch
 pierreemmanuelegger.ch
 pierreetbois.ch
 pierreetboislausanne.ch
+pierreetjean.ch
 pierreetmontagne.ch
 pierreetmontagnes.ch
 pierreetnature.ch
@@ -3083,7 +3085,6 @@ pierremarchandetfils.ch
 pierremarchandfils.ch
 pierremariepouget.ch
 pierremarmy.ch
-pierremarti.ch
 pierremasson.ch
 pierrematthey.ch
 pierremaudet.ch
@@ -6686,6 +6687,7 @@ pinntext.ch
 pinnula.ch
 pinnwand-vermietung.ch
 pinnwand.ch
+pino-casino.ch
 pino-maler.ch
 pino-platreriepeinture.ch
 pino-steinmann.ch
@@ -7681,7 +7683,6 @@ piranha-spiez.ch
 piranha-surf.ch
 piranha-tapas-bar.ch
 piranha-webdesign.ch
-piranha.ch
 piranhaacademy.ch
 piranhaacademyregio.ch
 piranhachur.ch
@@ -9148,6 +9149,7 @@ piumosso.ch
 piundpa.ch
 piunti-se.ch
 piunti.ch
+piuntipartner.ch
 piupiu.ch
 piupiucircus.ch
 piupiupiu.ch

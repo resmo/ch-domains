@@ -1964,6 +1964,7 @@ buchungsauftrag.ch
 buchungsjournal.ch
 buchungsliste.ch
 buchungsmeister.ch
+buchungspilot.ch
 buchungsportal.ch
 buchungsprogramm.ch
 buchungssatz.ch
@@ -2635,7 +2636,6 @@ budgetkreuzfahrten.ch
 budgetkueche.ch
 budgetkurier.ch
 budgetleasing.ch
-budgetlight.ch
 budgetliste.ch
 budgetmakt.ch
 budgetmaler.ch
@@ -7026,7 +7026,6 @@ buildstack.ch
 buildstacks.ch
 buildster.ch
 buildstrategy.ch
-buildsuissedigitalassets.ch
 buildswiss.ch
 buildswitzerland.ch
 buildtastic.ch
@@ -7588,7 +7587,6 @@ bullenoel.ch
 bullenord.ch
 bullenpower-uri.ch
 bullenreiten.ch
-bulleouest.ch
 bullepride.ch
 buller.ch
 bullerei.ch
@@ -9534,7 +9532,6 @@ burg-il.ch
 burg-im-leimental24.ch
 burg-immobilien.ch
 burg-ipsach.ch
-burg-kirsch.ch
 burg-merlischachen.ch
 burg-palma.ch
 burg-pfungen.ch
@@ -11643,7 +11640,6 @@ buschor-motorsport.ch
 buschor-praezisionsmechanik.ch
 buschor-recycling.ch
 buschor-schreinerei.ch
-buschor-therapy.ch
 buschor.ch
 buschorbildung.ch
 buschorconsulting.ch
@@ -14044,6 +14040,7 @@ butchero.ch
 butchers.ch
 butchersandbicycles.ch
 butchersbistro.ch
+butchersbrew.ch
 butchershop.ch
 butchersshop.ch
 butchersson.ch
