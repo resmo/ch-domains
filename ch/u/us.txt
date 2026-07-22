@@ -145,7 +145,6 @@ usaa.ch
 usaauto.ch
 usaautos.ch
 usaba.ch
-usability-beratung.ch
 usability-jobs.ch
 usability-professionals.ch
 usability-switzerland.ch
@@ -153,12 +152,10 @@ usability-test.ch
 usability-testing.ch
 usability-toolbox.ch
 usability.ch
-usabilityberatung.ch
 usabilityday.ch
 usabilityjobs.ch
 usabilitylab.ch
 usabilityprofessionals.ch
-usabilitytest.ch
 usabilitytesting.ch
 usabilitytests.ch
 usabilitytoolbox.ch
@@ -638,7 +635,6 @@ user-centric.ch
 user-coach.ch
 user-computer.ch
 user-experience-bern.ch
-user-experience-design.ch
 user-experience.ch
 user-first.ch
 user-generated-content.ch
@@ -647,15 +643,10 @@ user-generation.ch
 user-group.ch
 user-guide.ch
 user-id.ch
-user-interface.ch
-user-journey.ch
 user-manual.ch
 user-research-vorwerk.ch
-user-research.ch
 user-service.ch
 user-six.ch
-user-testing.ch
-user-tests.ch
 user-training.ch
 user-trust.ch
 user-xperience.ch
@@ -700,7 +691,6 @@ userinterfacedesign.ch
 userinterfaces.ch
 userinterviews.ch
 userisk.ch
-userjourney.ch
 userlab.ch
 userland.ch
 userlayer.ch
@@ -786,6 +776,7 @@ usfoods.ch
 usfoodz.ch
 usforma.ch
 usfp.ch
+usfprod.ch
 usfr.ch
 usfrapp.ch
 usfs.ch
