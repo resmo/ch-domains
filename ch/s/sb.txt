@@ -298,7 +298,6 @@ sbb-ams.ch
 sbb-apim.ch
 sbb-archive.ch
 sbb-ausreden.ch
-sbb-b2b.ch
 sbb-backstube.ch
 sbb-bahninfrastruktur.ch
 sbb-box.ch
@@ -314,7 +313,6 @@ sbb-cint.ch
 sbb-cleverpendeln.ch
 sbb-coupons.ch
 sbb-edito.ch
-sbb-en-b2b.ch
 sbb-etickets.ch
 sbb-europa.ch
 sbb-event.ch
@@ -1181,6 +1179,7 @@ sbs-mechatronics.ch
 sbs-net.ch
 sbs-online.ch
 sbs-plattex.ch
+sbs-renewenergy.ch
 sbs-rettungsschule.ch
 sbs-schoenhalde.ch
 sbs-services.ch

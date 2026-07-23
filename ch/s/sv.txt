@@ -250,7 +250,6 @@ sva-howden.ch
 sva-ioot.ch
 sva-kiosque.ch
 sva-lehrstellen.ch
-sva-lu.ch
 sva-nw.ch
 sva-praxisarena.ch
 sva-sandbox.ch
@@ -340,7 +339,6 @@ svalinn.ch
 svalneratlas.ch
 svalpha.ch
 svaltstetten.ch
-svalu.ch
 svam.ch
 svamh.ch
 svammuggio.ch
@@ -1915,6 +1913,7 @@ svp-brittnau.ch
 svp-bruetten.ch
 svp-bubendorf.ch
 svp-bubikon.ch
+svp-buch-am-irchel.ch
 svp-buchrain-perlen.ch
 svp-buchrain.ch
 svp-buchs-aargau.ch
@@ -2713,6 +2712,7 @@ svrb.ch
 svrcamping.ch
 svrcampings.ch
 svre.ch
+svrealestate.ch
 svreinach.ch
 svreinigung.ch
 svrestaurant.ch
@@ -2929,7 +2929,6 @@ svvk-asir.ch
 svvk.ch
 svvld.ch
 svvolketswil.ch
-svvolketswiltest.ch
 svvor.ch
 svvs.ch
 svvsolution.ch

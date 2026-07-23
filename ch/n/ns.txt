@@ -1938,7 +1938,6 @@ ns1.hautdrschlitte.ch
 ns1.hawkie.ch
 ns1.hcc.ch
 ns1.hcuge.ch
-ns1.hdcard.ch
 ns1.he-arc.ch
 ns1.heartlens.ch
 ns1.hebergement-web.ch
@@ -2425,6 +2424,7 @@ ns1.loquis.ch
 ns1.lord-gizmo.ch
 ns1.lossik.ch
 ns1.loterie.ch
+ns1.lottis-chnoblibrot.ch
 ns1.lounge-it.ch
 ns1.lovanet.ch
 ns1.lovedns.ch
@@ -2650,6 +2650,7 @@ ns1.mydnsnet.ch
 ns1.mydo.ch
 ns1.myexpatshop.ch
 ns1.myhostpart.ch
+ns1.myhostplus.ch
 ns1.myrtillabox.ch
 ns1.myserverpanel.ch
 ns1.mysticindigo.ch
@@ -3897,7 +3898,6 @@ ns1.wyni.ch
 ns1.x-end.ch
 ns1.x28.ch
 ns1.x41.ch
-ns1.x9w.ch
 ns1.xaam.ch
 ns1.xaxi.ch
 ns1.xc-host.ch
@@ -5240,7 +5240,6 @@ ns2.hasselba.ch
 ns2.hawkie.ch
 ns2.hcc.ch
 ns2.hcuge.ch
-ns2.hdcard.ch
 ns2.he-arc.ch
 ns2.heartlens.ch
 ns2.hebergement-web.ch
@@ -5717,6 +5716,7 @@ ns2.loquis.ch
 ns2.lord-gizmo.ch
 ns2.lossik.ch
 ns2.loterie.ch
+ns2.lottis-chnoblibrot.ch
 ns2.lounge-it.ch
 ns2.lovanet.ch
 ns2.lsne.ch
@@ -5923,6 +5923,7 @@ ns2.mydns4you.ch
 ns2.mydnsnet.ch
 ns2.mydo.ch
 ns2.myhostpart.ch
+ns2.myhostplus.ch
 ns2.myrtillabox.ch
 ns2.myserverpanel.ch
 ns2.mysticindigo.ch
@@ -7123,7 +7124,6 @@ ns2.wwwhosting.ch
 ns2.wyni.ch
 ns2.x-end.ch
 ns2.x41.ch
-ns2.x9w.ch
 ns2.xaam.ch
 ns2.xaxi.ch
 ns2.xc-host.ch

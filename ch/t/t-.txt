@@ -173,6 +173,7 @@ t-error.ch
 t-espace.ch
 t-esthetics.ch
 t-esthetique.ch
+t-event.ch
 t-events.ch
 t-express.ch
 t-f-a.ch
