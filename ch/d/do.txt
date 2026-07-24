@@ -18,7 +18,6 @@ do-do.ch
 do-electro.ch
 do-exit.ch
 do-fu.ch
-do-ge.ch
 do-gewaltpraevention.ch
 do-gipserdesign.ch
 do-go.ch
@@ -380,6 +379,7 @@ doc-series-suisse.ch
 doc-series.ch
 doc-server.ch
 doc-service.ch
+doc-severin.ch
 doc-sh.ch
 doc-share.ch
 doc-shop.ch
@@ -909,6 +909,7 @@ docsecret.ch
 docseeland.ch
 docseries.ch
 docsession.ch
+docseverin.ch
 docsflow.ch
 docsflows.ch
 docsforchemicals.ch
@@ -4038,6 +4039,7 @@ dolceosalato.ch
 dolcepack.ch
 dolceparco.ch
 dolcepasta.ch
+dolcepasticcio.ch
 dolceperla.ch
 dolcepiu.ch
 dolceresio.ch
@@ -4757,7 +4759,6 @@ domain-analyse.ch
 domain-analytics.ch
 domain-anwaelte.ch
 domain-anwalt.ch
-domain-assets.ch
 domain-auction.ch
 domain-audit.ch
 domain-backorder.ch
@@ -5496,6 +5497,7 @@ domainesvirets.ch
 domainetest1.ch
 domainetest2.ch
 domainetourdemarsens.ch
+domainevontobel.ch
 domainevouilloz.ch
 domainex.ch
 domainexchange.ch
@@ -7205,6 +7207,7 @@ domis-art.ch
 domis-ds.ch
 domis-fahrschule.ch
 domis.ch
+domisane-suisse.ch
 domisante.ch
 domisartwork.ch
 domischenk.ch
@@ -7263,6 +7266,7 @@ domizil-bodensee.ch
 domizil-boerse.ch
 domizil-business.ch
 domizil-campus.ch
+domizil-einzelfirma.ch
 domizil-ergo.ch
 domizil-fusspflege.ch
 domizil-in-der-schweiz.ch
@@ -7718,6 +7722,7 @@ domswiss.ch
 domsyna.ch
 domtamen.ch
 domtarpersonalcare.ch
+domtattoo.ch
 domtec.ch
 domtechnik.ch
 domteknika.ch
@@ -8292,7 +8297,6 @@ dondrin-naturkost.ch
 donduarte-dienst.ch
 donduarte.ch
 donducoeur.ch
-dondurma.ch
 dondusang-rendezvous.ch
 dondusang.ch
 dondyl.ch
@@ -9672,7 +9676,6 @@ doremi-geneve.ch
 doremi.ch
 doremifa.ch
 doremifasolaufts.ch
-doremipiace.ch
 doremy.ch
 doren.ch
 dorena.ch
@@ -11861,7 +11864,6 @@ dotnetnuke.ch
 dotnetpanel.ch
 dotnetpro.ch
 dotnets.ch
-dotnetsolutions.ch
 dotnetwork.ch
 dotnexa.ch
 dotni.ch
