@@ -55,6 +55,7 @@ rw0.ch
 rw1.ch
 rw2.ch
 rw24.ch
+rw25.ch
 rw360.ch
 rw409.ch
 rw51.ch
@@ -270,6 +271,7 @@ rwschlatter.ch
 rwschreinerei.ch
 rwsg.ch
 rwsh.ch
+rwshb.ch
 rwsimmobiliersa.ch
 rwsit.ch
 rwsmunition.ch

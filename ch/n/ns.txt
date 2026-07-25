@@ -21,7 +21,9 @@ ns-03.ocrcl-staging.ch
 ns-03.stepping-stone.ch
 ns-04.bits-ns.ch
 ns-04.stepping-stone.ch
+ns-1.cloudhaven.ch
 ns-1.fhhwz.ch
+ns-2.cloudhaven.ch
 ns-2.fhhwz.ch
 ns-a.hohenegg.ch
 ns-a.pillo-srv.ch
@@ -1532,6 +1534,7 @@ ns1.druckpatronen.ch
 ns1.ds-dreamsmile.ch
 ns1.dsprod.ch
 ns1.dsrmarketing.ch
+ns1.dssnet.ch
 ns1.dssr.ch
 ns1.dsteiner.ch
 ns1.dsw-ag.ch
@@ -4845,6 +4848,7 @@ ns2.druiden.ch
 ns2.ds-dreamsmile.ch
 ns2.dsprod.ch
 ns2.dsrmarketing.ch
+ns2.dssnet.ch
 ns2.dssr.ch
 ns2.dsteiner.ch
 ns2.dsw-ag.ch
@@ -8641,7 +8645,6 @@ nsimon.ch
 nsinails.ch
 nsinc.ch
 nsinfosphere.ch
-nsinit-q.ch
 nsinsure.ch
 nsintercall.ch
 nsinternational.ch
