@@ -25,6 +25,7 @@ et-incrementum.ch
 et-kappeler.ch
 et-knapp.ch
 et-licht.ch
+et-lock.ch
 et-m.ch
 et-ma.ch
 et-maintenant.ch
@@ -735,7 +736,6 @@ etex.ch
 etexentreprise.ch
 etexgroup.ch
 etext.ch
-etextbook.ch
 etexter.ch
 etextera.ch
 etextilien.ch
@@ -1434,6 +1434,7 @@ ethurgau.ch
 ethus.ch
 ethusiast.ch
 ethvideo.ch
+ethwallet.ch
 ethwerbeagentur.ch
 ethx.ch
 ethy.ch
