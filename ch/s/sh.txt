@@ -1580,6 +1580,7 @@ shared-understanding.ch
 shared.ch
 sharedadvise.ch
 sharedance.ch
+sharedbeginning.ch
 sharedbox.ch
 sharedcampus.ch
 sharedcheck.ch
@@ -2784,6 +2785,7 @@ shelltime.ch
 shelltoni.ch
 shelltony.ch
 shelltosea.ch
+shellwerk.ch
 shelly-connect.ch
 shelly-smart.ch
 shelly-swiss.ch
@@ -2839,8 +2841,6 @@ sheltiestarsduprabe.ch
 sheltiesundmehr.ch
 sheltieweb.ch
 sheltiezucht.ch
-sheltiezuchtschweiz.ch
-sheltiezuchtshiningmoonlight.ch
 sheltom.ch
 shelton.ch
 sheltter-beauty.ch
@@ -3746,6 +3746,7 @@ shiatsu-zofingen.ch
 shiatsu-zollikofen.ch
 shiatsu-zueri.ch
 shiatsu-zuerich.ch
+shiatsu-zug.ch
 shiatsu-zumstein.ch
 shiatsu-zurich.ch
 shiatsu.ch
@@ -3902,6 +3903,7 @@ shiatsuzeit.ch
 shiatsuzen.ch
 shiatsuzimmer.ch
 shiatsuzuerich.ch
+shiatsuzug.ch
 shiawase.ch
 shiazlegz.ch
 shib-army.ch
@@ -4857,7 +4859,6 @@ shirt-maker.ch
 shirt-market.ch
 shirt-master.ch
 shirt-onkel.ch
-shirt-perso.ch
 shirt-profi.ch
 shirt-shop-schweiz.ch
 shirt-shop.ch
@@ -5029,7 +5030,6 @@ shishabar-kumpir.ch
 shishabar-luzen.ch
 shishabar.ch
 shishabarguide.ch
-shishabars.ch
 shishabern.ch
 shishacatering.ch
 shishaclub.ch
@@ -5096,7 +5096,6 @@ shitbox.ch
 shitcandevil.ch
 shitcode.ch
 shitcoin.ch
-shitcoins.ch
 shitflix.ch
 shithappens.ch
 shithead.ch
@@ -6096,6 +6095,8 @@ shop-motolino.ch
 shop-motorrad.ch
 shop-multimedia.ch
 shop-mybos.ch
+shop-nc-haushaltsgeraete.ch
+shop-nc-haushaltsgerate.ch
 shop-net.ch
 shop-nova.ch
 shop-now.ch

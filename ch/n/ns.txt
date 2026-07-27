@@ -583,6 +583,7 @@ ns01.mysallegra.ch
 ns01.netzwolke.ch
 ns01.nodeunit.ch
 ns01.oppenheimer.ch
+ns01.paulodossantos.ch
 ns01.ploing.ch
 ns01.pst-smartcity.ch
 ns01.pyle.ch
@@ -1939,6 +1940,7 @@ ns1.hautdrschlitte.ch
 ns1.hawkie.ch
 ns1.hcc.ch
 ns1.hcuge.ch
+ns1.hdcard.ch
 ns1.he-arc.ch
 ns1.heartlens.ch
 ns1.hebergement-web.ch
@@ -2582,6 +2584,7 @@ ns1.mizell.ch
 ns1.mjhost.ch
 ns1.mjt.ch
 ns1.mkhosting.ch
+ns1.mlcloud.ch
 ns1.mm-mediaholding.ch
 ns1.mnbsserver.ch
 ns1.mobi-net.ch
@@ -3200,6 +3203,7 @@ ns1.sagitservices.ch
 ns1.sagservices.ch
 ns1.sahac.anniv.ch
 ns1.sakogroup.ch
+ns1.saldia.ch
 ns1.salverte.ch
 ns1.sam.ch
 ns1.samplezone.ch
@@ -5239,6 +5243,7 @@ ns2.hasselba.ch
 ns2.hawkie.ch
 ns2.hcc.ch
 ns2.hcuge.ch
+ns2.hdcard.ch
 ns2.he-arc.ch
 ns2.heartlens.ch
 ns2.hebergement-web.ch
@@ -5856,6 +5861,7 @@ ns2.mizell.ch
 ns2.mjhost.ch
 ns2.mjt.ch
 ns2.mkhosting.ch
+ns2.mlcloud.ch
 ns2.mm-mediaholding.ch
 ns2.mobi-net.ch
 ns2.mobidick.ch
@@ -6436,6 +6442,7 @@ ns2.sagitservices.ch
 ns2.sagservices.ch
 ns2.sahac.anniv.ch
 ns2.sakogroup.ch
+ns2.saldia.ch
 ns2.salverte.ch
 ns2.sam.ch
 ns2.samplezone.ch
@@ -8109,6 +8116,7 @@ ns4.firba.ch
 ns4.fiveinfo.ch
 ns4.fivezone.ch
 ns4.flashcable.ch
+ns4.fogdns.ch
 ns4.fondinaetazzina.ch
 ns4.francocattaneo.ch
 ns4.freesites.ch
