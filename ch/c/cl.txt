@@ -304,7 +304,6 @@ clairekool.ch
 clairelang.ch
 clairelarner.ch
 clairelavigne.ch
-clairelinder.ch
 clairelisemonnier.ch
 clairelocher.ch
 claireluise.ch
@@ -547,6 +546,7 @@ clapetsanti-retour.ch
 clapetsdenon-retour.ch
 clapic.ch
 clapimage.ch
+clapminiatures.ch
 clapnature.ch
 clapotis-cortaillod.ch
 clapotis.ch
@@ -1384,6 +1384,7 @@ classen.ch
 classenlegal.ch
 classeplus.ch
 classepreparatoire.ch
+classepro.ch
 classeprofvirtuelle.ch
 classeq.ch
 classer.ch
@@ -1935,7 +1936,6 @@ classphonepro.ch
 classphoneshop.ch
 classpics.ch
 classpix.ch
-classpizzaburger.ch
 classrecht.ch
 classroom-escape.ch
 classroom-management.ch
@@ -3771,6 +3771,7 @@ clean-language.ch
 clean-laser.ch
 clean-last-mile-delivery.ch
 clean-lastmiledelivery.ch
+clean-leaf.ch
 clean-life-swiss.ch
 clean-life.ch
 clean-line.ch
@@ -4881,6 +4882,7 @@ clear-smile.ch
 clear-solutions.ch
 clear-space.ch
 clear-stream.ch
+clear-tender.ch
 clear-touch.ch
 clear-up.ch
 clear-view.ch
@@ -4978,6 +4980,7 @@ clearedtofly.ch
 clearedtoland.ch
 cleareight.ch
 clearenergy.ch
+clearent.ch
 clearenterprise.ch
 clearerswitch.ch
 clearestate.ch
@@ -9560,7 +9563,6 @@ cloud2home.ch
 cloud2model.ch
 cloud2win.ch
 cloud3.ch
-cloud3000.ch
 cloud32.ch
 cloud360.ch
 cloud365.ch
@@ -10180,6 +10182,7 @@ cloudpartner.ch
 cloudpat.ch
 cloudpath.ch
 cloudpaws.ch
+cloudpay.ch
 cloudpbs.ch
 cloudpbx.ch
 cloudpc.ch
@@ -10931,6 +10934,13 @@ club-dream.ch
 club-du-jeudi.ch
 club-du-lundi.ch
 club-duplexx.ch
+club-echangiste-berne.ch
+club-echangiste-fribourg.ch
+club-echangiste-geneve.ch
+club-echangiste-jura.ch
+club-echangiste-neuchatel.ch
+club-echangiste-valais.ch
+club-echangiste-vaud.ch
 club-echangiste.ch
 club-echecs-montreux.ch
 club-economique-liberal.ch
@@ -11022,6 +11032,13 @@ club-leguan.ch
 club-lepicurien.ch
 club-lerapetra.ch
 club-les-amis.ch
+club-libertin-berne.ch
+club-libertin-fribourg.ch
+club-libertin-geneve.ch
+club-libertin-jura.ch
+club-libertin-neuchatel.ch
+club-libertin-valais.ch
+club-libertin-vaud.ch
 club-libertin.ch
 club-life.ch
 club-light.ch

@@ -544,6 +544,7 @@ tableart.ch
 tableau-blanc.ch
 tableau-des-fanfares.ch
 tableau-electrique.ch
+tableau-lumineux.ch
 tableau-sur-commande.ch
 tableau-x.ch
 tableau.ch
@@ -1059,6 +1060,7 @@ tachyopressur.ch
 tachyum.ch
 tacid.ch
 tacify.ch
+tacis.ch
 tacit.ch
 tacite.ch
 tacito.ch
@@ -1691,6 +1693,7 @@ taetschmeischterbistro.ch
 taetschmeischterin.ch
 taetschmeister.ch
 taetschmeisterin.ch
+taetschquiz.ch
 taetschtrio.ch
 taetz.ch
 taeuber.ch
@@ -4732,6 +4735,7 @@ talentschule.ch
 talentschulemusik.ch
 talentschulen.ch
 talentschuleschwimmen.ch
+talentschutz.ch
 talentsconnection.ch
 talentscount.ch
 talentscout.ch
@@ -4941,7 +4945,6 @@ talimedia.ch
 talimex.ch
 talimpopo.ch
 talina-ag.ch
-talina-obersaxen.ch
 talina.ch
 talinabuff.ch
 talinacaviezel.ch
@@ -9824,6 +9827,7 @@ tapni.ch
 tapnow.ch
 tapnvis.ch
 tapo-vet.ch
+tapo.ch
 tapoclock.ch
 tapomme.ch
 taponego.ch
@@ -10178,7 +10182,6 @@ tarcocimab.ch
 tarcocimabtedromer.ch
 tarcoted.ch
 tarczynski.ch
-tard.ch
 tardanna.ch
 tardeda.ch
 tardent.ch
@@ -10608,7 +10611,6 @@ tarita.ch
 tariva.ch
 tarix.ch
 tarjan-zingrich.ch
-tarjaobrist.ch
 tarjei.ch
 tarjv.ch
 tarka-bau.ch
@@ -12229,7 +12231,6 @@ tatortluzern.ch
 tatortnatur.ch
 tatortreiniger-luzern.ch
 tatortreiniger-schaffhausen.ch
-tatortreiniger-team.ch
 tatortreiniger-thurgau.ch
 tatortreiniger-zentralschweiz.ch
 tatortreiniger.ch
@@ -14658,6 +14659,7 @@ taxi-montreux.ch
 taxi-morbio.ch
 taxi-morges-rolando.ch
 taxi-morges.ch
+taxi-mota-estavayer.ch
 taxi-moudon.ch
 taxi-musical.ch
 taxi-muttenz.ch
