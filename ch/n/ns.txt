@@ -1169,6 +1169,7 @@ ns1.cantusnet.ch
 ns1.capex.ch
 ns1.captns.ch
 ns1.caracal.ch
+ns1.carbonmc.ch
 ns1.carmenlofino.ch
 ns1.carolineferriol.ch
 ns1.carreview.ch
@@ -1850,6 +1851,7 @@ ns1.global-piscine.ch
 ns1.globaldns.ch
 ns1.globaleventsafety.ch
 ns1.globalinformatik.ch
+ns1.globalmar.ch
 ns1.globalnetsystem.ch
 ns1.globalpower.ch
 ns1.globus.ch
@@ -2046,6 +2048,7 @@ ns1.hsmart.ch
 ns1.hsz-t.ch
 ns1.htechmarine.ch
 ns1.hu90.ch
+ns1.huan.ch
 ns1.huberinformatik.ch
 ns1.huberpartner.ch
 ns1.hugy.ch
@@ -2349,7 +2352,6 @@ ns1.lagirra.ch
 ns1.lakenet.ch
 ns1.lamadrina.ch
 ns1.lamatouren.ch
-ns1.lamed.ch
 ns1.lamenuiseriegenevoise.ch
 ns1.lancer.ch
 ns1.landescape.ch
@@ -2459,7 +2461,6 @@ ns1.madevil.ch
 ns1.madlan.ch
 ns1.madle.ch
 ns1.maebi.ch
-ns1.mael-amaury.ch
 ns1.maexweb.ch
 ns1.magahugu.ch
 ns1.magicline.ch
@@ -2545,6 +2546,7 @@ ns1.menschenklang.ch
 ns1.mensi.ch
 ns1.merak2.ch
 ns1.merkisoft.ch
+ns1.messer-scheren.ch
 ns1.metaphores.ch
 ns1.meteonews.ch
 ns1.metrohmcomtest.ch
@@ -2939,6 +2941,7 @@ ns1.pincopalloncino.ch
 ns1.pinkbox.ch
 ns1.pinklemon.ch
 ns1.pintarelli.ch
+ns1.pipster.ch
 ns1.piratenpartei.ch
 ns1.pixaro.ch
 ns1.pixelbloom.ch
@@ -3715,6 +3718,7 @@ ns1.verabredung.ch
 ns1.verapet.ch
 ns1.vereinshosting.ch
 ns1.verges.ch
+ns1.vertis.ch
 ns1.verveweb.ch
 ns1.verzeichnisdienst.ch
 ns1.vfadmin.ch
@@ -4500,6 +4504,7 @@ ns2.canberg.ch
 ns2.cantinedigitale.ch
 ns2.captns.ch
 ns2.caracal.ch
+ns2.carbonmc.ch
 ns2.carlifting.ch
 ns2.carmenlofino.ch
 ns2.carolineferriol.ch
@@ -5160,6 +5165,7 @@ ns2.global-piscine.ch
 ns2.globaldns.ch
 ns2.globaleventsafety.ch
 ns2.globalinformatik.ch
+ns2.globalmar.ch
 ns2.globalnetsystem.ch
 ns2.globalpower.ch
 ns2.globus.ch
@@ -5348,6 +5354,7 @@ ns2.hsmart.ch
 ns2.hsz-t.ch
 ns2.htechmarine.ch
 ns2.hu90.ch
+ns2.huan.ch
 ns2.huberinformatik.ch
 ns2.hugy.ch
 ns2.hulbee.ch
@@ -5640,7 +5647,6 @@ ns2.ladygym.ch
 ns2.lakenet.ch
 ns2.lamadrina.ch
 ns2.lamatouren.ch
-ns2.lamed.ch
 ns2.lamenuiseriegenevoise.ch
 ns2.lancer.ch
 ns2.landescape.ch
@@ -5750,7 +5756,6 @@ ns2.made-easy.ch
 ns2.madevil.ch
 ns2.madlan.ch
 ns2.maebi.ch
-ns2.mael-amaury.ch
 ns2.maexweb.ch
 ns2.magahugu.ch
 ns2.magicline.ch
@@ -5830,6 +5835,7 @@ ns2.memhost1.ch
 ns2.menschenklang.ch
 ns2.mensi.ch
 ns2.merak2.ch
+ns2.messer-scheren.ch
 ns2.metrohmcomtest.ch
 ns2.metzgerei-schleemann.ch
 ns2.mfkey.ch
@@ -6188,6 +6194,7 @@ ns2.pincopalloncino.ch
 ns2.pinkbox.ch
 ns2.pinklemon.ch
 ns2.pintarelli.ch
+ns2.pipster.ch
 ns2.piratenpartei.ch
 ns2.pixaro.ch
 ns2.pixelbloom.ch
@@ -6952,6 +6959,7 @@ ns2.verabredung.ch
 ns2.verapet.ch
 ns2.vereinshosting.ch
 ns2.verges.ch
+ns2.vertis.ch
 ns2.verveweb.ch
 ns2.verzeichnisdienst.ch
 ns2.vfadmin.ch

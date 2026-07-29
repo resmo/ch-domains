@@ -835,7 +835,6 @@ psgc.ch
 psgdv.ch
 psge.ch
 psgefluester.ch
-psgerig.ch
 psgfarhadi.ch
 psgg.ch
 psggachnang.ch
@@ -2410,7 +2409,6 @@ psycho-somatic.ch
 psycho-sophro.ch
 psycho-sozial.ch
 psycho-soziale-beratung.ch
-psycho-soziale-beratungen.ch
 psycho-soziale-pflege.ch
 psycho-spiritual-vault.ch
 psycho-spirituelle.ch
@@ -2787,8 +2785,6 @@ psychologinzurich.ch
 psychologis.ch
 psychologisch-begleiten.ch
 psychologisch-beraten.ch
-psychologisch-soziale-beratung.ch
-psychologisch-soziale-beratungen.ch
 psychologisch.ch
 psychologische-adhs-therapie.ch
 psychologische-astro.ch
@@ -2851,8 +2847,6 @@ psychologische-psychotherapie-stgallen.ch
 psychologische-psychotherapie.ch
 psychologische-sicherheit.ch
 psychologische-sichtweise.ch
-psychologische-soziale-beratung.ch
-psychologische-soziale-beratungen.ch
 psychologische-therapie.ch
 psychologische-traumaberatung.ch
 psychologischebegleitung.ch
@@ -3070,6 +3064,7 @@ psychoquest.ch
 psychor.ch
 psychora.ch
 psychorelief.ch
+psychosafety.ch
 psychosana.ch
 psychosciences.ch
 psychoscope.ch

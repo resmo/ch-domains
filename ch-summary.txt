@@ -1,43 +1,43 @@
      658 ./ch/d/dc.txt
-    4855 ./ch/d/du.txt
+    4852 ./ch/d/du.txt
       59 ./ch/d/d3.txt
      374 ./ch/d/dv.txt
      438 ./ch/d/dd.txt
      448 ./ch/d/dl.txt
      388 ./ch/d/df.txt
-   10078 ./ch/d/dr.txt
+   10072 ./ch/d/dr.txt
      770 ./ch/d/dm.txt
-   18113 ./ch/d/da.txt
-     796 ./ch/d/db.txt
+   18107 ./ch/d/da.txt
+     794 ./ch/d/db.txt
       48 ./ch/d/d4.txt
     1397 ./ch/d/dj.txt
      498 ./ch/d/dh.txt
      556 ./ch/d/dt.txt
-       7 ./ch/d/d5.txt
+       8 ./ch/d/d5.txt
      215 ./ch/d/dz.txt
       40 ./ch/d/d1.txt
-    1172 ./ch/d/dy.txt
+    1175 ./ch/d/dy.txt
      684 ./ch/d/d-.txt
       16 ./ch/d/d8.txt
      107 ./ch/d/dx.txt
        3 ./ch/d/d..txt
        6 ./ch/d/d6.txt
-     364 ./ch/d/dk.txt
-   26351 ./ch/d/de.txt
-     434 ./ch/d/dg.txt
-     579 ./ch/d/dp.txt
+     365 ./ch/d/dk.txt
+   26360 ./ch/d/de.txt
+     433 ./ch/d/dg.txt
+     580 ./ch/d/dp.txt
       17 ./ch/d/d0.txt
-    1232 ./ch/d/ds.txt
+    1230 ./ch/d/ds.txt
       62 ./ch/d/d2.txt
-    1321 ./ch/d/dn.txt
-   22231 ./ch/d/di.txt
+    1320 ./ch/d/dn.txt
+   22232 ./ch/d/di.txt
       45 ./ch/d/dq.txt
       10 ./ch/d/d7.txt
-   13120 ./ch/d/do.txt
+   13124 ./ch/d/do.txt
        8 ./ch/d/d9.txt
      256 ./ch/d/dw.txt
      287 ./ch/t/tf.txt
-   13308 ./ch/t/to.txt
+   13304 ./ch/t/to.txt
       43 ./ch/t/tq.txt
       14 ./ch/t/t7.txt
     2599 ./ch/t/tc.txt
@@ -48,68 +48,68 @@
       71 ./ch/t/t3.txt
      515 ./ch/t/tg.txt
     1929 ./ch/t/ts.txt
-     766 ./ch/t/ty.txt
-   16412 ./ch/t/ta.txt
+     764 ./ch/t/ty.txt
+   16414 ./ch/t/ta.txt
       59 ./ch/t/t2.txt
      170 ./ch/t/tz.txt
     1304 ./ch/t/tv.txt
      566 ./ch/t/tb.txt
       35 ./ch/t/t5.txt
      121 ./ch/t/tj.txt
-   20587 ./ch/t/th.txt
-   11909 ./ch/t/ti.txt
+   20586 ./ch/t/th.txt
+   11906 ./ch/t/ti.txt
     1267 ./ch/t/tw.txt
      352 ./ch/t/tk.txt
      226 ./ch/t/tn.txt
-     338 ./ch/t/td.txt
-   18038 ./ch/t/te.txt
+     339 ./ch/t/td.txt
+   18035 ./ch/t/te.txt
       33 ./ch/t/t6.txt
-     432 ./ch/t/tp.txt
-   20642 ./ch/t/tr.txt
+     433 ./ch/t/tp.txt
+   20643 ./ch/t/tr.txt
       43 ./ch/t/t1.txt
        6 ./ch/t/t8.txt
       77 ./ch/t/tx.txt
-    3905 ./ch/t/tu.txt
+    3901 ./ch/t/tu.txt
      618 ./ch/t/tm.txt
       46 ./ch/t/t4.txt
      590 ./ch/t/tt.txt
-     460 ./ch/w/ws.txt
+     461 ./ch/w/ws.txt
       49 ./ch/w/w2.txt
      165 ./ch/w/wd.txt
       30 ./ch/w/wx.txt
       11 ./ch/w/w5.txt
      533 ./ch/w/wp.txt
-     387 ./ch/w/wm.txt
+     388 ./ch/w/wm.txt
      206 ./ch/w/wc.txt
-     561 ./ch/w/ww.txt
-    2251 ./ch/w/wu.txt
+     562 ./ch/w/ww.txt
+    2249 ./ch/w/wu.txt
      103 ./ch/w/wn.txt
      354 ./ch/w/w-.txt
        8 ./ch/w/w0.txt
       21 ./ch/w/w1.txt
       11 ./ch/w/w8.txt
-     200 ./ch/w/wk.txt
+     201 ./ch/w/wk.txt
        6 ./ch/w/w9.txt
      173 ./ch/w/wf.txt
      241 ./ch/w/wt.txt
-   13607 ./ch/w/wa.txt
+   13606 ./ch/w/wa.txt
       71 ./ch/w/w3.txt
     2514 ./ch/w/wh.txt
-   22472 ./ch/w/we.txt
+   22473 ./ch/w/we.txt
       31 ./ch/w/w4.txt
       71 ./ch/w/wz.txt
        6 ./ch/w/w6.txt
-    1181 ./ch/w/wy.txt
+    1179 ./ch/w/wy.txt
      556 ./ch/w/wb.txt
      357 ./ch/w/wg.txt
      210 ./ch/w/wv.txt
       19 ./ch/w/wq.txt
        5 ./ch/w/w7.txt
-     432 ./ch/w/wr.txt
-      59 ./ch/w/wj.txt
+     431 ./ch/w/wr.txt
+      60 ./ch/w/wj.txt
      200 ./ch/w/wl.txt
-   14783 ./ch/w/wi.txt
-   10333 ./ch/w/wo.txt
+   14791 ./ch/w/wi.txt
+   10331 ./ch/w/wo.txt
      149 ./ch/3/3s.txt
       35 ./ch/3/3k.txt
       43 ./ch/3/35.txt
@@ -123,7 +123,7 @@
       55 ./ch/3/3x.txt
       48 ./ch/3/3t.txt
        3 ./ch/3/3y.txt
-      56 ./ch/3/3l.txt
+      57 ./ch/3/3l.txt
      127 ./ch/3/3-.txt
       59 ./ch/3/33.txt
       54 ./ch/3/39.txt
@@ -133,7 +133,7 @@
       91 ./ch/3/3m.txt
       41 ./ch/3/37.txt
       69 ./ch/3/3r.txt
-    1326 ./ch/3/3d.txt
+    1325 ./ch/3/3d.txt
       25 ./ch/3/3v.txt
       37 ./ch/3/3g.txt
       42 ./ch/3/38.txt
@@ -144,31 +144,31 @@
       78 ./ch/3/31.txt
       21 ./ch/3/3h.txt
       10 ./ch/3/3j.txt
-     542 ./ch/3/36.txt
+     543 ./ch/3/36.txt
      135 ./ch/3/3p.txt
       96 ./ch/3/3c.txt
       20 ./ch/3/3n.txt
-     467 ./ch/u/uf.txt
+     466 ./ch/u/uf.txt
       10 ./ch/u/uq.txt
-    8266 ./ch/u/un.txt
+    8270 ./ch/u/un.txt
      184 ./ch/u/ua.txt
      208 ./ch/u/uw.txt
        4 ./ch/u/u8.txt
-    4601 ./ch/u/ur.txt
+    4602 ./ch/u/ur.txt
      119 ./ch/u/uo.txt
      175 ./ch/u/ux.txt
       39 ./ch/u/u1.txt
        1 ./ch/u/u9.txt
       76 ./ch/u/uu.txt
-     229 ./ch/u/uv.txt
+     228 ./ch/u/uv.txt
       43 ./ch/u/uj.txt
     1576 ./ch/u/us.txt
      497 ./ch/u/ut.txt
        1 ./ch/u/u0.txt
-     901 ./ch/u/ue.txt
+     902 ./ch/u/ue.txt
       12 ./ch/u/u4.txt
      265 ./ch/u/ug.txt
-    1369 ./ch/u/ul.txt
+    1371 ./ch/u/ul.txt
      277 ./ch/u/uk.txt
      297 ./ch/u/uc.txt
        1 ./ch/u/u7.txt
@@ -179,7 +179,7 @@
      164 ./ch/u/uz.txt
      308 ./ch/u/ud.txt
        4 ./ch/u/u6.txt
-    2583 ./ch/u/um.txt
+    2584 ./ch/u/um.txt
      251 ./ch/u/u-.txt
      639 ./ch/u/ub.txt
       35 ./ch/u/uy.txt
@@ -194,7 +194,7 @@
      230 ./ch/1/18.txt
       41 ./ch/1/1d.txt
      153 ./ch/1/13.txt
-      55 ./ch/1/1f.txt
+      54 ./ch/1/1f.txt
       28 ./ch/1/1n.txt
      150 ./ch/1/14.txt
       35 ./ch/1/1o.txt
@@ -205,7 +205,7 @@
        4 ./ch/1/1j.txt
       38 ./ch/1/1l.txt
      264 ./ch/1/11.txt
-     124 ./ch/1/15.txt
+     125 ./ch/1/15.txt
       26 ./ch/1/1r.txt
       22 ./ch/1/1z.txt
       59 ./ch/1/1e.txt
@@ -227,73 +227,73 @@
      375 ./ch/o/oi.txt
     2165 ./ch/o/ou.txt
     3492 ./ch/o/os.txt
-    1291 ./ch/o/ot.txt
+    1294 ./ch/o/ot.txt
     1020 ./ch/o/od.txt
-    6849 ./ch/o/or.txt
-    7235 ./ch/o/on.txt
+    6851 ./ch/o/or.txt
+    7237 ./ch/o/on.txt
     1744 ./ch/o/oe.txt
-    2636 ./ch/o/ob.txt
-     861 ./ch/o/oh.txt
-     765 ./ch/o/ov.txt
+    2635 ./ch/o/ob.txt
+     863 ./ch/o/oh.txt
+     764 ./ch/o/ov.txt
      329 ./ch/o/oo.txt
-     428 ./ch/o/og.txt
+     429 ./ch/o/og.txt
      431 ./ch/o/ow.txt
        4 ./ch/o/o7.txt
        4 ./ch/o/o5.txt
       20 ./ch/o/o3.txt
       14 ./ch/o/o4.txt
-     307 ./ch/o/o-.txt
+     308 ./ch/o/o-.txt
     2516 ./ch/o/of.txt
      114 ./ch/o/oj.txt
      363 ./ch/o/oz.txt
-    1713 ./ch/o/oc.txt
+    1715 ./ch/o/oc.txt
       14 ./ch/o/o1.txt
      152 ./ch/o/oy.txt
      995 ./ch/o/ok.txt
     1766 ./ch/o/om.txt
      504 ./ch/o/ox.txt
-    5306 ./ch/o/op.txt
-    3749 ./ch/o/ol.txt
+    5310 ./ch/o/op.txt
+    3750 ./ch/o/ol.txt
      648 ./ch/o/oa.txt
       80 ./ch/o/o2.txt
        2 ./ch/o/o6.txt
        3 ./ch/o/o8.txt
       45 ./ch/o/oq.txt
-     474 ./ch/r/rd.txt
+     475 ./ch/r/rd.txt
      430 ./ch/r/rf.txt
-   39363 ./ch/r/re.txt
-     314 ./ch/r/rw.txt
+   39365 ./ch/r/re.txt
+     315 ./ch/r/rw.txt
      192 ./ch/r/rj.txt
-     529 ./ch/r/r-.txt
+     530 ./ch/r/r-.txt
      329 ./ch/r/rk.txt
       17 ./ch/r/r8.txt
       17 ./ch/r/r0.txt
      448 ./ch/r/rg.txt
        8 ./ch/r/r9.txt
-     341 ./ch/r/rv.txt
+     340 ./ch/r/rv.txt
      255 ./ch/r/rl.txt
       62 ./ch/r/r3.txt
      454 ./ch/r/rr.txt
-     746 ./ch/r/rm.txt
-    2476 ./ch/r/rh.txt
-     232 ./ch/r/rz.txt
-     657 ./ch/r/rt.txt
-     649 ./ch/r/rb.txt
+     747 ./ch/r/rm.txt
+    2479 ./ch/r/rh.txt
+     231 ./ch/r/rz.txt
+     658 ./ch/r/rt.txt
+     650 ./ch/r/rb.txt
       77 ./ch/r/rx.txt
     9445 ./ch/r/ri.txt
-     605 ./ch/r/ry.txt
+     606 ./ch/r/ry.txt
      416 ./ch/r/rp.txt
       86 ./ch/r/r2.txt
       45 ./ch/r/r4.txt
      177 ./ch/r/rn.txt
        9 ./ch/r/r7.txt
-    1178 ./ch/r/rs.txt
+    1176 ./ch/r/rs.txt
       23 ./ch/r/rq.txt
-   19068 ./ch/r/ro.txt
-   14790 ./ch/r/ra.txt
-    6630 ./ch/r/ru.txt
+   19078 ./ch/r/ro.txt
+   14789 ./ch/r/ra.txt
+    6632 ./ch/r/ru.txt
       13 ./ch/r/r6.txt
-     883 ./ch/r/rc.txt
+     881 ./ch/r/rc.txt
       34 ./ch/r/r1.txt
       12 ./ch/r/r5.txt
       15 ./ch/6/6i.txt
@@ -332,15 +332,15 @@
       47 ./ch/6/6-.txt
        1 ./ch/6/6y.txt
       40 ./ch/6/6t.txt
-     120 ./ch/q/qb.txt
+     121 ./ch/q/qb.txt
        1 ./ch/q/q9.txt
        3 ./ch/q/q0.txt
       51 ./ch/q/qf.txt
-      43 ./ch/q/qh.txt
+      44 ./ch/q/qh.txt
      162 ./ch/q/qm.txt
        1 ./ch/q/q5.txt
        1 ./ch/q/q6.txt
-    5737 ./ch/q/qu.txt
+    5736 ./ch/q/qu.txt
      286 ./ch/q/q-.txt
        7 ./ch/q/q7.txt
       73 ./ch/q/qn.txt
@@ -372,52 +372,52 @@
      420 ./ch/e/ee.txt
        5 ./ch/e/e0.txt
       11 ./ch/e/e8.txt
-    2337 ./ch/e/ep.txt
-    3264 ./ch/e/et.txt
-     399 ./ch/e/ez.txt
+    2338 ./ch/e/ep.txt
+    3265 ./ch/e/et.txt
+     402 ./ch/e/ez.txt
        1 ./ch/e/e..txt
     2179 ./ch/e/eg.txt
-    6516 ./ch/e/ev.txt
+    6512 ./ch/e/ev.txt
     6137 ./ch/e/em.txt
       64 ./ch/e/e4.txt
-    8011 ./ch/e/er.txt
+    8010 ./ch/e/er.txt
     1352 ./ch/e/eq.txt
       41 ./ch/e/e1.txt
       10 ./ch/e/e5.txt
-     758 ./ch/e/ek.txt
-   11706 ./ch/e/en.txt
+     759 ./ch/e/ek.txt
+   11705 ./ch/e/en.txt
       94 ./ch/e/e2.txt
      360 ./ch/e/eo.txt
     6068 ./ch/e/ex.txt
     5732 ./ch/e/ei.txt
-    4589 ./ch/e/ea.txt
-   12874 ./ch/e/el.txt
+    4587 ./ch/e/ea.txt
+   12876 ./ch/e/el.txt
     1049 ./ch/e/eh.txt
      140 ./ch/e/ej.txt
-    6367 ./ch/e/ec.txt
-    2992 ./ch/e/eu.txt
+    6370 ./ch/e/ec.txt
+    2990 ./ch/e/eu.txt
        6 ./ch/e/e9.txt
        8 ./ch/e/e7.txt
       54 ./ch/e/e3.txt
     7515 ./ch/e/es.txt
     1305 ./ch/e/ef.txt
-     717 ./ch/e/ey.txt
-    5328 ./ch/e/ed.txt
+     718 ./ch/e/ey.txt
+    5325 ./ch/e/ed.txt
     3453 ./ch/e/e-.txt
       10 ./ch/e/e6.txt
-    1722 ./ch/e/eb.txt
+    1723 ./ch/e/eb.txt
      696 ./ch/e/ew.txt
       45 ./ch/h/h4.txt
       76 ./ch/h/h3.txt
-     522 ./ch/h/hm.txt
+     523 ./ch/h/hm.txt
       20 ./ch/h/h0.txt
      214 ./ch/h/hv.txt
        9 ./ch/h/h7.txt
    24760 ./ch/h/ho.txt
-    6202 ./ch/h/hi.txt
+    6203 ./ch/h/hi.txt
      216 ./ch/h/hh.txt
-   24340 ./ch/h/ha.txt
-     707 ./ch/h/hc.txt
+   24339 ./ch/h/ha.txt
+     705 ./ch/h/hc.txt
       56 ./ch/h/h1.txt
      345 ./ch/h/hl.txt
      471 ./ch/h/hg.txt
@@ -433,17 +433,17 @@
      442 ./ch/h/ht.txt
      452 ./ch/h/hn.txt
      326 ./ch/h/hk.txt
-   22544 ./ch/h/he.txt
-    4687 ./ch/h/hy.txt
-     950 ./ch/h/hs.txt
+   22548 ./ch/h/he.txt
+    4685 ./ch/h/hy.txt
+     952 ./ch/h/hs.txt
        7 ./ch/h/h6.txt
-     320 ./ch/h/hw.txt
+     319 ./ch/h/hw.txt
        7 ./ch/h/h9.txt
     1369 ./ch/h/hr.txt
       82 ./ch/h/hq.txt
       15 ./ch/h/h5.txt
      826 ./ch/h/hp.txt
-    8864 ./ch/h/hu.txt
+    8865 ./ch/h/hu.txt
      154 ./ch/y/yb.txt
       23 ./ch/y/yx.txt
       52 ./ch/y/yy.txt
@@ -452,26 +452,26 @@
       68 ./ch/y/yd.txt
      133 ./ch/y/y-.txt
        8 ./ch/y/yq.txt
-     774 ./ch/y/yv.txt
+     775 ./ch/y/yv.txt
       15 ./ch/y/yj.txt
      182 ./ch/y/ys.txt
     1002 ./ch/y/ye.txt
        9 ./ch/y/y3.txt
       33 ./ch/y/yz.txt
     6092 ./ch/y/yo.txt
-      65 ./ch/y/yt.txt
+      66 ./ch/y/yt.txt
       41 ./ch/y/yf.txt
      121 ./ch/y/yl.txt
       11 ./ch/y/y2.txt
       71 ./ch/y/yr.txt
-     337 ./ch/y/yi.txt
+     336 ./ch/y/yi.txt
      127 ./ch/y/yc.txt
       56 ./ch/y/yk.txt
-     852 ./ch/y/yu.txt
+     853 ./ch/y/yu.txt
       99 ./ch/y/yn.txt
        6 ./ch/y/y4.txt
       89 ./ch/y/yg.txt
-    2198 ./ch/y/ya.txt
+    2197 ./ch/y/ya.txt
       50 ./ch/y/yw.txt
        2 ./ch/y/y8.txt
      132 ./ch/y/ym.txt
@@ -482,74 +482,74 @@
       52 ./ch/y/yh.txt
       69 ./ch/a/a4.txt
     4045 ./ch/a/ae.txt
-    7132 ./ch/a/ap.txt
-    5992 ./ch/a/ag.txt
-    4542 ./ch/a/av.txt
-    1329 ./ch/a/a-.txt
-    1114 ./ch/a/ay.txt
+    7128 ./ch/a/ap.txt
+    5996 ./ch/a/ag.txt
+    4550 ./ch/a/av.txt
+    1330 ./ch/a/a-.txt
+    1112 ./ch/a/ay.txt
       17 ./ch/a/a5.txt
       19 ./ch/a/a9.txt
      592 ./ch/a/aj.txt
       98 ./ch/a/a3.txt
      215 ./ch/a/a1.txt
-    6909 ./ch/a/ab.txt
-   21064 ./ch/a/ar.txt
-    6793 ./ch/a/ai.txt
+    6910 ./ch/a/ab.txt
+   21063 ./ch/a/ar.txt
+    6798 ./ch/a/ai.txt
       25 ./ch/a/a6.txt
       23 ./ch/a/a7.txt
-    2130 ./ch/a/af.txt
+    2131 ./ch/a/af.txt
        7 ./ch/a/a0.txt
       75 ./ch/a/a..txt
-    8871 ./ch/a/ad.txt
-    9408 ./ch/a/as.txt
-   18482 ./ch/a/an.txt
+    8870 ./ch/a/ad.txt
+    9417 ./ch/a/as.txt
+   18484 ./ch/a/an.txt
      195 ./ch/a/a2.txt
-    1494 ./ch/a/az.txt
-     964 ./ch/a/aw.txt
-    3630 ./ch/a/ak.txt
+    1495 ./ch/a/az.txt
+     962 ./ch/a/aw.txt
+    3629 ./ch/a/ak.txt
     1944 ./ch/a/aq.txt
       17 ./ch/a/a8.txt
-     531 ./ch/a/ao.txt
-   18326 ./ch/a/au.txt
+     532 ./ch/a/ao.txt
+   18328 ./ch/a/au.txt
     1590 ./ch/a/ax.txt
-    7709 ./ch/a/ac.txt
-    9238 ./ch/a/at.txt
-    8572 ./ch/a/am.txt
-    1059 ./ch/a/ah.txt
-   28350 ./ch/a/al.txt
-    2633 ./ch/a/aa.txt
-   54199 ./ch/m/ma.txt
+    7710 ./ch/a/ac.txt
+    9236 ./ch/a/at.txt
+    8579 ./ch/a/am.txt
+    1060 ./ch/a/ah.txt
+   28354 ./ch/a/al.txt
+    2635 ./ch/a/aa.txt
+   54193 ./ch/m/ma.txt
       23 ./ch/m/m8.txt
-    1420 ./ch/m/mg.txt
+    1418 ./ch/m/mg.txt
       26 ./ch/m/m0.txt
-     631 ./ch/m/mh.txt
+     630 ./ch/m/mh.txt
       15 ./ch/m/m7.txt
-    1126 ./ch/m/mt.txt
-    1080 ./ch/m/m-.txt
-    2106 ./ch/m/ms.txt
-   26347 ./ch/m/mo.txt
+    1125 ./ch/m/mt.txt
+    1079 ./ch/m/m-.txt
+    2107 ./ch/m/ms.txt
+   26352 ./ch/m/mo.txt
      462 ./ch/m/mw.txt
-   33195 ./ch/m/me.txt
+   33198 ./ch/m/me.txt
       76 ./ch/m/mq.txt
-     742 ./ch/m/mk.txt
+     743 ./ch/m/mk.txt
      988 ./ch/m/mp.txt
-    1970 ./ch/m/mc.txt
+    1969 ./ch/m/mc.txt
       14 ./ch/m/m5.txt
       51 ./ch/m/m1.txt
-     335 ./ch/m/mn.txt
-   12871 ./ch/m/my.txt
+     333 ./ch/m/mn.txt
+   12870 ./ch/m/my.txt
      203 ./ch/m/m2.txt
      604 ./ch/m/ml.txt
      902 ./ch/m/md.txt
      758 ./ch/m/mf.txt
-     203 ./ch/m/mx.txt
+     204 ./ch/m/mx.txt
       15 ./ch/m/m9.txt
-    1101 ./ch/m/mm.txt
-   22377 ./ch/m/mi.txt
-    1610 ./ch/m/mb.txt
-     615 ./ch/m/mv.txt
+    1099 ./ch/m/mm.txt
+   22385 ./ch/m/mi.txt
+    1609 ./ch/m/mb.txt
+     614 ./ch/m/mv.txt
      261 ./ch/m/mz.txt
-   11167 ./ch/m/mu.txt
+   11165 ./ch/m/mu.txt
      279 ./ch/m/mj.txt
        6 ./ch/m/m6.txt
       79 ./ch/m/m4.txt
@@ -564,45 +564,45 @@
       15 ./ch/z/zq.txt
      447 ./ch/z/zy.txt
       12 ./ch/z/z4.txt
-     174 ./ch/z/zk.txt
+     175 ./ch/z/zk.txt
      121 ./ch/z/zn.txt
-    8425 ./ch/z/zu.txt
+    8422 ./ch/z/zu.txt
      179 ./ch/z/zf.txt
      275 ./ch/z/zb.txt
        9 ./ch/z/z5.txt
-     140 ./ch/z/zv.txt
+     142 ./ch/z/zv.txt
       33 ./ch/z/zj.txt
-     533 ./ch/z/zh.txt
-    6617 ./ch/z/ze.txt
+     532 ./ch/z/zh.txt
+    6620 ./ch/z/ze.txt
      392 ./ch/z/zs.txt
      316 ./ch/z/z-.txt
      118 ./ch/z/zz.txt
-    2332 ./ch/z/zo.txt
+    2333 ./ch/z/zo.txt
       81 ./ch/z/zc.txt
-    1625 ./ch/z/zw.txt
+    1627 ./ch/z/zw.txt
       27 ./ch/z/z3.txt
      181 ./ch/z/zp.txt
        7 ./ch/z/z0.txt
      119 ./ch/z/zl.txt
       38 ./ch/z/zx.txt
        6 ./ch/z/z6.txt
-    7013 ./ch/z/za.txt
+    7017 ./ch/z/za.txt
      217 ./ch/z/zm.txt
      105 ./ch/z/zt.txt
     3471 ./ch/z/zi.txt
        2 ./ch/z/z7.txt
       12 ./ch/z/z1.txt
      506 ./ch/f/fb.txt
-       9 ./ch/f/f6.txt
+      10 ./ch/f/f6.txt
       54 ./ch/f/f4.txt
-   18096 ./ch/f/fr.txt
+   18093 ./ch/f/fr.txt
      526 ./ch/f/ff.txt
     1232 ./ch/f/fs.txt
      602 ./ch/f/fw.txt
      246 ./ch/f/fn.txt
      255 ./ch/f/fy.txt
-   11990 ./ch/f/fl.txt
-    8228 ./ch/f/fu.txt
+   11991 ./ch/f/fl.txt
+    8231 ./ch/f/fu.txt
      575 ./ch/f/fg.txt
     1708 ./ch/f/fc.txt
      375 ./ch/f/f-.txt
@@ -611,26 +611,26 @@
       44 ./ch/f/f3.txt
      130 ./ch/f/fz.txt
      136 ./ch/f/fx.txt
-     367 ./ch/f/fh.txt
+     366 ./ch/f/fh.txt
        5 ./ch/f/f9.txt
       12 ./ch/f/f0.txt
        5 ./ch/f/f8.txt
-     193 ./ch/f/fj.txt
+     194 ./ch/f/fj.txt
     1091 ./ch/f/fd.txt
      241 ./ch/f/fk.txt
-   16021 ./ch/f/fo.txt
+   16025 ./ch/f/fo.txt
        9 ./ch/f/f7.txt
       29 ./ch/f/fq.txt
    18275 ./ch/f/fi.txt
      457 ./ch/f/ft.txt
-     396 ./ch/f/fp.txt
-   21775 ./ch/f/fa.txt
+     397 ./ch/f/fp.txt
+   21777 ./ch/f/fa.txt
        1 ./ch/f/f..txt
      347 ./ch/f/fv.txt
       71 ./ch/f/f1.txt
-   14068 ./ch/f/fe.txt
+   14073 ./ch/f/fe.txt
       38 ./ch/f/f2.txt
-   10544 ./ch/k/ku.txt
+   10545 ./ch/k/ku.txt
       40 ./ch/k/kx.txt
       15 ./ch/k/k8.txt
     1733 ./ch/k/km.txt
@@ -639,17 +639,17 @@
      211 ./ch/k/kd.txt
       19 ./ch/k/kq.txt
     7367 ./ch/k/kl.txt
-    8046 ./ch/k/kr.txt
+    8044 ./ch/k/kr.txt
       47 ./ch/k/k3.txt
       44 ./ch/k/k1.txt
       88 ./ch/k/k2.txt
      418 ./ch/k/kf.txt
      265 ./ch/k/kc.txt
-     388 ./ch/k/kk.txt
-     479 ./ch/k/kv.txt
+     389 ./ch/k/kk.txt
+     478 ./ch/k/kv.txt
       42 ./ch/k/k4.txt
      427 ./ch/k/kw.txt
-    6491 ./ch/k/ke.txt
+    6487 ./ch/k/ke.txt
       81 ./ch/k/kz.txt
     1942 ./ch/k/kn.txt
       14 ./ch/k/k6.txt
@@ -661,11 +661,11 @@
      333 ./ch/k/kg.txt
       14 ./ch/k/k7.txt
      918 ./ch/k/ks.txt
-   11781 ./ch/k/ko.txt
+   11784 ./ch/k/ko.txt
      489 ./ch/k/kh.txt
-   15664 ./ch/k/ki.txt
+   15662 ./ch/k/ki.txt
      168 ./ch/k/kj.txt
-   17765 ./ch/k/ka.txt
+   17759 ./ch/k/ka.txt
       63 ./ch/k/k9.txt
      256 ./ch/j/jg.txt
       79 ./ch/j/jy.txt
@@ -680,24 +680,24 @@
      565 ./ch/j/jb.txt
       26 ./ch/j/j2.txt
       14 ./ch/j/j3.txt
-    9714 ./ch/j/jo.txt
-    8412 ./ch/j/ja.txt
+    9710 ./ch/j/jo.txt
+    8414 ./ch/j/ja.txt
        3 ./ch/j/j9.txt
      213 ./ch/j/jv.txt
      205 ./ch/j/jt.txt
      498 ./ch/j/jp.txt
      391 ./ch/j/jk.txt
        3 ./ch/j/j5.txt
-    5118 ./ch/j/je.txt
+    5116 ./ch/j/je.txt
        7 ./ch/j/j0.txt
-    8788 ./ch/j/ju.txt
-     756 ./ch/j/ji.txt
+    8787 ./ch/j/ju.txt
+     753 ./ch/j/ji.txt
      276 ./ch/j/j-.txt
-     398 ./ch/j/jf.txt
-     520 ./ch/j/jc.txt
+     399 ./ch/j/jf.txt
+     521 ./ch/j/jc.txt
       24 ./ch/j/jq.txt
        1 ./ch/j/j6.txt
-     674 ./ch/j/js.txt
+     673 ./ch/j/js.txt
      361 ./ch/j/jl.txt
      170 ./ch/j/jn.txt
      326 ./ch/j/jd.txt
@@ -715,9 +715,9 @@
      335 ./ch/n/nl.txt
      365 ./ch/n/nr.txt
      278 ./ch/n/n-.txt
-   17458 ./ch/n/ne.txt
+   17464 ./ch/n/ne.txt
       22 ./ch/n/n4.txt
-     630 ./ch/n/ny.txt
+     632 ./ch/n/ny.txt
       62 ./ch/n/n1.txt
      274 ./ch/n/nk.txt
       13 ./ch/n/n7.txt
@@ -727,24 +727,24 @@
      332 ./ch/n/nb.txt
      317 ./ch/n/np.txt
        8 ./ch/n/n9.txt
-   13321 ./ch/n/no.txt
+   13328 ./ch/n/no.txt
      375 ./ch/n/nc.txt
       59 ./ch/n/n2.txt
        4 ./ch/n/n6.txt
      301 ./ch/n/nt.txt
-     163 ./ch/n/nx.txt
+     164 ./ch/n/nx.txt
       27 ./ch/n/n8.txt
      245 ./ch/n/nw.txt
-    8904 ./ch/n/ns.txt
-    8283 ./ch/n/ni.txt
+    8912 ./ch/n/ns.txt
+    8288 ./ch/n/ni.txt
      191 ./ch/n/nj.txt
       29 ./ch/n/nq.txt
      503 ./ch/n/nf.txt
-   16521 ./ch/n/na.txt
+   16519 ./ch/n/na.txt
        7 ./ch/x/x6.txt
-   64396 ./ch/x/xn.txt
+   64379 ./ch/x/xn.txt
      241 ./ch/x/xc.txt
-     122 ./ch/x/xd.txt
+     121 ./ch/x/xd.txt
      257 ./ch/x/xx.txt
      638 ./ch/x/xe.txt
      590 ./ch/x/x-.txt
@@ -767,7 +767,7 @@
       28 ./ch/x/x3.txt
      220 ./ch/x/xl.txt
       40 ./ch/x/x1.txt
-     119 ./ch/x/xh.txt
+     120 ./ch/x/xh.txt
      295 ./ch/x/xo.txt
       25 ./ch/x/xj.txt
      365 ./ch/x/xt.txt
@@ -778,15 +778,15 @@
      453 ./ch/x/xa.txt
       59 ./ch/x/xv.txt
      154 ./ch/x/xr.txt
-    1288 ./ch/i/ih.txt
+    1290 ./ch/i/ih.txt
      969 ./ch/i/iv.txt
      198 ./ch/i/ix.txt
        9 ./ch/i/i5.txt
-    2571 ./ch/i/il.txt
-    3066 ./ch/i/ic.txt
+    2572 ./ch/i/il.txt
+    3067 ./ch/i/ic.txt
       62 ./ch/i/i4.txt
-    1345 ./ch/i/ib.txt
-   13321 ./ch/i/im.txt
+    1344 ./ch/i/ib.txt
+   13323 ./ch/i/im.txt
      840 ./ch/i/if.txt
     1929 ./ch/i/ir.txt
     2639 ./ch/i/id.txt
@@ -796,12 +796,12 @@
      340 ./ch/i/iq.txt
      336 ./ch/i/iz.txt
       40 ./ch/i/i2.txt
-    4361 ./ch/i/is.txt
+    4362 ./ch/i/is.txt
       98 ./ch/i/iy.txt
-    1673 ./ch/i/ip.txt
+    1671 ./ch/i/ip.txt
        3 ./ch/i/i0.txt
-    1043 ./ch/i/ia.txt
-    4383 ./ch/i/it.txt
+    1044 ./ch/i/ia.txt
+    4382 ./ch/i/it.txt
       77 ./ch/i/ij.txt
      291 ./ch/i/ii.txt
        3 ./ch/i/i6.txt
@@ -813,14 +813,14 @@
      717 ./ch/i/ik.txt
        7 ./ch/i/i7.txt
       17 ./ch/i/i1.txt
-   27120 ./ch/i/in.txt
+   27118 ./ch/i/in.txt
      830 ./ch/i/io.txt
      125 ./ch/2/2m.txt
      110 ./ch/2/2n.txt
        7 ./ch/2/2y.txt
       38 ./ch/2/2x.txt
       69 ./ch/2/2t.txt
-     522 ./ch/2/24.txt
+     521 ./ch/2/24.txt
        4 ./ch/2/2q.txt
        4 ./ch/2/2..txt
       55 ./ch/2/27.txt
@@ -855,41 +855,41 @@
      191 ./ch/2/21.txt
      146 ./ch/c/cx.txt
     1295 ./ch/c/cm.txt
-   11705 ./ch/c/cr.txt
+   11703 ./ch/c/cr.txt
      546 ./ch/c/cn.txt
       68 ./ch/c/c3.txt
       49 ./ch/c/c1.txt
        8 ./ch/c/c6.txt
-    1291 ./ch/c/cc.txt
+    1290 ./ch/c/cc.txt
       38 ./ch/c/c0.txt
       72 ./ch/c/cq.txt
-    7795 ./ch/c/ce.txt
+    7794 ./ch/c/ce.txt
      239 ./ch/c/cz.txt
       14 ./ch/c/c7.txt
-   36907 ./ch/c/co.txt
+   36901 ./ch/c/co.txt
        9 ./ch/c/c8.txt
      505 ./ch/c/cg.txt
-     896 ./ch/c/cp.txt
-   24559 ./ch/c/ch.txt
-    4594 ./ch/c/cu.txt
+     895 ./ch/c/cp.txt
+   24551 ./ch/c/ch.txt
+    4588 ./ch/c/cu.txt
      713 ./ch/c/ct.txt
      298 ./ch/c/ck.txt
      710 ./ch/c/c-.txt
      244 ./ch/c/cw.txt
-     773 ./ch/c/cf.txt
+     775 ./ch/c/cf.txt
       73 ./ch/c/c4.txt
      773 ./ch/c/cd.txt
-    1690 ./ch/c/cs.txt
+    1691 ./ch/c/cs.txt
     1136 ./ch/c/cb.txt
-   34734 ./ch/c/ca.txt
+   34745 ./ch/c/ca.txt
       21 ./ch/c/c5.txt
-   12408 ./ch/c/cl.txt
-    2783 ./ch/c/cy.txt
+   12406 ./ch/c/cl.txt
+    2781 ./ch/c/cy.txt
        9 ./ch/c/c9.txt
       78 ./ch/c/c2.txt
     6060 ./ch/c/ci.txt
      185 ./ch/c/cj.txt
-     572 ./ch/c/cv.txt
+     571 ./ch/c/cv.txt
        5 ./ch/c/c..txt
        8 ./ch/0/0d.txt
        3 ./ch/0/0b.txt
@@ -946,7 +946,7 @@
       24 ./ch/7/76.txt
        8 ./ch/7/7r.txt
       46 ./ch/7/7t.txt
-      36 ./ch/7/7a.txt
+      35 ./ch/7/7a.txt
       13 ./ch/7/7n.txt
       76 ./ch/7/70.txt
       70 ./ch/7/72.txt
@@ -965,10 +965,10 @@
       22 ./ch/7/7o.txt
       26 ./ch/7/79.txt
      223 ./ch/v/vy.txt
-   20076 ./ch/v/vi.txt
+   20075 ./ch/v/vi.txt
       22 ./ch/v/v8.txt
-     966 ./ch/v/vs.txt
-    9385 ./ch/v/va.txt
+     965 ./ch/v/vs.txt
+    9388 ./ch/v/va.txt
      363 ./ch/v/vl.txt
       12 ./ch/v/v7.txt
      396 ./ch/v/vt.txt
@@ -977,13 +977,13 @@
       26 ./ch/v/v1.txt
       12 ./ch/v/v0.txt
      425 ./ch/v/vc.txt
-     438 ./ch/v/vm.txt
+     437 ./ch/v/vm.txt
      501 ./ch/v/vk.txt
        1 ./ch/v/v9.txt
       13 ./ch/v/v6.txt
       19 ./ch/v/vq.txt
-   16641 ./ch/v/ve.txt
-    9041 ./ch/v/vo.txt
+   16646 ./ch/v/ve.txt
+    9045 ./ch/v/vo.txt
      640 ./ch/v/vb.txt
      238 ./ch/v/vh.txt
       75 ./ch/v/vj.txt
@@ -995,7 +995,7 @@
      620 ./ch/v/vu.txt
      364 ./ch/v/vd.txt
      291 ./ch/v/vv.txt
-     201 ./ch/v/vg.txt
+     200 ./ch/v/vg.txt
       44 ./ch/v/vx.txt
        9 ./ch/v/v5.txt
      373 ./ch/v/v-.txt
@@ -1057,7 +1057,7 @@
        5 ./ch/5/5j.txt
       30 ./ch/5/5p.txt
       14 ./ch/5/5i.txt
-      47 ./ch/5/55.txt
+      49 ./ch/5/55.txt
       26 ./ch/5/5d.txt
       34 ./ch/5/5m.txt
       11 ./ch/5/5k.txt
@@ -1075,16 +1075,16 @@
      259 ./ch/5/50.txt
        6 ./ch/5/5o.txt
       55 ./ch/4/4l.txt
-     146 ./ch/4/42.txt
+     145 ./ch/4/42.txt
       36 ./ch/4/4k.txt
       43 ./ch/4/4g.txt
       95 ./ch/4/4c.txt
       91 ./ch/4/41.txt
-      69 ./ch/4/4a.txt
+      70 ./ch/4/4a.txt
       10 ./ch/4/4j.txt
      101 ./ch/4/4t.txt
       36 ./ch/4/4n.txt
-      57 ./ch/4/47.txt
+      60 ./ch/4/47.txt
       88 ./ch/4/4y.txt
      102 ./ch/4/4x.txt
       45 ./ch/4/4r.txt
@@ -1099,7 +1099,7 @@
      187 ./ch/4/4-.txt
       45 ./ch/4/43.txt
       52 ./ch/4/4i.txt
-     132 ./ch/4/4p.txt
+     133 ./ch/4/4p.txt
       98 ./ch/4/4b.txt
       28 ./ch/4/49.txt
       96 ./ch/4/44.txt
@@ -1111,34 +1111,34 @@
      107 ./ch/4/4e.txt
        4 ./ch/4/4z.txt
        7 ./ch/4/4q.txt
-     153 ./ch/4/4s.txt
-     321 ./ch/l/lk.txt
+     152 ./ch/4/4s.txt
+     322 ./ch/l/lk.txt
      235 ./ch/l/lf.txt
        8 ./ch/l/l5.txt
-   13142 ./ch/l/lu.txt
-   20262 ./ch/l/li.txt
+   13148 ./ch/l/lu.txt
+   20267 ./ch/l/li.txt
       87 ./ch/l/lx.txt
       97 ./ch/l/lz.txt
      169 ./ch/l/lw.txt
-   13641 ./ch/l/lo.txt
-     656 ./ch/l/l-.txt
+   13639 ./ch/l/lo.txt
+     655 ./ch/l/l-.txt
      471 ./ch/l/lb.txt
-      29 ./ch/l/l4.txt
+      28 ./ch/l/l4.txt
       17 ./ch/l/l0.txt
-     296 ./ch/l/lv.txt
-     363 ./ch/l/lt.txt
-   29875 ./ch/l/le.txt
+     295 ./ch/l/lv.txt
+     364 ./ch/l/lt.txt
+   29866 ./ch/l/le.txt
      441 ./ch/l/lp.txt
-     647 ./ch/l/ls.txt
+     646 ./ch/l/ls.txt
      129 ./ch/l/lj.txt
      308 ./ch/l/lh.txt
       12 ./ch/l/l8.txt
      267 ./ch/l/lr.txt
       46 ./ch/l/lq.txt
-     548 ./ch/l/lc.txt
+     546 ./ch/l/lc.txt
        1 ./ch/l/l9.txt
    28277 ./ch/l/la.txt
-    1193 ./ch/l/ly.txt
+    1192 ./ch/l/ly.txt
       32 ./ch/l/l1.txt
      636 ./ch/l/lm.txt
      292 ./ch/l/ld.txt
@@ -1149,7 +1149,7 @@
       39 ./ch/l/l3.txt
       42 ./ch/l/l2.txt
       12 ./ch/l/l6.txt
-     197 ./ch/l/ln.txt
+     196 ./ch/l/ln.txt
        1 ./ch/_/_n.txt
        1 ./ch/_/_v.txt
        1 ./ch/_/_d.txt
@@ -1157,38 +1157,38 @@
       10 ./ch/s/s0.txt
     1351 ./ch/s/ss.txt
       17 ./ch/s/s8.txt
-   26106 ./ch/s/se.txt
-   37980 ./ch/s/sc.txt
+   26104 ./ch/s/se.txt
+   37979 ./ch/s/sc.txt
     2564 ./ch/s/sn.txt
       54 ./ch/s/s1.txt
-    1636 ./ch/s/sg.txt
+    1634 ./ch/s/sg.txt
       12 ./ch/s/s7.txt
       12 ./ch/s/s5.txt
-     898 ./ch/s/s-.txt
-    6311 ./ch/s/sk.txt
-   21158 ./ch/s/sp.txt
-   18591 ./ch/s/si.txt
+     897 ./ch/s/s-.txt
+    6312 ./ch/s/sk.txt
+   21160 ./ch/s/sp.txt
+   18597 ./ch/s/si.txt
       11 ./ch/s/s9.txt
-   27260 ./ch/s/sa.txt
+   27264 ./ch/s/sa.txt
      584 ./ch/s/sq.txt
-   41246 ./ch/s/st.txt
-    8881 ./ch/s/sh.txt
+   41240 ./ch/s/st.txt
+    8886 ./ch/s/sh.txt
       96 ./ch/s/s2.txt
-    1003 ./ch/s/sf.txt
-   21998 ./ch/s/so.txt
+    1007 ./ch/s/sf.txt
+   21993 ./ch/s/so.txt
       12 ./ch/s/s6.txt
     1473 ./ch/s/sb.txt
-   30100 ./ch/s/sw.txt
+   30099 ./ch/s/sw.txt
     3010 ./ch/s/sv.txt
-    3997 ./ch/s/sy.txt
+    3999 ./ch/s/sy.txt
       87 ./ch/s/s3.txt
-    1161 ./ch/s/sr.txt
+    1159 ./ch/s/sr.txt
      904 ./ch/s/sd.txt
-   15059 ./ch/s/su.txt
+   15061 ./ch/s/su.txt
       77 ./ch/s/s4.txt
-     523 ./ch/s/sz.txt
-    7374 ./ch/s/sm.txt
-     225 ./ch/s/sj.txt
+     524 ./ch/s/sz.txt
+    7370 ./ch/s/sm.txt
+     224 ./ch/s/sj.txt
       66 ./ch/s/sx.txt
        7 ./ch/9/9v.txt
        4 ./ch/9/9f.txt
@@ -1227,110 +1227,110 @@
        6 ./ch/9/9x.txt
       40 ./ch/g/g4.txt
       31 ./ch/g/gq.txt
-   22970 ./ch/g/ge.txt
+   22969 ./ch/g/ge.txt
      744 ./ch/g/gp.txt
-     608 ./ch/g/gb.txt
+     609 ./ch/g/gb.txt
        8 ./ch/g/g7.txt
-     495 ./ch/g/gg.txt
+     494 ./ch/g/gg.txt
     1723 ./ch/g/gs.txt
-     588 ./ch/g/gt.txt
+     589 ./ch/g/gt.txt
      694 ./ch/g/gv.txt
      556 ./ch/g/gn.txt
        6 ./ch/g/g9.txt
-   17748 ./ch/g/gr.txt
+   17747 ./ch/g/gr.txt
       67 ./ch/g/gx.txt
-    1669 ./ch/g/gy.txt
-    6619 ./ch/g/gi.txt
+    1665 ./ch/g/gy.txt
+    6620 ./ch/g/gi.txt
       72 ./ch/g/g2.txt
-    6060 ./ch/g/gu.txt
+    6057 ./ch/g/gu.txt
        9 ./ch/g/g5.txt
      562 ./ch/g/gw.txt
       37 ./ch/g/g1.txt
-   18116 ./ch/g/ga.txt
+   18114 ./ch/g/ga.txt
      260 ./ch/g/gk.txt
      522 ./ch/g/gc.txt
      579 ./ch/g/g-.txt
-    7864 ./ch/g/gl.txt
+    7868 ./ch/g/gl.txt
       14 ./ch/g/g6.txt
       10 ./ch/g/g0.txt
-   11500 ./ch/g/go.txt
-     750 ./ch/g/gh.txt
-     364 ./ch/g/gd.txt
+   11496 ./ch/g/go.txt
+     749 ./ch/g/gh.txt
+     362 ./ch/g/gd.txt
       39 ./ch/g/g3.txt
      182 ./ch/g/gz.txt
       10 ./ch/g/g8.txt
      995 ./ch/g/gm.txt
      163 ./ch/g/gj.txt
-     607 ./ch/g/gf.txt
-     948 ./ch/p/pn.txt
+     608 ./ch/g/gf.txt
+     949 ./ch/p/pn.txt
      589 ./ch/p/pb.txt
      346 ./ch/p/pg.txt
      699 ./ch/p/pp.txt
       22 ./ch/p/p7.txt
       16 ./ch/p/p9.txt
     8315 ./ch/p/pl.txt
-    6106 ./ch/p/pu.txt
+    6102 ./ch/p/pu.txt
      259 ./ch/p/pw.txt
       11 ./ch/p/p5.txt
       87 ./ch/p/p2.txt
       59 ./ch/p/pq.txt
-   24763 ./ch/p/pa.txt
-    1106 ./ch/p/pm.txt
-   12710 ./ch/p/pi.txt
+   24761 ./ch/p/pa.txt
+    1107 ./ch/p/pm.txt
+   12713 ./ch/p/pi.txt
      622 ./ch/p/pk.txt
-     423 ./ch/p/p-.txt
+     422 ./ch/p/p-.txt
      434 ./ch/p/pd.txt
      145 ./ch/p/pz.txt
-    4649 ./ch/p/ps.txt
-   11200 ./ch/p/ph.txt
-    5401 ./ch/p/pf.txt
+    4644 ./ch/p/ps.txt
+   11205 ./ch/p/ph.txt
+    5398 ./ch/p/pf.txt
      483 ./ch/p/py.txt
-   32793 ./ch/p/pr.txt
+   32805 ./ch/p/pr.txt
       52 ./ch/p/p4.txt
        8 ./ch/p/p6.txt
-   15677 ./ch/p/pe.txt
+   15669 ./ch/p/pe.txt
       21 ./ch/p/p8.txt
      170 ./ch/p/pj.txt
    14823 ./ch/p/po.txt
       54 ./ch/p/p1.txt
      647 ./ch/p/pv.txt
-     495 ./ch/p/pt.txt
+     496 ./ch/p/pt.txt
       48 ./ch/p/p3.txt
        1 ./ch/p/p..txt
       11 ./ch/p/p0.txt
     1393 ./ch/p/pc.txt
      113 ./ch/p/px.txt
-   31040 ./ch/b/ba.txt
+   31042 ./ch/b/ba.txt
      280 ./ch/b/bj.txt
     1566 ./ch/b/bb.txt
-     777 ./ch/b/bt.txt
-   20785 ./ch/b/bi.txt
+     779 ./ch/b/bt.txt
+   20783 ./ch/b/bi.txt
       78 ./ch/b/b4.txt
      482 ./ch/b/bh.txt
       77 ./ch/b/b3.txt
      643 ./ch/b/bn.txt
      809 ./ch/b/bg.txt
       21 ./ch/b/b6.txt
-    1341 ./ch/b/by.txt
+    1340 ./ch/b/by.txt
       52 ./ch/b/bq.txt
-   16015 ./ch/b/br.txt
+   16018 ./ch/b/br.txt
       41 ./ch/b/b5.txt
-     416 ./ch/b/b2.txt
-   17380 ./ch/b/bo.txt
+     415 ./ch/b/b2.txt
+   17374 ./ch/b/bo.txt
       14 ./ch/b/b8.txt
      613 ./ch/b/bd.txt
-    1472 ./ch/b/bs.txt
+    1473 ./ch/b/bs.txt
       22 ./ch/b/b0.txt
      308 ./ch/b/bz.txt
-     671 ./ch/b/bp.txt
-   15252 ./ch/b/bu.txt
-   33682 ./ch/b/be.txt
-     682 ./ch/b/bk.txt
+     672 ./ch/b/bp.txt
+   15247 ./ch/b/bu.txt
+   33690 ./ch/b/be.txt
+     683 ./ch/b/bk.txt
       16 ./ch/b/b9.txt
-    1389 ./ch/b/bm.txt
+    1390 ./ch/b/bm.txt
      663 ./ch/b/bf.txt
       23 ./ch/b/b7.txt
-   11697 ./ch/b/bl.txt
+   11704 ./ch/b/bl.txt
       85 ./ch/b/bx.txt
     1000 ./ch/b/b-.txt
      510 ./ch/b/bw.txt
@@ -1338,4 +1338,4 @@
     1154 ./ch/b/bc.txt
       61 ./ch/b/b..txt
       77 ./ch/b/b1.txt
- 2614646 total
+ 2614729 total

@@ -322,6 +322,7 @@ ch-leuthold.ch
 ch-libre.ch
 ch-life.ch
 ch-light.ch
+ch-line.ch
 ch-live.ch
 ch-logistics.ch
 ch-lr.ch
@@ -2535,7 +2536,6 @@ chaletcransmontana.ch
 chaletcso.ch
 chaletdagiuseppe.ch
 chaletdahai.ch
-chaletdajana.ch
 chaletdatcha.ch
 chaletdavos.ch
 chaletdeboussens.ch
@@ -2966,6 +2966,7 @@ chaletshanti.ch
 chaletsherens.ch
 chaletsilvretta.ch
 chaletsimmental.ch
+chaletsina.ch
 chaletslescollons.ch
 chaletsnendaz.ch
 chaletsoberbort.ch
@@ -5535,6 +5536,7 @@ charge-pay.ch
 charge-plus.ch
 charge-power.ch
 charge-quick.ch
+charge-sil-yann.ch
 charge-station.ch
 charge-up-your-day.ch
 charge-up.ch
@@ -9186,7 +9188,6 @@ checkup.ch
 checkupbiodiversite.ch
 checkupcenter-zh.ch
 checkupcenter.ch
-checkuphub.ch
 checkups.ch
 checkupsalute.ch
 checkuptv.ch
@@ -9891,7 +9892,6 @@ chemast.ch
 chematwork.ch
 chemaxis.ch
 chemaxisweb.ch
-chembet.ch
 chembiodiv.ch
 chembird.ch
 chembra-arvenluefter.ch
@@ -10260,11 +10260,13 @@ chemische-entkalkungen.ch
 chemische-reinigung-madau.ch
 chemische-reinigung.ch
 chemische-reinigungen.ch
+chemische-unterwerfung.ch
 chemischeabdichtung.ch
 chemischepeelings.ch
 chemischereinigung.ch
 chemischereinigungen.ch
 chemisches-peeling.ch
+chemischeunterwerfung.ch
 chemise-luxe-geneve.ch
 chemise.ch
 chemiserie-centrale.ch
@@ -10764,7 +10766,6 @@ cherrylounge.ch
 cherrylove.ch
 cherrymedia.ch
 cherrymoebel.ch
-cherryoffice.ch
 cherryoga.ch
 cherryonthecake.ch
 cherryonthethreads.ch
@@ -10843,7 +10844,6 @@ cherymotor.ch
 cheryne.ch
 cheryti.ch
 cheryticino.ch
-cherzaezaiber.ch
 cherze-chaeller.ch
 cherze-chochi.ch
 cherze.ch
@@ -11404,6 +11404,7 @@ chevres.ch
 chevressy.ch
 chevressyland.ch
 chevretrekking.ch
+chevreuils.ch
 chevrexpo-live.ch
 chevrexpo.ch
 chevrier-consulting.ch
@@ -11472,7 +11473,6 @@ chewie.ch
 chewies.ch
 chewing-bags.ch
 chewing-tobacco.ch
-chewinggum-clean.ch
 chewinggum.ch
 chewingmask.ch
 chewonline.ch
@@ -11597,7 +11597,6 @@ chez-grillon.ch
 chez-grisoni.ch
 chez-guerrazzi.ch
 chez-hedo.ch
-chez-heidi.ch
 chez-ilham.ch
 chez-isa.ch
 chez-janine.ch
@@ -11884,7 +11883,6 @@ chezgus.ch
 chezgustave.ch
 chezgygy.ch
 chezhalima.ch
-chezheidi.ch
 chezheini.ch
 chezhenri.ch
 chezhenry.ch
@@ -12588,6 +12586,7 @@ chiarasenn.ch
 chiarasflow.ch
 chiarashome.ch
 chiarasoler.ch
+chiaraspasiano.ch
 chiaravalle-maleratelier.ch
 chiaravalle.ch
 chiaravalli.ch
@@ -13183,6 +13182,7 @@ chiemsee.ch
 chiemseelight-swiss.ch
 chiemseelightswiss.ch
 chien-bleu.ch
+chien-chat.ch
 chien-de-protection.ch
 chien-ecole.ch
 chien-en-mouvement.ch
@@ -14191,7 +14191,6 @@ chimpz-balanceboard.ch
 chimuelo.ch
 chimys.ch
 chin-assurances.ch
-chin-chi.ch
 chin-easy.ch
 chin-med-ru.ch
 chin-med.ch
@@ -14847,11 +14846,6 @@ chinfo.ch
 chinformatica.ch
 chingcura-tcm.ch
 chingenieure.ch
-chinggis.ch
-chinggisbeer.ch
-chinggisstore.ch
-chinggistravel.ch
-chinggisworld.ch
 chingli.ch
 chinglo.ch
 chingon.ch
@@ -15898,7 +15892,6 @@ chissihuis.ch
 chiste.ch
 chistenpass.ch
 chistli.ch
-chistlipuenkt.ch
 chistole.ch
 chisu.ch
 chisulo-usamwari.ch
@@ -16286,6 +16279,7 @@ chlibuero.ch
 chlichili.ch
 chlichilli.ch
 chlichillisauce.ch
+chlicht.ch
 chlidrinks.ch
 chliekarriert.ch
 chlife.ch
@@ -17808,7 +17802,6 @@ chomcapital.ch
 chomchotanze.ch
 chomdu.ch
 chome.ch
-chomedu.ch
 chomedy.ch
 chomer-zhilf.ch
 chomerbaer.ch
@@ -18705,7 +18698,6 @@ chrcheck.ch
 chrchr.ch
 chrchtx.ch
 chrdebona.ch
-chre.ch
 chre1s.ch
 chrea.ch
 chreativa.ch
@@ -19085,7 +19077,6 @@ chrisantem.ch
 chrisaro.ch
 chrisart.ch
 chrisartdesign.ch
-chrisascht-rock.ch
 chrisaschwanden.ch
 chrisass.ch
 chrisastrophoto.ch
@@ -19332,6 +19323,7 @@ chriskobler.ch
 chriskoehler.ch
 chriskoller.ch
 chriskuenzicatering.ch
+chriskuhn.ch
 chriskunz.ch
 chrislam.ch
 chrislandon.ch
@@ -20260,6 +20252,7 @@ christianbrodbeck.ch
 christianbrokatzky.ch
 christianbrotherhood.ch
 christianbruegger.ch
+christianbrunner.ch
 christianbucher.ch
 christianbuechli.ch
 christianbuehlmann.ch
@@ -21056,7 +21049,6 @@ christinakleinart.ch
 christinakoller.ch
 christinakosmetik.ch
 christinakronsteiner.ch
-christinakruse.ch
 christinalamprecht.ch
 christinaliebherr.ch
 christinalim.ch
@@ -22208,6 +22200,7 @@ christopheisenring.ch
 christophekhuu.ch
 christophekobler.ch
 christophelambert.ch
+christophemaillard.ch
 christophemaradan.ch
 christophemarchand.ch
 christophemartin.ch
@@ -23734,7 +23727,6 @@ chuchigeischt.ch
 chuchigiele.ch
 chuchigschichte.ch
 chuchigsellen.ch
-chuchiheld.ch
 chuchihilf.ch
 chuchihuesli.ch
 chuchihuus-lausen.ch
@@ -24029,6 +24021,7 @@ chunnt-guet.ch
 chunntschoguet.ch
 chunnwerk.ch
 chunsch-drus.ch
+chunsch.ch
 chunschau.ch
 chunschdrus.ch
 chunschmit.ch
@@ -24305,7 +24298,6 @@ churrascarasopicanha.ch
 churrascaria-do-sul.ch
 churrascaria-olympico.ch
 churrascariamondego.ch
-churrascariasopicanha.ch
 churrasco-do-elias.ch
 churrasco-so-picanha.ch
 churrasco.ch
