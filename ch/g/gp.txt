@@ -621,6 +621,7 @@ gpt-7.ch
 gpt-8.ch
 gpt-9.ch
 gpt-agent.ch
+gpt-center.ch
 gpt-chat.ch
 gpt-entlebuch.ch
 gpt-garage.ch
@@ -652,6 +653,7 @@ gptaventure.ch
 gptberatung.ch
 gptboost.ch
 gptboost24.ch
+gptcenter.ch
 gptchat.ch
 gptchur.ch
 gptcockpit.ch
@@ -673,7 +675,6 @@ gptkurs.ch
 gptlab.ch
 gptmarketing.ch
 gptogether.ch
-gptonly.ch
 gptorre.ch
 gptorricelli.ch
 gptrading.ch
@@ -699,6 +700,7 @@ gpu-cloud.ch
 gpu-server.ch
 gpu.ch
 gpuaas.ch
+gpucci.ch
 gpuccipeinture.ch
 gpucloud.ch
 gpunkt.ch

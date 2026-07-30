@@ -1211,7 +1211,6 @@ library.ch
 library4-0.ch
 libraryamguisanplatz.ch
 librarybox.ch
-librarylounge.ch
 libraryofalexandria.ch
 libraryofmistakes.ch
 libraryofrememberme.ch
@@ -2815,7 +2814,6 @@ lidde.ch
 liddes.ch
 liddes24.ch
 lidding.ch
-liddle.ch
 lide.ch
 lidea-care.ch
 lidea.ch
@@ -4390,6 +4388,8 @@ lieferwagenmieten.ch
 lieferwagenmieten24.ch
 lieferwagenmieten365.ch
 lieferwagenmietenbasel.ch
+lieferwagenmietenbern.ch
+lieferwagenmietenluzern.ch
 lieferwagenmietenspreitenbach.ch
 lieferwagenmietenzuerich.ch
 lieferwagenreifen.ch
@@ -5144,7 +5144,6 @@ life-impact.ch
 life-impulse.ch
 life-in-colour.ch
 life-in-flow.ch
-life-in-range.ch
 life-inside.ch
 life-insurance.ch
 life-is-a-bit.ch
@@ -5693,7 +5692,6 @@ lifeinlayers.ch
 lifeinmotion.ch
 lifeinnumbers.ch
 lifeinprogress.ch
-lifeinrange.ch
 lifeinside.ch
 lifeinspiredvalues.ch
 lifeinsurance.ch
@@ -6978,9 +6976,7 @@ light-shadows.ch
 light-shop.ch
 light-smart.ch
 light-solution.ch
-light-sound-project.ch
 light-sound-systems.ch
-light-sound.ch
 light-system.ch
 light-systems.ch
 light-tech.ch
@@ -7073,7 +7069,6 @@ lightbulbmoments.ch
 lightburn.ch
 lightburnsoftware.ch
 lightbyemily.ch
-lightbyte.ch
 lightcable.ch
 lightcables.ch
 lightcall.ch
@@ -9081,7 +9076,6 @@ lilyandrain.ch
 lilyashop.ch
 lilybar.ch
 lilybauer.ch
-lilybeach.ch
 lilybear.ch
 lilybee.ch
 lilybekind.ch
@@ -9092,7 +9086,6 @@ lilycapital.ch
 lilycarac.ch
 lilycare.ch
 lilyclaire.ch
-lilyclub.ch
 lilycoliving.ch
 lilycountry.ch
 lilycountryclub.ch
@@ -9104,18 +9097,14 @@ lilyfitsarl.ch
 lilygantscheva.ch
 lilygardenspa.ch
 lilygravure.ch
-lilygroup.ch
 lilyh.ch
 lilyhorn.ch
 lilyhospitality.ch
-lilyhospitalitygroup.ch
 lilyhotel.ch
 lilyhotels.ch
 lilyhouse.ch
 lilyimprovisedsongs.ch
-lilyitaly.ch
 lilyjewels.ch
-lilyjuicy.ch
 lilyko.ch
 lilykoch.ch
 lilykoper.ch
@@ -9123,18 +9112,14 @@ lilykuh.ch
 lilyli.ch
 lilylife.ch
 lilylolo.ch
-lilymansion.ch
 lilymappin.ch
 lilymaya.ch
 lilymila.ch
 lilymountain.ch
 lilynager.ch
-lilyocean.ch
 lilyofthevalley.ch
 lilypad.ch
-lilyranch.ch
 lilyresort.ch
-lilyresorts.ch
 lilyrose-demeulemeester.ch
 lilyrose-mueller.ch
 lilys-catering.ch
@@ -9146,11 +9131,9 @@ lilysarosa.ch
 lilysbakery.ch
 lilyscakes.ch
 lilyscatering.ch
-lilysea.ch
 lilyshape.ch
 lilyshotel.ch
 lilyshotels.ch
-lilysicily.ch
 lilyskitchen.ch
 lilyskombucha.ch
 lilyspa.ch
@@ -9421,7 +9404,6 @@ limebike.ch
 limebit.ch
 limec.ch
 limecado.ch
-limecar.ch
 limecastle.ch
 limeco-nein.ch
 limeco.ch
@@ -9466,7 +9448,6 @@ limelight.ch
 limelightnetworks.ch
 limelightpictures.ch
 limelightsocial.ch
-limelightspa.ch
 limelightspas.ch
 limelightstudios.ch
 limelite-duebendorf.ch
@@ -10510,7 +10491,6 @@ limybe.ch
 limytd.ch
 limytless.ch
 limz.ch
-lin-cosmetics.ch
 lin-fahrschule.ch
 lin-ora.ch
 lin-sana.ch
@@ -10734,6 +10714,7 @@ lincoln-ellsworth.ch
 lincoln-group.ch
 lincoln-location.ch
 lincoln-talent.ch
+lincoln-unplugged.ch
 lincoln.ch
 lincoln21.ch
 lincolnag.ch
@@ -10946,6 +10927,7 @@ lindam.ch
 lindamader.ch
 lindamalzacher.ch
 lindamaria.ch
+lindamarketingportfolio.ch
 lindamarkt.ch
 lindamartinez.ch
 lindambiente.ch
@@ -12045,7 +12027,6 @@ lineatoca.ch
 lineatur.ch
 lineaunica-recyclingcenter.ch
 lineaunica.ch
-lineauomo.ch
 lineaverde.ch
 lineavi.ch
 lineavita.ch
@@ -12256,7 +12237,6 @@ linfomi.ch
 linforehab.ch
 linformaticien.ch
 linformationimmobiliere.ch
-linformatiquesimplifiee.ch
 linforme.ch
 linformelle.ch
 linfovir.ch
@@ -12470,7 +12450,6 @@ linguae-gr.ch
 linguae.ch
 linguaeetculturae.ch
 linguaetius.ch
-linguafedia.ch
 linguaglossa.ch
 linguahero.ch
 linguahub.ch
@@ -15357,6 +15336,7 @@ liquiflow.ch
 liquify.ch
 liquilife.ch
 liquimed.ch
+liquimmo.ch
 liquimoly.ch
 liquineq.ch
 liquinoxag.ch
@@ -15531,7 +15511,6 @@ lirotzler.ch
 lirova.ch
 lirpa.ch
 lirrchoco.ch
-lirris.ch
 lirum-larum.ch
 lirumlarum.ch
 lirus.ch
@@ -17364,6 +17343,7 @@ littlehome-massage.ch
 littlehome.ch
 littlehome94.ch
 littlehonda.ch
+littlehoney.ch
 littlehoppa.ch
 littlehorsefarm.ch
 littlehouse.ch
@@ -17872,6 +17852,7 @@ livaro.ch
 livarsa.ch
 livart.ch
 livarto.ch
+livas.ch
 livasolution.ch
 livaspitex.ch
 livasports.ch
@@ -17980,7 +17961,6 @@ live-in-concert.ch
 live-in-design.ch
 live-in-dubai.ch
 live-in-flow.ch
-live-in-range.ch
 live-in-touch.ch
 live-in.ch
 live-industry.ch
@@ -18357,7 +18337,6 @@ liveinconcert.ch
 liveindubai.ch
 liveinfive.ch
 liveinflow.ch
-liveinrange.ch
 liveinspired.ch
 liveinsuisse.ch
 liveinswitzerland.ch
@@ -18784,7 +18763,6 @@ livetec.ch
 livetech.ch
 livetechno.ch
 liveteen.ch
-livetestmitzahlung.ch
 livetext.ch
 livethat.ch
 livethebalance.ch

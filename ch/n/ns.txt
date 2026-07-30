@@ -509,6 +509,7 @@ ns.ymc.ch
 ns.yogaonline.ch
 ns.zahnarztmuenchenstein.ch
 ns.zem-emc.ch
+ns.zerodemo.ch
 ns.ziegelei-schumacher.ch
 ns.zlg.futurelab.ch
 ns0.7asecond.ch
@@ -715,6 +716,7 @@ ns1.2bit.ch
 ns1.2care.ch
 ns1.2fast4u.ch
 ns1.2gethr.ch
+ns1.2za.ch
 ns1.3kweb.ch
 ns1.3wpower.ch
 ns1.4m3.ch
@@ -1173,6 +1175,7 @@ ns1.carbonmc.ch
 ns1.carmenlofino.ch
 ns1.carolineferriol.ch
 ns1.carreview.ch
+ns1.carrosserie-burkhardt.ch
 ns1.carrosseriedesnations.ch
 ns1.carspace.ch
 ns1.casalavida.ch
@@ -2894,7 +2897,6 @@ ns1.pcdog.ch
 ns1.pcguy.ch
 ns1.pchilfe-murten.ch
 ns1.pcinetwork.ch
-ns1.pcnetwork-solution.ch
 ns1.pcni.ch
 ns1.pebkac.ch
 ns1.pechepro.ch
@@ -3707,7 +3709,6 @@ ns1.vacc.ch
 ns1.valdraus.ch
 ns1.valentin-wine.ch
 ns1.valsite.ch
-ns1.vamacy.ch
 ns1.vasudeva.ch
 ns1.vatsim.ch
 ns1.vbgw-h.ch
@@ -3961,6 +3962,7 @@ ns1.yousway.ch
 ns1.yparc-hotel.ch
 ns1.ypsonet.ch
 ns1.yuminet.ch
+ns1.zachza.ch
 ns1.zahnarztvermittlung.ch
 ns1.zebs.ch
 ns1.zeedivision.ch
@@ -3971,6 +3973,7 @@ ns1.zem-emc.ch
 ns1.zen-rollers.ch
 ns1.zenis.ch
 ns1.zenvoo.ch
+ns1.zerodemo.ch
 ns1.zerspanungspartner.ch
 ns1.zetadev.ch
 ns1.zh.hostbin.ch
@@ -4067,6 +4070,7 @@ ns2.2bit.ch
 ns2.2care.ch
 ns2.2fast4u.ch
 ns2.2gethr.ch
+ns2.2za.ch
 ns2.3kweb.ch
 ns2.3wpower.ch
 ns2.4m3.ch
@@ -4509,6 +4513,7 @@ ns2.carlifting.ch
 ns2.carmenlofino.ch
 ns2.carolineferriol.ch
 ns2.carreview.ch
+ns2.carrosserie-burkhardt.ch
 ns2.carrosseriedesnations.ch
 ns2.carspace.ch
 ns2.casalavida.ch
@@ -6148,7 +6153,6 @@ ns2.pcdog.ch
 ns2.pcguy.ch
 ns2.pchilfe-murten.ch
 ns2.pcinetwork.ch
-ns2.pcnetwork-solution.ch
 ns2.pcni.ch
 ns2.pebkac.ch
 ns2.pechepro.ch
@@ -6949,7 +6953,6 @@ ns2.uzh.ch
 ns2.vacc.ch
 ns2.valentin-wine.ch
 ns2.valsite.ch
-ns2.vamacy.ch
 ns2.variosystems.ch
 ns2.vatsim.ch
 ns2.vbgw-h.ch
@@ -7190,6 +7193,7 @@ ns2.yoursite.ch
 ns2.yousway.ch
 ns2.yparc-hotel.ch
 ns2.ypsonet.ch
+ns2.zachza.ch
 ns2.zahnarztvermittlung.ch
 ns2.zeedivision.ch
 ns2.zeitglei.ch
