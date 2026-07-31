@@ -82,6 +82,7 @@ gm-productions.ch
 gm-railing.ch
 gm-realestate.ch
 gm-reinigung.ch
+gm-renov.ch
 gm-renovation.ch
 gm-restaurants.ch
 gm-s-power.ch
@@ -310,7 +311,6 @@ gmbs-test.ch
 gmbs.ch
 gmbtechnik.ch
 gmc-ag.ch
-gmc-baumanagement.ch
 gmc-bois.ch
 gmc-consultants.ch
 gmc-consulting.ch

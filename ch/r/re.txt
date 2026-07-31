@@ -833,6 +833,7 @@ readydocs.ch
 readydress.ch
 readydrive.ch
 readyeducation.ch
+readyexam.ch
 readyferries.ch
 readyferry.ch
 readyflag.ch
@@ -1621,7 +1622,6 @@ realfinanz.ch
 realfinder.ch
 realfindo.ch
 realfintech.ch
-realfiresystems.ch
 realfitzug.ch
 realflash.ch
 realfloat.ch
@@ -2302,7 +2302,6 @@ realunit.ch
 realunitriskmanagement.ch
 realunreal.ch
 realusion.ch
-realution.ch
 realutopia.ch
 realux.ch
 realval.ch
@@ -2458,6 +2457,7 @@ rearrive.ch
 reart.ch
 reartdeco.ch
 reartworld.ch
+rearview.ch
 reas-be.ch
 reas-kinesiologie.ch
 reas-lu.ch
@@ -6091,7 +6091,6 @@ recycletterie.ch
 recycleur.ch
 recycleurs.ch
 recycleuse.ch
-recycli.ch
 recyclight.ch
 recycling-abc.ch
 recycling-abo.ch
@@ -6505,7 +6504,6 @@ red-rock.ch
 red-rocket.ch
 red-rok.ch
 red-room.ch
-red-rooster.ch
 red-rose.ch
 red-rum.ch
 red-scorpion.ch
@@ -8500,6 +8498,7 @@ reems.ch
 reemservices.ch
 reemster.ch
 reemts.ch
+reen.ch
 reena.ch
 reenactment-normandie-tours.ch
 reenactment.ch
@@ -9437,6 +9436,7 @@ reflactive.ch
 reflactory.ch
 reflactship.ch
 reflak.ch
+reflank.ch
 reflash.ch
 refle.ch
 reflechircomprendreapprendre.ch
@@ -9690,6 +9690,7 @@ reflexo-svilena.ch
 reflexo-therapie.ch
 reflexo.ch
 reflexoa.ch
+reflexoase.ch
 reflexobern.ch
 reflexobio.ch
 reflexochrisserie.ch
@@ -10642,6 +10643,7 @@ regardinterieur.ch
 regardio.ch
 regardirect.ch
 regardlausanne.ch
+regardmature.ch
 regardpassion.ch
 regards-9.ch
 regards-croises.ch
@@ -10708,7 +10710,6 @@ regbl.ch
 regbox.ch
 regcell.ch
 regchdcapr24.ch
-regcheck.ch
 regco.ch
 regconsult.ch
 regdata.ch
@@ -11594,7 +11595,6 @@ reginastaubli.ch
 reginasteck.ch
 reginasteiner.ch
 reginasuhner.ch
-reginasxtramuzzel.ch
 reginatanz.ch
 reginaterme.ch
 reginatherme.ch
@@ -12719,15 +12719,10 @@ regiospar.ch
 regiospitex-limmattal.ch
 regiospitex.ch
 regiospitexlimmattal.ch
-regiosport-collectif.ch
-regiosport-collettivo.ch
-regiosport-kollektiv.ch
 regiosport.ch
 regiosport24.ch
 regiosportal.ch
 regiosportcheck.ch
-regiosportcollectif.ch
-regiosportcollettivo.ch
 regiosportkollektiv.ch
 regiosports.ch
 regiospot.ch
@@ -14879,7 +14874,6 @@ reifenone.ch
 reifenonline.ch
 reifenonline24.ch
 reifenonlinekaufen.ch
-reifenpannendienst.ch
 reifenparadies.ch
 reifenpark.ch
 reifenplanet.ch
@@ -15709,7 +15703,6 @@ reinigung-abnahmegarantie.ch
 reinigung-activ.ch
 reinigung-allround.ch
 reinigung-alpenglanz.ch
-reinigung-anbieter.ch
 reinigung-angebote.ch
 reinigung-angeboteschweiz.ch
 reinigung-angebotschweiz.ch
@@ -15777,7 +15770,6 @@ reinigung-kein-bock.ch
 reinigung-kloten.ch
 reinigung-kreuzlingen.ch
 reinigung-lilisch.ch
-reinigung-liste.ch
 reinigung-luzern.ch
 reinigung-lyss.ch
 reinigung-malters.ch
@@ -15853,7 +15845,6 @@ reinigung-umzugsreinigung.ch
 reinigung-und-umzug.ch
 reinigung-unterhalt.ch
 reinigung-uster.ch
-reinigung-verzeichnis.ch
 reinigung-viamala.ch
 reinigung-von-dachziegeln.ch
 reinigung-wallis.ch
@@ -15885,7 +15876,6 @@ reinigung4you.ch
 reinigungaargau.ch
 reinigungabc.ch
 reinigungadler.ch
-reinigunganbieter.ch
 reinigungarroyo.ch
 reinigungauto.ch
 reinigungbasel.ch
@@ -15954,7 +15944,6 @@ reinigunghaerzbluet.ch
 reinigunghelden.ch
 reinigunginterlaken.ch
 reinigungkms-service.ch
-reinigungliste.ch
 reinigungluzern.ch
 reinigungmadalina.ch
 reinigungmarina.ch
@@ -16023,7 +16012,6 @@ reinigungsabo24.ch
 reinigungsag.ch
 reinigungsagentur.ch
 reinigungsallauka.ch
-reinigungsanbieter.ch
 reinigungsanfragen.ch
 reinigungsangebot.ch
 reinigungsangebote.ch
@@ -16131,7 +16119,6 @@ reinigungsfirma-kloten.ch
 reinigungsfirma-kreuzlingen.ch
 reinigungsfirma-kuesnacht.ch
 reinigungsfirma-liestal.ch
-reinigungsfirma-liste.ch
 reinigungsfirma-luzern.ch
 reinigungsfirma-oberrieden.ch
 reinigungsfirma-offerten.ch
@@ -16145,7 +16132,6 @@ reinigungsfirma-rheinfelden.ch
 reinigungsfirma-richterswil.ch
 reinigungsfirma-schaffhausen.ch
 reinigungsfirma-schlieren.ch
-reinigungsfirma-schweiz.ch
 reinigungsfirma-seefeld.ch
 reinigungsfirma-solothurn.ch
 reinigungsfirma-st-gallen.ch
@@ -16179,11 +16165,9 @@ reinigungsfirmabern.ch
 reinigungsfirmabiel.ch
 reinigungsfirmachur.ch
 reinigungsfirmaduebendorf.ch
-reinigungsfirmaliste.ch
 reinigungsfirmaluzern.ch
 reinigungsfirmaofferten.ch
 reinigungsfirmaolten.ch
-reinigungsfirmaschweiz.ch
 reinigungsfirmauster.ch
 reinigungsfirmavergleich.ch
 reinigungsfirmawinterthur.ch
@@ -16367,7 +16351,6 @@ reinigungundrenovierungen.ch
 reinigungundunterhalt.ch
 reinigungvergleich.ch
 reinigungvergleichschweiz.ch
-reinigungverzeichnis.ch
 reinigungwinterthur.ch
 reinigungwittwer.ch
 reinigungzentrale.ch
@@ -17054,7 +17037,6 @@ reiseklick.ch
 reisekoechin.ch
 reisekoffer.ch
 reisekofferanhaenger.ch
-reisekohler.ch
 reisekompass.ch
 reisekompetenz.ch
 reisekomplizen.ch
@@ -19058,7 +19040,6 @@ relaxa.ch
 relaxaai.ch
 relaxacademy.ch
 relaxactif.ch
-relaxactivity.ch
 relaxad.ch
 relaxana.ch
 relaxandbeauty.ch
@@ -21287,6 +21268,7 @@ remunerationsabusives.ch
 remunin.ch
 remure.ch
 remus-auspuff.ch
+remus-site.ch
 remus.ch
 remusic.ch
 remusrealestate.ch
@@ -22284,7 +22266,6 @@ rendezvousmusicaux.ch
 rendezvousprorapide.ch
 rendezvousrapide.ch
 rendezvousrestaurant.ch
-rendezvousvaldherens.ch
 rendezvouz.ch
 rendezvu.ch
 rendi.ch
@@ -23031,7 +23012,6 @@ renggli-hergiswil.ch
 renggli-holz.ch
 renggli-holzbau.ch
 renggli-huenenberg.ch
-renggli-immobilien.ch
 renggli-karriere.ch
 renggli-law.ch
 renggli-luzern.ch
@@ -25412,7 +25392,6 @@ rentlifestylehotels.ch
 rentlift.ch
 rentlify.ch
 rentlikeapro.ch
-rentlikehome.ch
 rentling.ch
 rentlo.ch
 rentlocal.ch
@@ -25943,7 +25922,6 @@ reorganizationproceeding.ch
 reorient.ch
 reorientation.ch
 reos.ch
-reosa.ch
 reosal.ch
 reosan.ch
 reosch.ch
@@ -26649,6 +26627,7 @@ repereliondor.ch
 reperes-vd.ch
 reperes.ch
 reperesbyenseignaidant.ch
+reperia.ch
 reperio.ch
 repermission.ch
 repers.ch
@@ -29764,6 +29743,7 @@ resonanz-bewegt.ch
 resonanz-booster.ch
 resonanz-coaches.ch
 resonanz-gruppe.ch
+resonanz-lab.ch
 resonanz-magazin.ch
 resonanz-mapping.ch
 resonanz-methode.ch
@@ -29797,6 +29777,7 @@ resonanzkompetenz.ch
 resonanzkraft.ch
 resonanzkueche.ch
 resonanzkunst.ch
+resonanzlab.ch
 resonanzmapping.ch
 resonanzmed.ch
 resonanzorientierte-therapie.ch
@@ -30422,6 +30403,7 @@ ressorts-federn.ch
 ressortsduleman.ch
 ressortsindustriels.ch
 ressos.ch
+ressource-burnout.ch
 ressource-coaching.ch
 ressource-en-soi.ch
 ressource-environnement.ch
@@ -30437,6 +30419,7 @@ ressource-toi-coaching.ch
 ressource-toi.ch
 ressource-wald.ch
 ressource.ch
+ressourceburnout.ch
 ressourcedamour.ch
 ressourcedeclat.ch
 ressourcefulrelocation.ch
@@ -30636,6 +30619,7 @@ restareragionevoli.ch
 restaro.ch
 restart-architecture.ch
 restart-beratung.ch
+restart-grischa.ch
 restart-infovideo.ch
 restart-ost.ch
 restart-switzerland.ch
@@ -36182,7 +36166,6 @@ retroplanete.ch
 retroplate.ch
 retropomme.ch
 retropower.ch
-retroprint3d.ch
 retropunk.ch
 retroradio.ch
 retrorama.ch
@@ -36639,7 +36622,6 @@ reucon.ch
 reudb.ch
 reudigkollektiv.ch
 reudisuppigerbaggerunternehmen.ch
-reudlen.ch
 reuenthal.ch
 reufer.ch
 reuffurth.ch
@@ -37192,6 +37174,7 @@ reve-lemanique.ch
 reve.ch
 revea.ch
 reveag.ch
+reveal-digital.ch
 reveal-events.ch
 reveal-studie.ch
 reveal.ch

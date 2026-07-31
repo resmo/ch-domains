@@ -13,6 +13,7 @@ op-beo.ch
 op-bm.ch
 op-campus.ch
 op-cases.ch
+op-chat.ch
 op-en.ch
 op-ex.ch
 op-fc.ch
@@ -1514,6 +1515,7 @@ openlm.ch
 openload.ch
 openloadmovies.ch
 openlocal.ch
+openlock.ch
 openlogs.ch
 openlook.ch
 openloop.ch
@@ -1521,7 +1523,6 @@ openlr.ch
 openlugano.ch
 openlux.ch
 openly-escape-room.ch
-openly.ch
 openmac.ch
 openmag.ch
 openmail.ch
@@ -1647,6 +1648,7 @@ openpkhub.ch
 openpkproject.ch
 openplace.ch
 openplaces.ch
+openplacesstudio.ch
 openplanets.ch
 openplanner.ch
 openplanning.ch
@@ -1739,7 +1741,6 @@ openseal.ch
 opensearch.ch
 openseason.ch
 opensecurity.ch
-openserum.ch
 openservice.ch
 openservicebroker.ch
 openservicebrokerapi.ch
@@ -3805,7 +3806,6 @@ optiker-thun.ch
 optiker-ulmer.ch
 optiker-uster.ch
 optiker-vergleich.ch
-optiker-verzeichnis.ch
 optiker-werden.ch
 optiker-winterthur.ch
 optiker-zuerich.ch
@@ -3830,7 +3830,6 @@ optikersvec.ch
 optikertermin.ch
 optikertermin2.ch
 optikerthun.ch
-optikerverzeichnis.ch
 optikerwerden.ch
 optikerzuerich.ch
 optikerzug.ch
