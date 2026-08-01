@@ -272,7 +272,6 @@ usb-hub.ch
 usb-kabel.ch
 usb-ksa.ch
 usb-ksbl.ch
-usb-ladekabel.ch
 usb-leergehaeuse.ch
 usb-mikroskop.ch
 usb-ortho.ch
@@ -864,7 +863,6 @@ usil.ch
 usility.ch
 usillons.ch
 usilueghelm.ch
-usim.ch
 usimedur.ch
 usiminusio.ch
 usimport.ch
