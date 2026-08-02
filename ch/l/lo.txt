@@ -230,6 +230,7 @@ lobaweb.ch
 lobberi.ch
 lobbit.ch
 lobby-bar.ch
+lobby-boy.ch
 lobby-mall.ch
 lobby-nein.ch
 lobby-pilot.ch
@@ -2097,7 +2098,6 @@ lockerpoint.ch
 lockerroom.ch
 lockers.ch
 lockerstorage.ch
-lockerswiss.ch
 lockerundkoernig.ch
 lockerundschoen.ch
 lockerweb.ch
@@ -5800,7 +5800,6 @@ loicguniat.ch
 loichataeronautics.ch
 loicherin.ch
 loicherman.ch
-loichi-land.ch
 loichot.ch
 loichotsa.ch
 loicjacotguillarmod.ch
@@ -10468,7 +10467,6 @@ lotabit.ch
 lotacloud.ch
 lotalove.ch
 lotanco.ch
-lotantikrestaurant.ch
 lotao.ch
 lotartarosagl.ch
 lotb.ch
@@ -10635,6 +10633,8 @@ lottagebu.ch
 lottagysi.ch
 lottaingoldbuch.ch
 lottaleben.ch
+lottas-hofladen.ch
+lottas-lofladen.ch
 lottaskoerperzeit.ch
 lottasvizzera.ch
 lottasystems.ch
@@ -13378,6 +13378,7 @@ lox-one.ch
 lox-restaurant.ch
 lox-shop.ch
 lox.ch
+loxa.ch
 loxal.ch
 loxalcities.ch
 loxalis.ch
@@ -13455,7 +13456,6 @@ loyal-parking.ch
 loyal-printer.ch
 loyal-scents.ch
 loyal-tails.ch
-loyal.ch
 loyalbot.ch
 loyalc.ch
 loyalcard.ch

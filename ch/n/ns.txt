@@ -57,6 +57,7 @@ ns-hightech.ch
 ns-hostpoint.cngtest01.ch
 ns-hotel.ch
 ns-immobilien.ch
+ns-immobilienexperten.ch
 ns-immotech.ch
 ns-infra.ch
 ns-ing.ch
@@ -2299,6 +2300,7 @@ ns1.kiubic.ch
 ns1.klamath.ch
 ns1.klarsicht-webdesign.ch
 ns1.klassenkasse.ch
+ns1.klausdurrer.ch
 ns1.klpb.ch
 ns1.kmu-datacenter.ch
 ns1.kmu-dns.ch
@@ -5602,6 +5604,7 @@ ns2.kirtz.ch
 ns2.kitgmbh.ch
 ns2.klarsicht-webdesign.ch
 ns2.klassenkasse.ch
+ns2.klausdurrer.ch
 ns2.klpb.ch
 ns2.kmu-datacenter.ch
 ns2.kmu-dns.ch
@@ -8881,6 +8884,7 @@ nsvm.ch
 nsvmt.ch
 nsvolley.ch
 nsvr.ch
+nsvta.ch
 nsvw.ch
 nsvwbach.ch
 nsvz.ch
