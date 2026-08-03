@@ -2719,6 +2719,7 @@ zahnarztkorn.ch
 zahnarztkosten-rechner.ch
 zahnarztkosten-vergleich.ch
 zahnarztkosten.ch
+zahnarztkostenrechner.ch
 zahnarztkreis2.ch
 zahnarztkreis5.ch
 zahnarztkreuzlingen.ch
@@ -3559,6 +3560,7 @@ zahnbehandlung-kosovo.ch
 zahnbehandlung-luzern.ch
 zahnbehandlung-oswald.ch
 zahnbehandlung-solothurn.ch
+zahnbehandlung-tuerkei.ch
 zahnbehandlung-ungarn-budapest.ch
 zahnbehandlung-ungarn-heviz.ch
 zahnbehandlung-ungarn.ch
@@ -3572,6 +3574,7 @@ zahnbehandlungen-ungarn.ch
 zahnbehandlungeuropa.ch
 zahnbehandlungkosovo.ch
 zahnbehandlungsberatung.ch
+zahnbehandlungskosten.ch
 zahnbehandlungungarn.ch
 zahnbelag.ch
 zahnberatung-implantat.ch
@@ -3587,7 +3590,6 @@ zahnblitz.ch
 zahnboutique-zuerich.ch
 zahnboutique.ch
 zahnbox.ch
-zahnbox50-check.ch
 zahnbox50.ch
 zahnbrecher.ch
 zahnbruecke.ch
@@ -3709,10 +3711,13 @@ zahnersatz-kosten.ch
 zahnersatz-preisvergleich.ch
 zahnersatz-rechner.ch
 zahnersatz-schweiz.ch
+zahnersatz-tuerkei.ch
 zahnersatz-ungarn.ch
 zahnersatz-zuerich.ch
 zahnersatz.ch
 zahnersatzinbudapest.ch
+zahnersatzkosten.ch
+zahnersatzkostenrechner.ch
 zahnersatzofferte.ch
 zahnersatzpreisvergleich.ch
 zahnersatzschweiz.ch
@@ -3856,12 +3861,14 @@ zahnimplantate-schweiz.ch
 zahnimplantate-sg.ch
 zahnimplantate-stgallen.ch
 zahnimplantate-thurgau.ch
+zahnimplantate-tuerkei.ch
 zahnimplantate-ungarn.ch
 zahnimplantate-zahnarzt.ch
 zahnimplantate-zuerich-oerlikon.ch
 zahnimplantate-zuerich.ch
 zahnimplantate-zug.ch
 zahnimplantate.ch
+zahnimplantatekosten.ch
 zahnimplantatexperten.ch
 zahnimplantatezuerich.ch
 zahnimplantatinfo.ch
@@ -3966,6 +3973,8 @@ zahnkorrekturchur.ch
 zahnkorrekturen.ch
 zahnkorrekturpraxis.ch
 zahnkosmetik.ch
+zahnkosten.ch
+zahnkostenrechner.ch
 zahnkraft.ch
 zahnkrankheiten.ch
 zahnkredit.ch
@@ -4305,9 +4314,12 @@ zahnriemenscheiben.ch
 zahnriemenservice.ch
 zahns.ch
 zahnsanierung-bern.ch
+zahnsanierung-tuerkei.ch
 zahnsanierung-ungarn.ch
 zahnsanierung.ch
 zahnsanierungen.ch
+zahnsanierungskosten.ch
+zahnsanierungtuerkei.ch
 zahnsation.ch
 zahnschiene.ch
 zahnschiene24.ch
@@ -4553,6 +4565,7 @@ zahnteufel.ch
 zahntherapie.ch
 zahntierarzt.ch
 zahntour.ch
+zahntourismus.ch
 zahntours24.ch
 zahntrauma.ch
 zahntv.ch
@@ -4606,6 +4619,7 @@ zahnwerkstattkeller.ch
 zahnwerkvogel.ch
 zahnwiki.ch
 zahnwin.ch
+zahnwissen.ch
 zahnwohl.ch
 zahnwww.ch
 zahny.ch

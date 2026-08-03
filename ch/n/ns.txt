@@ -72,7 +72,6 @@ ns-lavanderia.ch
 ns-logistic.ch
 ns-maler-reinigung.ch
 ns-media.ch
-ns-network.ch
 ns-orion.orbstheorem.ch
 ns-primary.confirm.ch
 ns-property.ch
@@ -3111,6 +3110,8 @@ ns1.reci.ch
 ns1.redcow.ch
 ns1.redia.ch
 ns1.redsprite-dev.ch
+ns1.redsprite-int.ch
+ns1.redsprite.ch
 ns1.redsun.ch
 ns1.reefs.ch
 ns1.refmat.ch
@@ -6366,6 +6367,8 @@ ns2.reci.ch
 ns2.redcow.ch
 ns2.redia.ch
 ns2.redsprite-dev.ch
+ns2.redsprite-int.ch
+ns2.redsprite.ch
 ns2.reefs.ch
 ns2.refreshbyeli.ch
 ns2.regioit.ch
@@ -8043,6 +8046,7 @@ ns3.ziegelei-schumacher.ch
 ns3.zug94.ch
 ns3.zugnet.ch
 ns3.zwiebelring.ch
+ns30.ch
 ns30.inaya.ch
 ns30.kbsd.ch
 ns30.martinoni.ch
