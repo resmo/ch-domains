@@ -1192,6 +1192,7 @@ cabinetdesbastions.ch
 cabinetdescimes.ch
 cabinetdescomtes.ch
 cabinetdesetangs.ch
+cabinetdesfleurs.ch
 cabinetdeshalles.ch
 cabinetdeshirondelles.ch
 cabinetdesormeaux.ch
@@ -1491,6 +1492,7 @@ cabinf.ch
 cabininthewoods.ch
 cabinium.ch
 cabinleague.ch
+cabino.ch
 cabinotiers.ch
 cabinplanner.ch
 cabinready.ch
@@ -3360,7 +3362,6 @@ cafe-restaurant-orchidee.ch
 cafe-restaurant-ourson.ch
 cafe-restaurant-poste.ch
 cafe-restaurant-promenade.ch
-cafe-restaurant-safran.ch
 cafe-restaurant-sangria.ch
 cafe-restaurant-siesta.ch
 cafe-restaurant-stop.ch
@@ -4171,7 +4172,6 @@ cafesuisse.ch
 cafesuissekillwangen.ch
 cafesupra.ch
 cafesurprise.ch
-cafeswiss.ch
 cafet-fr.ch
 cafet-reverie.ch
 cafetacuba.ch
@@ -5912,8 +5912,6 @@ calendar24.ch
 calendar4u.ch
 calendar4you.ch
 calendara.ch
-calendaranddate.ch
-calendarandtime.ch
 calendarapp.ch
 calendarbooker.ch
 calendarfactory.ch
@@ -6041,6 +6039,7 @@ calhoun.ch
 calhub.ch
 calhydra.ch
 cali-blueten.ch
+cali-diaries.ch
 cali-equilibre.ch
 cali-filters.ch
 cali-gestion.ch
@@ -7845,6 +7844,7 @@ camelc.ch
 camelcase.ch
 camelcloud.ch
 camelea.ch
+camelec.ch
 camelentransporte.ch
 cameleo.ch
 cameleon-danse.ch
@@ -11647,6 +11647,7 @@ candelita.ch
 candella.ch
 candello.ch
 candeloria.ch
+candelunica.ch
 candelux-notleuchten.ch
 candelux.ch
 candeo.ch
@@ -12140,6 +12141,7 @@ cangrejo.ch
 cangrillhaus-bern.ch
 cangrillhaus.ch
 cangu-surf-camp.ch
+canguro-svizzera.ch
 canguromedia.ch
 canguru.ch
 canhealth.ch
@@ -13027,7 +13029,6 @@ cannavital.ch
 cannaviva.ch
 cannavo.ch
 cannaward.ch
-cannaware.ch
 cannaway.ch
 cannawayhanfoel.ch
 cannawayz.ch
@@ -13373,6 +13374,7 @@ cantars-aarau.ch
 cantars.ch
 cantart-lumnezia.ch
 cantarte.ch
+cantarutti.ch
 cantas.ch
 cantasarl.ch
 cantasense.ch
@@ -15286,6 +15288,7 @@ cappweb.ch
 cappy.ch
 capqon.ch
 capqua.ch
+capra-automation.ch
 capra-cafe.ch
 capra-camper.ch
 capra-communication.ch
@@ -15579,6 +15582,7 @@ caps-studio.ch
 caps-switzerland.ch
 caps-trading.ch
 caps.ch
+caps4clubs.ch
 capsa-presatations.ch
 capsa.ch
 capsabella.ch
@@ -15606,6 +15610,8 @@ capsecurite.ch
 capsero.ch
 capserrurerie.ch
 capserrureriesarl.ch
+capsforclubs.ch
+capsfuerclubs.ch
 capship.ch
 capsholding.ch
 capshome.ch
@@ -15657,6 +15663,7 @@ capstonecapital.ch
 capstonefinance.ch
 capstonegroup3.ch
 capstonelaw.ch
+capstonesolutions.ch
 capstore.ch
 capstory.ch
 capstudio.ch
@@ -16027,6 +16034,7 @@ capucinematti.ch
 capucinesetromarin.ch
 capucins.ch
 capuensli.ch
+capuetjo.ch
 capufitstrong.ch
 capulet.ch
 capuli.ch
@@ -17743,6 +17751,7 @@ carcostcontrol.ch
 carcouture.ch
 carcover.ch
 carcovering.ch
+carcraft.ch
 carcrash.ch
 carcrash24.ch
 carcredit.ch
@@ -18010,6 +18019,7 @@ cardinal-system.ch
 cardinal.ch
 cardinale-baumanagement.ch
 cardinale-consulting.ch
+cardinale-hub.ch
 cardinale-peinture.ch
 cardinale.ch
 cardinaleve.ch
@@ -23234,6 +23244,7 @@ carrefourdessaveurs.ch
 carrefourduvillage.ch
 carrefourstv.ch
 carregional.ch
+carregislingassocies.ch
 carrehorloger.ch
 carreira.ch
 carreise-markt.ch
@@ -24211,7 +24222,6 @@ carrosseriedescimes.ch
 carrosseriedesetoiles.ch
 carrosseriedesnations.ch
 carrosseriedesparcs.ch
-carrosseriedestunnels.ch
 carrosseriedevalbroye.ch
 carrosseriedevallaire.ch
 carrosseriedevalmont.ch
@@ -25839,6 +25849,7 @@ carvix.ch
 carvo.ch
 carvoiceai.ch
 carvokat.ch
+carvolut.ch
 carvolution.ch
 carvomin.ch
 carvon.ch
@@ -26525,6 +26536,7 @@ casa-immobilienmanagement.ch
 casa-immobilienverwaltung.ch
 casa-immobilier.ch
 casa-in.ch
+casa-infante.ch
 casa-infinity.ch
 casa-invest.ch
 casa-irene.ch
@@ -27639,6 +27651,7 @@ casaimmo.ch
 casaimmobilien.ch
 casaimmobilien24.ch
 casainbioedilizia.ch
+casainfante.ch
 casainitalia.ch
 casainkbeauty.ch
 casainpiazza.ch
@@ -29304,6 +29317,7 @@ casheria.ch
 casherut.ch
 cashesegra.ch
 cashew.ch
+cashewbliss.ch
 cashewkerne.ch
 cashews.ch
 cashexpres.ch
@@ -30567,6 +30581,7 @@ casinosnews.ch
 casinosoft.ch
 casinosol.ch
 casinosolothurn.ch
+casinosonline.ch
 casinosonlinebasel.ch
 casinosonlineschweiz.ch
 casinosonlinesuisse.ch
@@ -32849,7 +32864,6 @@ cathings.ch
 cathiperriard.ch
 cathjack.ch
 cathkathcatt.ch
-cathkidston.ch
 cathleenbraun.ch
 cathlight.ch
 cathnikolajsen.ch
@@ -33300,7 +33314,6 @@ cattena.ch
 catterall.ch
 catterini-dentaltech.ch
 cattery-munotgloeggli.ch
-cattery-von-den-goldpfoten.ch
 cattery-von-den-zuckermaeusen.ch
 cattery-vonblumenberg.ch
 cattery-vonmablon.ch
@@ -33509,6 +33522,7 @@ causehuman.ch
 causelabs.ch
 causeloverules.ch
 causeriesdesequinoxes.ch
+causes.ch
 causesoubliees.ch
 causetax.ch
 causetoujours.ch

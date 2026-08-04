@@ -1426,7 +1426,6 @@ glas-mcr.ch
 glas-meister.ch
 glas-metall-swiss.ch
 glas-metall.ch
-glas-metallbau.ch
 glas-moebel.ch
 glas-mont-ag.ch
 glas-mont.ch
@@ -2219,6 +2218,8 @@ glasschalen.ch
 glasschaumprodukte.ch
 glasscheiben24.ch
 glasschiebedach.ch
+glasschieber.ch
+glasschieber24.ch
 glasschiebetuer.ch
 glasschiebetuere.ch
 glasschiebetueren.ch
@@ -2270,7 +2271,6 @@ glasservice24.ch
 glasservice48.ch
 glasses-online.ch
 glasses.ch
-glasses24.ch
 glassesart.ch
 glassesonline.ch
 glassexperts.ch
@@ -3794,6 +3794,7 @@ gliderpilot.ch
 gliders.ch
 glidershop.ch
 gliderst.ch
+glideway.ch
 glidewelldental.ch
 gliding.ch
 glidingbasel.ch
@@ -4479,7 +4480,6 @@ global-swiss-zuerich.ch
 global-swiss.ch
 global-swisscom.ch
 global-switch.ch
-global-synergetisch.ch
 global-system.ch
 global-systems.ch
 global-t.ch
@@ -4520,6 +4520,7 @@ global.ch
 global17.ch
 global2.ch
 global2000.ch
+global3.ch
 global365.ch
 global366.ch
 global4engineering.ch
@@ -6624,7 +6625,6 @@ glowcore.ch
 glowcosmeticnatalie.ch
 glowcreations.ch
 glowdavos.ch
-glowdenage.ch
 glowdent.ch
 glowdesk.ch
 glowdock.ch
@@ -6826,11 +6826,11 @@ glowworm.ch
 glowy-chur.ch
 glowy-skin.ch
 glowy-tattooentfernung.ch
-glowy.ch
 glowyn.ch
 glowyskin.ch
 glowzen.ch
 glowzi.ch
+glowzidiettea.ch
 glowzone.ch
 glox.ch
 gloxurycosmetics.ch
@@ -6920,6 +6920,7 @@ glpuri-wahlen.ch
 glr.ch
 glrconsulting.ch
 glrecords.ch
+glreinigung.ch
 glrenovation.ch
 glri.ch
 glrs.ch

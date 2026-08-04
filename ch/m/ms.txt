@@ -1071,6 +1071,7 @@ msg-bootsvermietung.ch
 msg-easytax.ch
 msg-feedback.ch
 msg-for-banking.ch
+msg-gastro.ch
 msg-gillardon-bsm.ch
 msg-gillardon.ch
 msg-global-solutions.ch
@@ -1159,7 +1160,6 @@ msgvending.ch
 msgwassersport.ch
 msgym.ch
 msh-advisory.ch
-msh-ag.ch
 msh-bueren.ch
 msh-extranet.ch
 msh-heizung.ch

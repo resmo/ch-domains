@@ -269,7 +269,6 @@ gwg-anwalt.ch
 gwg-app.ch
 gwg-assistent.ch
 gwg-audit.ch
-gwg-berater.ch
 gwg-beratung.ch
 gwg-check.ch
 gwg-cockpit.ch
@@ -301,7 +300,6 @@ gwg.ch
 gwganwalt.ch
 gwgapp.ch
 gwgassistent.ch
-gwgberater.ch
 gwgcheck.ch
 gwgcockpit.ch
 gwgcompliance.ch
