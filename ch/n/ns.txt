@@ -586,7 +586,6 @@ ns01.ploing.ch
 ns01.pst-smartcity.ch
 ns01.pyle.ch
 ns01.rifit.ch
-ns01.roha.ch
 ns01.sbs.ch
 ns01.schulen-huenenberg.ch
 ns01.sednait.ch
@@ -646,7 +645,6 @@ ns02.ploing.ch
 ns02.pst-smartcity.ch
 ns02.pyle.ch
 ns02.rifit.ch
-ns02.roha.ch
 ns02.sbs.ch
 ns02.sednait.ch
 ns02.server-base.ch
@@ -898,7 +896,6 @@ ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
-ns1.aspservice.ch
 ns1.assetalpin.ch
 ns1.assh.ch
 ns1.assistancepc.ch
@@ -1610,6 +1607,7 @@ ns1.elena-nails.ch
 ns1.elitework.ch
 ns1.eliver.ch
 ns1.ello.ch
+ns1.elposnordwest.ch
 ns1.emailto.ch
 ns1.emation.ch
 ns1.emilfrey.ch
@@ -2791,7 +2789,6 @@ ns1.occschop.ch
 ns1.ochm.ch
 ns1.oeles-webdesign.ch
 ns1.oetiker.ch
-ns1.offcloud.ch
 ns1.offene-hoftueren.ch
 ns1.offertube.ch
 ns1.office-max.ch
@@ -3165,6 +3162,7 @@ ns1.rockethealth-dev.ch
 ns1.rockethealth-int.ch
 ns1.rockethealth.ch
 ns1.roe.ch
+ns1.roha.ch
 ns1.rohn.ch
 ns1.rolandzahnd.ch
 ns1.rolero.ch
@@ -3388,7 +3386,6 @@ ns1.soft-link.ch
 ns1.softcomtrading.ch
 ns1.softds.ch
 ns1.softronics.ch
-ns1.softtechhub.ch
 ns1.software-online.ch
 ns1.softwareschneiderei.ch
 ns1.softxs.ch
@@ -3680,7 +3677,6 @@ ns1.typescript.ch
 ns1.u-s-p.ch
 ns1.uelihost.ch
 ns1.uex.ch
-ns1.ufoclick.ch
 ns1.ugres.ch
 ns1.uhc-consulting.ch
 ns1.uhlenbru.ch
@@ -3796,7 +3792,6 @@ ns1.web4swiss.ch
 ns1.web600.ch
 ns1.webagentur-website4u.ch
 ns1.webauftritt.ch
-ns1.webautomation.ch
 ns1.webbooster.ch
 ns1.webcan.ch
 ns1.webcare.ch
@@ -4250,7 +4245,6 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
-ns2.aspservice.ch
 ns2.assh.ch
 ns2.assistancepc.ch
 ns2.assistances.ch
@@ -4928,6 +4922,7 @@ ns2.elena-nails.ch
 ns2.elitework.ch
 ns2.eliver.ch
 ns2.ello.ch
+ns2.elposnordwest.ch
 ns2.email4.ch
 ns2.emailto.ch
 ns2.emation.ch
@@ -6056,7 +6051,6 @@ ns2.occschop.ch
 ns2.ochm.ch
 ns2.oeles-webdesign.ch
 ns2.oetiker.ch
-ns2.offcloud.ch
 ns2.offene-hoftueren.ch
 ns2.office-max.ch
 ns2.oglasi24.ch
@@ -6413,6 +6407,7 @@ ns2.rockethealth-dev.ch
 ns2.rockethealth-int.ch
 ns2.rockethealth.ch
 ns2.roe.ch
+ns2.roha.ch
 ns2.rohn.ch
 ns2.rolandzahnd.ch
 ns2.rolero.ch
@@ -6638,7 +6633,6 @@ ns2.softcomtrading.ch
 ns2.softds.ch
 ns2.softronics.ch
 ns2.softserve.ch
-ns2.softtechhub.ch
 ns2.software-online.ch
 ns2.softwareschneiderei.ch
 ns2.softxs.ch
@@ -6926,7 +6920,6 @@ ns2.typescript.ch
 ns2.u-blox.ch
 ns2.u-s-p.ch
 ns2.uelihost.ch
-ns2.ufoclick.ch
 ns2.ugres.ch
 ns2.uhc-consulting.ch
 ns2.uhlenbru.ch
@@ -7037,7 +7030,6 @@ ns2.web4swiss.ch
 ns2.web600.ch
 ns2.webagentur-website4u.ch
 ns2.webauftritt.ch
-ns2.webautomation.ch
 ns2.webbooster.ch
 ns2.webcan.ch
 ns2.webcare.ch
