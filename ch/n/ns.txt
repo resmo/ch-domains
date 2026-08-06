@@ -554,6 +554,7 @@ ns01.cardcenter.ch
 ns01.clik.ch
 ns01.dand.ch
 ns01.dnshw.ch
+ns01.dpnl.ch
 ns01.ender-informatics.ch
 ns01.fides.ch
 ns01.fis-he.ch
@@ -618,6 +619,7 @@ ns02.blizzdns.ch
 ns02.cardcenter.ch
 ns02.clik.ch
 ns02.dand.ch
+ns02.dpnl.ch
 ns02.ender-informatics.ch
 ns02.fides.ch
 ns02.fis-he.ch
@@ -3319,6 +3321,7 @@ ns1.sfish.ch
 ns1.sg-edv.ch
 ns1.sg-wanderweg.ch
 ns1.sgone.ch
+ns1.shade-visuals.ch
 ns1.shapery.ch
 ns1.sharebox.ch
 ns1.shareout.ch
@@ -3863,6 +3866,7 @@ ns1.wincorworld.ch
 ns1.winet.ch
 ns1.winfluencers.ch
 ns1.winiker.ch
+ns1.winzer-hosting.ch
 ns1.wir-koennen-alles.ch
 ns1.wireframe.ch
 ns1.wirelessforum.ch
@@ -6563,6 +6567,7 @@ ns2.sfish.ch
 ns2.sg-edv.ch
 ns2.sg-wanderweg.ch
 ns2.sgone.ch
+ns2.shade-visuals.ch
 ns2.shapery.ch
 ns2.sharebox.ch
 ns2.shareout.ch
@@ -7097,6 +7102,7 @@ ns2.wimpernserumbericht.ch
 ns2.winet.ch
 ns2.winfluencers.ch
 ns2.winiker.ch
+ns2.winzer-hosting.ch
 ns2.wir-koennen-alles.ch
 ns2.wireframe.ch
 ns2.wirelessforum.ch

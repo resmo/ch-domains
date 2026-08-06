@@ -83,6 +83,8 @@ ki-automation-agentur.ch
 ki-automation-manager.ch
 ki-automation-swiss.ch
 ki-automation.ch
+ki-automationen.ch
+ki-automations.ch
 ki-automatisation.ch
 ki-automatisierung-schweiz.ch
 ki-automatisierung.ch
@@ -136,7 +138,6 @@ ki-boutique.ch
 ki-box.ch
 ki-branchen.ch
 ki-brands.ch
-ki-brief-schreiben.ch
 ki-briefkastenschild.ch
 ki-broker.ch
 ki-buchhaltung-schweiz.ch
@@ -154,7 +155,6 @@ ki-camps.ch
 ki-campus.ch
 ki-career.ch
 ki-carmarket.ch
-ki-center.ch
 ki-ceo.ch
 ki-ch.ch
 ki-challenge.ch
@@ -187,7 +187,6 @@ ki-consulting-zug.ch
 ki-consulting.ch
 ki-consulting24.ch
 ki-consultingagency.ch
-ki-content-generator.ch
 ki-content.ch
 ki-contor.ch
 ki-control.ch
@@ -323,6 +322,7 @@ ki-generator.ch
 ki-generatoren.ch
 ki-generiert.ch
 ki-genie.ch
+ki-gesetz.ch
 ki-gespraechsimulator.ch
 ki-gespraechssimulation.ch
 ki-gespraechssimulator-schweiz.ch
@@ -397,6 +397,7 @@ ki-info.ch
 ki-informatik.ch
 ki-ingenieur24.ch
 ki-ingenieure.ch
+ki-initiative.ch
 ki-inneneinrichtung.ch
 ki-innovation.ch
 ki-innovations.ch
@@ -437,7 +438,6 @@ ki-karriere.ch
 ki-keeper24.ch
 ki-kennzeichnung.ch
 ki-keriki.ch
-ki-keynote-speaker.ch
 ki-keynotespeaker.ch
 ki-ki.ch
 ki-kids.ch
@@ -639,10 +639,8 @@ ki-ohne-diskriminierung.ch
 ki-ombudsstelle.ch
 ki-online-kurs.ch
 ki-online-kurse.ch
-ki-online-marketing.ch
 ki-online.ch
 ki-onlinekurse.ch
-ki-onlinemarketing.ch
 ki-optimieren.ch
 ki-optimierung-schweiz.ch
 ki-optimierung.ch
@@ -673,7 +671,6 @@ ki-pony.ch
 ki-portal-schweiz.ch
 ki-portal.ch
 ki-portraits.ch
-ki-post-generator.ch
 ki-post.ch
 ki-posterdruck.ch
 ki-potential.ch
@@ -736,6 +733,7 @@ ki-rechtsexperten.ch
 ki-recruiting.ch
 ki-redaktor.ch
 ki-redenschreiber.ch
+ki-referendum.ch
 ki-reform.ch
 ki-reformation.ch
 ki-reformator.ch
@@ -830,7 +828,6 @@ ki-skills-lab.ch
 ki-skills.ch
 ki-skipper.ch
 ki-snacks.ch
-ki-social-media.ch
 ki-soft.ch
 ki-software-schweiz.ch
 ki-solarrechner.ch
@@ -850,8 +847,6 @@ ki-sss.ch
 ki-start.ch
 ki-statt-makler.ch
 ki-stellen.ch
-ki-stellenanzeigen.ch
-ki-stellenbeschreibung.ch
 ki-stellenportal.ch
 ki-steuern.ch
 ki-steuernsparen.ch
@@ -2643,6 +2638,7 @@ kidsstyle.ch
 kidssurvivalcamp.ch
 kidsswiss.ch
 kidssystems.ch
+kidstalent.ch
 kidstation.ch
 kidsteam.ch
 kidstechclub.ch
@@ -3580,6 +3576,7 @@ kigaleben.ch
 kigali.ch
 kigallery.ch
 kigame.ch
+kigamo.ch
 kigaplanet.ch
 kigaportal.ch
 kigaprima.ch
@@ -3766,6 +3763,7 @@ kik-cci.ch
 kik-cic.ch
 kik-goldach.ch
 kik-iac.ch
+kik-kreuzlingen.ch
 kik-lager.ch
 kik-sissach.ch
 kik-textilien.ch
@@ -4350,7 +4348,6 @@ kiloboutique.ch
 kiloburner.ch
 kilobyte.ch
 kilobytes.ch
-kilocal.ch
 kilog.ch
 kilogramcasino.ch
 kilogramm.ch
@@ -4573,6 +4570,7 @@ kimbino.ch
 kimbiss.ch
 kimblaess.ch
 kimble.ch
+kimblucas.ch
 kimbo-caffe.ch
 kimbo-schweiz.ch
 kimbo.ch
@@ -5794,6 +5792,7 @@ kinderarztpraxis-seehelden.ch
 kinderarztpraxis-seestern.ch
 kinderarztpraxis-singer.ch
 kinderarztpraxis-sood.ch
+kinderarztpraxis-spatzenhof.ch
 kinderarztpraxis-spiez.ch
 kinderarztpraxis-spreitenbach.ch
 kinderarztpraxis-st-johann.ch
@@ -6348,7 +6347,6 @@ kindergeburi.ch
 kindergeburri.ch
 kindergeburtstag-basel.ch
 kindergeburtstag-baselland.ch
-kindergeburtstag-koeniz.ch
 kindergeburtstag-shop.ch
 kindergeburtstag-zuerich.ch
 kindergeburtstag.ch
@@ -9522,6 +9520,7 @@ kinetic-concept.ch
 kinetic-equity.ch
 kinetic-facades.ch
 kinetic-skills.ch
+kinetic-studio.ch
 kinetic.ch
 kinetica.ch
 kinetical.ch
@@ -14652,6 +14651,7 @@ kitcon.ch
 kitdebutant.ch
 kitdeco.ch
 kitdeko.ch
+kitdg.ch
 kitdistartup.ch
 kite-academy.ch
 kite-addicted.ch
