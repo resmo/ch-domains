@@ -1315,7 +1315,6 @@ eigenmietwert-ade.ch
 eigenmietwert-ja.ch
 eigenmietwert-nein.ch
 eigenmietwert-nicht-abschaffen.ch
-eigenmietwert-rechner.ch
 eigenmietwert.ch
 eigenmietwertnein.ch
 eigenmietwertnichtabschaffen.ch
@@ -3959,6 +3958,7 @@ einschreiben.ch
 einschrittfursklima.ch
 einschrittweiter.ch
 einschulung.ch
+einschulungsshop.ch
 einschweizergarten.ch
 einschweizerung.ch
 einseifen.ch
@@ -5344,7 +5344,6 @@ eiskaltabnehmen.ch
 eiskaltcooling.ch
 eiskaltheizen.ch
 eiskarten-druck.ch
-eiskimo.ch
 eiskir.ch
 eisklettern-schweiz.ch
 eisklettern.ch

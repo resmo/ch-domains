@@ -456,6 +456,7 @@ ns.sz-immo.ch
 ns.team.ch
 ns.team3architekten.ch
 ns.telemedia.ch
+ns.the-grid.ch
 ns.the2ndsky.ch
 ns.ticino-express.ch
 ns.ticino-online.ch
@@ -951,7 +952,6 @@ ns1.baeuerinnenportal.ch
 ns1.bagnoud.ch
 ns1.baillet.ch
 ns1.bailong.ch
-ns1.baldern.ch
 ns1.baldesberger.ch
 ns1.balschun.ch
 ns1.balzer-technik.ch
@@ -1266,6 +1266,7 @@ ns1.codename.ch
 ns1.codingdairyman.ch
 ns1.codiva.ch
 ns1.coiffeuraras.ch
+ns1.coiffure-armida.ch
 ns1.coiffure-derya.ch
 ns1.coiffure-enz.ch
 ns1.coiffure-leewasser.ch
@@ -4606,6 +4607,7 @@ ns2.codename.ch
 ns2.codingdairyman.ch
 ns2.codiva.ch
 ns2.coiffeuraras.ch
+ns2.coiffure-armida.ch
 ns2.coiffure-derya.ch
 ns2.coiffure-enz.ch
 ns2.coiffure-leewasser.ch
@@ -8512,6 +8514,7 @@ nsc-marketing.ch
 nsc-mary.ch
 nsc-natural-spirit-coaching.ch
 nsc-northswisscustoms.ch
+nsc-seahorse.ch
 nsc-sicherheit.ch
 nsc-stgallen.ch
 nsc.brg.ch
