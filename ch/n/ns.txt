@@ -1574,7 +1574,6 @@ ns1.eb-zuerich.ch
 ns1.ecaftan.ch
 ns1.ecaupo.ch
 ns1.ecodev.ch
-ns1.ecofin.ch
 ns1.ecolealaferme.ch
 ns1.ecolize.ch
 ns1.ecomedia.ch
@@ -2566,6 +2565,7 @@ ns1.mhd.ch
 ns1.miaxcom.ch
 ns1.micell.ch
 ns1.michael-handel.ch
+ns1.michaelminelli.ch
 ns1.microdyn.ch
 ns1.microexpert.ch
 ns1.micromusic.ch
@@ -4894,7 +4894,6 @@ ns2.eatorder.ch
 ns2.eb-zuerich.ch
 ns2.ecaftan.ch
 ns2.eclavis.ch
-ns2.ecofin.ch
 ns2.ecolealaferme.ch
 ns2.ecolize.ch
 ns2.ecomp.ch
@@ -5852,6 +5851,7 @@ ns2.mgit.ch
 ns2.mhd.ch
 ns2.miaxcom.ch
 ns2.micell.ch
+ns2.michaelminelli.ch
 ns2.microexpert.ch
 ns2.micromusic.ch
 ns2.microosoft.ch

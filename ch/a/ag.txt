@@ -88,6 +88,7 @@ ag-info.ch
 ag-insurance.ch
 ag-integration.ch
 ag-invest.ch
+ag-investigations.ch
 ag-is.ch
 ag-isol.ch
 ag-it.ch
@@ -852,7 +853,6 @@ agence-communication-bern.ch
 agence-communication-digital.ch
 agence-communication-digitale.ch
 agence-communication-fribourg.ch
-agence-communication-geneve.ch
 agence-communication-jura.ch
 agence-communication-lausanne.ch
 agence-communication-neuchatel.ch
@@ -1168,6 +1168,7 @@ agence2vibes.ch
 agence2web.ch
 agence3.ch
 agence314.ch
+agence333.ch
 agence360.ch
 agence369.ch
 agence3d.ch
@@ -2083,6 +2084,7 @@ agentskills.ch
 agentsmith.ch
 agentsofdilemma.ch
 agentsportif.ch
+agentsprint.ch
 agentstack.ch
 agentstore.ch
 agentstudio.ch
@@ -4428,7 +4430,6 @@ agri-care.ch
 agri-center.ch
 agri-centre.ch
 agri-cerchioni.ch
-agri-check.ch
 agri-cloud.ch
 agri-coco.ch
 agri-cultura.ch
@@ -4546,7 +4547,6 @@ agricell.ch
 agricenter.ch
 agricentrebroye.ch
 agrichain.ch
-agricheck.ch
 agrichema.ch
 agriclimat.ch
 agricloud.ch
@@ -5218,8 +5218,6 @@ agroimpacts.ch
 agroimport.ch
 agroimpuls.ch
 agroinfo.ch
-agroinnova.ch
-agroinnovation.ch
 agroinvest.ch
 agroit.ch
 agrojob.ch

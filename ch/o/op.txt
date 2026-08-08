@@ -289,6 +289,7 @@ opcases.ch
 opcb.ch
 opccf.ch
 opcdoctor.ch
+opcei.ch
 opcenter-aps.ch
 opcenter-planning.ch
 opcenter-scheduling.ch
@@ -1697,7 +1698,6 @@ openremote.ch
 openrent.ch
 openresear.ch
 openretail.ch
-openri.ch
 openride.ch
 openrise-ag.ch
 openrives.ch
