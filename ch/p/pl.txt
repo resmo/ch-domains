@@ -799,6 +799,7 @@ plan-fuchs.ch
 plan-fx.ch
 plan-g.ch
 plan-gerber.ch
+plan-gmbh.ch
 plan-grafik.ch
 plan-h.ch
 plan-haccp.ch
@@ -3697,18 +3698,19 @@ plateformearmes.ch
 plateformeassistance.ch
 plateformecacaoyere.ch
 plateformecitoyenne.ch
-plateformeclimat-brig.ch
+plateformeclimat-canton-geneve.ch
+plateformeclimat-canton-valais.ch
+plateformeclimat-canton-vaud.ch
 plateformeclimat-geneve.ch
 plateformeclimat-lausanne.ch
-plateformeclimat-sion.ch
+plateformeclimat-valais.ch
+plateformeclimat-vaud.ch
 plateformeclimat-vevey.ch
 plateformeclimat.ch
-plateformeclimatbrig.ch
 plateformeclimatdeleconomie.ch
 plateformeclimateconomie.ch
 plateformeclimatgeneve.ch
 plateformeclimatlausanne.ch
-plateformeclimatsion.ch
 plateformeclimatvevey.ch
 plateformeco2.ch
 plateformecoaching.ch
@@ -4640,7 +4642,6 @@ plaudertasche.ch
 plaudertaschen.ch
 plauderzauber.ch
 plaumann.ch
-plaun-schumpeder.ch
 plaun-tschaler.ch
 plaun.ch
 plaundalej.ch
@@ -4845,7 +4846,6 @@ playa-suiza.ch
 playa.ch
 playable.ch
 playables.ch
-playacess.ch
 playactivate.ch
 playad.ch
 playadelcarmen.ch
@@ -7401,7 +7401,6 @@ plugandautomate.ch
 plugandbar.ch
 plugandblog.ch
 plugandcall.ch
-plugandcharge.ch
 plugandgo.ch
 plugandhire.ch
 plugandphone.ch
