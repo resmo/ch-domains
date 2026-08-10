@@ -1091,6 +1091,7 @@ ns1.box.beemail.ch
 ns1.box.fakegmail.ch
 ns1.box.hishams.ch
 ns1.box.michaelhobbs.ch
+ns1.box.pulseapp.ch
 ns1.box.sharedobject.ch
 ns1.box.slowmail.ch
 ns1.box.svenknoblo.ch
@@ -4432,6 +4433,7 @@ ns2.box.beemail.ch
 ns2.box.fakegmail.ch
 ns2.box.hishams.ch
 ns2.box.michaelhobbs.ch
+ns2.box.pulseapp.ch
 ns2.box.sharedobject.ch
 ns2.box.slowmail.ch
 ns2.box.svenknoblo.ch

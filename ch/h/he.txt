@@ -2345,6 +2345,7 @@ heatneat-food.ch
 heatness.ch
 heatneutral.ch
 heatnotburn.ch
+heatoor.ch
 heatopower.ch
 heatoreat.ch
 heatpatch.ch
@@ -2667,6 +2668,7 @@ hebamme-hilterfingen.ch
 hebamme-hin.ch
 hebamme-horgen.ch
 hebamme-hutter.ch
+hebamme-iana.ch
 hebamme-illnau.ch
 hebamme-ilona.ch
 hebamme-inga.ch
@@ -3950,7 +3952,6 @@ hedrin.ch
 hedris.ch
 hedrix-energie.ch
 hedrix.ch
-heds-cs.ch
 heds-fr.ch
 heds-ge.ch
 heds-geneve.ch
@@ -4412,7 +4413,6 @@ hegibach36.ch
 hegibachplatz.ch
 hegibachstrasse1.ch
 hegibau.ch
-hegiberg.ch
 hegicasa.ch
 hegicita.ch
 hegicity.ch
@@ -10562,7 +10562,6 @@ hello-page.ch
 hello-parker.ch
 hello-pizza-hallau.ch
 hello-pizza.ch
-hello-pyk.ch
 hello-qr.ch
 hello-rechts.ch
 hello-rechtsschutz.ch
@@ -11490,7 +11489,6 @@ help-for-women.ch
 help-for-you.ch
 help-fuer-sozialarbeitende.ch
 help-help.ch
-help-hotline.ch
 help-immo.ch
 help-interkulturell.ch
 help-international.ch
@@ -12079,6 +12077,7 @@ helva-personal.ch
 helva-quotes.ch
 helva.ch
 helva24.ch
+helva3d.ch
 helvabox.ch
 helvaconcept.ch
 helvada.ch
@@ -14151,6 +14150,7 @@ helvreg.ch
 helvsafe.ch
 helvsan.ch
 helvsat.ch
+helvsec.ch
 helvstack.ch
 helvtax.ch
 helvtec.ch
@@ -21793,7 +21793,6 @@ hexalog.ch
 hexalpin.ch
 hexalug.ch
 hexamanufacturing.ch
-hexamouv.ch
 hexan.ch
 hexana.ch
 hexandbeauty.ch
