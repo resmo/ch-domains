@@ -71,6 +71,7 @@ ns-lavanderia.ch
 ns-logistic.ch
 ns-maler-reinigung.ch
 ns-media.ch
+ns-network.ch
 ns-orion.orbstheorem.ch
 ns-primary.confirm.ch
 ns-property.ch
@@ -1136,7 +1137,6 @@ ns1.buffs.ch
 ns1.bug.ch
 ns1.buncic.ch
 ns1.bunix.ch
-ns1.business-lync.ch
 ns1.businessbox.ch
 ns1.butinfo.ch
 ns1.bvb.ch
@@ -2112,7 +2112,6 @@ ns1.inetworx.ch
 ns1.inf-brun.ch
 ns1.infinity.ch
 ns1.infinityweb.ch
-ns1.influence-marketing.ch
 ns1.infolibre.ch
 ns1.infomaniak.ch
 ns1.infomanika.ch
@@ -2505,7 +2504,6 @@ ns1.masterhomepage.ch
 ns1.mastnik.ch
 ns1.masuyo.ch
 ns1.mater.ch
-ns1.mathieu-renovation.ch
 ns1.maths-partner.ch
 ns1.matrixserver.ch
 ns1.matrixx.ch
@@ -3680,6 +3678,7 @@ ns1.typescript.ch
 ns1.u-s-p.ch
 ns1.uelihost.ch
 ns1.uex.ch
+ns1.ufoclick.ch
 ns1.ugres.ch
 ns1.uhc-consulting.ch
 ns1.uhlenbru.ch
@@ -3820,6 +3819,7 @@ ns1.webnews.ch
 ns1.weboffice.ch
 ns1.webopolis.ch
 ns1.weboss.ch
+ns1.webpager.ch
 ns1.webplaza.ch
 ns1.webrent.ch
 ns1.webseitenfabrik.ch
@@ -3972,7 +3972,6 @@ ns1.zenis.ch
 ns1.zenvoo.ch
 ns1.zerodemo.ch
 ns1.zerspanungspartner.ch
-ns1.zetadev.ch
 ns1.zh.hostbin.ch
 ns1.zhaw.ch
 ns1.zhbsd.ch
@@ -4477,7 +4476,6 @@ ns2.bug.ch
 ns2.buncic.ch
 ns2.bunix.ch
 ns2.burgers.ch
-ns2.business-lync.ch
 ns2.businessbox.ch
 ns2.butinfo.ch
 ns2.bvb.ch
@@ -5422,7 +5420,6 @@ ns2.inf-brun.ch
 ns2.infinitesolutions.ch
 ns2.infinity.ch
 ns2.infinityweb.ch
-ns2.influence-marketing.ch
 ns2.infolibre.ch
 ns2.infomaniak.ch
 ns2.infomanika.ch
@@ -5796,7 +5793,6 @@ ns2.masterhomepage.ch
 ns2.mastnik.ch
 ns2.masuyo.ch
 ns2.mater.ch
-ns2.mathieu-renovation.ch
 ns2.maths-partner.ch
 ns2.matrixserver.ch
 ns2.matrixx.ch
@@ -6926,6 +6922,7 @@ ns2.typescript.ch
 ns2.u-blox.ch
 ns2.u-s-p.ch
 ns2.uelihost.ch
+ns2.ufoclick.ch
 ns2.ugres.ch
 ns2.uhc-consulting.ch
 ns2.uhlenbru.ch
@@ -7059,6 +7056,7 @@ ns2.webmoreplus.ch
 ns2.webnews.ch
 ns2.weboffice.ch
 ns2.webopolis.ch
+ns2.webpager.ch
 ns2.webplaza.ch
 ns2.webrent.ch
 ns2.webseitenfabrik.ch
@@ -7203,7 +7201,6 @@ ns2.zen-rollers.ch
 ns2.zenis.ch
 ns2.zenvoo.ch
 ns2.zerspanungspartner.ch
-ns2.zetadev.ch
 ns2.zh.hostbin.ch
 ns2.zhaw.ch
 ns2.zhdk.ch
@@ -8746,7 +8743,6 @@ nso.ch
 nsoe.ch
 nsof.ch
 nsoft.ch
-nsolo.ch
 nsomediacorp.ch
 nson.ch
 nsoservice.ch
@@ -8887,10 +8883,12 @@ nsvta.ch
 nsvw.ch
 nsvwbach.ch
 nsvz.ch
+nsw-consulting.ch
 nsw-e.ch
 nsw-rse.ch
 nsw.ch
 nswas.ch
+nswconsulting.ch
 nswe.ch
 nsweb.ch
 nswinti.chromaflex.ch
