@@ -147,7 +147,9 @@ a-c-d.ch
 a-c-e.ch
 a-c-l.ch
 a-c-m.ch
+a-c-s-z.ch
 a-c-s.ch
+a-c-sz.ch
 a-c-t.ch
 a-c-w.ch
 a-c.ch
@@ -1282,6 +1284,7 @@ a-zbauservice.ch
 a-zcarrosserie.ch
 a-zconsulting.ch
 a-zdienstleistungen.ch
+a-zeder.ch
 a-zedv.ch
 a-zeiger.ch
 a-zervices.ch

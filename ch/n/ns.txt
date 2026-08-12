@@ -2275,7 +2275,6 @@ ns1.kentmueller.ch
 ns1.keramax.ch
 ns1.kernelpanic.ch
 ns1.key4you.ch
-ns1.keystone-sda.ch
 ns1.keytransparency.ch
 ns1.kf-hosting.ch
 ns1.khi.ch
@@ -2756,7 +2755,6 @@ ns1.notfy.ch
 ns1.novamanaged.ch
 ns1.novaweb.ch
 ns1.novicomag.ch
-ns1.nox-club.ch
 ns1.nr1.ch
 ns1.ns-hamilton.ch
 ns1.ns-weeber.ch
@@ -3777,6 +3775,7 @@ ns1.watcheo.ch
 ns1.wayray.ch
 ns1.wbportal.ch
 ns1.wbz.ch
+ns1.wdbhost.ch
 ns1.wdf.ch
 ns1.web-comm.ch
 ns1.web-context.ch
@@ -3883,6 +3882,7 @@ ns1.wnd.ch
 ns1.wng.ch
 ns1.wolfnet.ch
 ns1.woohosting.ch
+ns1.woolks.ch
 ns1.wordpresszuerich.ch
 ns1.work2go.ch
 ns1.work4bandwidth.ch
@@ -3985,7 +3985,6 @@ ns1.zipdns.ch
 ns1.zmo.ch
 ns1.zsit.ch
 ns1.zug94.ch
-ns1.zugnet.ch
 ns1.zumweb.ch
 ns1.zuppi.ch
 ns1.zweibit.ch
@@ -4051,6 +4050,7 @@ ns17.ch
 ns1848.patriot.ch
 ns1848.patriota.ch
 ns1902.mspa.ch
+ns1x.layer9.ch
 ns2-ext.unibas.ch
 ns2.0091.ch
 ns2.0304.ch
@@ -5579,7 +5579,6 @@ ns2.kentmueller.ch
 ns2.keramax.ch
 ns2.kernelpanic.ch
 ns2.key4you.ch
-ns2.keystone-sda.ch
 ns2.keytransparency.ch
 ns2.kf-hosting.ch
 ns2.kh.livsmart.ch
@@ -6022,7 +6021,6 @@ ns2.novahosting.ch
 ns2.novamanaged.ch
 ns2.novaweb.ch
 ns2.novicomag.ch
-ns2.nox-club.ch
 ns2.nr1.ch
 ns2.ns-weeber.ch
 ns2.ns4you.ch
@@ -7016,6 +7014,7 @@ ns2.wasabi2go.ch
 ns2.watcheo.ch
 ns2.wbportal.ch
 ns2.wbz.ch
+ns2.wdbhost.ch
 ns2.wdf.ch
 ns2.web-comm.ch
 ns2.web-context.ch
@@ -7116,6 +7115,7 @@ ns2.wnd.ch
 ns2.wng.ch
 ns2.wolfnet.ch
 ns2.woohosting.ch
+ns2.woolks.ch
 ns2.wordpresszuerich.ch
 ns2.work2go.ch
 ns2.workingflow.ch
@@ -7215,7 +7215,6 @@ ns2.zmo.ch
 ns2.zsit.ch
 ns2.ztonline.ch
 ns2.zug94.ch
-ns2.zugnet.ch
 ns2.zumweb.ch
 ns2.zuppi.ch
 ns2.zweibit.ch
@@ -7241,6 +7240,7 @@ ns24.ch
 ns2501.mspa.ch
 ns2itsieber.ch
 ns2x.hoststar.ch
+ns2x.layer9.ch
 ns3.036.ch
 ns3.0x3.ch
 ns3.1ahostingpro.ch
@@ -8034,7 +8034,6 @@ ns3.zh.hostbin.ch
 ns3.zhost.ch
 ns3.ziegelei-schumacher.ch
 ns3.zug94.ch
-ns3.zugnet.ch
 ns3.zwiebelring.ch
 ns30.ch
 ns30.inaya.ch
@@ -8042,6 +8041,7 @@ ns30.kbsd.ch
 ns30.martinoni.ch
 ns31.maxschaer.ch
 ns31.mentras.ch
+ns3x.layer9.ch
 ns4-extern.css.ch
 ns4.036.ch
 ns4.0x3.ch
@@ -8314,7 +8314,6 @@ ns4.xpx.ch
 ns4.your-web.ch
 ns4.zeedivision.ch
 ns4.zhost.ch
-ns4.zugnet.ch
 ns4.zwiebelring.ch
 ns40.kbsd.ch
 ns41.thelin.ch
