@@ -2092,7 +2092,6 @@ lockereleine.ch
 lockerflockig.ch
 lockergetraut.ch
 lockeria.ch
-lockerlies.ch
 lockerpoint.ch
 lockerroom.ch
 lockers.ch
@@ -2211,6 +2210,7 @@ loco-labs.ch
 loco-loca.ch
 loco-masken.ch
 loco-mexico.ch
+loco-motion.ch
 loco-motive.ch
 loco-pop.ch
 loco-s.ch
@@ -3243,6 +3243,7 @@ loewenscheune.ch
 loewenschule.ch
 loewensiam-massage.ch
 loewensirnach.ch
+loewensite.ch
 loewensport.ch
 loewenstadt.ch
 loewenstark-deine-proteinpause.ch
@@ -3826,6 +3827,7 @@ loggewiggler.ch
 loggia-veritas.ch
 loggia.ch
 loggia16.ch
+loggiaprivate.ch
 loggik.ch
 logging.ch
 loggingpool.ch
@@ -4467,7 +4469,6 @@ logistik-simulation.ch
 logistik-system.ch
 logistik-systeme.ch
 logistik-tag.ch
-logistik-talente.ch
 logistik-team.ch
 logistik-toolbox.ch
 logistik-transport.ch
@@ -5244,7 +5245,6 @@ logotime.ch
 logotip.ch
 logoto.ch
 logotogo.ch
-logotopos.ch
 logotrad.ch
 logotreffpunkt.ch
 logotron.ch
@@ -5640,6 +5640,7 @@ lohnteilen.ch
 lohntendenzen.ch
 lohntessich.ch
 lohntool.ch
+lohntrainer.ch
 lohntransparenz.ch
 lohntrend.ch
 lohntreuhand.ch
@@ -9899,6 +9900,10 @@ lorver.ch
 lorvert-distribution.ch
 lorvert.ch
 lorvest.ch
+lorvex.ch
+lorvexconnect.ch
+lorvexrail.ch
+lorvexrailconnect.ch
 lorvian.ch
 lorviqua.ch
 lorxo.ch
@@ -13241,9 +13246,11 @@ lowculture.ch
 lowdoseeisen.ch
 lowdown.ch
 lowe-kapitberg.ch
+lowe-kapitbergai.ch
 lowe.ch
 loweb.ch
 lowekapitberg.ch
+lowekapitbergai.ch
 lowell.ch
 lowellgroup.ch
 lowemissionevents.ch

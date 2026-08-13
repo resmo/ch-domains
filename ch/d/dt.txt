@@ -387,6 +387,7 @@ dts-ld.ch
 dts-lighting.ch
 dts-performence.ch
 dts-shop.ch
+dts-support.ch
 dts-switzerland.ch
 dts.ch
 dts24.ch

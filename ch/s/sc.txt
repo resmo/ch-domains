@@ -2283,8 +2283,6 @@ sch0.ch
 sch0ll.ch
 sch0tt.ch
 sch1.ch
-sch1rm.ch
-sch1rme.ch
 sch8ler.ch
 scha.ch
 schaab.ch
@@ -4614,6 +4612,7 @@ scharf-eck.ch
 scharf-macher.ch
 scharf.ch
 scharfaufkarriere.ch
+scharfbock.ch
 scharfclean.ch
 scharfdenkerverlag.ch
 scharfdruf.ch
@@ -6355,6 +6354,7 @@ schengenvisainfo.ch
 schengenvisainsurance.ch
 schengenvisum.ch
 schengler.ch
+schenini-sa.ch
 schenini.ch
 scheninisa.ch
 schenk-advantage.ch
@@ -6564,7 +6564,6 @@ schenkeurope.ch
 schenkfamily-wine.ch
 schenkfamily.ch
 schenkfamilywine.ch
-schenkfreude.ch
 schenkgartenbau.ch
 schenkgenuss.ch
 schenkhaus.ch
@@ -7398,6 +7397,7 @@ schicksale.ch
 schicksalogie.ch
 schicksalsanalyse.ch
 schicksalscoach.ch
+schicksalsschlag.ch
 schicksalswandlerin.ch
 schicksalszahl.ch
 schickschnack.ch
@@ -7706,7 +7706,6 @@ schiesssportzentrum.ch
 schiessstand.ch
 schiessstandschweiz.ch
 schiesstage.ch
-schiesstand.ch
 schiesstisch.ch
 schiesstrainer.ch
 schiesstraining.ch
@@ -13008,6 +13007,7 @@ schmelzkaese.ch
 schmelzkammer.ch
 schmelzmetal.ch
 schmelzmetall.ch
+schmelzmoment.ch
 schmelzpastille.ch
 schmelzpunkt.ch
 schmelzra.ch
@@ -13786,6 +13786,7 @@ schmidbewegt.ch
 schmidbikeparts.ch
 schmidbilder.ch
 schmidbilleter.ch
+schmidboutique.ch
 schmidbritschgi.ch
 schmidbusiness.ch
 schmidcar.ch
@@ -16583,7 +16584,6 @@ schneiderinformatik.ch
 schneideringenieure.ch
 schneiderinnen.ch
 schneiderinnenausbau.ch
-schneiderinstitut.ch
 schneiderista.ch
 schneideritextilreinigung.ch
 schneiderkanal.ch
@@ -19036,7 +19036,6 @@ schoggifondue.ch
 schoggiformen.ch
 schoggifrucht.ch
 schoggifruits.ch
-schoggigeschenk.ch
 schoggigipfel.ch
 schoggignuss.ch
 schoggigraphie.ch
@@ -19196,7 +19195,6 @@ schokolademachtgluecklich.ch
 schokoladen-elvis.ch
 schokoladen-fabrik.ch
 schokoladen-fleischerei-werkstatt.ch
-schokoladen-geschenk.ch
 schokoladen-geschenke.ch
 schokoladen-hauptstadt.ch
 schokoladen-kaviar.ch
@@ -20606,6 +20604,7 @@ schreibimpulse.ch
 schreibis.ch
 schreibjahr.ch
 schreibjournal.ch
+schreibkanzlei.ch
 schreibkarten.ch
 schreibkindplus.ch
 schreibklara.ch
@@ -20653,7 +20652,6 @@ schreibnest.ch
 schreibnetz.ch
 schreibnomadin.ch
 schreiboffice.ch
-schreibox.ch
 schreibpapier.ch
 schreibpfade.ch
 schreibplanet.ch
@@ -22523,7 +22521,6 @@ schubarth.ch
 schubbi.ch
 schubboden.ch
 schube8953.ch
-schubees.ch
 schubel.ch
 schubeldorfli.ch
 schubeler.ch
@@ -26242,6 +26239,7 @@ schulrat.ch
 schulratgeber.ch
 schulrating.ch
 schulraum-buelach.ch
+schulraum-burgdorf.ch
 schulraum-fluntern.ch
 schulraum-garten.ch
 schulraum-jetzt.ch
@@ -27158,6 +27156,7 @@ schutz-und-desinfektion.ch
 schutz-und-rettung.ch
 schutz-und-rettungshunde.ch
 schutz-von-wildtieren.ch
+schutz-vor-behoerdenwillkuer.ch
 schutz-vor-der-grippe.ch
 schutz-vor-elektrosmog.ch
 schutz-vor-esmog.ch
@@ -27437,7 +27436,6 @@ schv.ch
 schvt.ch
 schw-stv.ch
 schw.ch
-schw11z.ch
 schw31z.ch
 schw4a.ch
 schw4lm.ch
@@ -28630,7 +28628,6 @@ schwatzspycher.ch
 schwaubelinaescht.ch
 schwb.ch
 schwdrtr.ch
-schwe1z.ch
 schwe1zer.ch
 schwear.ch
 schwebealgen.ch
@@ -29400,6 +29397,7 @@ schweiz-torentriebe.ch
 schweiz-tostini.ch
 schweiz-tourismus.ch
 schweiz-trainiert.ch
+schweiz-transparenz.ch
 schweiz-transport.ch
 schweiz-transporte.ch
 schweiz-traumferien.ch
@@ -29881,6 +29879,7 @@ schweizer-expertentag.ch
 schweizer-export.ch
 schweizer-fachdental.ch
 schweizer-fachschule-fuer-tierkommunikation.ch
+schweizer-fachstelle-reputationsschutz.ch
 schweizer-fachzeitschriften.ch
 schweizer-fahnen.ch
 schweizer-fahrschulen.ch
@@ -30380,6 +30379,7 @@ schweizer-optiker.ch
 schweizer-organisationsentwickler.ch
 schweizer-organisationsentwicklung.ch
 schweizer-osteopathen.ch
+schweizer-osteoporosezentrum.ch
 schweizer-osthilfe.ch
 schweizer-paeckli.ch
 schweizer-paerke.ch
@@ -31142,6 +31142,7 @@ schweizerexperten.ch
 schweizerexport.ch
 schweizerfachmedien.ch
 schweizerfachschulefuertierkommunikation.ch
+schweizerfachstellereputationsschutz.ch
 schweizerfahne.ch
 schweizerfahnen-hersteller.ch
 schweizerfahnen.ch
@@ -31882,6 +31883,7 @@ schweizeronlineschule.ch
 schweizeronlineshops.ch
 schweizeroptiker.ch
 schweizerorganisationsentwicklung.ch
+schweizerosteoporosezentrum.ch
 schweizerosthilfe.ch
 schweizerotik.ch
 schweizerp.ch
@@ -34971,6 +34973,7 @@ scin.ch
 scinautico.ch
 scindarella.ch
 scindians.ch
+scindra.ch
 scinet.ch
 scinex.ch
 scinext.ch
@@ -36057,6 +36060,7 @@ scotchwhisky.ch
 scotchwhiskylounge.ch
 scothis.ch
 scotiabank.ch
+scotialodge89.ch
 scotis.ch
 scotland-yard.ch
 scotland.ch
@@ -36279,6 +36283,7 @@ scouten.ch
 scouter.ch
 scoutera.ch
 scouters.ch
+scoutetudes.ch
 scoutexperience.ch
 scoutexport.ch
 scoutfaido.ch
@@ -36972,6 +36977,7 @@ scriptdesign.ch
 scripte.ch
 scripter.ch
 scriptexchange.ch
+scriptfabrik.ch
 scriptgod.ch
 scripthouse.ch
 scripticon.ch
@@ -37829,6 +37835,7 @@ scuole-specializzate-superiori.ch
 scuole-sss.ch
 scuole-svizzere.ch
 scuole-valmara.ch
+scuole.ch
 scuoleagno.ch
 scuolebalerna.ch
 scuolebregaglia.ch

@@ -4692,8 +4692,6 @@ badet.ch
 badeteich.ch
 badeteiche.ch
 badetemperatur.ch
-badeticket.ch
-badetickets.ch
 badetopf.ch
 badetraum.ch
 badetsenez.ch
@@ -5558,6 +5556,7 @@ badwater.ch
 badweid.ch
 badwelt.ch
 badwelten.ch
+badwerk.ch
 badwerke.ch
 badwerkstatt.ch
 badwin.ch
@@ -8080,6 +8079,7 @@ bahigocasino.ch
 bahigocasinoch.ch
 bahigocasinoo.ch
 bahigocasinos.ch
+bahigoch.ch
 bahigoclub.ch
 bahigoe.ch
 bahigolivewetten.ch
@@ -10444,6 +10444,7 @@ balearis-immobilien.ch
 balec.ch
 baleco.ch
 balecommerce.ch
+baleculinaire.ch
 baledang.ch
 balederma.ch
 baleenfrancais.ch
@@ -10799,6 +10800,7 @@ balkanflow.ch
 balkanfolk.ch
 balkanfolkart.ch
 balkanfood.ch
+balkanfoodfestival.ch
 balkanfoods.ch
 balkangate.ch
 balkangrill.ch
@@ -13230,6 +13232,7 @@ bamshirt.ch
 bamsoft.ch
 bamsolutions.ch
 bamsport.ch
+bamstrading.ch
 bamstudio.ch
 bamt.ch
 bamtec.ch
@@ -13551,7 +13554,6 @@ bancobet.ch
 bancobig.ch
 bancobpm.ch
 bancocajasocial.ch
-bancocondiviso.ch
 bancodeoro-clientupdate.ch
 bancodilugano.ch
 bancojass.ch
@@ -14059,7 +14061,6 @@ bangkok-nation-spa.ch
 bangkok-paradise.ch
 bangkok-thai-massage.ch
 bangkok.ch
-bangkokhospital.ch
 bangkokmassage.ch
 bangkoknation-spa.ch
 bangkokstreetfood.ch
@@ -14400,6 +14401,12 @@ bankendigital.ch
 bankengesetz.ch
 bankengespraech.ch
 bankengespraeche.ch
+bankengewinn-initiative-ja.ch
+bankengewinn-initiative-nein.ch
+bankengewinn-initiative.ch
+bankengewinn-ja.ch
+bankengewinn-nein.ch
+bankengewinn.ch
 bankengine.ch
 bankeninitiative.ch
 bankeninschweiz.ch
@@ -15499,6 +15506,7 @@ bar-aarau.ch
 bar-acca.ch
 bar-adox.ch
 bar-alpenstadt.ch
+bar-am-berg.ch
 bar-am-wasser.ch
 bar-amalfi.ch
 bar-andorra.ch
@@ -15827,11 +15835,13 @@ baralb.ch
 baralde-et-soelie.ch
 baraldi.ch
 baraldini.ch
+barales.ch
 baralija.ch
 baraliu.ch
 baralyse.ch
 baramadeus.ch
 baramalfi.ch
+baramberg.ch
 baramee.ch
 baramegge.ch
 baramir.ch
@@ -20008,7 +20018,6 @@ basedonatruestory.ch
 basedow.ch
 basedresear.ch
 basedup.ch
-basefin.ch
 basefit-mv.ch
 basefit.ch
 basefive.ch
@@ -24382,6 +24391,7 @@ bau-beratung.ch
 bau-beratungen.ch
 bau-berisha.ch
 bau-betreuung.ch
+bau-bewilligt.ch
 bau-biene.ch
 bau-big.ch
 bau-bim.ch
@@ -30187,6 +30197,7 @@ bauwerk-boen.ch
 bauwerk-bs.ch
 bauwerk-ch.ch
 bauwerk-group.ch
+bauwerk-gruppe.ch
 bauwerk-gstaad.ch
 bauwerk-im-thal.ch
 bauwerk-immobilien.ch
@@ -30579,6 +30590,7 @@ baxxler.ch
 bay-bau.ch
 bay-collectif.ch
 bay-development.ch
+bay-geneve.ch
 bay-group.ch
 bay-immo.ch
 bay-kleinanzeigen.ch
@@ -30588,6 +30600,7 @@ bay-plattenbelaege.ch
 bay-soft.ch
 bay-tec.ch
 bay-technologies.ch
+bay-wall.ch
 bay.ch
 bay19.ch
 baya-mgmt.ch

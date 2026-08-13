@@ -769,6 +769,7 @@ ready2rescue.ch
 ready2rewind.ch
 ready2ride.ch
 ready2scope.ch
+ready2sell.ch
 ready2simrace.ch
 ready2start.ch
 ready2swim.ch
@@ -3627,10 +3628,12 @@ rebuffat.ch
 rebuga.ch
 rebuh.ch
 rebuhk.ch
+rebuild-belalcazar.ch
 rebuild-bm.ch
 rebuild-ua.ch
 rebuild-yourself.ch
 rebuild.ch
+rebuildbelalcazar.ch
 rebuildbot.ch
 rebuilding.ch
 rebuildua.ch
@@ -4927,7 +4930,6 @@ rechtspilot.ch
 rechtsportli.ch
 rechtspraktika.ch
 rechtspraktikant.ch
-rechtspraktikanten.ch
 rechtspraktikum.ch
 rechtspraxis.ch
 rechtsprechen.ch
@@ -7593,7 +7595,6 @@ redmax.ch
 redmed.ch
 redmedia.ch
 redmercury.ch
-redmigrante.ch
 redmike.ch
 redmill.ch
 redmin-treuhand.ch
@@ -11034,7 +11035,6 @@ regensberg.ch
 regensberg24.ch
 regensburg.ch
 regensburger.ch
-regensch1rme.ch
 regenscheit.ch
 regenschirm.ch
 regenschirme-bedrucken.ch
@@ -11418,6 +11418,7 @@ regierungsrat-zuerich.ch
 regierungsrat.ch
 regierungsrat2023.ch
 regierungsrat2027.ch
+regierungsratswahl.ch
 regierungsratswahlen-bl.ch
 regierungsratswahlen-gr.ch
 regierungsratswahlen-zuerich.ch
@@ -17343,7 +17344,6 @@ reiseplanung.ch
 reiseplanungbuechibaerg.ch
 reiseplausch.ch
 reiseplus.ch
-reisepodcast.ch
 reiseportal.ch
 reisepost.ch
 reisepreise.ch
@@ -19979,6 +19979,7 @@ relyon.ch
 relysh.ch
 relysian.ch
 relytics.ch
+relyva.ch
 relyz.ch
 rem-chan.ch
 rem-consult.ch
@@ -20179,12 +20180,10 @@ remax-immowert.ch
 remax-klosters.ch
 remax-lachen.ch
 remax-laube.ch
-remax-laufen.ch
 remax-lenzerheide.ch
 remax-liestal.ch
 remax-limmattal.ch
 remax-momente.ch
-remax-muenchenstein.ch
 remax-mutschellen.ch
 remax-neubau.ch
 remax-news.ch
@@ -20192,7 +20191,6 @@ remax-oberbaselbiet.ch
 remax-obersee.ch
 remax-oberwallis.ch
 remax-platin-zuerich.ch
-remax-pratteln.ch
 remax-privatverkauf.ch
 remax-racingteam.ch
 remax-reinach.ch
@@ -25904,7 +25902,6 @@ reo-streetfood.ch
 reo-useridsy.ch
 reo.ch
 reo10plus.ch
-reo2.ch
 reob.ch
 reobrix-switzerland.ch
 reobrix.ch
@@ -27036,6 +27033,7 @@ reppartner.ch
 reppel-consulting.ch
 reppel.ch
 reppen.ch
+repperio.ch
 repphone.ch
 reppi.ch
 reppienandcie.ch
@@ -27380,7 +27378,9 @@ reputationsmanagement.ch
 reputationsmarketing.ch
 reputationsprofi.ch
 reputationsquad.ch
+reputationsschutz-schweiz.ch
 reputationsschutz.ch
+reputationsschutzschweiz.ch
 reputationsverteidiger.ch
 reputationswerkstatt.ch
 reputationup.ch
@@ -31062,6 +31062,7 @@ restaurant-chevalblanc.ch
 restaurant-chez-aron.ch
 restaurant-chez-bichon-brevine.ch
 restaurant-chez-kuk.ch
+restaurant-chez-nous-st-maurice.ch
 restaurant-chezgeorges.ch
 restaurant-chezjeannot.ch
 restaurant-cheznina.ch
@@ -31151,6 +31152,7 @@ restaurant-diemerswil.ch
 restaurant-diligence.ch
 restaurant-distel.ch
 restaurant-divus.ch
+restaurant-diyarah-specialites-indiennes.ch
 restaurant-doerfli-uitikon.ch
 restaurant-doerfli.ch
 restaurant-domhof.ch
@@ -32329,6 +32331,7 @@ restaurant-semailles.ch
 restaurant-sempachersee.ch
 restaurant-sennhaus.ch
 restaurant-sennhof.ch
+restaurant-sense.ch
 restaurant-sensebruecke-laupen.ch
 restaurant-sensi.ch
 restaurant-sento.ch
@@ -34214,7 +34217,6 @@ resthaarboerse.ch
 resthoconseil.ch
 resthoechi.ch
 resthof.ch
-restholzmanufaktur.ch
 restholzmoebel.ch
 resthotel-consulting.ch
 resti-finder.ch
@@ -34298,6 +34300,7 @@ resto-lelyrique.ch
 resto-link.ch
 resto-loco.ch
 resto-lounge.ch
+resto-mate.ch
 resto-matech.ch
 resto-mod.ch
 resto-pass.ch
@@ -34389,6 +34392,7 @@ restollaire.ch
 restoly.ch
 restom.ch
 restomat.ch
+restomate.ch
 restomateriel.ch
 restomatik.ch
 restomod.ch
@@ -35715,6 +35719,7 @@ retour-a-soi.ch
 retour-affectif-dubois.ch
 retour-affectif-marabout-medium.ch
 retour-affectif-melvin-suisse.ch
+retour-affectif-recuperer-son-ex-suisse.ch
 retour-affectif.ch
 retour-amoureux-immediat.ch
 retour-au-volant.ch
@@ -36205,7 +36210,6 @@ retronovaupdate.ch
 retroos.ch
 retropalms.ch
 retropanic.ch
-retroparadeiss.ch
 retroparadise.ch
 retroparty.ch
 retropassion.ch

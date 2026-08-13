@@ -48,7 +48,6 @@ cf-hard.ch
 cf-hilfsfonds.ch
 cf-hochzeitsfotografie.ch
 cf-holding.ch
-cf-horgen.ch
 cf-hosting.ch
 cf-hypnose.ch
 cf-i.ch
@@ -89,7 +88,6 @@ cf-services.ch
 cf-studies.ch
 cf-system.ch
 cf-tcm.ch
-cf-thalwil.ch
 cf-thun.ch
 cf-training.ch
 cf-trans.ch
@@ -97,11 +95,7 @@ cf-vaultingpad.ch
 cf-vs.ch
 cf-waedenswil.ch
 cf-webdesign.ch
-cf-wollishofen.ch
 cf-zo.ch
-cf-zuerich.ch
-cf-zug.ch
-cf-zurich.ch
 cf0.ch
 cf1.ch
 cf1352.ch
@@ -538,6 +532,7 @@ cfoadvisory.ch
 cfoagent.ch
 cfoai.ch
 cfoalacarte.ch
+cfoasservices.ch
 cfoaward.ch
 cfoberland.ch
 cfocloud.ch
