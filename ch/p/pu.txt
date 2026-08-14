@@ -1929,6 +1929,7 @@ pulsereset.ch
 pulses.ch
 pulseshop.ch
 pulsesport.ch
+pulseterminal.ch
 pulsetto.ch
 pulsetv.ch
 pulseup.ch
@@ -4721,7 +4722,6 @@ purizefilter.ch
 purizefilters.ch
 purizeschweiz.ch
 purizon.ch
-purjet.ch
 purjus.ch
 purkabel.ch
 purkabelmieten.ch
@@ -5769,6 +5769,7 @@ putzfrauzuerich24.ch
 putzfrei.ch
 putzfreunde.ch
 putzfroue.ch
+putzfuchs-home.ch
 putzgott.ch
 putzhaex-zuerich.ch
 putzhaexae.ch

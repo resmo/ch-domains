@@ -1009,6 +1009,7 @@ fid-ia.ch
 fid-immo.ch
 fid-jaques.ch
 fid-laitiere.ch
+fid-live.ch
 fid-metry.ch
 fid-raffaele.ch
 fid-roc.ch
@@ -2715,7 +2716,6 @@ field-chief.ch
 field-code.ch
 field-engineer.ch
 field-food.ch
-field-force.ch
 field-group.ch
 field-innovation.ch
 field-recording.ch
@@ -3653,7 +3653,6 @@ fihub.ch
 fihuspa.ch
 fii.ch
 fiic.ch
-fiid.ch
 fiido.ch
 fiidu.ch
 fiilm.ch
@@ -5351,6 +5350,7 @@ filter-service.ch
 filter-services.ch
 filter-shop.ch
 filter-technik.ch
+filter-trinkwasser.ch
 filter-turm.ch
 filter-undspezialglaeser.ch
 filter-wasser.ch
@@ -5380,6 +5380,7 @@ filtercoffeenotpeople.ch
 filterdirekt.ch
 filterdiscount.ch
 filterduesen.ch
+filterduschkopf.ch
 filtered.ch
 filterelement.ch
 filterelemente.ch
@@ -5425,6 +5426,7 @@ filtershop.ch
 filtershop24.ch
 filterspares.ch
 filterspezialist.ch
+filterstation.ch
 filterstore.ch
 filtersuche.ch
 filtersysteme.ch
@@ -9214,6 +9216,7 @@ finforte.ch
 finfortis.ch
 finfoundry.ch
 finfox.ch
+finfoxy.ch
 finfra.ch
 finfracom.ch
 finfragreporting.ch
@@ -10137,6 +10140,7 @@ finreach.ch
 finreafiduciaria.ch
 finreco.ch
 finreg.ch
+finregroup.ch
 finregsolutions.ch
 finregswiss.ch
 finreon.ch
@@ -11399,7 +11403,6 @@ firesafe-atlas.ch
 firesafe.ch
 firesafety-app.ch
 firesafety-sa.ch
-firesafety.ch
 firesafetymanagement.ch
 firesafetyteam.ch
 firesales.ch
@@ -11472,7 +11475,6 @@ firetab.ch
 firetable.ch
 firete.ch
 firetec.ch
-firetech-zug.ch
 firetech.ch
 firethewall.ch
 firetiger.ch
@@ -13358,7 +13360,6 @@ fiscalini.ch
 fiscalio.ch
 fiscalis.ch
 fiscaliste-avocat.ch
-fiscaliste-geneve.ch
 fiscaliste.ch
 fiscalistegeneve.ch
 fiscalistegeneveplus.ch
@@ -13989,6 +13990,7 @@ fischerelectric.ch
 fischerelektronik.ch
 fischerengineering.ch
 fischerersigen.ch
+fischerestates.ch
 fischerfabienne.ch
 fischerfamilie.ch
 fischerfamily.ch
@@ -14128,7 +14130,6 @@ fischerpraxis.ch
 fischerprecise.ch
 fischerpreclintox.ch
 fischerpries.ch
-fischerprivatus.ch
 fischerpro.ch
 fischerprojekte.ch
 fischerpruefung.ch
@@ -15322,6 +15323,7 @@ fit-health.ch
 fit-healthy.ch
 fit-hub.ch
 fit-huber.ch
+fit-im-betrieb.ch
 fit-im-job.ch
 fit-im-kopf.ch
 fit-im-schuh.ch
@@ -17449,6 +17451,7 @@ fitze-ventinox.ch
 fitze.ch
 fitzedach-rafz.ch
 fitzedach.ch
+fitzek.ch
 fitzenterprise.ch
 fitzephotography.ch
 fitzes.ch
@@ -17827,7 +17830,6 @@ fix-reaumung.ch
 fix-repair.ch
 fix-search.ch
 fix-service.ch
-fix-services.ch
 fix-shop.ch
 fix-stein.ch
 fix-the-leaky-pipeline.ch
