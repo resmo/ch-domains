@@ -833,6 +833,7 @@ atelier-64.ch
 atelier-66.ch
 atelier-67.ch
 atelier-69.ch
+atelier-6919.ch
 atelier-71.ch
 atelier-77.ch
 atelier-79.ch
@@ -1471,7 +1472,6 @@ atelier-fuer-werbung.ch
 atelier-fur-familien.ch
 atelier-furer.ch
 atelier-fusion.ch
-atelier-fusspflege.ch
 atelier-g-rapp.ch
 atelier-g.ch
 atelier-gabarit.ch
@@ -1768,7 +1768,6 @@ atelier-lehner.ch
 atelier-leon.ch
 atelier-lerncoaching.ch
 atelier-lernen.ch
-atelier-lernfux.ch
 atelier-les-lutins.ch
 atelier-leuthold.ch
 atelier-leutwyler.ch
@@ -1863,6 +1862,7 @@ atelier-markol.ch
 atelier-marlies-steiner.ch
 atelier-maron-s.ch
 atelier-marquis.ch
+atelier-marsan.ch
 atelier-martenot-clostre.ch
 atelier-maruska.ch
 atelier-mary-penthaz.ch
@@ -3193,6 +3193,7 @@ ateliercreart.ch
 ateliercreatif.ch
 ateliercreation-carrelages.ch
 ateliercreation.ch
+ateliercreationkuhn.ch
 ateliercreativ.ch
 ateliercreative.ch
 ateliercreativemind.ch
@@ -3979,7 +3980,6 @@ atelierlaminedor.ch
 atelierlamotte.ch
 atelierlancoradoro.ch
 atelierlandart.ch
-atelierlang.ch
 atelierlaplume.ch
 atelierlaptitechipie.ch
 atelierlareida.ch
@@ -4397,6 +4397,7 @@ atelierpetrov.ch
 atelierpfister.ch
 atelierpfund.ch
 atelierpgnarts.ch
+atelierphilae.ch
 atelierphilosophique.ch
 atelierpho.ch
 atelierphoto.ch
@@ -4573,7 +4574,6 @@ ateliers-florenz.ch
 ateliers-gerine.ch
 ateliers-grands-augustins.ch
 ateliers-h.ch
-ateliers-heritagebike.ch
 ateliers-holos.ch
 ateliers-image-son.ch
 ateliers-informatiques-bussigny.ch
@@ -6927,7 +6927,6 @@ atlas-lamal.ch
 atlas-lausanne.ch
 atlas-legal.ch
 atlas-limousines.ch
-atlas-logie.ch
 atlas-logistik.ch
 atlas-management.ch
 atlas-mc.ch

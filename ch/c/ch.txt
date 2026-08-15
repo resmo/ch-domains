@@ -234,6 +234,7 @@ ch-health.ch
 ch-heilpraxis.ch
 ch-heimat.ch
 ch-helden.ch
+ch-helfer.ch
 ch-heli.ch
 ch-help.ch
 ch-herzog.ch
@@ -455,6 +456,7 @@ ch-rep.ch
 ch-representative.ch
 ch-respond.ch
 ch-retraite.ch
+ch-revetements-carrelage.ch
 ch-revetements.ch
 ch-rheintal.ch
 ch-rhino.ch
@@ -684,7 +686,6 @@ ch50.ch
 ch51.ch
 ch5g.ch
 ch6.ch
-ch601.ch
 ch69.ch
 ch7.ch
 ch75.ch
@@ -3487,6 +3488,7 @@ chambrevalaisannetourisme.ch
 chambristes.ch
 chamcapital.ch
 chamdala.ch
+chame.ch
 chameau.ch
 chameaux.ch
 chamedion.ch
@@ -4773,6 +4775,7 @@ chantalschmid.ch
 chantalschroeder.ch
 chantalschwarz.ch
 chantalsliebe.ch
+chantalsreisen.ch
 chantalstalder.ch
 chantalsteuri-photography.ch
 chantaltauxe.ch
@@ -6959,6 +6962,7 @@ chasse-tresor.ch
 chasse-valais.ch
 chasse-vs.ch
 chasse.ch
+chassealhomme.ch
 chasseautresorvalais.ch
 chasseauxlivres.ch
 chasseauxoeufs.ch
@@ -8159,7 +8163,6 @@ chaufour.ch
 chaufs.ch
 chaugenklinik-dielsdorf.ch
 chauhan.ch
-chauktion.ch
 chauliac.ch
 chaumao-photos.ch
 chaumes.ch
@@ -10472,6 +10475,7 @@ chene2b.ch
 cheneau-de-bourg.ch
 cheneau.ch
 cheneaudiere.ch
+chenebasketball.ch
 chenebbc.ch
 chenebleu.ch
 chenecedre.ch
@@ -10688,7 +10692,6 @@ cherise.ch
 cherish.ch
 cherishandco.ch
 cherishhhh.ch
-cherishlions.ch
 cherissons.ch
 cherituelle.ch
 cherix-transports.ch
@@ -13036,7 +13039,6 @@ chickens.ch
 chickensandwi.ch
 chickenscrat.ch
 chickenslap.ch
-chickensoup-wettingen.ch
 chickensoup.ch
 chickenspiele.ch
 chickenspielonline.ch
@@ -15151,7 +15153,6 @@ chir-fmh.ch
 chir-ortho.ch
 chir-ped.ch
 chir.ch
-chira.ch
 chirador.ch
 chiral-technologies.ch
 chiral.ch
@@ -16333,7 +16334,6 @@ chliini-wiesewichtel.ch
 chliinivenus.ch
 chliins-bsungers.ch
 chliinserat.ch
-chliitierchnuebler.ch
 chliitierpraxis.ch
 chliiundgross-familienoase.ch
 chliiwerk.ch
@@ -16360,7 +16360,6 @@ chlini-muus.ch
 chlini.ch
 chlinieinsteins.ch
 chlinifeiglinge.ch
-chlinifischli.ch
 chlinigkeit.ch
 chlinigsichtli-schmerikon.ch
 chlinigsichtli.ch
@@ -17641,6 +17640,7 @@ choin.ch
 choinowski.ch
 choir.ch
 choirforchange.ch
+choiri.ch
 choiritup.ch
 choirmakers.ch
 choirofrevenge.ch
@@ -21936,6 +21936,7 @@ christoph-bachmann.ch
 christoph-baerlocher.ch
 christoph-bareiss.ch
 christoph-baumann.ch
+christoph-biegel.ch
 christoph-bill.ch
 christoph-bingisser.ch
 christoph-bloch.ch
@@ -22099,6 +22100,7 @@ christophbenz.ch
 christophberger.ch
 christophbernhard.ch
 christophbfuchs.ch
+christophbiegel.ch
 christophbieler.ch
 christophbill.ch
 christophbkeller.ch
@@ -22607,8 +22609,6 @@ christstollen.ch
 christstollenshop.ch
 christsuchtchrist.ch
 christswiss.ch
-christuhr.ch
-christuhren.ch
 christundheiri.ch
 christundjob.ch
 christundreise.ch
@@ -23723,6 +23723,7 @@ chuchi-huus.ch
 chuchi-im-glas.ch
 chuchi-kerzers.ch
 chuchi-lade.ch
+chuchi-print.ch
 chuchi-saeuliamt.ch
 chuchi-studio.ch
 chuchi-waelt.ch

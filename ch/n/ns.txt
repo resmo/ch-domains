@@ -1751,6 +1751,7 @@ ns1.fogdns.ch
 ns1.fognet.ch
 ns1.fondinaetazzina.ch
 ns1.foodit.ch
+ns1.foodkuuler.ch
 ns1.forapi.ch
 ns1.formidable-server.ch
 ns1.fortuna-medien.ch
@@ -1919,6 +1920,7 @@ ns1.haarwelt-stans.ch
 ns1.habibs.ch
 ns1.hackingcorp.ch
 ns1.hackthis.ch
+ns1.hahn-media.ch
 ns1.hairpoint-willisau.ch
 ns1.hakko-ch.ch
 ns1.hakko-schweiz.ch
@@ -3300,7 +3302,6 @@ ns1.serverplatz.ch
 ns1.serverstandort.ch
 ns1.servertown.ch
 ns1.service7000.ch
-ns1.servicelink.ch
 ns1.servicenode.ch
 ns1.servigo.ch
 ns1.sesamnet.ch
@@ -5066,6 +5067,7 @@ ns2.fogdns.ch
 ns2.fognet.ch
 ns2.fondinaetazzina.ch
 ns2.foodit.ch
+ns2.foodkuuler.ch
 ns2.formidable-server.ch
 ns2.fortuna-medien.ch
 ns2.forum-bgm-sg.ch
@@ -6546,7 +6548,6 @@ ns2.serverplatz.ch
 ns2.serverstandort.ch
 ns2.servertown.ch
 ns2.service7000.ch
-ns2.servicelink.ch
 ns2.servicenode.ch
 ns2.servigo.ch
 ns2.sesamnet.ch
