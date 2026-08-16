@@ -1113,6 +1113,7 @@ ich-suche-arbeit.ch
 ich-suche-ein-neues-daheim.ch
 ich-suche-rat.ch
 ich-tanke-strom.ch
+ich-teile.ch
 ich-teste-mich.ch
 ich-trotz-ms.ch
 ich-und-cham.ch
@@ -1557,11 +1558,13 @@ ichsucheeinautoersatzteil.ch
 ichsucheeinenjob.ch
 ichsucheeinersatzteil.ch
 ichsucherat.ch
+ichsuchtenicht.ch
 ichswiss.ch
 icht.ch
 ichtankestrom.ch
 ichtausche.ch
 ichtauschejob.ch
+ichteile.ch
 ichtestealsobinich.ch
 ichtholan.ch
 ichthyose.ch
@@ -2153,7 +2156,6 @@ iconics.ch
 iconicswiss.ch
 iconicswisswatch.ch
 iconicswisswatches.ch
-iconictech.ch
 iconicvivere.ch
 iconicworld.ch
 iconicz.ch

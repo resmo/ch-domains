@@ -11,6 +11,7 @@ uv-dtf.ch
 uv-emmental.ch
 uv-entkeimung.ch
 uv-filter.ch
+uv-hitze-schutzartikel.ch
 uv-index.ch
 uv-industrie-decontamination.ch
 uv-industrie.ch
@@ -24,6 +25,7 @@ uv-protect.ch
 uv-r.ch
 uv-rpv.ch
 uv-schutz.ch
+uv-schutzartikel.ch
 uv-schutzfolien.ch
 uv-solution.ch
 uv-sonnenhut.ch
@@ -127,6 +129,8 @@ uvgrevision.ch
 uvgunten.ch
 uvgversicherung.ch
 uvh.ch
+uvhitze-schutzartikel.ch
+uvhitzeschutzartikel.ch
 uvi-diktat-nein.ch
 uvi-diktat.ch
 uvi-malters.ch
@@ -196,6 +200,7 @@ uvrierstleo.ch
 uvrierstleonard2030.ch
 uvs.ch
 uvschutz.ch
+uvschutzartikel.ch
 uvsga.ch
 uvsh.ch
 uvshirt.ch
