@@ -2503,7 +2503,6 @@ heavy-glazing.ch
 heavy-horses-radio.ch
 heavy-load.ch
 heavy-maedel.ch
-heavy-mental.ch
 heavy-menthol.ch
 heavy-metal.ch
 heavy-tools.ch
@@ -5256,7 +5255,6 @@ heiga.ch
 heigadm.ch
 heigele.ch
 heiger.ch
-height.ch
 heightec.ch
 heightexpert.ch
 heights.ch
@@ -9962,6 +9960,8 @@ helioscoldbrew.ch
 heliosdigital.ch
 heliosdruck.ch
 heliosenergy.ch
+heliosfondation.ch
+heliosfoundation.ch
 helioshandicap.ch
 helioshauswartungen.ch
 helioshockey.ch
@@ -13843,6 +13843,7 @@ helvetique-electricite.ch
 helvetique-energie.ch
 helvetique-evenementiel.ch
 helvetique-ferronnerie.ch
+helvetique-ia.ch
 helvetique-isolation.ch
 helvetique-jardin.ch
 helvetique-lcdf27.ch
@@ -13864,8 +13865,10 @@ helvetique-renovation-exterieure.ch
 helvetique-renovation-interieure.ch
 helvetique-serrurerie.ch
 helvetique-spa.ch
+helvetique-terrassement.ch
 helvetique-toiture.ch
 helvetique-vitrerie.ch
+helvetique-web.ch
 helvetique.ch
 helvetiqueacademy.ch
 helvetiquepartners.ch
@@ -14062,6 +14065,7 @@ helvika.ch
 helvilab.ch
 helville.ch
 helvilo.ch
+helviload.ch
 helvilux.ch
 helvim.ch
 helvimmo.ch
@@ -16151,6 +16155,7 @@ herboriste.ch
 herboristeria.ch
 herboristerie-alexandra.ch
 herboristerie-geneve.ch
+herboristerie.ch
 herboristeriegeneve.ch
 herboristeries.ch
 herboristes.ch

@@ -1712,6 +1712,7 @@ la-uf.ch
 la-ugh.ch
 la-umzug.ch
 la-un.ch
+la-une.ch
 la-ur.ch
 la-us.ch
 la-ut.ch
@@ -3212,7 +3213,6 @@ laboite.ch
 laboiteaballons.ch
 laboiteabricot.ch
 laboiteachats.ch
-laboiteaciseaux.ch
 laboiteadessins.ch
 laboiteafab.ch
 laboiteafromage.ch
@@ -7484,6 +7484,7 @@ laellekoenig.ch
 laelli-braeu.ch
 laelli-zunft.ch
 laelli.ch
+laeluvi.ch
 laely.ch
 laem.ch
 laemassage.ch
@@ -11307,6 +11308,7 @@ lalique.ch
 lalirenov.ch
 laliris.ch
 lalisadance.ch
+lalisane.ch
 laliseuse.ch
 lalisier.ch
 lalisiere.ch
@@ -12402,7 +12404,6 @@ lameditation.ch
 lameducolibri.ch
 lamedulla.ch
 lamedumistral.ch
-lamedunelouve.ch
 lamedunord.ch
 lameduse.ch
 lameena.ch
@@ -13971,6 +13972,7 @@ landfrauen-preview.ch
 landfrauen-radelfingen.ch
 landfrauen-reinach-menziken.ch
 landfrauen-rheinfelden.ch
+landfrauen-roggwil.ch
 landfrauen-rueggisberg.ch
 landfrauen-rupperswil.ch
 landfrauen-schlossrued.ch
@@ -15310,7 +15312,6 @@ landus-bikeshop.ch
 landvergnuegen.ch
 landvergolden.ch
 landvergolder.ch
-landverkauf-stoppen.ch
 landverkauf-wangen-zopf.ch
 landverkauf.ch
 landverkaufen.ch
@@ -17988,6 +17989,7 @@ lapolylan.ch
 lapom.ch
 lapommedapi.ch
 lapommedappli.ch
+lapommedepin.ch
 lapommedeterre.ch
 lapommedor.ch
 lapommeraie.ch
@@ -22429,6 +22431,7 @@ latelier-ac.ch
 latelier-arch.ch
 latelier-automobile.ch
 latelier-beaute.ch
+latelier-bloomys.ch
 latelier-bois.ch
 latelier-brulant.ch
 latelier-brut.ch
@@ -22491,6 +22494,7 @@ latelierbeautedemadeline.ch
 latelierbienetre.ch
 latelierblanc.ch
 latelierbleu.ch
+latelierbloomys.ch
 latelierbois.ch
 latelierbougie.ch
 latelierbricocuisine.ch
@@ -22630,6 +22634,7 @@ latelierdupaysage.ch
 latelierdupiano.ch
 latelierdupied.ch
 latelierduquatrejuin.ch
+latelierdurhone.ch
 latelierdurideau.ch
 latelierdusavoir-faire.ch
 latelierduscrap.ch
@@ -23998,6 +24003,7 @@ laufenburger-tour.ch
 laufenburger-weihnacht.ch
 laufenburgerwoche.ch
 laufenburgerzeitung.ch
+laufenburglovefest.ch
 laufencleanet.ch
 laufend-besser.ch
 laufend-inne-halten.ch
@@ -26141,6 +26147,7 @@ lava-cos.ch
 lava-fraeszentrum.ch
 lava-immo.ch
 lava-lampe.ch
+lava-play.ch
 lava.ch
 lava20waterproofing.ch
 lava3.ch
@@ -26353,6 +26360,7 @@ lavanyampattu.ch
 lavape.ch
 lavapearl.ch
 lavapiu.ch
+lavaplay.ch
 lavapo.ch
 lavapools.ch
 lavapox.ch
@@ -26540,6 +26548,7 @@ lavazzatabli.ch
 lavazzaticino.ch
 lavazzavip.ch
 lavb.ch
+lavboat.ch
 lavcasino.ch
 lavdi-bau.ch
 lavdi-group.ch
@@ -27930,6 +27939,7 @@ layer-craft.ch
 layer-eat.ch
 layer-finance.ch
 layer-grosshandel.ch
+layer-lab.ch
 layer-lounge-3d.ch
 layer-one.ch
 layer-tech.ch
