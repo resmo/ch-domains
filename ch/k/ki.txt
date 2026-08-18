@@ -827,7 +827,6 @@ ki-sichtbar.ch
 ki-sichtbarkeit-check.ch
 ki-sichtbarkeit-schweiz.ch
 ki-sichtbarkeit.ch
-ki-signal.ch
 ki-site.ch
 ki-sites.ch
 ki-skills-lab.ch
@@ -1095,6 +1094,7 @@ kia-challenge.ch
 kia-chur.ch
 kia-drivingexperience.ch
 kia-experience.ch
+kia-firmenkunden.ch
 kia-fleet-experience.ch
 kia-fleet.ch
 kia-flex.ch
@@ -1571,7 +1571,6 @@ kich.ch
 kichange.ch
 kichangemanagement.ch
 kichcamer.ch
-kicheck.ch
 kichecker.ch
 kicheckup.ch
 kicher-erbsen.ch
@@ -1811,7 +1810,6 @@ kicommerce.ch
 kicompany.ch
 kicompliance.ch
 kicon.ch
-kiconnect.ch
 kiconsult.ch
 kiconsultant.ch
 kiconsulting.ch
@@ -2506,6 +2504,7 @@ kidslope.ch
 kidslove.ch
 kidslovedesign.ch
 kidslovefoto.ch
+kidsloveit.ch
 kidslovevintage.ch
 kidslun.ch
 kidslunch.ch
@@ -2934,6 +2933,7 @@ kieferortho-einsiedeln.ch
 kieferortho-fricktal.ch
 kieferortho-frutigen.ch
 kieferortho-horgen.ch
+kieferortho-hottingen.ch
 kieferortho-kreis9.ch
 kieferortho-laufen.ch
 kieferortho-liebefeld.ch
@@ -4681,6 +4681,7 @@ kimhess.ch
 kimheusser.ch
 kimhoa.ch
 kimhoang.ch
+kimholz.ch
 kimi-gmbh.ch
 kimi-krippen.ch
 kimi-lehrgang.ch
@@ -4748,7 +4749,6 @@ kimke.ch
 kimkellermann.ch
 kimkeramik.ch
 kimkims.ch
-kimkl.ch
 kimknoepfchen.ch
 kimko.ch
 kimkostuem.ch
@@ -5238,6 +5238,7 @@ kinder-im-gleichgewicht.ch
 kinder-im-glueck.ch
 kinder-im-internet.ch
 kinder-im-mittelpunkt.ch
+kinder-im-netz.ch
 kinder-im-wald.ch
 kinder-im-zentrum.ch
 kinder-imkerei.ch
@@ -6067,6 +6068,7 @@ kinderbuchzanzibar.ch
 kinderbuecher.ch
 kinderbuecherbrocki.ch
 kinderbuehne-wettingen.ch
+kinderbuehne-wil.ch
 kinderbuehne.ch
 kinderbueno.ch
 kinderbuero-basel.ch
@@ -7072,6 +7074,7 @@ kindermoden.ch
 kindermoebel.ch
 kindermotorrad.ch
 kindermuseum.ch
+kindermusical-safenwil.ch
 kindermusical.ch
 kindermusicals.ch
 kindermusik.ch
@@ -7124,7 +7127,9 @@ kindernotfallpraxis.ch
 kindernotfallschablone.ch
 kindernotfallset.ch
 kindernotfalltraining.ch
+kindernothelfer-konkret.ch
 kindernothelfer.ch
+kindernothelferkonkret.ch
 kindernothelferkurs.ch
 kindernothilfe-karten.ch
 kindernothilfe-weihnachtskarten.ch
@@ -7325,7 +7330,6 @@ kinderpraxis-grenchen.ch
 kinderpraxis-ifa.ch
 kinderpraxis-im-dorf.ch
 kinderpraxis-kunterbunt.ch
-kinderpraxis-laenggasse.ch
 kinderpraxis-langnau.ch
 kinderpraxis-letzi.ch
 kinderpraxis-luzern.ch
@@ -7364,7 +7368,6 @@ kinderpraxisimdorf.ch
 kinderpraxisklinik.ch
 kinderpraxiskuessnacht.ch
 kinderpraxiskussnacht.ch
-kinderpraxislaenggasse.ch
 kinderpraxisluzern.ch
 kinderpraxismanegg.ch
 kinderpraxismonbijou.ch
@@ -10212,7 +10215,6 @@ kingtides.ch
 kingtiger.ch
 kingtom.ch
 kingtony.ch
-kingtoy.ch
 kingtrade.ch
 kingtransfer.ch
 kingtrone.ch
@@ -11022,6 +11024,7 @@ kiosktreff-adelboden.ch
 kioskunterwegs.ch
 kioso.ch
 kiosque-chateau-rolle.ch
+kiosque-de-preville.ch
 kiosque-enligne.ch
 kiosque-espacite.ch
 kiosque-grandson.ch
@@ -12835,7 +12838,6 @@ kisicherheit.ch
 kisichtbarkeit.ch
 kisielewski.ch
 kisifrotsipik.ch
-kisignal.ch
 kisikagroup.ch
 kisilm.ch
 kisim.ch
@@ -14198,6 +14200,8 @@ kitaleuk.ch
 kitaliebeskind.ch
 kitalieblingsort.ch
 kitalina.ch
+kitalindenbluete.ch
+kitalindenhaus.ch
 kitalindenhof.ch
 kitalink.ch
 kitalino.ch

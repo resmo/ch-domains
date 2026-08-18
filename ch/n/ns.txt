@@ -260,7 +260,6 @@ ns.harrysson.ch
 ns.hauke-kreft.ch
 ns.hausformathosting.ch
 ns.havananews.ch
-ns.home-world.ch
 ns.host.ch
 ns.hostpoint.ch
 ns.hosttown.ch
@@ -753,6 +752,7 @@ ns1.accommoda.ch
 ns1.acdev.ch
 ns1.ackle.ch
 ns1.acloud.ch
+ns1.acofunki.ch
 ns1.actim.ch
 ns1.action-photography.ch
 ns1.activex.ch
@@ -2843,6 +2843,7 @@ ns1.overrea.ch
 ns1.ovx.ch
 ns1.owcd.ch
 ns1.owebdesign.ch
+ns1.owlet.ch
 ns1.ownspace.ch
 ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
@@ -2856,7 +2857,6 @@ ns1.paduser.ch
 ns1.pageconcept.ch
 ns1.pagecontrol.ch
 ns1.pagemacher.ch
-ns1.pagestyle.ch
 ns1.pageup.ch
 ns1.pamplemousse.ch
 ns1.pandapic.ch
@@ -6119,7 +6119,6 @@ ns2.paduser.ch
 ns2.pageconcept.ch
 ns2.pagecontrol.ch
 ns2.pagemacher.ch
-ns2.pagestyle.ch
 ns2.pannel.ch
 ns2.papenetdns.ch
 ns2.paraplegie.ch
