@@ -1261,7 +1261,6 @@ tactical-center.ch
 tactical-events.ch
 tactical-headset.ch
 tactical-impact-sniper.ch
-tactical-kitchen.ch
 tactical-medic.ch
 tactical-occasion.ch
 tactical-rescue.ch
@@ -3910,6 +3909,7 @@ takeover.ch
 takeoverlaw.ch
 takeoverpractice.ch
 takepart.ch
+takepayment.ch
 takepayments.ch
 takeplace.ch
 takeprofit.ch
@@ -4144,6 +4144,7 @@ taktvollsicherheitskultur.ch
 taktwechsel.ch
 taktwerk.ch
 taktx.ch
+taktyn.ch
 taku.ch
 takuhai.ch
 takumi-montagen.ch
@@ -9017,7 +9018,6 @@ tanzrituale.ch
 tanzritualebeatriceblackwell.ch
 tanzruum-einsiedeln.ch
 tanzruum.ch
-tanzsalon.ch
 tanzsandra.ch
 tanzschein.ch
 tanzscheune.ch
@@ -9355,6 +9355,7 @@ taodex.ch
 taodogsports.ch
 taodrinks.ch
 taoducorps.ch
+taoecommerce.ch
 taoexcellence.ch
 taofamily.ch
 taogesichterlesen.ch
@@ -10060,7 +10061,6 @@ tarahaus.ch
 tarahaustechnik.ch
 tarahouse.ch
 tarahsart.ch
-taraindia.ch
 tarajarmon.ch
 tarajenkins.ch
 tarajifans.ch
@@ -14151,6 +14151,7 @@ taxandcompany.ch
 taxandgo.ch
 taxandlaw.ch
 taxandmore.ch
+taxando.ch
 taxandswiss.ch
 taxandswitzerland.ch
 taxandthecity.ch
@@ -14310,7 +14311,6 @@ taxes.ch
 taxesagiles.ch
 taxesai.ch
 taxeseasy.ch
-taxesforexpats.ch
 taxesonline.ch
 taxespilot.ch
 taxevasion.ch
@@ -14824,6 +14824,7 @@ taxi-storch.ch
 taxi-stuff.ch
 taxi-stutz.ch
 taxi-suche.ch
+taxi-suisse.ch
 taxi-suli.ch
 taxi-sursee.ch
 taxi-surselva.ch
