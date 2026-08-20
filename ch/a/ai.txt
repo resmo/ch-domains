@@ -625,14 +625,9 @@ ai-minions.ch
 ai-mm.ch
 ai-mo.ch
 ai-mobile.ch
-ai-mode-webseite.ch
-ai-mode-website.ch
-ai-mode.ch
 ai-model.ch
 ai-models.ch
 ai-moderation.ch
-ai-modus-webseite.ch
-ai-modus-website.ch
 ai-monitor.ch
 ai-monkey.ch
 ai-monkeys.ch
@@ -1488,6 +1483,8 @@ aicoach.ch
 aicoachforyou.ch
 aicoaching.ch
 aicoachingpartner.ch
+aicoachingzug.ch
+aicoachzug.ch
 aicode.ch
 aicoder.ch
 aicoin.ch
@@ -1512,6 +1509,7 @@ aicompetencecentre.ch
 aicompliance.ch
 aicomplianceofficer.ch
 aicompliant.ch
+aicompute.ch
 aicomputer.ch
 aicon.ch
 aicon3d.ch
@@ -2539,6 +2537,7 @@ aigpcg.ch
 aigprivatbank.ch
 aigprivatebank.ch
 aigpt.ch
+aigpu.ch
 aigre-doux.ch
 aigreursgastriques.ch
 aigroup.ch
@@ -2647,6 +2646,7 @@ aiinden-urlaub.ch
 aiindenurlaub.ch
 aiinfinance.ch
 aiinfluence.ch
+aiinfra.ch
 aiinmarketing.ch
 aiinnovation.ch
 aiinnovationcenter.ch
@@ -3380,6 +3380,7 @@ aimo.ch
 aimobile.ch
 aimockups.ch
 aimodel.ch
+aimodels.ch
 aimodelsagency.ch
 aimogmbh.ch
 aimolmitprofis.ch
@@ -3925,6 +3926,7 @@ aipro.ch
 aiprocess.ch
 aiproduction.ch
 aiprofessional.ch
+aiprofessionalcredential.ch
 aiprofessionals.ch
 aiprofi.ch
 aiprogram.ch
@@ -5479,7 +5481,6 @@ airportmollis.ch
 airportmountainexpress.ch
 airportmountainshuttle.ch
 airportnet.ch
-airportoergeler.ch
 airportpark.ch
 airportparking.ch
 airportparkingservice.ch

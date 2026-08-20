@@ -340,6 +340,7 @@ ecc-c.ch
 ecc-ge.ch
 ecc-hsk.ch
 ecc-lex.ch
+ecc-ne.ch
 ecc-swiss.ch
 ecc.ch
 ecc13.ch
@@ -1692,7 +1693,6 @@ eclatderahel.ch
 eclatdereves.ch
 eclatderire.ch
 eclatderosee.ch
-eclatdesavoir.ch
 eclatdeseoul.ch
 eclatdetoi.ch
 eclatdevie-jewellery.ch
@@ -5402,6 +5402,7 @@ ecosolutions.ch
 ecosolveenergy.ch
 ecosoma.ch
 ecoson.ch
+ecosonics.ch
 ecosonora.ch
 ecosor.ch
 ecosorb.ch
@@ -5999,6 +6000,8 @@ ecrivine.ch
 ecrj.ch
 ecrm-suite.ch
 ecrm.ch
+ecrmath.ch
+ecrmaths.ch
 ecrome.ch
 ecron.ch
 ecrou.ch

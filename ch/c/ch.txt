@@ -665,6 +665,7 @@ ch2100.ch
 ch22703.ch
 ch24.ch
 ch26.ch
+ch2cr.ch
 ch2ge.ch
 ch2p.ch
 ch2sw.ch
@@ -2856,6 +2857,7 @@ chaletparty.ch
 chaletpastorella.ch
 chaletpaysdenhaut.ch
 chaletperceneige.ch
+chaletpescosta.ch
 chaletpetitzermatt.ch
 chaletpfyffenegg.ch
 chaletpiccolo.ch
@@ -3774,6 +3776,7 @@ champignons-stadler.ch
 champignons-suisses.ch
 champignons-tschabold.ch
 champignons-vitaux.ch
+champignons.ch
 champignonsmedicinaux.ch
 champignonsuisse.ch
 champignonsvitaux.ch
@@ -5502,6 +5505,7 @@ chardi.ch
 chardo.ch
 chardomail.ch
 chardon-bleu.ch
+chardon-energie.ch
 chardon-metal.ch
 chardon-sa.ch
 chardon.ch
@@ -5585,7 +5589,6 @@ chargeguide.ch
 chargeguru.ch
 chargehide.ch
 chargehome.ch
-chargehub.ch
 chargeing.ch
 chargeinstallation.ch
 chargeinvest.ch
@@ -7412,7 +7415,6 @@ chateaudeluins.ch
 chateaudemalessert.ch
 chateaudemarnand.ch
 chateaudemathod.ch
-chateaudemex.ch
 chateaudemont.ch
 chateaudemontmagny.ch
 chateaudemur.ch
@@ -7632,7 +7634,6 @@ chatgpt-butler.ch
 chatgpt-engineer.ch
 chatgpt-engineer24.ch
 chatgpt-engineering24.ch
-chatgpt-geo.ch
 chatgpt-ingenieur.ch
 chatgpt-input.ch
 chatgpt-integration.ch
@@ -11342,6 +11343,7 @@ chevaliers.ch
 chevaliersa.ch
 chevaliersbevaix.ch
 chevaliersboisdechenes.ch
+chevaliersdubonpain.ch
 chevaliersduvieuxmazel.ch
 chevaliersduvin.ch
 chevaliertax.ch
@@ -14994,7 +14996,6 @@ chioscoalibi.ch
 chioscocentro.ch
 chioscomid.ch
 chioscosempione.ch
-chioscosforza.ch
 chiosi-grafik.ch
 chiosk.ch
 chiot-beagle.ch
@@ -19003,6 +19004,7 @@ chriguhabegger.ch
 chrigula.ch
 chrigus-ski-werkstatt.ch
 chrigus.ch
+chriguschneider.ch
 chriguseisenbahnseiten.ch
 chriguskleintransporte.ch
 chrigusound.ch
