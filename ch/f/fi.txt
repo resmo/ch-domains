@@ -3819,6 +3819,7 @@ filamentfactory.ch
 filamentfinder.ch
 filamentli.ch
 filamentopia.ch
+filamentor.ch
 filamentory.ch
 filamentpm.ch
 filaments.ch
@@ -3982,7 +3983,6 @@ filedist.ch
 filedit.ch
 fileditch.ch
 fileditchnew.ch
-fileditchvideo.ch
 filedl.ch
 filedock.ch
 filedrop.ch
@@ -3995,6 +3995,7 @@ filefactory.ch
 filefaq.ch
 fileflasher.ch
 fileflow.ch
+fileforge.ch
 filefort.ch
 filefox.ch
 filefuse.ch
@@ -4158,7 +4159,6 @@ fili.ch
 filia-allilengii.ch
 filia.ch
 filiago.ch
-filiale-market.ch
 filiale-office.ch
 filiale.ch
 filialebasel.ch
@@ -8747,6 +8747,7 @@ finecover.ch
 finecraft.ch
 finecus.ch
 finecut.ch
+fined.ch
 finedegen.ch
 finedesign.ch
 finedesigns.ch
@@ -11678,7 +11679,6 @@ firmakaufen365.ch
 firmakids.ch
 firmaleasing.ch
 firmalpes.ch
-firmalyze.ch
 firmamend.ch
 firmament.ch
 firmamentum.ch
@@ -12114,6 +12114,7 @@ firmenkleber.ch
 firmenkleider.ch
 firmenkleiderschweiz.ch
 firmenkleidung.ch
+firmenklick.ch
 firmenkompass.ch
 firmenkontakt.ch
 firmenkontakte.ch
@@ -14600,7 +14601,6 @@ fishbowl.ch
 fishbox.ch
 fishbreak.ch
 fishbuddies.ch
-fishcake.ch
 fishcheck.ch
 fishcom.ch
 fishconsulting.ch
@@ -14742,7 +14742,6 @@ fishingwithdynamite.ch
 fishingworld.ch
 fishingworld24.ch
 fishingzone.ch
-fishinmed.ch
 fishinn.ch
 fishintheboardroom.ch
 fishinthesea.ch
@@ -16779,6 +16778,8 @@ fitnessinstructor.ch
 fitnessinstruktor.ch
 fitnessinterlaken.ch
 fitnessisland.ch
+fitnessjob.ch
+fitnessjobs.ch
 fitnessjourney.ch
 fitnesskarriere.ch
 fitnesskaufhaus.ch
@@ -17900,6 +17901,7 @@ fixbee.ch
 fixbeez.ch
 fixbionx.ch
 fixbiz.ch
+fixbot.ch
 fixbourg.ch
 fixbox-reinigung.ch
 fixbrief.ch
@@ -17920,6 +17922,7 @@ fixcom.ch
 fixcombo.ch
 fixconstruction.ch
 fixcontrol.ch
+fixcore.ch
 fixd.ch
 fixdas.ch
 fixdate.ch
@@ -17972,11 +17975,13 @@ fixflo.ch
 fixfloor.ch
 fixflott.ch
 fixfood.ch
+fixfood24.ch
 fixforflex.ch
 fixforge.ch
 fixfox.ch
 fixfusion.ch
 fixfux.ch
+fixgate.ch
 fixgecko.ch
 fixgemacht.ch
 fixgeneralumbau.ch
@@ -17993,6 +17998,7 @@ fixhauswartung.ch
 fixhelp.ch
 fixhelp24.ch
 fixhm.ch
+fixhome.ch
 fixhub.ch
 fixhypo.ch
 fixhypothek.ch
@@ -18061,9 +18067,11 @@ fixled.ch
 fixleintuch.ch
 fixleintuecher.ch
 fixlend.ch
+fixlernen.ch
 fixli.ch
 fixli24.ch
 fixlieferung.ch
+fixlink.ch
 fixloesung.ch
 fixlohn.ch
 fixlux.ch
@@ -18158,6 +18166,7 @@ fixrent.ch
 fixrental.ch
 fixrepair.ch
 fixright.ch
+fixrobot.ch
 fixrohr.ch
 fixsearch.ch
 fixshop.ch
@@ -18170,6 +18179,7 @@ fixstaernli.ch
 fixstar.ch
 fixstern.ch
 fixstone.ch
+fixstore.ch
 fixt.ch
 fixtain.ch
 fixtape.ch
@@ -18222,6 +18232,7 @@ fixwear.ch
 fixweb.ch
 fixwerk.ch
 fixwirnetworks.ch
+fixworks.ch
 fixworld.ch
 fixx.ch
 fixxglove.ch

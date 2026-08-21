@@ -33,6 +33,7 @@ ns-anycast1.hostpoint.ch
 ns-anycast2.hostpoint.ch
 ns-automobile.ch
 ns-automobiles.ch
+ns-automotive.ch
 ns-b.hohenegg.ch
 ns-b.pillo-srv.ch
 ns-bak.reek.ch
@@ -118,7 +119,6 @@ ns.arge-burgfelderstrasse.ch
 ns.arknet.ch
 ns.art-funeraire.ch
 ns.astroero.ch
-ns.atozenglish.ch
 ns.attysoft.ch
 ns.axecib.ch
 ns.b2b-consult.ch
@@ -1441,7 +1441,6 @@ ns1.developpeurweb.ch
 ns1.devweb.ch
 ns1.devzone.ch
 ns1.dg2.ch
-ns1.di-enovation.ch
 ns1.di-renovations.ch
 ns1.diag.ch
 ns1.dias-edi.ch
@@ -2943,7 +2942,6 @@ ns1.pintarelli.ch
 ns1.pipster.ch
 ns1.piratenpartei.ch
 ns1.pixaro.ch
-ns1.pixelbloom.ch
 ns1.pixelimage.ch
 ns1.pixelpusher.ch
 ns1.pixels-points.ch
@@ -3030,7 +3028,6 @@ ns1.progest.ch
 ns1.progitec2.ch
 ns1.progressive.ch
 ns1.projectrosling.ch
-ns1.projugendschutz.ch
 ns1.promahnmal.ch
 ns1.promo-spa.ch
 ns1.prontomail.ch
@@ -3869,7 +3866,6 @@ ns1.wincorworld.ch
 ns1.winet.ch
 ns1.winfluencers.ch
 ns1.winiker.ch
-ns1.winzer-hosting.ch
 ns1.wir-koennen-alles.ch
 ns1.wireframe.ch
 ns1.wirelessforum.ch
@@ -4266,7 +4262,6 @@ ns2.astrum.ch
 ns2.atanasova.ch
 ns2.atelier-haemmerle.ch
 ns2.atomstudio.ch
-ns2.atozenglish.ch
 ns2.atphp.ch
 ns2.atrix-consult-gmbh.ch
 ns2.audiogen.ch
@@ -4779,7 +4774,6 @@ ns2.developics.ch
 ns2.developpeurweb.ch
 ns2.devweb.ch
 ns2.dg2.ch
-ns2.di-enovation.ch
 ns2.di-renovations.ch
 ns2.diag.ch
 ns2.dias-edi.ch
@@ -6200,7 +6194,6 @@ ns2.pintarelli.ch
 ns2.pipster.ch
 ns2.piratenpartei.ch
 ns2.pixaro.ch
-ns2.pixelbloom.ch
 ns2.pixelimage.ch
 ns2.pixelpusher.ch
 ns2.pixels-points.ch
@@ -6287,7 +6280,6 @@ ns2.progitec2.ch
 ns2.programm.ch
 ns2.progressive.ch
 ns2.projectrosling.ch
-ns2.projugendschutz.ch
 ns2.promahnmal.ch
 ns2.promo-spa.ch
 ns2.prontomail.ch
@@ -7107,7 +7099,6 @@ ns2.wimpernserumbericht.ch
 ns2.winet.ch
 ns2.winfluencers.ch
 ns2.winiker.ch
-ns2.winzer-hosting.ch
 ns2.wir-koennen-alles.ch
 ns2.wireframe.ch
 ns2.wirelessforum.ch
