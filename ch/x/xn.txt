@@ -925,8 +925,6 @@ xn--alloapique-r6a.ch
 xn--alloremplaant-rgb.ch
 xn--allroundbau-zurbrgg-mbc.ch
 xn--allrounder-zrich-uzb.ch
-xn--allrounderzri-6ob.ch
-xn--allrounderzrich-9vb.ch
 xn--allroundhandwerker-zrich-ftc.ch
 xn--allrtifscht-r8a22a.ch
 xn--allschwil-schlsseldienst-8sc.ch
@@ -2200,6 +2198,7 @@ xn--atelier-de-beaut-qqb.ch
 xn--atelier-fr-architektur-0lc.ch
 xn--atelier-fr-familien-ebc.ch
 xn--atelier-fr-glasmalerei-0lc.ch
+xn--atelier-fr-kommunikation-3sc.ch
 xn--atelier-fr-perspektiven-kpc.ch
 xn--atelier-fr-raum-7vb.ch
 xn--atelier-fr-schnes-d0b2i.ch
@@ -6948,7 +6947,6 @@ xn--brenberg-65a.ch
 xn--brenbrder-v2a3y.ch
 xn--brenbrnd-5za8u.ch
 xn--brencenter-q5a.ch
-xn--brendienst-q5a.ch
 xn--brendrck-0zaf.ch
 xn--brendreck-v2a.ch
 xn--brenelektro-l8a.ch
@@ -7699,7 +7697,6 @@ xn--bro-net-n2a.ch
 xn--bro-neuchtel-xbb96a.ch
 xn--bro-nidwalden-wob.ch
 xn--bro-obwalden-dlb.ch
-xn--bro-onlineshop-gsb.ch
 xn--bro-ordnung-thb.ch
 xn--bro-outlet-9db.ch
 xn--bro-pircher-thb.ch
@@ -8732,6 +8729,7 @@ xn--bttiker-n2a.ch
 xn--bttikon24-q9a.ch
 xn--bttilove-65a.ch
 xn--bttler-3ya.ch
+xn--bttlerbosshard-gsb.ch
 xn--bttlerchuchi-challenge-04b.ch
 xn--bttner-3ya.ch
 xn--bttner-treuhand-zvb.ch
@@ -9439,6 +9437,7 @@ xn--ccileschnegg-beb.ch
 xn--ccilienchorflamatt-ltb.ch
 xn--ccilienchorseewen-qqb.ch
 xn--cd-hllen-95a.ch
+xn--cder-bpa.ch
 xn--cdn-zrich-u9a.ch
 xn--cdr-joa.ch
 xn--cdre-immobilier-umb.ch
@@ -15788,7 +15787,6 @@ xn--fczrich-frauen-isb.ch
 xn--fczrich-p2a.ch
 xn--fczrich-senioren-veteranen-0zc.ch
 xn--fczrilive-s9a.ch
-xn--fdelinetz-v2a.ch
 xn--fdeliwohl-q9a.ch
 xn--fder-liecht-l8a.ch
 xn--fderalismus2017-8sb.ch
@@ -16174,7 +16172,6 @@ xn--fettabsaugenzrich-f3b.ch
 xn--fettabsaugung-zrich-kbc.ch
 xn--fettbrandlscher-itb.ch
 xn--fettlser-r4a.ch
-xn--fettreduzierung-zrich-sculpsure-4id.ch
 xn--fettsureanalysen-znb.ch
 xn--fettsuren-z2a.ch
 xn--fetzer-bchershop-qzb.ch
@@ -19720,6 +19717,9 @@ xn--gemeindeprsidenten-ag-f2b.ch
 xn--gemeindeschreibr-9nb.ch
 xn--gemeindeuntersttzung-3ec.ch
 xn--gemeindevalmstair-e3b.ch
+xn--gemeindshsli-llba.ch
+xn--gemeindshttli-4ob.ch
+xn--gemeindsrmli-llba.ch
 xn--gemeinntzig-zhb.ch
 xn--gemeinntzige-aarau-s6b.ch
 xn--gemeinntzige-arbeit-cbc.ch
@@ -24092,6 +24092,8 @@ xn--hbelimatt-q9a.ch
 xn--hbelipark-q9a.ch
 xn--hbelirain-q9a.ch
 xn--hbergement-b7a.ch
+xn--hbergement-durable-bwb.ch
+xn--hbergement-responsable-b8b.ch
 xn--hbergement-web-bkb.ch
 xn--hbergementinternet-bwb.ch
 xn--hbergements-bbb.ch
@@ -24318,11 +24320,13 @@ xn--heilungfralle-3ob.ch
 xn--heilwrts-4za.ch
 xn--heim-bro-c6a.ch
 xn--heim-bru-6za.ch
+xn--heimat-htte-0hb.ch
 xn--heimat-stadt-kniz-d0b.ch
 xn--heimat-stadt-zrich-z6b.ch
 xn--heimat-stck-1hb.ch
 xn--heimatbez-w9a.ch
 xn--heimatchrli-yfb.ch
+xn--heimathtte-geb.ch
 xn--heimatlibi-x5a.ch
 xn--heimatlimithrz-hib.ch
 xn--heimatrde-02a.ch
@@ -24692,6 +24696,7 @@ xn--hfeplus-90a.ch
 xn--hfer-5qa.ch
 xn--hferlin-90a.ch
 xn--hferlin-gmbh-4ib.ch
+xn--hferlin-institut-mwb.ch
 xn--hferlininstitut-8sb.ch
 xn--hffi-5qa.ch
 xn--hffner-wxa.ch
@@ -28084,6 +28089,7 @@ xn--janine-hner-s8a.ch
 xn--janjri-partner-ypb.ch
 xn--janmhlethaler-zob.ch
 xn--janmller-95a.ch
+xn--janni-pizza-zrich-f3b.ch
 xn--jannie-lscher-3ob.ch
 xn--janniskrkel-xfb.ch
 xn--janoschgldi-yfb.ch
@@ -29106,6 +29112,7 @@ xn--kchen-stans-thb.ch
 xn--kchen-studio-dlb.ch
 xn--kchen-treff-thb.ch
 xn--kchen-tren-9dbg.ch
+xn--kchen-trends-dlb.ch
 xn--kchen-umbau-thb.ch
 xn--kchen-umbauen-wob.ch
 xn--kchen-umbauleitung-m6b.ch
@@ -30799,6 +30806,7 @@ xn--kng-holding-thb.ch
 xn--kng-holz-65a.ch
 xn--kng-immo-65a.ch
 xn--kng-modellbau-wob.ch
+xn--kng-multioutlet-zvb.ch
 xn--kng-plast-q9a.ch
 xn--kng-platten-thb.ch
 xn--kng-sanitr-y5a3z.ch
@@ -31798,7 +31806,6 @@ xn--krftigaltern-hcb.ch
 xn--krftigaltwerden-1kb.ch
 xn--krge-1ra.ch
 xn--krgel-lva.ch
-xn--krgel-montagen-hsb.ch
 xn--krgelbier-r9a.ch
 xn--krger-dirndl-elb.ch
 xn--krger-group-uhb.ch
@@ -39132,6 +39139,7 @@ xn--mrizrich-95a.ch
 xn--mrke-loa.ch
 xn--mrki-loa.ch
 xn--mrki-mbel-v2a7r.ch
+xn--mrkiag-bua.ch
 xn--mrkifarm-0za.ch
 xn--mrkimbel-0za8p.ch
 xn--mrkis-hofladen-5hb.ch
@@ -39146,6 +39154,7 @@ xn--mrkte-gra.ch
 xn--mrktfscht-v2ae.ch
 xn--mrktgass-0za.ch
 xn--mrli-biini-q5a.ch
+xn--mrli-lade-v2a.ch
 xn--mrli-loa.ch
 xn--mrli-ziit-v2a.ch
 xn--mrlialp-90a.ch
@@ -44083,7 +44092,6 @@ xn--prmie-hra.ch
 xn--prmien-cua.ch
 xn--prmien-entlastung-rqb.ch
 xn--prmien-rechner-6hb.ch
-xn--prmien-schweiz-6hb.ch
 xn--prmien-senken-cfb.ch
 xn--prmien-senken-ja-wnb.ch
 xn--prmien-sparen-cfb.ch
@@ -44973,6 +44981,7 @@ xn--rangierhilfefrwohnwagenkomplettset-ntd.ch
 xn--ranieri-plattenbelge-szb.ch
 xn--ranking-mtrics-jkb.ch
 xn--rankingmtrics-ihb.ch
+xn--rantamki-5za.ch
 xn--rap-dma.ch
 xn--raphael-mller-4ob.ch
 xn--raphaelhnerfauth-qzb.ch
@@ -45120,6 +45129,7 @@ xn--raumfrkinesiologie-q6b.ch
 xn--raumfrklarheit-ksb.ch
 xn--raumfrkreativitt-9nb53b.ch
 xn--raumfrkrperarbeit-5zb5i.ch
+xn--raumfrkunsttherapie-99b.ch
 xn--raumfrleben-xhb.ch
 xn--raumfrmehr-eeb.ch
 xn--raumfrmich-eeb.ch
@@ -46922,6 +46932,8 @@ xn--rschenzerhof-4ib.ch
 xn--rschi-jua.ch
 xn--rschle-stiftung-0kb.ch
 xn--rschlestiftung-5hb.ch
+xn--rschli-group-4ib.ch
+xn--rschli-wxa.ch
 xn--rschlikon-q9a.ch
 xn--rschlikon24-thb.ch
 xn--rschmann-n4a.ch
@@ -50355,6 +50367,7 @@ xn--schtzteu-85a.ch
 xn--schtzungen-basel-xnb.ch
 xn--schtzungen-philippegasser-basel-svc.ch
 xn--schtzungen-s5a.ch
+xn--schtzwert-x2a.ch
 xn--schubiger-homopathie-gbc.ch
 xn--schubiger-kche-qsb.ch
 xn--schubiger-kchen-9vb.ch
@@ -51519,6 +51532,7 @@ xn--sgeweg-bua.ch
 xn--sgewerk-5wa.ch
 xn--sgewerke-0za.ch
 xn--sgi-qla.ch
+xn--sgihof-therwil-5hb.ch
 xn--sgkrmel-q2a.ch
 xn--sgle-loa.ch
 xn--sglterswil-biezwil-o6b.ch
@@ -51622,7 +51636,6 @@ xn--sibu-gebudetechnik-stb.ch
 xn--sibylle-mller-4ob.ch
 xn--sibyllegngi-t8a.ch
 xn--sibyllemller-klb.ch
-xn--sibylleschrch-5ob.ch
 xn--sich-moa.ch
 xn--sicher-ernhrt-kfb.ch
 xn--sicher-gebren-kfb.ch
@@ -57323,6 +57336,7 @@ xn--tt-tren-q2a.ch
 xn--tt-uia.ch
 xn--ttato-classico-gsb.ch
 xn--ttatt-grad.ch
+xn--ttc-hngg-r4a.ch
 xn--ttc-niedergsgen-jtb.ch
 xn--ttcdbendorf-volketswil-vlc.ch
 xn--ttchi-3qa.ch
@@ -58509,7 +58523,6 @@ xn--verrckt-weggis-jsb.ch
 xn--verrecass-j4a.ch
 xn--verretremp-k7a.ch
 xn--verrilndli-v5a.ch
-xn--verrire-6xa.ch
 xn--verrtscher-t5a.ch
 xn--versandhlle-0hb.ch
 xn--versandhllen-klb.ch
@@ -58830,7 +58843,6 @@ xn--vitaminglck-1hb.ch
 xn--vitaminprparate-8kb.ch
 xn--vitaminprttigau-8kb.ch
 xn--vitasphre-63a.ch
-xn--vitra-esa.ch
 xn--vitrecasse-j7a.ch
 xn--vitus-areal-tss-ltb.ch
 xn--vitus-tss-67a.ch
@@ -59007,7 +59019,6 @@ xn--von-grnigen-yhb.ch
 xn--von-schning-xfb.ch
 xn--von-uns-fr-uns-osb.ch
 xn--von7thal-hren-rmb.ch
-xn--vonamriswil-framriswil-4lc.ch
 xn--vonbauernfrbauern-c3b.ch
 xn--vonbergen-schdlingsbekmpfung-incj.ch
 xn--vonbrenag-t9a.ch
@@ -60072,6 +60083,7 @@ xn--wfler-diagnostics-qqb.ch
 xn--wfler-gra.ch
 xn--wfler-partyservice-ltb.ch
 xn--wg-brggli-u9a.ch
+xn--wg-via.ch
 xn--wg-wka.ch
 xn--wgbegleitig-l8a.ch
 xn--wgelifahrten-gcb.ch
@@ -60930,7 +60942,6 @@ xn--work-securit-meb.ch
 xn--workshop-sant-mentale-n5b.ch
 xn--world-of-krnzle-blb.ch
 xn--wort-brcken-zhb.ch
-xn--wort-rume-02a.ch
 xn--wortbrse-r4a.ch
 xn--wortfrwort-eeb.ch
 xn--wortgewrz-w9a.ch

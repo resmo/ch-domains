@@ -785,6 +785,7 @@ dns13.win-lux.ch
 dns14.firestorm.ch
 dns1a.rzeins.ch
 dns1b.rzeins.ch
+dns1gemini.sfnetwork.ch
 dns2.0-z.ch
 dns2.3604.ch
 dns2.aare-net.ch
@@ -1042,6 +1043,7 @@ dns2.zubler.ch
 dns24.ch
 dns2a.rzeins.ch
 dns2b.rzeins.ch
+dns2gemini.sfnetwork.ch
 dns3.3604.ch
 dns3.aare-net.ch
 dns3.advantix.ch
@@ -1101,7 +1103,6 @@ dns3.point.ch
 dns3.post.ch
 dns3.psideo.ch
 dns3.scit.ch
-dns3.sfnetwork.ch
 dns3.sfs-network.ch
 dns3.simplysoft.ch
 dns3.skypro.ch
@@ -1144,7 +1145,6 @@ dns4.plain-it.ch
 dns4.post.ch
 dns4.psideo.ch
 dns4.scit.ch
-dns4.sfnetwork.ch
 dns4.symmetric.ch
 dns4.titelseite.ch
 dns4.unterrichtsmedien.ch
@@ -1279,6 +1279,7 @@ dnsxs.ch
 dnsz.ch
 dnszensur.ch
 dnszone.ch
+dnt-project.ch
 dnt-racing.ch
 dnt-tetti.ch
 dnt-vision.ch

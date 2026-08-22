@@ -1153,6 +1153,7 @@ ns1.c-hub.ch
 ns1.c2i.ch
 ns1.c2r.ch
 ns1.caduff.ch
+ns1.cageholding.ch
 ns1.cahiersaufeu.ch
 ns1.caissedepargnedenyon.ch
 ns1.call-up.ch
@@ -2397,6 +2398,7 @@ ns1.libralures.ch
 ns1.lichtensteiger.ch
 ns1.lichtquelle.ch
 ns1.lieferzonen.ch
+ns1.lienicom.ch
 ns1.lifehost.ch
 ns1.lightshining.ch
 ns1.likebets.ch
@@ -2409,6 +2411,7 @@ ns1.lipogen.ch
 ns1.lisgmail.ch
 ns1.lisgtest.ch
 ns1.litapro.ch
+ns1.liveinfo.ch
 ns1.livemedia.ch
 ns1.livenet.ch
 ns1.livingsense.ch
@@ -2576,6 +2579,7 @@ ns1.milkycloud.ch
 ns1.mimos.ch
 ns1.mints-hosting.ch
 ns1.miomedia.ch
+ns1.mipla.ch
 ns1.miramedia.ch
 ns1.miraweb.ch
 ns1.mironet.ch
@@ -3019,6 +3023,7 @@ ns1.privat.ch
 ns1.privatekosmetikerin.ch
 ns1.privatemedia.ch
 ns1.privatnet.ch
+ns1.prixbioterra.ch
 ns1.proceed.ch
 ns1.prodosia.ch
 ns1.profectis.ch
@@ -3202,6 +3207,7 @@ ns1.sagar.ch
 ns1.sagitservices.ch
 ns1.sagservices.ch
 ns1.sahac.anniv.ch
+ns1.sahlidom01.ch
 ns1.sakogroup.ch
 ns1.saldia.ch
 ns1.salverte.ch
@@ -3449,6 +3455,7 @@ ns1.stilecht.ch
 ns1.stramm-armierungen.ch
 ns1.strateo.ch
 ns1.streamlineag.ch
+ns1.streamnotifier.ch
 ns1.stree.ch
 ns1.streuli-it.ch
 ns1.strich-acht.ch
@@ -3493,6 +3500,7 @@ ns1.swiss-farmers.ch
 ns1.swiss-media360.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
+ns1.swiss-server.ch
 ns1.swiss-support.ch
 ns1.swiss1-practeo.ch
 ns1.swiss21.ch
@@ -4491,6 +4499,7 @@ ns2.c-hub.ch
 ns2.c2i.ch
 ns2.cabinetpodologie.ch
 ns2.caduff.ch
+ns2.cageholding.ch
 ns2.cahiersaufeu.ch
 ns2.caissedepargnedenyon.ch
 ns2.call-up.ch
@@ -5692,6 +5701,7 @@ ns2.libralures.ch
 ns2.lichtensteiger.ch
 ns2.lichtquelle.ch
 ns2.lieferzonen.ch
+ns2.lienicom.ch
 ns2.lifehost.ch
 ns2.lightshining.ch
 ns2.likebets.ch
@@ -5706,6 +5716,7 @@ ns2.lipogen.ch
 ns2.lisgmail.ch
 ns2.lisgtest.ch
 ns2.litapro.ch
+ns2.liveinfo.ch
 ns2.livemedia.ch
 ns2.livenet.ch
 ns2.lm-renovations-lebrun.ch
@@ -5857,6 +5868,7 @@ ns2.milkycloud.ch
 ns2.mimos.ch
 ns2.mints-hosting.ch
 ns2.miomedia.ch
+ns2.mipla.ch
 ns2.miramedia.ch
 ns2.miraweb.ch
 ns2.mironet.ch
@@ -6270,6 +6282,7 @@ ns2.privat.ch
 ns2.privatekosmetikerin.ch
 ns2.privatemedia.ch
 ns2.privatnet.ch
+ns2.prixbioterra.ch
 ns2.proceed.ch
 ns2.prodosia.ch
 ns2.profectis.ch
@@ -6444,6 +6457,7 @@ ns2.sagar.ch
 ns2.sagitservices.ch
 ns2.sagservices.ch
 ns2.sahac.anniv.ch
+ns2.sahlidom01.ch
 ns2.sakogroup.ch
 ns2.saldia.ch
 ns2.salverte.ch
@@ -6695,6 +6709,7 @@ ns2.stilecht.ch
 ns2.stramm-armierungen.ch
 ns2.strateo.ch
 ns2.streamlineag.ch
+ns2.streamnotifier.ch
 ns2.stree.ch
 ns2.streuli-it.ch
 ns2.strimer-strimer.ch
@@ -6738,6 +6753,7 @@ ns2.swiss-made-store.ch
 ns2.swiss-media360.ch
 ns2.swiss-pc.ch
 ns2.swiss-portal.ch
+ns2.swiss-server.ch
 ns2.swiss1-practeo.ch
 ns2.swiss21.ch
 ns2.swiss365.ch
@@ -7640,6 +7656,7 @@ ns3.letsbuild.ch
 ns3.libracore.ch
 ns3.libralures.ch
 ns3.lieferzonen.ch
+ns3.lienicom.ch
 ns3.lifemagic.ch
 ns3.lilo.ch
 ns3.linthcom.ch
@@ -7682,6 +7699,7 @@ ns3.mgeweb.ch
 ns3.mhd.ch
 ns3.microdyn.ch
 ns3.migros.ch
+ns3.mipla.ch
 ns3.miraweb.ch
 ns3.mironet.ch
 ns3.mk-office.ch
@@ -7914,6 +7932,7 @@ ns3.sum.ch
 ns3.sumasoft.ch
 ns3.sunrise.ch
 ns3.swiss-dt.ch
+ns3.swiss-server.ch
 ns3.swisscloudhosting.ch
 ns3.swissdigicert.ch
 ns3.swissfintechinnovationlab.ch
@@ -8187,6 +8206,7 @@ ns4.martronic.ch
 ns4.matrixserver.ch
 ns4.mawood.ch
 ns4.maxbit.ch
+ns4.mipla.ch
 ns4.miraweb.ch
 ns4.mk-office.ch
 ns4.mobiletechnics.ch
