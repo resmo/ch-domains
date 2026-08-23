@@ -186,7 +186,6 @@ sp-group.ch
 sp-h5d.ch
 sp-haegglingen.ch
 sp-haustechnik.ch
-sp-health.ch
 sp-heimberg.ch
 sp-helvetia.ch
 sp-herisau.ch
@@ -309,7 +308,6 @@ sp-nidau.ch
 sp-niedergoesgen.ch
 sp-niederlenz.ch
 sp-nottwil.ch
-sp-nutrition.ch
 sp-o.ch
 sp-oberaargau.ch
 sp-oberdiessbach.ch
@@ -1284,7 +1282,6 @@ spacy.ch
 spacymotion.ch
 spacyriders.ch
 spacys.ch
-spad.ch
 spada-andeer.ch
 spada-boats.ch
 spada-music.ch
@@ -4466,7 +4463,6 @@ spectralphysik.ch
 spectrals.ch
 spectramedia.ch
 spectramedical.ch
-spectraoffice.ch
 spectraphysics.ch
 spectrapix.ch
 spectrapremium.ch
@@ -4808,7 +4804,6 @@ speed-up.ch
 speed-vd.ch
 speed-volet.ch
 speed-volets.ch
-speed-voyance.ch
 speed-wheels.ch
 speed-wood.ch
 speed-world.ch
@@ -4896,6 +4891,7 @@ speeddata.ch
 speeddate.ch
 speeddating-berne.ch
 speeddating-fribourg.ch
+speeddating-ge.ch
 speeddating-geneve.ch
 speeddating-jura.ch
 speeddating-lausanne.ch
@@ -5499,6 +5495,7 @@ speisekrebse.ch
 speiselokal.ch
 speiselokale.ch
 speiselupine.ch
+speisen.ch
 speisenpraesentation.ch
 speisenundreisen.ch
 speisenverteilsysteme.ch
@@ -11878,6 +11875,7 @@ spitalwil.ch
 spitalzentrum-biel.ch
 spitalzentrum-freiamt.ch
 spitalzentrum-oberwallis.ch
+spitalzentrum.ch
 spitalzentrumbiel.ch
 spitalzentrumoberwallis.ch
 spitalzimmerberg.ch
@@ -11979,6 +11977,7 @@ spitex-assistent.ch
 spitex-astecura.ch
 spitex-auenstein.ch
 spitex-aufbau.ch
+spitex-aura.ch
 spitex-ausbildung.ch
 spitex-ausserschwyz.ch
 spitex-aussersihl.ch
@@ -15296,6 +15295,7 @@ sport-unlimited.ch
 sport-up.ch
 sport-valais.ch
 sport-velo-center.ch
+sport-verbindet.ch
 sport-verein-t.ch
 sport-vergleich.ch
 sport-verletzung.ch
@@ -15927,6 +15927,7 @@ sportdok.ch
 sportdoo.ch
 sportdreams.ch
 sportdress.ch
+sportdrive.ch
 sportdrivers.ch
 sportduft.ch
 sportdusch.ch
@@ -16627,6 +16628,7 @@ sportmarkt.ch
 sportmart.ch
 sportmaske.ch
 sportmassage-365.ch
+sportmassage-aarau.ch
 sportmassage-baden.ch
 sportmassage-basel.ch
 sportmassage-bern.ch
@@ -21093,6 +21095,7 @@ spycherli.ch
 spycherlignuss.ch
 spycherlijodler.ch
 spychermatt.ch
+spychermatte.ch
 spychermettmenstetten.ch
 spychermuenster.ch
 spycherplatz.ch

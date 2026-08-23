@@ -1841,6 +1841,7 @@ ns1.girizza.ch
 ns1.girra.ch
 ns1.gj-fenster.ch
 ns1.gjonifenster.ch
+ns1.gk02.ch
 ns1.gl-renovations.ch
 ns1.gl.ch
 ns1.glamoursein.ch
@@ -2009,6 +2010,7 @@ ns1.host74.ch
 ns1.hostaction.ch
 ns1.hostalo.ch
 ns1.hostbit.ch
+ns1.hostbott.ch
 ns1.hostboutique.ch
 ns1.hostby.ch
 ns1.hostcloud.ch
@@ -2398,7 +2400,6 @@ ns1.libralures.ch
 ns1.lichtensteiger.ch
 ns1.lichtquelle.ch
 ns1.lieferzonen.ch
-ns1.lienicom.ch
 ns1.lifehost.ch
 ns1.lightshining.ch
 ns1.likebets.ch
@@ -3500,7 +3501,6 @@ ns1.swiss-farmers.ch
 ns1.swiss-media360.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
-ns1.swiss-server.ch
 ns1.swiss-support.ch
 ns1.swiss1-practeo.ch
 ns1.swiss21.ch
@@ -5161,6 +5161,7 @@ ns2.gionatabernasconi.ch
 ns2.girardetlaw.ch
 ns2.gj-fenster.ch
 ns2.gjonifenster.ch
+ns2.gk02.ch
 ns2.gl-renovations.ch
 ns2.gl.ch
 ns2.gl8.ch
@@ -5322,6 +5323,7 @@ ns2.host74.ch
 ns2.hostaction.ch
 ns2.hostalo.ch
 ns2.hostbit.ch
+ns2.hostbott.ch
 ns2.hostboutique.ch
 ns2.hostby.ch
 ns2.hostcloud.ch
@@ -5701,7 +5703,6 @@ ns2.libralures.ch
 ns2.lichtensteiger.ch
 ns2.lichtquelle.ch
 ns2.lieferzonen.ch
-ns2.lienicom.ch
 ns2.lifehost.ch
 ns2.lightshining.ch
 ns2.likebets.ch
@@ -6753,7 +6754,6 @@ ns2.swiss-made-store.ch
 ns2.swiss-media360.ch
 ns2.swiss-pc.ch
 ns2.swiss-portal.ch
-ns2.swiss-server.ch
 ns2.swiss1-practeo.ch
 ns2.swiss21.ch
 ns2.swiss365.ch
@@ -7536,6 +7536,7 @@ ns3.gf-it.ch
 ns3.giginetworks.ch
 ns3.gilbertsoft.ch
 ns3.gincloud.ch
+ns3.gk02.ch
 ns3.gl8.ch
 ns3.glaro.ch
 ns3.glaun.ch
@@ -7656,7 +7657,6 @@ ns3.letsbuild.ch
 ns3.libracore.ch
 ns3.libralures.ch
 ns3.lieferzonen.ch
-ns3.lienicom.ch
 ns3.lifemagic.ch
 ns3.lilo.ch
 ns3.linthcom.ch
@@ -7932,7 +7932,6 @@ ns3.sum.ch
 ns3.sumasoft.ch
 ns3.sunrise.ch
 ns3.swiss-dt.ch
-ns3.swiss-server.ch
 ns3.swisscloudhosting.ch
 ns3.swissdigicert.ch
 ns3.swissfintechinnovationlab.ch
