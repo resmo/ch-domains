@@ -996,7 +996,6 @@ isbag.ch
 isbal.ch
 isbalux.ch
 isbank.ch
-isbar.ch
 isbasel.ch
 isbau.ch
 isbc.ch
@@ -3507,6 +3506,7 @@ ispgest.ch
 ispglasfaserbau.ch
 ispgroup.ch
 ispholdings.ch
+ispig.ch
 ispin-svc.ch
 ispin.ch
 ispinnerschwyz.ch
