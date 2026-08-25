@@ -47,6 +47,7 @@ ph-measurement.ch
 ph-messgeraet.ch
 ph-minus.ch
 ph-moebel-bau.ch
+ph-network.ch
 ph-networks.ch
 ph-neutral.ch
 ph-oswald.ch
@@ -1484,7 +1485,6 @@ pharmavax.ch
 pharmavending.ch
 pharmavending24.ch
 pharmaverpackungen.ch
-pharmaversicherungen.ch
 pharmaversum.ch
 pharmavertrieb-heinze.ch
 pharmavet.ch
@@ -1952,7 +1952,6 @@ pherger.ch
 pherjung.ch
 pherkelchen.ch
 phero.ch
-pheroma.ch
 pheromax.ch
 pheromiya.ch
 pheromone-parfum.ch
@@ -2344,7 +2343,6 @@ philharmonicwinds.ch
 philharmonie.ch
 philharmoniker.ch
 philharmonique.ch
-philharmoniqueromand.ch
 philharmoonia.ch
 philhayes.ch
 philhegetschweiler.ch
@@ -2511,6 +2509,7 @@ philipp-gemperle.ch
 philipp-gertsch.ch
 philipp-ghibu.ch
 philipp-glaus.ch
+philipp-gruppe.ch
 philipp-gubler.ch
 philipp-gurt.ch
 philipp-gut.ch
@@ -2690,6 +2689,7 @@ philippe-durandeau.ch
 philippe-durussel.ch
 philippe-emery.ch
 philippe-et-louis-vial.ch
+philippe-eugster.ch
 philippe-gasser.ch
 philippe-girard.ch
 philippe-gschwend.ch
@@ -2840,6 +2840,7 @@ philippehahn.ch
 philippehertigadvisory.ch
 philippeheule.ch
 philippehollenstein.ch
+philippeholzer.ch
 philippehottinger.ch
 philippehottinguer.ch
 philippehuber.ch
@@ -6095,7 +6096,6 @@ photovoltaik-zug.ch
 photovoltaik.ch
 photovoltaik24.ch
 photovoltaik360.ch
-photovoltaik365.ch
 photovoltaik4all.ch
 photovoltaikanlage-basel.ch
 photovoltaikanlage-reinigung.ch
@@ -6115,7 +6115,6 @@ photovoltaikexperte.ch
 photovoltaikexperten.ch
 photovoltaikexpertise.ch
 photovoltaikfachmann.ch
-photovoltaikfassade.ch
 photovoltaikfassaden.ch
 photovoltaikfirma.ch
 photovoltaikgarage.ch
@@ -7163,7 +7162,6 @@ physio-giger.ch
 physio-gilgen-thun.ch
 physio-gioia.ch
 physio-giovannini.ch
-physio-girouette.ch
 physio-gisler.ch
 physio-glaentern.ch
 physio-glasi.ch
@@ -8086,6 +8084,7 @@ physio-viteo.ch
 physio-viva.ch
 physio-vivace.ch
 physio-vogel.ch
+physio-volketswil.ch
 physio-volmajer.ch
 physio-vonderach.ch
 physio-vonlanthen.ch
@@ -8584,6 +8583,7 @@ physiocraniorheintal.ch
 physiocraniozentrum.ch
 physiocrans.ch
 physiocress.ch
+physiocube.ch
 physiocugy.ch
 physiod.ch
 physiodach.ch
@@ -10403,6 +10403,7 @@ physiotherapie-vevey.ch
 physiotherapie-villmergen.ch
 physiotherapie-voegele.ch
 physiotherapie-vogt.ch
+physiotherapie-volketswil.ch
 physiotherapie-vonheyl.ch
 physiotherapie-vonsaal.ch
 physiotherapie-wagen-jona.ch
@@ -10675,6 +10676,7 @@ physiotherapieverlinden.ch
 physiotherapievethaak.ch
 physiotherapievevey.ch
 physiotherapievillmergen.ch
+physiotherapievolketswil.ch
 physiotherapiewabern.ch
 physiotherapiewaengi.ch
 physiotherapiewald.ch
@@ -10804,8 +10806,6 @@ physiovergers.ch
 physiovergleich.ch
 physioverlinden.ch
 physioverse.ch
-physioversicherung.ch
-physioversicherungen.ch
 physioverzeichnis.ch
 physiovesenaz.ch
 physiovestra.ch

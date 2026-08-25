@@ -1973,7 +1973,6 @@ ns1.hex-hochschule.ch
 ns1.hgcloud.ch
 ns1.hgw-it.ch
 ns1.hiddenprimary.ch
-ns1.hidemail.ch
 ns1.higaki.ch
 ns1.highdefinition.ch
 ns1.highway1.ch
@@ -2737,7 +2736,6 @@ ns1.newonline.ch
 ns1.newsbit.ch
 ns1.newsletter-email-service24.ch
 ns1.newsroom-magazin.ch
-ns1.newtechcloud.ch
 ns1.nexanet.ch
 ns1.nexe.ch
 ns1.nexgate.ch
@@ -2927,6 +2925,7 @@ ns1.phields.ch
 ns1.phinex.ch
 ns1.phirents.ch
 ns1.phme.ch
+ns1.phnetworks.ch
 ns1.phoenixsystems.ch
 ns1.photo-occasion.ch
 ns1.phovoz.ch
@@ -3505,6 +3504,7 @@ ns1.swiss-farmers.ch
 ns1.swiss-media360.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
+ns1.swiss-server.ch
 ns1.swiss-support.ch
 ns1.swiss1-practeo.ch
 ns1.swiss21.ch
@@ -5290,7 +5290,6 @@ ns2.hessundmartigmbh.ch
 ns2.hgcloud.ch
 ns2.hgw-it.ch
 ns2.hiddenprimary.ch
-ns2.hidemail.ch
 ns2.higaki.ch
 ns2.highway1.ch
 ns2.highweb.ch
@@ -6193,6 +6192,7 @@ ns2.phields.ch
 ns2.phinex.ch
 ns2.phirents.ch
 ns2.phme.ch
+ns2.phnetworks.ch
 ns2.phoenixsystems.ch
 ns2.phovoz.ch
 ns2.php72webagentur.ch
@@ -6761,6 +6761,7 @@ ns2.swiss-made-store.ch
 ns2.swiss-media360.ch
 ns2.swiss-pc.ch
 ns2.swiss-portal.ch
+ns2.swiss-server.ch
 ns2.swiss1-practeo.ch
 ns2.swiss21.ch
 ns2.swiss365.ch
@@ -7159,7 +7160,6 @@ ns2.x41.ch
 ns2.xaam.ch
 ns2.xaxi.ch
 ns2.xc-host.ch
-ns2.xcm.ch
 ns2.xcryptoclub.ch
 ns2.xeiro.ch
 ns2.xeit-agentur.ch
@@ -7940,6 +7940,7 @@ ns3.sum.ch
 ns3.sumasoft.ch
 ns3.sunrise.ch
 ns3.swiss-dt.ch
+ns3.swiss-server.ch
 ns3.swisscloudhosting.ch
 ns3.swissdigicert.ch
 ns3.swissfintechinnovationlab.ch
@@ -8905,6 +8906,7 @@ nsvm.ch
 nsvmt.ch
 nsvolley.ch
 nsvr.ch
+nsvs.ch
 nsvta.ch
 nsvw.ch
 nsvwbach.ch
