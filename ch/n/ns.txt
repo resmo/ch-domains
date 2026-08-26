@@ -1602,6 +1602,7 @@ ns1.einzahlung.ch
 ns1.einzeller.ch
 ns1.eitom.ch
 ns1.eits.ch
+ns1.elanpraxis.ch
 ns1.elegantpage.ch
 ns1.elektro-andres.ch
 ns1.elena-nails.ch
@@ -2427,6 +2428,7 @@ ns1.locuscloud.ch
 ns1.loeen.ch
 ns1.loetkompetenz.ch
 ns1.loewingert.ch
+ns1.logeva.ch
 ns1.logex-web.ch
 ns1.logging.ch
 ns1.logitracks.ch
@@ -2456,7 +2458,6 @@ ns1.lwi.ch
 ns1.lylava.ch
 ns1.lynxium.ch
 ns1.lynxxx.ch
-ns1.lyobacomm.ch
 ns1.m-schaufelberger.ch
 ns1.ma-secretere.ch
 ns1.macchinista.ch
@@ -3014,7 +3015,6 @@ ns1.ppremote.ch
 ns1.prax.ch
 ns1.praxis-unfallchirurgie.ch
 ns1.praxis-weissenstein.ch
-ns1.pre.ch
 ns1.predesnoyers.ch
 ns1.premiumcontent.ch
 ns1.premotec.ch
@@ -3956,6 +3956,7 @@ ns1.yfx.ch
 ns1.yjoo.ch
 ns1.ylvie.ch
 ns1.ymed.ch
+ns1.ynovashop.ch
 ns1.yoga-feeling.ch
 ns1.yop.ch
 ns1.youbilanz.ch
@@ -4930,6 +4931,7 @@ ns2.einzahlen.ch
 ns2.einzahlung.ch
 ns2.einzeller.ch
 ns2.eitom.ch
+ns2.elanpraxis.ch
 ns2.elegantpage.ch
 ns2.elektro-andres.ch
 ns2.elena-nails.ch
@@ -5736,6 +5738,7 @@ ns2.locuscloud.ch
 ns2.loeen.ch
 ns2.loetkompetenz.ch
 ns2.loewingert.ch
+ns2.logeva.ch
 ns2.logex-web.ch
 ns2.logging.ch
 ns2.logitracks.ch
@@ -6277,7 +6280,6 @@ ns2.powersolutions.ch
 ns2.ppremote.ch
 ns2.prax.ch
 ns2.praxis-unfallchirurgie.ch
-ns2.pre.ch
 ns2.predesnoyers.ch
 ns2.premiumcontent.ch
 ns2.premotec.ch
@@ -7196,6 +7198,7 @@ ns2.yfx.ch
 ns2.yjoo.ch
 ns2.ylvie.ch
 ns2.ymed.ch
+ns2.ynovashop.ch
 ns2.yoga-feeling.ch
 ns2.yop.ch
 ns2.youbilanz.ch
@@ -7826,7 +7829,6 @@ ns3.polyoperation-test.ch
 ns3.polyoperation.ch
 ns3.popnet.ch
 ns3.populaer.ch
-ns3.pre.ch
 ns3.premotec.ch
 ns3.prime-host.ch
 ns3.profectis.ch
@@ -8476,6 +8478,7 @@ ns91.rtnet.ch
 ns92.rtnet.ch
 nsa-construction.ch
 nsa-eg.ch
+nsa-geneve.ch
 nsa-securite.ch
 nsa.brg.ch
 nsa.ch
@@ -8526,7 +8529,6 @@ nsbmedia.ch
 nsbpoetry.ch
 nsbrec.ch
 nsbrouwer.ch
-nsbrowslashes.ch
 nsbs.ch
 nsc-bike.ch
 nsc-clubheim.ch

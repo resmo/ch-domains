@@ -280,6 +280,7 @@ bdl-arch.ch
 bdl-banca.ch
 bdl-bank.ch
 bdl-banque.ch
+bdl-concept.ch
 bdl-digital.ch
 bdl-furer.ch
 bdl-ip-legal.ch
@@ -297,6 +298,7 @@ bdlait.ch
 bdlap.ch
 bdlatte.ch
 bdlc.ch
+bdlconcept.ch
 bdlconseil.ch
 bdled.ch
 bdlegal.ch
@@ -553,6 +555,7 @@ bdsmzeit.ch
 bdsmzentrale.ch
 bdsmzimmer.ch
 bdsmzone.ch
+bdsnhadat.ch
 bdsolutions.ch
 bdsportactive.ch
 bdspronet.ch
