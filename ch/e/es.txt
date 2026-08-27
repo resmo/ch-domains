@@ -475,6 +475,7 @@ esc-world.ch
 esc.ch
 esc2027.ch
 esc25.ch
+esc42.ch
 esc94.ch
 esca-immo.ch
 esca-lan.ch
@@ -605,7 +606,6 @@ escape-a-la-carte.ch
 escape-addict.ch
 escape-adventure.ch
 escape-ai.ch
-escape-aigle.ch
 escape-appenzell.ch
 escape-arena.ch
 escape-argot.ch
@@ -1404,6 +1404,7 @@ escort-soumise.ch
 escort-stgallen.ch
 escort-suisse.ch
 escort-sursee.ch
+escort-svizzera.ch
 escort-swiss.ch
 escort-switzerland.ch
 escort-ticino.ch
@@ -1593,6 +1594,7 @@ escortnearme.ch
 escortneuchatel.ch
 escortnews.ch
 escortnidwalden.ch
+escortnight.ch
 escortnora.ch
 escortnow.ch
 escortnyon.ch
@@ -2367,6 +2369,7 @@ esicon.ch
 esida.ch
 esieben.ch
 esieber.ch
+esifly.ch
 esig-ju.ch
 esig-jura.ch
 esig-sandbox.ch
@@ -3127,6 +3130,7 @@ espace-futur.ch
 espace-g.ch
 espace-gaia.ch
 espace-ganesha.ch
+espace-gastro.ch
 espace-gesundheitszentren.ch
 espace-go.ch
 espace-golf.ch
@@ -3443,7 +3447,6 @@ espaceaquila.ch
 espacearena.ch
 espaceargile.ch
 espacearogya.ch
-espaceartistesfemmes.ch
 espaceartvif.ch
 espaceasoi.ch
 espaceatama.ch
@@ -3997,7 +4000,6 @@ espacevet.ch
 espacevibrance.ch
 espacevide.ch
 espacevie.ch
-espaceviebienne.ch
 espacevision.ch
 espacevital.ch
 espacevivant.ch
@@ -4479,6 +4481,7 @@ espressoclub.ch
 espressocooker.ch
 espressocoppola.ch
 espressocup.ch
+espressodataprivacy.ch
 espressodesign.ch
 espressodistribution.ch
 espressodolcevita.ch
@@ -4928,6 +4931,7 @@ essbarelandschaft.ch
 essbarenatur.ch
 essbarergarten.ch
 essbaresbesteck.ch
+essbarestadt.ch
 essbaresundtrinkbares.ch
 essbarmehr.ch
 essbarundachtsam.ch
@@ -5446,6 +5450,7 @@ essenzafit-ss.ch
 essenzafit.ch
 essenzahome.ch
 essenzaitaliana.ch
+essenzamoments.ch
 essenzanima.ch
 essenzapura.ch
 essenzasarda.ch

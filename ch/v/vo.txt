@@ -1438,6 +1438,7 @@ voice-healing.ch
 voice-impact.ch
 voice-in-motion.ch
 voice-intake.ch
+voice-intelligence.ch
 voice-kiosk.ch
 voice-machine.ch
 voice-made.ch
@@ -3403,6 +3404,7 @@ volleys9.ch
 volleyschlatt.ch
 volleyschoenenwerd.ch
 volleyscore.ch
+volleyseefeldthun.ch
 volleyseetal.ch
 volleysense.ch
 volleysfgstabio.ch
@@ -4184,7 +4186,6 @@ voltparts.ch
 voltparty.ch
 voltpilot.ch
 voltplan.ch
-voltplus.ch
 voltprojekt.ch
 voltprotect.ch
 voltra-elektrotech.ch
@@ -7086,6 +7087,7 @@ vorsorge-digital.ch
 vorsorge-einfach.ch
 vorsorge-erbrecht.ch
 vorsorge-erholung.ch
+vorsorge-erledigt.ch
 vorsorge-etf.ch
 vorsorge-experte.ch
 vorsorge-experten.ch
@@ -7108,6 +7110,7 @@ vorsorge-jetzt.ch
 vorsorge-journal.ch
 vorsorge-kennzahlen.ch
 vorsorge-kmu.ch
+vorsorge-konkret.ch
 vorsorge-konto.ch
 vorsorge-konto3a.ch
 vorsorge-konzept.ch
@@ -7195,6 +7198,7 @@ vorsorgeauftrag-beispiel.ch
 vorsorgeauftrag-beratung.ch
 vorsorgeauftrag-errichten.ch
 vorsorgeauftrag-fuer-mich.ch
+vorsorgeauftrag-geregelt.ch
 vorsorgeauftrag-hilfe.ch
 vorsorgeauftrag-jetzt.ch
 vorsorgeauftrag-konfigurator.ch
@@ -7207,6 +7211,7 @@ vorsorgeauftrag-vorlage-schweiz.ch
 vorsorgeauftrag-vorlage.ch
 vorsorgeauftrag.ch
 vorsorgeauftrag24.ch
+vorsorgeauftraggeregelt.ch
 vorsorgeauftragguenstig.ch
 vorsorgeauftragkesb.ch
 vorsorgeauftragkonfigurator.ch
@@ -7248,6 +7253,7 @@ vorsorgedossier.ch
 vorsorgeeinrichtung-industrie.ch
 vorsorgeeinrichtung.ch
 vorsorgeeinrichtungen.ch
+vorsorgeerledigt.ch
 vorsorgeexperte.ch
 vorsorgeexperten.ch
 vorsorgefehler.ch
@@ -7290,6 +7296,7 @@ vorsorgekompass.ch
 vorsorgekompass360.ch
 vorsorgekompetenz.ch
 vorsorgekonfigurator.ch
+vorsorgekonkret.ch
 vorsorgekonto-3a.ch
 vorsorgekonto-plus.ch
 vorsorgekonto.ch
@@ -7730,7 +7737,6 @@ vos-sols.ch
 vos-solutions.ch
 vos-studio.ch
 vos-taxes.ch
-vos-vins.ch
 vos.ch
 vosa.ch
 vosadidentro.ch

@@ -1399,6 +1399,7 @@ teamhelp.ch
 teamherbst.ch
 teamhero.ch
 teamheroes.ch
+teamhlcmedia.ch
 teamhoesli.ch
 teamhome.ch
 teamhouse.ch
@@ -3504,7 +3505,6 @@ technicalhunters.ch
 technicalinformationcenter.ch
 technicallogistics.ch
 technically.ch
-technicalmarket.ch
 technicalnet.ch
 technicalreport.ch
 technicalsagl.ch
@@ -3520,7 +3520,6 @@ technicarrelage.ch
 technicart.ch
 technicartiste.ch
 technicel.ch
-technichome.ch
 technician.ch
 technicians.ch
 technicien-ambulancier.ch
@@ -3747,6 +3746,7 @@ technikverstaendnis.ch
 technikware.ch
 technikwelt.ch
 technikwelten.ch
+technikwerk.ch
 technikwissen.ch
 technilabel.ch
 technilift.ch
@@ -4419,6 +4419,7 @@ techops.ch
 techor.ch
 techora.ch
 techos.ch
+techostswiss.ch
 techotomy.ch
 techouila.ch
 techousewood.ch
@@ -4606,7 +4607,6 @@ techstyle.ch
 techsummit.ch
 techsup.ch
 techsuperheroes.ch
-techsupply.ch
 techsupport.ch
 techsupport24.ch
 techsupportfakiry.ch
@@ -5242,6 +5242,7 @@ tectop-vth.ch
 tectop.ch
 tector.ch
 tectorum-swiss.ch
+tectoviq.ch
 tectown.ch
 tectra.ch
 tectrac.ch
@@ -6791,6 +6792,7 @@ tekton-pro.ch
 tekton.ch
 tektona.ch
 tektone.ch
+tektonia.ch
 tektonic.ch
 tektonik.ch
 tektonikarenasardona.ch
@@ -7921,7 +7923,6 @@ telepage.ch
 telepager.ch
 telepart.ch
 telepartner.ch
-teleparts-systems.ch
 telepass.ch
 telepathie-animale.ch
 telepathie-ist-energie.ch
@@ -8383,6 +8384,7 @@ tell-camp.ch
 tell-collect.ch
 tell-daten.ch
 tell-derfilm.ch
+tell-diagnostik.ch
 tell-digital.ch
 tell-eiger.ch
 tell-family.ch
@@ -8408,6 +8410,7 @@ tell-partei.ch
 tell-pass.ch
 tell-pizza.ch
 tell-praxis.ch
+tell-psychotherapie.ch
 tell-reinigugn.ch
 tell-reinigungen.ch
 tell-rides.ch
@@ -8428,6 +8431,7 @@ tell1291.ch
 tell2021.ch
 tell24.ch
 tell28.ch
+tell2bee.ch
 tell91.ch
 tella.ch
 telladventures.ch
@@ -8459,6 +8463,7 @@ tellbus.ch
 tellcamp.ch
 tellcity.ch
 tellcloud.ch
+tellco-anlagestiftung.ch
 tellco-bank.ch
 tellco-europe.ch
 tellco-group.ch
@@ -8467,6 +8472,7 @@ tellco-immo.ch
 tellco-immobili.ch
 tellco-immobilien.ch
 tellco-immobilier.ch
+tellco-pk.ch
 tellco-real-estate.ch
 tellco-realestate.ch
 tellco.ch
@@ -8695,6 +8701,7 @@ tellplatzmaert.ch
 tellplatzoptik.ch
 tellpms.ch
 tellpraxis.ch
+tellpsychotherapie.ch
 tellr.ch
 tellride.ch
 tellrides.ch
@@ -9138,6 +9145,7 @@ tempakademie.ch
 tempal.ch
 tempanesth.ch
 temparus.ch
+tempautomationsalarm.ch
 tempbadge.ch
 tempbauten.ch
 tempbetoro-casino.ch
@@ -9238,6 +9246,7 @@ temperaturstreifen.ch
 temperawatch.ch
 tempereat.ch
 temperierkupplungen.ch
+temperis.ch
 temperli-kosmetik.ch
 temperli-landmaschinen.ch
 temperli.ch
@@ -9865,6 +9874,7 @@ tenantflow.ch
 tenantid.ch
 tenantlab.ch
 tenantmanagement.ch
+tenanto.ch
 tenants.ch
 tenao.ch
 tenaonline.ch
@@ -9881,6 +9891,7 @@ tenashop.ch
 tenaslip.ch
 tenasteel.ch
 tenatalk.ch
+tenatours.ch
 tenatura.ch
 tenausys.ch
 tenavat.ch
@@ -11674,7 +11685,6 @@ tequilaclub.ch
 tequilaherradura.ch
 tequilaria.ch
 tequilashop.ch
-tequilaversand.ch
 tequilaymezcal.ch
 tequileria.ch
 tequipe.ch
@@ -13798,7 +13808,6 @@ terrella.ch
 terrelocale.ch
 terrelumiere.ch
 terremassage.ch
-terremer.ch
 terremoto.ch
 terren.ch
 terrenalresto.ch
@@ -14044,6 +14053,7 @@ terroirvalais.ch
 terroirvaudois.ch
 terroirvs.ch
 terroirweine.ch
+terroirwineclub.ch
 terroirzuerichsee.ch
 terron.ch
 terrone.ch
@@ -14865,6 +14875,7 @@ test-acquisti.ch
 test-adesso-prime.ch
 test-adn.ch
 test-ag.ch
+test-ai.ch
 test-alexis-free.ch
 test-alias-ksuite2.ch
 test-alias-ws.ch
@@ -15301,10 +15312,12 @@ testadditionaltlds.ch
 testaddnewdomsort.ch
 testadidonna.ch
 testadresse.ch
+testaftercartpromo.ch
 testag.ch
 testagiardini.ch
 testagrigia.ch
 testagruppe.ch
+testai.ch
 testair.ch
 testaishtt3.ch
 testaiyyo.ch
@@ -15324,6 +15337,7 @@ testament-en-ligne.ch
 testament-enligne.ch
 testament-erstellen.ch
 testament-geneve.ch
+testament-geregelt.ch
 testament-muster.ch
 testament-numerique.ch
 testament-online.ch
@@ -15344,6 +15358,7 @@ testamente.ch
 testamentenregister-schweiz.ch
 testamentenregister.ch
 testamentgenerator.ch
+testamentgeregelt.ch
 testamento.ch
 testamentonline.ch
 testamentregister.ch
@@ -15854,6 +15869,7 @@ testlbpart.ch
 testlesen.ch
 testless.ch
 testli.ch
+testlimitsbo.ch
 testlink.ch
 testlinkksuitedomainenprod.ch
 testliquidclub.ch
@@ -16854,6 +16870,7 @@ texbiz.ch
 texblatech.ch
 texcalytics.ch
 texcard.ch
+texcare.ch
 texclean-company.ch
 texclean.ch
 texclusive.ch
