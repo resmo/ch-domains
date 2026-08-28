@@ -51,7 +51,6 @@ ap-energy.ch
 ap-ev.ch
 ap-evolution.ch
 ap-executive.ch
-ap-f.ch
 ap-fahrwerk.ch
 ap-fahrwerke.ch
 ap-finanz-consulting.ch
@@ -64,12 +63,10 @@ ap-gebaudetechnik.ch
 ap-gesundheitspraxis.ch
 ap-gewindefahrwerk.ch
 ap-gr.ch
-ap-group.ch
 ap-h.ch
 ap-haustechnik.ch
 ap-hh.ch
 ap-hub.ch
-ap-i.ch
 ap-immo.ch
 ap-immobilien.ch
 ap-informatik.ch
@@ -111,7 +108,6 @@ ap-prod.ch
 ap-proved.ch
 ap-psychologie.ch
 ap-r.ch
-ap-re.ch
 ap-realty.ch
 ap-recyclage.ch
 ap-reim.ch
@@ -164,7 +160,6 @@ ap-zh.ch
 ap1.ch
 ap1plus1.ch
 ap2.ch
-ap21.ch
 ap24.ch
 ap2c.ch
 ap2d4.ch
@@ -661,6 +656,7 @@ apbau.ch
 apbb-vs.ch
 apbc.ch
 apbeaumont.ch
+apbeauty.ch
 apbfincon.ch
 apbis.ch
 apbj.ch
@@ -1302,6 +1298,7 @@ apeteat.ch
 apeter.ch
 apeterresainte.ch
 apethonex.ch
+apetito.ch
 apetitspas.ch
 apetitstation.ch
 apetizer.ch
@@ -2956,7 +2953,9 @@ apointnomme.ch
 apointnutrition.ch
 apointofview.ch
 apointsracontes.ch
+apoio-juridico.ch
 apoio.ch
+apoiojuridico.ch
 apoioswiss.ch
 apoip.ch
 apois.ch
@@ -3496,7 +3495,6 @@ apotheke-richter.ch
 apotheke-rigi.ch
 apotheke-romanshorn.ch
 apotheke-rombach.ch
-apotheke-roseg.ch
 apotheke-roter-ochsen.ch
 apotheke-ruckstuhl.ch
 apotheke-ruopigen.ch
@@ -4092,11 +4090,9 @@ app-sternenmatt.ch
 app-store.ch
 app-suisse-ag.ch
 app-suisse-voice.ch
-app-suisse.ch
 app-suissma.ch
 app-supervision.ch
 app-support.ch
-app-svizzera.ch
 app-swiss.ch
 app-tandem.ch
 app-tapandgo.ch
@@ -4651,6 +4647,7 @@ appenzell-hotels.ch
 appenzell-iisfee.ch
 appenzell-immo.ch
 appenzell-immobilien.ch
+appenzell-immobilienmakler.ch
 appenzell-innerrhoden-portal.ch
 appenzell-innerrhoden-ticker.ch
 appenzell-innerrhoden.ch
@@ -5567,6 +5564,7 @@ applexros.ch
 appleyard.ch
 applezero.ch
 appli--tech.ch
+appli-de-rencontre.ch
 appli-form.ch
 appli-pute.ch
 appli-tec.ch
@@ -6017,7 +6015,6 @@ appresto.ch
 apprezzabranding.ch
 appri.ch
 appricot.ch
-apprimmo.ch
 apprimus.ch
 appris.ch
 appristo.ch
@@ -6242,9 +6239,11 @@ appui-admin.ch
 appui-administratif-seniors.ch
 appui-administratif.ch
 appui-cabinet.ch
+appui-juridique.ch
 appui-scolaire.ch
 appuiadmin.ch
 appuiformation.ch
+appuijuridique.ch
 appuio-beta.ch
 appuio-cloud.ch
 appuio.ch
@@ -7042,6 +7041,7 @@ apunto.ch
 apuntoonline.ch
 apura.ch
 apure.ch
+apurima.ch
 apurna.ch
 apuro-professional.ch
 apuro.ch

@@ -282,6 +282,7 @@ rs2000.ch
 rs22we.ch
 rs24.ch
 rs26.ch
+rs26immo.ch
 rs2generalmanagement.ch
 rs2generalmanager.ch
 rs2i.ch
