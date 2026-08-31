@@ -553,6 +553,7 @@ tableau-blanc.ch
 tableau-des-fanfares.ch
 tableau-electrique.ch
 tableau-lumineux.ch
+tableau-periodique.ch
 tableau-sur-commande.ch
 tableau-x.ch
 tableau.ch
@@ -5474,6 +5475,7 @@ talwogne.ch
 talx.ch
 taly.ch
 talya.ch
+talyavision.ch
 talynor.ch
 talyra.ch
 talyshair.ch
@@ -5878,7 +5880,6 @@ tambouren-langenthal.ch
 tambouren-laufenburg.ch
 tambouren-luechingen.ch
 tambouren-muemliswil-ramiswil.ch
-tambouren-sh.ch
 tambouren-signau.ch
 tambouren-sigriswil-beatenberg.ch
 tambouren-spiez.ch
@@ -6007,6 +6008,7 @@ tameq.ch
 tamer.ch
 tamere.ch
 tameren.ch
+tamerion.ch
 tamerkaraoglu.ch
 tamerna.ch
 tamerza.ch
@@ -6549,7 +6551,6 @@ tandembaselland.ch
 tandemblog.ch
 tandembox.ch
 tandemcal.ch
-tandemclub-schweiz.ch
 tandemclub.ch
 tandemcoa.ch
 tandemcockpit.ch
@@ -6915,7 +6916,6 @@ tangozuerich.ch
 tangr.ch
 tangram-agentur.ch
 tangram-architectures.ch
-tangram-coaching.ch
 tangram-design.ch
 tangram-mentoring.ch
 tangram.ch
@@ -7281,7 +7281,6 @@ tanjanimal-photography.ch
 tanjaodermatt.ch
 tanjaoggier.ch
 tanjaonorato.ch
-tanjaosoria.ch
 tanjapedolin.ch
 tanjapolli.ch
 tanjaportmann.ch
@@ -9501,6 +9500,7 @@ tap1s.ch
 tap2.ch
 tap2cash.ch
 tap2pay.ch
+tap2review.ch
 tap2tip.ch
 tap4.ch
 tapa-noveos.ch
@@ -9903,6 +9903,7 @@ tappetoverdesintetico.ch
 tappetovolante.ch
 tappezzeriamonti.ch
 tappezzeriapettinato.ch
+tappezzeriatappetiticino.ch
 tappharma.ch
 tapphat.ch
 tapping-soft.ch
@@ -11854,6 +11855,7 @@ tastic.ch
 tastie.ch
 tastier-beta.ch
 tastier.ch
+tastierwebsites.ch
 tastify.ch
 tastillery.ch
 tasting-atelier.ch
@@ -13037,7 +13039,6 @@ tauchen-in-der-schweiz.ch
 tauchen-kindertauchen.ch
 tauchen-lernen.ch
 tauchen-mit-spass.ch
-tauchen-ostschweiz.ch
 tauchen-tgh.ch
 tauchen.ch
 tauchenbodensee.ch
@@ -13529,8 +13530,6 @@ tauscher.ch
 tauscherei.ch
 tauscheria.ch
 tauschetaschen.ch
-tauschfenster.ch
-tauschfenster24.ch
 tauschforum.ch
 tauschgeraete.ch
 tauschgeschaeft.ch
@@ -13703,7 +13702,6 @@ tavasfoodtruck.ch
 tavasgastro.ch
 tavast.ch
 tavata.ch
-tavato.ch
 tavau.ch
 tavaufund.ch
 tavauswissfund.ch
@@ -14027,6 +14025,7 @@ tax-camp.ch
 tax-ch.ch
 tax-chat.ch
 tax-cloud.ch
+tax-compass.ch
 tax-con.ch
 tax-concept.ch
 tax-consultation.ch
@@ -14252,6 +14251,7 @@ taxcockpit.ch
 taxcom.ch
 taxcompany.ch
 taxcompare.ch
+taxcompass.ch
 taxcompliance.ch
 taxcon.ch
 taxcon24.ch
@@ -16204,8 +16204,6 @@ taxre.ch
 taxready.ch
 taxreclaim.ch
 taxreclaimservices.ch
-taxrefund.ch
-taxrefunds.ch
 taxrelax.ch
 taxrep.ch
 taxreporting.ch

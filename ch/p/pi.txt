@@ -1773,7 +1773,6 @@ pickpeak.ch
 pickplace.ch
 pickpocket.ch
 pickpockets.ch
-pickpoint.ch
 pickpost.ch
 pickpost24.ch
 pickr.ch
@@ -4481,6 +4480,7 @@ pilatus-paragliding.ch
 pilatus-partner.ch
 pilatus-partners.ch
 pilatus-pc24.ch
+pilatus-pilze.ch
 pilatus-praxis.ch
 pilatus-projects.ch
 pilatus-putzete.ch
@@ -4581,6 +4581,7 @@ pilatusparaglidingclub.ch
 pilatuspartner.ch
 pilatuspartners.ch
 pilatuspc24.ch
+pilatuspilze.ch
 pilatuspraxis.ch
 pilatuspraxiskriens.ch
 pilatusprints.ch
@@ -4808,6 +4809,7 @@ piliers.ch
 piliersuisse.ch
 pilif.ch
 piliflix.ch
+piligrims.ch
 pilim.ch
 pilimpi.ch
 pilina.ch
@@ -7397,6 +7399,7 @@ pipasa.ch
 pipau.ch
 pipazza.ch
 pipboy.ch
+pipc.ch
 pipczynski.ch
 pipe-coat-center.ch
 pipe-finder.ch
@@ -7642,6 +7645,7 @@ pipsark.ch
 pipsqueak.ch
 pipster.ch
 pipstronic.ch
+pipsworld.ch
 pipsy.ch
 piptoporus.ch
 pipus.ch
@@ -7849,7 +7853,6 @@ pirates-basket.ch
 pirates-basketball.ch
 pirates-de-rive.ch
 pirates-ouchy.ch
-pirates-school.ch
 pirates-without-borders.ch
 pirates.ch
 pirates4-movie.ch
@@ -8531,7 +8534,6 @@ pistenbauverbot.ch
 pistenbeizli.ch
 pistenbericht.ch
 pistenberichte.ch
-pistenblitz.ch
 pistenbock.ch
 pistenbully.ch
 pistenexpress.ch
@@ -8980,7 +8982,6 @@ pitscheria.ch
 pitschgi-taschen.ch
 pitschi.ch
 pitschicoin.ch
-pitschiscrea.ch
 pitschlis.ch
 pitschmann-work.ch
 pitschmann.ch
@@ -9317,6 +9318,7 @@ pivatfinancebank.ch
 pivatoporte.ch
 pivaud.ch
 pive.ch
+pivello.ch
 piveo.ch
 pivert.ch
 pives.ch
@@ -10019,6 +10021,7 @@ pixelschubser.ch
 pixelschupser.ch
 pixelscreen.ch
 pixelsear.ch
+pixelseite.ch
 pixelsforswitzerland.ch
 pixelsharkmedia.ch
 pixelshealth.ch
@@ -10193,11 +10196,13 @@ pixify-ai.ch
 pixify-demo.ch
 pixify.ch
 pixifyai.ch
+pixifyprint.ch
 pixii.ch
 pixik.ch
 pixikids.ch
 pixilab.ch
 pixilaser.ch
+pixilux.ch
 piximeo.ch
 piximmo.ch
 pixin.ch
@@ -10413,7 +10418,6 @@ pixxxx-studio.ch
 pixy.ch
 pixycustom.ch
 pixyform.ch
-pixyfoto-booklet.ch
 pixygebo.ch
 pixyimmo.ch
 pixyplay.ch
@@ -10430,6 +10434,7 @@ piya.ch
 piyada-thaimassage.ch
 piyadoener.ch
 piyakebab.ch
+piyaphornmueller.ch
 piyawat-prommee.ch
 piykits.ch
 piyoma.ch
@@ -10511,6 +10516,9 @@ pizexpress.ch
 pizgloria.ch
 pizgloriabar.ch
 pizgloriabistro.ch
+pizgloriacapital.ch
+pizgloriagroup.ch
+pizgloriaproductions.ch
 pizgrisch.ch
 pizgroup.ch
 pizgroupholding.ch
@@ -10994,7 +11002,6 @@ pizza-san-marco.ch
 pizza-sanmarco.ch
 pizza-savora.ch
 pizza-schaufel.ch
-pizza-schmitte.ch
 pizza-schnitz.ch
 pizza-schoenthal.ch
 pizza-search.ch
