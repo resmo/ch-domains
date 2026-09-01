@@ -1601,6 +1601,7 @@ my-smile.ch
 my-smoothie.ch
 my-sms.ch
 my-snacky.ch
+my-snb.ch
 my-so.ch
 my-socialcard.ch
 my-socialmedia.ch
@@ -5193,7 +5194,6 @@ myfavtools.ch
 myfc-sion.ch
 myfc.ch
 myfcsion.ch
-myfct.ch
 myfcw.ch
 myfe.ch
 myfeedback.ch
@@ -5498,7 +5498,6 @@ myfotoshoot.ch
 myfotoshooting.ch
 myfotospiegel.ch
 myfotospots.ch
-myfotostory.ch
 myfound.ch
 myfoundation.ch
 myfourchette-info.ch
@@ -5800,7 +5799,6 @@ mygold.ch
 mygoldbachneo.ch
 mygoldberry.ch
 mygolden.ch
-mygoldfish.ch
 mygoldi.ch
 mygoldpunkt.ch
 mygolf-card.ch
@@ -5866,6 +5864,8 @@ mygraubuenden.ch
 mygravee.ch
 mygravel.ch
 mygrc.ch
+mygrcguide.ch
+mygrcpartner.ch
 mygreatconsulting.ch
 mygreatwave.ch
 mygreece.ch
@@ -7558,7 +7558,6 @@ myluftbild.ch
 mylugano.ch
 mylule.ch
 mylumara.ch
-mylumesia.ch
 mylumora.ch
 myluna.ch
 mylunaitsens.ch
@@ -7739,7 +7738,6 @@ mymedconnect.ch
 mymeddiary.ch
 mymeddossier.ch
 mymedgate.ch
-mymedi-risk.ch
 mymedi.ch
 mymedi24.ch
 mymedia.ch
@@ -7771,7 +7769,6 @@ mymedio.ch
 mymedionline.ch
 mymediplan.ch
 mymedireg.ch
-mymedirisk.ch
 mymedis.ch
 mymediserv.ch
 mymediservice.ch
@@ -7853,7 +7850,6 @@ mymidwife.ch
 mymiele.ch
 mymietkaution.ch
 mymieva.ch
-mymigel.ch
 mymigraine.ch
 mymigrolino.ch
 mymigros.ch
@@ -8027,7 +8023,6 @@ mymuesli2go.ch
 mymuh.ch
 mymulte.ch
 mymulti.ch
-mymultichannel.ch
 mymultimedia.ch
 mymultinet.ch
 mymundo.ch
@@ -9289,7 +9284,6 @@ myprivatebanking.ch
 myprivatebear.ch
 myprivateboat.ch
 myprivateboutique.ch
-myprivatecare.ch
 myprivatecellar.ch
 myprivatecloud.ch
 myprivatedressing.ch
@@ -9346,6 +9340,7 @@ myprono.ch
 mypronutrition.ch
 myprop.ch
 myproperti.ch
+myproperties.ch
 mypropertix.ch
 myproperty.ch
 mypropertyfox.ch
@@ -10204,7 +10199,6 @@ myself-coaching.ch
 myself-health.ch
 myself-ssi.ch
 myself.ch
-myselfie-risk.ch
 myselfie.ch
 myselfiebooth.ch
 myselfiebox.ch
@@ -10457,7 +10451,6 @@ myslip.ch
 myslm.ch
 myslots.ch
 myslpolska-gva.ch
-myslushy.ch
 mysm.ch
 mysm365.ch
 mysmail.ch
@@ -11083,6 +11076,7 @@ mystrohmeier.ch
 mystrom.ch
 mystromer.ch
 mystruki.ch
+mystruppi.ch
 mysts.ch
 mystsnet.ch
 mystudent.ch
@@ -11687,7 +11681,6 @@ mytex.ch
 mytexstyle.ch
 mytextart.ch
 mytextil.ch
-mytextile.ch
 mytextilservice.ch
 mytextur.ch
 mytexture.ch
@@ -11980,7 +11973,6 @@ mytoolbox.ch
 mytoolexpert.ch
 mytools.ch
 mytoolshop.ch
-mytoolsmyrules.ch
 mytoolstore.ch
 mytoolswiss.ch
 mytooth.ch
@@ -12360,8 +12352,6 @@ myvespa.ch
 myvet.ch
 myvetlife.ch
 myvetly.ch
-myvetmed.ch
-myvetmedi.ch
 myvetplan.ch
 myvets.ch
 myvfo.ch

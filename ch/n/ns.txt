@@ -900,7 +900,6 @@ ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
 ns1.assetalpin.ch
-ns1.assh.ch
 ns1.assistancepc.ch
 ns1.assistances.ch
 ns1.assistancesplus.ch
@@ -1544,7 +1543,6 @@ ns1.duotones.ch
 ns1.dustgroove.ch
 ns1.dwb.ch
 ns1.dynabyte.ch
-ns1.dynkit.ch
 ns1.e-b-p.ch
 ns1.e-bibliotg.ch
 ns1.e-depannages.ch
@@ -1705,7 +1703,6 @@ ns1.feedodo.ch
 ns1.fegetz-allee.ch
 ns1.feierabendbier.ch
 ns1.felines.ch
-ns1.ferienhuetten.ch
 ns1.fermes-ouvertes.ch
 ns1.feusolidarite.ch
 ns1.fhvi.ch
@@ -2574,7 +2571,6 @@ ns1.mietauto24.ch
 ns1.mig-haco.ch
 ns1.mikroelek.ch
 ns1.milkycloud.ch
-ns1.mimos.ch
 ns1.mints-hosting.ch
 ns1.miomedia.ch
 ns1.mipla.ch
@@ -2592,7 +2588,6 @@ ns1.mkhosting.ch
 ns1.mlcloud.ch
 ns1.mm-mediaholding.ch
 ns1.mnbsserver.ch
-ns1.mobi-net.ch
 ns1.mobidick.ch
 ns1.modellbau-technik.ch
 ns1.modern-it.ch
@@ -2846,6 +2841,7 @@ ns1.ovx.ch
 ns1.owcd.ch
 ns1.owebdesign.ch
 ns1.owlet.ch
+ns1.owmit-dns.ch
 ns1.ownspace.ch
 ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
@@ -3702,6 +3698,7 @@ ns1.usz.ch
 ns1.ut99.ch
 ns1.uzh.ch
 ns1.vacc.ch
+ns1.valdenburg.ch
 ns1.valdraus.ch
 ns1.valentin-wine.ch
 ns1.valsite.ch
@@ -3816,7 +3813,6 @@ ns1.webkeeper.ch
 ns1.weblabs.ch
 ns1.webland.ch
 ns1.webload.ch
-ns1.webnews.ch
 ns1.weboffice.ch
 ns1.webopolis.ch
 ns1.weboss.ch
@@ -3892,7 +3888,6 @@ ns1.workserver.ch
 ns1.workvibes.ch
 ns1.world-connect.ch
 ns1.wowa-dns.ch
-ns1.wozozo.ch
 ns1.wp-guru.ch
 ns1.wru.ch
 ns1.wservices.ch
@@ -4013,7 +4008,9 @@ ns10.seedshop.ch
 ns10.sio.ch
 ns10.wnry.ch
 ns101.ihoster.ch
+ns101.mobi-net.ch
 ns102.ihoster.ch
+ns102.mobi-net.ch
 ns103.ihoster.ch
 ns11.akb.ch
 ns11.bucher-walt.ch
@@ -4252,7 +4249,6 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
-ns2.assh.ch
 ns2.assistancepc.ch
 ns2.assistances.ch
 ns2.assistancesplus.ch
@@ -4869,7 +4865,6 @@ ns2.dur.ch
 ns2.dustgroove.ch
 ns2.dwb.ch
 ns2.dynabyte.ch
-ns2.dynkit.ch
 ns2.e-b-p.ch
 ns2.e-depannages.ch
 ns2.e-future.ch
@@ -5025,7 +5020,6 @@ ns2.fdka.ch
 ns2.fdux.ch
 ns2.feedodo.ch
 ns2.felines.ch
-ns2.ferienhuetten.ch
 ns2.fermes-ouvertes.ch
 ns2.feusolidarite.ch
 ns2.fhv.ch
@@ -5859,7 +5853,6 @@ ns2.midix.ch
 ns2.mig-haco.ch
 ns2.mikroelek.ch
 ns2.milkycloud.ch
-ns2.mimos.ch
 ns2.mints-hosting.ch
 ns2.miomedia.ch
 ns2.mipla.ch
@@ -5876,7 +5869,6 @@ ns2.mjt.ch
 ns2.mkhosting.ch
 ns2.mlcloud.ch
 ns2.mm-mediaholding.ch
-ns2.mobi-net.ch
 ns2.mobidick.ch
 ns2.modern-it.ch
 ns2.moebel-meier-brugg.ch
@@ -6111,6 +6103,7 @@ ns2.overrea.ch
 ns2.ovx.ch
 ns2.owcd.ch
 ns2.owebdesign.ch
+ns2.owmit-dns.ch
 ns2.ownspace.ch
 ns2.oxyhelp.ch
 ns2.oyez-oyez.ch
@@ -6949,6 +6942,7 @@ ns2.usz.ch
 ns2.ut99.ch
 ns2.uzh.ch
 ns2.vacc.ch
+ns2.valdenburg.ch
 ns2.valentin-wine.ch
 ns2.valsite.ch
 ns2.variosystems.ch
@@ -7057,7 +7051,6 @@ ns2.weblabs.ch
 ns2.webland.ch
 ns2.webload.ch
 ns2.webmoreplus.ch
-ns2.webnews.ch
 ns2.weboffice.ch
 ns2.webopolis.ch
 ns2.webpager.ch
@@ -7127,7 +7120,6 @@ ns2.workserver.ch
 ns2.workvibes.ch
 ns2.world-connect.ch
 ns2.wowa-dns.ch
-ns2.wozozo.ch
 ns2.wp-guru.ch
 ns2.wru.ch
 ns2.wsbox.ch
