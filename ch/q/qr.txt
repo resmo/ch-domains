@@ -91,6 +91,7 @@ qr-rechnung-api.ch
 qr-rechnung-app.ch
 qr-rechnung-erstellen.ch
 qr-rechnung-generator.ch
+qr-rechnung-online.ch
 qr-rechnung-schweiz.ch
 qr-rechnung-software.ch
 qr-rechnung.ch
@@ -389,6 +390,7 @@ qrrechnung-generator.ch
 qrrechnung-qrmodul.ch
 qrrechnung.ch
 qrrechnungen.ch
+qrrechnungerstellen.ch
 qrreroute.ch
 qrrgenerator.ch
 qrrr.ch

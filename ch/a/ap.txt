@@ -775,6 +775,7 @@ apdhome.ch
 apdi-vd.ch
 apdi.ch
 apdialog.ch
+apdigital.ch
 apdis.ch
 apdiy.ch
 apdm.ch
@@ -2072,6 +2073,7 @@ apiculture-fully.ch
 apiculture-gb.ch
 apiculture-gruyere.ch
 apiculture-lausanne.ch
+apiculture-moudon.ch
 apiculture-nyon.ch
 apiculture-saint-maurice.ch
 apiculture-services.ch
@@ -3400,7 +3402,6 @@ apotheke-fluntern.ch
 apotheke-frauenfeld.ch
 apotheke-frick.ch
 apotheke-frutigen.ch
-apotheke-fuer-morgen.ch
 apotheke-gelterkinden.ch
 apotheke-glarus.ch
 apotheke-glattpark.ch
@@ -3451,6 +3452,7 @@ apotheke-luzern.ch
 apotheke-lyssbach.ch
 apotheke-maennedorf.ch
 apotheke-maienfeld.ch
+apotheke-manegg.ch
 apotheke-masans.ch
 apotheke-meierhof.ch
 apotheke-mellingen.ch
@@ -3656,6 +3658,7 @@ apothekelife.ch
 apothekeliliezentrum.ch
 apothekeluzern.ch
 apothekelyssbach.ch
+apothekemanegg.ch
 apothekemeyer.ch
 apothekemoll.ch
 apothekemoser.ch
@@ -4013,6 +4016,8 @@ app-gelenkt.ch
 app-gesundheitsmesse.ch
 app-gutscheine.ch
 app-hafenmanoever.ch
+app-hosting.ch
+app-hyperliquid.ch
 app-in-den-urlaub.ch
 app-in-die-ferien.ch
 app-in.ch
@@ -4281,6 +4286,7 @@ appartement-cologny.ch
 appartement-cransmontana.ch
 appartement-de-vacances.ch
 appartement-douglasie.ch
+appartement-fribourg.ch
 appartement-geneve.ch
 appartement-gruyere.ch
 appartement-hofquartier.ch
@@ -4515,6 +4521,7 @@ appel-conseil-des-etats.ch
 appel-cs.ch
 appel-dair.ch
 appel-des-bois.ch
+appel-des-cedres.ch
 appel-family.ch
 appel-funk.ch
 appel-multinationales-responsables.ch

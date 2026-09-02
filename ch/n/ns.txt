@@ -1280,7 +1280,6 @@ ns1.combrain.ch
 ns1.comdo.ch
 ns1.communic8-web.ch
 ns1.comop.ch
-ns1.compa.ch
 ns1.compa365.ch
 ns1.comparis.ch
 ns1.compdesign.ch
@@ -2097,6 +2096,7 @@ ns1.immobilier-clement.ch
 ns1.immocs-host.ch
 ns1.immomigsa.ch
 ns1.immomovie.ch
+ns1.immozu.ch
 ns1.imp.ch
 ns1.impressionet.ch
 ns1.imunixx.ch
@@ -2347,7 +2347,6 @@ ns1.ladygym.ch
 ns1.lagirizza.ch
 ns1.lagirra.ch
 ns1.lakenet.ch
-ns1.lamadrina.ch
 ns1.lamatouren.ch
 ns1.lamenuiseriegenevoise.ch
 ns1.lancer.ch
@@ -2795,6 +2794,7 @@ ns1.oi-web.ch
 ns1.ois-groups.ch
 ns1.olys.ch
 ns1.omemo.ch
+ns1.omnes.ch
 ns1.omnespro.ch
 ns1.omniamea.ch
 ns1.one4you.ch
@@ -3066,6 +3066,7 @@ ns1.qualityandvalue.ch
 ns1.quantsulting.ch
 ns1.quanttrend.ch
 ns1.quantum-consulting.ch
+ns1.quantumpeak.ch
 ns1.quick-net.ch
 ns1.quick2web.ch
 ns1.qwery.ch
@@ -3137,6 +3138,7 @@ ns1.rieker-cloud.ch
 ns1.riesenservices.ch
 ns1.rigidata.ch
 ns1.rillsoft.ch
+ns1.rimmele.ch
 ns1.ringreal.ch
 ns1.ringrealag.ch
 ns1.riniu.ch
@@ -4620,7 +4622,6 @@ ns2.combrain.ch
 ns2.comdo.ch
 ns2.communic8-web.ch
 ns2.comop.ch
-ns2.compa.ch
 ns2.compa365.ch
 ns2.comparis.ch
 ns2.compdesign.ch
@@ -5402,6 +5403,7 @@ ns2.immobilier-mf.ch
 ns2.immocs-host.ch
 ns2.immomigsa.ch
 ns2.immomovie.ch
+ns2.immozu.ch
 ns2.imp.ch
 ns2.impex-trading.ch
 ns2.implog.ch
@@ -5643,7 +5645,6 @@ ns2.labns.ch
 ns2.labo-pellaton.ch
 ns2.ladygym.ch
 ns2.lakenet.ch
-ns2.lamadrina.ch
 ns2.lamatouren.ch
 ns2.lamenuiseriegenevoise.ch
 ns2.lancer.ch
@@ -6057,6 +6058,7 @@ ns2.ohosting.ch
 ns2.oi-web.ch
 ns2.olys.ch
 ns2.omemo.ch
+ns2.omnes.ch
 ns2.omniamea.ch
 ns2.one4you.ch
 ns2.onemotion.ch
@@ -6321,6 +6323,7 @@ ns2.qualityandvalue.ch
 ns2.quantsulting.ch
 ns2.quanttrend.ch
 ns2.quantum-consulting.ch
+ns2.quantumpeak.ch
 ns2.quick-net.ch
 ns2.quick2web.ch
 ns2.qwery.ch
@@ -6385,6 +6388,7 @@ ns2.richdesign.ch
 ns2.richkart.ch
 ns2.rieker-cloud.ch
 ns2.riesenservices.ch
+ns2.rimmele.ch
 ns2.riniu.ch
 ns2.riono.ch
 ns2.ripe-domains.ch
@@ -7816,6 +7820,7 @@ ns3.pulseflow.ch
 ns3.purecloud.ch
 ns3.pyropac.ch
 ns3.qsv1.ch
+ns3.quantumpeak.ch
 ns3.quick2web.ch
 ns3.raan-thai.ch
 ns3.rbit.ch
