@@ -669,7 +669,6 @@ woezon.ch
 wof-chloote.ch
 wof-wohnmobile.ch
 wof.ch
-wofa.ch
 wofatec.ch
 woff.ch
 woffcatering.ch
@@ -2922,10 +2921,12 @@ wohnung-inserat.ch
 wohnung-interlaken.ch
 wohnung-inwil.ch
 wohnung-kaufen-aargau.ch
+wohnung-kaufen-bad-ragaz.ch
 wohnung-kaufen-bern.ch
 wohnung-kaufen-luzern.ch
 wohnung-kaufen-schwyz.ch
 wohnung-kaufen-solothurn.ch
+wohnung-kaufen-vilters.ch
 wohnung-kaufen-zuerich-24.ch
 wohnung-kaufen-zuerich.ch
 wohnung-kaufen-zug.ch
@@ -3074,6 +3075,7 @@ wohnungen-thun.ch
 wohnungen-umbauen.ch
 wohnungen-uri.ch
 wohnungen-verkaufen.ch
+wohnungen-vilters.ch
 wohnungen-wil-zh.ch
 wohnungen-zentralschweiz.ch
 wohnungen-zu-verkaufen.ch
@@ -4205,6 +4207,7 @@ wolfkonzept.ch
 wolfkran.ch
 wolfland-cloud.ch
 wolfland.ch
+wolflegendmegaways.ch
 wolfli.ch
 wolflive.ch
 wolfloch-oltingen.ch
@@ -8052,7 +8055,6 @@ workout-gym.ch
 workout-regensdorf.ch
 workout.ch
 workoutacademy.ch
-workoutalerts.ch
 workoutandmore.ch
 workoutbrands.ch
 workoutbydaniela.ch
@@ -8334,6 +8336,7 @@ workstream.ch
 workstreams.ch
 workstyle.ch
 worksuite.ch
+worksurface.ch
 workswear.ch
 workswell.ch
 workswiss.ch
@@ -9581,6 +9584,7 @@ wortereignistherapie.ch
 wortesekundant.ch
 wortestillundklar.ch
 worteundmehr.ch
+worteundmomente.ch
 worteundtaten.ch
 worteva.ch
 worteverbinden.ch
@@ -10093,16 +10097,11 @@ wow-card.ch
 wow-ch.ch
 wow-cityrally.ch
 wow-classic.ch
-wow-clinic.ch
 wow-club.ch
 wow-concept.ch
 wow-cosmetics.ch
 wow-cow.ch
 wow-deal.ch
-wow-dentaire.ch
-wow-dental.ch
-wow-dentalclinic.ch
-wow-dentistegeneve.ch
 wow-digital.ch
 wow-entertainment.ch
 wow-escort.ch
@@ -10112,8 +10111,6 @@ wow-expo.ch
 wow-finance.ch
 wow-fitness.ch
 wow-food.ch
-wow-geneva.ch
-wow-geneve.ch
 wow-girl.ch
 wow-girls.ch
 wow-guide.ch
@@ -10136,9 +10133,7 @@ wow-shipping.ch
 wow-shop.ch
 wow-solutions.ch
 wow-studio.ch
-wow-suisse.ch
 wow-sushi-and-momo-schaffhausen.ch
-wow-swiss.ch
 wow-training.ch
 wow-translations.ch
 wow-tv-angebot.ch
@@ -10200,7 +10195,6 @@ wowbrowcosmetics.ch
 wowbrows-beauty-studio.ch
 wowbrows.ch
 wowbydea.ch
-wowcabinetdentaire.ch
 wowcard.ch
 wowcards.ch
 wowch.ch
@@ -10208,9 +10202,6 @@ wowchocolao.ch
 wowchocolate.ch
 wowcityrally.ch
 wowclassic.ch
-wowclinic.ch
-wowclinique.ch
-wowcliniquedentaire.ch
 wowcom.ch
 wowcon.ch
 wowconcept.ch
@@ -10223,13 +10214,6 @@ wowdays.ch
 wowdb.ch
 wowdeal.ch
 wowdeals.ch
-wowdent.ch
-wowdentaire.ch
-wowdental.ch
-wowdentalclinic.ch
-wowdentist.ch
-wowdentiste.ch
-wowdentistegeneve.ch
 wowdepfiff.ch
 wowdigital.ch
 wowe.ch
@@ -10253,8 +10237,6 @@ wowflow.ch
 wowfood.ch
 wowfoto.ch
 wowgadget.ch
-wowgeneva.ch
-wowgeneve.ch
 wowgirl.ch
 wowgod.ch
 wowgold.ch
@@ -10310,8 +10292,6 @@ wowohni.ch
 wowoll.ch
 wowomen.ch
 wowoni.ch
-woworal.ch
-woworalcare.ch
 wowork.ch
 wowotschsuschthi.ch
 wowowo.ch
@@ -10340,9 +10320,7 @@ wowsolution.ch
 wowstick.ch
 wowstore.ch
 wowstudio.ch
-wowsuisse.ch
 wowsupermarkt.ch
-wowswiss.ch
 wowswitzerland.ch
 wowtea.ch
 wowthemagazine.ch
