@@ -208,6 +208,7 @@ it-configuration-guide.ch
 it-congress.ch
 it-connect.ch
 it-connects.ch
+it-cons-shop.ch
 it-conseil.ch
 it-conseils.ch
 it-consu.ch
@@ -438,6 +439,7 @@ it-herrmann.ch
 it-hildebrand.ch
 it-hilfe-sg.ch
 it-hilfe-zuerich.ch
+it-hilfe-zurich.ch
 it-hilfe.ch
 it-hiring.ch
 it-home-base.ch
@@ -1613,7 +1615,6 @@ italics.ch
 italicum.ch
 italicus.ch
 italie-dans-votre-assiette.ch
-italie.ch
 italie8-10.ch
 italien-erleben.ch
 italien-ferienhaus.ch
@@ -1803,7 +1804,6 @@ itambulance.ch
 itambulanz.ch
 itamc.ch
 itamcar.ch
-itamesca.ch
 itamgroup.ch
 itami.ch
 itamo.ch
@@ -2963,8 +2963,6 @@ itj.ch
 itjob.ch
 itjobbern.ch
 itjobhub.ch
-itjobinsider.ch
-itjobmagnet.ch
 itjobmarket.ch
 itjobs.ch
 itjobs4u.ch
@@ -3997,7 +3995,6 @@ itstcloud.ch
 itsteamtime.ch
 itsteatime.ch
 itstellen.ch
-itstellenmarkt.ch
 itstep.ch
 itsteps.ch
 itstherealthing.ch

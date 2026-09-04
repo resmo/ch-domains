@@ -947,7 +947,6 @@ fsp-parts.ch
 fsp-properties.ch
 fsp-suisse.ch
 fsp-tools.ch
-fsp-versicherung.ch
 fsp-versicherungen.ch
 fsp-wall.ch
 fsp-woc.ch
@@ -1000,7 +999,6 @@ fspsn.ch
 fspsuisse.ch
 fspsy.ch
 fspt.ch
-fspversicherung.ch
 fspversicherungen.ch
 fspwerbetech.ch
 fsqs.ch

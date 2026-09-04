@@ -114,6 +114,7 @@ tb0.ch
 tb1.ch
 tb12.ch
 tb13.ch
+tb2.ch
 tb25.ch
 tb2go.ch
 tb70.ch
@@ -322,6 +323,7 @@ tblog.ch
 tblox.ch
 tblsq.ch
 tbltaxi.ch
+tblum.ch
 tblung.ch
 tbm-graenichen.ch
 tbm-holzhandwerk.ch
