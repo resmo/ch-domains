@@ -1580,6 +1580,7 @@ ns1.ecowalldesign.ch
 ns1.ecowave.ch
 ns1.ecoweb.ch
 ns1.edebuser.ch
+ns1.educase.ch
 ns1.edunetwork.ch
 ns1.edv-consulting.ch
 ns1.edv-systeme.ch
@@ -1773,6 +1774,7 @@ ns1.fritigsclub.ch
 ns1.fromthefarm.ch
 ns1.frox.ch
 ns1.fs-dev.ch
+ns1.fsamzh.ch
 ns1.fthg.ch
 ns1.ftl-cdr.ch
 ns1.ftls.ch
@@ -2600,6 +2602,7 @@ ns1.mondani.ch
 ns1.monmarketing.ch
 ns1.montag.ch
 ns1.morandiniconsulenze.ch
+ns1.mordhorst.ch
 ns1.more-fidelity.ch
 ns1.more-it.ch
 ns1.morefidelity.ch
@@ -3162,7 +3165,6 @@ ns1.rockethealth.ch
 ns1.roe.ch
 ns1.roha.ch
 ns1.rohn.ch
-ns1.rolandzahnd.ch
 ns1.rolero.ch
 ns1.romande-energie.ch
 ns1.romibi.ch
@@ -3912,7 +3914,6 @@ ns1.xcm.ch
 ns1.xcryptoclub.ch
 ns1.xeiro.ch
 ns1.xeit-agentur.ch
-ns1.xfibre.ch
 ns1.xiag.ch
 ns1.xindaya.ch
 ns1.xineo.ch
@@ -4905,6 +4906,7 @@ ns2.ecothermsolar.ch
 ns2.ecowalldesign.ch
 ns2.ecoweb.ch
 ns2.edebuser.ch
+ns2.educase.ch
 ns2.edunetwork.ch
 ns2.edv-consulting.ch
 ns2.edv-systeme.ch
@@ -5096,6 +5098,7 @@ ns2.fritigsclub.ch
 ns2.fromthefarm.ch
 ns2.frox.ch
 ns2.fs-dev.ch
+ns2.fsamzh.ch
 ns2.fthg.ch
 ns2.ftl-cdr.ch
 ns2.ftls.ch
@@ -5888,6 +5891,7 @@ ns2.mondani.ch
 ns2.monmarketing.ch
 ns2.montag.ch
 ns2.morandiniconsulenze.ch
+ns2.mordhorst.ch
 ns2.more-it.ch
 ns2.motorlegendswiss.ch
 ns2.mount10.ch
@@ -6416,7 +6420,6 @@ ns2.rockethealth.ch
 ns2.roe.ch
 ns2.roha.ch
 ns2.rohn.ch
-ns2.rolandzahnd.ch
 ns2.rolero.ch
 ns2.romande-energie.ch
 ns2.romibi.ch
@@ -7152,7 +7155,6 @@ ns2.xc-host.ch
 ns2.xcryptoclub.ch
 ns2.xeiro.ch
 ns2.xeit-agentur.ch
-ns2.xfibre.ch
 ns2.xindaya.ch
 ns2.xineo.ch
 ns2.xirrus.ch
@@ -7355,7 +7357,6 @@ ns3.blowfish.ch
 ns3.bluebiz.ch
 ns3.boll.ch
 ns3.bolligerteam.ch
-ns3.bomm.ch
 ns3.bornand-foundation.ch
 ns3.bossinfo.ch
 ns3.brainhost.ch
@@ -8026,7 +8027,6 @@ ns3.wservices.ch
 ns3.wunda.ch
 ns3.wwwhosting.ch
 ns3.xaam.ch
-ns3.xfibre.ch
 ns3.xindaya.ch
 ns3.xirrus.ch
 ns3.xmc.ch
@@ -8094,7 +8094,6 @@ ns4.benjm.ch
 ns4.bensolution.ch
 ns4.bigweb.ch
 ns4.boffo-net.ch
-ns4.bomm.ch
 ns4.bornand-foundation.ch
 ns4.browser7.ch
 ns4.bsource.ch
@@ -8321,7 +8320,6 @@ ns4.woohosting.ch
 ns4.world-connect.ch
 ns4.wowa-dns.ch
 ns4.wwwhosting.ch
-ns4.xfibre.ch
 ns4.xindaya.ch
 ns4.xirrus.ch
 ns4.xmc.ch

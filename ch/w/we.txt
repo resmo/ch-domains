@@ -379,7 +379,6 @@ wealth-3.ch
 wealth-agent.ch
 wealth-architect.ch
 wealth-architects.ch
-wealth-cashback.ch
 wealth-club.ch
 wealth-coach.ch
 wealth-coaching.ch
@@ -559,6 +558,7 @@ wealthware.ch
 wealthwat.ch
 wealthwatch.ch
 wealthway.ch
+wealthweb.ch
 wealthwhatsittoyou.ch
 wealthwire.ch
 wealthwise.ch
@@ -855,8 +855,6 @@ wearevintage.ch
 wearevinyl.ch
 wearevr.ch
 wearewaiv.ch
-wearewave.ch
-wearewaves.ch
 wearewe.ch
 wearewitchers.ch
 wearewondrous.ch
@@ -2499,6 +2497,7 @@ webcamwengen.ch
 webcamwiedersehen.ch
 webcamwiz.ch
 webcamxxx.ch
+webcamzermatt.ch
 webcan.ch
 webcandy.ch
 webcapitalisator.ch
@@ -4103,6 +4102,7 @@ webfuture.ch
 webfux.ch
 webfx.ch
 webg.ch
+webgadgets.ch
 webgaertner.ch
 webgains.ch
 webgalaxie.ch
@@ -4468,6 +4468,7 @@ webite.ch
 webitekt.ch
 webitforyou.ch
 webitranslate.ch
+webits.ch
 webitsec.ch
 webity.ch
 webiva.ch
@@ -6996,7 +6997,6 @@ wecco.ch
 wecelebrate.ch
 wecell.ch
 wecf.ch
-wechalet.ch
 wechange.ch
 wecharge.ch
 wechat.ch
@@ -7367,7 +7367,6 @@ wedding-dj.ch
 wedding-doubled.ch
 wedding-dream.ch
 wedding-dreams.ch
-wedding-dreamworks.ch
 wedding-duett.ch
 wedding-entertainer.ch
 wedding-eve.ch
@@ -9315,7 +9314,6 @@ weibel-maler.ch
 weibel-maleratelier.ch
 weibel-malergeschaeft.ch
 weibel-mammern.ch
-weibel-meilen.ch
 weibel-montagen.ch
 weibel-mueller.ch
 weibel-online.ch
@@ -9458,6 +9456,7 @@ weichenstellen-zh.ch
 weichenstellen.ch
 weichensteller.ch
 weichenstellerin.ch
+weichenstellung.ch
 weichentechnik.ch
 weicher.ch
 weicherkerl.ch
@@ -9735,6 +9734,7 @@ weidmannsfleisch.ch
 weidmannsheil-kalender.ch
 weidmannsheil.ch
 weidmannswelten.ch
+weidmanntreuhand.ch
 weidmannwein.ch
 weidmatt-kaltbach.ch
 weidmatt-quartier.ch
@@ -10438,6 +10438,7 @@ weimuco.ch
 wein-abo.ch
 wein-accessoires.ch
 wein-aesthetik.ch
+wein-agent.ch
 wein-ager.ch
 wein-aktion.ch
 wein-aktionen.ch
@@ -10670,6 +10671,7 @@ weinachtsbaum.ch
 weinachtsgeschenk.ch
 weinachtsgeschenke.ch
 weinaffairs.ch
+weinagent.ch
 weinagentur.ch
 weinager.ch
 weinakademie.ch
@@ -14582,6 +14584,7 @@ wellnessagency.ch
 wellnessagentur.ch
 wellnessaktuell.ch
 wellnessamsee.ch
+wellnessanalyse.ch
 wellnessandgarden.ch
 wellnessandmanagement.ch
 wellnessandmore.ch
@@ -14643,7 +14646,6 @@ wellnessdesign.ch
 wellnessdesigner.ch
 wellnessdeutschland.ch
 wellnessdorf.ch
-wellnessdosis.ch
 wellnessdreams.ch
 wellnessdusche.ch
 wellnessen.ch
@@ -15029,7 +15031,6 @@ wellthspanadvisory.ch
 wellthstrategy.ch
 welltime.ch
 welltone.ch
-welltop.ch
 welltouch.ch
 welltrade.ch
 welltravel.ch
@@ -15551,6 +15552,7 @@ weltdermaschinen.ch
 weltdermesser.ch
 weltderpferde.ch
 weltdersalze.ch
+weltdersaucen.ch
 weltdersenioren.ch
 weltdersinne.ch
 weltderspirituosen.ch
@@ -15771,14 +15773,18 @@ weltkindertag.ch
 weltkiosk.ch
 weltklasse-am-see.ch
 weltklasse-bewegt.ch
+weltklasse-extrameile.ch
 weltklasse-turnen.ch
 weltklasse-zuerich.ch
 weltklasse-zurich.ch
 weltklasse.ch
 weltklassebewegt.ch
+weltklasseextrameile.ch
 weltklassejungs.ch
 weltklasseturnen.ch
+weltklassezuerich-extrameile.ch
 weltklassezuerich.ch
+weltklassezuerichextrameile.ch
 weltklassezurich.ch
 weltklassik.ch
 weltklima.ch
@@ -16621,8 +16627,10 @@ wengerwatch.ch
 wengerwattenwil.ch
 wengerweine.ch
 wengerwerk.ch
+wengerworks.ch
 wengerzermatt.ch
 wenget.ch
+wenggis-alte-und-neue-uhren-shop.ch
 wengi-advisory.ch
 wengi-be.ch
 wengi-endreinigung.ch
@@ -19231,6 +19239,7 @@ werkteam.ch
 werkteamarchitekten.ch
 werkteil.ch
 werktext.ch
+werktime.ch
 werktraum.ch
 werktreff-zurzach.ch
 werktschau.ch
