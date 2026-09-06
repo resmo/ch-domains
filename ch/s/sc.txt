@@ -191,7 +191,6 @@ sc-og-sursee.ch
 sc-og-thun.ch
 sc-og-unterthurgau.ch
 sc-og-zuerich.ch
-sc-og-zuericht-unterland.ch
 sc-ogs.ch
 sc-oh.ch
 sc-openvpn.ch
@@ -5384,6 +5383,7 @@ schauspiel-ueberschlag.ch
 schauspiel-unterricht.ch
 schauspiel-werkstatt.ch
 schauspiel.ch
+schauspielakademie-mask.ch
 schauspielausbildung-schweiz.ch
 schauspielausbildung.ch
 schauspielcoach-stimmeundsprechen.ch
@@ -6157,6 +6157,7 @@ schelker.ch
 schelker73.ch
 schelkerag.ch
 schelkersaegereiag.ch
+schelkes.ch
 schelki.ch
 schell-consult.ch
 schell-ing.ch
@@ -9051,7 +9052,6 @@ schittli.ch
 schittlibar.ch
 schittlitankstell.ch
 schittly-ag.ch
-schittly.ch
 schittny.ch
 schittri.ch
 schiumaspray.ch
@@ -9939,7 +9939,6 @@ schlagern.ch
 schlagernachrichten.ch
 schlagernacht-heimberg.ch
 schlagernacht-luzern.ch
-schlagernacht-schwyz.ch
 schlagernacht-urdorf.ch
 schlagernacht.ch
 schlagernews.ch
@@ -14047,6 +14046,7 @@ schmidlin-bau.ch
 schmidlin-collection.ch
 schmidlin-lab.ch
 schmidlin-mechanik.ch
+schmidlin-perspektiven.ch
 schmidlin-ritter.ch
 schmidlin-schmuck.ch
 schmidlin-schreiner.ch
@@ -20814,7 +20814,6 @@ schreifilm.ch
 schreifuchs.ch
 schreihaels.ch
 schreihals.ch
-schreimerei-luond.ch
 schrein.ch
 schreinefrei.ch
 schreiner-12345.ch
@@ -23607,6 +23606,7 @@ schuhjuwel.ch
 schuhkasten.ch
 schuhkippen.ch
 schuhklappen.ch
+schuhkob.ch
 schuhkondom.ch
 schuhkueng.ch
 schuhkult.ch
@@ -31149,7 +31149,6 @@ schweizerdev.ch
 schweizerdevelopment.ch
 schweizerdeveloppement.ch
 schweizerdiabetiker.ch
-schweizerdialekt.ch
 schweizerdiamant.ch
 schweizerdiamanten.ch
 schweizerdigital.ch
@@ -32374,6 +32373,7 @@ schweizerweizen.ch
 schweizerwelt.ch
 schweizerweltatlas.ch
 schweizerwerbeagenda.ch
+schweizerwerden.ch
 schweizerwerk.ch
 schweizerwerkstaetten.ch
 schweizerwerkstatt.ch
@@ -32465,6 +32465,7 @@ schweizgms.ch
 schweizgoal.ch
 schweizgpt.ch
 schweizguide.ch
+schweizhaus.ch
 schweizheit.ch
 schweizheute.ch
 schweizhilft.ch
@@ -34991,6 +34992,8 @@ scifin.ch
 scifitargets.ch
 scifork.ch
 sciforma.ch
+scig-relocation.ch
+scig-residence.ch
 scig.ch
 scigch.ch
 scige.ch
@@ -34999,6 +35002,7 @@ scighera.ch
 scigility.ch
 scign.ch
 scignc.ch
+scigrelocation.ch
 scigroup.ch
 scij.ch
 scikit.ch
@@ -35058,6 +35062,7 @@ scio-agence.ch
 scio-school.ch
 scio-swiss.ch
 scio.ch
+sciobase.ch
 sciodex.ch
 scioeurope.ch
 scioflex-hydrogen.ch

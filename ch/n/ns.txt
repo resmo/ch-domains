@@ -1939,6 +1939,7 @@ ns1.haslicevi.ch
 ns1.hasselba.ch
 ns1.hauffdns.ch
 ns1.hautdrschlitte.ch
+ns1.hautimpuls.ch
 ns1.hawkie.ch
 ns1.hcc.ch
 ns1.hcuge.ch
@@ -2414,6 +2415,7 @@ ns1.livemedia.ch
 ns1.livenet.ch
 ns1.livingsense.ch
 ns1.lm-renovations-lebrun.ch
+ns1.lmount.ch
 ns1.lmvzh.ch
 ns1.loadtheweb.ch
 ns1.local-host.ch
@@ -3165,6 +3167,7 @@ ns1.rockethealth.ch
 ns1.roe.ch
 ns1.roha.ch
 ns1.rohn.ch
+ns1.rolandzahnd.ch
 ns1.rolero.ch
 ns1.romande-energie.ch
 ns1.romibi.ch
@@ -5256,6 +5259,7 @@ ns2.haslbeck.ch
 ns2.hasler4u.ch
 ns2.haslicevi.ch
 ns2.hasselba.ch
+ns2.hautimpuls.ch
 ns2.hawkie.ch
 ns2.hcc.ch
 ns2.hcuge.ch
@@ -5720,6 +5724,7 @@ ns2.liveinfo.ch
 ns2.livemedia.ch
 ns2.livenet.ch
 ns2.lm-renovations-lebrun.ch
+ns2.lmount.ch
 ns2.lmvzh.ch
 ns2.lnmanagement.ch
 ns2.loadtheweb.ch
@@ -6420,6 +6425,7 @@ ns2.rockethealth.ch
 ns2.roe.ch
 ns2.roha.ch
 ns2.rohn.ch
+ns2.rolandzahnd.ch
 ns2.rolero.ch
 ns2.romande-energie.ch
 ns2.romibi.ch

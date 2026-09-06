@@ -671,6 +671,7 @@ age-enterprise.ch
 age-explorer.ch
 age-food.ch
 age-i.ch
+age-industry.ch
 age-institute.ch
 age-int.ch
 age-lab.ch
@@ -869,6 +870,8 @@ agence-concept-web.ch
 agence-copilote.ch
 agence-couteausuisse.ch
 agence-creation-site-internet.ch
+agence-creation-site-web-valais.ch
+agence-creation-site-web.ch
 agence-credit-geneve.ch
 agence-crescendo.ch
 agence-cristal.ch
@@ -891,6 +894,8 @@ agence-de-nettoyage-vaud.ch
 agence-de-nettoyage.ch
 agence-de-placement.ch
 agence-de-publicite.ch
+agence-de-referencement-local.ch
+agence-de-referencement-seo.ch
 agence-de-rencontre.ch
 agence-de-rencontres.ch
 agence-de-traduction-geneve.ch
@@ -1081,6 +1086,10 @@ agence-publicite-vevey.ch
 agence-publicite.ch
 agence-quartier.ch
 agence-referencement-geneve.ch
+agence-referencement-naturel.ch
+agence-referencement-payant.ch
+agence-referencement-seo.ch
+agence-referencement-web.ch
 agence-referencement.ch
 agence-reflect.ch
 agence-refresh.ch
@@ -1425,6 +1434,7 @@ agencepublicite.ch
 agencepublicitelausanne.ch
 agencequartdheure.ch
 agencer.ch
+agencereferencement.ch
 agencerelationspubliques.ch
 agencerie.ch
 agencerief.ch
@@ -1721,6 +1731,7 @@ agendize.ch
 agendli.ch
 agendo.ch
 agendoskopie.ch
+agendum.ch
 agendx.ch
 agenea.ch
 agenecand.ch
@@ -1917,6 +1928,7 @@ agentic-ai-solutions.ch
 agentic-ai.ch
 agentic-analytics-lab.ch
 agentic-assets.ch
+agentic-cdp.ch
 agentic-coding.ch
 agentic-commerce-operations.ch
 agentic-commerce-ops.ch
@@ -1930,6 +1942,7 @@ agentic-erp.ch
 agentic-jobs.ch
 agentic-kmu.ch
 agentic-lab.ch
+agentic-labs.ch
 agentic-marketing.ch
 agentic-marketplace.ch
 agentic-markets.ch
@@ -2861,7 +2874,6 @@ agi4all.ch
 agia.ch
 agiaas.ch
 agiag.ch
-agiagency.ch
 agiagent.ch
 agiagents.ch
 agial.ch
@@ -3142,7 +3154,6 @@ agilesec-scan.ch
 agilesec.ch
 agileseconline.ch
 agileservice.ch
-agileslernen.ch
 agilesoft.ch
 agilesoftware.ch
 agilesoftwareentwicklung.ch

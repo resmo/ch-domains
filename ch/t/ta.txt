@@ -609,6 +609,7 @@ tabledge.ch
 tabledhote.ch
 tabledhotes-marcodi.ch
 tabledhotesduvillage.ch
+tabledjin.ch
 tabledo.ch
 tabledubonheur.ch
 tableducotton.ch
@@ -6213,6 +6214,7 @@ tammaar.ch
 tamman.ch
 tammarologistics.ch
 tammaromovers.ch
+tammarotransport.ch
 tammarotransports.ch
 tammel.ch
 tammer.ch
@@ -9429,6 +9431,7 @@ taom.ch
 taoma.ch
 taomassage.ch
 taomassagen.ch
+taome.ch
 taomina.ch
 taomo.ch
 taomuller.ch
@@ -10259,6 +10262,7 @@ tarcocimab.ch
 tarcocimabtedromer.ch
 tarcoted.ch
 tarczynski.ch
+tard.ch
 tardanna.ch
 tardeda.ch
 tardent.ch
@@ -10864,6 +10868,7 @@ tarotkarten.ch
 tarotkartenshop.ch
 tarotkompass.ch
 tarotlantis.ch
+tarotlichtblick.ch
 tarotmachine.ch
 tarotmania.ch
 tarotolivia.ch
@@ -11321,7 +11326,6 @@ tashifamily.ch
 tashis.ch
 tashiundfelix.ch
 tashkent.ch
-tashlight.ch
 tashmania.ch
 tasholli.ch
 tasht.ch
@@ -11919,7 +11923,6 @@ tasty-dose.ch
 tasty-food-siselen.ch
 tasty-food.ch
 tasty-for-you.ch
-tasty-geneve.ch
 tasty-gourmetkebab-schaffhausen.ch
 tasty-group.ch
 tasty-ideas.ch
@@ -14491,6 +14494,7 @@ taxi-boat.ch
 taxi-boats.ch
 taxi-bolero.ch
 taxi-booking.ch
+taxi-boot-locarno.ch
 taxi-boot.ch
 taxi-botelho-apollo.ch
 taxi-bottmingen.ch
@@ -15173,9 +15177,17 @@ taxibook.ch
 taxibooker.ch
 taxibookers.ch
 taxibooking.ch
+taxiboot-locarno.ch
 taxiboot-luzern.ch
+taxiboot-tenero.ch
+taxiboot-tessin.ch
+taxiboot-ticino.ch
 taxiboot.ch
 taxibootbasel.ch
+taxibootlocarno.ch
+taxiboottenero.ch
+taxiboottessin.ch
+taxibootticino.ch
 taxibosch.ch
 taxibot.ch
 taxibouveret.ch
@@ -15576,6 +15588,7 @@ taximus.ch
 taximuttenz.ch
 taximy.ch
 taxina.ch
+taxinavetteleman.ch
 taxineckertal.ch
 taxinendaz.ch
 taxinet.ch

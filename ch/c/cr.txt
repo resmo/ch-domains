@@ -118,7 +118,6 @@ crabcap.ch
 crabclawtattoo.ch
 crabcore.ch
 crabcrab.ch
-crabe.ch
 craberatung.ch
 crabi.ch
 crabkey.ch
@@ -1751,6 +1750,7 @@ cravery.ch
 craves.ch
 cravete.ch
 cravex.ch
+cravey.ch
 craving.ch
 craving4sound.ch
 cravingcartel.ch
@@ -3810,6 +3810,8 @@ creation-site-internet-fribourg.ch
 creation-site-internet-geneve.ch
 creation-site-internet-hotel.ch
 creation-site-internet-immobilier.ch
+creation-site-internet-jura.ch
+creation-site-internet-neuchatel.ch
 creation-site-internet-payerne.ch
 creation-site-internet-suisse.ch
 creation-site-internet-valais.ch
@@ -3829,6 +3831,8 @@ creation-site-web-jura.ch
 creation-site-web-lausanne.ch
 creation-site-web-neuchatel.ch
 creation-site-web-suisse.ch
+creation-site-web-valais.ch
+creation-site-web-vaud.ch
 creation-site-web-yverdon.ch
 creation-site-web.ch
 creation-site-yverdon.ch
@@ -3978,11 +3982,13 @@ creationsie.ch
 creationsite-internet.ch
 creationsite.ch
 creationsitegeneve.ch
+creationsiteinternet-geneve.ch
 creationsiteinternet.ch
 creationsiteinternetbulle.ch
 creationsiteinternetgeneve.ch
 creationsiteinternetsuisseromande.ch
 creationsiteinternetyverdon.ch
+creationsiteweb-geneve.ch
 creationsiteweb.ch
 creationslesnrv.ch
 creationslm.ch
@@ -4867,7 +4873,6 @@ creatorcommunity.ch
 creatorconnect.ch
 creatordeal.ch
 creatorfoundations.ch
-creatorhub.ch
 creatori-di-pavimenti.ch
 creatoria.ch
 creatoridipavimenti.ch
@@ -10569,7 +10574,6 @@ cryptnox.ch
 crypto-academy.ch
 crypto-accountant.ch
 crypto-accounting.ch
-crypto-advisor.ch
 crypto-advisory.ch
 crypto-ai.ch
 crypto-akademie.ch
