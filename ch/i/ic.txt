@@ -329,6 +329,7 @@ icd-11.ch
 icd-award.ch
 icd-energy.ch
 icd-finder.ch
+icd-icf.ch
 icd-selbsthilfegruppe.ch
 icd-st-sulpice.ch
 icd.ch
@@ -1929,7 +1930,6 @@ ico-media-support.ch
 ico-spa.ch
 ico-support.ch
 ico-swiss.ch
-ico-zurich.ch
 ico.ch
 icoa.ch
 icoach.ch
@@ -2454,7 +2454,6 @@ icsoa.ch
 icsolution.ch
 icsolutions.ch
 icsp.ch
-icsparquet.ch
 icspartners.ch
 icspiez.ch
 icsquared.ch
@@ -2586,6 +2585,7 @@ ict-fachassessment.ch
 ict-fachausweis.ch
 ict-fachleute.ch
 ict-fachperson.ch
+ict-fachstelle.ch
 ict-facilities.ch
 ict-feldmann.ch
 ict-for-inclusion.ch
@@ -2850,6 +2850,7 @@ ictexpert.ch
 ictexperts.ch
 ictfachleute.ch
 ictfachmann.ch
+ictfachstelle.ch
 ictfactory.ch
 ictforge.ch
 ictforgood.ch

@@ -2012,7 +2012,6 @@ ns1.hostboutique.ch
 ns1.hostby.ch
 ns1.hostcloud.ch
 ns1.hostfactory.ch
-ns1.hostgalaxy.ch
 ns1.hostgarden.ch
 ns1.hosting-atprovider.ch
 ns1.hosting-horat.ch
@@ -2227,7 +2226,6 @@ ns1.jamhosting.ch
 ns1.jamhosting1.ch
 ns1.jamhosting2.ch
 ns1.jamieshosting.ch
-ns1.jamira.ch
 ns1.jandata.ch
 ns1.jasnamarekovic.ch
 ns1.jbconcept.ch
@@ -3672,6 +3670,7 @@ ns1.tsnet.ch
 ns1.tsolis.ch
 ns1.tstaeuble.ch
 ns1.ttcgrauholz.ch
+ns1.ttn.ch
 ns1.tubenet.ch
 ns1.tup-cloud.ch
 ns1.turbobit.ch
@@ -5329,7 +5328,6 @@ ns2.hostbott.ch
 ns2.hostboutique.ch
 ns2.hostby.ch
 ns2.hostcloud.ch
-ns2.hostgalaxy.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
 ns2.hosting-power.ch
@@ -5543,7 +5541,6 @@ ns2.jamhosting.ch
 ns2.jamhosting1.ch
 ns2.jamhosting2.ch
 ns2.jamieshosting.ch
-ns2.jamira.ch
 ns2.jandata.ch
 ns2.jbconcept.ch
 ns2.jdns.ch
@@ -7572,7 +7569,6 @@ ns3.hgw-it.ch
 ns3.hiddenprimary.ch
 ns3.hildidns.ch
 ns3.holiness.ch
-ns3.hostgalaxy.ch
 ns3.hostgarden.ch
 ns3.hostghost.ch
 ns3.hosting-power.ch
