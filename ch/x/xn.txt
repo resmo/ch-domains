@@ -748,6 +748,8 @@ xn--aktionsplan-bildungsqualitt-0kc.ch
 xn--aktionsplanbildungsqualitt-4hc.ch
 xn--aktivitt-6za.ch
 xn--aktivitten-w5a.ch
+xn--aktuell-graubnden-f3b.ch
+xn--aktuell-zrich-4ob.ch
 xn--aku-zri-r2a.ch
 xn--akupunktur-blach-uzb.ch
 xn--akupunktur-fr-pferde-0ec.ch
@@ -992,7 +994,6 @@ xn--alpenberquerung-3vb.ch
 xn--alpenbr-bxa.ch
 xn--alpenflge-w9a.ch
 xn--alpenglck-w9a.ch
-xn--alpenglhen-geb.ch
 xn--alpenglhn-w9a.ch
 xn--alpengrn-d6a.ch
 xn--alpenhtte-v9a.ch
@@ -5682,6 +5683,7 @@ xn--bko-hoa.ch
 xn--bktest-xxa0c.ch
 xn--bkttel-4ya.ch
 xn--bl-gka.ch
+xn--bl-lka.ch
 xn--bl-mnchenstein-jsb.ch
 xn--bl-wia.ch
 xn--bl-wka.ch
@@ -7477,7 +7479,6 @@ xn--brn-spielt-q5a.ch
 xn--brn-treit-v2a.ch
 xn--brn1-loa.ch
 xn--brnbechli-v2a1y.ch
-xn--brnbling-0za.ch
 xn--brnbox-bua.ch
 xn--brncity-5wa.ch
 xn--brnd-moa.ch
@@ -10398,7 +10399,6 @@ xn--city-umzge-heb.ch
 xn--city-zrich-feb.ch
 xn--citybroversand-ksb.ch
 xn--citycasinozrich-9vb.ch
-xn--citycows-zri-mlb.ch
 xn--cityfhrer-u9a.ch
 xn--cityguide-graubnden-kbc.ch
 xn--cityguide-zrich-9vb.ch
@@ -13827,6 +13827,7 @@ xn--eiger-chs-22a.ch
 xn--eiger-kse-12a.ch
 xn--eigerchs-6za.ch
 xn--eigerkse-5za.ch
+xn--eigermnchjungfrau-4zb.ch
 xn--eiggwchs-2zac.ch
 xn--eignungsabklrung-6nb.ch
 xn--eignungserklrung-6nb.ch
@@ -14835,6 +14836,7 @@ xn--ernhrungsexperten-sqb.ch
 xn--ernhrungsexpertin-sqb.ch
 xn--ernhrungsforum-7hb.ch
 xn--ernhrungsforum-zri-ntb70c.ch
+xn--ernhrungsgipfel-2kb.ch
 xn--ernhrungsharmonie-sqb.ch
 xn--ernhrungshilfe-7hb.ch
 xn--ernhrungsicherheit-initiative-2pc.ch
@@ -15909,6 +15911,7 @@ xn--feldjger-4za.ch
 xn--feldmanngrten-jfb.ch
 xn--feldmhle-areal-ksb.ch
 xn--feldmhle-b6a.ch
+xn--feldmhle-rorschach-q6b.ch
 xn--feldmhleareal-0ob.ch
 xn--feldschlsschen-1876-x6b.ch
 xn--feldschlsschen-2pb.ch
@@ -17365,6 +17368,7 @@ xn--forum-v-planung-etb.ch
 xn--forum-wrth-geb.ch
 xn--forum-zrittsch-msbda.ch
 xn--forumbb-gyab.ch
+xn--forumcritiqueducarcral-t8b.ch
 xn--forumdurabilit-okb.ch
 xn--forumenergiezrich-f3b.ch
 xn--forumstfa-12a.ch
@@ -17449,7 +17453,6 @@ xn--fr-bottmingen-wob.ch
 xn--fr-br-jra8na.ch
 xn--fr-ddingen-deb.ch
 xn--fr-di-gmacht-dlb.ch
-xn--fr-di-kva.ch
 xn--fr-dich-gemacht-zvb.ch
 xn--fr-dich-n2a.ch
 xn--fr-dich-und-mich-jzb.ch
@@ -18725,7 +18728,6 @@ xn--ganzget-r2a.ch
 xn--ganzglasgelnder-blb.ch
 xn--ganzglastren-llb.ch
 xn--ganzglaswnde-ocb.ch
-xn--ganzheitliche-gesundheit-strken-hwc.ch
 xn--ganzheitliche-kieferorthopdie-qqc.ch
 xn--ganzheitlicheernhrungsberatung-btc.ch
 xn--ganzheitlichekieferorthopdie-unc.ch
@@ -21772,6 +21774,7 @@ xn--goaff-nua.ch
 xn--goafr-mua.ch
 xn--goapr-zrich-zhb.ch
 xn--gobieau-bya.ch
+xn--gobtle-yxaa.ch
 xn--gocache-bya.ch
 xn--gocaching-b4a.ch
 xn--godtec-bvac.ch
@@ -28552,10 +28555,10 @@ xn--jubilumsgaben-ffb.ch
 xn--jubilumsgeschenke-uqb.ch
 xn--jubilumsmacher-9hb.ch
 xn--jubilumspublikation-kwb.ch
-xn--jubilumswoche-ffb.ch
 xn--jubladdingenkleider-bbc.ch
 xn--jublafscht-v5a.ch
 xn--judhrhausen-ufb.ch
+xn--judithnf-6za.ch
 xn--judithschnenberger-l3b.ch
 xn--judo-fllanden-gfb.ch
 xn--judozri-r2a.ch
@@ -31359,7 +31362,6 @@ xn--komplementrtherapie-luzern-phc.ch
 xn--komplementrtherapie-ost-47b.ch
 xn--komplementrtherapie-plattform-9pc.ch
 xn--komplementrtherapie-schwarzenburg-p1c.ch
-xn--komplementrtherapie-staefa-phc.ch
 xn--komplementrtherapie-time-zbc.ch
 xn--komplementrtherapie-vivere-phc.ch
 xn--komplementrtherapie-wil-47b.ch
@@ -38465,7 +38467,6 @@ xn--mnnergesprch-gcbj.ch
 xn--mnnergesprche-bfbj.ch
 xn--mnnergesundheit-0kb.ch
 xn--mnnerglas-v2a.ch
-xn--mnnerglck-v2a4y.ch
 xn--mnnergrippe-l8a.ch
 xn--mnnerhaus-v2a.ch
 xn--mnnerheilkunde-5hb.ch
@@ -39679,6 +39680,7 @@ xn--nachfolgegesprch-8nb.ch
 xn--nachfolgelsung-4pb.ch
 xn--nachfolger-brse-ktb.ch
 xn--nachfolgerbrse-5pb.ch
+xn--nachfolgeregelung-fr-kmu-etc.ch
 xn--nachhaltig-vermbeln-46b.ch
 xn--nachhaltige-gebudesanierung-pkc.ch
 xn--nachhaltige-holzmbel-kbc.ch
@@ -41299,7 +41301,6 @@ xn--oemakostm-x9a.ch
 xn--oenothque-53a.ch
 xn--oeschgerzahnrzte-6nb.ch
 xn--oettli-christbume-3qb.ch
-xn--ofebnkli-3za.ch
 xn--ofechechli-eeb.ch
 xn--ofengeschft-t8a.ch
 xn--ofenhsli-b6a.ch
@@ -43641,7 +43642,6 @@ xn--porteblinde-kbb.ch
 xn--portesblindes-lhb.ch
 xn--portmann-bron-5ob.ch
 xn--portmann-sanitr-elb.ch
-xn--portmann-schtz-6pb.ch
 xn--portrt-foto-p8a.ch
 xn--portrt-fua.ch
 xn--portrtfoto-u5a.ch
@@ -44112,7 +44112,6 @@ xn--prmien-cua.ch
 xn--prmien-entlastung-rqb.ch
 xn--prmien-rechner-6hb.ch
 xn--prmien-senken-cfb.ch
-xn--prmien-senken-ja-wnb.ch
 xn--prmien-sparen-cfb.ch
 xn--prmien-vergleichen-mtb.ch
 xn--prmienangebot-cfb.ch
@@ -44124,7 +44123,6 @@ xn--prmienfinder-hcb.ch
 xn--prmienfuchs-m8a.ch
 xn--prmienheld-r5a.ch
 xn--prmienhilfe-m8a.ch
-xn--prmieninitiative-wnb.ch
 xn--prmienkrankenkassen-hwb.ch
 xn--prmienpilot-m8a.ch
 xn--prmienportal-hcb.ch
@@ -45296,7 +45294,6 @@ xn--rckbildungsgymnastik-pec.ch
 xn--rckbildungsturnen-22b.ch
 xn--rckbildungzug-wob.ch
 xn--rckblenden-9db.ch
-xn--rckblick-65a.ch
 xn--rckblicke-q9a.ch
 xn--rcke-5qa.ch
 xn--rckeanhnger-r8a91a.ch
@@ -45525,7 +45522,6 @@ xn--rduc-orale-b7aa.ch
 xn--rducation-main-bkba.ch
 xn--rduction-b1a.ch
 xn--rduirelesprimes-bnb.ch
-xn--rduirelesprimes-oui-bzb.ch
 xn--real-3ra.ch
 xn--real-zune-02a.ch
 xn--realitt-bxa.ch
@@ -50546,7 +50542,6 @@ xn--schwalbenscht-jfb.ch
 xn--schwaller-hrberatung-ebc.ch
 xn--schwamm-drber-5ob.ch
 xn--schwammdrber-llb.ch
-xn--schwammdrber-reinigungen-3sc.ch
 xn--schwammhhe-lcb.ch
 xn--schwammobilitt-iib.ch
 xn--schwan-gua.ch
@@ -50801,6 +50796,7 @@ xn--schwimmvereinzrich-z6b.ch
 xn--schwingbse-x5a.ch
 xn--schwinger-bettwsche-uwb.ch
 xn--schwingerbettwsche-ytb.ch
+xn--schwingerchilbi-bhne-5ec.ch
 xn--schwingerknig-nfb0y.ch
 xn--schwingerknig-rmb.ch
 xn--schwingerlt-2hb.ch
@@ -52759,7 +52755,6 @@ xn--spielgruppechnpfli-q3b.ch
 xn--spielgruppefrchdachs-nzb.ch
 xn--spielgruppefrschli-p3b.ch
 xn--spielgruppefxli-bwb.ch
-xn--spielgruppegibeligub-szb.ch
 xn--spielgruppeglckspilz-1ec.ch
 xn--spielgruppehimugegeli-oic.ch
 xn--spielgruppehnibach-x6b.ch
@@ -54120,7 +54115,6 @@ xn--stimm-nd-ab-xfb.ch
 xn--stimmbandlhmung-9kb.ch
 xn--stimmbnder-v5a.ch
 xn--stimmbrgerinnen-4vb.ch
-xn--stimme-klang-krper-q3b.ch
 xn--stimmgert-22a.ch
 xn--stimmlippenlhmung-1qb.ch
 xn--stimmlnde-02a.ch
@@ -55575,7 +55569,6 @@ xn--terracotta-tpfe-ktb.ch
 xn--terrain--vendre-ejb.ch
 xn--terrainsvendre-ngb.ch
 xn--terrainvendre-vdb.ch
-xn--terrariumrckwand-szb.ch
 xn--terrasi-sanitr-iib.ch
 xn--terrassedumanore-ltb.ch
 xn--terrassen-berdachung-yec.ch
@@ -56326,8 +56319,6 @@ xn--tiny-huser-v5a.ch
 xn--tinyhouseanhnger-6nb.ch
 xn--tinyhuser-z2a.ch
 xn--tinyhuserschweiz-znb.ch
-xn--tinykche-b6a.ch
-xn--tinykchen-u9a.ch
 xn--tiopi-5ua.ch
 xn--tippknig-r4a.ch
 xn--tippsfreigentmer-ozbh.ch
@@ -56342,7 +56333,6 @@ xn--tir-intrpide-ieb.ch
 xn--tir-neuchtel-xbb.ch
 xn--tirage-limit-meb.ch
 xn--tiramis-t2a.ch
-xn--tirascarph-ieb.ch
 xn--tirfuud-6wa.ch
 xn--tirol-sterreich-etb.ch
 xn--tisch-fsse-geb.ch
@@ -61045,6 +61035,7 @@ xn--wrfelspiele-thb.ch
 xn--wrfu-0ra.ch
 xn--wrglenhof-q9a.ch
 xn--wrgler-3ya.ch
+xn--wrgundchltteri-gsbi.ch
 xn--wrk-hoa.ch
 xn--wrk-qla.ch
 xn--wrk-sna.ch
@@ -61422,6 +61413,7 @@ xn--wschpi-bua.ch
 xn--wschpinscht-l8ag.ch
 xn--wschpost-n4a.ch
 xn--wschwasser-ecb.ch
+xn--wschwiber-07a.ch
 xn--wschwyb-90a.ch
 xn--wsmeli-drogerie-0kb.ch
 xn--wsmeli-stoos-gcb.ch
@@ -62694,6 +62686,7 @@ xn--zndschnur-q9a.ch
 xn--zndstoff-65a.ch
 xn--zndstoff-magazin-jzb.ch
 xn--zndstoff-marketing-m6b.ch
+xn--zndstoffmagazin-zvb.ch
 xn--zndstoffmarketing-22b.ch
 xn--zndung-3ya.ch
 xn--zndverteiler-dlb.ch
@@ -63729,7 +63722,6 @@ xn--zriliebi-65a.ch
 xn--zrilieder-q9a.ch
 xn--zrilift-n2a.ch
 xn--zrilineschultransporte-slc.ch
-xn--zrilingua-q9a.ch
 xn--zrilini-cxa3s.ch
 xn--zrilins-n2a.ch
 xn--zrilinsen-q9a.ch
