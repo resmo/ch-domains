@@ -3264,7 +3264,6 @@ paint-box.ch
 paint-colours.ch
 paint-floor.ch
 paint-life.ch
-paint-like.ch
 paint-music.ch
 paint-passion.ch
 paint-protection.ch
@@ -4723,6 +4722,7 @@ palliativkind.ch
 palliativklinik.ch
 palliativkompass.ch
 palliativmedizin-bern.ch
+palliativmedizin-kaiseregg.ch
 palliativmedizin-senseland.ch
 palliativmedizin-zuerich.ch
 palliativmedizin.ch
@@ -7346,7 +7346,6 @@ panorinth.ch
 panormamotionpictures.ch
 panoro.ch
 panorundum.ch
-panos.ch
 panoscapital.ch
 panoschweiz.ch
 panoscope.ch
@@ -8624,7 +8623,6 @@ papeterie-pegowa.ch
 papeterie-richert.ch
 papeterie-roth.ch
 papeterie-sauder.ch
-papeterie-schoch.ch
 papeterie-schocher.ch
 papeterie-schwarz.ch
 papeterie-schweiz.ch
@@ -9730,6 +9728,7 @@ paradigm21.ch
 paradigma.ch
 paradigmafilms.ch
 paradigman.ch
+paradigmaquatic.ch
 paradigmavox.ch
 paradigme.ch
 paradigme21.ch
@@ -10224,7 +10223,6 @@ parallel-flight.ch
 parallel-hub.ch
 parallel-import.ch
 parallel-importe.ch
-parallel-lab.ch
 parallel-pilates.ch
 parallel-research.ch
 parallel-tec.ch
@@ -12209,7 +12207,6 @@ parkett-einsiedeln.ch
 parkett-emmental.ch
 parkett-emotionen.ch
 parkett-entfernen.ch
-parkett-experte.ch
 parkett-finder.ch
 parkett-forum.ch
 parkett-fsc.ch
@@ -15041,6 +15038,7 @@ partpage.ch
 partpay.ch
 partpoker.ch
 partrade.ch
+partrer-partner.ch
 partridge.ch
 partrimoine-gruyeres.ch
 partronic.ch
@@ -17341,7 +17339,6 @@ passapp.ch
 passaquay.ch
 passar-web.ch
 passar.ch
-passardi.ch
 passare.ch
 passareco.ch
 passarelle-pruefungsvorbereitung.ch
@@ -19414,7 +19411,6 @@ patera-unternehmung.ch
 patera.ch
 paterakeramikstudio.ch
 paterba.ch
-pateretfilius-consilium.ch
 pateretfilius.ch
 paterkunibertlussy.ch
 paterlada.ch
@@ -21124,7 +21120,6 @@ patrickraaflaub.ch
 patrickrahmen.ch
 patrickralo.ch
 patrickramer.ch
-patrickraval.ch
 patrickrenz.ch
 patrickreuter.ch
 patrickrey.ch
@@ -21692,6 +21687,7 @@ patriziamarcozzi.ch
 patriziamaurer.ch
 patriziametzger.ch
 patriziamo.ch
+patriziamoser.ch
 patrizianapoli.ch
 patriziaochsner.ch
 patriziaoetterli.ch
@@ -23422,6 +23418,7 @@ pavimix.ch
 pavin.ch
 pavincaffe.ch
 paving-stones.ch
+paving.ch
 pavingways.ch
 pavino.ch
 pavinord.ch
@@ -24767,6 +24764,7 @@ paysgourmand.ch
 payshare.ch
 payshield.ch
 payshorloger.ch
+paysignal.ch
 paysik.ch
 paysimaginaire.ch
 paysimplex.ch

@@ -201,6 +201,7 @@ mg-massage.ch
 mg-matterhorn.ch
 mg-mattmark.ch
 mg-mc.ch
+mg-medweth.ch
 mg-meierskappel.ch
 mg-meilen.ch
 mg-meisterschwanden.ch
@@ -250,6 +251,7 @@ mg-pferdetransport.ch
 mg-photo.ch
 mg-photography.ch
 mg-plaffeien.ch
+mg-portal.ch
 mg-preise.ch
 mg-pro.ch
 mg-production.ch
@@ -359,7 +361,6 @@ mg-zr-swiss.ch
 mg-zr.ch
 mg-zuckenriet.ch
 mg-zufikon.ch
-mg1.ch
 mg10.ch
 mg161.ch
 mg2-test-20201126.ch
@@ -370,7 +371,6 @@ mg3.ch
 mg304.ch
 mg32.ch
 mg3capital.ch
-mg3d.ch
 mg4.ch
 mg4business.ch
 mg5.ch
@@ -609,6 +609,7 @@ mgdetailing.ch
 mgdetligen.ch
 mgdh.ch
 mgdicken.ch
+mgdigital.ch
 mgdigitalsport.ch
 mgdk.ch
 mgdom.ch

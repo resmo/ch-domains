@@ -730,6 +730,7 @@ smart-boards.ch
 smart-bodies.ch
 smart-bon.ch
 smart-bones.ch
+smart-border.ch
 smart-bottle.ch
 smart-bourse.ch
 smart-box.ch
@@ -803,6 +804,7 @@ smart-clips.ch
 smart-clouds.ch
 smart-club.ch
 smart-cnc.ch
+smart-cockpit.ch
 smart-collect.ch
 smart-collection.ch
 smart-comfort.ch
@@ -1363,7 +1365,6 @@ smart-skill.ch
 smart-skills.ch
 smart-sky.ch
 smart-sla.ch
-smart-smart-home.ch
 smart-smile.ch
 smart-social-solutions.ch
 smart-socks.ch
@@ -1793,6 +1794,7 @@ smartbooking.ch
 smartbooks.ch
 smartbooost.ch
 smartbooster.ch
+smartborder.ch
 smartbot.ch
 smartbotics.ch
 smartbots.ch
@@ -2136,7 +2138,6 @@ smartcreation.ch
 smartcreationglobal.ch
 smartcreations.ch
 smartcreative.ch
-smartcredit.ch
 smartcret.ch
 smartcrew.ch
 smartcric.ch
@@ -3978,7 +3979,6 @@ smartsleep.ch
 smartsleeve.ch
 smartslot.ch
 smartsmallhouse.ch
-smartsmarthome.ch
 smartsmile.ch
 smartsnapp.ch
 smartsocial.ch
@@ -5133,6 +5133,7 @@ smg-guitar.ch
 smg-hochdorf.ch
 smg-immobilien.ch
 smg-law.ch
+smg-machines.ch
 smg-media.ch
 smg-milchschafe.ch
 smg-security.ch

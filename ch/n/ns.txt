@@ -240,6 +240,7 @@ ns.freizeitmobilestucki.ch
 ns.gamingfederation.ch
 ns.gbassurances.ch
 ns.geberit.ch
+ns.geotopo.ch
 ns.gerardi.ch
 ns.gfeller-solartechnik.ch
 ns.giogio.ch
@@ -1044,7 +1045,6 @@ ns1.bizsoftware.ch
 ns1.bkb.ch
 ns1.bkw.ch
 ns1.blackpool-music.ch
-ns1.blaise-dental.ch
 ns1.blanc-architekten.ch
 ns1.blasercafe.ch
 ns1.blcconsulting.ch
@@ -1139,6 +1139,7 @@ ns1.businessbox.ch
 ns1.butinfo.ch
 ns1.bvb.ch
 ns1.bw-server.ch
+ns1.bw-solutions.ch
 ns1.bwenri.ch
 ns1.byebyehotelmama.ch
 ns1.byeight.ch
@@ -1322,7 +1323,6 @@ ns1.cqo.ch
 ns1.crash-communities.ch
 ns1.crassus.ch
 ns1.crater.ch
-ns1.crb.ch
 ns1.cre8.ch
 ns1.creacom-it.ch
 ns1.creancia.ch
@@ -1704,7 +1704,6 @@ ns1.fegetz-allee.ch
 ns1.feierabendbier.ch
 ns1.felines.ch
 ns1.fermes-ouvertes.ch
-ns1.feusolidarite.ch
 ns1.fhvi.ch
 ns1.fibreshape.ch
 ns1.fiduciaire-du-mont-blanc.ch
@@ -1819,7 +1818,6 @@ ns1.geneve-autrement.ch
 ns1.geni.ch
 ns1.geoash.ch
 ns1.geothermie2020.ch
-ns1.geotopo.ch
 ns1.gertit.ch
 ns1.gesticlub.ch
 ns1.getrich.ch
@@ -1855,6 +1853,7 @@ ns1.globus.ch
 ns1.gloeggli.ch
 ns1.gluc.ch
 ns1.glweb.ch
+ns1.glxy.ch
 ns1.glycoscore.ch
 ns1.gmacg.ch
 ns1.gmlss1.ch
@@ -2004,7 +2003,6 @@ ns1.host4.ch
 ns1.host4me.ch
 ns1.host74.ch
 ns1.hostaction.ch
-ns1.hostalo.ch
 ns1.hostbit.ch
 ns1.hostbott.ch
 ns1.hostboutique.ch
@@ -2665,7 +2663,6 @@ ns1.n3network.ch
 ns1.n3t.ch
 ns1.nabiona.ch
 ns1.naccess.ch
-ns1.nachschlag.ch
 ns1.nacloud.ch
 ns1.nadesign.ch
 ns1.naissances.ch
@@ -3274,6 +3271,7 @@ ns1.securitycams.ch
 ns1.seelsorgeeinheit-magdenau.ch
 ns1.sef-systems.ch
 ns1.seiferle-aviation.ch
+ns1.sek2-be.ch
 ns1.selbstheilkraft.ch
 ns1.selbstheilkurse.ch
 ns1.self-fish.ch
@@ -4396,7 +4394,6 @@ ns2.bitwork.ch
 ns2.bizbase.ch
 ns2.bizsoftware.ch
 ns2.bkw.ch
-ns2.blaise-dental.ch
 ns2.blanc-architekten.ch
 ns2.blasercafe.ch
 ns2.blcconsulting.ch
@@ -4487,6 +4484,7 @@ ns2.burgers.ch
 ns2.businessbox.ch
 ns2.butinfo.ch
 ns2.bvb.ch
+ns2.bw-solutions.ch
 ns2.bwenri.ch
 ns2.byebyehotelmama.ch
 ns2.byeight.ch
@@ -4674,7 +4672,6 @@ ns2.cqo.ch
 ns2.crash-communities.ch
 ns2.crassus.ch
 ns2.crater.ch
-ns2.crb.ch
 ns2.cre8.ch
 ns2.creacom-it.ch
 ns2.creancia.ch
@@ -5032,7 +5029,6 @@ ns2.fdux.ch
 ns2.feedodo.ch
 ns2.felines.ch
 ns2.fermes-ouvertes.ch
-ns2.feusolidarite.ch
 ns2.fhv.ch
 ns2.fibreshape.ch
 ns2.fide-admin.ch
@@ -5180,6 +5176,7 @@ ns2.globalnetsystem.ch
 ns2.globalpower.ch
 ns2.globus.ch
 ns2.glweb.ch
+ns2.glxy.ch
 ns2.glycoscore.ch
 ns2.gmacg.ch
 ns2.gmlss1.ch
@@ -5321,7 +5318,6 @@ ns2.host4.ch
 ns2.host4me.ch
 ns2.host74.ch
 ns2.hostaction.ch
-ns2.hostalo.ch
 ns2.hostbit.ch
 ns2.hostbott.ch
 ns2.hostboutique.ch
@@ -5954,7 +5950,6 @@ ns2.mysticindigo.ch
 ns2.n3network.ch
 ns2.n3t.ch
 ns2.nabiona.ch
-ns2.nachschlag.ch
 ns2.nacloud.ch
 ns2.nadesign.ch
 ns2.naissances.ch
@@ -7372,6 +7367,7 @@ ns3.bsource.ch
 ns3.bst-ag.ch
 ns3.buffs.ch
 ns3.burgers.ch
+ns3.bw-solutions.ch
 ns3.bytefarm.ch
 ns3.bytelink.ch
 ns3.call-up.ch
@@ -7543,6 +7539,7 @@ ns3.glaun.ch
 ns3.globaldns.ch
 ns3.globonet.ch
 ns3.globus.ch
+ns3.glxy.ch
 ns3.glycoscore.ch
 ns3.gmlss1.ch
 ns3.goeldi.ch
@@ -8120,7 +8117,6 @@ ns4.dnssecurity.ch
 ns4.doit-verein.ch
 ns4.dosim.ch
 ns4.dreamhost.ch
-ns4.e-globe-solutions.ch
 ns4.e-next.ch
 ns4.easydnssec.ch
 ns4.edvlns.ch
@@ -8513,6 +8509,7 @@ nsbmedia.ch
 nsbpoetry.ch
 nsbrec.ch
 nsbrouwer.ch
+nsbrowslashes.ch
 nsbs.ch
 nsc-bike.ch
 nsc-clubheim.ch

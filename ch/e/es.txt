@@ -164,6 +164,7 @@ es2030.ch
 es2050.ch
 es24.ch
 es2d.ch
+es2g.ch
 es2i.ch
 es365.ch
 es4.ch
@@ -416,7 +417,6 @@ esbessers.ch
 esbethusy.ch
 esbewegt.ch
 esbf.ch
-esbfahrni.ch
 esbh.ch
 esbj.ch
 esblendet.ch
@@ -432,11 +432,8 @@ esbriet.ch
 esbringts.ch
 esbroufe.ch
 esbs.ch
-esbsicherungstechnik.ch
 esbsuisse.ch
-esbtechnik-fahrni.ch
 esbtechnik.ch
-esbtechnikfahrni.ch
 esbuenosaires.ch
 esbus.ch
 esbussigny.ch
@@ -3064,6 +3061,7 @@ espace-diabeto-sante.ch
 espace-diamono.ch
 espace-dickens.ch
 espace-droit.ch
+espace-du-coeur.ch
 espace-du-futur.ch
 espace-du-pied.ch
 espace-eclosion.ch
@@ -3448,6 +3446,7 @@ espaceaquila.ch
 espacearena.ch
 espaceargile.ch
 espacearogya.ch
+espaceartistesfemmes.ch
 espaceartvif.ch
 espaceasoi.ch
 espaceatama.ch
@@ -5469,7 +5468,6 @@ essenzedieldasoulsspirit.ch
 essenzediluce.ch
 essenzeitaliane.ch
 essenzen-laden.ch
-essenzen-seminare-und-verkauf.ch
 essenzen-studio.ch
 essenzen.ch
 essenzenladen.ch

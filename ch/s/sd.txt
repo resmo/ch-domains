@@ -51,13 +51,13 @@ sd-limoservice.ch
 sd-lindauer.ch
 sd-lu.ch
 sd-maler.ch
+sd-massage.ch
 sd-massages.ch
 sd-mayensdesion.ch
 sd-media.ch
 sd-mediation.ch
 sd-monthey.ch
 sd-muenchenbuchsee.ch
-sd-naturopathe.ch
 sd-ne.ch
 sd-nrj.ch
 sd-order.ch
@@ -133,7 +133,6 @@ sda-informatik.ch
 sda-it.ch
 sda-keystone.ch
 sda-news.ch
-sda-newsportal.ch
 sda-online.ch
 sda-production.ch
 sda-suisse.ch
@@ -560,6 +559,7 @@ sdm-db.ch
 sdm-fsm.ch
 sdm-immobilien.ch
 sdm-log-newsletter-vs.ch
+sdm-management.ch
 sdm-smn-smd.ch
 sdm.ch
 sdma.ch
