@@ -831,6 +831,7 @@ ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpinehost.ch
+ns1.alpineplesk.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
 ns1.alvarez-it.ch
@@ -2009,6 +2010,7 @@ ns1.hostboutique.ch
 ns1.hostby.ch
 ns1.hostcloud.ch
 ns1.hostfactory.ch
+ns1.hostgalaxy.ch
 ns1.hostgarden.ch
 ns1.hosting-atprovider.ch
 ns1.hosting-horat.ch
@@ -2296,7 +2298,6 @@ ns1.klpb.ch
 ns1.kmu-datacenter.ch
 ns1.kmu-dns.ch
 ns1.kmu-office.ch
-ns1.kmu-webs.ch
 ns1.kmu2.ch
 ns1.kmu365.ch
 ns1.kmuonlinepartner.ch
@@ -2335,6 +2336,7 @@ ns1.kunstderschoenheit.ch
 ns1.kupfertext.ch
 ns1.kuramo.ch
 ns1.kurhauskreuz.ch
+ns1.kynex.ch
 ns1.kynocom.ch
 ns1.la-paella.ch
 ns1.la-statistica-conta.ch
@@ -2490,6 +2492,7 @@ ns1.marcory.ch
 ns1.marinmueller.ch
 ns1.markattack.ch
 ns1.markethiq.ch
+ns1.marketingfire.ch
 ns1.marktideen.ch
 ns1.marktkreisel.ch
 ns1.marlise-gerteis.ch
@@ -3160,7 +3163,6 @@ ns1.rockethealth.ch
 ns1.roe.ch
 ns1.roha.ch
 ns1.rohn.ch
-ns1.rolandzahnd.ch
 ns1.rolero.ch
 ns1.romande-energie.ch
 ns1.romibi.ch
@@ -3292,7 +3294,6 @@ ns1.serge-demuth.ch
 ns1.server-one.ch
 ns1.server-town.ch
 ns1.server-v.ch
-ns1.server.abclog.ch
 ns1.serverdns.ch
 ns1.serverfabrik.ch
 ns1.serverfactory.ch
@@ -4183,6 +4184,7 @@ ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpinehost.ch
+ns2.alpineplesk.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
 ns2.alvarez-it.ch
@@ -5323,6 +5325,7 @@ ns2.hostbott.ch
 ns2.hostboutique.ch
 ns2.hostby.ch
 ns2.hostcloud.ch
+ns2.hostgalaxy.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
 ns2.hosting-power.ch
@@ -5606,7 +5609,6 @@ ns2.klausdurrer.ch
 ns2.klpb.ch
 ns2.kmu-datacenter.ch
 ns2.kmu-dns.ch
-ns2.kmu-webs.ch
 ns2.kmu2.ch
 ns2.kmu365.ch
 ns2.kmuonlinepartner.ch
@@ -5789,6 +5791,7 @@ ns2.marcory.ch
 ns2.marinmueller.ch
 ns2.markattack.ch
 ns2.markethiq.ch
+ns2.marketingfire.ch
 ns2.marktideen.ch
 ns2.marktkreisel.ch
 ns2.marm8.ch
@@ -6415,7 +6418,6 @@ ns2.rockethealth.ch
 ns2.roe.ch
 ns2.roha.ch
 ns2.rohn.ch
-ns2.rolandzahnd.ch
 ns2.rolero.ch
 ns2.romande-energie.ch
 ns2.romibi.ch
@@ -6543,7 +6545,6 @@ ns2.sepsport.ch
 ns2.serge-demuth.ch
 ns2.server-one.ch
 ns2.server-v.ch
-ns2.server.abclog.ch
 ns2.server.ehost.ch
 ns2.server.intelcom.ch
 ns2.serverdns.ch
@@ -7564,6 +7565,7 @@ ns3.hgw-it.ch
 ns3.hiddenprimary.ch
 ns3.hildidns.ch
 ns3.holiness.ch
+ns3.hostgalaxy.ch
 ns3.hostgarden.ch
 ns3.hostghost.ch
 ns3.hosting-power.ch
@@ -7642,6 +7644,7 @@ ns3.koch.ch
 ns3.koljaweb.ch
 ns3.kpcs.ch
 ns3.kunden.ch
+ns3.kynex.ch
 ns3.labns.ch
 ns3.ladygym.ch
 ns3.lakenet.ch

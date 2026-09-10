@@ -465,7 +465,6 @@ pc21.ch
 pc24.ch
 pc2400.ch
 pc2mac.ch
-pc2u.ch
 pc3.ch
 pc4.ch
 pc4all-its.ch
@@ -664,6 +663,7 @@ pcdocteur.ch
 pcdog.ch
 pcdok.ch
 pcdoktor-brugg.ch
+pcdoktor.ch
 pcdomain.ch
 pcdomains.ch
 pcdominic.ch

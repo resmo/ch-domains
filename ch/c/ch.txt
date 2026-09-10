@@ -684,12 +684,10 @@ ch2ge.ch
 ch2p.ch
 ch2sw.ch
 ch2unschau.ch
-ch3.ch
 ch3167.ch
 ch33.ch
 ch360.ch
 ch365.ch
-ch4.ch
 ch405.ch
 ch42.ch
 ch4303.ch
@@ -698,7 +696,6 @@ ch4health.ch
 ch4ot.ch
 ch4t0n.ch
 ch4you.ch
-ch5.ch
 ch50.ch
 ch51.ch
 ch5g.ch
@@ -1481,6 +1478,7 @@ chainswiss.ch
 chaintax.ch
 chaintec.ch
 chaintraders.ch
+chaintrail.ch
 chaintrusted.ch
 chainvault.ch
 chainventures.ch
@@ -4430,7 +4428,6 @@ changeonline.ch
 changeons-de-cap.ch
 changeonsdecap.ch
 changeonslecole.ch
-changeourjobs.ch
 changeownerdomain.ch
 changepain.ch
 changeperspective.ch
@@ -4565,7 +4562,6 @@ channel16.ch
 channel21-shop.ch
 channel21.ch
 channel21shop.ch
-channel3.ch
 channel4tv.ch
 channel53.ch
 channeladvisor.ch
@@ -6115,6 +6111,7 @@ charlimmo.ch
 charline-rime.ch
 charline.ch
 charlinechretien.ch
+charlinecoif.ch
 charlinecoiffure.ch
 charlinedayer.ch
 charlinefereira.ch
@@ -7375,7 +7372,6 @@ chateau-lasarraz.ch
 chateau-latour.ch
 chateau-leukerbad.ch
 chateau-lutry.ch
-chateau-maison-blanche.ch
 chateau-maison.ch
 chateau-margaux.ch
 chateau-mollens.ch
@@ -7405,7 +7401,6 @@ chateau-vinzel.ch
 chateau-waldegg.ch
 chateau-x.ch
 chateau-yquem.ch
-chateau-yvorne.ch
 chateau-ziltener.ch
 chateau.ch
 chateau13.ch
@@ -7469,6 +7464,7 @@ chateaudemont.ch
 chateaudemontmagny.ch
 chateaudemur.ch
 chateaudemuzot.ch
+chateaudenbas.ch
 chateaudenyon.ch
 chateaudeparfum.ch
 chateaudeparis.ch
@@ -7530,7 +7526,6 @@ chateaulasarraz.ch
 chateaulatour.ch
 chateaulerosey.ch
 chateauleveque.ch
-chateaumaisonblanche.ch
 chateaumariage.ch
 chateaumarinara.ch
 chateaumeggenhorn.ch
@@ -7746,6 +7741,7 @@ chathaus-roulette.ch
 chathausdeutschland.ch
 chathausroulette.ch
 chathelfer.ch
+chathena.ch
 chathero.ch
 chathouse-germany.ch
 chathouse-hamburg.ch
@@ -8635,7 +8631,6 @@ chd-music.ch
 chd-ortho.ch
 chd-sa.ch
 chd.ch
-chd3.ch
 chdach.ch
 chdat.ch
 chdat1.ch
@@ -9620,6 +9615,7 @@ chef-george.ch
 chef-gourmet-distribution.ch
 chef-group.ch
 chef-jordan.ch
+chef-li.ch
 chef-louis.ch
 chef-magazin.ch
 chef-messer.ch
@@ -10039,6 +10035,7 @@ chemex.ch
 chemex8.ch
 chemexchange.ch
 chemexpertswiss.ch
+chemexport.ch
 chemfeed.ch
 chemfit.ch
 chemflex.ch
@@ -10816,9 +10813,6 @@ cherren.ch
 cherried.ch
 cherries.ch
 cherrisolution.ch
-cherriz-bar-geneve.ch
-cherriz-geneve.ch
-cherriz.ch
 cherrizz.ch
 cherry-bike.ch
 cherry-blossom.ch
@@ -11975,6 +11969,7 @@ chezgeko.ch
 chezgene.ch
 chezgeorges-grellingen.ch
 chezgeorges.ch
+chezgeorgina.ch
 chezgeraldine.ch
 chezgeronimo.ch
 chezgiacomo.ch
@@ -13358,7 +13353,6 @@ chienperdu.ch
 chienreactif.ch
 chienromand.ch
 chienrouge.ch
-chiens-aventures-nyon.ch
 chiens-chats.ch
 chiens-de-ville.ch
 chiens-expo.ch
@@ -13469,6 +13463,7 @@ chiffidesign.ch
 chiffo-net.ch
 chiffon.ch
 chiffonmagique.ch
+chiffonnette.ch
 chiffons.ch
 chiffr.ch
 chiffrage.ch
@@ -17793,10 +17788,12 @@ choisissez.ch
 choisitaviande.ch
 choisiwatch.ch
 choiskitchen.ch
+choisolutions.ch
 choist.ch
 choisy-hifi.ch
 choisy.ch
 choisya.ch
+choisystems.ch
 choiteloptic.ch
 choitv.ch
 choix-producteur-chaleur.ch
@@ -18649,6 +18646,7 @@ choya.ch
 choylifut.ch
 choyo.ch
 choyze.ch
+chozenones.ch
 chozn.ch
 chozo.ch
 chp-geneve.ch
@@ -19236,6 +19234,7 @@ chrisantem.ch
 chrisaro.ch
 chrisart.ch
 chrisartdesign.ch
+chrisascht-rock.ch
 chrisaschwanden.ch
 chrisass.ch
 chrisastrophoto.ch
@@ -24544,7 +24543,6 @@ churzihosewetter.ch
 churzlaetz.ch
 churzschluss.ch
 churzschlussoergeler.ch
-churztrip.ch
 churzverreist.ch
 churzvorknapp.ch
 chus.ch
