@@ -306,7 +306,6 @@ ns.lants.ch
 ns.lavillesa.ch
 ns.lcc.ch
 ns.leafit.ch
-ns.lecopain.ch
 ns.leder-textilpflege.ch
 ns.leontescu.ch
 ns.lernmechanik.ch
@@ -1705,6 +1704,7 @@ ns1.fegetz-allee.ch
 ns1.feierabendbier.ch
 ns1.felines.ch
 ns1.fermes-ouvertes.ch
+ns1.feusolidarite.ch
 ns1.fhvi.ch
 ns1.fibreshape.ch
 ns1.fiduciaire-du-mont-blanc.ch
@@ -2010,7 +2010,6 @@ ns1.hostboutique.ch
 ns1.hostby.ch
 ns1.hostcloud.ch
 ns1.hostfactory.ch
-ns1.hostgalaxy.ch
 ns1.hostgarden.ch
 ns1.hosting-atprovider.ch
 ns1.hosting-horat.ch
@@ -5031,6 +5030,7 @@ ns2.fdux.ch
 ns2.feedodo.ch
 ns2.felines.ch
 ns2.fermes-ouvertes.ch
+ns2.feusolidarite.ch
 ns2.fhv.ch
 ns2.fibreshape.ch
 ns2.fide-admin.ch
@@ -5325,7 +5325,6 @@ ns2.hostbott.ch
 ns2.hostboutique.ch
 ns2.hostby.ch
 ns2.hostcloud.ch
-ns2.hostgalaxy.ch
 ns2.hosting-atprovider.ch
 ns2.hosting-horat.ch
 ns2.hosting-power.ch
@@ -5673,7 +5672,6 @@ ns2.ldl-glamourmode.ch
 ns2.ldr-renovation.ch
 ns2.lebrun-renovation-la.ch
 ns2.lecomte.ch
-ns2.lecopain.ch
 ns2.ledspecialist.ch
 ns2.leegroup.ch
 ns2.leikauf.ch
@@ -7565,7 +7563,6 @@ ns3.hgw-it.ch
 ns3.hiddenprimary.ch
 ns3.hildidns.ch
 ns3.holiness.ch
-ns3.hostgalaxy.ch
 ns3.hostgarden.ch
 ns3.hostghost.ch
 ns3.hosting-power.ch

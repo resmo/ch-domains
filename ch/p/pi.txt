@@ -2608,6 +2608,7 @@ pier14.ch
 pier17.ch
 pier24.ch
 pier270.ch
+pier34.ch
 pier4.ch
 pier41.ch
 pier4125.ch
@@ -3807,7 +3808,6 @@ pikgartenpflege.ch
 piki.ch
 pikibou.ch
 pikilia.ch
-pikin.ch
 pikit.ch
 pikitup.ch
 pikk.ch
@@ -5839,6 +5839,7 @@ pinata.ch
 pinatas-eli.ch
 pinatas.ch
 pinatata.ch
+pinatawins.ch
 pinato-energy-solution.ch
 pinato-energy.ch
 pinato-graphics.ch
@@ -6093,6 +6094,7 @@ pingie.ch
 pingiefood.ch
 pingify.ch
 pingin.ch
+pingio-peinture.ch
 pingirl.ch
 pingit.ch
 pingitore.ch
@@ -6155,6 +6157,7 @@ pingpongdimsum.ch
 pingpongdojo.ch
 pingpongevents.ch
 pingpongfreunde.ch
+pingponghalle.ch
 pingpongkarte.ch
 pingpongklub.ch
 pingpongliga.ch
@@ -7363,6 +7366,7 @@ pioui.ch
 pioupiou-cosmetics.ch
 pioupiou.ch
 pioupious.ch
+pioupiouteries.ch
 piouroux.ch
 piousse.ch
 piouvi.ch
@@ -9215,6 +9219,7 @@ piumoda.ch
 piumone.ch
 piumoni.ch
 piumosso.ch
+piunatura.ch
 piundpa.ch
 piunti-se.ch
 piunti.ch
@@ -9480,6 +9485,7 @@ pixathlon.ch
 pixatwin.ch
 pixava.ch
 pixavie.ch
+pixavo.ch
 pixaweb.ch
 pixbase.ch
 pixbient.ch
@@ -10708,6 +10714,8 @@ pizza-blitz.ch
 pizza-boss.ch
 pizza-boz.ch
 pizza-bravo.ch
+pizza-brislach.ch
+pizza-buesserach.ch
 pizza-buffalos.ch
 pizza-buona.ch
 pizza-burger-bahnhoefli.ch
@@ -10894,6 +10902,7 @@ pizza-lapiazza.ch
 pizza-laregina.ch
 pizza-lasera.ch
 pizza-lastella.ch
+pizza-laufen.ch
 pizza-lavera.ch
 pizza-lavita.ch
 pizza-lessio.ch
@@ -11006,6 +11015,7 @@ pizza-restaurant.ch
 pizza-rigi.ch
 pizza-roadrunner.ch
 pizza-roberto-bilten.ch
+pizza-roeschenz.ch
 pizza-roessli.ch
 pizza-rothrist.ch
 pizza-rothrister.ch
@@ -11045,6 +11055,7 @@ pizza-store.ch
 pizza-street.ch
 pizza-subito.ch
 pizza-suche.ch
+pizza-sunnefeld.ch
 pizza-swiss-grenchen.ch
 pizza-take-away.ch
 pizza-talk.ch
@@ -11078,6 +11089,7 @@ pizza-verpackung.ch
 pizza-vip.ch
 pizza-vulcano.ch
 pizza-wagen.ch
+pizza-wahlen.ch
 pizza-walperswil.ch
 pizza-wangen.ch
 pizza-way.ch
@@ -11093,6 +11105,7 @@ pizza-zueri.ch
 pizza-zuerich.ch
 pizza-zurich.ch
 pizza-zuzwil.ch
+pizza-zwingen.ch
 pizza.ch
 pizza1.ch
 pizza10.ch
@@ -11506,6 +11519,7 @@ pizzakurier-la-candida.ch
 pizzakurier-lamamma.ch
 pizzakurier-lamammathusis.ch
 pizzakurier-langelo.ch
+pizzakurier-laufen.ch
 pizzakurier-mediterran.ch
 pizzakurier-menzo.ch
 pizzakurier-msh.ch
@@ -11791,7 +11805,6 @@ pizzapicassobasel-basel.ch
 pizzapino.ch
 pizzapinocchio.ch
 pizzapippo.ch
-pizzapirat.ch
 pizzapirata.ch
 pizzapista.ch
 pizzapizza.ch

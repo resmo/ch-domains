@@ -545,7 +545,6 @@ offerdeal.ch
 offerflow.ch
 offerframe.ch
 offergeld.ch
-offerhub.ch
 offeria.ch
 offeriere.ch
 offerieren.ch
@@ -662,6 +661,7 @@ offerten-app.ch
 offerten-arena.ch
 offerten-bau.ch
 offerten-check.ch
+offerten-direkt.ch
 offerten-elvia.ch
 offerten-express.ch
 offerten-generieren.ch
@@ -682,6 +682,7 @@ offerten-reinigungsfirmen.ch
 offerten-schweiz.ch
 offerten-scout.ch
 offerten-umzug-reinigung.ch
+offerten-umzug.ch
 offerten-umzugsfirmen.ch
 offerten-vergleich.ch
 offerten-vergleichen.ch
@@ -696,6 +697,7 @@ offertenauswahl.ch
 offertenblitz.ch
 offertencheck.ch
 offertencheck24.ch
+offertendirekt.ch
 offertendoktor.ch
 offerteneinholen.ch
 offertenelvia.ch
@@ -779,6 +781,7 @@ offf.ch
 offff.ch
 offflinehelden.ch
 offgolf.ch
+offgrd.ch
 offgrid-explorer.ch
 offgrid-holding.ch
 offgrid-swiss.ch
@@ -1652,6 +1655,7 @@ officinadeiviaggidifede.ch
 officinadelbuongusto.ch
 officinadelcaffe.ch
 officinadelforni.ch
+officinadelgusto.ch
 officinadellabirra.ch
 officinadellaghiaia.ch
 officinadellanima3.ch

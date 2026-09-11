@@ -201,7 +201,6 @@ type-line.ch
 type-magazine.ch
 type-shift.ch
 type-watches.ch
-type-writing.ch
 type.ch
 type1.ch
 type17.ch
@@ -237,7 +236,6 @@ typeless.ch
 typeline.ch
 typemagazine.ch
 typematch.ch
-typemax.ch
 typen-schilder.ch
 typencheck.ch
 typeneinfamilienhaus.ch
@@ -284,6 +282,7 @@ typg.ch
 typgenau.ch
 typh.ch
 typhaineconan.ch
+typhainevonzuriberg.ch
 typhon.ch
 typhoon-atelier.ch
 typhoon-hil.ch
@@ -543,6 +542,7 @@ typotek.ch
 typotex.ch
 typotex2.ch
 typothek.ch
+typotheque-eracom.ch
 typothetica.ch
 typotool.ch
 typotopfwerk.ch

@@ -49,7 +49,6 @@ pv-direkt.ch
 pv-display.ch
 pv-doku.ch
 pv-eigenheim-rechner.ch
-pv-eigenverbrauchsgemeinschaft.ch
 pv-einfamilienhaus.ch
 pv-einspeisetarif.ch
 pv-energie-beratung.ch
@@ -101,7 +100,6 @@ pv-material.ch
 pv-metallbau.ch
 pv-miete.ch
 pv-mieten.ch
-pv-mieterstrom.ch
 pv-modul.ch
 pv-module.ch
 pv-monitor-schweiz.ch

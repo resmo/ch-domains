@@ -4,7 +4,6 @@ g-12.ch
 g-2-k.ch
 g-2.ch
 g-24.ch
-g-27.ch
 g-2r.ch
 g-3d.ch
 g-4.ch
@@ -311,6 +310,7 @@ g-man.ch
 g-manag.ch
 g-marechal.ch
 g-martin.ch
+g-master.ch
 g-mauerhofer.ch
 g-mc.ch
 g-mec.ch
@@ -402,6 +402,7 @@ g-pro.ch
 g-project.ch
 g-projects.ch
 g-protect.ch
+g-pt.ch
 g-punkt-auli.ch
 g-punkt.ch
 g-push.ch
