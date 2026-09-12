@@ -284,6 +284,7 @@ gwg-kanzlei.ch
 gwg-kontrolle.ch
 gwg-march.ch
 gwg-notar.ch
+gwg-online.ch
 gwg-pflicht.ch
 gwg-pflichten.ch
 gwg-plattform.ch
@@ -294,6 +295,7 @@ gwg-register.ch
 gwg-revision.ch
 gwg-revisions-ag.ch
 gwg-schweiz.ch
+gwg-software.ch
 gwg-sorgfalt.ch
 gwg-suite.ch
 gwg-tool.ch
@@ -312,12 +314,15 @@ gwgimmobilien.ch
 gwgkanzlei.ch
 gwgnotar.ch
 gwgo.ch
+gwgonline.ch
 gwgpflichten.ch
+gwgplattform.ch
 gwgportal.ch
 gwgrechtsanwalt.ch
 gwgrevisionsag.ch
 gwgroup.ch
 gwgschweiz.ch
+gwgsoftware.ch
 gwgsolutions.ch
 gwgsuite.ch
 gwgtool.ch

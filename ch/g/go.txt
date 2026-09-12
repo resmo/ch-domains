@@ -385,8 +385,6 @@ go-transfer.ch
 go-transfers.ch
 go-translations.ch
 go-trekking.ch
-go-trend.ch
-go-trends.ch
 go-tschi.ch
 go-two.ch
 go-ultrabold.ch
@@ -1744,6 +1742,7 @@ goemon.ch
 goen-law.ch
 goen-spirits.ch
 goenergea.ch
+goenergiesuisse.ch
 goenergy.ch
 goengadin.ch
 goenhard-aarau.ch
@@ -2186,7 +2185,6 @@ goforsnow.ch
 goforsuccess.ch
 goforth.ch
 gofortravel.ch
-gofortrendy.ch
 goforure.ch
 goforvtc.ch
 goforvtcgroup.ch
@@ -2560,7 +2558,6 @@ gojob.ch
 gojobgo.ch
 gojobs.ch
 gojs.ch
-goju-karate.ch
 goju-ryu.ch
 gojugendreisen.ch
 gojukai-beo.ch
@@ -3641,7 +3638,6 @@ goldenbulls.ch
 goldenbusiness.ch
 goldenbutcher.ch
 goldenbutton.ch
-goldenbuy.ch
 goldencafe.ch
 goldencamp.ch
 goldencapital.ch
@@ -5317,7 +5313,6 @@ goldtattoos.ch
 goldtatze.ch
 goldtausch.ch
 goldte.ch
-goldteam.ch
 goldtechcapital.ch
 goldtechindustries.ch
 goldteeclub.ch
@@ -5918,6 +5913,7 @@ golfbleistifte.ch
 golfblog.ch
 golfboerse.ch
 golfbooking.ch
+golfbox.ch
 golfbreitenloo.ch
 golfbremgarten.ch
 golfbresil.ch
@@ -6559,6 +6555,7 @@ golfspieler.ch
 golfsport.ch
 golfsportmarketing.ch
 golfsports.ch
+golfsportteam.ch
 golfstage.ch
 golfstartlist.ch
 golfstation.ch
@@ -6835,6 +6832,7 @@ goloka.ch
 golomingi.ch
 golomo.ch
 golonathalieswerk.ch
+golonga.ch
 golookal.ch
 golosa-gmbh.ch
 golosa.ch
@@ -6856,6 +6854,7 @@ golpisberger.ch
 golsteinprivateoffice.ch
 golta.ch
 goltech.ch
+goltica-trading.ch
 golton.ch
 goltonmusic.ch
 goltz-optique.ch
@@ -7206,6 +7205,7 @@ gondeli.ch
 gondella.ch
 gondelmonitoring.ch
 gondelsauna.ch
+gondelstuermer.ch
 gondelvermietung.ch
 gonder.ch
 gondi.ch
@@ -9209,6 +9209,7 @@ gorhsolutions.ch
 gori-recruiting.ch
 gori.ch
 goricanec.ch
+gorich.ch
 goriconsulting.ch
 goride.ch
 goridis.ch
@@ -9444,6 +9445,7 @@ gosafe.ch
 gosafeconsulting.ch
 gosafehome.ch
 gosafety.ch
+gosag.ch
 gosailing.ch
 gosales.ch
 gosaley.ch
@@ -9616,7 +9618,6 @@ gospelchor-berneck.ch
 gospelchor-bischofszell.ch
 gospelchor-dornach.ch
 gospelchor-flawil.ch
-gospelchor-gams.ch
 gospelchor-hasel.ch
 gospelchor-heiden.ch
 gospelchor-horn.ch
@@ -9979,6 +9980,7 @@ gotennis.ch
 gotenrenovation.ch
 gotenzo.ch
 gotessons.ch
+gotest.ch
 goth-x.ch
 goth.ch
 gothaer.ch
@@ -10146,8 +10148,6 @@ gotravel4you.ch
 gotraveler.ch
 gotravelhome.ch
 gotreads.ch
-gotrend.ch
-gotrends.ch
 gotresor.ch
 gotri.ch
 gotrip.ch
@@ -11210,7 +11210,6 @@ govalais.ch
 govalam.ch
 govan.ch
 govandtech.ch
-govantage.ch
 govaplast.ch
 govapp.ch
 govapphub.ch
