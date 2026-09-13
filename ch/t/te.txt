@@ -3082,7 +3082,6 @@ techdoc-template.ch
 techdoc-templates.ch
 techdoc.ch
 techdock.ch
-techdoctor.ch
 techdoctors.ch
 techdok.ch
 techdoktor.ch
@@ -4195,6 +4194,7 @@ technology-taskforce.ch
 technology-trade-center.ch
 technology-trade-centers.ch
 technology-watch.ch
+technology-yaames.ch
 technology.ch
 technology4good.ch
 technology4humanity.ch
@@ -4468,6 +4468,7 @@ techplus.ch
 techplusgarage.ch
 techpoint.ch
 techpool.ch
+techport.ch
 techportal.ch
 techposts.ch
 techpower.ch
@@ -4483,7 +4484,6 @@ techpro-con.ch
 techpro-engineering.ch
 techpro.ch
 techproag.ch
-techproducts.ch
 techproeng.ch
 techprof.ch
 techprofile.ch
@@ -5545,6 +5545,7 @@ tee-akademie.ch
 tee-angebote.ch
 tee-classics.ch
 tee-design.ch
+tee-dock.ch
 tee-dose.ch
 tee-double-u.ch
 tee-egge.ch
@@ -5629,6 +5630,7 @@ teeclub.ch
 teecton.ch
 teedeko.ch
 teedeli.ch
+teedock.ch
 teedose.ch
 teee.ch
 teeei.ch
@@ -5731,6 +5733,7 @@ teelicious.ch
 teeliebe.ch
 teelirium.ch
 teelokal.ch
+teeloom.ch
 teels.ch
 teelux.ch
 teeluxe.ch
@@ -6221,6 +6224,7 @@ teichgart.ch
 teichgarten.ch
 teichgefluester.ch
 teichgitter.ch
+teichgold.ch
 teichi.ch
 teichinsel.ch
 teichler-medical.ch
@@ -6816,7 +6820,6 @@ tektronix.ch
 tektronpro.ch
 tektronproworkwear.ch
 tektronworkwear.ch
-tektroop.ch
 tektum.ch
 tektur-ag.ch
 tektur-sa.ch
@@ -7276,6 +7279,7 @@ teleconsulting.ch
 telecontact.ch
 teleconthey.ch
 telecontrol.ch
+telecontrol2.ch
 telecool.ch
 telecoordinator.ch
 telecor.ch
@@ -8692,6 +8696,7 @@ tellnow.ch
 tello.ch
 tellocal.ch
 tellofix.ch
+tellon.ch
 tellonline.ch
 telloper.ch
 tellops.ch
@@ -11492,6 +11497,7 @@ teppichatelier-meyer-mueller.ch
 teppichatelier.ch
 teppichaufmass.ch
 teppichbahn.ch
+teppichbazar.ch
 teppichbelaege.ch
 teppichbelag.ch
 teppichboden.ch
@@ -11707,6 +11713,7 @@ tequs.ch
 teqvalley.ch
 teqvar.ch
 teqwerk.ch
+teqxia.ch
 ter-engineering.ch
 ter-lux.ch
 ter-me.ch
@@ -14187,6 +14194,7 @@ terwinger.ch
 terya.ch
 teryaume.ch
 terys.ch
+teryvex.ch
 terz.ch
 terza-creation.ch
 terza-eta-creativa.ch
@@ -16515,6 +16523,7 @@ tetrel.ch
 tetriando.ch
 tetribox.ch
 tetrikus.ch
+tetripiss.ch
 tetris-db.ch
 tetris-hinwil.ch
 tetris-umzuege.ch

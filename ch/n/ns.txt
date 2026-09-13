@@ -1491,6 +1491,7 @@ ns1.dnscore.ch
 ns1.dnservice.ch
 ns1.dnsguardian.ch
 ns1.dnshub.ch
+ns1.dnsking.ch
 ns1.dnsproxy.ch
 ns1.dnssec.ch
 ns1.dnssecure.ch
@@ -5744,6 +5745,7 @@ ns2.loterie.ch
 ns2.lottis-chnoblibrot.ch
 ns2.lounge-it.ch
 ns2.lovanet.ch
+ns2.lovedns.ch
 ns2.lsne.ch
 ns2.lspd.ch
 ns2.lt7-lab.ch
@@ -7238,7 +7240,9 @@ ns2.zwergenfeste.ch
 ns2.zwiebelring.ch
 ns2.zylstra.ch
 ns2.zynex.ch
+ns20.bucher-walt.ch
 ns20.cbm.ch
+ns20.dand.ch
 ns20.def.ch
 ns20.inaya.ch
 ns20.kbsd.ch
@@ -7247,6 +7251,8 @@ ns20.produktiv.ch
 ns20.seedshop.ch
 ns20.sio.ch
 ns20.wnry.ch
+ns21.bucher-walt.ch
+ns21.dand.ch
 ns21.edvl.ch
 ns21.mentras.ch
 ns22.edvl.ch
@@ -7449,7 +7455,6 @@ ns3.dns-lst.ch
 ns3.dns-zonen.ch
 ns3.dnservice.ch
 ns3.dnshub.ch
-ns3.dnsking.ch
 ns3.dnssecure.ch
 ns3.dnssecurity.ch
 ns3.dnssys.ch
@@ -8118,7 +8123,6 @@ ns4.digitalsystems.ch
 ns4.dizmo.ch
 ns4.dns-cloud.ch
 ns4.dnshub.ch
-ns4.dnsking.ch
 ns4.dnssecure.ch
 ns4.dnssecurity.ch
 ns4.doit-verein.ch

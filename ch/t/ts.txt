@@ -1,4 +1,3 @@
-ts-1.ch
 ts-aargau.ch
 ts-advisory.ch
 ts-advo.ch
@@ -279,7 +278,6 @@ tsbh.ch
 tsbhutan.ch
 tsbiel.ch
 tsbirmensdorf.ch
-tsbl.ch
 tsblades.ch
 tsbm.ch
 tsbrass.ch
@@ -1248,6 +1246,7 @@ tsg-cloud.ch
 tsg-construction.ch
 tsg-fleet.ch
 tsg-gas.ch
+tsg-referendum.ch
 tsg-shop.ch
 tsg-solar.ch
 tsg-solutions.ch
@@ -1664,6 +1663,8 @@ tst-hauswartung.ch
 tst-immo.ch
 tst-kptintra.ch
 tst-schweiz.ch
+tst-services.ch
+tst-solutions.ch
 tst-suisse.ch
 tst-t.ch
 tst-trading.ch

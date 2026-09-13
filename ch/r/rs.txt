@@ -180,7 +180,6 @@ rs-oldtimer.ch
 rs-online.ch
 rs-p.ch
 rs-partner.ch
-rs-partners.ch
 rs-parts.ch
 rs-personal-plus.ch
 rs-personal.ch
@@ -310,6 +309,7 @@ rs74.ch
 rs74racing.ch
 rs78.ch
 rs84.ch
+rs9.ch
 rs9construction.ch
 rsa-arch.ch
 rsa-architectes.ch
@@ -1149,6 +1149,7 @@ rsvt.ch
 rsvw.ch
 rsw-admin.ch
 rsw-ag.ch
+rsw-sandbox.ch
 rsw-wohnart.ch
 rsw.ch
 rswaffen.ch

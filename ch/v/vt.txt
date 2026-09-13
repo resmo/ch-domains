@@ -87,6 +87,9 @@ vtc-geneve.ch
 vtc-group.ch
 vtc-jura.ch
 vtc-lausanne.ch
+vtc-ne.ch
+vtc-neuch.ch
+vtc-neuchatel.ch
 vtc-services.ch
 vtc-suisse.ch
 vtc-taxi.ch
@@ -104,6 +107,8 @@ vtch.ch
 vtchportal.ch
 vtclausanne.ch
 vtcloud.ch
+vtcne.ch
+vtcneuch.ch
 vtcone.ch
 vtconsulting.ch
 vtcs.ch
