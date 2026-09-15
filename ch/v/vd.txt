@@ -48,6 +48,7 @@ vd-static.ch
 vd-stores.ch
 vd-subside.ch
 vd-subsides.ch
+vd-touch-barber.ch
 vd-transporte.ch
 vd-vevey.ch
 vd-villeneuve.ch
@@ -237,6 +238,7 @@ vdmarch.ch
 vdmc.ch
 vdmcars.ch
 vdmconsulting.ch
+vdmeerssche.ch
 vdmeulen.ch
 vdmf.ch
 vdmholding.ch
@@ -343,7 +345,6 @@ vdtseniors.ch
 vdtsysteme.ch
 vdttracks.ch
 vdu-swiss.ch
-vdu-tapissier-decorateur.ch
 vdu.ch
 vdub.ch
 vducommun.ch
