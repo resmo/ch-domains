@@ -1782,6 +1782,7 @@ agent-factory.ch
 agent-fi.ch
 agent-first.ch
 agent-flow.ch
+agent-harness.ch
 agent-ia-receptionniste.ch
 agent-ia.ch
 agent-immo.ch
@@ -2105,6 +2106,7 @@ agentr.ch
 agentrade.ch
 agentradeag.ch
 agentready.ch
+agentroom.ch
 agentroute.ch
 agents-ai.ch
 agents-as-a-service.ch
@@ -4399,7 +4401,6 @@ agrarsolar.ch
 agrarsoziologie.ch
 agrarstretchfolie.ch
 agrarstrom365.ch
-agrarsupport.ch
 agrarsupporter.ch
 agrarswiss.ch
 agrartec.ch

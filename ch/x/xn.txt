@@ -897,7 +897,6 @@ xn--allesbeste-frs-kind-hbc.ch
 xn--allesbinr-22a.ch
 xn--allesfralle-yhb.ch
 xn--allesfrdenimker-4vb.ch
-xn--allesfrshuus-ilb.ch
 xn--allesgenht-x5a.ch
 xn--allesknner-jcb.ch
 xn--alleskse-5za.ch
@@ -938,6 +937,7 @@ xn--allrtifscht-r8a22a.ch
 xn--allschwil-schlsseldienst-8sc.ch
 xn--allschwilschlsseldienst-opc.ch
 xn--allskin-sthetik-7kb.ch
+xn--alltagsengel-zrich-z6b.ch
 xn--alltagsflstern-osb.ch
 xn--alltagsglck-1hb.ch
 xn--alltagshilfe-bndnerland-ppc.ch
@@ -1443,8 +1443,6 @@ xn--angehrigenpflegezrich-lec4m.ch
 xn--angehrigenpflegezug-u6b.ch
 xn--angehrigenspitex-qwb.ch
 xn--angehrigepflegen-qwb.ch
-xn--angehrigeselbstpflege-lec.ch
-xn--angehrigeselbstpflegen-yhc.ch
 xn--angehrnchristbume-3qb.ch
 xn--angehrt-e1a.ch
 xn--angel-zubehr-fjb.ch
@@ -2401,6 +2399,7 @@ xn--augblick-2za.ch
 xn--augenaerzte-in-stfa-wwb.ch
 xn--augenaerzte-stfa-8nb.ch
 xn--augenaerzte-zrich-f3b.ch
+xn--augenaerzte-zrichoberland-rwc.ch
 xn--augenaerztin-in-stfa-szb.ch
 xn--augenaerztin-stfa-4qb.ch
 xn--augenarzt-dbendorf-w6b.ch
@@ -5470,6 +5469,7 @@ xn--biodiversittsgemeinde-g2b.ch
 xn--biodiversittshof-5nb.ch
 xn--biodiversittsinitiative-57b.ch
 xn--biodiversittsinitiative-nein-gnc.ch
+xn--biodiversittskuppeln-lzb.ch
 xn--biodiversittsleasing-lzb.ch
 xn--biodiversittsmarkt-vtb.ch
 xn--biodiversittsnarrative-b5b.ch
@@ -7807,6 +7807,7 @@ xn--broausstattungen-jzb.ch
 xn--broautomatik-dlb.ch
 xn--broautomation-wob.ch
 xn--broautomatisierung-m6b.ch
+xn--broautopilot-dlb.ch
 xn--brob-0ra.ch
 xn--brobaar-n2a.ch
 xn--brobachmann-thb.ch
@@ -8511,6 +8512,7 @@ xn--bs-ingnieurconseil-gwb.ch
 xn--bs-ingnieurs-conseils-g5b.ch
 xn--bs-ingnieurs-geb.ch
 xn--bs-ingnieursconseils-g2b.ch
+xn--bs-rumungen-o8a.ch
 xn--bs-xka.ch
 xn--bs-zahnrzte-r8a.ch
 xn--bsbeizli-euthal-0kbb.ch
@@ -9583,6 +9585,7 @@ xn--chancen-fr-kinder-b3b.ch
 xn--chancenflsterin-7vb.ch
 xn--chancierdecontrat-9sbc.ch
 xn--chanedubonheur-imb.ch
+xn--chanihtchurzihosalegge-g5b97c.ch
 xn--chant-de-gurison-lqb.ch
 xn--chant-sacr-k7a.ch
 xn--chantalekng-1hb.ch
@@ -11360,8 +11363,6 @@ xn--das-ist-zuverlssigkeit-e5b.ch
 xn--das-klimagert-mfb.ch
 xn--das-leben-erzhlen-2qb.ch
 xn--das-ltschental-zpb.ch
-xn--das-me-mer-nd-ha-xwb4h.ch
-xn--das-me-mer-net-ha-62b.ch
 xn--das-molekl-ieb.ch
 xn--das-mrki-mir-kcb.ch
 xn--das-nhatelier-ffb.ch
@@ -11407,8 +11408,6 @@ xn--daskken-q2a.ch
 xn--dasklntal-47a.ch
 xn--daskrbchen-hcb.ch
 xn--dasmbel-d1a.ch
-xn--dasmemerndha-djb2f.ch
-xn--dasmemernetha-zob.ch
 xn--dasmolekl-x9a.ch
 xn--dasmrkimir-t5a.ch
 xn--dasnhatelier-jcb.ch
@@ -12069,6 +12068,7 @@ xn--dextra-6ya.ch
 xn--dezentrale-raumlftung-oic.ch
 xn--dezentrale-wohnraumlftung-ywc.ch
 xn--dezentrale-wohnungslftung-ywc.ch
+xn--df-dtailing-ebb.ch
 xn--df-yka.ch
 xn--dfago-bsa.ch
 xn--dfeli-graa.ch
@@ -12524,8 +12524,6 @@ xn--digital-vermchtnis-wtb.ch
 xn--digital-vorwrts-clb.ch
 xn--digital-zrich-4ob.ch
 xn--digitalbro-heb.ch
-xn--digitaldruck-ldin-g3b.ch
-xn--digitaldruckldin-vzb.ch
 xn--digitale-bro-mlb.ch
 xn--digitale-geschftsberichte-yec.ch
 xn--digitale-identitt-5qb.ch
@@ -13254,7 +13252,6 @@ xn--drohnenberwachung-82b.ch
 xn--drohnenbilder-gnstig-3ec.ch
 xn--drohneneinstze-gib.ch
 xn--drohnenflge-1hb.ch
-xn--drohnenflge-schweiz-ebc.ch
 xn--drohnenflug-graubnden-pic.ch
 xn--drohnenflug-zrich-f3b.ch
 xn--drohnenfotograf-zrich-pic.ch
@@ -13311,9 +13308,7 @@ xn--druckbehlterstahl-xqb.ch
 xn--druckbr-bxa.ch
 xn--drucker-zubehr-7pb.ch
 xn--druckerei-fr-bestatter-2lc.ch
-xn--druckerei-ldin-qsb.ch
 xn--druckerei-zrich-9vb.ch
-xn--druckereildin-5ob.ch
 xn--druckereizrich-psb.ch
 xn--druckerhhungsanlage-x6b.ch
 xn--druckerhhungsanlagen-bbc.ch
@@ -14288,6 +14283,7 @@ xn--emailleurs-cit-okb.ch
 xn--emcaf-fsa.ch
 xn--emch-aufzge-1hb.ch
 xn--emde-jubilum-pcb.ch
+xn--emdr-zrich-feb.ch
 xn--emi-sanitr-y5a.ch
 xn--emil-frhlich-bjb.ch
 xn--emil-hrlimann-1ob.ch
@@ -15086,8 +15082,6 @@ xn--etancheit-j4a.ch
 xn--etazrich-95a.ch
 xn--etc-sant-i1a.ch
 xn--etg-pfffikon-lcb.ch
-xn--ethos-acadmie-khb.ch
-xn--ethosacadmie-jeb.ch
 xn--etliberg-55a.ch
 xn--etliberg-lauf-vob.ch
 xn--etp-zrich-u9a.ch
@@ -16504,6 +16498,7 @@ xn--fichtenschsslingbutter-3hc.ch
 xn--fichtenschsslingkse-wwb48a.ch
 xn--fickbrse24-icb.ch
 xn--ficken-likr-0fb.ch
+xn--fiduciaire-indpendant-o5b.ch
 xn--fiduciaire-neuchtel-qvb.ch
 xn--fiduciairedegenve-6sb.ch
 xn--fiduciaireneuchtel-wsb.ch
@@ -16801,6 +16796,7 @@ xn--flckiger-law-elb.ch
 xn--flckiger-montage-kzb.ch
 xn--flckiger-optik-hrcenter-nlc9k.ch
 xn--flckiger-reinigung-n6b.ch
+xn--flckiger-treuhand-32b.ch
 xn--flckigerlorenz-hsb.ch
 xn--flckigeroliver-hsb.ch
 xn--flckigers-r9a.ch
@@ -24480,6 +24476,7 @@ xn--helikopterflge-rsb.ch
 xn--helikopterrundflge-16b.ch
 xn--helikopterrundflge-zentralschweiz-6pd.ch
 xn--helikopterrundflug-zrich-ftc.ch
+xn--heliofrverhaltenskreativehunde-9ed.ch
 xn--helios-rnovation-iqb.ch
 xn--helios-rnovations-itb.ch
 xn--heliotherm-wrmepumpen-h2b.ch
@@ -25529,6 +25526,7 @@ xn--hofbru-fua.ch
 xn--hofbruhaus-hell-4kb.ch
 xn--hofbruhaus-u5a.ch
 xn--hofbruhaushell-9hb.ch
+xn--hofchrbli-47a.ch
 xn--hofdere-fernwrme-7nb.ch
 xn--hofderefernwrme-clb.ch
 xn--hofer-jrg-w9a.ch
@@ -25546,6 +25544,7 @@ xn--hofkche-q2a.ch
 xn--hofkserei-y2a.ch
 xn--hoflad-gua.ch
 xn--hofladen-lmmli-fib.ch
+xn--hofladenpal-1fb.ch
 xn--hofladenzrich-4ob.ch
 xn--hofldchen-y2a.ch
 xn--hofldeli-3za.ch
@@ -27033,6 +27032,7 @@ xn--hxlistuba-v2a.ch
 xn--hxlys-nhwelt-gcbg.ch
 xn--hxpe-5qa.ch
 xn--hxu-chech-v2a.ch
+xn--hxuplatz-0za.ch
 xn--hy-eka.ch
 xn--hyaluronsure-ocb.ch
 xn--hybrid-trger-ocb.ch
@@ -28372,6 +28372,7 @@ xn--jodlerklub-brgbrnneli-h2b07c.ch
 xn--jodlerklub-brgsee-1qb.ch
 xn--jodlerklub-btzberg-x6b.ch
 xn--jodlerklub-flhli-vzb.ch
+xn--jodlerklub-schtz-zwb.ch
 xn--jodlerkse-12a.ch
 xn--jodlerquartett-gmetlech-spc.ch
 xn--joelbhler-u9a.ch
@@ -28615,7 +28616,6 @@ xn--juliebru-6za.ch
 xn--julienfourni-meb.ch
 xn--julius-br-22a.ch
 xn--juliusbr-6za.ch
-xn--juliusbrco-ag-hfb.ch
 xn--juliusbrgroup-hfb.ch
 xn--julya-ira.ch
 xn--jumaprz-bxa.ch
@@ -29457,6 +29457,7 @@ xn--kchin-jua.ch
 xn--kchler-3ya.ch
 xn--kchler-marketing-jzb.ch
 xn--kchlerei-n4a.ch
+xn--kchlihof-n4a.ch
 xn--kchlin-matine-mhb7y.ch
 xn--kchlin-matinee-gsb.ch
 xn--kchlinbasel-thb.ch
@@ -30726,7 +30727,9 @@ xn--klx-rla.ch
 xn--kly-expert-r5a.ch
 xn--kly-gmbh-1za.ch
 xn--kly-rla.ch
+xn--klybeck-hfe-zfb.ch
 xn--klybeck-kleinhningen-2ec.ch
+xn--klybeckhfe-lcb.ch
 xn--klys-9oab.ch
 xn--km-kchenstudio-jsb.ch
 xn--kmatherm-n4a.ch
@@ -30811,6 +30814,7 @@ xn--kndigungsinitiativenein-cpc.ch
 xn--kndigungsrecht-gsb.ch
 xn--kndigungsschreiben-m6b.ch
 xn--kndigungsschutz-zvb.ch
+xn--kndigungsvorlage-jzb.ch
 xn--kndl-6qa.ch
 xn--kndler-beratungen-0zb.ch
 xn--kndlerberatungen-nwb.ch
@@ -32339,6 +32343,7 @@ xn--ksebrtchen-q5a4t.ch
 xn--ksechips-0za.ch
 xn--kseerlebnis-l8a.ch
 xn--ksefest-5wa.ch
+xn--ksefondue-v2a.ch
 xn--ksefonduehelment-vnb.ch
 xn--ksefonduehelmet-0kb.ch
 xn--ksegenuss-v2a.ch
@@ -33336,18 +33341,8 @@ xn--ldi-storen-9db.ch
 xn--ldifamily-q9a.ch
 xn--ldimedical-9db.ch
 xn--ldin-areal-9db.ch
-xn--ldin-digitaldruck-22b.ch
-xn--ldin-druck-9db.ch
-xn--ldin-druckerei-gsb.ch
-xn--ldin-medien-thb.ch
-xn--ldin-print-9db.ch
 xn--ldinag-3ya.ch
 xn--ldinareal-q9a.ch
-xn--ldindigitaldruck-jzb.ch
-xn--ldindruck-q9a.ch
-xn--ldindruckerei-wob.ch
-xn--ldinmedien-9db.ch
-xn--ldinprint-q9a.ch
 xn--ldis-0ra.ch
 xn--ldisan-3ya.ch
 xn--ldispersionsbad-7sb.ch
@@ -36848,10 +36843,8 @@ xn--mediatorin-zrich-uzb.ch
 xn--medicaf-hya.ch
 xn--medicotherapiezrich-kbc.ch
 xn--medien-kompetenz-fr-eltern-g0c.ch
-xn--medien-ldin-0hb.ch
 xn--medienbro-w9a.ch
 xn--medienbros-geb.ch
-xn--medienldin-geb.ch
 xn--medienmndig-zhb.ch
 xn--medienqualitt-mfb.ch
 xn--medienundsozialpdagogik-b8b.ch
@@ -38434,6 +38427,7 @@ xn--mnner-werk-q5a.ch
 xn--mnner-zeit-q5a.ch
 xn--mnnerabend-q5a.ch
 xn--mnnerabig-v2a.ch
+xn--mnneramherd-l8a.ch
 xn--mnnerarbeit-zrich-qqb28b.ch
 xn--mnnerarmband-gcb.ch
 xn--mnnerarzt-v2a.ch
@@ -43369,6 +43363,7 @@ xn--ple-convergence-csb.ch
 xn--ple-enfance-2eb.ch
 xn--ple-froid-nergies-ktb3r.ch
 xn--pleenfance-rbb.ch
+xn--pleis-gebudetechnik-owb.ch
 xn--pler-1ra.ch
 xn--pler-hof-75a.ch
 xn--pler-partner-elb.ch
@@ -43692,6 +43687,7 @@ xn--postfnance-o8a.ch
 xn--postgssli-z2a.ch
 xn--posthumanitr-qcb.ch
 xn--postkartenstnder-6nb.ch
+xn--postparthommescaf-rtb.ch
 xn--postversandhlle-bwb.ch
 xn--postversandhllen-uzb.ch
 xn--postwldli-z2a.ch
@@ -47883,6 +47879,7 @@ xn--sachverstndigenprfung-e2b47c.ch
 xn--sachverstndiger-8kb.ch
 xn--sachwalterbro-6ob.ch
 xn--sackgld-9wa.ch
+xn--sackgudverdunster-uqb.ch
 xn--sackschn-t4a.ch
 xn--sacl-3na.ch
 xn--sacsmain-2ya.ch
@@ -57732,7 +57729,6 @@ xn--umzunung-2za.ch
 xn--un-glaubwrdig-4ob.ch
 xn--un-mglich-37a.ch
 xn--un-monde--pattes-5lb.ch
-xn--un-pas-de-ct-meb6m.ch
 xn--un-verblmt-heb.ch
 xn--una-kchen-u9a.ch
 xn--unabhngig-geldanlegen-91b.ch
@@ -58936,7 +58932,6 @@ xn--vkurier-80a.ch
 xn--vkuzrich-95a.ch
 xn--vlemmix-anhnger-blb.ch
 xn--vlies-knig-kcb.ch
-xn--vlive-iua.ch
 xn--vlker-jua.ch
 xn--vlkin-jua.ch
 xn--vlkis-fahrschule-mwb.ch
@@ -59192,6 +59187,7 @@ xn--vsenaz-bva.ch
 xn--vsimulator-dcb.ch
 xn--vsk-tna.ch
 xn--vsu-sna.ch
+xn--vswrmetechnik-dfb.ch
 xn--vt-xka.ch
 xn--vtag-4qa.ch
 xn--vtements-k1a.ch
@@ -64302,7 +64298,6 @@ xnb-ag.ch
 xnb.ch
 xnbag.ch
 xnc.ch
-xncyj.ch
 xnd.ch
 xndo.ch
 xndr.ch

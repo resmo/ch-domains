@@ -700,7 +700,6 @@ ns1-extern.css.ch
 ns1.0091.ch
 ns1.0304.ch
 ns1.0800freecall.ch
-ns1.0x3.ch
 ns1.0xbfh.ch
 ns1.11b.ch
 ns1.1868.ch
@@ -1265,6 +1264,7 @@ ns1.cmsonline.ch
 ns1.cmsweb.ch
 ns1.cngtest06.ch
 ns1.co-hosting.ch
+ns1.coach-warrior.ch
 ns1.codename.ch
 ns1.codingdairyman.ch
 ns1.codiva.ch
@@ -3749,6 +3749,7 @@ ns1.vitaplan.ch
 ns1.vitodata.ch
 ns1.vivanet.ch
 ns1.vix.ch
+ns1.voem.ch
 ns1.voicelan.ch
 ns1.volkinet.ch
 ns1.volleyuntervaz.ch
@@ -4066,7 +4067,6 @@ ns2-ext.unibas.ch
 ns2.0091.ch
 ns2.0304.ch
 ns2.0800freecall.ch
-ns2.0x3.ch
 ns2.0xbfh.ch
 ns2.11b.ch
 ns2.1868.ch
@@ -4618,6 +4618,7 @@ ns2.cmshost.ch
 ns2.cmsonline.ch
 ns2.cmsweb.ch
 ns2.co-hosting.ch
+ns2.coach-warrior.ch
 ns2.codename.ch
 ns2.codingdairyman.ch
 ns2.codiva.ch
@@ -7003,6 +7004,7 @@ ns2.vitaplan.ch
 ns2.vitodata.ch
 ns2.vivanet.ch
 ns2.vix.ch
+ns2.voem.ch
 ns2.voicelan.ch
 ns2.volkinet.ch
 ns2.volleyuntervaz.ch
@@ -7265,7 +7267,6 @@ ns2itsieber.ch
 ns2x.hoststar.ch
 ns2x.layer9.ch
 ns3.036.ch
-ns3.0x3.ch
 ns3.1ahostingpro.ch
 ns3.4sl.ch
 ns3.4teamwork.ch
@@ -8068,7 +8069,6 @@ ns31.mentras.ch
 ns3x.layer9.ch
 ns4-extern.css.ch
 ns4.036.ch
-ns4.0x3.ch
 ns4.1ahostingpro.ch
 ns4.4teamwork.ch
 ns4.80edays.ch
@@ -8734,6 +8734,7 @@ nslogistics.ch
 nslookup.ch
 nsltech.ch
 nsm-basel.ch
+nsm-facility.ch
 nsm.ch
 nsmagazine.ch
 nsmail.ch

@@ -424,7 +424,6 @@ loc-it.ch
 loc-kitchen.ch
 loc-line.ch
 loc-mariages.ch
-loc-rem.ch
 loc-remorque-frigo.ch
 loc-wc.ch
 loc.ch
@@ -605,7 +604,6 @@ local-pro.ch
 local-prod.ch
 local-production.ch
 local-rank.ch
-local-rebels.ch
 local-schluesseldienst.ch
 local-schweiz.ch
 local-scout.ch
@@ -1597,6 +1595,7 @@ location-voitures.ch
 location-vtt-electrique.ch
 location-vtt-villars.ch
 location-vtt.ch
+location-wc-romandie.ch
 location-web.ch
 location-yacht.ch
 location.ch
@@ -2304,7 +2303,6 @@ locovision.ch
 locowin.ch
 locowincasino.ch
 locoz.ch
-locpic.ch
 locpower.ch
 locram.ch
 locrasbier.ch
@@ -3938,7 +3936,6 @@ logicalsolutions.ch
 logicalstep.ch
 logicalway.ch
 logicar.ch
-logicare-services.ch
 logicare.ch
 logicasa.ch
 logicbase.ch
@@ -5800,6 +5797,7 @@ loic-reymond.ch
 loic-spiegelberg.ch
 loic-voelker.ch
 loic.ch
+loicala.ch
 loicansermoz.ch
 loicbaecher.ch
 loicbarthoulot.ch
@@ -5821,6 +5819,7 @@ loicforestier.ch
 loicfrei.ch
 loicfroidevaux.ch
 loicgardiol.ch
+loicgasch.ch
 loicgaudiello.ch
 loicgrandchamp.ch
 loicgrobety.ch
@@ -5876,6 +5875,7 @@ loifederalesurlaprocreationmedicalementassistee-non.ch
 loift.ch
 loift47.ch
 loig.ch
+loigasch.ch
 loikki.ch
 loila.ch
 loimmo.ch
@@ -6269,7 +6269,6 @@ lokalhistoriker.ch
 lokalhof.ch
 lokalhost.ch
 lokalhub.ch
-lokali.ch
 lokalimmobilien.ch
 lokalindex.ch
 lokalinfo.ch
@@ -8448,6 +8447,7 @@ loopli.ch
 looplight.ch
 loopline-systems.ch
 looplocal.ch
+looploop.ch
 looplove.ch
 looply.ch
 loopmanager.ch
@@ -8456,6 +8456,7 @@ loopmarketplace.ch
 loopmint.ch
 loopnet.ch
 loopnicotinepouches.ch
+loopnmark.ch
 loopo.ch
 loopoflife.ch
 loopon.ch
@@ -10541,6 +10542,7 @@ loszd.ch
 loszentrale.ch
 loszentrum.ch
 lot-bm.ch
+lot-plan.ch
 lot-qd.ch
 lot-z.ch
 lot.ch
@@ -12036,7 +12038,6 @@ louwenia.ch
 louwers.ch
 louwina-gstaad.ch
 loux-schilliger.ch
-louxoro.ch
 louy.ch
 louyoga.ch
 louyou.ch
