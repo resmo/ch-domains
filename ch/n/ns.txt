@@ -831,7 +831,6 @@ ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpinehost.ch
-ns1.alpineplesk.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
 ns1.alvarez-it.ch
@@ -2675,6 +2674,8 @@ ns1.nadesign.ch
 ns1.naissances.ch
 ns1.namemaster.ch
 ns1.namesrv.ch
+ns1.nana-doener.ch
+ns1.nanadoener.ch
 ns1.nano-lash.ch
 ns1.nanolash.ch
 ns1.nasser.ch
@@ -2803,7 +2804,6 @@ ns1.oi-web.ch
 ns1.ois-groups.ch
 ns1.olys.ch
 ns1.omemo.ch
-ns1.omnes.ch
 ns1.omnespro.ch
 ns1.omniamea.ch
 ns1.one4you.ch
@@ -4190,7 +4190,6 @@ ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpinehost.ch
-ns2.alpineplesk.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
 ns2.alvarez-it.ch
@@ -5966,6 +5965,8 @@ ns2.nacloud.ch
 ns2.nadesign.ch
 ns2.naissances.ch
 ns2.namesrv.ch
+ns2.nana-doener.ch
+ns2.nanadoener.ch
 ns2.nano-lash.ch
 ns2.nanolash.ch
 ns2.nativenet.ch
@@ -6079,7 +6080,6 @@ ns2.ohosting.ch
 ns2.oi-web.ch
 ns2.olys.ch
 ns2.omemo.ch
-ns2.omnes.ch
 ns2.omniamea.ch
 ns2.one4you.ch
 ns2.onemotion.ch

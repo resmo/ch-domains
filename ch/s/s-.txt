@@ -315,7 +315,6 @@ s-fp.ch
 s-frame.ch
 s-fsouduresetformations.ch
 s-ft.ch
-s-g-cleint.ch
 s-g-i.ch
 s-g-n.ch
 s-g-photography.ch
@@ -502,6 +501,7 @@ s-m-services.ch
 s-m-v.ch
 s-m-z.ch
 s-m.ch
+s-maa.ch
 s-maag.ch
 s-mail.ch
 s-maler.ch
@@ -548,6 +548,7 @@ s-mi.ch
 s-mime.ch
 s-ml.ch
 s-mm.ch
+s-mma.ch
 s-mobile.ch
 s-mobility.ch
 s-moeri.ch
@@ -737,6 +738,7 @@ s-schueepp.ch
 s-schumacher.ch
 s-schwarz.ch
 s-secure.ch
+s-sense.ch
 s-sentia.ch
 s-serv.ch
 s-service.ch

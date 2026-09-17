@@ -38,7 +38,6 @@ ls-eng.ch
 ls-events.ch
 ls-facility.ch
 ls-fidurev.ch
-ls-films.ch
 ls-gartenbau.ch
 ls-gastro.ch
 ls-gestion.ch
@@ -225,6 +224,7 @@ lsctherapeute.ch
 lscustoms.ch
 lscv.ch
 lscwil.ch
+lscx.ch
 lscybersecurity.ch
 lsd-ag.ch
 lsd-dj.ch
