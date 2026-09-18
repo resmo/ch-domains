@@ -747,6 +747,7 @@ xn--aktionsplan-bildungsqualitt-0kc.ch
 xn--aktionsplanbildungsqualitt-4hc.ch
 xn--aktivitt-6za.ch
 xn--aktivitten-w5a.ch
+xn--aktivrumung-q8a.ch
 xn--aktuell-graubnden-f3b.ch
 xn--aktuell-zrich-4ob.ch
 xn--aku-zri-r2a.ch
@@ -928,6 +929,7 @@ xn--alllavenir-tbb.ch
 xn--allmend-blach-4ob.ch
 xn--allmerti-c6a.ch
 xn--allmnder-3za.ch
+xn--allo-dpannage-ghb.ch
 xn--alloapique-r6a.ch
 xn--alloremplaant-rgb.ch
 xn--allroundbau-zurbrgg-mbc.ch
@@ -1001,8 +1003,6 @@ xn--alpenklte-02a.ch
 xn--alpenkruter-r8a.ch
 xn--alpenkruterbrot-6kb.ch
 xn--alpenkse-5za.ch
-xn--alpenlnd-5za.ch
-xn--alpenlnder-v5a.ch
 xn--alpenlndisch-lcb.ch
 xn--alpenpftli-kcb.ch
 xn--alpenpsse-02a.ch
@@ -1889,7 +1889,6 @@ xn--aquariumbch-t8a.ch
 xn--aquatischekrperarbeit-rec.ch
 xn--aquazgs-r2a.ch
 xn--ar-gerste-v9a.ch
-xn--ar-wrkstatt-ufb.ch
 xn--ara-sanitr-y5a.ch
 xn--arabella-zrich-psb.ch
 xn--arahfe-zxa.ch
@@ -4481,7 +4480,6 @@ xn--berliner-dner-rmb.ch
 xn--berlinerdner-djb.ch
 xn--berlist-m2a.ch
 xn--bermi-jva.ch
-xn--bermich-m2a.ch
 xn--bermilk-m2a.ch
 xn--bermorn-m2a.ch
 xn--bern-augenrzte-fib.ch
@@ -5620,10 +5618,8 @@ xn--bissfestzahnrzte-6nb.ch
 xn--bissfrbiss-eeb.ch
 xn--bissguet-3za.ch
 xn--bisspter-4za.ch
-xn--bistro-brggli-4ob.ch
 xn--bistro-kleindttingen-gbc.ch
 xn--bistro-tgerhard-7kb.ch
-xn--bistrobrggli-klb.ch
 xn--bistrocafefrio-qsba.ch
 xn--bistrohssenbel-msbf.ch
 xn--bistromrigen-bjb.ch
@@ -6885,8 +6881,6 @@ xn--brecrunch-v2a.ch
 xn--bredrfli-0za7p.ch
 xn--brefriise-v2a.ch
 xn--bregg-gra.ch
-xn--breggli-bistro-hsb.ch
-xn--bregglibistro-xob.ch
 xn--bregng-buad.ch
 xn--bregrabe-0za.ch
 xn--bregwrb-9wa5s.ch
@@ -7222,11 +7216,9 @@ xn--brgglen-o2a.ch
 xn--brggli-4ya.ch
 xn--brggli-altendorf-kzb.ch
 xn--brggli-arosa-elb.ch
-xn--brggli-bistro-xob.ch
 xn--brggli-inkasso-hsb.ch
 xn--brggli-kaltbrunn-kzb.ch
 xn--brgglialtendorf-0vb.ch
-xn--brgglibistro-elb.ch
 xn--brgglifeld-beb.ch
 xn--brgglimatt-beb.ch
 xn--brgglimatt-muttenz-n6b.ch
@@ -10385,7 +10377,6 @@ xn--cit-bachet-de-pesay-dzb.ch
 xn--cit-gestion-dbb.ch
 xn--cit-mtiers-d7ac.ch
 xn--citgestion-d7a.ch
-xn--cithorlogre-69ag.ch
 xn--citoyennet-k7a.ch
 xn--citoyensunisdegaa-twb.ch
 xn--citroen-zrich-4ob.ch
@@ -10724,7 +10715,6 @@ xn--comicbrse-57a.ch
 xn--comit-des-parents-ftb.ch
 xn--comit-juristes-fkb.ch
 xn--comit2000-f4a.ch
-xn--comit86-fya.ch
 xn--commande-franaise-msb.ch
 xn--comme3pommes-dib.ch
 xn--commelamaison-tdb.ch
@@ -12271,6 +12261,7 @@ xn--die-schwarzknstler-x6b.ch
 xn--die-schweiz-blht-wzb.ch
 xn--die-sekretrin-kfb.ch
 xn--die-selbstfhrungsexpertin-pwc.ch
+xn--die-snde-b6a.ch
 xn--die-stadt-zrich-9vb.ch
 xn--die-steuererklrung-ytb.ch
 xn--die-treuhnder-jfb.ch
@@ -13368,7 +13359,6 @@ xn--dsenfeld-65a.ch
 xn--dsenfeld-energy-zvb.ch
 xn--dsenrckschlagventil-59be.ch
 xn--dsenrckschlagventile-pece.ch
-xn--dsentrieb-q9a.ch
 xn--dsentriebskitchen-22b.ch
 xn--dshngg-yxa.ch
 xn--dshop-gra.ch
@@ -14694,7 +14684,6 @@ xn--erkennen-beraten-verndern-4ec.ch
 xn--erkenntnisgrten-blb.ch
 xn--erklr-mir-mal-efb.ch
 xn--erklrbild-y2a.ch
-xn--erklrbr-8wac.ch
 xn--erklrfilm-y2a.ch
 xn--erklrfilme-t5a.ch
 xn--erklrfilmer-o8a.ch
@@ -17775,7 +17764,6 @@ xn--frderverein-anthromedizin-yrc.ch
 xn--frderverein-emmental-39b.ch
 xn--frderverein-ghi-8sb.ch
 xn--frderverein-gvz-8sb.ch
-xn--frderverein-lebenslernorte-cvc.ch
 xn--frderverein-lesilve-q6b.ch
 xn--frderverein-mariazell-hec.ch
 xn--frderverein-musikakademie-yrc.ch
@@ -20619,7 +20607,6 @@ xn--ggauf-gra.ch
 xn--gge-hoaa.ch
 xn--ggele-kva.ch
 xn--gger-loa.ch
-xn--ggestrom-0za.ch
 xn--ggf-getrnke-s8a.ch
 xn--ggg-steuererklrungen-ozb.ch
 xn--gggalizunft-thb.ch
@@ -24544,6 +24531,7 @@ xn--herger-gebudetechnik-kzb.ch
 xn--herger-kchen-klb.ch
 xn--herget-dua3qe.ch
 xn--herlve-6ua.ch
+xn--hermann-bchler-osb.ch
 xn--hermann-bhler-4ob.ch
 xn--hermann-gemse-6ob.ch
 xn--hermann-shne-djb.ch
@@ -25902,7 +25890,6 @@ xn--honigtrumli-r8a.ch
 xn--hoorgad-cxa.ch
 xn--hoorwrk-9wa.ch
 xn--hoorwrk-sissach-4kb.ch
-xn--hop-l-vqa.ch
 xn--hopfehsli-v9a.ch
 xn--hopfgritt-y2af.ch
 xn--hopl-3na.ch
@@ -27352,7 +27339,6 @@ xn--ilovezri-c6a.ch
 xn--ilovezrich-feb.ch
 xn--ils-zrich-u9a.ch
 xn--ilsnousontquitt-pnb.ch
-xn--iltaitdeuxfois-ckb.ch
 xn--iltaitunefois-chb.ch
 xn--iltis-bru-22a.ch
 xn--iltisbru-6za.ch
@@ -27385,6 +27371,7 @@ xn--images-croises-mkb.ch
 xn--imagescroises-lhb.ch
 xn--imalterbberg-mcb.ch
 xn--imaltrbberg-p8ab.ch
+xn--imas-rckbau-yhb.ch
 xn--imbissanhnger-direkt-ab-werk-enc.ch
 xn--imbissanhnger-jfb.ch
 xn--imbissanhngervermietung-37b.ch
@@ -30875,6 +30862,7 @@ xn--kngu-ruh-0za.ch
 xn--kngurooh-0za.ch
 xn--knguru-bua.ch
 xn--knguru-express-5hb.ch
+xn--knguru-schweiz-5hb.ch
 xn--knguruexpress-bfb.ch
 xn--knguruh-5wa.ch
 xn--kngurus-5wa.ch
@@ -40709,6 +40697,7 @@ xn--nico-flhmann-jlb.ch
 xn--nicobrand-48a.ch
 xn--nicogruyreacasa-1mb.ch
 xn--nicolas-stckli-podcast-3hc.ch
+xn--nicolasmller-klb.ch
 xn--nicole-hrlimann-6vb.ch
 xn--nicole-stheli-jfb.ch
 xn--nicoleblchlinger-twb.ch
@@ -40845,6 +40834,7 @@ xn--nniwand-n2a.ch
 xn--nnlist-3ya.ch
 xn--nnniclassic-l8a.ch
 xn--nnny-loa.ch
+xn--nnorm-vua.ch
 xn--nnte-mai-65a.ch
 xn--nntougust-x2a5x.ch
 xn--nnuphar-bya.ch
@@ -42824,7 +42814,6 @@ xn--pflegebetten-brse-d0b.ch
 xn--pflegeentschdigung-wtb.ch
 xn--pflegefachfrau-zrich-4ec.ch
 xn--pflegefachkrfte-clb.ch
-xn--pflegefhrer-zhb.ch
 xn--pflegefrdich-jlb.ch
 xn--pflegefrmich-jlb.ch
 xn--pflegefrsorger-msb.ch
@@ -44017,6 +44006,7 @@ xn--prfungsvorbereitung-69b.ch
 xn--prfungsvorbereitung-winterthur-5ed.ch
 xn--prfungsvorbereitunggesang-gwc.ch
 xn--prfungszentrum-hsb.ch
+xn--prfungszentrumrorschach-dpc.ch
 xn--prfverfahren-elb.ch
 xn--prgebro-6wa3t.ch
 xn--prgedruck-w2a.ch
@@ -44468,6 +44458,7 @@ xn--prventivmedizin-bmg-hwb.ch
 xn--prventivmediziner-rqb.ch
 xn--prventivtraining-wnb.ch
 xn--prvento-6wa.ch
+xn--prvenu-cva.ch
 xn--prver-hra.ch
 xn--prvita-cua.ch
 xn--prvoyance-c4a.ch
@@ -46822,6 +46813,7 @@ xn--rosa-kstli-stiftung-v6b.ch
 xn--rosal-qsa.ch
 xn--rosannagrter-llb.ch
 xn--rosannamller-klb.ch
+xn--rosav-fsa.ch
 xn--rosavonknel-s8a.ch
 xn--rose-mller-feb.ch
 xn--rose-rschlikon-lsb.ch
@@ -47031,6 +47023,7 @@ xn--rslihuus-n4a.ch
 xn--rslioptik-07a.ch
 xn--rsliwies-n4a.ch
 xn--rsmatt-wxa.ch
+xn--rsn-tanche-e7a.ch
 xn--rso-ne-bva.ch
 xn--rsolution-b4a.ch
 xn--rsolution-du-stress-bzb.ch
@@ -47546,6 +47539,7 @@ xn--rumungen-solothurn-ltb.ch
 xn--rumungen-therwil-vnb.ch
 xn--rumungen-winterthur-gwb.ch
 xn--rumungen-zrich-5hb70b.ch
+xn--rumungenbasel-bfb.ch
 xn--rumungenschaffhausen-bzb.ch
 xn--rumungprofis-gcb.ch
 xn--rumungs-express-0kb.ch
@@ -51558,6 +51552,7 @@ xn--sgerei-gehrig-bfb.ch
 xn--sgerei-sennwald-0kb.ch
 xn--sgerei-sss-q5a.ch
 xn--sgerei-steinhuserberg-51b.ch
+xn--sgerei-zrcher-bfb18a.ch
 xn--sgereidrnten-gcb65a.ch
 xn--sgereien-0za.ch
 xn--sgereistrasse-malans-bzb.ch
@@ -52823,7 +52818,6 @@ xn--spielzeuggeschft-schwyz-87b.ch
 xn--spielzeuggeschfte-3qb.ch
 xn--spielzeugldeli-fib.ch
 xn--spielzg-ldeli-jfb07a.ch
-xn--spiesshfli-kcb.ch
 xn--spiezer-pistolenschtzen-upc.ch
 xn--spiezergwrbschou-3nb.ch
 xn--spiezialitten-kfb.ch
@@ -53106,7 +53100,6 @@ xn--sprachfrderung-1pb.ch
 xn--sprachfrderungfrhekindheit-ivc1p.ch
 xn--sprachfrderungspielgruppe-4rc.ch
 xn--sprachgefhl-1hb.ch
-xn--sprachlcke-geb.ch
 xn--sprachlichefrhfrderung-8hc5l.ch
 xn--sprachschulen-zrich-kbc.ch
 xn--sprachspielgruppe-hnibach-xwc.ch
@@ -56030,7 +56023,6 @@ xn--thmus-bikeworld-9sb.ch
 xn--thmus-fahrschule-nwb.ch
 xn--thmus-kua.ch
 xn--thmus-veloshop-wpb.ch
-xn--thmusbikeworld-wpb.ch
 xn--thmushundeschule-nwb.ch
 xn--thndergrill-sfb.ch
 xn--thnderhof-17a.ch
@@ -57469,6 +57461,7 @@ xn--turnhallenbelge-dlb.ch
 xn--turnschlppli-ncb.ch
 xn--turnverein-rterschen-mzb.ch
 xn--turrabel-c6a.ch
+xn--tuschbrse-57a.ch
 xn--tuschend-0za.ch
 xn--tuschung-0za.ch
 xn--tusigschn-77a.ch
@@ -61429,6 +61422,7 @@ xn--wschetrocknungsraum-gwb.ch
 xn--wscheturm-v2a.ch
 xn--wschevermietung-0kb.ch
 xn--wschfee-90a.ch
+xn--wschgang-n4a.ch
 xn--wschhsli-n4a8da.ch
 xn--wschhus-90a.ch
 xn--wschi-jua.ch
@@ -62022,6 +62016,7 @@ xn--zahnspange-pfffikon-swb.ch
 xn--zahnspange-zri-rsb.ch
 xn--zahnspange-zrich-uzb.ch
 xn--zahnspange-zrichsee-hbc.ch
+xn--zahnspangezrichsee-w6b.ch
 xn--zahnstark-wrenlos-d3b.ch
 xn--zahnstarkwrenlos-szb.ch
 xn--zahnsthetik-o8a.ch

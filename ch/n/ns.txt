@@ -2347,7 +2347,6 @@ ns1.la-statistique-compte.ch
 ns1.lab6.ch
 ns1.labns.ch
 ns1.labo-pellaton.ch
-ns1.ladygym.ch
 ns1.lagirizza.ch
 ns1.lagirra.ch
 ns1.lakenet.ch
@@ -2804,6 +2803,7 @@ ns1.oi-web.ch
 ns1.ois-groups.ch
 ns1.olys.ch
 ns1.omemo.ch
+ns1.omnes.ch
 ns1.omnespro.ch
 ns1.omniamea.ch
 ns1.one4you.ch
@@ -3167,7 +3167,6 @@ ns1.rockethealth-int.ch
 ns1.rockethealth.ch
 ns1.roe.ch
 ns1.roha.ch
-ns1.rohn.ch
 ns1.rolero.ch
 ns1.romande-energie.ch
 ns1.romibi.ch
@@ -3391,6 +3390,7 @@ ns1.soft-link.ch
 ns1.softcomtrading.ch
 ns1.softds.ch
 ns1.softronics.ch
+ns1.softtechhub.ch
 ns1.software-online.ch
 ns1.softwareschneiderei.ch
 ns1.softxs.ch
@@ -5659,7 +5659,6 @@ ns2.la-statistica-conta.ch
 ns2.la-statistique-compte.ch
 ns2.labns.ch
 ns2.labo-pellaton.ch
-ns2.ladygym.ch
 ns2.lakenet.ch
 ns2.lamatouren.ch
 ns2.lamenuiseriegenevoise.ch
@@ -6080,6 +6079,7 @@ ns2.ohosting.ch
 ns2.oi-web.ch
 ns2.olys.ch
 ns2.omemo.ch
+ns2.omnes.ch
 ns2.omniamea.ch
 ns2.one4you.ch
 ns2.onemotion.ch
@@ -6427,7 +6427,6 @@ ns2.rockethealth-int.ch
 ns2.rockethealth.ch
 ns2.roe.ch
 ns2.roha.ch
-ns2.rohn.ch
 ns2.rolero.ch
 ns2.romande-energie.ch
 ns2.romibi.ch
@@ -6652,6 +6651,7 @@ ns2.softcomtrading.ch
 ns2.softds.ch
 ns2.softronics.ch
 ns2.softserve.ch
+ns2.softtechhub.ch
 ns2.software-online.ch
 ns2.softwareschneiderei.ch
 ns2.softxs.ch
@@ -7658,7 +7658,6 @@ ns3.kpcs.ch
 ns3.kunden.ch
 ns3.kynex.ch
 ns3.labns.ch
-ns3.ladygym.ch
 ns3.lakenet.ch
 ns3.laviweb.ch
 ns3.layer9.ch
@@ -7866,7 +7865,6 @@ ns3.riono.ch
 ns3.ritns.ch
 ns3.rixs.ch
 ns3.roe.ch
-ns3.rohn.ch
 ns3.roninf.ch
 ns3.rowa.ch
 ns3.rpm-it.ch
