@@ -232,6 +232,7 @@ pc-netzwerke.ch
 pc-notarzt.ch
 pc-notdienst.ch
 pc-notfalldienst.ch
+pc-nothilfe.ch
 pc-notruf.ch
 pc-oberwil.ch
 pc-occasionen.ch
@@ -1005,8 +1006,10 @@ pcngroup.ch
 pcni.ch
 pcninfra.ch
 pcnotarzt.ch
+pcnotdienst.ch
 pcnotebookreparatur.ch
 pcnotfall.ch
+pcnothilfe.ch
 pcnotruf.ch
 pcns.ch
 pcntech.ch

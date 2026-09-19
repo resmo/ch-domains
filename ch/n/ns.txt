@@ -1066,7 +1066,6 @@ ns1.bnhost.ch
 ns1.bocasa.ch
 ns1.boll.ch
 ns1.bolligerteam.ch
-ns1.bollow.ch
 ns1.bomm.ch
 ns1.bomweb.ch
 ns1.bondelle.ch
@@ -1276,6 +1275,7 @@ ns1.coiffurederya.ch
 ns1.coiffureenz.ch
 ns1.collegiopapio.ch
 ns1.coltellino.ch
+ns1.com2b.ch
 ns1.com2web.ch
 ns1.comasys.ch
 ns1.combrain.ch
@@ -4421,7 +4421,6 @@ ns2.body-in-balance.ch
 ns2.boffo-net.ch
 ns2.boll.ch
 ns2.bolligerteam.ch
-ns2.bollow.ch
 ns2.bomm.ch
 ns2.bomweb.ch
 ns2.bondelle.ch
@@ -4630,6 +4629,7 @@ ns2.coiffurederya.ch
 ns2.coiffureenz.ch
 ns2.collegiopapio.ch
 ns2.coltellino.ch
+ns2.com2b.ch
 ns2.com2web.ch
 ns2.comasys.ch
 ns2.combrain.ch
@@ -7414,6 +7414,7 @@ ns3.cloudscale.ch
 ns3.clweb.ch
 ns3.codename.ch
 ns3.coltellino.ch
+ns3.com2b.ch
 ns3.com2web.ch
 ns3.comparis.ch
 ns3.compdesign.ch
@@ -8830,6 +8831,7 @@ nssecure.ch
 nssen.ch
 nsservice.ch
 nssg.ch
+nssn.ch
 nssnr.ch
 nsss.ch
 nssteuern.ch
