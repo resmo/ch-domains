@@ -176,7 +176,6 @@
 3d-fabrik.ch
 3d-factory-loeffel.ch
 3d-factory.ch
-3d-family.ch
 3d-farbdruck.ch
 3d-fertigung.ch
 3d-figur.ch
@@ -335,7 +334,6 @@
 3d-pc.ch
 3d-pcs.ch
 3d-people-counting-sensor.ch
-3d-personal.ch
 3d-pieces.ch
 3d-pk.ch
 3d-planer.ch
@@ -746,6 +744,7 @@
 3devent.ch
 3devents.ch
 3devices.ch
+3devicesccell.ch
 3devis.ch
 3dexperience.ch
 3dexperts.ch
@@ -759,7 +758,6 @@
 3dfactories.ch
 3dfactory.ch
 3dfactoryticino.ch
-3dfamily.ch
 3dfarbdruck.ch
 3dfarmer.ch
 3dfc.ch
@@ -1015,6 +1013,7 @@
 3dpci.ch
 3dpeak.ch
 3dpen.ch
+3dpi.ch
 3dpicture.ch
 3dpipestudio.ch
 3dpixel.ch

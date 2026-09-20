@@ -656,7 +656,6 @@ ch11.ch
 ch1291.ch
 ch13.ch
 ch14.ch
-ch1562wn.ch
 ch172.ch
 ch1818.ch
 ch1876.ch
@@ -1947,7 +1946,6 @@ chalet-erlebnis.ch
 chalet-erwin.ch
 chalet-eule.ch
 chalet-evasion.ch
-chalet-event.ch
 chalet-fankhus.ch
 chalet-favre.ch
 chalet-felix.ch
@@ -2287,6 +2285,7 @@ chalet-soraya.ch
 chalet-souleiadou.ch
 chalet-spieli.ch
 chalet-spinatscha.ch
+chalet-spitzacker.ch
 chalet-spitzhorn.ch
 chalet-st-anton.ch
 chalet-st-laurent.ch
@@ -3018,6 +3017,7 @@ chaletspecht.ch
 chaletspeciale.ch
 chaletspieli.ch
 chaletspinne.ch
+chaletspitzacker.ch
 chaletspro.ch
 chaletssuisse.ch
 chaletsswiss.ch
@@ -3859,6 +3859,7 @@ championstore.ch
 championsystem.ch
 championsystems.ch
 championweb.ch
+champipet.ch
 champis-gourmands.ch
 champis.ch
 champittet.ch
@@ -6532,6 +6533,8 @@ charon-fidu.ch
 charon-finance.ch
 charon.ch
 charon.tmr.ch
+charona-bestattungen.ch
+charona.ch
 charonconsulting.ch
 charongmbh.ch
 charops.ch
@@ -12449,6 +12452,7 @@ chgimmo.ch
 chgirl.ch
 chgirls.ch
 chgk-zurich.ch
+chglauser.ch
 chglobalbiz.ch
 chgm.ch
 chgo.ch
@@ -14310,7 +14314,6 @@ chimerapaul.ch
 chimeras.ch
 chimere.ch
 chimeres.ch
-chimericoensemble.ch
 chimerigen.ch
 chimetac.ch
 chimi.ch
@@ -14386,6 +14389,7 @@ china-competence.ch
 china-connect.ch
 china-consulting.ch
 china-contact.ch
+china-desk.ch
 china-e-marketing.ch
 china-embassy.ch
 china-entdecken.ch
@@ -14441,6 +14445,7 @@ china-shop.ch
 china-sprachschule.ch
 china-store.ch
 china-swiss-center.ch
+china-switzerland-law.ch
 china-tours.ch
 china-town.ch
 china-travel-angency.ch
@@ -15201,6 +15206,7 @@ chipmunk.ch
 chipmunks.ch
 chipnail.ch
 chipnchase.ch
+chipo.ch
 chipoca.ch
 chipolata-studios.ch
 chipolata.ch
@@ -16608,6 +16614,7 @@ chloereynolds.ch
 chloerose.ch
 chloerosegeneve.ch
 chloeroselausanne.ch
+chloesardi.ch
 chloesauge-pro.ch
 chloesavary.ch
 chloeschuler.ch
@@ -16636,6 +16643,7 @@ chloote.ch
 chlootebus.ch
 chlootetaxi.ch
 chlopf-frequenz.ch
+chlopf.ch
 chlopffrequenz.ch
 chlopfi.ch
 chlopfinet.ch
@@ -17473,7 +17481,6 @@ chocopoly.ch
 chocopost.ch
 chocoprint.ch
 chocorama.ch
-chocoran.ch
 chocorange.ch
 chocorat.ch
 chocoron.ch
@@ -18194,7 +18201,6 @@ chopseye.ch
 chopstation.ch
 chopsthun.ch
 chopstick.ch
-chopstickfestival.ch
 chopsticks-geneve.ch
 chopsticks.ch
 chopstix.ch
@@ -18351,6 +18357,7 @@ chorel.ch
 choremio.ch
 chorenschmaus.ch
 choreo-creator.ch
+choreo-kuenstler-joggeli.ch
 choreo-oberaargau.ch
 choreo-persona.ch
 choreo-tanz-werkstatt.ch
@@ -19548,6 +19555,7 @@ chrismarty.ch
 chrismas.ch
 chrismassage.ch
 chrismastree.ch
+chrismatec.ch
 chrismccullo.ch
 chrismedia.ch
 chrismeziane.ch
@@ -22248,6 +22256,7 @@ christoph-wiedmer.ch
 christoph-wird-50.ch
 christoph-wolf.ch
 christoph-zarth.ch
+christoph-zbinden.ch
 christoph-zimmerli.ch
 christoph-zollinger.ch
 christoph-zwicky.ch
@@ -22754,6 +22763,7 @@ christophwittmer.ch
 christophwolf.ch
 christophwyss.ch
 christophzarth.ch
+christophzbinden.ch
 christophzeller.ch
 christophzenger.ch
 christophziltener.ch
