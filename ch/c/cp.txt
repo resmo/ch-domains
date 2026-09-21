@@ -110,7 +110,6 @@ cp02.ch
 cp101.ch
 cp11-ready.ch
 cp1861.ch
-cp202.ch
 cp22.ch
 cp23.ch
 cp26.ch
@@ -140,6 +139,7 @@ cpa-asfalti.ch
 cpa-bae.ch
 cpa-chiptuning.ch
 cpa-girasole.ch
+cpa-schweiz.ch
 cpa-ti.ch
 cpa-vdt.ch
 cpaa.ch

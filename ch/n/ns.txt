@@ -1685,7 +1685,6 @@ ns1.fairnet.ch
 ns1.fairvision.ch
 ns1.fairytales.ch
 ns1.falcohost.ch
-ns1.familienstimmen.ch
 ns1.familiezingg.ch
 ns1.famille-arm.ch
 ns1.fantasticservices.ch
@@ -1719,6 +1718,10 @@ ns1.filo-3d.ch
 ns1.fima-hosting.ch
 ns1.finalbit.ch
 ns1.finalfrontier.ch
+ns1.finanzberatung-tg.ch
+ns1.finanzplanung-tg.ch
+ns1.finanzplanung-thurgau.ch
+ns1.finanzstart-schweiz.ch
 ns1.finarea.ch
 ns1.finews.ch
 ns1.fingascom.ch
@@ -3757,6 +3760,8 @@ ns1.vom-hof.ch
 ns1.vomhof.ch
 ns1.vonrohr.ch
 ns1.voozette.ch
+ns1.vorsorge-tg.ch
+ns1.vorsorge-thurgau.ch
 ns1.vortexvision.ch
 ns1.vr-technics.ch
 ns1.vritec.ch
@@ -5018,7 +5023,6 @@ ns2.fairnet.ch
 ns2.fairvision.ch
 ns2.fairytales.ch
 ns2.falcohost.ch
-ns2.familienstimmen.ch
 ns2.familiezingg.ch
 ns2.famille-arm.ch
 ns2.familleoggier.ch
@@ -5050,6 +5054,10 @@ ns2.filo-3d.ch
 ns2.fima-hosting.ch
 ns2.finalbit.ch
 ns2.finalfrontier.ch
+ns2.finanzberatung-tg.ch
+ns2.finanzplanung-tg.ch
+ns2.finanzplanung-thurgau.ch
+ns2.finanzstart-schweiz.ch
 ns2.finews.ch
 ns2.fingascom.ch
 ns2.firba.ch
@@ -7010,6 +7018,8 @@ ns2.vom-hof.ch
 ns2.vomhof.ch
 ns2.vonrohr.ch
 ns2.voozette.ch
+ns2.vorsorge-tg.ch
+ns2.vorsorge-thurgau.ch
 ns2.vortexvision.ch
 ns2.vr-technics.ch
 ns2.vs-creative.ch
