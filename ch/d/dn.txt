@@ -1243,6 +1243,7 @@ dnssec-test.ch
 dnssec.ch
 dnssec1.anti-spams.ch
 dnssec3.anti-spams.ch
+dnssec4.anti-spams.ch
 dnsseck.ch
 dnssectest.ch
 dnssecure.ch

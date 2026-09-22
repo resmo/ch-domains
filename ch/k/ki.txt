@@ -765,6 +765,7 @@ ki-reformator.ch
 ki-regelmappe.ch
 ki-register.ch
 ki-regulierung.ch
+ki-reisen.ch
 ki-reiseplan.ch
 ki-reiseplaner.ch
 ki-reiseplanung.ch
@@ -955,6 +956,8 @@ ki-trainings.ch
 ki-trainingsarena.ch
 ki-transformation.ch
 ki-transparenz.ch
+ki-travel.ch
+ki-travelguru.ch
 ki-treffpunkt.ch
 ki-trends.ch
 ki-tresor.ch
@@ -1169,7 +1172,6 @@ kia-thurgau.ch
 kia-ticino.ch
 kia-tuning.ch
 kia-uri.ch
-kia-us-cars.ch
 kia-venga.ch
 kia-weinland.ch
 kia-zentralschweiz.ch
@@ -1909,6 +1911,7 @@ kiday.ch
 kidazu.ch
 kidbase.ch
 kidbike.ch
+kidboss.ch
 kidbuddy.ch
 kidcare.ch
 kidcareathome.ch
@@ -2202,6 +2205,7 @@ kids-fashion.ch
 kids-ferienprogramm.ch
 kids-festival.ch
 kids-fussballcamp.ch
+kids-gamechanger.ch
 kids-gp.ch
 kids-gpt.ch
 kids-gschichte.ch
@@ -3660,6 +3664,7 @@ kigaweg.ch
 kigazh.ch
 kige.ch
 kigebaut.ch
+kigebo.ch
 kigen.ch
 kigendo.ch
 kigenerator.ch
@@ -3895,6 +3900,7 @@ kiki40.ch
 kikialfajorcitos.ch
 kikibo.ch
 kikiboe.ch
+kikica.ch
 kikicandyk.ch
 kikiclub.ch
 kikicooksfit.ch
@@ -3930,6 +3936,7 @@ kikisleckerschmecker.ch
 kikissnest.ch
 kikiste.ch
 kikistorten.ch
+kikisushi.ch
 kikit.ch
 kikiway.ch
 kikiwhy.ch
@@ -4417,6 +4424,7 @@ killoctal.ch
 killplastic.ch
 killswit.ch
 killswitch.ch
+killter.ch
 killtheinnovation.ch
 killtheklowns.ch
 killtheunicorn.ch
@@ -6017,6 +6025,7 @@ kinderbauchband.ch
 kinderbauchtanz.ch
 kinderbauenbibel.ch
 kinderbauernhof.ch
+kinderbaustelle-buchs.ch
 kinderbaustelle-frauenfeld.ch
 kinderbaustelle-uze.ch
 kinderbaustelle-wattwil.ch
@@ -7930,7 +7939,6 @@ kindertrampolin.ch
 kindertransport-aargau.ch
 kindertrauer-begleitung.ch
 kindertrauer-leicht.ch
-kindertrauerbegleitung.ch
 kindertraum-haus.ch
 kindertraum.ch
 kindertraumainstitut.ch
@@ -9996,7 +10004,6 @@ kingkonginthesky.ch
 kingkongnews.ch
 kingkongsounds.ch
 kingkongsplash.ch
-kingkongtattooshop.ch
 kingkongtools.ch
 kingkora.ch
 kingkratzbaum.ch
@@ -10181,7 +10188,6 @@ kingscommunity.ch
 kingscore.ch
 kingscorner.ch
 kingscross.ch
-kingscrosschur.ch
 kingscrown.ch
 kingscryptoclub.ch
 kingscurry.ch
@@ -10403,6 +10409,7 @@ kinkel.ch
 kinkelder.ch
 kinkelin.ch
 kinkelstrasse.ch
+kinker.ch
 kinkform.ch
 kinkgear.ch
 kinkhao.ch
@@ -12385,6 +12392,7 @@ kirchgasse-reinach.ch
 kirchgasse-schlieren.ch
 kirchgasse.ch
 kirchgassfaescht.ch
+kirchgemeinde-albisrieden.ch
 kirchgemeinde-altishofen-nebikon.ch
 kirchgemeinde-ammerswil.ch
 kirchgemeinde-baar.ch
@@ -12562,6 +12570,7 @@ kiregister.ch
 kirei.ch
 kireifegrad.ch
 kireina.ch
+kireisen.ch
 kirelevant.ch
 kirelevanz.ch
 kirella.ch
@@ -12967,6 +12976,7 @@ kisi.ch
 kisianalytics.ch
 kisichbarkeit.ch
 kisicherheit.ch
+kisichtbar.ch
 kisichtbarkeit.ch
 kisifrotsipik.ch
 kisikagroup.ch
@@ -14261,6 +14271,7 @@ kitaglobus.ch
 kitagluecklichekinder.ch
 kitago.ch
 kitagoldach.ch
+kitagoldschatz.ch
 kitagrenchen.ch
 kitagrendolin.ch
 kitagrisu.ch
@@ -14439,6 +14450,7 @@ kitarafiki.ch
 kitaratatui.ch
 kitarchitects.ch
 kitarchitekten.ch
+kitarchive.ch
 kitarechner.ch
 kitaregenbogen.ch
 kitarheinau.ch
@@ -15084,6 +15096,8 @@ kitrading.ch
 kitrainer.ch
 kitraining.ch
 kitransformation.ch
+kitravel.ch
+kitravelguru.ch
 kitrecluta.ch
 kitresor.ch
 kitreuhand.ch
@@ -15096,13 +15110,11 @@ kitronix.ch
 kitrox.ch
 kitrra.ch
 kits-dayschool.ch
-kits-dietikon.ch
 kits-gmbh.ch
 kits-kita.ch
 kits-labor-sus.ch
 kits-labor.ch
 kits-lernwelt.ch
-kits-niederhasli.ch
 kits-pizzas.ch
 kits-pukzh.ch
 kits-schulung-sus.ch
@@ -15125,16 +15137,11 @@ kitschmitstil.ch
 kitschmundart.ch
 kitschundko.ch
 kitschzone.ch
-kitsd-dietikon.ch
-kitsd-niederhasli.ch
-kitsd-winkel.ch
 kitsd-zuerich.ch
 kitsdev.ch
 kitsforkids.ch
 kitsfuerkids.ch
 kitsgmbh.ch
-kitsi-dietikon.ch
-kitsi-niederhasli.ch
 kitsi-pukzh.ch
 kitsi-zuerich.ch
 kitsinfo.ch
@@ -15763,7 +15770,6 @@ kiyotao.ch
 kiyovu.ch
 kiz-be.ch
 kiz-biel.ch
-kiz-oberwil.ch
 kiz-schwyz.ch
 kiz-weggis.ch
 kiz.ch

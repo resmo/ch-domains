@@ -485,6 +485,7 @@ ctrl-x.ch
 ctrl-z.ch
 ctrl.ch
 ctrl42.ch
+ctrla.ch
 ctrlag.ch
 ctrlalt.ch
 ctrlaltcreate.ch

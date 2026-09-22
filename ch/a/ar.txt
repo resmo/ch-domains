@@ -77,7 +77,6 @@ ar-help.ch
 ar-herisau.ch
 ar-holzbau.ch
 ar-honig.ch
-ar-hotels.ch
 ar-hr.ch
 ar-hunt.ch
 ar-i.ch
@@ -171,6 +170,7 @@ ar-text.ch
 ar-thur.ch
 ar-ti.ch
 ar-tisan.ch
+ar-tobacco.ch
 ar-trail.ch
 ar-training.ch
 ar-treuhand.ch
@@ -1594,6 +1594,7 @@ arbeitsrecht-blog.ch
 arbeitsrecht-cp.ch
 arbeitsrecht-fa.ch
 arbeitsrecht-fachanwalt-sav.ch
+arbeitsrecht-fachanwalt-zuerich.ch
 arbeitsrecht-fachanwalt.ch
 arbeitsrecht-gesundheitswesen.ch
 arbeitsrecht-iten.ch
@@ -3602,7 +3603,6 @@ archi-tetes.ch
 archi-themes.ch
 archi-therapie.ch
 archi-therapy.ch
-archi-time.ch
 archi-trade.ch
 archi-trav.ch
 archi-val.ch
@@ -3924,6 +3924,7 @@ archion-holding.ch
 archion.ch
 archione.ch
 archionline.ch
+archioperator.ch
 archiopus.ch
 archios.ch
 archioweb.ch
@@ -4713,7 +4714,6 @@ architekturag.ch
 architekturagenda.ch
 architekturagent.ch
 architekturalsina.ch
-architekturambulanz.ch
 architekturarchiv.ch
 architekturarchive.ch
 architekturassistenz.ch
@@ -7881,6 +7881,7 @@ argovia-bau.ch
 argovia-brennstoff.ch
 argovia-brennstoffe.ch
 argovia-care.ch
+argovia-classics.ch
 argovia-consulting.ch
 argovia-energie.ch
 argovia-girls.ch
@@ -11725,33 +11726,9 @@ arome.ch
 aromea.ch
 aromed-free.ch
 aromed.ch
-aromed360.ch
-aromedadmin.ch
-aromedagenda.ch
-aromedassistance.ch
-aromedassurances.ch
-aromedbroker.ch
-aromedcare.ch
-aromedcommercial.ch
-aromedcompta.ch
-aromedconseil.ch
-aromedconsult.ch
-aromedcourtiers.ch
-aromeddigital.ch
-aromedformation.ch
 aromedfree.ch
 aromedia.ch
 aromedic.ch
-aromedigb2b.ch
-aromedinsurance.ch
-aromedlife.ch
-aromedlpp.ch
-aromedoffice.ch
-aromedportal.ch
-aromedservices.ch
-aromedsobrado.ch
-aromedsupport.ch
-aromedswiss.ch
 aromen-kraeuter-welten.ch
 aromen-online.ch
 aromen.ch
@@ -12019,7 +11996,6 @@ arosacamping.ch
 arosaclassiccar.ch
 arosadoku.ch
 arosaduft.ch
-arosaeden.ch
 arosaeisminigolf.ch
 arosaelectronica.ch
 arosaenergie.ch
@@ -15076,7 +15052,6 @@ artcritic.ch
 artcrossing.ch
 artcrush.ch
 artcube.ch
-artcube21.ch
 artcubes.ch
 artcucina.ch
 artcuellarnathan.ch
@@ -15786,7 +15761,6 @@ artemiam.ch
 artemic.ch
 artemica.ch
 artemid.ch
-artemide-designleuchten.ch
 artemide.ch
 artemiele.ch
 artemik.ch
@@ -15819,6 +15793,7 @@ artemis-graphics.ch
 artemis-group.ch
 artemis-holding.ch
 artemis-immobilien.ch
+artemis-impact.ch
 artemis-international.ch
 artemis-ipm.ch
 artemis-naturgarten.ch
@@ -17760,6 +17735,7 @@ artisconsult.ch
 artiscuisines.ch
 artisderverein.ch
 artisdruck.ch
+artiseau.ch
 artisera.ch
 artisesthetics.ch
 artiset-agenda.ch
@@ -18574,6 +18550,7 @@ artofhealing.ch
 artofhemp.ch
 artofhimalaya.ch
 artofhome.ch
+artofhomedesign.ch
 artofhope.ch
 artofhosting.ch
 artofhtemind.ch
@@ -20060,6 +20037,8 @@ arvedeco.ch
 arvedelis.ch
 arvedelix.ch
 arvedelus.ch
+arvedes.ch
+arvedis.ch
 arvedson.ch
 arvee.ch
 arveed.ch
@@ -20223,6 +20202,7 @@ arveproduction.ch
 arveqo.ch
 arver.ch
 arvera.ch
+arverdis.ch
 arverei.ch
 arvermog.ch
 arvernus-capital.ch
