@@ -4749,7 +4749,6 @@ speed-express.ch
 speed-filler.ch
 speed-floor.ch
 speed-flow.ch
-speed-flyer.ch
 speed-force.ch
 speed-friending.ch
 speed-geruestbau.ch
@@ -4949,6 +4948,7 @@ speedfilms.ch
 speedfingers.ch
 speedfire.ch
 speedfit.ch
+speedfitcleat.ch
 speedflash.ch
 speedflatmating.ch
 speedflex.ch
@@ -8163,7 +8163,6 @@ spielgruppe-lerchenfeld.ch
 spielgruppe-lernstern.ch
 spielgruppe-leu.ch
 spielgruppe-leuchtturm.ch
-spielgruppe-libelle.ch
 spielgruppe-liestal.ch
 spielgruppe-linden.ch
 spielgruppe-lindenhof.ch
@@ -9622,6 +9621,7 @@ spill.ch
 spillbarrier.ch
 spillchischta.ch
 spilledchampagne.ch
+spilledsoda.ch
 spiller-scuol.ch
 spiller.ch
 spillergu.ch
@@ -11729,6 +11729,7 @@ spitaldavos.ch
 spitalderzukunft.ch
 spitalderzukunftlive.ch
 spitaldielsdorf.ch
+spitaldigital.ch
 spitaldirektoren.ch
 spitaldiscount.ch
 spitale.ch
@@ -11737,6 +11738,7 @@ spitaleinkauf.ch
 spitalemmental.ch
 spitalengadin.ch
 spitaleri.ch
+spitalerp.ch
 spitalexterne-ethik-metap.ch
 spitalexterne-hilfe-und-pflege.ch
 spitalfahrten.ch
@@ -11760,7 +11762,6 @@ spitalgruppe.ch
 spitalhaftung.ch
 spitalhebammen.ch
 spitalheiden.ch
-spitalheld.ch
 spitalherisau.ch
 spitalhof.ch
 spitalholz.ch
@@ -11771,6 +11772,7 @@ spitalilanz.ch
 spitalinfo.ch
 spitalinformatik.ch
 spitalinformation.ch
+spitalinnovation.ch
 spitalinside.ch
 spitalinterlaken.ch
 spitalinternist.ch
@@ -11930,6 +11932,7 @@ spitalvs.ch
 spitalwahl.ch
 spitalwalenstadt.ch
 spitalwallis.ch
+spitalwandel.ch
 spitalwattwil.ch
 spitalweg.ch
 spitalwil.ch
@@ -14245,6 +14248,7 @@ splunk-zertifizierung.ch
 splunk.ch
 splunkcloud.ch
 splunkmobile.ch
+splus-elektrokontrollen.ch
 splus.ch
 splusc.ch
 spluselektrokontrollen.ch
@@ -15490,6 +15494,7 @@ sportaccu.ch
 sportacquaticisvizzera.ch
 sportact.ch
 sportactiv.ch
+sportacts.ch
 sportacus.ch
 sportaddict-service.ch
 sportaddict.ch
@@ -16824,6 +16829,7 @@ sportmedizinzuerich.ch
 sportmedizinzug.ch
 sportmedkurse.ch
 sportmedpraxis.ch
+sportmedragaz.ch
 sportmedregio.ch
 sportmedshop.ch
 sportmeeting.ch
@@ -18479,6 +18485,7 @@ spot-it.ch
 spot-key.ch
 spot-led.ch
 spot-light.ch
+spot-me.ch
 spot-module.ch
 spot-on-leadership.ch
 spot-on.ch
@@ -19926,9 +19933,11 @@ springer-akademie.ch
 springer-apotheker.ch
 springer-berufsbeistandschaft.ch
 springer-gemeindefinanzen.ch
+springer-kesb.ch
 springer-lounge.ch
 springer-medizin.ch
 springer-photo.ch
+springer-revisor.ch
 springer-sozialhilfe.ch
 springer-zahnaerztin.ch
 springer-zahnarzt.ch

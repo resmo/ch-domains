@@ -5,6 +5,7 @@ ls-arch.ch
 ls-architektur.ch
 ls-archiv.ch
 ls-athletisme.ch
+ls-auto.ch
 ls-automotives.ch
 ls-avocats.ch
 ls-basel.ch
@@ -116,7 +117,6 @@ ls-xag.ch
 ls-zimmerei.ch
 ls1896.ch
 ls19.ch
-ls2-annual-meeting.ch
 ls2.ch
 ls20.ch
 ls254.ch
@@ -152,6 +152,7 @@ lsarchiv.ch
 lsarkesian.ch
 lsass.ch
 lsassets.ch
+lsauto.ch
 lsautomobiles.ch
 lsaviron.ch
 lsb-ag.ch
