@@ -526,6 +526,7 @@ cmds.ch
 cmdsa.ch
 cmdshift.ch
 cmdssa.ch
+cmdt.ch
 cmdtec.ch
 cmdtech.ch
 cmdtreuhand.ch
@@ -700,6 +701,7 @@ cmiapps.ch
 cmiaxioma.ch
 cmibildung.ch
 cmic.ch
+cmichaud.ch
 cmichel.ch
 cmiclaud.ch
 cmicloud.ch
@@ -974,7 +976,6 @@ cmpsysante.ch
 cmpte.ch
 cmptechnology.ch
 cmptj.ch
-cmpwebdesign.ch
 cmq.ch
 cmqr.ch
 cmr-elemente.ch

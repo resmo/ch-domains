@@ -110,6 +110,7 @@ cp02.ch
 cp101.ch
 cp11-ready.ch
 cp1861.ch
+cp202.ch
 cp22.ch
 cp23.ch
 cp26.ch
@@ -176,9 +177,11 @@ cpamonthey.ch
 cpanchaud.ch
 cpanel.ch
 cpanet.ch
+cpap-miete.ch
 cpap-shop.ch
 cpap.ch
 cpapilloud-coaching.ch
+cpapmiete.ch
 cpapp.ch
 cpapshop.ch
 cpar.ch

@@ -1638,7 +1638,6 @@ addspring.ch
 addstore.ch
 addsumma.ch
 addtech.ch
-addtowater.ch
 addtransport.ch
 addtrust.ch
 adduco.ch
@@ -2029,7 +2028,6 @@ ademimail.ch
 ademini.ch
 ademis-sport.ch
 ademis.ch
-ademit.ch
 ademjashari.ch
 ademkaya.ch
 ademo.ch
@@ -3499,6 +3497,7 @@ adlatus-ostschweiz.ch
 adlatus-robotics.ch
 adlatus-treuhand.ch
 adlatus-winterthur-schaffhausen.ch
+adlatus-zentralschweiz-ticino.ch
 adlatus-zentralschweiz.ch
 adlatus-zh-oberland.ch
 adlatus-zh.ch
@@ -3646,6 +3645,7 @@ adlerauge.ch
 adleraugen.ch
 adlerautomobile.ch
 adlerbar.ch
+adlerbasel.ch
 adlerbau.ch
 adlerbeizli.ch
 adlerblick-augenmedizin.ch
@@ -4398,7 +4398,6 @@ adminminimum.ch
 adminn.ch
 adminnet.ch
 adminnews.ch
-adminnova.ch
 admino.ch
 adminoffice.ch
 adminondemand.ch
@@ -4652,6 +4651,7 @@ adn-montagne.ch
 adn-music.ch
 adn-neyruz.ch
 adn-nutrition.ch
+adn-permis.ch
 adn-physio.ch
 adn-physiotherapie.ch
 adn-sante.ch

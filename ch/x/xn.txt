@@ -1004,6 +1004,8 @@ xn--alpenklte-02a.ch
 xn--alpenkruter-r8a.ch
 xn--alpenkruterbrot-6kb.ch
 xn--alpenkse-5za.ch
+xn--alpenlnd-5za.ch
+xn--alpenlnder-v5a.ch
 xn--alpenlndisch-lcb.ch
 xn--alpenpftli-kcb.ch
 xn--alpenpsse-02a.ch
@@ -1462,7 +1464,6 @@ xn--angiologie-nordbnden-4ec.ch
 xn--angiologie-sdostschweiz-npc.ch
 xn--angiologie-zrich-uzb.ch
 xn--angiologiegraubnden-kbc.ch
-xn--angiologiezrich-9vb.ch
 xn--angleruchti-09a.ch
 xn--angloz-dva.ch
 xn--angolo-caff-89a.ch
@@ -6260,6 +6261,7 @@ xn--bndner-salsiz-wob.ch
 xn--bndner-spezialitten-vwb20c.ch
 xn--bndner-stern-dlb.ch
 xn--bndner-tagblatt-zvb.ch
+xn--bndner-wurst-dlb.ch
 xn--bndneralpkse-pcb04a.ch
 xn--bndnerantiquitten-3qb65b.ch
 xn--bndnerbag-q9a.ch
@@ -6329,6 +6331,7 @@ xn--bndnerwald-9db.ch
 xn--bndnerwein-9db.ch
 xn--bndnerwildlachsrucherei-b8b89c.ch
 xn--bndnerwoche-thb.ch
+xn--bndnerwurst-thb.ch
 xn--bndnerzeitung-wob.ch
 xn--bndnis-3ya.ch
 xn--bndnis-kinderschutz-59b.ch
@@ -10317,6 +10320,7 @@ xn--chtt-moa.ch
 xn--chtten-cua.ch
 xn--chttihammer-sfb.ch
 xn--chtzliundco-m8a.ch
+xn--chtzyt-9ta.ch
 xn--chubi-kua.ch
 xn--chubi-lva.ch
 xn--chuchi-bru-y5a.ch
@@ -11814,7 +11818,6 @@ xn--deproximit-k7a.ch
 xn--der-alpkser-s8a.ch
 xn--der-aufrumer-ncb.ch
 xn--der-brgerverein-3vb.ch
-xn--der-brokaffee-0ob.ch
 xn--der-broplaner-0ob.ch
 xn--der-einfdler-ncb.ch
 xn--der-ernhrungsberater-hzb.ch
@@ -13439,6 +13442,7 @@ xn--duknigskind-tfb.ch
 xn--dukrs-6ra.ch
 xn--dukrs-dsa.ch
 xn--dukrs-ira.ch
+xn--dukunz-9ta.ch
 xn--dula-zrisee-yhb.ch
 xn--dulcor-9uag.ch
 xn--dullary-5wa.ch
@@ -16106,7 +16110,6 @@ xn--fernhilfe-zrcher-tzb.ch
 xn--fernlehrgnge-ocb.ch
 xn--fernlogopdie-ocb.ch
 xn--fernndez-cza.ch
-xn--fernnhe-9wa.ch
 xn--fernsehgerte-pcb.ch
 xn--fernsehkche-0hb.ch
 xn--fernsehmbel-yfb.ch
@@ -24194,7 +24197,6 @@ xn--hchwangbot-ecb.ch
 xn--hchweid-90a.ch
 xn--hck-qla.ch
 xn--hck-sna.ch
-xn--hckel-gra.ch
 xn--hckeler-90a.ch
 xn--hckeltrio-v2a.ch
 xn--hcker-gra.ch
@@ -26421,6 +26423,7 @@ xn--hrntis-3ya.ch
 xn--hroase-wxa.ch
 xn--hroote-3ya.ch
 xn--hrot-ooa4l.ch
+xn--hrote-kva.ch
 xn--hrparadies-ecb.ch
 xn--hrportfolio-rfb.ch
 xn--hrprofi-90a.ch
@@ -27481,7 +27484,6 @@ xn--immobiliengeschft-4qb.ch
 xn--immobiliengnstigkaufen-2lc.ch
 xn--immobilienhndler-5nb.ch
 xn--immobilienknig-5pb.ch
-xn--immobilienkufer-blb.ch
 xn--immobilienlsung-jtb.ch
 xn--immobilienmakler-in-der-nhe-zkc.ch
 xn--immobilienmakler-ksnacht-dtc.ch
@@ -27527,7 +27529,6 @@ xn--immofut-hya.ch
 xn--immoglck-c6a.ch
 xn--immogrfin-02a.ch
 xn--immohndler-u5a.ch
-xn--immokufer-z2a.ch
 xn--immomarch-j4a.ch
 xn--immomnt-9wa.ch
 xn--immoportrt-y5a.ch
@@ -31349,6 +31350,7 @@ xn--kompetenzzentrumfrholz-8lc.ch
 xn--kompetenzzentrumgebudehlle-yhc09d.ch
 xn--komplementr-apotheke-kzb.ch
 xn--komplementr-hausrzte-kzbg.ch
+xn--komplementr-imzentrum-f2b.ch
 xn--komplementr-luzern-utb.ch
 xn--komplementr-medizin-pwb.ch
 xn--komplementr-therapeut-f2b.ch
@@ -31914,7 +31916,6 @@ xn--krll-6qa.ch
 xn--krmelclub-r9a.ch
 xn--krmeleien-r9a.ch
 xn--krmeli-4ya.ch
-xn--krmelikeks-beb.ch
 xn--krmelwerk-r9a.ch
 xn--krmer-hra.ch
 xn--krmerag-6wa.ch
@@ -32033,6 +32034,7 @@ xn--krperhren-07af.ch
 xn--krperimgriff-4ib.ch
 xn--krperimpuls-rfb.ch
 xn--krperimpulse-4ib.ch
+xn--krperimzentrum-vpb.ch
 xn--krperinbalance-vpb.ch
 xn--krperklang-ecb.ch
 xn--krperklangkunst-8sb.ch
@@ -32180,7 +32182,6 @@ xn--kruterbx-1za9v.ch
 xn--kruterei-1za.ch
 xn--krutererlebnisse-wnb.ch
 xn--kruteressig-m8a.ch
-xn--krutereule-r5a.ch
 xn--kruterfabrik-hcb.ch
 xn--kruterfarm-r5a.ch
 xn--kruterfisch-m8a.ch
@@ -32629,6 +32630,7 @@ xn--kunst-fr-alle-2ob.ch
 xn--kunst-hndler-mcb.ch
 xn--kunst-therapie-zrich-4ec.ch
 xn--kunst-wrch-w5a.ch
+xn--kunst-wrk-12a.ch
 xn--kunstatelier-tschalr-tzb.ch
 xn--kunstaufrumen-jfb.ch
 xn--kunstbrse-57a.ch
@@ -38808,6 +38810,7 @@ xn--momentefnger-ncb.ch
 xn--momnt-ira.ch
 xn--momntli-7wa.ch
 xn--momntwerk-x2a.ch
+xn--mon-comparateur-sant-u2b.ch
 xn--mon-corps-ma-dcision-o2b.ch
 xn--mon-ide-gya.ch
 xn--mon-mariage-laque-rwb.ch
@@ -41449,8 +41452,6 @@ xn--onexdbarrasetnettoyage-f8b.ch
 xn--ongre-6ra.ch
 xn--onis-koa.ch
 xn--onix-zrich-feb.ch
-xn--onkologie-zrich-9vb.ch
-xn--onkologiezrich-psb.ch
 xn--onkologische-prhabilitation-pkc.ch
 xn--online-ausbildung-medialitt-0kc.ch
 xn--online-bettwsche-6nb.ch
@@ -44323,9 +44324,6 @@ xn--proprit-gyab.ch
 xn--proprit-intellectuelle-g8bb.ch
 xn--propritaire-de-migros-g5b.ch
 xn--propritaire-gbb.ch
-xn--propritaire-immo-gqb.ch
-xn--propritaire-immobilier-g8b.ch
-xn--propritaireimmo-gnb.ch
 xn--propritintellectuelle-g5bb.ch
 xn--proprits-de-suisse-gwbb.ch
 xn--proprits-g1ab.ch
@@ -46113,7 +46111,6 @@ xn--restaurant-hck-6pb.ch
 xn--restaurant-hecht-dbendorf-wwc.ch
 xn--restaurant-hlne-6mbp.ch
 xn--restaurant-la-czille-p2b.ch
-xn--restaurant-lachemine-t2b.ch
 xn--restaurant-leschr-5qb.ch
 xn--restaurant-lindenblte-ric.ch
 xn--restaurant-lwen-ktb.ch
@@ -46584,7 +46581,6 @@ xn--rmertor-oberi-imb.ch
 xn--rmerweg-90a.ch
 xn--rmerwein-n4a.ch
 xn--rmes-4na.ch
-xn--rmi-hoa.ch
 xn--rmi-qla.ch
 xn--rmibhl-bua9q.ch
 xn--rmibhl-kantonsschule-bzb54c.ch
@@ -48332,6 +48328,7 @@ xn--santtrans-e4a.ch
 xn--santvision-e7a.ch
 xn--santvousproche-ekb.ch
 xn--sapac-umzge-1hb.ch
+xn--saphlis-eya.ch
 xn--sara-zra.ch
 xn--sarah-blttler-ifb.ch
 xn--sarah-willi-paar-coaching-zrich-fjd.ch
@@ -50961,6 +50958,7 @@ xn--sdbahnrent-9db.ch
 xn--sdbar-kva.ch
 xn--sdblick-n2a.ch
 xn--sdefin-iwa.ch
+xn--sdelblick-v2a.ch
 xn--sdelgeischter-bfb.ch
 xn--sdengland-q9a.ch
 xn--sdfhn-lua3b.ch
@@ -53418,8 +53416,6 @@ xn--stadthonigzri-6ob.ch
 xn--stadthonigzrich-9vb.ch
 xn--stadthuser-v5a.ch
 xn--stadtjger-02a.ch
-xn--stadtkhler-feb.ch
-xn--stadtkhlerinnen-4vb.ch
 xn--stadtkologie-8ib.ch
 xn--stadtlandbrcke-qsb.ch
 xn--stadtlbe-5zaa.ch
@@ -56650,7 +56646,6 @@ xn--tpferwaren-ecb.ch
 xn--tpferwerk-07a.ch
 xn--tpferwerkstatt-vpb.ch
 xn--tpfli-jua.ch
-xn--tpflirund-q9a.ch
 xn--tpflischisser-wob.ch
 xn--tpflischysser-wob.ch
 xn--tpfliufemi-9db.ch
@@ -57752,8 +57747,10 @@ xn--unabhngige-u5a.ch
 xn--unabhngigefinanzberatung-ubc.ch
 xn--unabhngigeliftberatung-44b.ch
 xn--unabhngiger-finanzberater-pec.ch
+xn--unabhngiger-journalismus-ubc.ch
 xn--unabhngiger-lift-berater-ubc.ch
 xn--unabhngigerfinanzberater-ubc.ch
+xn--unabhngigerjournalismus-z7b.ch
 xn--unabhngigevermgensberatung-khc72c.ch
 xn--unabhngigevorsorge-ptb.ch
 xn--unabhngiggeldanlegen-fzb.ch
@@ -58039,6 +58036,7 @@ xn--ursfssler-y2a.ch
 xn--ursglttli-z2a.ch
 xn--urshfliger-t5a.ch
 xn--urshgli-q2a.ch
+xn--ursinafltsch-klb.ch
 xn--ursis-wohlfhloase-d3b.ch
 xn--ursiswohlfhloase-szb.ch
 xn--ursjgerag-y2a.ch
