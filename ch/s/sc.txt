@@ -1,6 +1,5 @@
 sc-11.ch
 sc-aadorf.ch
-sc-advisory.ch
 sc-ag.ch
 sc-agility.ch
 sc-ahorn.ch
@@ -1196,6 +1195,7 @@ scanlab-360.ch
 scanlab.ch
 scanlan.ch
 scanlaser.ch
+scanlation.ch
 scanlet.ch
 scanline.ch
 scanlink.ch
@@ -6723,6 +6723,7 @@ schercotrading.ch
 schere-schleifen-lassen.ch
 schere-schleifen.ch
 schere-schnitt-papier.ch
+schere-stein-papier.ch
 schere.ch
 scheremencia.ch
 scheren-messerschleiferei.ch
@@ -8962,6 +8963,7 @@ schips.ch
 schir.ch
 schira.ch
 schirach.ch
+schiraldi.ch
 schirato-chalet.ch
 schirato-design.ch
 schirato-gstaad.ch
@@ -8993,6 +8995,7 @@ schirlibar.ch
 schirm-bar.ch
 schirm-express.ch
 schirm-flicker.ch
+schirm-shop.ch
 schirm.ch
 schirmag.ch
 schirmann.ch
@@ -11516,6 +11519,7 @@ schlossberg-park.ch
 schlossberg-shop.ch
 schlossberg-steinhausen.ch
 schlossberg-switzerland.ch
+schlossberg-thun.ch
 schlossberg-waedenswil.ch
 schlossberg-waedi.ch
 schlossberg-wikon.ch
@@ -11559,6 +11563,7 @@ schlossblick-tomils.ch
 schlossblick-uster.ch
 schlossblick.ch
 schlossboettstein.ch
+schlossboss.ch
 schlossbottmingen.ch
 schlossbraeu.ch
 schlossbrandis.ch
@@ -11682,6 +11687,7 @@ schlosserstrasse.ch
 schlossevent.ch
 schlossexpert.ch
 schlossexpress.ch
+schlossfaelleli.ch
 schlossfalkenstein.ch
 schlossfarm.ch
 schlossfeld.ch
@@ -11805,7 +11811,6 @@ schlosshuette.ch
 schlosshueueler.ch
 schlosshuuler.ch
 schlossimmobilien.ch
-schlosskapelle.ch
 schlosskatzen.ch
 schlosskeller-brig.ch
 schlosskeller-burgdorf.ch
@@ -13493,6 +13498,7 @@ schmid-bauleitung.ch
 schmid-baumann.ch
 schmid-bauplanung.ch
 schmid-baurealisation.ch
+schmid-baut.ch
 schmid-bauunternehmung.ch
 schmid-bbm.ch
 schmid-bdb.ch
@@ -13709,6 +13715,7 @@ schmid-renoviert.ch
 schmid-rhyner.ch
 schmid-rickenbach.ch
 schmid-riedmann.ch
+schmid-robin.ch
 schmid-roger.ch
 schmid-saanen.ch
 schmid-sab.ch
@@ -14087,6 +14094,7 @@ schmidlin-tsk.ch
 schmidlin.ch
 schmidlin48.ch
 schmidlinag.ch
+schmidlinapp.ch
 schmidlinarchitekten.ch
 schmidlinbau.ch
 schmidlinbinz.ch
@@ -14351,6 +14359,7 @@ schmidtransporte.ch
 schmidtransportgroup.ch
 schmidtreu.ch
 schmidtronix.ch
+schmidts-bauservice.ch
 schmidts-produkte.ch
 schmidts.ch
 schmidtsignature.ch
@@ -14429,6 +14438,7 @@ schmiede-menzberg.ch
 schmiede-obersaxen.ch
 schmiede-ottikon.ch
 schmiede-pleigne.ch
+schmiede-pt.ch
 schmiede-replikate.ch
 schmiede-thurgau.ch
 schmiede-wirz.ch
@@ -17711,7 +17721,6 @@ schnukki.ch
 schnuller-alarm.ch
 schnuller.ch
 schnullerdirekt.ch
-schnullerhelden.ch
 schnullerkette.ch
 schnullerketten.ch
 schnullerking.ch
@@ -19541,7 +19550,6 @@ schonbezahlt.ch
 schonbezuege-wohnmobil.ch
 schonbezuegewohnmobil.ch
 schonbezug.ch
-schone-geschenke.ch
 schoneckkebab.ch
 schonegg.ch
 schonenberger-custom.ch
@@ -21014,6 +21022,7 @@ schreiner-schwyz.ch
 schreiner-service-24.ch
 schreiner-service-48.ch
 schreiner-service-baselland.ch
+schreiner-service-horgen.ch
 schreiner-service-plus.ch
 schreiner-service-rheinfelden.ch
 schreiner-service-rothmayr.ch
@@ -23540,6 +23549,7 @@ schuh-reparaturen.ch
 schuh-restaurant.ch
 schuh-schluesselservice-calabrese.ch
 schuh-schluesselservice-witikon.ch
+schuh-schluesselservice.ch
 schuh-schluesselservicestefa.ch
 schuh-service-lema.ch
 schuh-service.ch
@@ -23991,6 +24001,7 @@ schulbezirk.ch
 schulbibel.ch
 schulbiblio-schulen-affeltrangen.ch
 schulbiblio.ch
+schulbibliothek-beringen.ch
 schulbibliothek.ch
 schulbibliotheken.ch
 schulbiene.ch
@@ -24554,8 +24565,6 @@ schule-lengnau.ch
 schule-lenzburg.ch
 schule-letec.ch
 schule-leuchtturm.ch
-schule-leudue.ch
-schule-leutwil-duerrenaesch.ch
 schule-leutwil.ch
 schule-leuzigen.ch
 schule-libella.ch
@@ -24627,6 +24636,7 @@ schule-muenchwilen.ch
 schule-muolen.ch
 schule-murgenthal.ch
 schule-muri.ch
+schule-muski.ch
 schule-musterhausen-gse.ch
 schule-musterhausen.ch
 schule-musterlingen.ch
@@ -25205,7 +25215,6 @@ schuleheimiswilkaltacker.ch
 schuleheimiswilkaltackerdownloads.ch
 schulehemmiken.ch
 schuleherisau.ch
-schuleherschmettlen.ch
 schuleherznachueken.ch
 schulehessgut.ch
 schuleheute.ch
@@ -27212,6 +27221,7 @@ schuschu.ch
 schuschumusic.ch
 schusgi.ch
 schuss-app.ch
+schussbild.ch
 schussbox.ch
 schussbuch.ch
 schussfreude.ch
@@ -30001,6 +30011,7 @@ schweizer-eisbad.ch
 schweizer-eisenbahnen.ch
 schweizer-electronic.ch
 schweizer-eleganz.ch
+schweizer-elektriker.ch
 schweizer-elektro.ch
 schweizer-elektrobau.ch
 schweizer-elektrotechnik.ch
@@ -31853,7 +31864,6 @@ schweizerkulturteppich.ch
 schweizerkunst.ch
 schweizerkunsthandel.ch
 schweizerkunsthandwerk.ch
-schweizerkunstlied.ch
 schweizerkunstmaler.ch
 schweizerkunstmarkt.ch
 schweizerkunstpreis.ch
@@ -32612,6 +32622,7 @@ schweizjournal.ch
 schweizkaffeejobs.ch
 schweizkalender.ch
 schweizkarriere.ch
+schweizkarte.ch
 schweizkasachstan.ch
 schweizkasino.ch
 schweizkauft.ch
@@ -32859,6 +32870,7 @@ schwellenkorporation-grindelwald.ch
 schwellenkorporation-hasliberg.ch
 schwellenkorporation-innertkirchen.ch
 schwellenkorporation-meiringen.ch
+schwellenkorporation-saanen.ch
 schwellenkorporation.ch
 schwellenkorporationen.ch
 schwellenland.ch
@@ -37406,7 +37418,6 @@ scryptminer.ch
 scrypttrading.ch
 scryptus.ch
 scrz.ch
-scs-0051.ch
 scs-academy.ch
 scs-act.ch
 scs-ag.ch
@@ -37460,7 +37471,6 @@ scs-team.ch
 scs-test.ch
 scs-work.ch
 scs.ch
-scs0051.ch
 scs24.ch
 scsa.ch
 scsaanen.ch
@@ -38001,7 +38011,6 @@ scuolaonline.ch
 scuolaparkour.ch
 scuolapercani.ch
 scuolapercaniticino.ch
-scuolapergenitori.ch
 scuolapermacultura.ch
 scuolaplus.ch
 scuolapony.ch

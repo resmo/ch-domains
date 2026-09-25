@@ -2,7 +2,6 @@ kr-advisory.ch
 kr-archbau.ch
 kr-architekten.ch
 kr-bautechnik.ch
-kr-center.ch
 kr-computing.ch
 kr-consulting.ch
 kr-cvs.ch
@@ -47,6 +46,7 @@ kr1.ch
 kr2.ch
 kr24.ch
 kr4.ch
+kr4sniqi.ch
 kr5.ch
 kr6-consulting.ch
 kr8.ch
@@ -1481,6 +1481,7 @@ krankenkassecompare.ch
 krankenkassedirekt.ch
 krankenkasseelm.ch
 krankenkassegroupmutuel.ch
+krankenkassemathu.ch
 krankenkassen-24.ch
 krankenkassen-admin.ch
 krankenkassen-agent.ch
@@ -1513,7 +1514,6 @@ krankenkassen-guenstig.ch
 krankenkassen-guide.ch
 krankenkassen-guru.ch
 krankenkassen-helfer.ch
-krankenkassen-info-schweiz.ch
 krankenkassen-initiative.ch
 krankenkassen-klick.ch
 krankenkassen-kompass.ch
@@ -2578,6 +2578,7 @@ kreaboxx.ch
 kreacasa.ch
 kreacept.ch
 kreaconnect.ch
+kreactiv.ch
 kreadach.ch
 kreadeco.ch
 kreadee.ch

@@ -2829,7 +2829,6 @@ felde.ch
 feldeck.ch
 feldegg-bar.ch
 feldegg.ch
-feldegg25.ch
 feldegg93.ch
 feldeggstrasse32.ch
 feldeins.ch
@@ -3205,6 +3204,7 @@ feldmoos.ch
 feldmuehle-rorschach.ch
 feldmuehle.ch
 feldmuehleareal.ch
+feldmuehlequartier.ch
 feldmusik-beckenried.ch
 feldmusik-buttisholz.ch
 feldmusik-eschenbach.ch
@@ -3657,6 +3657,7 @@ felina-katzenpraxis.ch
 felina-lab.ch
 felina.ch
 felinabeauty.ch
+felinae.ch
 felinageneve.ch
 felinails.ch
 felinalinda.ch
@@ -5910,6 +5911,7 @@ fenrir-gaming.ch
 fenrirs-waechter.ch
 fenris.ch
 fenrisulfarhelvetia.ch
+fenro.ch
 fenroa.ch
 fens-products.ch
 fens.ch
@@ -6886,7 +6888,6 @@ ferblanteriedivonnaise.ch
 ferblanteries.ch
 ferblanterieshop.ch
 ferblanterievuille.ch
-ferblantier-couverturelausanne.ch
 ferblantier-couvreur-lausanne.ch
 ferblantier-couvreur-montreux.ch
 ferblantier-couvreur-suisse.ch
@@ -9231,6 +9232,7 @@ ferme-du-lignon.ch
 ferme-ecole.ch
 ferme-en-folie.ch
 ferme-epautheyres.ch
+ferme-equestre.ch
 ferme-evrasse.ch
 ferme-fromagerie.ch
 ferme-ginier.ch
@@ -9256,7 +9258,6 @@ ferme-marchand.ch
 ferme-martignier.ch
 ferme-mohair.ch
 ferme-mont-dedos.ch
-ferme-montagny.ch
 ferme-montmirail.ch
 ferme-o-cles.ch
 ferme-petit-bois.ch
@@ -9361,7 +9362,6 @@ fermeduclermont.ch
 fermeducontour.ch
 fermedufelliny.ch
 fermedugrandbisse.ch
-fermedumontant.ch
 fermedumoutta.ch
 fermedupetitcreux.ch
 fermedutalent.ch
@@ -13218,8 +13218,6 @@ feuerwehr-rothenthurm.ch
 feuerwehr-rothrist.ch
 feuerwehr-rubigen.ch
 feuerwehr-rued.ch
-feuerwehr-rueggi.ch
-feuerwehr-rueggisberg.ch
 feuerwehr-ruete.ch
 feuerwehr-rueti.ch
 feuerwehr-ruettenen.ch

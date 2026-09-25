@@ -1063,6 +1063,7 @@ my-logic.ch
 my-login.ch
 my-logistix.ch
 my-logo.ch
+my-logope.ch
 my-lokal.ch
 my-lona.ch
 my-longevity.ch
@@ -1175,6 +1176,7 @@ my-moto.ch
 my-motorino.ch
 my-mototour.ch
 my-mototours.ch
+my-motri.ch
 my-mountains.ch
 my-move-shop.ch
 my-move.ch
@@ -1263,7 +1265,9 @@ my-onlinecasino.ch
 my-onlineshop.ch
 my-onoffice.ch
 my-openspace.ch
+my-ophon.ch
 my-opinion.ch
+my-opti.ch
 my-order.ch
 my-origines.ch
 my-os.ch
@@ -1362,6 +1366,7 @@ my-pmi.ch
 my-pneu.ch
 my-pnh.ch
 my-pocketpc.ch
+my-podo.ch
 my-podologie.ch
 my-point-pizza-kurier.ch
 my-poke.ch
@@ -1420,6 +1425,8 @@ my-propria.ch
 my-protein.ch
 my-protektor.ch
 my-psy.ch
+my-psycho.ch
+my-psychomot.ch
 my-pudel.ch
 my-pulse.ch
 my-purebalance.ch
@@ -1505,6 +1512,7 @@ my-salzh.ch
 my-sana.ch
 my-sandwiches-lausanne.ch
 my-sandwiches.ch
+my-sante.ch
 my-sardinia.ch
 my-sasu.ch
 my-sbm.ch
@@ -1576,11 +1584,7 @@ my-showreel.ch
 my-showroom.ch
 my-si.ch
 my-sibe.ch
-my-silver-coach.ch
-my-silver-learning.ch
-my-silver-mentor.ch
 my-silver-mind.ch
-my-silver-society.ch
 my-silvermind.ch
 my-simplycity.ch
 my-site.ch
@@ -1617,6 +1621,7 @@ my-sodapop.ch
 my-soft-skills-quest.ch
 my-soft.ch
 my-software.ch
+my-soignant.ch
 my-sol.ch
 my-solar.ch
 my-solid-design.ch
@@ -1789,6 +1794,8 @@ my-tests.ch
 my-textil.ch
 my-textilservice.ch
 my-theorie.ch
+my-therapie.ch
+my-therapy.ch
 my-theresa.ch
 my-thumb.ch
 my-ticino-holiday.ch
@@ -2205,7 +2212,6 @@ myagentic.ch
 myagents.ch
 myagi.ch
 myagile.ch
-myagilepartner.ch
 myagility.ch
 myagriturismo.ch
 myagrofoodnetwork.ch
@@ -2618,6 +2624,7 @@ myballon.ch
 myballoon.ch
 myballoons.ch
 myballs.ch
+myballsit.ch
 myballsports.ch
 mybalo.ch
 mybaloise.ch
@@ -5302,6 +5309,7 @@ myfinoba.ch
 myfio.ch
 myfirazyr.ch
 myfire.ch
+myfirewood.ch
 myfirm.ch
 myfirma.ch
 myfirst.ch
@@ -6249,7 +6257,6 @@ myholzland.ch
 myhome-3963.ch
 myhome-famr.ch
 myhome-fortimo.ch
-myhome-immo.ch
 myhome-mobiliar.ch
 myhome-mobiliare.ch
 myhome-mobiliere.ch
@@ -6779,6 +6786,7 @@ myjungle.ch
 myjunior.ch
 myjupiter.ch
 myjura.ch
+myjuris.ch
 myjuristo.ch
 myjustbe.ch
 myjustice.ch
@@ -6860,6 +6868,7 @@ mykidz.ch
 mykidzy.ch
 mykie.ch
 mykieu.ch
+mykiku.ch
 mykilcher.ch
 mykim.ch
 mykimple.ch
@@ -7220,6 +7229,7 @@ mylenethiebaud.ch
 mylenium.ch
 mylenses.ch
 mylenslife.ch
+mylenutrition.ch
 myleny.ch
 mylenzi.ch
 myleomat.ch
@@ -7422,6 +7432,7 @@ mylittlewritingcorner.ch
 mylittoralparc.ch
 myliv.ch
 myliva.ch
+mylive.ch
 mylivecasino.ch
 mylivechat.ch
 myliveshop.ch
@@ -7790,7 +7801,6 @@ mymedicwatch.ch
 mymedien-datenbank.ch
 mymedijob.ch
 mymedilist.ch
-mymedimatch.ch
 mymedio.ch
 mymedionline.ch
 mymediplan.ch
@@ -10395,13 +10405,9 @@ mysignia.ch
 mysiin.ch
 mysilent.ch
 mysilver.ch
-mysilvercoach.ch
 mysilvercoin.ch
-mysilverlearning.ch
-mysilvermentor.ch
 mysilvermind.ch
 mysilvershield.ch
-mysilversociety.ch
 mysim.ch
 mysimba.ch
 mysimeon.ch
@@ -11533,6 +11539,7 @@ myswooop.ch
 myswoop.ch
 myswopper.ch
 mysword.ch
+mysws.ch
 myswyx.ch
 mysx.ch
 mysy.ch

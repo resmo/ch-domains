@@ -1337,7 +1337,6 @@ ns1.crige.ch
 ns1.crimanet.ch
 ns1.critical.ch
 ns1.croixfederalemathod.ch
-ns1.crowdsources.ch
 ns1.crystal.ch
 ns1.cs-web.ch
 ns1.cs2.ch
@@ -1806,7 +1805,9 @@ ns1.galactus.ch
 ns1.galeriederschoenheit.ch
 ns1.gamingfederation.ch
 ns1.gao.ch
+ns1.garage-frauenfeld.ch
 ns1.garage-homepage.ch
+ns1.garage-thurgau.ch
 ns1.garagelavio.ch
 ns1.gartenhof.ch
 ns1.gartmann.ch
@@ -2556,6 +2557,7 @@ ns1.metaphores.ch
 ns1.meteonews.ch
 ns1.metrohmcomtest.ch
 ns1.meworla.ch
+ns1.mfk-thurgau.ch
 ns1.mfkey.ch
 ns1.mfo-psycho.ch
 ns1.mgajdo.ch
@@ -3454,6 +3456,7 @@ ns1.stewede.ch
 ns1.sth-web.ch
 ns1.stiftungprovida.ch
 ns1.stilecht.ch
+ns1.storzmedical.ch
 ns1.stramm-armierungen.ch
 ns1.strateo.ch
 ns1.streamlineag.ch
@@ -4693,7 +4696,6 @@ ns2.creta.ch
 ns2.crige.ch
 ns2.crimanet.ch
 ns2.croixfederalemathod.ch
-ns2.crowdsources.ch
 ns2.crystal.ch
 ns2.cs-web.ch
 ns2.cs2.ch
@@ -5134,7 +5136,9 @@ ns2.galactictreetribe.ch
 ns2.galactus.ch
 ns2.galeriederschoenheit.ch
 ns2.gao.ch
+ns2.garage-frauenfeld.ch
 ns2.garage-homepage.ch
+ns2.garage-thurgau.ch
 ns2.garagelavio.ch
 ns2.gartenhof.ch
 ns2.gartmann.ch
@@ -5858,6 +5862,7 @@ ns2.mensi.ch
 ns2.merak2.ch
 ns2.messer-scheren.ch
 ns2.metrohmcomtest.ch
+ns2.mfk-thurgau.ch
 ns2.mfkey.ch
 ns2.mfo-psycho.ch
 ns2.mgehosting.ch
@@ -6716,6 +6721,7 @@ ns2.stewede.ch
 ns2.sth-web.ch
 ns2.stiftungprovida.ch
 ns2.stilecht.ch
+ns2.storzmedical.ch
 ns2.stramm-armierungen.ch
 ns2.strateo.ch
 ns2.streamlineag.ch
@@ -8710,6 +8716,7 @@ nsk-swiss.ch
 nsk.ch
 nsk24.ch
 nska.ch
+nskd.ch
 nskdl.ch
 nskeurope.ch
 nskthun.ch

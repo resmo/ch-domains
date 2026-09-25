@@ -1538,7 +1538,6 @@ zahnarzt-dental-schlieren.ch
 zahnarzt-dental-stgallen.ch
 zahnarzt-dental-suhr.ch
 zahnarzt-dental-waedenswil.ch
-zahnarzt-dental-wallisellen.ch
 zahnarzt-dental-wettingen.ch
 zahnarzt-dental-wollerau.ch
 zahnarzt-dentasmile.ch
@@ -2100,7 +2099,6 @@ zahnarzt-praxis-biel.ch
 zahnarzt-praxis-brunnen.ch
 zahnarzt-praxis-chur.ch
 zahnarzt-praxis-duebendorf.ch
-zahnarzt-praxis-glattbrugg.ch
 zahnarzt-praxis-lenzburg.ch
 zahnarzt-praxis-luzern.ch
 zahnarzt-praxis-oberengstringen.ch
@@ -2425,10 +2423,7 @@ zahnarzt-zeiningen.ch
 zahnarzt-zentrum-bern.ch
 zahnarzt-zentrum-biel.ch
 zahnarzt-zentrum-buempliz.ch
-zahnarzt-zentrum-dietlikon.ch
-zahnarzt-zentrum-duebendorf.ch
 zahnarzt-zentrum-glattbrugg.ch
-zahnarzt-zentrum-horw.ch
 zahnarzt-zentrum-konstanz.ch
 zahnarzt-zentrum-opfikon.ch
 zahnarzt-zentrum-rheineck.ch
@@ -2751,7 +2746,6 @@ zahnarztkonolfingen.ch
 zahnarztkorn.ch
 zahnarztkosten-rechner.ch
 zahnarztkosten-vergleich.ch
-zahnarztkosten.ch
 zahnarztkostenrechner.ch
 zahnarztkreis2.ch
 zahnarztkreis5.ch
