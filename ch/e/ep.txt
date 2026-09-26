@@ -21,7 +21,6 @@ ep-bernhard.ch
 ep-bertschi.ch
 ep-borrini.ch
 ep-bosshard.ch
-ep-bratimageson.ch
 ep-campus.ch
 ep-capital.ch
 ep-catv.ch
@@ -546,6 +545,7 @@ epf.ch
 epfa.ch
 epfalco.ch
 epfans.ch
+epfc.ch
 epfeil.ch
 epfel.ch
 epfelles.ch
@@ -621,7 +621,6 @@ epgnein.ch
 epgroup.ch
 epgsa.ch
 eph-nautic.ch
-eph-swiss.ch
 eph.ch
 epha.ch
 epharm.ch
@@ -1383,11 +1382,13 @@ epion.ch
 epiona-aarau.ch
 epiona-basel.ch
 epiona-bern.ch
+epiona-club.ch
 epiona-gruppe.ch
 epiona-stgallen.ch
 epiona-winterthur.ch
 epiona-zuerich.ch
 epiona.ch
+epionaclub.ch
 epionagruppe.ch
 epionce.ch
 epione.ch
@@ -1795,7 +1796,6 @@ eposol.ch
 epospay.ch
 eposservices.ch
 epost-api.ch
-epost-forms.ch
 epost-secure.ch
 epost-service.ch
 epost-services.ch

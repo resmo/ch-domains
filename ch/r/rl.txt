@@ -6,6 +6,7 @@ rl-automobile.ch
 rl-bauplanung.ch
 rl-classic.ch
 rl-classiccars.ch
+rl-cockpit.ch
 rl-communication.ch
 rl-consultant.ch
 rl-controleoibt.ch
@@ -136,6 +137,7 @@ rlinvestissement.ch
 rlis.ch
 rlj.ch
 rlk-energy.ch
+rlk.ch
 rlkp.ch
 rll.ch
 rllearning.ch
@@ -168,7 +170,6 @@ rlrui.ch
 rls-betten-schweizer.ch
 rls-carsandbikes.ch
 rls-cartuning.ch
-rls-consultin.ch
 rls-consulting.ch
 rls-designundtechnik.ch
 rls-facility.ch

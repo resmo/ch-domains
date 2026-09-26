@@ -831,6 +831,7 @@ ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpinehost.ch
+ns1.alpost.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
 ns1.alvarez-it.ch
@@ -1140,6 +1141,7 @@ ns1.butinfo.ch
 ns1.bvb.ch
 ns1.bw-server.ch
 ns1.bw-solutions.ch
+ns1.bwcloud.ch
 ns1.bwenri.ch
 ns1.byebyehotelmama.ch
 ns1.byeight.ch
@@ -3068,6 +3070,7 @@ ns1.pyropac.ch
 ns1.pyxis.ch
 ns1.qboys.ch
 ns1.qid.ch
+ns1.qit-cloud.ch
 ns1.qlns.ch
 ns1.qnetcore.ch
 ns1.qsv.ch
@@ -3226,6 +3229,7 @@ ns1.saschadonati.ch
 ns1.satorite.ch
 ns1.sauvegarde-geneve.ch
 ns1.saveyourskin.ch
+ns1.savvy.ch
 ns1.sb-akademie.ch
 ns1.sbakademie.ch
 ns1.sbet88.ch
@@ -3298,6 +3302,7 @@ ns1.senselan.ch
 ns1.seo-abkmg.ch
 ns1.sepsport.ch
 ns1.serge-demuth.ch
+ns1.sermobil.ch
 ns1.server-one.ch
 ns1.server-town.ch
 ns1.server-v.ch
@@ -4194,6 +4199,7 @@ ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpinehost.ch
+ns2.alpost.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
 ns2.alvarez-it.ch
@@ -4496,6 +4502,7 @@ ns2.businessbox.ch
 ns2.butinfo.ch
 ns2.bvb.ch
 ns2.bw-solutions.ch
+ns2.bwcloud.ch
 ns2.bwenri.ch
 ns2.byebyehotelmama.ch
 ns2.byeight.ch
@@ -6341,6 +6348,7 @@ ns2.pyropac.ch
 ns2.pyxis.ch
 ns2.qboys.ch
 ns2.qid.ch
+ns2.qit-cloud.ch
 ns2.qlns.ch
 ns2.qnetcore.ch
 ns2.qsv.ch
@@ -6486,6 +6494,7 @@ ns2.saschadonati.ch
 ns2.satorite.ch
 ns2.sauvegarde-geneve.ch
 ns2.saveyourskin.ch
+ns2.savvy.ch
 ns2.sb-akademie.ch
 ns2.sbakademie.ch
 ns2.sbet88.ch
@@ -6559,6 +6568,7 @@ ns2.senselan.ch
 ns2.seo-abkmg.ch
 ns2.sepsport.ch
 ns2.serge-demuth.ch
+ns2.sermobil.ch
 ns2.server-one.ch
 ns2.server-v.ch
 ns2.server.ehost.ch
@@ -6938,6 +6948,7 @@ ns2.tsnet.ch
 ns2.tsolis.ch
 ns2.tstaeuble.ch
 ns2.ttcgrauholz.ch
+ns2.ttn.ch
 ns2.tubenet.ch
 ns2.tup-cloud.ch
 ns2.turbobit.ch
@@ -7391,6 +7402,7 @@ ns3.bst-ag.ch
 ns3.buffs.ch
 ns3.burgers.ch
 ns3.bw-solutions.ch
+ns3.bwcloud.ch
 ns3.bytefarm.ch
 ns3.bytelink.ch
 ns3.call-up.ch
@@ -8114,6 +8126,7 @@ ns4.boffo-net.ch
 ns4.bornand-foundation.ch
 ns4.browser7.ch
 ns4.bsource.ch
+ns4.bwcloud.ch
 ns4.bytefarm.ch
 ns4.catatec.ch
 ns4.center.ch
