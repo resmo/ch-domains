@@ -1953,6 +1953,7 @@ ns1.hcc.ch
 ns1.hcuge.ch
 ns1.hdcard.ch
 ns1.he-arc.ch
+ns1.heartfeltmatters.ch
 ns1.heartlens.ch
 ns1.hebergement-web.ch
 ns1.hefel.ch
@@ -2103,6 +2104,7 @@ ns1.imd.ch
 ns1.imediasolutions.ch
 ns1.immensys.ch
 ns1.immobilien-management.ch
+ns1.immobilienbewertung-thurgau.ch
 ns1.immobilier-clement.ch
 ns1.immocs-host.ch
 ns1.immomigsa.ch
@@ -2400,7 +2402,6 @@ ns1.libracore.ch
 ns1.libralures.ch
 ns1.lichtensteiger.ch
 ns1.lichtquelle.ch
-ns1.lieferzonen.ch
 ns1.lifehost.ch
 ns1.lightshining.ch
 ns1.likebets.ch
@@ -5285,6 +5286,7 @@ ns2.hcc.ch
 ns2.hcuge.ch
 ns2.hdcard.ch
 ns2.he-arc.ch
+ns2.heartfeltmatters.ch
 ns2.heartlens.ch
 ns2.hebergement-web.ch
 ns2.hefel.ch
@@ -5431,6 +5433,7 @@ ns2.imd.ch
 ns2.imediasolutions.ch
 ns2.immensys.ch
 ns2.immobilien-management.ch
+ns2.immobilienbewertung-thurgau.ch
 ns2.immobilienszene.ch
 ns2.immobilier-mf.ch
 ns2.immocs-host.ch
@@ -5718,7 +5721,6 @@ ns2.libracore.ch
 ns2.libralures.ch
 ns2.lichtensteiger.ch
 ns2.lichtquelle.ch
-ns2.lieferzonen.ch
 ns2.lifehost.ch
 ns2.lightshining.ch
 ns2.likebets.ch
@@ -7316,6 +7318,7 @@ ns3.alimpex.ch
 ns3.alixon.ch
 ns3.allsports.ch
 ns3.allware.ch
+ns3.alpasana.ch
 ns3.alpinedc.ch
 ns3.alstom.ch
 ns3.alto-port.ch
@@ -7592,6 +7595,7 @@ ns3.gvs.ch
 ns3.habibs.ch
 ns3.hasa.ch
 ns3.haslicevi.ch
+ns3.heartfeltmatters.ch
 ns3.hefel.ch
 ns3.helpvetica.ch
 ns3.hess-treuhand.ch
@@ -7687,7 +7691,6 @@ ns3.leegroup.ch
 ns3.letsbuild.ch
 ns3.libracore.ch
 ns3.libralures.ch
-ns3.lieferzonen.ch
 ns3.lifemagic.ch
 ns3.lilo.ch
 ns3.linthcom.ch
@@ -8043,7 +8046,6 @@ ns3.weihnachten25.ch
 ns3.weiss-web.ch
 ns3.weisshost.ch
 ns3.weissweb.ch
-ns3.wellernet.ch
 ns3.wesu.ch
 ns3.wie-se.ch
 ns3.witweb.ch

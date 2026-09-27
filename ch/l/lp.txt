@@ -122,6 +122,7 @@ lpbcdq.ch
 lpbdentaire.ch
 lpbe.ch
 lpbi.ch
+lpbm.ch
 lpbois.ch
 lpbp.ch
 lpc-admin.ch
@@ -168,7 +169,6 @@ lpdaven.ch
 lpdc.ch
 lpdday.ch
 lpde.ch
-lpdetailingcar.ch
 lpdevent.ch
 lpdg.ch
 lpdhelp.ch
