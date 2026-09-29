@@ -2768,7 +2768,6 @@ ns1.ns-hamilton.ch
 ns1.ns-weeber.ch
 ns1.ns4you.ch
 ns1.ns5.ch
-ns1.ns56kreativmedia.ch
 ns1.nserver.ch
 ns1.nsplus.ch
 ns1.nsprovider.ch
@@ -3186,6 +3185,7 @@ ns1.rqm.ch
 ns1.rrfashion.ch
 ns1.rro2.ch
 ns1.rrroseware.ch
+ns1.rs-link.ch
 ns1.rs2k.ch
 ns1.rsnweb.ch
 ns1.rson.ch
@@ -3382,7 +3382,6 @@ ns1.slueoend.ch
 ns1.sly.ch
 ns1.smart-staging.ch
 ns1.smartmoneymatch.ch
-ns1.smartwork.ch
 ns1.smgi.ch
 ns1.smilla.ch
 ns1.smokerlounge.ch
@@ -6055,7 +6054,6 @@ ns2.nr1.ch
 ns2.ns-weeber.ch
 ns2.ns4you.ch
 ns2.ns5.ch
-ns2.ns56kreativmedia.ch
 ns2.nserver.ch
 ns2.nsplus.ch
 ns2.nsprovider.ch
@@ -6453,6 +6451,7 @@ ns2.rqm.ch
 ns2.rrfashion.ch
 ns2.rro2.ch
 ns2.rrroseware.ch
+ns2.rs-link.ch
 ns2.rs2k.ch
 ns2.rsnweb.ch
 ns2.rson.ch
@@ -6647,7 +6646,6 @@ ns2.slf.ch
 ns2.slueoend.ch
 ns2.smart-staging.ch
 ns2.smartmoneymatch.ch
-ns2.smartwork.ch
 ns2.smgi.ch
 ns2.smilla.ch
 ns2.smokerlounge.ch
