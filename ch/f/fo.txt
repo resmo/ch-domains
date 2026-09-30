@@ -835,6 +835,7 @@ foerderer.ch
 foerdergeld-check.ch
 foerdergelder.ch
 foerdergeldzentrale.ch
+foerdergesuche.ch
 foerdergroup.ch
 foerdergurtservice.ch
 foerdergurus.ch
@@ -886,7 +887,6 @@ foerdertechna.ch
 foerdertechnik.ch
 foerdertechnik24.ch
 foerdertechnikshop.ch
-foerderung-gemeinsam-planen.ch
 foerderung-musikschulen-seetal.ch
 foerderung-nachwuchsleistungssport.ch
 foerderung.ch
@@ -1764,7 +1764,6 @@ fokuszit.ch
 fokuz.ch
 fol-epi.ch
 fol-ino.ch
-fol.ch
 fola-sa.ch
 folab.ch
 folag.ch
@@ -2982,7 +2981,6 @@ fondation-worldline.ch
 fondation-wrp.ch
 fondation-yuki.ch
 fondation-zenokarlschindler.ch
-fondation-zmb.ch
 fondation-zurcher-madagascar.ch
 fondation.ch
 fondation125.ch
@@ -3566,7 +3564,6 @@ fondationwiggli.ch
 fondationwisha.ch
 fondationworldline.ch
 fondationyannverdina.ch
-fondationzmb.ch
 fondationzurcher.ch
 fondatis.ch
 fondazia.ch
@@ -4250,6 +4247,7 @@ fonduegabel.ch
 fonduegade.ch
 fonduegarten.ch
 fonduegenuss.ch
+fonduegondel.ch
 fonduegondeln.ch
 fonduegrischun.ch
 fonduehaus.ch
@@ -5424,6 +5422,7 @@ foodies-pride.ch
 foodies-restaurant.ch
 foodies.ch
 foodieschallenge.ch
+foodiesdiary.ch
 foodiesfamily.ch
 foodiesguide.ch
 foodiespride.ch
@@ -8175,6 +8174,7 @@ forklogics.ch
 forkly.ch
 forkoff.ch
 forkscaniq.ch
+forksmusic.ch
 forl.ch
 forlab.ch
 forladies.ch
@@ -8740,7 +8740,6 @@ formation-nacelle.ch
 formation-nacelles.ch
 formation-naturopathie.ch
 formation-nutrition.ch
-formation-operateur-industrie-pharmaceutique.ch
 formation-paramedicale.ch
 formation-pecheurs.ch
 formation-perspectives.ch
@@ -10235,6 +10234,7 @@ forstbau.ch
 forstbedarf.ch
 forstbekleidung.ch
 forstberg-jutzer.ch
+forstberg-projects.ch
 forstberger.ch
 forstberufe.ch
 forstbetrieb-affolter.ch
@@ -10257,6 +10257,7 @@ forstbetriebamblauen.ch
 forstbetriebamsaentis.ch
 forstbetriebbrugg.ch
 forstbetriebe.ch
+forstbetriebfurnaschiers.ch
 forstbetriebstalden.ch
 forstbetriebuerkental.ch
 forstboard.ch
@@ -10583,7 +10584,11 @@ fortalezamujer.ch
 fortalice.ch
 fortalicia.ch
 fortalife.ch
+fortalis-group-invest.ch
+fortalis-group.ch
 fortalis.ch
+fortalisgroup.ch
+fortalisgroupinvest.ch
 fortalys-groupe.ch
 fortalys.ch
 fortalysgroupe.ch
@@ -10736,6 +10741,7 @@ fortestudio.ch
 fortetfragile.ch
 forteth.ch
 forteum.ch
+forteva-fm.ch
 forteva.ch
 fortevannkraft.ch
 fortevis-gruppe.ch
@@ -10981,7 +10987,6 @@ fortnite.ch
 fortnot.ch
 fortnox.ch
 forto.ch
-fortodo.ch
 fortofin.ch
 fortomorrow.ch
 forton.ch
@@ -11080,7 +11085,6 @@ fortuna-versicherung.ch
 fortuna-vision.ch
 fortuna-vitae.ch
 fortuna-werbung.ch
-fortuna-xl.ch
 fortuna.ch
 fortuna63.ch
 fortunaa.ch
@@ -11192,7 +11196,6 @@ forturashop.ch
 forturazenter.ch
 forturenn.ch
 fortus.ch
-fortuso.ch
 fortuvio.ch
 fortuvo.ch
 fortuzino.ch
@@ -11654,7 +11657,6 @@ forumbasiliense.ch
 forumbebe.ch
 forumbern.ch
 forumberufsbildung.ch
-forumbethlehem.ch
 forumbildung.ch
 forumbiomarkt.ch
 forumblech.ch
@@ -12009,6 +12011,7 @@ forwarddeployedengineer.ch
 forwarddeployedengineers.ch
 forwarddigital.ch
 forwardemail.ch
+forwarder.ch
 forwardfemales.ch
 forwardfiduciaria.ch
 forwardforum.ch
@@ -12741,7 +12744,6 @@ foto-roeoesli.ch
 foto-rolae.ch
 foto-rolf-gasser.ch
 foto-roli-laesser.ch
-foto-roli.ch
 foto-roman.ch
 foto-rothenfluh.ch
 foto-rueedi.ch
@@ -14421,11 +14423,9 @@ fotorey.ch
 fotorganic.ch
 fotoricki-naturfotografie.ch
 fotoricki.ch
-fotoriehen.ch
 fotoring.ch
 fotoristretto.ch
 fotoritratto.ch
-fotork.ch
 fotorlo.ch
 fotoro.ch
 fotorobot.ch
@@ -15717,8 +15717,10 @@ fox-plus-treuhand.ch
 fox-portal.ch
 fox-racing.ch
 fox-renovation.ch
+fox-rent.ch
 fox-robotics.ch
 fox-securite.ch
+fox-sites.ch
 fox-slots.ch
 fox-solutions.ch
 fox-spa.ch

@@ -859,7 +859,6 @@ ns1.antonio-renovation.ch
 ns1.anwaltsvorlagen.ch
 ns1.anwesend.ch
 ns1.anycastdns.ch
-ns1.anydns.ch
 ns1.ap-soft.ch
 ns1.apclick.ch
 ns1.apgsga.ch
@@ -1326,7 +1325,6 @@ ns1.crash-communities.ch
 ns1.crassus.ch
 ns1.crater.ch
 ns1.cre8.ch
-ns1.creacom-it.ch
 ns1.creancia.ch
 ns1.creativ-web.ch
 ns1.creative-business-support.ch
@@ -1889,7 +1887,6 @@ ns1.graessle.ch
 ns1.gramegna.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
-ns1.grb-renovation.ch
 ns1.grd-renovation.ch
 ns1.gregorich.ch
 ns1.grellhost.ch
@@ -3421,7 +3418,6 @@ ns1.spiderfrog.ch
 ns1.spiikr.ch
 ns1.spina-bifida.ch
 ns1.spinazze.ch
-ns1.spinnerundweber40.ch
 ns1.sponsoring24.ch
 ns1.spreng.ch
 ns1.sputniks.ch
@@ -3462,7 +3458,6 @@ ns1.storzmedical.ch
 ns1.stramm-armierungen.ch
 ns1.strateo.ch
 ns1.streamlineag.ch
-ns1.streamnotifier.ch
 ns1.stree.ch
 ns1.streuli-it.ch
 ns1.strich-acht.ch
@@ -3836,7 +3831,6 @@ ns1.webload.ch
 ns1.weboffice.ch
 ns1.webopolis.ch
 ns1.weboss.ch
-ns1.webpager.ch
 ns1.webplaza.ch
 ns1.webrent.ch
 ns1.webseitenfabrik.ch
@@ -3950,7 +3944,6 @@ ns1.xtra-hosting.ch
 ns1.xxxl-restaurant.ch
 ns1.yakaconception.ch
 ns1.yakaconceptions.ch
-ns1.yasminfood.ch
 ns1.yaxo.ch
 ns1.ycn.ch
 ns1.ycu.ch
@@ -4083,7 +4076,6 @@ ns2.2bit.ch
 ns2.2care.ch
 ns2.2fast4u.ch
 ns2.2gethr.ch
-ns2.2za.ch
 ns2.3kweb.ch
 ns2.3me.ch
 ns2.3wpower.ch
@@ -4224,7 +4216,6 @@ ns2.antonio-renovation.ch
 ns2.anwaltsvorlagen.ch
 ns2.anwesend.ch
 ns2.anycastdns.ch
-ns2.anydns.ch
 ns2.ap-soft.ch
 ns2.apclick.ch
 ns2.apgsga.ch
@@ -4688,7 +4679,6 @@ ns2.crash-communities.ch
 ns2.crassus.ch
 ns2.crater.ch
 ns2.cre8.ch
-ns2.creacom-it.ch
 ns2.creancia.ch
 ns2.creativ-web.ch
 ns2.creative-business-support.ch
@@ -5221,7 +5211,6 @@ ns2.graessle.ch
 ns2.gramegna.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
-ns2.grb-renovation.ch
 ns2.grd-renovation.ch
 ns2.greatsite.ch
 ns2.gregorich.ch
@@ -6690,7 +6679,6 @@ ns2.spiderfrog.ch
 ns2.spiikr.ch
 ns2.spina-bifida.ch
 ns2.spinazze.ch
-ns2.spinnerundweber40.ch
 ns2.sponsoring24.ch
 ns2.sprachnachweis.ch
 ns2.sputniks.ch
@@ -6729,7 +6717,6 @@ ns2.storzmedical.ch
 ns2.stramm-armierungen.ch
 ns2.strateo.ch
 ns2.streamlineag.ch
-ns2.streamnotifier.ch
 ns2.stree.ch
 ns2.streuli-it.ch
 ns2.strimer-strimer.ch
@@ -7093,7 +7080,6 @@ ns2.webload.ch
 ns2.webmoreplus.ch
 ns2.weboffice.ch
 ns2.webopolis.ch
-ns2.webpager.ch
 ns2.webplaza.ch
 ns2.webrent.ch
 ns2.webseitenfabrik.ch
@@ -7200,7 +7186,6 @@ ns2.xxxl-restaurant.ch
 ns2.yabalu.ch
 ns2.yakaconception.ch
 ns2.yakaconceptions.ch
-ns2.yasminfood.ch
 ns2.yaxo.ch
 ns2.ycn.ch
 ns2.ycu.ch
@@ -7223,7 +7208,6 @@ ns2.yoursite.ch
 ns2.yousway.ch
 ns2.yparc-hotel.ch
 ns2.ypsonet.ch
-ns2.zachza.ch
 ns2.zahnarztvermittlung.ch
 ns2.zeedivision.ch
 ns2.zeitglei.ch
@@ -8511,6 +8495,7 @@ nsautoersatzteile.ch
 nsautomobile.ch
 nsave.ch
 nsaviaux.ch
+nsavic.ch
 nsax.ch
 nsb-bodendesign.ch
 nsb-natursteinbehandlung.ch
