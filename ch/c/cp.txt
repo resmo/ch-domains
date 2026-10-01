@@ -138,7 +138,6 @@ cp98.ch
 cpa-arch.ch
 cpa-asfalti.ch
 cpa-bae.ch
-cpa-chiptuning.ch
 cpa-girasole.ch
 cpa-schweiz.ch
 cpa-ti.ch
@@ -296,7 +295,6 @@ cpcjb.ch
 cpcl-lausanne.ch
 cpcl.ch
 cpclav.ch
-cpclocarno.ch
 cpcloud.ch
 cpcn.ch
 cpcoach.ch

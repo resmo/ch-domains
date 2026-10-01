@@ -35,6 +35,7 @@ my-agreements.ch
 my-ahv-iv.ch
 my-ahv.ch
 my-ai-agent.ch
+my-ai-lab.ch
 my-ai-os.ch
 my-ai.ch
 my-aib.ch
@@ -52,7 +53,6 @@ my-alfa.ch
 my-allianz-app.ch
 my-alloa.ch
 my-ally.ch
-my-alm.ch
 my-aloe.ch
 my-aloha.ch
 my-alps.ch
@@ -226,7 +226,6 @@ my-buddyguard.ch
 my-budget.ch
 my-building.ch
 my-burger-point-frauenfeld.ch
-my-business-card.ch
 my-business-game.ch
 my-business-model.ch
 my-business-plan.ch
@@ -1805,7 +1804,6 @@ my-theresa.ch
 my-thumb.ch
 my-ticino-holiday.ch
 my-ticket.ch
-my-tickets.ch
 my-tide.ch
 my-time-out.ch
 my-time.ch
@@ -2146,6 +2144,7 @@ myaccesoir.ch
 myaccess.ch
 myaccessneeds.ch
 myaccessoires.ch
+myaccessories.ch
 myaccessweb.ch
 myaccount.ch
 myaccountants.ch
@@ -2289,7 +2288,6 @@ myallmarine.ch
 myallmend.ch
 myallora.ch
 myallotherm.ch
-myalm.ch
 myalma.ch
 myaloe.ch
 myaloe24.ch
@@ -4128,6 +4126,7 @@ mycostaclub.ch
 mycostore.ch
 mycostrap.ch
 mycostrat.ch
+mycosuisse.ch
 mycota.ch
 mycote.ch
 mycotfer.ch
@@ -11306,6 +11305,7 @@ myswissaccount.ch
 myswissaccountant.ch
 myswissaddress.ch
 myswissadmin.ch
+myswissagent.ch
 myswissai.ch
 myswissair.ch
 myswissalp.ch

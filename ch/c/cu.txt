@@ -2187,7 +2187,6 @@ cup1.ch
 cup2.ch
 cup2go.ch
 cup4sure.ch
-cup4u.ch
 cup4woman.ch
 cupa.ch
 cupacake.ch
@@ -3984,6 +3983,7 @@ customer-collective.ch
 customer-competencies.ch
 customer-connect.ch
 customer-culture-club.ch
+customer-culture-game.ch
 customer-delivery-unlimited.ch
 customer-digital.ch
 customer-dominant-logic.ch
@@ -4043,6 +4043,7 @@ customerconnection.ch
 customercore.ch
 customerculturechampion.ch
 customercultureclub.ch
+customerculturegame.ch
 customerculturesummit.ch
 customerdashboard.ch
 customerdataplatform.ch
