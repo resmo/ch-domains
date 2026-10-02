@@ -1220,6 +1220,7 @@ ns1.chromaflex.ch
 ns1.ci-bedag.ch
 ns1.cic.ch
 ns1.cicitt.ch
+ns1.cimentart.ch
 ns1.cimesa.ch
 ns1.cindy-hiphop.ch
 ns1.ciorciaro.ch
@@ -1549,6 +1550,7 @@ ns1.e-future.ch
 ns1.e-globe-solutions.ch
 ns1.e-next.ch
 ns1.e-park.ch
+ns1.e-worxx.ch
 ns1.e1-tools.ch
 ns1.e42.ch
 ns1.e4udns.ch
@@ -1887,6 +1889,7 @@ ns1.graessle.ch
 ns1.gramegna.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
+ns1.grb-renovation.ch
 ns1.grd-renovation.ch
 ns1.gregorich.ch
 ns1.grellhost.ch
@@ -2735,7 +2738,6 @@ ns1.newsroom-magazin.ch
 ns1.nexanet.ch
 ns1.nexe.ch
 ns1.nexgate.ch
-ns1.nexusstate.ch
 ns1.nfcinside.ch
 ns1.nicliotta-hosting.ch
 ns1.nigam.ch
@@ -4569,6 +4571,7 @@ ns2.chuchi-saeuliamt.ch
 ns2.ci-bedag.ch
 ns2.cic.ch
 ns2.cicitt.ch
+ns2.cimentart.ch
 ns2.cimesa.ch
 ns2.cindy-hiphop.ch
 ns2.ciorciaro.ch
@@ -4880,6 +4883,7 @@ ns2.e-future.ch
 ns2.e-globe-solutions.ch
 ns2.e-next.ch
 ns2.e-park.ch
+ns2.e-worxx.ch
 ns2.e1-tools.ch
 ns2.e42.ch
 ns2.e4udns.ch
@@ -5210,6 +5214,7 @@ ns2.graessle.ch
 ns2.gramegna.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
+ns2.grb-renovation.ch
 ns2.grd-renovation.ch
 ns2.greatsite.ch
 ns2.gregorich.ch
@@ -6016,7 +6021,6 @@ ns2.newsroom-magazin.ch
 ns2.nexanet.ch
 ns2.nexe.ch
 ns2.nexgate.ch
-ns2.nexusstate.ch
 ns2.nfcinside.ch
 ns2.nicliotta-hosting.ch
 ns2.nik-domain.ch
@@ -7441,7 +7445,6 @@ ns3.deluk.ch
 ns3.demicomp.ch
 ns3.derhost.ch
 ns3.dermacast.ch
-ns3.design4media.ch
 ns3.deuxsign.ch
 ns3.devedis.ch
 ns3.developics.ch
@@ -8114,7 +8117,6 @@ ns4.core2.ch
 ns4.dellacasameride.ch
 ns4.demicomp.ch
 ns4.dermacast.ch
-ns4.design4media.ch
 ns4.digitalsystems.ch
 ns4.dizmo.ch
 ns4.dns-cloud.ch

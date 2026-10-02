@@ -141,7 +141,6 @@ dma.ch
 dma0816.ch
 dma2020.ch
 dmaas.ch
-dmabox.ch
 dmac.ch
 dmacher-inne.ch
 dmacherinne.ch

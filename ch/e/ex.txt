@@ -72,7 +72,6 @@ ex-tempore.ch
 ex-tra.ch
 ex-verbo.ch
 ex-voto.ch
-ex-vtx.ch
 ex-word.ch
 ex0-sys.ch
 ex0.ch
@@ -458,6 +457,7 @@ excaliburbar.ch
 excaliburcapital.ch
 excaliburtours.ch
 excalimed.ch
+excap.ch
 excapbridge.ch
 excape.ch
 excard.ch
@@ -3349,6 +3349,7 @@ expert-toiture-collombey.ch
 expert-toiture-ferblanterie-chene-bourg.ch
 expert-toiture-lutry.ch
 expert-trans.ch
+expert-travel.ch
 expert-troesch.ch
 expert-tvlerch.ch
 expert-valeur-venale.ch
@@ -3906,6 +3907,7 @@ expertteam.ch
 experttime.ch
 experttoitureaigle.ch
 experttools.ch
+experttravel.ch
 experttroesch.ch
 expertum-cura.ch
 expertum.ch
@@ -3952,7 +3954,6 @@ expireddomains.ch
 expirex.ch
 expirio.ch
 expirion.ch
-expirit.ch
 expiriywat.ch
 expirywat.ch
 expiwa.ch
@@ -6004,6 +6005,7 @@ exvival.ch
 exvoto.ch
 exvps688741.ch
 exw.ch
+exwatch.ch
 exwi.ch
 exwiso.ch
 exwm.ch

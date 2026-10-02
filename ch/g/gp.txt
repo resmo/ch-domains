@@ -342,7 +342,6 @@ gpkrebsthiel.ch
 gpkt.ch
 gpl-ag.ch
 gpl-qv-zh.ch
-gpl-s.ch
 gpl.ch
 gplacote.ch
 gplancy.ch
@@ -398,10 +397,12 @@ gpmeierisli.ch
 gpmellingen.ch
 gpmesstechnik.ch
 gpmf.ch
+gpmh.ch
 gpmi-swiss.ch
 gpmi.ch
 gpml.ch
 gpmmecanique.ch
+gpmo.ch
 gpmoebel.ch
 gpmontage.ch
 gpmoto.ch
@@ -461,7 +462,6 @@ gpps.ch
 gppso.ch
 gppv.ch
 gppx.ch
-gpq.ch
 gpr-parameters.ch
 gpr-solutions.ch
 gpr.ch
@@ -681,6 +681,7 @@ gpticino.ch
 gptime.ch
 gptkurs.ch
 gptlab.ch
+gptly.ch
 gptmarketing.ch
 gptnexus.ch
 gptorre.ch
