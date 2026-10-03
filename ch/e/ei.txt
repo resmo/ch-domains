@@ -592,7 +592,6 @@ eid-info.ch
 eid-integration.ch
 eid-ja.ch
 eid-karte.ch
-eid-kurse.ch
 eid-mubarak.ch
 eid-nein-danke.ch
 eid-nein.ch
@@ -1187,6 +1186,7 @@ eigenheim-bewertung-bern.ch
 eigenheim-biel.ch
 eigenheim-bienne.ch
 eigenheim-bodensee.ch
+eigenheim-check.ch
 eigenheim-chur.ch
 eigenheim-coach.ch
 eigenheim-finanzieren.ch
@@ -3033,6 +3033,7 @@ einfachsiebdrucken.ch
 einfachsimply.ch
 einfachsingen.ch
 einfachsingenlernen.ch
+einfachskaliert.ch
 einfachsmart.ch
 einfachsmartzuhause.ch
 einfachso.ch
@@ -3378,6 +3379,7 @@ einkauf-auto.ch
 einkauf-autos.ch
 einkauf-faellanden.ch
 einkauf-interim.ch
+einkauf-logistik-win.ch
 einkauf-mit-liebe.ch
 einkauf-online.ch
 einkauf-plus.ch

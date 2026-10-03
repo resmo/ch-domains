@@ -565,6 +565,7 @@ dns1.dvbern.ch
 dns1.dxb.ch
 dns1.e-serve.ch
 dns1.econtrols.ch
+dns1.ehc-vd.ch
 dns1.elektro-reisch.ch
 dns1.epg.ch
 dns1.escapenet.ch
@@ -844,6 +845,7 @@ dns2.dutt.ch
 dns2.dvbern.ch
 dns2.dxb.ch
 dns2.econtrols.ch
+dns2.ehc-vd.ch
 dns2.epg.ch
 dns2.escapenet.ch
 dns2.ethann.ch
@@ -860,7 +862,6 @@ dns2.flueckiger-optik.ch
 dns2.fueri.ch
 dns2.gadola.ch
 dns2.galaxyweb.ch
-dns2.galphanet.ch
 dns2.ganesh-hosting.ch
 dns2.gerichte-zh.ch
 dns2.gestlive.ch

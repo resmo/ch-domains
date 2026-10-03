@@ -273,7 +273,6 @@ bmb-group.ch
 bmb-immo.ch
 bmb-lasertec.ch
 bmb-metallbau.ch
-bmb-spine.ch
 bmb-suisse.ch
 bmb-swiss.ch
 bmb-training.ch
@@ -884,6 +883,7 @@ bmsenergy.ch
 bmservice.ch
 bmservizi.ch
 bmsg.ch
+bmsharp.ch
 bmsicherheit.ch
 bmsierre.ch
 bmsinformation.ch
