@@ -253,7 +253,6 @@ re-nm.ch
 re-note.ch
 re-novers.ch
 re-nt.ch
-re-numberyoursoul.ch
 re-nut-hub.ch
 re-offer.ch
 re-one.ch
@@ -1877,6 +1876,7 @@ realitymotion.ch
 realityplus.ch
 realityproductions.ch
 realityscore.ch
+realitystars.ch
 realitytextile.ch
 realitytraining.ch
 realityverse.ch
@@ -4765,6 +4765,7 @@ rechtsapothek.ch
 rechtsapotheke.ch
 rechtsarbeitasyl.ch
 rechtsassistenz.ch
+rechtsateliers.ch
 rechtsausbildung.ch
 rechtsauskuenfte.ch
 rechtsauskunft-bern.ch
@@ -6571,7 +6572,6 @@ red-rocket.ch
 red-rok.ch
 red-room.ch
 red-rose.ch
-red-rum.ch
 red-scorpion.ch
 red-scorpions.ch
 red-search.ch
@@ -10868,6 +10868,7 @@ regen-auf-himbeerrot.ch
 regen-bogen-bruecke.ch
 regen-center.ch
 regen-core.ch
+regen-dach.ch
 regen-engel.ch
 regen-jacke.ch
 regen-jacken.ch
@@ -11545,6 +11546,7 @@ regiesuisse.ch
 regieswiss.ch
 regietechnique.ch
 regieverbel.ch
+regievita.ch
 regievpi.ch
 regievpicourtage.ch
 regievpivaud.ch
@@ -27519,6 +27521,7 @@ repshop.ch
 repshop24.ch
 repsi-engineering.ch
 repsi.ch
+repsly.ch
 repsol.ch
 repsold.ch
 repstar.ch
@@ -27586,7 +27589,6 @@ reptilienmarkt.ch
 reptilienschutz-zaun.ch
 reptilienshop.ch
 reptilienzoo.ch
-reptilion.ch
 reptime.ch
 reptin.ch
 reptistore.ch
@@ -31367,6 +31369,7 @@ restaurant-cafe-avusy-chez-casa.ch
 restaurant-cafe-bijou.ch
 restaurant-cafe-schmiede.ch
 restaurant-cafe-suisse-romont.ch
+restaurant-cafecafe.ch
 restaurant-cafefederal.ch
 restaurant-calanda-staad.ch
 restaurant-calanda.ch
@@ -31567,7 +31570,6 @@ restaurant-eintracht.ch
 restaurant-eisbahn.ch
 restaurant-eisenbahn.ch
 restaurant-el-ruedo.ch
-restaurant-elcolibri.ch
 restaurant-eleven.ch
 restaurant-elia.ch
 restaurant-elsigbach.ch
@@ -31735,7 +31737,6 @@ restaurant-grello.ch
 restaurant-grengiols.ch
 restaurant-griespark.ch
 restaurant-grill66.ch
-restaurant-grillhouse.ch
 restaurant-grillwerk.ch
 restaurant-grimentz.ch
 restaurant-grindelwald-grund.ch
@@ -32547,7 +32548,6 @@ restaurant-roggenhausen.ch
 restaurant-rohrbach.ch
 restaurant-rollerhof.ch
 restaurant-romana.ch
-restaurant-romania.ch
 restaurant-romantica-port.ch
 restaurant-romantica.ch
 restaurant-romy.ch
@@ -38208,7 +38208,6 @@ reviotour.ch
 reviovalue.ch
 revipartner.ch
 reviplan.ch
-reviplus.ch
 revipro.ch
 revips.ch
 revipur.ch
@@ -39005,6 +39004,7 @@ rewag-entsorgung.ch
 rewag-waerme.ch
 rewag.ch
 rewagentsorgt.ch
+rewai.ch
 rewaire.ch
 rewal.ch
 rewald.ch

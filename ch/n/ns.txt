@@ -733,6 +733,7 @@ ns1.a3erlebnismanufaktur.ch
 ns1.a4agentur.ch
 ns1.a4interactive.ch
 ns1.aare-ortho.ch
+ns1.aarekraft.ch
 ns1.ab-swiss.ch
 ns1.abanys-12.ch
 ns1.abanys-13.ch
@@ -987,7 +988,6 @@ ns1.beautybusinessschool.ch
 ns1.beautyonline.ch
 ns1.beautysecret.ch
 ns1.bedag.ch
-ns1.bedv.ch
 ns1.bego24.ch
 ns1.beiden-renovations.ch
 ns1.bejagroup.ch
@@ -1726,6 +1726,7 @@ ns1.finews.ch
 ns1.fingascom.ch
 ns1.fioupfioup-infra.ch
 ns1.firba.ch
+ns1.fire-analytics.ch
 ns1.firelight.ch
 ns1.firemeet.ch
 ns1.firevibe.ch
@@ -2893,7 +2894,6 @@ ns1.paus.ch
 ns1.paymentspro.ch
 ns1.payroll-24.ch
 ns1.paysanssuisses.ch
-ns1.pbxhome.ch
 ns1.pc-fritz.ch
 ns1.pc-peinture-renovation.ch
 ns1.pcdog.ch
@@ -4098,6 +4098,7 @@ ns2.a-la-ferme.ch
 ns2.a4agentur.ch
 ns2.a4interactive.ch
 ns2.aare-ortho.ch
+ns2.aarekraft.ch
 ns2.ab-swiss.ch
 ns2.abanys-12.ch
 ns2.abanys-13.ch
@@ -4346,7 +4347,6 @@ ns2.beautybusinessschool.ch
 ns2.beautyonline.ch
 ns2.beautysecret.ch
 ns2.bedag.ch
-ns2.bedv.ch
 ns2.bego24.ch
 ns2.beiden-renovations.ch
 ns2.bejagroup.ch
@@ -5056,6 +5056,7 @@ ns2.finanzstart-schweiz.ch
 ns2.finews.ch
 ns2.fingascom.ch
 ns2.firba.ch
+ns2.fire-analytics.ch
 ns2.firelight.ch
 ns2.firemeet.ch
 ns2.firevibe.ch
@@ -6161,7 +6162,6 @@ ns2.paus.ch
 ns2.paymentspro.ch
 ns2.payroll-24.ch
 ns2.paysanssuisses.ch
-ns2.pbxhome.ch
 ns2.pc-fritz.ch
 ns2.pc-peinture-renovation.ch
 ns2.pcdog.ch
