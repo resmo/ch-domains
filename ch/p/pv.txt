@@ -44,6 +44,8 @@ pv-dacheignung.ch
 pv-dachterrasse.ch
 pv-daten-anzeigen.ch
 pv-daten.ch
+pv-diagnostic.ch
+pv-diagnostik.ch
 pv-diebstahl.ch
 pv-direkt.ch
 pv-display.ch
@@ -137,6 +139,7 @@ pv-project.ch
 pv-projektberatung.ch
 pv-projektmanagement.ch
 pv-promea.ch
+pv-pruefung.ch
 pv-putzer.ch
 pv-ratgeber-info.ch
 pv-ratgeber-schweiz.ch
@@ -351,6 +354,8 @@ pvd.ch
 pvdach.ch
 pvdb.ch
 pvdc.ch
+pvdiagnostic.ch
+pvdiagnostik.ch
 pvdirekt.ch
 pvdoc.ch
 pvdoc24.ch
@@ -525,6 +530,7 @@ pvprofit.ch
 pvproject.ch
 pvpromea.ch
 pvpropertynetwork.ch
+pvpruefung.ch
 pvpsi.ch
 pvpware.ch
 pvq.ch

@@ -88,7 +88,6 @@ cf-services.ch
 cf-studies.ch
 cf-system.ch
 cf-tcm.ch
-cf-thun.ch
 cf-training.ch
 cf-trans.ch
 cf-vaultingpad.ch
@@ -121,7 +120,6 @@ cfaccess.ch
 cfacile.ch
 cfactor.ch
 cfactory.ch
-cfad.ch
 cfadvisory.ch
 cfag.ch
 cfai-bziv.ch
@@ -575,6 +573,7 @@ cfos-to-grow.ch
 cfos.ch
 cfos2grow.ch
 cfoservice.ch
+cfoservices.ch
 cfosolution.ch
 cfosolutions.ch
 cfostogrow.ch

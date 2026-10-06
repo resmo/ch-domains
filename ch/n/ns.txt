@@ -1133,7 +1133,6 @@ ns1.buffs.ch
 ns1.bug.ch
 ns1.buncic.ch
 ns1.bunix.ch
-ns1.business-lync.ch
 ns1.businessbox.ch
 ns1.butinfo.ch
 ns1.bvb.ch
@@ -1161,7 +1160,6 @@ ns1.cam2cam-sexcams.ch
 ns1.campus42.ch
 ns1.campusequipment.ch
 ns1.canberg.ch
-ns1.cantinedigitale.ch
 ns1.cantusnet.ch
 ns1.capex.ch
 ns1.captns.ch
@@ -1590,6 +1588,7 @@ ns1.edvcenter.ch
 ns1.edvlns.ch
 ns1.ee8.ch
 ns1.eets.ch
+ns1.efficient-governance-initiative.ch
 ns1.eg2015.ch
 ns1.egohost.ch
 ns1.ehealth-personal.ch
@@ -3078,6 +3077,7 @@ ns1.qualityandvalue.ch
 ns1.quantsulting.ch
 ns1.quanttrend.ch
 ns1.quantum-consulting.ch
+ns1.quantumcrypt.ch
 ns1.quantumpeak.ch
 ns1.quick-net.ch
 ns1.quick2web.ch
@@ -4484,7 +4484,6 @@ ns2.bug.ch
 ns2.buncic.ch
 ns2.bunix.ch
 ns2.burgers.ch
-ns2.business-lync.ch
 ns2.businessbox.ch
 ns2.butinfo.ch
 ns2.bvb.ch
@@ -4512,7 +4511,6 @@ ns2.cam2cam-sexcams.ch
 ns2.campus42.ch
 ns2.campusequipment.ch
 ns2.canberg.ch
-ns2.cantinedigitale.ch
 ns2.captns.ch
 ns2.caracal.ch
 ns2.carbonmc.ch
@@ -4919,6 +4917,7 @@ ns2.edvcenter.ch
 ns2.edvlns.ch
 ns2.ee8.ch
 ns2.eets.ch
+ns2.efficient-governance-initiative.ch
 ns2.eg2015.ch
 ns2.egohost.ch
 ns2.egon.ch
@@ -6345,6 +6344,7 @@ ns2.qualityandvalue.ch
 ns2.quantsulting.ch
 ns2.quanttrend.ch
 ns2.quantum-consulting.ch
+ns2.quantumcrypt.ch
 ns2.quantumpeak.ch
 ns2.quick-net.ch
 ns2.quick2web.ch
@@ -7843,6 +7843,7 @@ ns3.pulseflow.ch
 ns3.purecloud.ch
 ns3.pyropac.ch
 ns3.qsv1.ch
+ns3.quantumcrypt.ch
 ns3.quantumpeak.ch
 ns3.quick2web.ch
 ns3.raan-thai.ch
@@ -8480,7 +8481,6 @@ nsaf.ch
 nsafe.ch
 nsag.ch
 nsagarantie.ch
-nsagencement.ch
 nsagency.ch
 nsam.ch
 nsandalibrairie.ch
