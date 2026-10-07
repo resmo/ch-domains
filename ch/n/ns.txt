@@ -902,7 +902,6 @@ ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
 ns1.assetalpin.ch
-ns1.assistancepc.ch
 ns1.assistances.ch
 ns1.assistancesplus.ch
 ns1.asso-philomene.ch
@@ -3558,6 +3557,7 @@ ns1.tablettenschweiz.ch
 ns1.tagirov.ch
 ns1.take-one.ch
 ns1.take.ch
+ns1.talysm.ch
 ns1.tantrisches-musizieren.ch
 ns1.tapissier-geneve-winterstein.ch
 ns1.tardis.ch
@@ -3843,7 +3843,6 @@ ns1.websitenow.ch
 ns1.websource.ch
 ns1.webstudio.ch
 ns1.websyte.ch
-ns1.webteil.ch
 ns1.webtie.ch
 ns1.webtimal.ch
 ns1.webtrend.ch
@@ -4262,7 +4261,6 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
-ns2.assistancepc.ch
 ns2.assistances.ch
 ns2.assistancesplus.ch
 ns2.asso-philomene.ch
@@ -6429,6 +6427,7 @@ ns2.rockethealth.ch
 ns2.roe.ch
 ns2.roha.ch
 ns2.rolero.ch
+ns2.rollenspiel.ch
 ns2.romande-energie.ch
 ns2.romibi.ch
 ns2.roninf.ch
@@ -6819,6 +6818,7 @@ ns2.tablettenschweiz.ch
 ns2.tagirov.ch
 ns2.take-one.ch
 ns2.take.ch
+ns2.talysm.ch
 ns2.tantrisches-musizieren.ch
 ns2.tapissier-geneve-winterstein.ch
 ns2.tardis.ch
@@ -7092,7 +7092,6 @@ ns2.websitenow.ch
 ns2.websource.ch
 ns2.webstudio.ch
 ns2.websyte.ch
-ns2.webteil.ch
 ns2.webtie.ch
 ns2.webtimal.ch
 ns2.webtrend.ch
@@ -7321,7 +7320,6 @@ ns3.artugo.ch
 ns3.as2.ch
 ns3.asebo.ch
 ns3.askben.ch
-ns3.assistancepc.ch
 ns3.asstra.ch
 ns3.aurafilm.ch
 ns3.auroranet.ch

@@ -511,8 +511,10 @@ bks-campus.ch
 bks-chur.ch
 bks-cs.ch
 bks-engineering.ch
+bks-immobilien.ch
 bks-law.ch
 bks-legal.ch
+bks-realestate.ch
 bks-service.ch
 bks-sg.ch
 bks-shop.ch
@@ -539,6 +541,7 @@ bksh.ch
 bkshandel.ch
 bksharepoint.ch
 bkshtg.ch
+bksimmobilien.ch
 bksit.ch
 bksiyengar.ch
 bksl.ch
@@ -548,6 +551,7 @@ bkso.ch
 bksolar.ch
 bksolo.ch
 bksp.ch
+bksrealestate.ch
 bkss.ch
 bkssa.ch
 bksschweiz.ch
@@ -582,6 +586,7 @@ bktechnology.ch
 bktest.ch
 bktg.ch
 bktgsh.ch
+bktislandtrust.ch
 bktlegal.ch
 bktm.ch
 bktr.ch

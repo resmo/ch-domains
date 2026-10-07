@@ -1603,6 +1603,7 @@ swibel.ch
 swibewi.ch
 swibex.ch
 swibi.ch
+swibill.ch
 swibio.ch
 swibiria.ch
 swibit.ch
@@ -2629,7 +2630,6 @@ swisci-study.ch
 swisci.ch
 swiscity.ch
 swisclima.ch
-swiscom-shopping.ch
 swiscom-shops.ch
 swiscom.ch
 swiscomcup.ch
@@ -2750,6 +2750,7 @@ swiss-academy-basel.ch
 swiss-academy-group.ch
 swiss-academy-zuerich.ch
 swiss-academy-zurich.ch
+swiss-academy.ch
 swiss-acantos.ch
 swiss-accelerator.ch
 swiss-acces-solution.ch
@@ -3128,7 +3129,6 @@ swiss-asianstudies.ch
 swiss-asinet.ch
 swiss-assessment.ch
 swiss-asset-management.ch
-swiss-asset-pro.ch
 swiss-asset-tokens.ch
 swiss-assetization.ch
 swiss-assetrecovery.ch
@@ -7139,11 +7139,13 @@ swiss-museum.ch
 swiss-music-academy.ch
 swiss-music-awards.ch
 swiss-music-circle.ch
+swiss-music-festival.ch
 swiss-music-jaberg.ch
 swiss-music-news.ch
 swiss-music-productions.ch
 swiss-music-talents.ch
 swiss-music.ch
+swiss-musicfestival.ch
 swiss-muslim.ch
 swiss-mustang.ch
 swiss-mx-academy.ch
@@ -8503,7 +8505,6 @@ swiss-sem.ch
 swiss-semag.ch
 swiss-seminar.ch
 swiss-seminare.ch
-swiss-senior-award.ch
 swiss-senior-awards.ch
 swiss-senior-drive.ch
 swiss-seniordrive.ch
@@ -10465,9 +10466,13 @@ swissairdry.ch
 swissairefine.ch
 swissairfiber.ch
 swissairforce.ch
+swissairforceaviationclub.ch
+swissairforceaviationclubshop.ch
 swissairforcefanclub.ch
 swissairforcefanclubshop.ch
 swissairforcefashion.ch
+swissairforcefriends.ch
+swissairforcefriendsshop.ch
 swissairg.ch
 swissairgazette.ch
 swissairgroup.ch
@@ -10658,6 +10663,7 @@ swissalpinehomes.ch
 swissalpinehoney.ch
 swissalpinehotel.ch
 swissalpinehotels.ch
+swissalpinehub.ch
 swissalpineinteriors.ch
 swissalpinejourney.ch
 swissalpinemilitary.ch
@@ -10689,6 +10695,7 @@ swissalpinewagyu.ch
 swissalpinlodges.ch
 swissalpinopharma.ch
 swissalpinoutdoor.ch
+swissalpinreach.ch
 swissalpnaturals.ch
 swissalppharma.ch
 swissalpresort.ch
@@ -11325,6 +11332,8 @@ swissaviationcapital.ch
 swissaviationcapitalgroup.ch
 swissaviationchannel.ch
 swissaviationfan.ch
+swissaviationfanclub.ch
+swissaviationfanclubshop.ch
 swissaviationheritage.ch
 swissaviationlaw.ch
 swissaviationlawyers.ch
@@ -12398,7 +12407,6 @@ swissbroker24.ch
 swissbrokeracademie.ch
 swissbrokeracademy.ch
 swissbrokerage.ch
-swissbrokerexperts.ch
 swissbrokerhouse.ch
 swissbrokerpartners.ch
 swissbrokerpro.ch
@@ -13609,7 +13617,9 @@ swisscleanla.ch
 swisscleanld.ch
 swisscleanmaster.ch
 swisscleanmove.ch
+swisscleannauj.ch
 swisscleanne.ch
+swisscleannuaj.ch
 swisscleanpaint.ch
 swisscleanpower.ch
 swisscleanrenovate.ch
@@ -13882,7 +13892,6 @@ swisscom-city.ch
 swisscom-cloud-computing.ch
 swisscom-cloud-services.ch
 swisscom-cloud.ch
-swisscom-commerce.ch
 swisscom-cup.ch
 swisscom-directories.ch
 swisscom-fixnet.ch
@@ -13916,8 +13925,6 @@ swisscom-report.ch
 swisscom-schweiz.ch
 swisscom-secure-vision.ch
 swisscom-shop.ch
-swisscom-shopping.ch
-swisscom-shops.ch
 swisscom-smartlife.ch
 swisscom-sme-kampagne.ch
 swisscom-snowday.ch
@@ -14738,7 +14745,6 @@ swissdany.ch
 swissdao.ch
 swissdark.ch
 swissdarknights.ch
-swissdarkscene.ch
 swissdarlehen.ch
 swissdarling.ch
 swissdart.ch
@@ -15459,7 +15465,6 @@ swissdogtraining.ch
 swissdogue.ch
 swissdoit.ch
 swissdojo.ch
-swissdok-premium.ch
 swissdok.ch
 swissdoks.ch
 swissdoku.ch
@@ -16617,7 +16622,6 @@ swissfightclub.ch
 swissfightconnect.ch
 swissfighter.ch
 swissfighters.ch
-swissfighting.ch
 swissfightingleague.ch
 swissfil.ch
 swissfila.ch
@@ -17562,6 +17566,7 @@ swissghostbusters.ch
 swissghosts.ch
 swissghostwriter.ch
 swissghostwriters.ch
+swissgiant.ch
 swissgid.ch
 swissgif.ch
 swissgifted.ch
@@ -18680,6 +18685,7 @@ swisshotspots.ch
 swisshouse-aerolux.ch
 swisshouse-simbabwe.ch
 swisshouse.ch
+swisshousebrothers.ch
 swisshousebuilder.ch
 swisshousecheck.ch
 swisshousedrinks.ch
@@ -18698,6 +18704,7 @@ swisshouseoftech.ch
 swisshouses.ch
 swisshousesale.ch
 swisshousespirits.ch
+swisshousetechnik.ch
 swisshousing.ch
 swisshow.ch
 swisshpa.ch
@@ -20441,6 +20448,7 @@ swisslinetransfer.ch
 swisslinetransport.ch
 swisslinewindows.ch
 swissling.ch
+swisslingo.ch
 swisslingua.ch
 swisslink.ch
 swisslink2024.ch
@@ -20654,6 +20662,7 @@ swissloss.ch
 swisslostandfound.ch
 swisslostproperty.ch
 swisslostraining.ch
+swissloswetten.ch
 swissloterie.ch
 swissloto.ch
 swissloto50ans.ch
@@ -21960,6 +21969,7 @@ swissmountainbbq.ch
 swissmountainbeef.ch
 swissmountainbeer.ch
 swissmountainbier.ch
+swissmountainbrain.ch
 swissmountainbulls.ch
 swissmountainchalet.ch
 swissmountainchalets.ch
@@ -22070,6 +22080,7 @@ swissmultifamilyoffice.ch
 swissmultigroupe.ch
 swissmultihub.ch
 swissmultimedia.ch
+swissmultiprotect.ch
 swissmultirotor.ch
 swissmultisolutions.ch
 swissmultivendor.ch
@@ -23633,6 +23644,7 @@ swisspillar.ch
 swisspillar4.ch
 swisspillars.ch
 swisspilot.ch
+swisspilotapp.ch
 swisspilotcombo.ch
 swisspilots.ch
 swisspilotschool.ch
@@ -24373,7 +24385,6 @@ swissproficlean.ch
 swissprofile.ch
 swissprofiler.ch
 swissprofiling.ch
-swissprofilinvest.ch
 swissprofiltec.ch
 swissprofireinigungen.ch
 swissprofis.ch
@@ -25169,6 +25180,7 @@ swissrenova.ch
 swissrenova360.ch
 swissrenovation.ch
 swissrenovations.ch
+swissrenovexpert.ch
 swissrenovsarl.ch
 swissrent-davos.ch
 swissrent-solution.ch
@@ -26434,6 +26446,7 @@ swisssupercars.ch
 swisssuperfood.ch
 swisssuperfoods.ch
 swisssuperheroes.ch
+swisssuperintelligence.ch
 swisssuplychain.ch
 swisssupplements.ch
 swisssupplier.ch
@@ -27128,6 +27141,7 @@ swisstoday.ch
 swisstoeast.ch
 swisstofu.ch
 swisstogether.ch
+swisstoggel.ch
 swisstoilet.ch
 swisstoiletorganisation.ch
 swisstoilets.ch
@@ -27176,6 +27190,7 @@ swisstopcare.ch
 swisstopclean.ch
 swisstopclinics.ch
 swisstopcoach-association.ch
+swisstopcoach.ch
 swisstopcolor.ch
 swisstopdeals.ch
 swisstopdriver.ch
@@ -27952,6 +27967,7 @@ swissvending.ch
 swissvendingcompany.ch
 swissvendingsolutions.ch
 swissvendo.ch
+swissvenir.ch
 swissvenirs.ch
 swissvent.ch
 swissventa.ch
@@ -27996,6 +28012,7 @@ swissverticals.ch
 swissvertising-online.ch
 swissvertising.ch
 swissvertrieb.ch
+swissvertriebs.ch
 swissverzeichnis.ch
 swissvespa.ch
 swissvest.ch
@@ -29743,6 +29760,7 @@ swixgreen.ch
 swixim-morges.ch
 swixim-stcergue.ch
 swixim.ch
+swiximmontreux.ch
 swiximo.ch
 swiximstcergue.ch
 swixit.ch
