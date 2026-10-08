@@ -51,7 +51,6 @@ ns-edition.ch
 ns-elektro.ch
 ns-etancheite-fribourg.ch
 ns-firestop.ch
-ns-group.ch
 ns-hamilton.ch
 ns-haustechnik.ch
 ns-hightech.ch
@@ -1035,7 +1034,6 @@ ns1.binuk.ch
 ns1.bio-inspecta.ch
 ns1.biontron.ch
 ns1.bioterroir.ch
-ns1.biselconsulting.ch
 ns1.bislin.ch
 ns1.bitcode.ch
 ns1.bitpoint-hosting.ch
@@ -1535,6 +1533,7 @@ ns1.dssr.ch
 ns1.dsteiner.ch
 ns1.dsw-ag.ch
 ns1.dt360.ch
+ns1.dtct.ch
 ns1.dtpschmid.ch
 ns1.dudes.ch
 ns1.duotones.ch
@@ -1889,7 +1888,6 @@ ns1.graessle.ch
 ns1.gramegna.ch
 ns1.grandmedia.ch
 ns1.graphic-solutions.ch
-ns1.grb-renovation.ch
 ns1.grd-renovation.ch
 ns1.gregorich.ch
 ns1.grellhost.ch
@@ -3088,7 +3086,6 @@ ns1.rabbitnet.ch
 ns1.rabiya.ch
 ns1.radiogwen.ch
 ns1.radlosservice.ch
-ns1.raetz-plaettli.ch
 ns1.railtour.ch
 ns1.railtronic.ch
 ns1.ralphschuler.ch
@@ -3676,7 +3673,6 @@ ns1.tstaeuble.ch
 ns1.ttcgrauholz.ch
 ns1.ttn.ch
 ns1.tubenet.ch
-ns1.tup-cloud.ch
 ns1.turbobit.ch
 ns1.tvwiedikon.ch
 ns1.twanda-hosting.ch
@@ -3843,6 +3839,7 @@ ns1.websitenow.ch
 ns1.websource.ch
 ns1.webstudio.ch
 ns1.websyte.ch
+ns1.webteil.ch
 ns1.webtie.ch
 ns1.webtimal.ch
 ns1.webtrend.ch
@@ -4390,7 +4387,6 @@ ns2.bintelix.ch
 ns2.bio-inspecta.ch
 ns2.biontron.ch
 ns2.bioterroir.ch
-ns2.biselconsulting.ch
 ns2.bislin.ch
 ns2.bitcode.ch
 ns2.bitpoint-hosting.ch
@@ -4866,6 +4862,7 @@ ns2.dssnet.ch
 ns2.dssr.ch
 ns2.dsteiner.ch
 ns2.dsw-ag.ch
+ns2.dtct.ch
 ns2.dtpschmid.ch
 ns2.dudes.ch
 ns2.duotones.ch
@@ -5212,7 +5209,6 @@ ns2.graessle.ch
 ns2.gramegna.ch
 ns2.grandmedia.ch
 ns2.graphic-solutions.ch
-ns2.grb-renovation.ch
 ns2.grd-renovation.ch
 ns2.greatsite.ch
 ns2.gregorich.ch
@@ -6352,7 +6348,6 @@ ns2.raagold.ch
 ns2.raan-thai.ch
 ns2.rabbitnet.ch
 ns2.radlosservice.ch
-ns2.raetz-plaettli.ch
 ns2.railtronic.ch
 ns2.ralphschuler.ch
 ns2.ramonawicki-fotografie.ch
@@ -6933,7 +6928,6 @@ ns2.tstaeuble.ch
 ns2.ttcgrauholz.ch
 ns2.ttn.ch
 ns2.tubenet.ch
-ns2.tup-cloud.ch
 ns2.turbobit.ch
 ns2.twanda-hosting.ch
 ns2.twobit.ch
@@ -7092,6 +7086,7 @@ ns2.websitenow.ch
 ns2.websource.ch
 ns2.webstudio.ch
 ns2.websyte.ch
+ns2.webteil.ch
 ns2.webtie.ch
 ns2.webtimal.ch
 ns2.webtrend.ch
@@ -7936,6 +7931,7 @@ ns3.stylestudio.ch
 ns3.sum.ch
 ns3.sumasoft.ch
 ns3.sunrise.ch
+ns3.superns.ch
 ns3.swiss-dt.ch
 ns3.swisscloudhosting.ch
 ns3.swissfintechinnovationlab.ch

@@ -156,6 +156,7 @@ pc-hilfe-thun.ch
 pc-hilfe-unterseen.ch
 pc-hilfe-winterthur.ch
 pc-hilfe-zuerichsee-und-oberland.ch
+pc-hilfe-zuerichsee.ch
 pc-hilfe.ch
 pc-hirni.ch
 pc-hitzkirchertal.ch
@@ -284,10 +285,14 @@ pc-reinigung.ch
 pc-rent.ch
 pc-repair.ch
 pc-reparatur-bl.ch
+pc-reparatur-obersee.ch
+pc-reparatur-rapperswil-jona.ch
 pc-reparatur-rapperswil.ch
+pc-reparatur-rapperswiljona.ch
 pc-reparatur-service.ch
 pc-reparatur-winterthur.ch
 pc-reparatur-zuerich.ch
+pc-reparatur-zuerichsee.ch
 pc-reparatur.ch
 pc-reparaturen.ch
 pc-reparaturservice.ch
@@ -458,7 +463,9 @@ pc-zubehoer.ch
 pc-zug.ch
 pc10211.ch
 pc112.ch
+pc12.ch
 pc123.ch
+pc12club.ch
 pc12training.ch
 pc144.ch
 pc2.ch
@@ -492,6 +499,7 @@ pcaarau.ch
 pcaarburg.ch
 pcab.ch
 pcaboard.ch
+pcacs.ch
 pcad.ch
 pcadmin.ch
 pcag-hagel.ch
@@ -718,6 +726,7 @@ pcfconsulting.ch
 pcfix.ch
 pcflick.ch
 pcflight.ch
+pcflow.ch
 pcfluegelrad.ch
 pcflurlingen.ch
 pcfm.ch
@@ -1087,6 +1096,7 @@ pcpit.ch
 pcplanet13.ch
 pcplus.ch
 pcpmetal.ch
+pcpoint.ch
 pcport.ch
 pcportablepascher.ch
 pcportal.ch

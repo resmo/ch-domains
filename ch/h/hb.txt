@@ -241,7 +241,6 @@ hb9dlf.ch
 hb9dm.ch
 hb9dnn.ch
 hb9dop.ch
-hb9dou.ch
 hb9dql.ch
 hb9dr.ch
 hb9dro.ch
@@ -702,6 +701,7 @@ hbcmuensingen.ch
 hbcnyon.ch
 hbcom.ch
 hbcon.ch
+hbconseil.ch
 hbconseils.ch
 hbconsult.ch
 hbconsultant.ch
@@ -759,6 +759,8 @@ hbfahrzeugbau.ch
 hbfc.ch
 hbff.ch
 hbfiduciaire.ch
+hbfinance.ch
+hbfinancement.ch
 hbfood.ch
 hbfotografie.ch
 hbfotos.ch
@@ -802,6 +804,7 @@ hbimed-app.ch
 hbimed.ch
 hbimmo.ch
 hbimmobilienag.ch
+hbimmobilier.ch
 hbindustry.ch
 hbinfo.ch
 hbinova.ch
@@ -938,6 +941,7 @@ hbp-t.ch
 hbp-treuhand.ch
 hbp-wirtschaftspruefung.ch
 hbp.ch
+hbpatrimoine.ch
 hbpc.ch
 hbpeinture.ch
 hbpettersa.ch

@@ -2766,6 +2766,7 @@ feld11.ch
 feld3.ch
 feld32.ch
 feld37.ch
+feld37sirnach.ch
 feld4.ch
 feld80.ch
 felda.ch
@@ -4680,6 +4681,7 @@ felsmedical.ch
 felsmoney.ch
 felsner.ch
 felsor.ch
+felsplanet.ch
 felsplatte.ch
 felsresidenz.ch
 felssicherung.ch
@@ -5658,6 +5660,7 @@ fengshui-gestaltung.ch
 fengshui-horw.ch
 fengshui-institut.ch
 fengshui-interior.ch
+fengshui-international.ch
 fengshui-kurse.ch
 fengshui-labor.ch
 fengshui-lebensenergie.ch
@@ -5900,7 +5903,6 @@ fenomenals.ch
 fenomeni.ch
 fenomeno.ch
 fenomenon.ch
-fenomenstudio.ch
 fenou.ch
 fenouil.ch
 fenouillet.ch
@@ -9532,8 +9534,6 @@ fermumi.ch
 fern-akademie.ch
 fern-arawasserschloss.ch
 fern-bus.ch
-fern-energetik.ch
-fern-energie.ch
 fern-energieuebertragung.ch
 fern-fh.ch
 fern-heilen.ch
@@ -9692,7 +9692,6 @@ ferne.ch
 fernehorizonte.ch
 fernekess-foerdertechnik.ch
 fernenergetik.ch
-fernenergie.ch
 ferner-coffres-forts.ch
 ferner-osten.ch
 ferner.ch
@@ -10227,7 +10226,6 @@ ferrarileasing.ch
 ferrarilocation.ch
 ferrariluce.ch
 ferrarimacchine.ch
-ferrarimariage.ch
 ferrarimaurizio.ch
 ferrarimeilen.ch
 ferrarimetal.ch
@@ -10551,7 +10549,6 @@ ferrucci.ch
 ferruccicosmetics.ch
 ferruccimode.ch
 ferruccio.ch
-ferrucciobernasconi.ch
 ferrucciocainero.ch
 ferrucciogaropesani.ch
 ferrucciopozzi.ch
@@ -10768,7 +10765,6 @@ fertigschubladen.ch
 fertigschwimmbad.ch
 fertigschwimmbaeder.ch
 fertigschwimmbecken.ch
-fertigshop.ch
 fertigsthaus.ch
 fertigteich.ch
 fertigteil.ch
@@ -10854,7 +10850,6 @@ fertitox.ch
 fertitta.ch
 fertix.ch
 fertizone.ch
-fertls-schreinermontagen.ch
 fertly.ch
 fertodetailing.ch
 fertrade.ch
@@ -11371,7 +11366,6 @@ festival-must-haves.ch
 festival-natur.ch
 festival-new-work.ch
 festival-opensky.ch
-festival-pachamama.ch
 festival-paysan.ch
 festival-photo-coppet.ch
 festival-photo.ch
@@ -12542,6 +12536,7 @@ feuer-partei.ch
 feuer-poolheizung.ch
 feuer-rettung.ch
 feuer-salamander.ch
+feuer-schale.ch
 feuer-schalen.ch
 feuer-schutz.ch
 feuer-show.ch

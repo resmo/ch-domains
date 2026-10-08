@@ -410,7 +410,6 @@ lobyrin.ch
 loc-ai.ch
 loc-altitude.ch
 loc-ams.ch
-loc-at.ch
 loc-auto.ch
 loc-elevateur.ch
 loc-est.ch
@@ -640,7 +639,6 @@ local-weed.ch
 local-werbung.ch
 local.ch
 local2.ch
-local24.ch
 local360.ch
 local365.ch
 local4.ch
@@ -3235,6 +3233,7 @@ loewenherzen.ch
 loewenherzli.ch
 loewenherzpersonal.ch
 loewenherzquantenheilung.ch
+loewenhoefe-rorschach.ch
 loewenhof-chur.ch
 loewenhof.ch
 loeweni.ch
@@ -3572,6 +3571,7 @@ lofttuer.ch
 lofttueren-bern.ch
 lofttueren-seeland.ch
 lofttueren.ch
+lofttuerprofi.ch
 lofttur.ch
 loftturen.ch
 loftundloeffel.ch
@@ -5280,8 +5280,8 @@ logotyper.ch
 logoupdate.ch
 logout-live.ch
 logout.ch
+logoutdrive.ch
 logoutne.ch
-logoutreflex.ch
 logovernier.ch
 logovi.ch
 logovino.ch
@@ -6137,7 +6137,6 @@ lokal-wirken.ch
 lokal.ch
 lokal14.ch
 lokal17.ch
-lokal24.ch
 lokal2a.ch
 lokal31.ch
 lokal365.ch
@@ -6906,6 +6905,7 @@ lomax.ch
 lomaya.ch
 lomazi.ch
 lomazoo.ch
+lomazzi.ch
 lomazzo.ch
 lomb-arts.ch
 lomba.ch
@@ -7072,6 +7072,7 @@ lominui.ch
 lomio.ch
 lomionda.ch
 lomipassion.ch
+lomira.ch
 lomirconsulting.ch
 lomis.ch
 lomishop.ch
@@ -7283,7 +7284,9 @@ lonesienne.ch
 lonesome-dragon.ch
 lonesomedragon.ch
 lonesomerider.ch
+lonesomeridertravel.ch
 lonesomestation.ch
+lonesomridertravel.ch
 lonestar.ch
 lonestarcountry.ch
 lonestarkitchen.ch
@@ -9079,7 +9082,6 @@ lordea.ch
 lordelaruche.ch
 lordenaples.ch
 lordesaintsebastien.ch
-lordesicile.ch
 lordgeneralphanter.ch
 lordgroup.ch
 lordgun.ch
@@ -9430,6 +9432,7 @@ lorenzhauser.ch
 lorenzheer.ch
 lorenzheld.ch
 lorenzhess.ch
+lorenzhosnerink.ch
 lorenzhuber.ch
 lorenzhumbel.ch
 lorenzhunziker.ch
@@ -10948,6 +10951,7 @@ lottos.ch
 lottoschein.ch
 lottoscope.ch
 lottoshop.ch
+lottoskop.ch
 lottoslalom.ch
 lottospielen.ch
 lottostar.ch
@@ -11841,6 +11845,7 @@ lounge-chair-festival.ch
 lounge-chair.ch
 lounge-dinner.ch
 lounge-fire.ch
+lounge-garten.ch
 lounge-gartenmoebel.ch
 lounge-hub.ch
 lounge-institut.ch
@@ -11898,6 +11903,7 @@ loungefire.ch
 loungefiregrill.ch
 loungefloss.ch
 loungefly.ch
+loungegarten.ch
 loungekino.ch
 loungekissen.ch
 loungelabaia.ch

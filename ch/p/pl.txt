@@ -505,7 +505,6 @@ plainlanguagesummaries.ch
 plainlanguagesummary.ch
 plainpage.ch
 plainpalais-centre.ch
-plainpalais-impro.ch
 plainpalais-satus.ch
 plainpalais.ch
 plainpicture.ch
@@ -923,7 +922,6 @@ plan23.ch
 plan24.ch
 plan26.ch
 plan2be.ch
-plan2bfree.ch
 plan2c.ch
 plan2cad.ch
 plan2teach.ch
@@ -1702,6 +1700,7 @@ planete-puzzle.ch
 planete-religions.ch
 planete-safaris.ch
 planete-ski.ch
+planete-sports.ch
 planete-terroirs.ch
 planete-tiramisu.ch
 planete-velos.ch
@@ -2336,6 +2335,7 @@ planoplex.ch
 planor.ch
 planora.ch
 planorama.ch
+planorion.ch
 planoro.ch
 planort.ch
 planos.ch
@@ -5817,7 +5817,6 @@ pleb.ch
 plebani.ch
 plebcoffee.ch
 plebfinanz.ch
-plebs-imperium.ch
 plebs.ch
 plebspay.ch
 plec.ch
@@ -6392,6 +6391,7 @@ pliko.ch
 plill.ch
 plim-creazioni.ch
 plim.ch
+plima-app.ch
 plima.ch
 plimage.ch
 plimat.ch
@@ -7424,6 +7424,7 @@ plso.ch
 plsolutions.ch
 plsolutionssagl.ch
 plssg.ch
+plssw.ch
 plstech.ch
 plstor.ch
 plszh.ch

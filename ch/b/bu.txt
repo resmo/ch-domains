@@ -6,6 +6,7 @@ bu-do.ch
 bu-drive.ch
 bu-education.ch
 bu-energy.ch
+bu-fgwilson.ch
 bu-ha.ch
 bu-ho.ch
 bu-ka.ch
@@ -543,6 +544,7 @@ buch-kultur.ch
 buch-kunst.ch
 buch-laden.ch
 buch-lektorat.ch
+buch-magazin.ch
 buch-mediendienst.ch
 buch-mormon.ch
 buch-outlet.ch
@@ -1963,17 +1965,26 @@ buchungen.ch
 buchungonline.ch
 buchungs-maschine.ch
 buchungs-service.ch
+buchungsabfrage.ch
+buchungsansicht.ch
 buchungsauftrag.ch
 buchungscode.ch
+buchungsdaten.ch
+buchungsinfo.ch
+buchungsinformation.ch
 buchungsjournal.ch
 buchungsliste.ch
 buchungsmeister.ch
+buchungsnachricht.ch
 buchungspilot.ch
 buchungsportal.ch
 buchungsprogramm.ch
+buchungspruefung.ch
 buchungssatz.ch
 buchungsservice.ch
+buchungsstatus.ch
 buchungssystem.ch
+buchungsupdate.ch
 buchverkauf.ch
 buchverlag.ch
 buchverlage.ch
@@ -3283,6 +3294,7 @@ buechsewaeg.ch
 buechslen.ch
 buechstaebli.ch
 buechwaeldli.ch
+buechwald.ch
 buechweid.ch
 buecken.ch
 buecker-museum.ch
@@ -5202,7 +5214,6 @@ buero21.ch
 buero24.ch
 buero27.ch
 buero2go.ch
-buero3.ch
 buero31.ch
 buero34.ch
 buero349.ch
@@ -5236,6 +5247,7 @@ bueroakustikshop.ch
 bueroalbatros.ch
 bueroalbers.ch
 bueroalltag.ch
+bueroaltag.ch
 bueroambellevue.ch
 bueroamrhein.ch
 bueroangebote24.ch
@@ -8083,6 +8095,7 @@ bumann-recycling.ch
 bumann-saas-fee.ch
 bumann.ch
 bumannderrestauranttester.ch
+bumanndigital.ch
 bumannmanagement.ch
 bumannproductions.ch
 bumanns.ch
@@ -9685,7 +9698,6 @@ burgbach.ch
 burgbacher.ch
 burgbachkeller.ch
 burgbad.ch
-burgbeach.ch
 burgberg.ch
 burgbier.ch
 burgblick-weinfelden.ch
@@ -9699,7 +9711,6 @@ burgchopf.ch
 burgdev.ch
 burgdorf-altstadt.ch
 burgdorf-arch.ch
-burgdorf-beach.ch
 burgdorf-castle.ch
 burgdorf-curavet.ch
 burgdorf-entdecken.ch
@@ -10535,7 +10546,6 @@ burgy.ch
 burgym.ch
 burgys-runner-test.ch
 burgys.ch
-burgzauber.ch
 burgziel.ch
 burgzug.ch
 burh.ch
@@ -10738,6 +10748,7 @@ burkhard-avocat.ch
 burkhard-canella.ch
 burkhard-co.ch
 burkhard-coaching.ch
+burkhard-ebiner-architectes.ch
 burkhard-fahrschule.ch
 burkhard-fotografie.ch
 burkhard-gartengestaltung.ch
@@ -10820,6 +10831,7 @@ burkinafaso.ch
 burkinapassion.ch
 burkinavision.ch
 burkinis.ch
+burkis-fahrschule.ch
 burkis.ch
 burkischerer-xmas.ch
 burkischerer.ch
@@ -11134,6 +11146,7 @@ burnoutlab.ch
 burnoutlodge.ch
 burnoutmanager.ch
 burnoutmollis.ch
+burnoutparental.ch
 burnoutpraevention.ch
 burnoutpraxis.ch
 burnoutprophylaxe.ch
@@ -11720,6 +11733,7 @@ buschdentalag.ch
 busche.ch
 buscheckin.ch
 buschel-floristik.ch
+buscheli.ch
 buschenschenke-berneck.ch
 buschenschenke.ch
 buscher-media.ch
@@ -12723,7 +12737,6 @@ businessarchitect.ch
 businessarchitects.ch
 businessarchitekt.ch
 businessarchitekten.ch
-businessarea.ch
 businessarena.ch
 businessart.ch
 businessasia.ch
@@ -12739,6 +12752,7 @@ businessaudit.ch
 businessaufnahmen.ch
 businessauskunft.ch
 businessautomation.ch
+businessautonome.ch
 businessautourdulac.ch
 businessaviation.ch
 businessaviationconsulting.ch
@@ -13314,7 +13328,6 @@ businessnetzwerkwasserschloss.ch
 businessnew.ch
 businessnews.ch
 businessnlp.ch
-businessnostress.ch
 businessnow.ch
 businessnumbers.ch
 businessnummer.ch
@@ -13833,6 +13846,7 @@ bussardb.ch
 bussardmusicacademy.ch
 bussarganserlandwerdenberg.ch
 bussat.ch
+bussberg.ch
 busschneider.ch
 busschots.ch
 bussco.ch
@@ -15216,6 +15230,7 @@ buywake.ch
 buywatch.ch
 buyway.ch
 buywise-consulting.ch
+buyyourhome.ch
 buyyourmac.ch
 buyzero.ch
 buyzil.ch
