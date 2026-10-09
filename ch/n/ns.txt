@@ -264,7 +264,6 @@ ns.host.ch
 ns.hostpoint.ch
 ns.hosttown.ch
 ns.hosttown03.ch
-ns.hotelnapf.ch
 ns.i-quest.ch
 ns.i-xperts.ch
 ns.idiap.ch
@@ -1322,6 +1321,7 @@ ns1.crash-communities.ch
 ns1.crassus.ch
 ns1.crater.ch
 ns1.cre8.ch
+ns1.creacom-it.ch
 ns1.creancia.ch
 ns1.creativ-web.ch
 ns1.creative-business-support.ch
@@ -1674,6 +1674,7 @@ ns1.f6link.ch
 ns1.f6mail.ch
 ns1.fabioforni.ch
 ns1.fabrica-capricorn.ch
+ns1.facturaplus.ch
 ns1.fahlab.ch
 ns1.fahrzeugtechnikmueller.ch
 ns1.fairmail.ch
@@ -3673,6 +3674,7 @@ ns1.tstaeuble.ch
 ns1.ttcgrauholz.ch
 ns1.ttn.ch
 ns1.tubenet.ch
+ns1.tup-cloud.ch
 ns1.turbobit.ch
 ns1.tvwiedikon.ch
 ns1.twanda-hosting.ch
@@ -4673,6 +4675,7 @@ ns2.crash-communities.ch
 ns2.crassus.ch
 ns2.crater.ch
 ns2.cre8.ch
+ns2.creacom-it.ch
 ns2.creancia.ch
 ns2.creativ-web.ch
 ns2.creative-business-support.ch
@@ -5004,6 +5007,7 @@ ns2.f1rstlevel.ch
 ns2.f6link.ch
 ns2.f6mail.ch
 ns2.fabioforni.ch
+ns2.facturaplus.ch
 ns2.fahlab.ch
 ns2.fahrzeugtechnikmueller.ch
 ns2.fairmail.ch
@@ -5360,7 +5364,6 @@ ns2.hosttree.ch
 ns2.hostvgmc.ch
 ns2.hostyx.ch
 ns2.hotel-grandpre.ch
-ns2.hotelnapf.ch
 ns2.hrcd.ch
 ns2.hses.ch
 ns2.hsmart.ch
@@ -6928,6 +6931,7 @@ ns2.tstaeuble.ch
 ns2.ttcgrauholz.ch
 ns2.ttn.ch
 ns2.tubenet.ch
+ns2.tup-cloud.ch
 ns2.turbobit.ch
 ns2.twanda-hosting.ch
 ns2.twobit.ch

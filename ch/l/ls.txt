@@ -89,7 +89,6 @@ ls-reinigungsservice.ch
 ls-rhcompta.ch
 ls-rhcomptabilite.ch
 ls-salzmann-architecture.ch
-ls-sanitaire.ch
 ls-schweiz.ch
 ls-services.ch
 ls-shelter.ch
@@ -637,6 +636,7 @@ lsze.ch
 lszf.ch
 lszg.ch
 lszgs.ch
+lszh-automations.ch
 lszh-sim.ch
 lszh-spotter.ch
 lszh.ch

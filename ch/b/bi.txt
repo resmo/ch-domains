@@ -94,7 +94,6 @@ bi-su.ch
 bi-swiss.ch
 bi-systeme.ch
 bi-t-coin.ch
-bi-technology.ch
 bi-ty.ch
 bi-vetmedica.ch
 bi-xp.ch
@@ -925,6 +924,7 @@ bible-art.ch
 bible-commentaire.ch
 bible-echange.ch
 bible-engagement.ch
+bible-et-foi.ch
 bible-exhibition.ch
 bible-institute-switzerland.ch
 bible-institute.ch
@@ -4306,6 +4306,7 @@ big-energy.ch
 big-europa.ch
 big-expo.ch
 big-eye.ch
+big-fan.ch
 big-fashion.ch
 big-feuerwerk.ch
 big-fitness.ch
@@ -5756,7 +5757,6 @@ bijouxherbarium.ch
 bijouxjaccard.ch
 bijouxlab.ch
 bijouxlack.ch
-bijouxmano.ch
 bijouxmarquis.ch
 bijouxmatty.ch
 bijouxmod.ch
@@ -8739,6 +8739,8 @@ bildungsmonitoring.ch
 bildungsmotor.ch
 bildungsmuehle.ch
 bildungsmuseum.ch
+bildungsnachweis.ch
+bildungsnachweise.ch
 bildungsnavi.ch
 bildungsnavigator.ch
 bildungsnetz-zuerichsee.ch
@@ -14233,7 +14235,6 @@ biolia.ch
 biolicht.ch
 biolid.ch
 bioliebe.ch
-bioliege.ch
 biolife-rabatt-shop.ch
 biolife-rabatt.ch
 biolife-team-rabatt.ch
@@ -14522,6 +14523,7 @@ biomechanicrecalibration.ch
 biomechanics.ch
 biomechanik-labor.ch
 biomechanik-training.ch
+biomechanik.ch
 biomechanikbasics.ch
 biomechaniker.ch
 biomechanischkorrektreiten.ch
@@ -14988,6 +14990,7 @@ biophile-architekten.ch
 biophile-architektur.ch
 biophilearchitektur.ch
 biophilia-design.ch
+biophilia.ch
 biophiliadesign.ch
 biophiliaplants.ch
 biophilic-design.ch
@@ -15194,6 +15197,7 @@ bioregiatee.ch
 bioregio123.ch
 bioregion123.ch
 bioregional.ch
+bioregioning.ch
 bioregulation-therapeutique-manuelle.ch
 bioregulationsmedizin.ch
 bioregulator.ch
@@ -17761,6 +17765,7 @@ bischofneuhaus.ch
 bischofonline.ch
 bischofoptik.ch
 bischofparkett.ch
+bischofs-machen.ch
 bischofs.ch
 bischofsa.ch
 bischofsberg.ch
@@ -17967,7 +17972,6 @@ bislimigartenbau.ch
 bislin-lama-trekking.ch
 bislin-wild.ch
 bislin.ch
-bislink.ch
 bislins.ch
 bisly.ch
 bismarck.ch
@@ -18039,6 +18043,7 @@ bisonit.ch
 bisonits.ch
 bisonitservices.ch
 bisonleathers.ch
+bisonmove.ch
 bisonni-design.ch
 bisonni.ch
 bisonoffroad.ch
@@ -18794,6 +18799,7 @@ bitboss.ch
 bitbot.ch
 bitbote.ch
 bitboutique.ch
+bitbox-service.ch
 bitbox.ch
 bitboxwallet.ch
 bitbrain.ch
@@ -19288,6 +19294,7 @@ bitcoinlending.ch
 bitcoinlernen.ch
 bitcoinlightning.ch
 bitcoinlinks.ch
+bitcoinlinth.ch
 bitcoinlive.ch
 bitcoinloan.ch
 bitcoinlodge.ch
@@ -19689,6 +19696,7 @@ bitil.ch
 bitimes.ch
 bitimmo.ch
 bitinfo.ch
+bitingbit.ch
 bitingcolors.ch
 bitini.ch
 bitintra.ch
@@ -19783,6 +19791,7 @@ bitmet.ch
 bitmex.ch
 bitmill.ch
 bitminded.ch
+bitmine.ch
 bitminer.ch
 bitminter.ch
 bitmoji.ch
@@ -20062,6 +20071,7 @@ bitsurance.ch
 bitsvation.ch
 bitswiss.ch
 bitswit.ch
+bitswizzle.ch
 bitsx.ch
 bitsy.ch
 bitsync.ch
@@ -20311,9 +20321,11 @@ bitzimetzg.ch
 bitzistrasse.ch
 bitzitech.ch
 bitziusstrasse.ch
+bitzli-design.ch
 bitzli.ch
 bitzlibesser.ch
 bitzlicook.ch
+bitzlidesign.ch
 bitzlirodrigo.ch
 bitzliyoga.ch
 bitzly.ch

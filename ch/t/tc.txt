@@ -39,6 +39,7 @@ tc-brig-glis.ch
 tc-brunnen.ch
 tc-buchs.ch
 tc-buerglen.ch
+tc-buttisholz.ch
 tc-cdf.ch
 tc-ch.ch
 tc-champagne.ch
@@ -1079,6 +1080,8 @@ tcm-buergi.ch
 tcm-burgdorf.ch
 tcm-candrian.ch
 tcm-carl.ch
+tcm-center-oftringen.ch
+tcm-center-zofingen.ch
 tcm-cham.ch
 tcm-chan-zuerich.ch
 tcm-chan.ch
@@ -1181,6 +1184,7 @@ tcm-hellman.ch
 tcm-helvetica.ch
 tcm-helvetica1.ch
 tcm-hengfu.ch
+tcm-herbs.ch
 tcm-herensperger.ch
 tcm-hersche.ch
 tcm-hess.ch
@@ -1531,6 +1535,7 @@ tcm-zach.ch
 tcm-zeng.ch
 tcm-zentner.ch
 tcm-zentrum-aarau.ch
+tcm-zentrum-aarburg.ch
 tcm-zentrum-altstetten.ch
 tcm-zentrum-baar.ch
 tcm-zentrum-baden.ch
@@ -1554,9 +1559,11 @@ tcm-zentrum-kriens.ch
 tcm-zentrum-langenthal.ch
 tcm-zentrum-lenzburg.ch
 tcm-zentrum-oftringen.ch
+tcm-zentrum-olten.ch
 tcm-zentrum-pfaeffikon.ch
 tcm-zentrum-rapperswil.ch
 tcm-zentrum-regensdorf.ch
+tcm-zentrum-rothrist.ch
 tcm-zentrum-schaffhausen.ch
 tcm-zentrum-schlieren.ch
 tcm-zentrum-schwyz.ch
