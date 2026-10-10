@@ -771,6 +771,8 @@ kmu-kassenrollen.ch
 kmu-kauf-verkauf.ch
 kmu-kauf.ch
 kmu-kaufen.ch
+kmu-ki-beratung.ch
+kmu-ki-consulting.ch
 kmu-ki-kompetenz.ch
 kmu-ki-schulung.ch
 kmu-ki-skills-lab.ch
@@ -1572,6 +1574,7 @@ kmusilver3.ch
 kmusity.ch
 kmusmart.ch
 kmusmartinvest.ch
+kmusmartwork.ch
 kmusms.ch
 kmusoft-erp.ch
 kmusoft-in-the-cloud.ch

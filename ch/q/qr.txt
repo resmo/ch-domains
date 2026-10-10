@@ -170,7 +170,6 @@ qrbase.ch
 qrbazar.ch
 qrbcv.ch
 qrbeleg.ch
-qrbestellung.ch
 qrbill-generator.ch
 qrbill-plus.ch
 qrbill-qrmodule.ch
@@ -338,7 +337,6 @@ qrme.ch
 qrmemorial.ch
 qrmenu.ch
 qrminstitut.ch
-qrminstitute.ch
 qrmod.ch
 qrmodul.ch
 qrmodule.ch

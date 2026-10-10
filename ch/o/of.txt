@@ -535,6 +535,7 @@ offer-radar.ch
 offer-scout.ch
 offer-tube.ch
 offer.ch
+offer10.ch
 offer365.ch
 offer4u.ch
 offer4you.ch
@@ -543,6 +544,7 @@ offera-mailer.ch
 offera.ch
 offeragent.ch
 offeralux.ch
+offerbox.ch
 offerbuddy.ch
 offercar.ch
 offercar24.ch
@@ -669,6 +671,7 @@ offerten-24.ch
 offerten-360.ch
 offerten-365.ch
 offerten-48.ch
+offerten-anfragen.ch
 offerten-app.ch
 offerten-arena.ch
 offerten-bau.ch
@@ -705,7 +708,9 @@ offerten360.ch
 offerten365.ch
 offerten48.ch
 offertenanfrage.ch
+offertenanfragen.ch
 offertenauswahl.ch
+offertenberatung.ch
 offertenblitz.ch
 offertencheck.ch
 offertencheck24.ch
@@ -733,6 +738,7 @@ offertenpilot.ch
 offertenplan.ch
 offertenplattform.ch
 offertenplus.ch
+offertenplus24.ch
 offertenportal.ch
 offertenprofi.ch
 offertenradar.ch
@@ -1862,6 +1868,7 @@ offline-standard.ch
 offline-tours.ch
 offline-wein.ch
 offline-wine.ch
+offline-zahlungen.ch
 offline.ch
 offlineai.ch
 offlinebaby.ch
@@ -1889,6 +1896,7 @@ offlineki.ch
 offlineleben.ch
 offlinelove.ch
 offlinenetwork.ch
+offlinepayments.ch
 offliner.ch
 offlinerecht.ch
 offliners-hockey.ch
@@ -1903,6 +1911,7 @@ offlinetherapie.ch
 offlinetours.ch
 offlinetrip.ch
 offlineyoga.ch
+offlinezahlungen.ch
 offlinezurich.ch
 offlist.ch
 offloaditonline.ch
@@ -2222,6 +2231,7 @@ offshoreluzern.ch
 offshoreoil.ch
 offshoreperformance.ch
 offshorepress.ch
+offshoreproductions.ch
 offshorerecords.ch
 offshoresailing.ch
 offshorestudio.ch
@@ -2240,6 +2250,7 @@ offsite-backups.ch
 offsite-event.ch
 offsite-house.ch
 offsite-meetings.ch
+offsite-planer.ch
 offsite-traffic.ch
 offsite.ch
 offsitebackup.ch
@@ -2249,6 +2260,7 @@ offsitegalleries.ch
 offsitegallery.ch
 offsitelab.ch
 offsitemedia.ch
+offsiteplaner.ch
 offski.ch
 offskin.ch
 offspace-coaching.ch
@@ -2286,6 +2298,7 @@ offtogo.ch
 offtopic.ch
 offtrack.ch
 offtrackcamper.ch
+offtrail-app.ch
 offtraildogs.ch
 offtraxxx.ch
 offview.ch
@@ -2533,7 +2546,6 @@ oftruediamond.ch
 oftum.ch
 ofty.ch
 ofu.ch
-ofun.ch
 ofunifr.ch
 ofunilu.ch
 ofunisg.ch
