@@ -32,7 +32,6 @@ ge-decide.ch
 ge-demolition.ch
 ge-detaxe.ch
 ge-do.ch
-ge-edeclaration.ch
 ge-edu.ch
 ge-el.ch
 ge-emploi.ch
@@ -540,6 +539,7 @@ gebaeudeinformatiker-efz.ch
 gebaeudeinformatiker.ch
 gebaeudeinformation.ch
 gebaeudeit.ch
+gebaeudejournal.ch
 gebaeudekennzeichnung.ch
 gebaeudeklima-energieetikette.ch
 gebaeudeklima-schweiz.ch
@@ -2104,7 +2104,6 @@ gedankenstrich-atelier.ch
 gedankenstrich.ch
 gedankensturm.ch
 gedankensumpf.ch
-gedankentanken.ch
 gedankentaxi.ch
 gedankentraining.ch
 gedankentresor.ch
@@ -4002,6 +4001,7 @@ geissen-trekking.ch
 geissen-wandern.ch
 geissen.ch
 geissendoerfer.ch
+geissenegg.ch
 geissenhof-rona.ch
 geissenhof.ch
 geissenkaese.ch
@@ -6257,7 +6257,6 @@ gemeinsam.ch
 gemeinsam24.ch
 gemeinsamaktiv.ch
 gemeinsamamberg.ch
-gemeinsamamherd.ch
 gemeinsambauen.ch
 gemeinsambauenwirneu.ch
 gemeinsambeten.ch
@@ -6804,6 +6803,7 @@ gemporia.ch
 gemport.ch
 gempro-plus.ch
 gemproductions.ch
+gemproject.ch
 gemps.ch
 gemreco.ch
 gemrep.ch
@@ -6978,6 +6978,7 @@ gemuesesuppe.ch
 gemuesetanz.ch
 gemuesetasche.ch
 gemueseturm.ch
+gemuesetv.ch
 gemuesevomankenhof.ch
 gemuesezentrale.ch
 gemuetli.ch
@@ -7724,7 +7725,6 @@ generation-gx.ch
 generation-homeoffice.ch
 generation-i.ch
 generation-ia.ch
-generation-idees.ch
 generation-inklusion.ch
 generation-inoc.ch
 generation-interim.ch
@@ -8315,6 +8315,7 @@ geneva-airport-transfer.ch
 geneva-airport-transfers.ch
 geneva-airportlimousine.ch
 geneva-am.ch
+geneva-and-beyond.ch
 geneva-anesthesia.ch
 geneva-arena.ch
 geneva-attorney.ch
@@ -8816,6 +8817,7 @@ genevahc.ch
 genevahelp.ch
 genevahenna.ch
 genevahipcenter.ch
+genevahockeyclub.ch
 genevahome.ch
 genevahomeadvisory.ch
 genevahomecare.ch
@@ -10101,6 +10103,7 @@ geniedulieu.ch
 geniegenetique.ch
 geniehub.ch
 genielift.ch
+geniemath.ch
 genieme.ch
 genieplaycasino.ch
 genier-familly.ch
@@ -12838,6 +12841,7 @@ geopark.ch
 geoparks.ch
 geoparksardona.ch
 geopartner.ch
+geoparty.ch
 geopas.ch
 geopascal.ch
 geopath.ch
@@ -20513,7 +20517,6 @@ getfit.ch
 getfitbylina.ch
 getfitjanine.ch
 getfitstayfit.ch
-getfitsuisse.ch
 getfitt.ch
 getfityanchovelon.ch
 getfive.ch
@@ -20937,6 +20940,7 @@ getpmi.ch
 getpodcast.ch
 getpokemon.ch
 getpolaris.ch
+getpold.ch
 getpostmi.ch
 getposto.ch
 getpower.ch
@@ -21637,6 +21641,7 @@ getyournet.ch
 getyourparcel.ch
 getyourpearl.ch
 getyourpicnic.ch
+getyourpump.ch
 getyourrate.ch
 getyourride.ch
 getyourright.ch

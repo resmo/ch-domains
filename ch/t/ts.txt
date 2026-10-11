@@ -1667,6 +1667,7 @@ tst-fitness.ch
 tst-flyfishing.ch
 tst-gpr.ch
 tst-gprag.ch
+tst-groupe.ch
 tst-grp.ch
 tst-hauswartung.ch
 tst-immo.ch

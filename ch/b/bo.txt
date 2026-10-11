@@ -181,8 +181,6 @@ board-game.ch
 board-governance.ch
 board-hub.ch
 board-in.ch
-board-line.ch
-board-lines.ch
 board-local.ch
 board-lokal.ch
 board-mastery.ch
@@ -255,8 +253,6 @@ boarddirector.ch
 boarddoctor.ch
 boardeducation.ch
 boarder-collie.ch
-boarder-line.ch
-boarder-lines.ch
 boarder-partner.ch
 boarder-x.ch
 boarder.ch
@@ -264,8 +260,6 @@ boardercollie.ch
 boarderfestival.ch
 boarderhouse.ch
 boarderlife.ch
-boarderline.ch
-boarderlines.ch
 boarderoutlet.ch
 boarderradar.ch
 boarders-valley.ch
@@ -329,9 +323,7 @@ boardleader.ch
 boardleaders.ch
 boardlens.ch
 boardless.ch
-boardline.ch
 boardliner.ch
-boardlines.ch
 boardlink.ch
 boardlocal.ch
 boardlokal.ch
@@ -5027,7 +5019,6 @@ bohnenimurlaub.ch
 bohnenkaffee.ch
 bohnenkamp-suisse.ch
 bohnenkamp-swiss.ch
-bohnenkamp.ch
 bohnenlust.ch
 bohnenrad.ch
 bohnensaft.ch
@@ -6511,6 +6502,7 @@ bollywoodvibes.ch
 bollyzone.ch
 bolmed.ch
 bolmo-interieur.ch
+bolmo.ch
 bolmointerieur.ch
 bolmontcreation.ch
 bolo-caco.ch
@@ -6838,6 +6830,7 @@ bombaycafe.ch
 bombaydarbar-wallisellen.ch
 bombaydarbar.ch
 bombayexpress.ch
+bombayindian.ch
 bombaylounge-burgdorf.ch
 bombaylounge.ch
 bombaypalace-nidau.ch
@@ -10182,7 +10175,6 @@ boostcasino.ch
 boostclipping.ch
 boostcoach.ch
 boostcraft.ch
-boostdeinlinkedin.ch
 boostdevis.ch
 boostdgm.ch
 boostdigital.ch
@@ -10216,6 +10208,7 @@ boosterfit.ch
 boosterflights.ch
 boosterfrisch.ch
 boosterhoo.ch
+boosterhouse.ch
 boosterlab.ch
 boosterlife.ch
 boosterme.ch
@@ -12445,6 +12438,7 @@ boruto.ch
 borutta.ch
 borvat.ch
 borvox.ch
+borwiesevice.ch
 bory-avocats.ch
 bory-legal.ch
 bory-mag.ch
@@ -13499,6 +13493,7 @@ bot-butler.ch
 bot-fiena.ch
 bot-finder.ch
 bot-geneva.ch
+bot-hilfe.ch
 bot-hire.ch
 bot-jobs.ch
 bot-market.ch
@@ -13656,6 +13651,7 @@ botaya.ch
 botb.ch
 botbar.ch
 botben.ch
+botberater.ch
 botberry.ch
 botbol.ch
 botbox.ch
@@ -14289,6 +14285,7 @@ botverse.ch
 botwerk.ch
 botwerkstatt.ch
 botwise.ch
+botwissen.ch
 botwizard.ch
 botxnext.ch
 boty.ch
@@ -16048,7 +16045,6 @@ boutiquefarfalla.ch
 boutiquefarmstyle.ch
 boutiquefbo.ch
 boutiquefeerique.ch
-boutiquefeusi.ch
 boutiquefitness.ch
 boutiquefloral.ch
 boutiqueforever.ch
