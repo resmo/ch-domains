@@ -2068,6 +2068,7 @@ event-manager.ch
 event-managers.ch
 event-manufaktur.ch
 event-map.ch
+event-markt.ch
 event-master.ch
 event-masters.ch
 event-material-miete.ch
@@ -2239,7 +2240,6 @@ event-tech.ch
 event-technics.ch
 event-technik.ch
 event-techniker.ch
-event-teufel.ch
 event-that.ch
 event-ticket.ch
 event-ticketing.ch
@@ -3786,10 +3786,8 @@ eventteppich.ch
 eventteppiche.ch
 eventteppichservice.ch
 eventtermine.ch
-eventteufel.ch
 eventthat.ch
 eventthingzh.ch
-eventthinking.ch
 eventthurgau.ch
 eventticket.ch
 eventticketing.ch

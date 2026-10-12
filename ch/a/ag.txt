@@ -75,7 +75,6 @@ ag-help.ch
 ag-holzbau.ch
 ag-home-building.ch
 ag-horse.ch
-ag-ht.ch
 ag-hunzenschwil.ch
 ag-ict.ch
 ag-immo.ch
@@ -1319,7 +1318,6 @@ agenceimmobilierenyon.ch
 agenceimmobiliereonex.ch
 agenceimmobiliererolle.ch
 agenceimmobiliereversoix.ch
-agenceimmofid.ch
 agenceimmoplo.ch
 agenceimo.ch
 agenceimoobilierelancy.ch
@@ -1406,7 +1404,6 @@ agencenow.ch
 agencenumerique.ch
 agenceoctopus.ch
 agenceodoo.ch
-agenceoh.ch
 agenceone.ch
 agenceourse.ch
 agencepanama.ch
@@ -1574,7 +1571,6 @@ agencyia.ch
 agencyinyourpocket.ch
 agencyjobs.ch
 agencylife.ch
-agencymastery.ch
 agencynetwork.ch
 agencyofkaos.ch
 agencyoftheyear.ch
@@ -1639,6 +1635,7 @@ agenda-pros.ch
 agenda-quaresimale.ch
 agenda-ra.ch
 agenda-riviera.ch
+agenda-romand.ch
 agenda-romandie.ch
 agenda-sion.ch
 agenda-social.ch
@@ -2378,10 +2375,8 @@ agenturc.ch
 agenturcheck24.ch
 agenturchur.ch
 agenturclaudiahaas.ch
-agenturcoach.ch
 agenturcoaching.ch
 agenturcockpit.ch
-agenturconcept.ch
 agenturdahlmann.ch
 agenturdanielaschneider.ch
 agenturderzukunft.ch
