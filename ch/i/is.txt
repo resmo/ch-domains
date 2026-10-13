@@ -2656,6 +2656,7 @@ iso-stroh.ch
 iso-suisse-construction.ch
 iso-swiss.ch
 iso-swisstechnick.ch
+iso-swisstechnik.ch
 iso-system.ch
 iso-tec.ch
 iso-technik-ef.ch
@@ -2724,6 +2725,7 @@ iso9606.ch
 isoagency.ch
 isoair.ch
 isoalliance.ch
+isoani.ch
 isoannualmeeting.ch
 isoarc.ch
 isoardi.ch
@@ -4282,7 +4284,6 @@ isv-vereint.ch
 isv-verlag.ch
 isv-zentralschweiz.ch
 isv.ch
-isva.ch
 isvara.ch
 isvb.ch
 isvc.ch

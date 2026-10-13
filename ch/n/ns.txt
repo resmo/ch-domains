@@ -3749,6 +3749,7 @@ ns1.vivanet.ch
 ns1.vix.ch
 ns1.voem.ch
 ns1.voicelan.ch
+ns1.volkinet.ch
 ns1.volleyuntervaz.ch
 ns1.vom-hof.ch
 ns1.vomhof.ch
@@ -7000,6 +7001,7 @@ ns2.vivanet.ch
 ns2.vix.ch
 ns2.voem.ch
 ns2.voicelan.ch
+ns2.volkinet.ch
 ns2.volleyuntervaz.ch
 ns2.vom-hof.ch
 ns2.vomhof.ch
@@ -7345,7 +7347,6 @@ ns3.bensolution.ch
 ns3.bergerhome.ch
 ns3.bergnetz.ch
 ns3.bergtouren.ch
-ns3.bestsear.ch
 ns3.bettens.ch
 ns3.bger.ch
 ns3.biehler-stiftungen.ch

@@ -1646,7 +1646,6 @@ zueri.ch
 zueri1.ch
 zueri11.ch
 zueri2.ch
-zueri24.ch
 zueri24h.ch
 zueri4.ch
 zueri50.ch
@@ -1676,8 +1675,6 @@ zueribeize.ch
 zueriberg-psychotherapie.ch
 zueriberg.ch
 zueriberg24.ch
-zueriberggymis.ch
-zueriberggymnasien.ch
 zueriberglutz.ch
 zueribeton.ch
 zueribetta.ch
@@ -2227,8 +2224,6 @@ zuerichbaut.ch
 zuerichbazar.ch
 zuerichbeerweek.ch
 zuerichberg.ch
-zuerichberggymis.ch
-zuerichberggymnasien.ch
 zuerichbergtreuhand.ch
 zuerichbergverlag.ch
 zuerichberuf.ch
@@ -2453,6 +2448,7 @@ zuerichperinatal.ch
 zuerichpets.ch
 zuerichpflege.ch
 zuerichpflegezuhause.ch
+zuerichphotoslam.ch
 zuerichphysio.ch
 zuerichphysiotherapie.ch
 zuerichpilates.ch
@@ -2603,6 +2599,7 @@ zuerichsolarium.ch
 zuerichsollleuchten.ch
 zuerichsound.ch
 zuerichspirit.ch
+zuerichspitex.ch
 zuerichspots.ch
 zuerichsquash.ch
 zuerichstadtfuehrungen.ch
@@ -3507,6 +3504,7 @@ zugastimwald.ch
 zugathome.ch
 zugatomics.ch
 zugaugen.ch
+zugautoexport.ch
 zugautomobile.ch
 zugbadge.ch
 zugbadges.ch
@@ -3766,6 +3764,7 @@ zugerchriesisturm.ch
 zugerchriesiwurst.ch
 zugercloud.ch
 zugerco.ch
+zugercoffeesessions.ch
 zugercoin.ch
 zugerdialog.ch
 zugerdogbakery.ch
@@ -4636,6 +4635,7 @@ zukunftarbon.ch
 zukunftarchitekten.ch
 zukunftatelier.ch
 zukunftb.ch
+zukunftbadireiden.ch
 zukunftbahnhof.ch
 zukunftbahnhofbern.ch
 zukunftbanking.ch
@@ -4961,6 +4961,7 @@ zukunftspreis.ch
 zukunftsprognose.ch
 zukunftsprognosen.ch
 zukunftsprozess.ch
+zukunftspuls.ch
 zukunftsquartier.ch
 zukunftsradar.ch
 zukunftsradio.ch
@@ -6180,6 +6181,7 @@ zunker-neuro.ch
 zunkunfts-weine.ch
 zuno-babytracker.ch
 zuno-chats.ch
+zuno-montage.ch
 zuno.ch
 zunox.ch
 zunrz.ch
@@ -6429,13 +6431,11 @@ zurbuchen-baugeschaeft.ch
 zurbuchen-bodenschutz.ch
 zurbuchen-coaching.ch
 zurbuchen-consulting.ch
-zurbuchen-fenetres.ch
 zurbuchen-geigen.ch
 zurbuchen-holzbau.ch
 zurbuchen-immo.ch
 zurbuchen-r.ch
 zurbuchen-rohrreinigung.ch
-zurbuchen-sa.ch
 zurbuchen-sarl.ch
 zurbuchen-transporte.ch
 zurbuchen-unterseen.ch
@@ -6848,6 +6848,7 @@ zurich-offices.ch
 zurich-one.ch
 zurich-online.ch
 zurich-openair.ch
+zurich-pandacola.ch
 zurich-paralanguage.ch
 zurich-parcoursvita.ch
 zurich-parking.ch

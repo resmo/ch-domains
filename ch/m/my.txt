@@ -606,7 +606,6 @@ my-expo-martigny.ch
 my-expo.ch
 my-expomartigny.ch
 my-exterieur.ch
-my-exterieur2.ch
 my-eye.ch
 my-eyes.ch
 my-face.ch
@@ -1100,6 +1099,7 @@ my-management.ch
 my-manser.ch
 my-mantrailing.ch
 my-manufacture.ch
+my-march.ch
 my-market.ch
 my-marketplace.ch
 my-mart.ch
@@ -4244,6 +4244,7 @@ mycsgo.ch
 mycss.ch
 mycsvr.ch
 myctfo.ch
+mycto.ch
 mycts.ch
 mycubes.ch
 mycubile.ch
@@ -4397,7 +4398,6 @@ mydear.ch
 mydebitcard.ch
 mydebitors.ch
 mydebt.ch
-mydebts.ch
 mydebut.ch
 mydecanto.ch
 mydecathlon.ch
@@ -5837,6 +5837,7 @@ mygold.ch
 mygoldbachneo.ch
 mygoldberry.ch
 mygolden.ch
+mygoldgroup.ch
 mygoldi.ch
 mygoldpunkt.ch
 mygolf-card.ch
@@ -6061,6 +6062,7 @@ myhandy.ch
 myhandycash.ch
 myhandyman.ch
 myhandyplus.ch
+myhanfi.ch
 myhangar.ch
 myhansesun.ch
 myhappening.ch
@@ -6617,7 +6619,6 @@ myinnerdharma.ch
 myinnerfire.ch
 myinnerpower.ch
 myinnershift.ch
-myinnervoice.ch
 myinnova.ch
 myinnovation.ch
 myinnovationlab.ch
@@ -6683,7 +6684,6 @@ myipcom.ch
 myiphone.ch
 myiptv.ch
 myiptvsuisse.ch
-myiq.ch
 myiqos.ch
 myiris.ch
 myirishhome.ch
@@ -6719,7 +6719,6 @@ myitsmove.ch
 myitsupport.ch
 myivcevidensia.ch
 myivf.ch
-myiwc.ch
 myiyo.ch
 myizp.ch
 myj.ch
@@ -6938,7 +6937,6 @@ mykmubtn.ch
 mykmucheck.ch
 mykmufriends.ch
 mykmuoffice.ch
-mykmuschweiz.ch
 mykmutreuhand.ch
 myknechtschaft.ch
 myknee.ch
@@ -7731,6 +7729,7 @@ mymap.ch
 mymaps.ch
 mymarathon.ch
 mymarbella.ch
+mymarch.ch
 mymarihuana.ch
 mymarina.ch
 mymarini.ch
@@ -9711,6 +9710,7 @@ myrephone.ch
 myreport.ch
 myreports.ch
 myrepose.ch
+myres.ch
 myresear.ch
 myresearch.ch
 myreservation.ch
@@ -10053,6 +10053,7 @@ myrust.ch
 myrv7.ch
 myrvetebeauty.ch
 myrx.ch
+mys-aemmital-reloaded.ch
 mys.ch
 mysa-home.ch
 mysa.ch
@@ -10388,6 +10389,7 @@ myshirtstore.ch
 myshit.ch
 myshk.ch
 myshoe.ch
+myshoeplus.ch
 myshoes.ch
 myshona.ch
 myshooting.ch
@@ -10541,7 +10543,6 @@ myslip.ch
 myslm.ch
 myslot.ch
 myslots.ch
-myslpolska-gva.ch
 mysm.ch
 mysm365.ch
 mysmail.ch
@@ -11566,7 +11567,6 @@ myswissventure.ch
 myswissvet.ch
 myswissveto.ch
 myswissvisa.ch
-myswisswallet24.ch
 myswisswatch.ch
 myswissway.ch
 myswissweb.ch
@@ -11984,6 +11984,7 @@ mythosmekong.ch
 mythosolivenoel.ch
 mythosproduction.ch
 mythoswein.ch
+mythoswin.ch
 mythoszuerich.ch
 mythra.ch
 mythril.ch
@@ -12692,12 +12693,10 @@ mywe.ch
 mywealth.ch
 mywealthcoach.ch
 mywealthcompliance.ch
-mywealthconsulting.ch
 mywealthfortress.ch
 mywealthmanager.ch
 mywealthplan.ch
 mywealthsolutions.ch
-mywealthtech.ch
 myweap.ch
 myweapons.ch
 mywear.ch
@@ -12973,7 +12972,9 @@ myz-services.ch
 myz.ch
 myza.ch
 myzag.ch
+myzahnarzt.ch
 myzahnarztangs.ch
+myzahnarztvolketswil.ch
 myzahnspange.ch
 myzahntechnik.ch
 myzaiterservice.ch
