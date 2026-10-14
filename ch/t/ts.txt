@@ -5,6 +5,7 @@ ts-ag.ch
 ts-alu.ch
 ts-ar.ch
 ts-architektur.ch
+ts-automation.ch
 ts-avaris.ch
 ts-bauleitung.ch
 ts-beratung-coaching.ch
@@ -29,6 +30,7 @@ ts-electronics.ch
 ts-elektro.ch
 ts-elektroag.ch
 ts-elektrokontrollen.ch
+ts-engineering.ch
 ts-events.ch
 ts-fabrikate-beratung.ch
 ts-factory.ch
@@ -118,6 +120,7 @@ ts-solaire.ch
 ts-sparta.ch
 ts-stanna.ch
 ts-steel.ch
+ts-steuert.ch
 ts-storenservice.ch
 ts-surselva.ch
 ts-swiss-immo.ch

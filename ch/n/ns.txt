@@ -861,7 +861,6 @@ ns1.anwesend.ch
 ns1.anycastdns.ch
 ns1.ap-soft.ch
 ns1.apclick.ch
-ns1.apgsga.ch
 ns1.aplusagentur.ch
 ns1.apm-group.ch
 ns1.applicare.ch
@@ -1137,7 +1136,6 @@ ns1.bw-solutions.ch
 ns1.bwcloud.ch
 ns1.bwenri.ch
 ns1.byebyehotelmama.ch
-ns1.byeight.ch
 ns1.bysite.ch
 ns1.bysteph1969.ch
 ns1.bytefarm.ch
@@ -1679,6 +1677,7 @@ ns1.fairnet.ch
 ns1.fairvision.ch
 ns1.fairytales.ch
 ns1.falcohost.ch
+ns1.famhahn.ch
 ns1.familiezingg.ch
 ns1.famille-arm.ch
 ns1.fantasticservices.ch
@@ -1961,6 +1960,7 @@ ns1.hello-it.ch
 ns1.help-point.ch
 ns1.help144.ch
 ns1.helsana.ch
+ns1.helvamail.ch
 ns1.helvetiprint3d.ch
 ns1.helvitiprint3d.ch
 ns1.henryw.ch
@@ -2139,7 +2139,6 @@ ns1.inprocom.ch
 ns1.inprodicon.ch
 ns1.insel.ch
 ns1.inseratedispo.ch
-ns1.inseratex.ch
 ns1.institut-la-vallee.ch
 ns1.insval.ch
 ns1.insyma.ch
@@ -2207,7 +2206,6 @@ ns1.itgarage.ch
 ns1.itguys.ch
 ns1.itivity.ch
 ns1.itkb.ch
-ns1.itoa.ch
 ns1.itprime.ch
 ns1.itrain.ch
 ns1.itresolver.ch
@@ -2545,6 +2543,7 @@ ns1.meineinternetseite.ch
 ns1.melowerbung.ch
 ns1.memhost1.ch
 ns1.mensi.ch
+ns1.menspowerumzug.ch
 ns1.merak2.ch
 ns1.merkisoft.ch
 ns1.messer-scheren.ch
@@ -3706,6 +3705,7 @@ ns1.usi.ch
 ns1.usz.ch
 ns1.ut99.ch
 ns1.uzh.ch
+ns1.v-comp.ch
 ns1.vacc.ch
 ns1.valdenburg.ch
 ns1.valdraus.ch
@@ -4216,7 +4216,6 @@ ns2.anwesend.ch
 ns2.anycastdns.ch
 ns2.ap-soft.ch
 ns2.apclick.ch
-ns2.apgsga.ch
 ns2.aplusagentur.ch
 ns2.apm-group.ch
 ns2.apps724.ch
@@ -4485,7 +4484,6 @@ ns2.bw-solutions.ch
 ns2.bwcloud.ch
 ns2.bwenri.ch
 ns2.byebyehotelmama.ch
-ns2.byeight.ch
 ns2.bysite.ch
 ns2.bysteph1969.ch
 ns2.bytefarm.ch
@@ -5010,6 +5008,7 @@ ns2.fairnet.ch
 ns2.fairvision.ch
 ns2.fairytales.ch
 ns2.falcohost.ch
+ns2.famhahn.ch
 ns2.familiezingg.ch
 ns2.famille-arm.ch
 ns2.familleoggier.ch
@@ -5280,6 +5279,7 @@ ns2.hello-it.ch
 ns2.help-point.ch
 ns2.help144.ch
 ns2.helsana.ch
+ns2.helvamail.ch
 ns2.helvetiprint3d.ch
 ns2.helvitiprint3d.ch
 ns2.henryw.ch
@@ -5455,7 +5455,6 @@ ns2.inprocom.ch
 ns2.inprodicon.ch
 ns2.insel.ch
 ns2.inseratedispo.ch
-ns2.inseratex.ch
 ns2.institut-la-vallee.ch
 ns2.insval.ch
 ns2.insyma.ch
@@ -5520,7 +5519,6 @@ ns2.itexacloud.ch
 ns2.itguys.ch
 ns2.itivity.ch
 ns2.itkb.ch
-ns2.itoa.ch
 ns2.itprime.ch
 ns2.itrain.ch
 ns2.itresolver.ch
@@ -5845,6 +5843,7 @@ ns2.meineinternetseite.ch
 ns2.melowerbung.ch
 ns2.memhost1.ch
 ns2.mensi.ch
+ns2.menspowerumzug.ch
 ns2.merak2.ch
 ns2.messer-scheren.ch
 ns2.metrohmcomtest.ch
@@ -6960,6 +6959,7 @@ ns2.usi.ch
 ns2.usz.ch
 ns2.ut99.ch
 ns2.uzh.ch
+ns2.v-comp.ch
 ns2.vacc.ch
 ns2.valdenburg.ch
 ns2.valentin-wine.ch

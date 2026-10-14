@@ -3982,11 +3982,8 @@ centre-horloger.ch
 centre-hortensia.ch
 centre-hospitalier-bienne.ch
 centre-humanitarian-dialogue.ch
-centre-hypnose-geneve.ch
 centre-hypnose-lausanne.ch
 centre-hypnose-romand.ch
-centre-hypnose-suisse.ch
-centre-hypnose-vaud.ch
 centre-hypnose.ch
 centre-ichigo-ichie.ch
 centre-im.ch
@@ -4323,8 +4320,6 @@ centredateliers.ch
 centredattention.ch
 centredebeaute.ch
 centredebienetreriviera.ch
-centredechirurgieviscerale.ch
-centredechirurgievisceralelasource.ch
 centredecompetencedangersnaturels.ch
 centredecompetencesadresses.ch
 centrededoc.ch
@@ -4355,7 +4350,6 @@ centredelile.ch
 centredelinsomnie.ch
 centredeloisirs.ch
 centredemediation.ch
-centredeneurochirurgielasource.ch
 centredent.ch
 centredentaire.ch
 centredentaireb1.ch
@@ -4432,7 +4426,6 @@ centreducolonfr.ch
 centreducolonfribourg.ch
 centredudos-fribourg.ch
 centredudos.ch
-centredudosdelasource.ch
 centredudosgeneve.ch
 centreduerrenmatt.ch
 centredufoie.ch
@@ -4445,7 +4438,6 @@ centredupied-bulle.ch
 centredupied.ch
 centredupiedfribourg.ch
 centredurgencesbienne.ch
-centredurologiedelasource.ch
 centredurologiegeneralebeaulieu.ch
 centreduseigle-valais.ch
 centredusein.ch
@@ -6078,6 +6070,7 @@ cercledetambour.ch
 cercledetudes.ch
 cercledetudescine.ch
 cercledevoix.ch
+cercledufleuron.ch
 cercledujardin.ch
 cercledujeu.ch
 cercledumarche.ch
@@ -6686,6 +6679,7 @@ certext.ch
 certextract.ch
 certezza-mdp.ch
 certfast.ch
+certflow.ch
 certgrep.ch
 certi-fedeo.ch
 certi-med.ch
