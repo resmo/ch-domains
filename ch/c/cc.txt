@@ -677,6 +677,7 @@ ccisa.ch
 ccisbf.ch
 cciscamer.ch
 cciscv.ch
+ccisd.ch
 ccisg.ch
 ccisga.ch
 ccism.ch
@@ -1135,6 +1136,7 @@ ccstandard.ch
 ccstern.ch
 ccstoos.ch
 ccstudio.ch
+ccstudios.ch
 ccsuolo.ch
 ccsupport.ch
 ccswf.ch

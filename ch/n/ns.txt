@@ -478,6 +478,7 @@ ns.unendli.ch
 ns.unheili.ch
 ns.uniqueonyx.ch
 ns.usinesmarty.ch
+ns.v-comp.ch
 ns.vable.ch
 ns.vakw.ch
 ns.valtech.ch
@@ -899,6 +900,7 @@ ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
 ns1.assetalpin.ch
+ns1.assistancepc.ch
 ns1.assistances.ch
 ns1.assistancesplus.ch
 ns1.asso-philomene.ch
@@ -1209,6 +1211,7 @@ ns1.chost.ch
 ns1.christin.ch
 ns1.chrom-box.ch
 ns1.chromaflex.ch
+ns1.chweb.ch
 ns1.ci-bedag.ch
 ns1.cic.ch
 ns1.cicitt.ch
@@ -2240,7 +2243,6 @@ ns1.jlpgestion.ch
 ns1.jmc-software.ch
 ns1.jn-demeter-renovation.ch
 ns1.jobchannel.ch
-ns1.jobflix.ch
 ns1.jocher.ch
 ns1.jogy.ch
 ns1.johngehrig.ch
@@ -2739,6 +2741,7 @@ ns1.nicliotta-hosting.ch
 ns1.nigam.ch
 ns1.nik-domain.ch
 ns1.nipponpoke.ch
+ns1.nissa.ch
 ns1.nkcd.ch
 ns1.nnet.ch
 ns1.nnv.ch
@@ -4257,6 +4260,7 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
+ns2.assistancepc.ch
 ns2.assistances.ch
 ns2.assistancesplus.ch
 ns2.asso-philomene.ch
@@ -4557,6 +4561,7 @@ ns2.chrom-box.ch
 ns2.chromaflex.ch
 ns2.chroot.ch
 ns2.chuchi-saeuliamt.ch
+ns2.chweb.ch
 ns2.ci-bedag.ch
 ns2.cic.ch
 ns2.cicitt.ch
@@ -5554,7 +5559,6 @@ ns2.jlpgestion.ch
 ns2.jmc-software.ch
 ns2.jn-demeter-renovation.ch
 ns2.jobchannel.ch
-ns2.jobflix.ch
 ns2.jogy.ch
 ns2.johngehrig.ch
 ns2.jokpictures.ch
@@ -6017,6 +6021,7 @@ ns2.nfcinside.ch
 ns2.nicliotta-hosting.ch
 ns2.nik-domain.ch
 ns2.nipponpoke.ch
+ns2.nissa.ch
 ns2.nkcd.ch
 ns2.nnet.ch
 ns2.nnv.ch
@@ -7315,6 +7320,7 @@ ns3.artugo.ch
 ns3.as2.ch
 ns3.asebo.ch
 ns3.askben.ch
+ns3.assistancepc.ch
 ns3.asstra.ch
 ns3.aurafilm.ch
 ns3.auroranet.ch

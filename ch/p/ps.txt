@@ -620,7 +620,6 @@ psbshop.ch
 psbuchs.ch
 psbuchsi.ch
 psbuchter.ch
-psbuechberg.ch
 psbueren.ch
 psbulle.ch
 psc-ag.ch
@@ -1792,7 +1791,6 @@ psy-kick.ch
 psy-kids.ch
 psy-kiju.ch
 psy-kruppa.ch
-psy-kuechler.ch
 psy-la-cote.ch
 psy-la.ch
 psy-lacote.ch
@@ -2088,6 +2086,7 @@ psychiatre-enfants-et-adolescents.ch
 psychiatre-fribourg.ch
 psychiatre-gasser-hoti.ch
 psychiatre-geneve.ch
+psychiatre-independant.ch
 psychiatre-nyon.ch
 psychiatre-psychotherapeute-fribourg.ch
 psychiatre-vaud.ch
@@ -2944,6 +2943,7 @@ psychologue-geneve.ch
 psychologue-gertsch.ch
 psychologue-gestalt.ch
 psychologue-golay.ch
+psychologue-independant.ch
 psychologue-lausanne.ch
 psychologue-martigny.ch
 psychologue-mediateur.ch
@@ -3389,6 +3389,7 @@ psychotherapie-chiastra.ch
 psychotherapie-chur.ch
 psychotherapie-cina.ch
 psychotherapie-clara7.ch
+psychotherapie-claudia-metzger.ch
 psychotherapie-claudia-schildknecht.ch
 psychotherapie-claudia-winkler.ch
 psychotherapie-claus.ch
