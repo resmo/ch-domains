@@ -51,6 +51,8 @@ ns-edition.ch
 ns-elektro.ch
 ns-etancheite-fribourg.ch
 ns-firestop.ch
+ns-fra.ymc.ch
+ns-gva.ymc.ch
 ns-hamilton.ch
 ns-haustechnik.ch
 ns-hightech.ch
@@ -96,6 +98,7 @@ ns-t.ch
 ns-ti.ch
 ns-training.ch
 ns-weeber.ch
+ns-zrh.ymc.ch
 ns.0daysober.ch
 ns.3dsupplies.ch
 ns.4mybaby-blog.ch
@@ -503,7 +506,6 @@ ns.wuwang.ch
 ns.wyna.ch
 ns.xirrus.ch
 ns.xmc.ch
-ns.ymc.ch
 ns.yogaonline.ch
 ns.zahnarztmuenchenstein.ch
 ns.zem-emc.ch
@@ -1249,7 +1251,6 @@ ns1.cloudnode.ch
 ns1.cloudscale.ch
 ns1.cloudstudios.ch
 ns1.cloudwalkers.ch
-ns1.clubmailer.ch
 ns1.cmdlc.ch
 ns1.cmshost.ch
 ns1.cmsonline.ch
@@ -1559,7 +1560,6 @@ ns1.easy-com.ch
 ns1.easy-develope.ch
 ns1.easyaid.ch
 ns1.easydnssec.ch
-ns1.easykorean.ch
 ns1.easysystems.ch
 ns1.easytux.ch
 ns1.eatorder.ch
@@ -3192,7 +3192,6 @@ ns1.ruckzuck-design.ch
 ns1.rudolflemcke.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
-ns1.rvha.ch
 ns1.rxr.ch
 ns1.s-informatik.ch
 ns1.s-mi.ch
@@ -3724,6 +3723,7 @@ ns1.verabredung.ch
 ns1.verapet.ch
 ns1.vereinshosting.ch
 ns1.verges.ch
+ns1.verifdoc.ch
 ns1.vertis.ch
 ns1.verveweb.ch
 ns1.verzeichnisdienst.ch
@@ -3806,7 +3806,6 @@ ns1.web4swiss.ch
 ns1.web600.ch
 ns1.webagentur-website4u.ch
 ns1.webauftritt.ch
-ns1.webautomation.ch
 ns1.webbooster.ch
 ns1.webcan.ch
 ns1.webcare.ch
@@ -4599,7 +4598,6 @@ ns2.cloudox.ch
 ns2.cloudscale.ch
 ns2.cloudstudios.ch
 ns2.cloudwalkers.ch
-ns2.clubmailer.ch
 ns2.cluster3.ch
 ns2.clweb.ch
 ns2.cmb.ch
@@ -4891,7 +4889,6 @@ ns2.eassets.ch
 ns2.easy-develope.ch
 ns2.easyaid.ch
 ns2.easydnssec.ch
-ns2.easykorean.ch
 ns2.easysystems.ch
 ns2.easytux.ch
 ns2.eatorder.ch
@@ -6449,7 +6446,6 @@ ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
 ns2.rudolflemcke.ch
 ns2.rundb.ch
-ns2.rvha.ch
 ns2.rxr.ch
 ns2.s-informatik.ch
 ns2.s-mi.ch
@@ -6978,6 +6974,7 @@ ns2.verabredung.ch
 ns2.verapet.ch
 ns2.vereinshosting.ch
 ns2.verges.ch
+ns2.verifdoc.ch
 ns2.vertis.ch
 ns2.verveweb.ch
 ns2.verzeichnisdienst.ch
@@ -7057,7 +7054,6 @@ ns2.web4swiss.ch
 ns2.web600.ch
 ns2.webagentur-website4u.ch
 ns2.webauftritt.ch
-ns2.webautomation.ch
 ns2.webbooster.ch
 ns2.webcan.ch
 ns2.webcare.ch
@@ -7686,7 +7682,6 @@ ns3.maebi.ch
 ns3.mainbase.ch
 ns3.makats.ch
 ns3.malermolinari.ch
-ns3.managededv.ch
 ns3.manarasoft.ch
 ns3.manuelfritschi.ch
 ns3.masterhomepage.ch

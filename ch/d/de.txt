@@ -307,6 +307,7 @@ de-wild.ch
 de-zaak.ch
 de-zytiga.ch
 de1.martronic.ch
+de10.ch
 de2sign.ch
 de5erundsweggli.ch
 dea-and-martin-day.ch
@@ -1074,7 +1075,6 @@ debarras-bern.ch
 debarras-brocante.ch
 debarras-bulle.ch
 debarras-chantier.ch
-debarras-cuisine.ch
 debarras-david.ch
 debarras-demenagement-fribourg.ch
 debarras-diogene.ch
@@ -3366,6 +3366,8 @@ dedani.ch
 dedano.ch
 dedapittura.ch
 dedardel.ch
+dedaria-clean.ch
+dedaria.ch
 dedaswiss.ch
 dedato.ch
 dedda.ch
@@ -3875,6 +3877,7 @@ deepfake.ch
 deepfakecheck.ch
 deepfakes.ch
 deepfall.ch
+deepfilmproduction.ch
 deepfilms.ch
 deepfin.ch
 deepfinance.ch
@@ -4078,6 +4081,7 @@ deepsession.ch
 deepsexysoulhouse.ch
 deepsheep.ch
 deepsheets.ch
+deepshelf.ch
 deepshift.ch
 deepshoot.ch
 deepsign.ch
@@ -8047,6 +8051,7 @@ dekimo.ch
 dekker.ch
 dekkers.ch
 dekko.ch
+dekla.ch
 deklara.ch
 deklaration.ch
 deklarationen.ch
@@ -10869,6 +10874,7 @@ deltify.ch
 deltigroup.ch
 deltima.ch
 deltix.ch
+deltizio.ch
 delto.ch
 deltoid.ch
 delton.ch
@@ -12169,7 +12175,6 @@ demo-salvia.ch
 demo-schulen.ch
 demo-securosys.ch
 demo-server.ch
-demo-shop.ch
 demo-site.ch
 demo-soft-gestion.ch
 demo-solutions.ch
@@ -13268,6 +13273,7 @@ denk3a.ch
 denka-lift.ch
 denka.ch
 denkallmend.ch
+denkanders.ch
 denkandich.ch
 denkaneuch.ch
 denkanfred.ch
@@ -13488,6 +13494,7 @@ denkraum-eigenart.ch
 denkraum-gymnasium.ch
 denkraum-natur.ch
 denkraum-ow.ch
+denkraum-pflege.ch
 denkraum-schweiz.ch
 denkraum-zurich.ch
 denkraumcoaching.ch
@@ -13690,6 +13697,7 @@ denniskeiser-disteli.ch
 dennislenhardt.ch
 dennislueck.ch
 dennismarbacher.ch
+dennismesserli.ch
 dennismiceli.ch
 dennismoya.ch
 dennismuenger.ch
@@ -14093,7 +14101,6 @@ dental-stein.ch
 dental-stelle.ch
 dental-stellenmarkt.ch
 dental-studio.ch
-dental-style.ch
 dental-systems.ch
 dental-team-bern.ch
 dental-team.ch
@@ -14629,7 +14636,6 @@ dentalstellenmarkt.ch
 dentalstock.ch
 dentalstudents.ch
 dentalstudio-zh.ch
-dentalstyle.ch
 dentalsuccess.ch
 dentalsuisselocarno.ch
 dentalsuisselocarno2.ch
@@ -15677,7 +15683,6 @@ depannage-a-distance.ch
 depannage-abc.ch
 depannage-aleauplombier.ch
 depannage-are-electromenager.ch
-depannage-autos.ch
 depannage-canalisation.ch
 depannage-canalisations.ch
 depannage-carouge.ch
@@ -15687,6 +15692,7 @@ depannage-electricien.ch
 depannage-electrique-geneve.ch
 depannage-electrique-lausanne.ch
 depannage-electrique.ch
+depannage-electrique365.ch
 depannage-electromenager-geneve.ch
 depannage-electromenager-simonin.ch
 depannage-electronique.ch
@@ -15910,6 +15916,8 @@ depaola.ch
 depaoli.ch
 depaolis.ch
 depaolismeccanica.ch
+depaperasse.ch
+depaperasser.ch
 depara.ch
 deparade.ch
 depardo.ch
@@ -18490,6 +18498,7 @@ derkoordinator.ch
 derkopflosereiter.ch
 derkoran.ch
 derkorrespondent.ch
+derkraeuterladen.ch
 derkraftort-wasserfluh.ch
 derkranich-rg.ch
 derkranich.ch
@@ -19554,7 +19563,6 @@ dernier.ch
 derniere-empreinte.ch
 derniere-tangente.ch
 derniere.ch
-dernierefois.ch
 dernieretage.ch
 dernierkilometre.ch
 dernierkm.ch
@@ -20015,7 +20023,6 @@ dersternenwanderer.ch
 dersteuerbassmann.ch
 dersteuerberater.ch
 dersteuererklaerer.ch
-dersteuerexperte.ch
 dersteuerfuchs.ch
 dersteuerguide.ch
 dersteueronkel.ch
@@ -20668,7 +20675,6 @@ describepfdpatch.ch
 descript.ch
 descripteur.ch
 descriptor.ch
-descry.ch
 descubrehonduras.ch
 descubriendoelmundo.ch
 descubris.ch
@@ -23651,7 +23657,6 @@ detailxauto.ch
 detailxone.ch
 detaily.ch
 detailyourcar.ch
-detailzauberfotografie.ch
 detailzone.ch
 detalentsearch.ch
 detalix.ch
@@ -23697,6 +23702,7 @@ detechnik.ch
 detechtermann.ch
 detecmed.ch
 detecon.ch
+detecore.ch
 detecpro.ch
 detect-f.ch
 detect-stabilize-control.ch
@@ -24798,7 +24804,6 @@ dev-diemeister.ch
 dev-dojo.ch
 dev-dolce-restaurant.ch
 dev-domain.ch
-dev-dragon-import.ch
 dev-dt.ch
 dev-dualoo.ch
 dev-duig.ch

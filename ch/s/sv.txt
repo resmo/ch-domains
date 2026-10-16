@@ -253,7 +253,6 @@ sva-kiosque.ch
 sva-lehrstellen.ch
 sva-nw.ch
 sva-praxisarena.ch
-sva-sandbox.ch
 sva-schwyz.ch
 sva-sg.ch
 sva-so.ch
@@ -1819,6 +1818,7 @@ svote.ch
 svov.ch
 svow.ch
 svox.ch
+svoya.ch
 svp-6440.ch
 svp-aarau.ch
 svp-aarberg.ch
@@ -2709,7 +2709,6 @@ svpwangen.ch
 svpwangenbo.ch
 svpweinfelden.ch
 svpweisslingen.ch
-svpwiki.ch
 svpwil.ch
 svpwind.ch
 svpwinterthur.ch

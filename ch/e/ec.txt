@@ -604,6 +604,7 @@ echafaudages-martigny.ch
 echafaudages-monthey.ch
 echafaudages-montreux.ch
 echafaudages-moudon.ch
+echafaudages-nyon.ch
 echafaudages-qerimaj.ch
 echafaudages-ramsauer.ch
 echafaudages-romandie.ch
@@ -976,6 +977,7 @@ echoducreux-du-van.ch
 echoduglebe.ch
 echodujorat.ch
 echodulac.ch
+echodumauremont.ch
 echodumont.ch
 echodumontbrun.ch
 echodurawyl.ch
@@ -2039,7 +2041,6 @@ eco-bat.ch
 eco-batsa.ch
 eco-bau-group.ch
 eco-bau.ch
-eco-baumarkt.ch
 eco-baushop.ch
 eco-bautec.ch
 eco-bestatter.ch
@@ -2204,7 +2205,6 @@ eco-gruppe.ch
 eco-habitat-sarl.ch
 eco-handel.ch
 eco-haus.ch
-eco-health.ch
 eco-heat.ch
 eco-heater.ch
 eco-heizanlagen.ch
@@ -5085,9 +5085,7 @@ ecoplaquettes.ch
 ecoplast.ch
 ecoplastics.ch
 ecoplate.ch
-ecoplay.ch
 ecoplaza.ch
-ecoplug-energie.ch
 ecoplug.ch
 ecoplugs.ch
 ecoplus-ag.ch
