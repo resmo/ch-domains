@@ -1203,7 +1203,6 @@ ns1.chaoswit.ch
 ns1.chdns.ch
 ns1.cherpines-autrement.ch
 ns1.chevalnaturel.ch
-ns1.chewbacca.ch
 ns1.chicobana.ch
 ns1.chilibi.ch
 ns1.chipik.ch
@@ -1729,6 +1728,7 @@ ns1.firemeet.ch
 ns1.firevibe.ch
 ns1.fischereiarm.ch
 ns1.fisharm.ch
+ns1.fisherpayroll.ch
 ns1.fishnfun.ch
 ns1.fistat.ch
 ns1.fitimschritt.ch
@@ -2120,7 +2120,6 @@ ns1.infinity.ch
 ns1.infinityweb.ch
 ns1.infolibre.ch
 ns1.infomaniak.ch
-ns1.infomanika.ch
 ns1.infonaute.ch
 ns1.infopage.ch
 ns1.informatics.ch
@@ -3376,6 +3375,7 @@ ns1.slf.ch
 ns1.slueoend.ch
 ns1.sly.ch
 ns1.smart-staging.ch
+ns1.smartfenster.ch
 ns1.smartmoneymatch.ch
 ns1.smgi.ch
 ns1.smilla.ch
@@ -3425,7 +3425,6 @@ ns1.sscloud.ch
 ns1.stabilionet.ch
 ns1.stadtundland.ch
 ns1.staempfli.ch
-ns1.staempfliserver.ch
 ns1.stafin.ch
 ns1.stagecolor.ch
 ns1.stageone.ch
@@ -4550,7 +4549,6 @@ ns2.chaoswit.ch
 ns2.chdns.ch
 ns2.cherpines-autrement.ch
 ns2.chevalnaturel.ch
-ns2.chewbacca.ch
 ns2.chicobana.ch
 ns2.chlaw.ch
 ns2.chlotz.ch
@@ -5055,6 +5053,7 @@ ns2.firemeet.ch
 ns2.firevibe.ch
 ns2.fischereiarm.ch
 ns2.fisharm.ch
+ns2.fisherpayroll.ch
 ns2.fistat.ch
 ns2.fitimschritt.ch
 ns2.fiveinfo.ch
@@ -5437,7 +5436,6 @@ ns2.infinity.ch
 ns2.infinityweb.ch
 ns2.infolibre.ch
 ns2.infomaniak.ch
-ns2.infomanika.ch
 ns2.infonaute.ch
 ns2.infopage.ch
 ns2.informatics.ch
@@ -6681,7 +6679,6 @@ ns2.sry-myls.ch
 ns2.sscloud.ch
 ns2.stabilionet.ch
 ns2.stadtundland.ch
-ns2.staempfliserver.ch
 ns2.stafin.ch
 ns2.stagecolor.ch
 ns2.stageone.ch
@@ -7505,6 +7502,7 @@ ns3.fantasticservices.ch
 ns3.fcz.ch
 ns3.fiduciaire-du-mont-blanc.ch
 ns3.fima-hosting.ch
+ns3.finalbit.ch
 ns3.finalfrontier.ch
 ns3.finarea.ch
 ns3.firba.ch
@@ -8133,6 +8131,7 @@ ns4.evok.ch
 ns4.ezns.ch
 ns4.fabioforni.ch
 ns4.fiduciaire-du-mont-blanc.ch
+ns4.finalbit.ch
 ns4.firba.ch
 ns4.fiveinfo.ch
 ns4.fivezone.ch
@@ -8534,7 +8533,6 @@ nscamp.ch
 nscap.ch
 nscapital.ch
 nscare.ch
-nscbetspro.ch
 nscc.ch
 nscevents.ch
 nschacherag.ch
