@@ -863,6 +863,7 @@ dsmcg.ch
 dsmdata.ch
 dsmdatasystem.ch
 dsmecanique.ch
+dsmenuiserie.ch
 dsmetal.ch
 dsmetallbau.ch
 dsmeurope.ch
@@ -1114,6 +1115,7 @@ dstconstructions.ch
 dstcontoso.ch
 dstdecap.ch
 dste.ch
+dsteam.ch
 dstec.ch
 dstech.ch
 dstechnik.ch

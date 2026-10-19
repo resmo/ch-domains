@@ -226,6 +226,7 @@ ns.excelsiordating.ch
 ns.exergy.ch
 ns.eyeswiss.ch
 ns.ezx.ch
+ns.fadenkind.ch
 ns.fairware.ch
 ns.familleoggier.ch
 ns.fanari.ch
@@ -1288,7 +1289,6 @@ ns1.compusol.ch
 ns1.computrade.ch
 ns1.comstock.ch
 ns1.comtronic.ch
-ns1.comts.ch
 ns1.conceptec.ch
 ns1.concertation-geneve.ch
 ns1.concordia-projets-sociaux.ch
@@ -2199,7 +2199,6 @@ ns1.itaca.ch
 ns1.itapps.ch
 ns1.itautomate.ch
 ns1.itc-host.ch
-ns1.itcircle.ch
 ns1.itdev.ch
 ns1.iteconomy.ch
 ns1.itexacloud.ch
@@ -2262,6 +2261,7 @@ ns1.julianails.ch
 ns1.jumedia.ch
 ns1.jvogel.ch
 ns1.jvweb.ch
+ns1.jxzqj.ch
 ns1.kaesgate.ch
 ns1.kantiso.ch
 ns1.kaplan.ch
@@ -3610,7 +3610,6 @@ ns1.tigermus.ch
 ns1.tille.ch
 ns1.tilosub.ch
 ns1.time4fun.ch
-ns1.timsi.ch
 ns1.tineonet.ch
 ns1.tintentheke.ch
 ns1.tionline.ch
@@ -4637,7 +4636,6 @@ ns2.computrade.ch
 ns2.comspirit.ch
 ns2.comstock.ch
 ns2.comtronic.ch
-ns2.comts.ch
 ns2.conceptec.ch
 ns2.concertation-geneve.ch
 ns2.concordia-projets-sociaux.ch
@@ -5511,7 +5509,6 @@ ns2.itaca.ch
 ns2.itapps.ch
 ns2.itautomate.ch
 ns2.itc-host.ch
-ns2.itcircle.ch
 ns2.itdev.ch
 ns2.iteconomy.ch
 ns2.itexacloud.ch
@@ -5573,6 +5570,7 @@ ns2.julianails.ch
 ns2.jumedia.ch
 ns2.jvogel.ch
 ns2.jvweb.ch
+ns2.jxzqj.ch
 ns2.kaesgate.ch
 ns2.kaminbau-oswald.ch
 ns2.kantiso.ch
@@ -6865,7 +6863,6 @@ ns2.tifoto.ch
 ns2.tigermus.ch
 ns2.tilosub.ch
 ns2.time4fun.ch
-ns2.timsi.ch
 ns2.tineonet.ch
 ns2.tinkercave.ch
 ns2.tintentheke.ch

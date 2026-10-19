@@ -683,7 +683,6 @@ tablesdurhone.ch
 tablesenbois.ch
 tableset.ch
 tablesflow.ch
-tableshots.ch
 tableshow.ch
 tablesmassages.ch
 tablesoccer-events.ch
@@ -780,6 +779,7 @@ tabletshop.ch
 tablett.ch
 tablette.ch
 tabletten.ch
+tablettenerkennung.ch
 tablettenhelfer.ch
 tablettensalz.ch
 tablettenschluckbar.ch
@@ -794,7 +794,7 @@ tablewine.ch
 tablework.ch
 tablex.ch
 tablexio.ch
-tabli.ch
+tablez.ch
 tablia.ch
 tablica.ch
 tablier.ch
@@ -3570,6 +3570,7 @@ taiyangsun.ch
 taiyien.ch
 taiyo.ch
 taiyo2003.ch
+taiyon.ch
 taizan.ch
 taize-solothurn.ch
 taize-ticino.ch
@@ -6285,6 +6286,7 @@ tamiya-vintage.ch
 tamiya.ch
 tamiyaclub.ch
 tamla.ch
+tamlab.ch
 tamlan.ch
 tamledergerber.ch
 tamlinmagic.ch
@@ -7481,6 +7483,7 @@ tank-anlagen.ch
 tank-bar.ch
 tank-baumann.ch
 tank-casino.ch
+tank-doc.ch
 tank-entsorgen.ch
 tank-fahrzeuge.ch
 tank-kraehenbuehl-ag.ch
@@ -9906,7 +9909,6 @@ tapis-lifting.ch
 tapis-logo.ch
 tapis-nettoyage-reparation-lausanne.ch
 tapis-nettoyage-reparation.ch
-tapis-nettoyage-restauration-frange-bordure.ch
 tapis-nettoyage-restauration-reparation-conservation.ch
 tapis-rouge.ch
 tapis-valais.ch
@@ -11509,7 +11511,6 @@ taskesen-dermatologist.ch
 taskey.ch
 taskeyro.ch
 taskfarm.ch
-taskfleet.ch
 taskflow.ch
 taskforce-flugplatz-duebendorf.ch
 taskforce-swiss.ch
@@ -11625,7 +11626,6 @@ tasmaleestudio.ch
 tasman.ch
 tasmaniantiger.ch
 tasmanic.ch
-tasmanie.ch
 tasmanien.ch
 tasmanites.ch
 tasmantours.ch
@@ -12142,6 +12142,7 @@ tastyspready.ch
 tastystates.ch
 tastysteps.ch
 tastystrike.ch
+tastystudios.ch
 tastytable.ch
 tastytake-awayrestaurant-affolternamalbis.ch
 tastyte.ch
@@ -13653,7 +13654,6 @@ tausch-immo.ch
 tausch-immobilie.ch
 tausch-konzert.ch
 tausch-land.ch
-tausch-mit-mir.ch
 tausch-mit-rausch.ch
 tausch-platz.ch
 tausch-punkt.ch
@@ -14065,6 +14065,7 @@ tavolataparlare.ch
 tavolatas-valais.ch
 tavolatas-wallis.ch
 tavolatas.ch
+tavolataschweiz.ch
 tavolatastmoritz.ch
 tavolax.ch
 tavoledifumetto.ch
@@ -14146,6 +14147,7 @@ tawb.ch
 tawe.ch
 taweb.ch
 tawego.ch
+tawera.ch
 tawhana.ch
 tawhid.ch
 tawie.ch
@@ -14167,7 +14169,6 @@ tawo.ch
 tawos.ch
 taws.ch
 tawy.ch
-tax-24.ch
 tax-25.ch
 tax-5.ch
 tax-accounting.ch
@@ -15106,7 +15107,6 @@ taxi-volt-nyon2.ch
 taxi-vom-flughafen.ch
 taxi-vouvry.ch
 taxi-vtc-ecole.ch
-taxi-vtc-nyon.ch
 taxi-vtc.ch
 taxi-wadi.ch
 taxi-waedenswil.ch
@@ -15126,6 +15126,7 @@ taxi-wyss.ch
 taxi-xpert.ch
 taxi-yasmin.ch
 taxi-yohannes.ch
+taxi-yverdon.ch
 taxi-zentrale-basel.ch
 taxi-zentrale-baselland.ch
 taxi-zentrale-kreuzlingen.ch
@@ -15216,10 +15217,8 @@ taxi5000.ch
 taxi6000.ch
 taxi624.ch
 taxi69brugg.ch
-taxi7-24.ch
 taxi7.ch
 taxi7000.ch
-taxi724.ch
 taxi7x7.ch
 taxi83.ch
 taxi921.ch
