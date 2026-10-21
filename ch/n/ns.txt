@@ -373,8 +373,6 @@ ns.pfanner-protection-group.ch
 ns.pfanner-protection.ch
 ns.philippequeloz.ch
 ns.planet-erne.ch
-ns.plans-fixes.ch
-ns.plansfixes.ch
 ns.polecommunication.ch
 ns.polyades.ch
 ns.poole.ch
@@ -755,6 +753,7 @@ ns1.acberoche.ch
 ns1.accessdenied.ch
 ns1.accommoda.ch
 ns1.acdev.ch
+ns1.acidolattico.ch
 ns1.ackle.ch
 ns1.acloud.ch
 ns1.acofunki.ch
@@ -2207,6 +2206,7 @@ ns1.itgarage.ch
 ns1.itguys.ch
 ns1.itivity.ch
 ns1.itkb.ch
+ns1.itoa.ch
 ns1.itprime.ch
 ns1.itrain.ch
 ns1.itresolver.ch
@@ -3899,7 +3899,6 @@ ns1.workvibes.ch
 ns1.world-connect.ch
 ns1.wowa-dns.ch
 ns1.wp-guru.ch
-ns1.wru.ch
 ns1.wservices.ch
 ns1.wunda.ch
 ns1.wunschpreis.ch
@@ -4110,6 +4109,7 @@ ns2.abstrakt.ch
 ns2.acberoche.ch
 ns2.accessdenied.ch
 ns2.accommoda.ch
+ns2.acidolattico.ch
 ns2.ackle.ch
 ns2.acloud.ch
 ns2.actim.ch
@@ -5517,6 +5517,7 @@ ns2.itexacloud.ch
 ns2.itguys.ch
 ns2.itivity.ch
 ns2.itkb.ch
+ns2.itoa.ch
 ns2.itprime.ch
 ns2.itrain.ch
 ns2.itresolver.ch
@@ -6212,7 +6213,6 @@ ns2.pixels-points.ch
 ns2.pizzalink.ch
 ns2.plan-f.ch
 ns2.planet.ch
-ns2.plansfixes.ch
 ns2.plants-de-fraises.ch
 ns2.planzer.ch
 ns2.platindns.ch
@@ -7138,7 +7138,6 @@ ns2.workvibes.ch
 ns2.world-connect.ch
 ns2.wowa-dns.ch
 ns2.wp-guru.ch
-ns2.wru.ch
 ns2.wsbox.ch
 ns2.wservices.ch
 ns2.wunda.ch
@@ -7268,6 +7267,7 @@ ns3.abexus.ch
 ns3.abf.ch
 ns3.abstrakt.ch
 ns3.accommoda.ch
+ns3.acidolattico.ch
 ns3.actradns.ch
 ns3.adbw.ch
 ns3.adinox.ch
@@ -8063,6 +8063,7 @@ ns4.911-motors.ch
 ns4.abcsystems.ch
 ns4.abexus.ch
 ns4.accommoda.ch
+ns4.acidolattico.ch
 ns4.ackle.ch
 ns4.actradns.ch
 ns4.afat.ch

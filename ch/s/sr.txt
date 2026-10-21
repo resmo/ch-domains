@@ -8,7 +8,6 @@ sr-artwork.ch
 sr-assistiq.ch
 sr-assurances.ch
 sr-automobiles.ch
-sr-bau.ch
 sr-beratung.ch
 sr-branding.ch
 sr-care.ch
@@ -363,6 +362,7 @@ sreng.ch
 srenger.ch
 srengineering.ch
 srenovation.ch
+srental.ch
 sreo.ch
 srep-sa.ch
 srep.ch
@@ -1040,6 +1040,7 @@ srt-europe.ch
 srt-garage.ch
 srt-immobilien.ch
 srt-racing.ch
+srt-team.ch
 srt-vps.ch
 srt.ch
 srt24.ch
