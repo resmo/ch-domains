@@ -349,7 +349,6 @@ ns.newsbit.ch
 ns.nhz.ch
 ns.nigano.ch
 ns.nnt.ch
-ns.nonancoraincinta.ch
 ns.nooshin.ch
 ns.nope.ch
 ns.novacom.ch
@@ -2598,7 +2597,6 @@ ns1.modern-it.ch
 ns1.moebel-meier-brugg.ch
 ns1.moebelkamber.ch
 ns1.moerikofer.ch
-ns1.moerschwilpreiswert.ch
 ns1.mondani.ch
 ns1.monmarketing.ch
 ns1.montag.ch
@@ -2750,7 +2748,6 @@ ns1.noflow.ch
 ns1.nofun.ch
 ns1.noise.ch
 ns1.nomeva-recruiting.ch
-ns1.nonancoraincinta.ch
 ns1.nopixel.ch
 ns1.noraliqueurs.ch
 ns1.nordlandweb.ch
@@ -3149,7 +3146,6 @@ ns1.rillsoft.ch
 ns1.rimmele.ch
 ns1.ringreal.ch
 ns1.ringrealag.ch
-ns1.riniu.ch
 ns1.riono.ch
 ns1.ripe-domains.ch
 ns1.ripz.ch
@@ -3612,6 +3608,7 @@ ns1.tigermus.ch
 ns1.tille.ch
 ns1.tilosub.ch
 ns1.time4fun.ch
+ns1.timsi.ch
 ns1.tineonet.ch
 ns1.tintentheke.ch
 ns1.tionline.ch
@@ -5883,7 +5880,6 @@ ns2.modern-it.ch
 ns2.moebel-meier-brugg.ch
 ns2.moebelkamber.ch
 ns2.moerikofer.ch
-ns2.moerschwilpreiswert.ch
 ns2.mondani.ch
 ns2.monmarketing.ch
 ns2.montag.ch
@@ -6399,7 +6395,6 @@ ns2.richkart.ch
 ns2.rieker-cloud.ch
 ns2.riesenservices.ch
 ns2.rimmele.ch
-ns2.riniu.ch
 ns2.riono.ch
 ns2.ripe-domains.ch
 ns2.ripz.ch
@@ -6864,6 +6859,7 @@ ns2.tifoto.ch
 ns2.tigermus.ch
 ns2.tilosub.ch
 ns2.time4fun.ch
+ns2.timsi.ch
 ns2.tineonet.ch
 ns2.tinkercave.ch
 ns2.tintentheke.ch
@@ -8013,6 +8009,7 @@ ns3.weiss-web.ch
 ns3.weisshost.ch
 ns3.weissweb.ch
 ns3.wesu.ch
+ns3.weyland.ch
 ns3.wie-se.ch
 ns3.witweb.ch
 ns3.wly.ch

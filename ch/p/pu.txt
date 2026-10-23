@@ -265,6 +265,7 @@ public-pg.ch
 public-piano.ch
 public-places.ch
 public-poller.ch
+public-pool.ch
 public-portal.ch
 public-pro.ch
 public-procurement.ch
@@ -286,6 +287,7 @@ public-speaking-coach.ch
 public-speaking.ch
 public-sport.ch
 public-sports.ch
+public-staff.ch
 public-switzerland.ch
 public-toilet-solutions.ch
 public-transit-solutions.ch
@@ -515,6 +517,7 @@ publicpingpong.ch
 publicplan.ch
 publicpolicy.ch
 publicpoller.ch
+publicpool.ch
 publicportal.ch
 publicpost.ch
 publicpro.ch
@@ -552,6 +555,7 @@ publicspeaking-university.ch
 publicspeaking.ch
 publicsphere.ch
 publicstack.ch
+publicstaff.ch
 publicstone.ch
 publicstorage.ch
 publicstories.ch
@@ -1535,6 +1539,7 @@ puljic.ch
 pulk.ch
 pulka.ch
 pull-de-noel.ch
+pull-it-up.ch
 pull-over.ch
 pull-paysage.ch
 pull.ch
@@ -1997,7 +2002,6 @@ pulsions.ch
 pulsionsmanagement.ch
 pulsionstest.ch
 pulsioprint.ch
-pulsiq.ch
 pulsit.ch
 pulsitiv.ch
 pulsiva.ch
@@ -2068,6 +2072,7 @@ pultorte.ch
 pultos.ch
 pultpioniere.ch
 pultrone.ch
+pultwerk.ch
 pulu.ch
 pulunyi.ch
 pulux.ch
@@ -2245,6 +2250,7 @@ pumi-industriepumpen.ch
 pumi.ch
 pumibakery.ch
 pumicore.ch
+pumijo.ch
 pumik.ch
 pumilia.ch
 pumilio.ch
@@ -4564,7 +4570,6 @@ puretonepickups.ch
 puretouchnailspa.ch
 puretrace.ch
 puretrack.ch
-puretrading.ch
 puretradition.ch
 puretravel.ch
 puretreats.ch
@@ -4837,6 +4842,7 @@ purna-swami.ch
 purna-yoga.ch
 purna.ch
 purnaayurveda.ch
+purnachandra.ch
 purnamed.ch
 purnamh.ch
 purnaprana.ch
@@ -5088,9 +5094,7 @@ purpose-coaching.ch
 purpose-delivered.ch
 purpose-driven.ch
 purpose-economy.ch
-purpose-factory.ch
 purpose-franchise.ch
-purpose-lab.ch
 purpose-lawyers.ch
 purpose-navigation.ch
 purpose-schweiz.ch
@@ -5101,8 +5105,6 @@ purpose-suisse.ch
 purpose-svizzera.ch
 purpose-values-coach.ch
 purpose-ventures.ch
-purpose-werkbank.ch
-purpose-workbench.ch
 purpose-youthclub.ch
 purpose.ch
 purposealliance.ch
@@ -5114,7 +5116,6 @@ purposecircle.ch
 purposecoach.ch
 purposecoaching.ch
 purposedriven.ch
-purposefactory.ch
 purposeflow.ch
 purposeforward.ch
 purposeful-giving.ch
