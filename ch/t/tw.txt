@@ -684,6 +684,7 @@ twinsystem.ch
 twint-acquiring.ch
 twint-banken.ch
 twint-bargeld.ch
+twint-casino.ch
 twint-casinos.ch
 twint-for-php.ch
 twint-for-woocommerce.ch

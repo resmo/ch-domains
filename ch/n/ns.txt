@@ -425,7 +425,6 @@ ns.softserve.ch
 ns.soomba.ch
 ns.sprachnachweis.ch
 ns.stage-de-pilotage.ch
-ns.starship-factory.ch
 ns.stauffacher-sa.ch
 ns.stefan-funk.ch
 ns.stefanjud.ch
@@ -802,6 +801,7 @@ ns1.ahuskysjob.ch
 ns1.aiboard.ch
 ns1.aidns.ch
 ns1.aikido-brugg.ch
+ns1.ajgroupgmbh.ch
 ns1.ajoie-net.ch
 ns1.akb.ch
 ns1.akbern.ch
@@ -896,6 +896,7 @@ ns1.asc-neuchatel.ch
 ns1.ascodata.ch
 ns1.ascotech.ch
 ns1.asdf.ch
+ns1.asebo.ch
 ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
@@ -1174,6 +1175,7 @@ ns1.casalavida.ch
 ns1.casino-suisse.ch
 ns1.casprode.ch
 ns1.catatec.ch
+ns1.cause-music.ch
 ns1.cavedesarts.ch
 ns1.cazao.ch
 ns1.cb-visu.ch
@@ -2571,7 +2573,6 @@ ns1.micromusic.ch
 ns1.microosoft.ch
 ns1.midix.ch
 ns1.mietauto24.ch
-ns1.mig-haco.ch
 ns1.mikroelek.ch
 ns1.milkycloud.ch
 ns1.mints-hosting.ch
@@ -2708,7 +2709,6 @@ ns1.netoxygen.ch
 ns1.netpac.ch
 ns1.netrise.ch
 ns1.nets.ch
-ns1.netspark.ch
 ns1.netstyle.ch
 ns1.netswarm.ch
 ns1.nettrust.ch
@@ -2725,6 +2725,7 @@ ns1.netzschmiede.ch
 ns1.netzwerkspezialist.ch
 ns1.neutrino.ch
 ns1.newday.ch
+ns1.newhosting.ch
 ns1.newkids.ch
 ns1.newonline.ch
 ns1.newsbit.ch
@@ -3037,7 +3038,6 @@ ns1.proton.ch
 ns1.protonmail.ch
 ns1.protontech.ch
 ns1.protonvpn.ch
-ns1.providing.ch
 ns1.proxaid.ch
 ns1.psah.ch
 ns1.pschuetz.ch
@@ -3571,7 +3571,6 @@ ns1.technosoft.ch
 ns1.techsmarthosting.ch
 ns1.tecnoshop.ch
 ns1.tedamos-rcs.ch
-ns1.teknology-policy.ch
 ns1.telecom26.ch
 ns1.telefonsexportal.ch
 ns1.telemedica.ch
@@ -4153,6 +4152,7 @@ ns2.ahuskysjob.ch
 ns2.aiboard.ch
 ns2.aidns.ch
 ns2.aikido-brugg.ch
+ns2.ajgroupgmbh.ch
 ns2.akb.ch
 ns2.akbern.ch
 ns2.albacoiffure.ch
@@ -4246,7 +4246,6 @@ ns2.asc-neuchatel.ch
 ns2.ascodata.ch
 ns2.ascotech.ch
 ns2.asdf.ch
-ns2.asebo.ch
 ns2.asecus.ch
 ns2.askben.ch
 ns2.askjad.ch
@@ -4515,6 +4514,7 @@ ns2.casalavida.ch
 ns2.casino-suisse.ch
 ns2.casprode.ch
 ns2.catatec.ch
+ns2.cause-music.ch
 ns2.cavedesarts.ch
 ns2.cazao.ch
 ns2.cb-visu.ch
@@ -5856,7 +5856,6 @@ ns2.microexpert.ch
 ns2.micromusic.ch
 ns2.microosoft.ch
 ns2.midix.ch
-ns2.mig-haco.ch
 ns2.mikroelek.ch
 ns2.milkycloud.ch
 ns2.mints-hosting.ch
@@ -5999,6 +5998,7 @@ ns2.netzschmiede.ch
 ns2.netzwerkspezialist.ch
 ns2.neutrino.ch
 ns2.newday.ch
+ns2.newhosting.ch
 ns2.newkids.ch
 ns2.newonline.ch
 ns2.newsletter-email-service24.ch
@@ -6294,7 +6294,6 @@ ns2.proton.ch
 ns2.protonmail.ch
 ns2.protontech.ch
 ns2.protonvpn.ch
-ns2.providing.ch
 ns2.proxaid.ch
 ns2.psah.ch
 ns2.pschuetz.ch
@@ -6823,7 +6822,6 @@ ns2.technosoft.ch
 ns2.techsmarthosting.ch
 ns2.tecnoshop.ch
 ns2.tedamos-rcs.ch
-ns2.teknology-policy.ch
 ns2.telecom26.ch
 ns2.telefonsexportal.ch
 ns2.telemedia.ch
@@ -7318,6 +7316,7 @@ ns3.avaloq-sourcing.ch
 ns3.avaloq.ch
 ns3.aviation.ch
 ns3.awk.ch
+ns3.axanet.ch
 ns3.axuris.ch
 ns3.aytec.ch
 ns3.b23.ch
