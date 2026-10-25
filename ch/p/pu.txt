@@ -296,7 +296,6 @@ public-value-management.ch
 public-video.ch
 public-viewing-led.ch
 public-viewing-sg.ch
-public-viewing-thun.ch
 public-viewing-uster.ch
 public-viewing.ch
 public-voice.ch
@@ -724,6 +723,7 @@ publipro.ch
 publipush.ch
 publiq.ch
 publique.ch
+publiqum.ch
 publiradar.ch
 publirama.ch
 publireno.ch
@@ -1587,6 +1587,7 @@ pullmanwagen-rhb.ch
 pullmydaisy.ch
 pullnordique.ch
 pulloff.ch
+pullokal.ch
 pullola.ch
 pulloposti.ch
 pullops.ch
@@ -2422,6 +2423,7 @@ pumpnrideniederbipp.ch
 pumpnuts.ch
 pumppark-emmen.ch
 pumpqueen.ch
+pumpr.ch
 pumps-valves.ch
 pumps.ch
 pumpscoot.ch
@@ -2444,7 +2446,6 @@ pumptrack-aarau.ch
 pumptrack-aglion.ch
 pumptrack-am-see.ch
 pumptrack-baerau.ch
-pumptrack-belp.ch
 pumptrack-bl.ch
 pumptrack-boll.ch
 pumptrack-buchs-zh.ch
@@ -4314,7 +4315,6 @@ puren.ch
 purena-services.ch
 purena.ch
 purenails.ch
-purenapkin.ch
 purenaservices.ch
 purenatur.ch
 purenatural.ch
@@ -5509,7 +5509,6 @@ pustertal.ch
 pustertaler-sprinzen-schweiz.ch
 pustertaler-sprinzen.ch
 pustertalersprinzen.ch
-pusterum.ch
 pustezauber.ch
 pustget.ch
 pustiasi.ch
@@ -5731,6 +5730,7 @@ putzfirma-offerten.ch
 putzfirma-st-gallen.ch
 putzfirma-uster.ch
 putzfirma-winterthur.ch
+putzfirma-zh.ch
 putzfirma-zueri.ch
 putzfirma-zuerich.ch
 putzfirma-zug.ch

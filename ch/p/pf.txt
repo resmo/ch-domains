@@ -729,7 +729,6 @@ pfaffo.ch
 pfaffs.ch
 pfaffsteuerberatung.ch
 pfaffustage.ch
-pfag.ch
 pfagnehm.ch
 pfahl-bern.ch
 pfahl-box.ch
@@ -2443,6 +2442,7 @@ pferdetaxi-eigenthal.ch
 pferdetaxi-fricktal.ch
 pferdetaxi.ch
 pferdetherapeuten.ch
+pferdetherapeutin.ch
 pferdetherapie-baur.ch
 pferdetherapie-bienz.ch
 pferdetherapie-esb.ch
@@ -4343,10 +4343,15 @@ pflegenavigator.ch
 pflegend.ch
 pflegende-angehoerige-aargau.ch
 pflegende-angehoerige-anstellen.ch
+pflegende-angehoerige-basel.ch
+pflegende-angehoerige-bern.ch
 pflegende-angehoerige-bezirk-dielsdorf.ch
 pflegende-angehoerige-lohn.ch
+pflegende-angehoerige-schweiz.ch
 pflegende-angehoerige-solocura.ch
+pflegende-angehoerige-solothurn.ch
 pflegende-angehoerige-zuerich.ch
+pflegende-angehoerige-zurich.ch
 pflegende-angehoerige.ch
 pflegende-angehorige.ch
 pflegende-hilfe.ch
@@ -4978,6 +4983,7 @@ pfotenbote.ch
 pfotenbuch.ch
 pfotenbutler.ch
 pfotencamper.ch
+pfotencampus.ch
 pfotenchaos.ch
 pfotenchaoten.ch
 pfotencheck.ch

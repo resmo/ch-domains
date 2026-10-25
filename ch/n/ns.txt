@@ -1001,6 +1001,7 @@ ns1.benjm.ch
 ns1.bennoschaub.ch
 ns1.benzinger.ch
 ns1.bergerhome.ch
+ns1.berghost.ch
 ns1.bergnetz.ch
 ns1.bergtouren.ch
 ns1.berm.ch
@@ -3895,7 +3896,6 @@ ns1.workserver.ch
 ns1.workvibes.ch
 ns1.world-connect.ch
 ns1.wowa-dns.ch
-ns1.wp-guru.ch
 ns1.wservices.ch
 ns1.wunda.ch
 ns1.wunschpreis.ch
@@ -4349,6 +4349,7 @@ ns2.benjm.ch
 ns2.bennoschaub.ch
 ns2.benzinger.ch
 ns2.bergerhome.ch
+ns2.berghost.ch
 ns2.bergnetz.ch
 ns2.bergtouren.ch
 ns2.berm.ch
@@ -7130,7 +7131,6 @@ ns2.workserver.ch
 ns2.workvibes.ch
 ns2.world-connect.ch
 ns2.wowa-dns.ch
-ns2.wp-guru.ch
 ns2.wsbox.ch
 ns2.wservices.ch
 ns2.wunda.ch

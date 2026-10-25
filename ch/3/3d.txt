@@ -494,6 +494,7 @@
 3d-world.ch
 3d-zahn.ch
 3d-zaugg.ch
+3d-zeichnen.ch
 3d-zir.ch
 3d-zone.ch
 3d-zuckerwatte.ch
@@ -1013,7 +1014,6 @@
 3dpanda.ch
 3dpapierdruck.ch
 3dpapierprint.ch
-3dparcours.ch
 3dpart.ch
 3dpartner.ch
 3dpartstream.ch
@@ -1199,7 +1199,6 @@
 3dspektrum.ch
 3dspezialist.ch
 3dsplus.ch
-3dsport.ch
 3dspro.ch
 3dsquare.ch
 3dssdk.ch
@@ -1317,5 +1316,6 @@
 3dynamik.ch
 3dyou.ch
 3dzauber.ch
+3dzeichnen.ch
 3dzone.ch
 3dzz.ch

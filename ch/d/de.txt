@@ -2377,7 +2377,9 @@ deckleiste.ch
 deckly.ch
 decknet.ch
 deckoffice.ch
+deckone.ch
 deckout.ch
+deckovio.ch
 deckpickleball.ch
 deckpit.ch
 deckpoint-vtx.ch
@@ -2583,7 +2585,6 @@ deco-jardins.ch
 deco-julie.ch
 deco-lar.ch
 deco-licht.ch
-deco-lights.ch
 deco-line.ch
 deco-lumiere.ch
 deco-maison.ch
@@ -2773,7 +2774,6 @@ decolaser.ch
 decolaure.ch
 decole.ch
 decoled.ch
-decolights.ch
 decoline.ch
 decolla.ch
 decollage-tardif.ch
@@ -3284,6 +3284,7 @@ decrypt.ch
 decryptcapital.ch
 decrypted.ch
 decrypthera.ch
+decryptia.ch
 decrypto-sprachen.ch
 decrypto-uebersetzungen.ch
 decs-commerce.ch
@@ -4269,6 +4270,8 @@ deeskalationstraining.ch
 deeskalatorium.ch
 deeskalieren.ch
 deespaces.ch
+deespat.ch
+deespatch.ch
 deesse-ariana.ch
 deesse-chur.ch
 deesse-coiffure.ch
@@ -6885,6 +6888,7 @@ deinestarkeseite.ch
 deinesteine.ch
 deinestelle.ch
 deinesteuer.ch
+deinesteuererklaerung.ch
 deinesteuern.ch
 deinestillbegleitung.ch
 deinestimme.ch
@@ -7560,7 +7564,6 @@ deinseelenbalsam.ch
 deinseelenbild.ch
 deinseelencoach.ch
 deinseelenfoto.ch
-deinseelenlicht.ch
 deinseelenplan.ch
 deinseelenweg.ch
 deinsehendeinleben.ch
@@ -8146,6 +8149,7 @@ dekoabo.ch
 dekoagentur.ch
 dekoallerart.ch
 dekoallerlei.ch
+dekoandgiftsbydani.ch
 dekoart.ch
 dekoart3d.ch
 dekoartikel.ch
@@ -10891,7 +10895,6 @@ deltoid.ch
 delton.ch
 deltona.ch
 deltopide.ch
-deltor.ch
 deltora.ch
 deltoraholding.ch
 deltra-soft.ch
@@ -11961,7 +11964,6 @@ demfip-ag.ch
 demfip.ch
 demhane.ch
 demhasaj.ch
-demhimmelzunah.ch
 demhosa.ch
 demi-automobile.ch
 demi-bauundimmobilien.ch
@@ -12153,6 +12155,7 @@ demo-cloud.ch
 demo-construction.ch
 demo-creative.ch
 demo-dancex.ch
+demo-design.ch
 demo-domain.ch
 demo-elco.ch
 demo-erp.ch
@@ -14122,6 +14125,7 @@ dental-space.ch
 dental-spektrum.ch
 dental-stein.ch
 dental-stelle.ch
+dental-stellen.ch
 dental-stellenmarkt.ch
 dental-studio.ch
 dental-systems.ch
@@ -14830,7 +14834,6 @@ dentbasel.ch
 dentbern.ch
 dentbiome.ch
 dentbird.ch
-dentblanche-carrosserie.ch
 dentblanche-pdr.ch
 dentblanche.ch
 dentblancheresort.ch
@@ -17528,7 +17531,6 @@ derbaubiologe.ch
 derbauch.ch
 derbauchladen.ch
 derbauer.ch
-derbauerngarten.ch
 derbauernhof.ch
 derbauerundderkoch.ch
 derbauherr.ch
@@ -25348,6 +25350,7 @@ devenirenseignante.ch
 devenirfamilleaccueil.ch
 devenirgeneraliste.ch
 devenirindependant.ch
+devenirindependantsuisse.ch
 devenirjesuite.ch
 devenirmaman.ch
 devenirmembre.ch
@@ -25365,6 +25368,7 @@ devenirpolicier.ch
 devenirpoliciere.ch
 devenirprof.ch
 devenirproprietaire.ch
+devenirproprietairesuisse.ch
 devenirrentier.ch
 devenirsecretaire.ch
 devenirsoi.ch
@@ -25745,6 +25749,7 @@ devis-romandie.ch
 devis-sablage.ch
 devis-sanitaires.ch
 devis-sauna.ch
+devis-schuwey.ch
 devis-schwaegli.ch
 devis-securite.ch
 devis-serrure.ch

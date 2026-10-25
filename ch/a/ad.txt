@@ -252,6 +252,7 @@ ad8.ch
 ad95.ch
 ada-architecture.ch
 ada-art.ch
+ada-ausstellung.ch
 ada-automotive.ch
 ada-b.ch
 ada-baudienstleistungen.ch
@@ -277,7 +278,6 @@ ada-management.ch
 ada-marco.ch
 ada-metall.ch
 ada-move.ch
-ada-nails.ch
 ada-online.ch
 ada-pharm.ch
 ada-pool.ch
@@ -932,6 +932,7 @@ adaptix.ch
 adaptizy.ch
 adaptki.ch
 adaptlearning.ch
+adapto-advisory.ch
 adapto.ch
 adaptoforce.ch
 adaptogen.ch
@@ -7015,7 +7016,6 @@ adv-mueller.ch
 adv-personal.ch
 adv-publishing.ch
 adv-schaeublin.ch
-adv-solution.ch
 adv-solutions.ch
 adv-testing.ch
 adv-testmail.ch
@@ -8157,7 +8157,6 @@ advisoryportal.ch
 advisoryservices.ch
 advisorysphere.ch
 advisorysuite.ch
-advisoryteam-transformation.ch
 advisoryteam.ch
 advisorywithoutillusions.ch
 advisr.ch
