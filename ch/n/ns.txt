@@ -1476,6 +1476,7 @@ ns1.dmedia.ch
 ns1.dmprint.ch
 ns1.dn5.ch
 ns1.dncons.ch
+ns1.dns-53.ch
 ns1.dns-cloud.ch
 ns1.dns-lst.ch
 ns1.dns-lstschenker.ch
@@ -4805,6 +4806,7 @@ ns2.dle-check.ch
 ns2.dmedia.ch
 ns2.dmprint.ch
 ns2.dnab.ch
+ns2.dns-53.ch
 ns2.dns-cloud.ch
 ns2.dns-lst.ch
 ns2.dns-lstschenker.ch
