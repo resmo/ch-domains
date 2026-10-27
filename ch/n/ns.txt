@@ -720,7 +720,6 @@ ns1.4teamwork.ch
 ns1.4webspace.ch
 ns1.7asecond.ch
 ns1.7it.ch
-ns1.7srv.ch
 ns1.7x77.ch
 ns1.80edays.ch
 ns1.911-motors.ch
@@ -1172,6 +1171,7 @@ ns1.carreview.ch
 ns1.carrosserie-burkhardt.ch
 ns1.carrosseriedesnations.ch
 ns1.carspace.ch
+ns1.casa-del-doener.ch
 ns1.casalavida.ch
 ns1.casino-suisse.ch
 ns1.casprode.ch
@@ -2123,6 +2123,7 @@ ns1.infinity.ch
 ns1.infinityweb.ch
 ns1.infolibre.ch
 ns1.infomaniak.ch
+ns1.infomanika.ch
 ns1.infonaute.ch
 ns1.infopage.ch
 ns1.informatics.ch
@@ -3394,7 +3395,6 @@ ns1.softwareschneiderei.ch
 ns1.softxs.ch
 ns1.sogea.ch
 ns1.sol-tax.ch
-ns1.solar-bier.ch
 ns1.solarcom.ch
 ns1.solarisnet.ch
 ns1.solobox.ch
@@ -4077,7 +4077,6 @@ ns2.4teamwork.ch
 ns2.4webspace.ch
 ns2.7asecond.ch
 ns2.7it.ch
-ns2.7srv.ch
 ns2.7x77.ch
 ns2.80edays.ch
 ns2.8305.e-server.ch
@@ -4512,6 +4511,7 @@ ns2.carreview.ch
 ns2.carrosserie-burkhardt.ch
 ns2.carrosseriedesnations.ch
 ns2.carspace.ch
+ns2.casa-del-doener.ch
 ns2.casalavida.ch
 ns2.casino-suisse.ch
 ns2.casprode.ch
@@ -5434,6 +5434,7 @@ ns2.infinity.ch
 ns2.infinityweb.ch
 ns2.infolibre.ch
 ns2.infomaniak.ch
+ns2.infomanika.ch
 ns2.infonaute.ch
 ns2.infopage.ch
 ns2.informatics.ch
@@ -6644,7 +6645,6 @@ ns2.softwareschneiderei.ch
 ns2.softxs.ch
 ns2.sogea.ch
 ns2.sol-tax.ch
-ns2.solar-bier.ch
 ns2.solarbox.ch
 ns2.solarcom.ch
 ns2.solarisnet.ch

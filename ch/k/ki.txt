@@ -17,6 +17,7 @@ ki-ag.ch
 ki-agency.ch
 ki-agent-swiss.ch
 ki-agent.ch
+ki-agenten-schweiz.ch
 ki-agenten-service.ch
 ki-agenten.ch
 ki-agentin.ch
@@ -75,6 +76,7 @@ ki-architekturen.ch
 ki-art.ch
 ki-artwork.ch
 ki-arzt.ch
+ki-arztpraxis.ch
 ki-as-a-service.ch
 ki-assessment.ch
 ki-assistant.ch
@@ -199,6 +201,7 @@ ki-communications.ch
 ki-community.ch
 ki-compliance-schweiz.ch
 ki-compliance.ch
+ki-consult.ch
 ki-consultant.ch
 ki-consultants.ch
 ki-consulting-schweiz.ch
@@ -348,7 +351,6 @@ ki-fuer-juristen.ch
 ki-fuer-kmu.ch
 ki-fuer-unternehmen.ch
 ki-game.ch
-ki-ganzeinfach.ch
 ki-garage.ch
 ki-gecheckt.ch
 ki-gemeindekommunikation.ch
@@ -385,6 +387,7 @@ ki-handwerk.ch
 ki-handwerker.ch
 ki-hardware.ch
 ki-haus.ch
+ki-hausverwaltung.ch
 ki-health.ch
 ki-healthcare.ch
 ki-hebel.ch
@@ -454,7 +457,6 @@ ki-institut.ch
 ki-institute.ch
 ki-integration.ch
 ki-integrationen.ch
-ki-integrator.ch
 ki-intelligence.ch
 ki-interlaken.ch
 ki-invest.ch
@@ -634,6 +636,7 @@ ki-messe.ch
 ki-mii-locations.ch
 ki-mind.ch
 ki-mindset.ch
+ki-mit-cyrill.ch
 ki-mit-koepfchen.ch
 ki-mit-ohne-grenzen.ch
 ki-mit-plan.ch
@@ -758,6 +761,7 @@ ki-prompt.ch
 ki-protect.ch
 ki-prototypen.ch
 ki-prozess.ch
+ki-prozessanalyse.ch
 ki-prozessarchitekt.ch
 ki-prozessautomation.ch
 ki-prozessberatung.ch
@@ -777,6 +781,8 @@ ki-raumgestaltung.ch
 ki-rausch.ch
 ki-rche.ch
 ki-readiness-check.ch
+ki-readiness.ch
+ki-readinessch.ch
 ki-ready.ch
 ki-rechnung.ch
 ki-rechnungsprogramm.ch
@@ -902,7 +908,6 @@ ki-spiez.ch
 ki-spotlight.ch
 ki-sprechstunde.ch
 ki-ss.ch
-ki-sss.ch
 ki-start.ch
 ki-starter.ch
 ki-startklar.ch
@@ -1408,6 +1413,7 @@ kiatlas.ch
 kiatoria-sushi.ch
 kiatoria.ch
 kiatsu.ch
+kiatsua.ch
 kiatwork.ch
 kiaudit.ch
 kiausbildung.ch
@@ -3066,6 +3072,7 @@ kieferortho-am-bahnhof.ch
 kieferortho-bachwiesen.ch
 kieferortho-basel.ch
 kieferortho-einsiedeln.ch
+kieferortho-freiamt.ch
 kieferortho-fricktal.ch
 kieferortho-frutigen.ch
 kieferortho-horgen.ch
@@ -3159,6 +3166,7 @@ kieferorthopaedie-enge.ch
 kieferorthopaedie-ennetbuergen.ch
 kieferorthopaedie-faellanden.ch
 kieferorthopaedie-frauenfeld.ch
+kieferorthopaedie-freiamt.ch
 kieferorthopaedie-frutigen.ch
 kieferorthopaedie-glattbrugg.ch
 kieferorthopaedie-gommiswald.ch
@@ -4069,6 +4077,7 @@ kiknet-herz.ch
 kiknet-ifolor.ch
 kiknet-interpharma.ch
 kiknet-jugendherbergen.ch
+kiknet-lindthomeofchocolate.ch
 kiknet-railaway.ch
 kiknet-reismuehle-nutrex.ch
 kiknet-schulreiseland.ch
@@ -4141,6 +4150,7 @@ kikstone.ch
 kikswissgmbh.ch
 kiktextilien.ch
 kikthemoments.ch
+kiktoniq.ch
 kiku-apple.ch
 kiku-kiku.ch
 kiku-riku.ch
@@ -5020,6 +5030,7 @@ kimmy.ch
 kimmyrepond.ch
 kimmysbalance.ch
 kimnet.ch
+kimo-app.ch
 kimo-chi.ch
 kimo.ch
 kimoag.ch
@@ -8843,6 +8854,7 @@ kinecoach.ch
 kinecolor.ch
 kinecomte.ch
 kineconscience.ch
+kineconsciente.ch
 kinecore.ch
 kinecranio-coaching.ch
 kinecranio.ch
@@ -10259,7 +10271,6 @@ kingpro.ch
 kingproject.ch
 kingquail.ch
 kingquailflavours.ch
-kingqueen.ch
 kingracing.ch
 kingraj.ch
 kingralph.ch
@@ -10373,7 +10384,6 @@ kingskebapbern.ch
 kingskeks.ch
 kingskennelswitzerland.ch
 kingskids.ch
-kingskiosk.ch
 kingskottu.ch
 kingskurry.ch
 kingslead.ch
@@ -10409,6 +10419,7 @@ kingsoft.ch
 kingsofthejungle.ch
 kingsolution.ch
 kingsong.ch
+kingspa.ch
 kingspan.ch
 kingspanacoustics.ch
 kingspaninsulation.ch
@@ -10424,7 +10435,6 @@ kingspub.ch
 kingsrea.ch
 kingsroadmerch.ch
 kingssecurite.ch
-kingsshop.ch
 kingsswisscampers.ch
 kingstacosburger-montreux.ch
 kingstar-music.ch
@@ -11137,6 +11147,7 @@ kinzel.ch
 kinzenba.ch
 kinzframe.ch
 kinzi.ch
+kinzl-tech.ch
 kinzl.ch
 kinzner.ch
 kinzo.ch
@@ -11461,7 +11472,6 @@ kippelag.ch
 kippelbau.ch
 kippelkultur.ch
 kippelsport.ch
-kippen.ch
 kippenbox.ch
 kippendose.ch
 kipper-karten.ch
@@ -11750,7 +11760,6 @@ kirche-herblingen.ch
 kirche-hergiswil.ch
 kirche-hermetschwil.ch
 kirche-heute.ch
-kirche-hilft-armenien.ch
 kirche-hilterfingen.ch
 kirche-im-dialog.ch
 kirche-im-glattpark.ch
@@ -12691,6 +12700,7 @@ kirchnerernstludwig.ch
 kirchnermuseum.ch
 kirchnermuseumdavos.ch
 kirchners.ch
+kirchpensum.ch
 kirchplaner.ch
 kirchplatz1.ch
 kirchrain.ch
@@ -13026,6 +13036,7 @@ kis-consulting.ch
 kis-facility.ch
 kis-haller.ch
 kis-original-services.ch
+kis-reinigung.ch
 kis-sa.ch
 kis-schofise.ch
 kis.ch
@@ -13475,13 +13486,13 @@ kissosolives.ch
 kissparty.ch
 kissradio.ch
 kissreinigung.ch
-kisss.ch
 kisssec.ch
 kisssen.ch
 kissskiss.ch
 kisssoft.ch
 kisstech.ch
 kissthebride.ch
+kissthechef.ch
 kissthecook.ch
 kissthecookmailclub.ch
 kissthedesign.ch
@@ -14694,6 +14705,7 @@ kitastgallen.ch
 kitasuche.ch
 kitasuchen.ch
 kitasuisse.ch
+kitasulgen.ch
 kitasummervogel.ch
 kitasunneschii.ch
 kitasunneschyn.ch
@@ -15861,6 +15873,7 @@ kiwischwimmbad.ch
 kiwisdr.ch
 kiwisecurity.ch
 kiwishop.ch
+kiwision-photography.ch
 kiwisketchh.ch
 kiwislimousine.ch
 kiwislimousinen.ch
@@ -15896,7 +15909,6 @@ kiwo-schoenenwerd.ch
 kiwo-uerkental.ch
 kiwo-wilchingen.ch
 kiwo.ch
-kiwoko.ch
 kiwords.ch
 kiwork.ch
 kiworker.ch

@@ -110,6 +110,7 @@ ts-projects.ch
 ts-r.ch
 ts-reinigung.ch
 ts-renovation.ch
+ts-richardson-buecher.ch
 ts-s.ch
 ts-scanner.ch
 ts-sec.ch
@@ -1216,7 +1217,6 @@ tsemin.ch
 tsemmed.ch
 tsen.ch
 tseng.ch
-tsengineering.ch
 tsens.ch
 tsep.ch
 tserafouin.ch
@@ -1498,7 +1498,6 @@ tsmassistance.ch
 tsmbern.ch
 tsmc.ch
 tsme.ch
-tsmedia.ch
 tsmediamatik.ch
 tsmerz.ch
 tsmetcoll.ch
@@ -1810,14 +1809,12 @@ tsundoku.ch
 tsuno.ch
 tsunshan.ch
 tsup.ch
-tsupport.ch
 tsurei.ch
 tsuri.ch
 tsurifree.ch
 tsurigo.ch
 tsurpal.ch
 tsuru-tsuru.ch
-tsurumatcha.ch
 tsurumi.ch
 tsury.ch
 tsuster.ch
@@ -1935,6 +1932,7 @@ tsw4.ch
 tswag.ch
 tswb.ch
 tswd.ch
+tswf.ch
 tswh.ch
 tswin.ch
 tswiss.ch

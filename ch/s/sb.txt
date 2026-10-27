@@ -172,6 +172,8 @@ sb-works.ch
 sb-wpf.ch
 sb-zahnaerzte.ch
 sb-zeihen.ch
+sb01.ch
+sb02.ch
 sb1.ch
 sb2.ch
 sb23.ch
@@ -1060,7 +1062,6 @@ sbone.ch
 sboo.ch
 sbook.ch
 sbooker.ch
-sboom-burger.ch
 sboom.ch
 sbooth.ch
 sbopen.ch

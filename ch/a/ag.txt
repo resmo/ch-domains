@@ -1775,6 +1775,7 @@ agent-c.ch
 agent-casa.ch
 agent-commerce.ch
 agent-commercial-suisse.ch
+agent-connector.ch
 agent-creator.ch
 agent-de-joueur.ch
 agent-du-changement.ch
@@ -1831,6 +1832,7 @@ agent-workflows.ch
 agent.ch
 agent007.ch
 agent008.ch
+agent1291.ch
 agent21.ch
 agent24.ch
 agent247.ch
@@ -2115,6 +2117,7 @@ agentmesh.ch
 agentmeteo.ch
 agentmode.ch
 agentnative.ch
+agentnest.ch
 agento24.ch
 agentodin.ch
 agentof.ch
@@ -2677,7 +2680,6 @@ agetlugano.ch
 agetoris.ch
 agetrace.ch
 agetsl.ch
-agetta.ch
 agettes.ch
 ageva.ch
 agevent.ch
@@ -5008,6 +5010,7 @@ agrisoftag.ch
 agrisol.ch
 agrisolarforschung.ch
 agrisolution.ch
+agrisport.ch
 agriss.ch
 agristat.ch
 agristay.ch
@@ -5219,7 +5222,6 @@ agrobois.ch
 agroboisrochatsa.ch
 agrobook.ch
 agrobot.ch
-agrobotics.ch
 agrobrain.ch
 agrobs.ch
 agrobuch.ch
