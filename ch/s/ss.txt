@@ -651,6 +651,7 @@ ssl-ag.ch
 ssl-certificate.ch
 ssl-certs.ch
 ssl-gw.ch
+ssl-helper.ch
 ssl-hosting.ch
 ssl-id.ch
 ssl-insektenschutz.ch

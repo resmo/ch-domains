@@ -18,6 +18,7 @@ dn-transports.ch
 dn1.verteilungsmonitor.ch
 dn2.verteilungsmonitor.ch
 dn2m.ch
+dn360.ch
 dn5.ch
 dna-agency.ch
 dna-app.ch
@@ -1192,7 +1193,6 @@ dnshost.ch
 dnshoster.ch
 dnshub.ch
 dnshw.ch
-dnsimple.ch
 dnsinfo.ch
 dnsking.ch
 dnslab.ch

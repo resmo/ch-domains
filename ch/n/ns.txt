@@ -831,7 +831,6 @@ ns1.alphaomega-kinesiologie.ch
 ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
-ns1.alpinehost.ch
 ns1.alpost.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
@@ -1530,7 +1529,6 @@ ns1.druckpatronen.ch
 ns1.ds-dreamsmile.ch
 ns1.dsprod.ch
 ns1.dsrmarketing.ch
-ns1.dssnet.ch
 ns1.dssr.ch
 ns1.dsteiner.ch
 ns1.dsw-ag.ch
@@ -1663,6 +1661,7 @@ ns1.exenti.ch
 ns1.exosys.ch
 ns1.expertfoto.ch
 ns1.expertus.ch
+ns1.explicity.ch
 ns1.extendit.ch
 ns1.extrahost.ch
 ns1.eyemo.ch
@@ -2584,6 +2583,7 @@ ns1.mipla.ch
 ns1.miramedia.ch
 ns1.miraweb.ch
 ns1.mironet.ch
+ns1.mischafierz.ch
 ns1.mit-bringsel.ch
 ns1.mixbox.ch
 ns1.mixedpixels.ch
@@ -2793,6 +2793,7 @@ ns1.occschop.ch
 ns1.ochm.ch
 ns1.oeles-webdesign.ch
 ns1.oetiker.ch
+ns1.offene-forschung.ch
 ns1.offene-hoftueren.ch
 ns1.offertube.ch
 ns1.office-max.ch
@@ -2853,7 +2854,6 @@ ns1.owebdesign.ch
 ns1.owlet.ch
 ns1.owmit-dns.ch
 ns1.ownspace.ch
-ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
 ns1.ozg-hygiene.ch
 ns1.p31.ch
@@ -3681,7 +3681,6 @@ ns1.u-s-p.ch
 ns1.uelihost.ch
 ns1.uex.ch
 ns1.ufohost.ch
-ns1.ugres.ch
 ns1.uhc-consulting.ch
 ns1.uhlenbru.ch
 ns1.uhosting.ch
@@ -3944,6 +3943,7 @@ ns1.ycu.ch
 ns1.yfx.ch
 ns1.yjoo.ch
 ns1.ylvie.ch
+ns1.ymcdns.ch
 ns1.ymed.ch
 ns1.ynovashop.ch
 ns1.yoga-feeling.ch
@@ -3963,6 +3963,7 @@ ns1.ypsonet.ch
 ns1.yuminet.ch
 ns1.zachza.ch
 ns1.zahnarztvermittlung.ch
+ns1.zaino.ch
 ns1.zebs.ch
 ns1.zeedivision.ch
 ns1.zeitglei.ch
@@ -4180,7 +4181,6 @@ ns2.alphaoffice.ch
 ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
-ns2.alpinehost.ch
 ns2.alpost.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
@@ -4854,7 +4854,6 @@ ns2.druiden.ch
 ns2.ds-dreamsmile.ch
 ns2.dsprod.ch
 ns2.dsrmarketing.ch
-ns2.dssnet.ch
 ns2.dssr.ch
 ns2.dsteiner.ch
 ns2.dsw-ag.ch
@@ -4987,6 +4986,7 @@ ns2.exergy.ch
 ns2.exosys.ch
 ns2.expertfoto.ch
 ns2.expertus.ch
+ns2.explicity.ch
 ns2.extendit.ch
 ns2.extrahost.ch
 ns2.eyemo.ch
@@ -5868,6 +5868,7 @@ ns2.mipla.ch
 ns2.miramedia.ch
 ns2.miraweb.ch
 ns2.mironet.ch
+ns2.mischafierz.ch
 ns2.mit-bringsel.ch
 ns2.mixbox.ch
 ns2.mixedpixels.ch
@@ -6061,6 +6062,7 @@ ns2.occschop.ch
 ns2.ochm.ch
 ns2.oeles-webdesign.ch
 ns2.oetiker.ch
+ns2.offene-forschung.ch
 ns2.offene-hoftueren.ch
 ns2.office-max.ch
 ns2.oglasi24.ch
@@ -6119,7 +6121,6 @@ ns2.owcd.ch
 ns2.owebdesign.ch
 ns2.owmit-dns.ch
 ns2.ownspace.ch
-ns2.oxyhelp.ch
 ns2.oyez-oyez.ch
 ns2.ozg-hygiene.ch
 ns2.p31.ch
@@ -6929,7 +6930,6 @@ ns2.u-blox.ch
 ns2.u-s-p.ch
 ns2.uelihost.ch
 ns2.ufohost.ch
-ns2.ugres.ch
 ns2.uhc-consulting.ch
 ns2.uhlenbru.ch
 ns2.uhosting.ch
@@ -7195,6 +7195,7 @@ ns2.yousway.ch
 ns2.yparc-hotel.ch
 ns2.ypsonet.ch
 ns2.zahnarztvermittlung.ch
+ns2.zaino.ch
 ns2.zeedivision.ch
 ns2.zeitglei.ch
 ns2.zeitlupe.ch
@@ -7971,7 +7972,6 @@ ns3.trinitycollege.ch
 ns3.triwdata.ch
 ns3.tsnet.ch
 ns3.ufohost.ch
-ns3.ugres.ch
 ns3.uhosting.ch
 ns3.uhot.ch
 ns3.unique-hosting.ch
@@ -8034,6 +8034,7 @@ ns3.xpx.ch
 ns3.your-web.ch
 ns3.yourchoice.ch
 ns3.yourmedia.ch
+ns3.zaino.ch
 ns3.zebs.ch
 ns3.zeedivision.ch
 ns3.zekihosting.ch
@@ -8320,6 +8321,7 @@ ns4.xmc.ch
 ns4.xnx.ch
 ns4.xpx.ch
 ns4.your-web.ch
+ns4.zaino.ch
 ns4.zeedivision.ch
 ns4.zhost.ch
 ns4.zwiebelring.ch

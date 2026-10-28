@@ -82,7 +82,6 @@ sw-trainings.ch
 sw-up.ch
 sw-vertriebsagentur.ch
 sw-watch.ch
-sw-wil.ch
 sw-winterthur.ch
 sw-wireterminal.ch
 sw-works.ch
@@ -2128,7 +2127,6 @@ swimo-change.ch
 swimo-mondialchange.ch
 swimo.ch
 swimobymondialchange.ch
-swimochange.ch
 swimoffice.ch
 swimom.ch
 swimopen.ch
@@ -3237,6 +3235,7 @@ swiss-autoteile.ch
 swiss-autotuning.ch
 swiss-avation-gin.ch
 swiss-avdiji.ch
+swiss-aviation-campus.ch
 swiss-aviation-services.ch
 swiss-aviation-training.ch
 swiss-aviation.ch
@@ -3325,6 +3324,7 @@ swiss-basic-consulting.ch
 swiss-bat.ch
 swiss-batch.ch
 swiss-batler.ch
+swiss-batman.ch
 swiss-batterie.ch
 swiss-batteries.ch
 swiss-battery.ch
@@ -6052,7 +6052,6 @@ swiss-immos.ch
 swiss-immotax.ch
 swiss-immoteam.ch
 swiss-immovest.ch
-swiss-immowork.ch
 swiss-impact-fund.ch
 swiss-impact.ch
 swiss-imperial.ch
@@ -6847,7 +6846,6 @@ swiss-mcp.ch
 swiss-mcs.ch
 swiss-md.ch
 swiss-mda.ch
-swiss-mdigital.ch
 swiss-mds.ch
 swiss-me.ch
 swiss-meat-academy.ch
@@ -7453,6 +7451,7 @@ swiss-outlet-shop.ch
 swiss-outplacement.ch
 swiss-overlander.ch
 swiss-owl.ch
+swiss-owned.ch
 swiss-owners.ch
 swiss-p-a.ch
 swiss-p-defence.ch
@@ -10010,7 +10009,6 @@ swiss3-practeo.ch
 swiss3.ch
 swiss300.ch
 swiss3000.ch
-swiss314.ch
 swiss360-mail.ch
 swiss360-media.ch
 swiss360.ch
@@ -10264,6 +10262,7 @@ swissadvocator.ch
 swissadvokat.ch
 swissadvokatur.ch
 swissaed.ch
+swissaerials.ch
 swissaerialworks.ch
 swissaero.ch
 swissaerobatic.ch
@@ -10279,6 +10278,7 @@ swissaerosolutions.ch
 swissaerospace.ch
 swissaerospacecluster.ch
 swissaerospacenews.ch
+swissaerotransfer.ch
 swissaesthetic-mb.ch
 swissaesthetic.ch
 swissaesthetica.ch
@@ -10844,6 +10844,7 @@ swissandtell.ch
 swissanel.ch
 swissanemo.ch
 swissanergy.ch
+swissanerkennung.ch
 swissanesthesia.ch
 swissanesthesiology.ch
 swissangel.ch
@@ -11905,6 +11906,7 @@ swissbillboard.ch
 swissbillet.ch
 swissbilling.ch
 swissbillingmanagement.ch
+swissbills.ch
 swissbillweb.ch
 swissbiltong.ch
 swissbim.ch
@@ -12755,7 +12757,6 @@ swisscampbox.ch
 swisscamper-vs.ch
 swisscamper.ch
 swisscamper4rent.ch
-swisscamperrent.ch
 swisscampers.ch
 swisscamping.ch
 swisscampingbox.ch
@@ -13022,7 +13023,6 @@ swisscareandsmile.ch
 swisscareassistance.ch
 swisscarecard.ch
 swisscarecenter.ch
-swisscarecheck.ch
 swisscarecompany.ch
 swisscareconnect.ch
 swisscareer.ch
@@ -14484,6 +14484,7 @@ swisscriminallawyer.ch
 swisscrimp.ch
 swisscrisis.ch
 swisscrisp.ch
+swisscritseries.ch
 swisscritters.ch
 swisscrm-community.ch
 swisscrm.ch
@@ -15095,7 +15096,6 @@ swissdermotech.ch
 swissdermpath.ch
 swissdermshop.ch
 swissdermyl.ch
-swissdesembouage-detartrage.ch
 swissdesembouage.ch
 swissdesi.ch
 swissdesign-collection.ch
@@ -16766,6 +16766,7 @@ swissfinanz.ch
 swissfinanzberater.ch
 swissfinanzberatung.ch
 swissfinanzconsulting.ch
+swissfinanzkompass.ch
 swissfinanzmanagement.ch
 swissfinanzpartner.ch
 swissfinanzsteuber.ch
@@ -17691,6 +17692,7 @@ swissglobaldental.ch
 swissglobaldistribution.ch
 swissglobalestate.ch
 swissglobalexpat.ch
+swissglobalgestion.ch
 swissglobalhealth.ch
 swissglobalhotels.ch
 swissglobalimpact.ch
@@ -18121,6 +18123,7 @@ swisshaccp.ch
 swisshack.ch
 swisshackathon.ch
 swisshacker.ch
+swisshackers.ch
 swisshacks.ch
 swisshail.ch
 swisshair-ajkune.ch
@@ -18580,6 +18583,7 @@ swisshomecert.ch
 swisshomecertification.ch
 swisshomecheck.ch
 swisshomecollective.ch
+swisshomecompass.ch
 swisshomeconcept.ch
 swisshomeconsulting.ch
 swisshomedeco.ch
@@ -18609,6 +18613,7 @@ swisshomerenovation.ch
 swisshomes.ch
 swisshomeschooling.ch
 swisshomeservice.ch
+swisshomeservices.ch
 swisshomeshop.ch
 swisshomeshospitality.ch
 swisshomestay.ch
@@ -18921,6 +18926,7 @@ swissifb.ch
 swissifico.ch
 swissified.ch
 swissifo.ch
+swissify.ch
 swissifyit.ch
 swissig.ch
 swissigcse.ch
@@ -20101,6 +20107,7 @@ swisslattenrost.ch
 swisslauftreff-training.ch
 swisslauftreff.ch
 swisslaunch.ch
+swisslaunchkit.ch
 swisslaunchpad.ch
 swisslaundry.ch
 swisslaundryservice.ch
@@ -20589,6 +20596,7 @@ swisslocalai.ch
 swisslocalgrowth.ch
 swisslocalguide.ch
 swisslocalintelligence.ch
+swisslocalleads.ch
 swisslocalmedia.ch
 swisslocalplus.ch
 swisslocals.ch
@@ -21884,6 +21892,7 @@ swissmoments.ch
 swissmomentum.ch
 swissmomforum.ch
 swissmomkitchen.ch
+swissmomlife.ch
 swissmomo.ch
 swissmoms.ch
 swissmon.ch
@@ -21954,6 +21963,7 @@ swissmortgage.ch
 swissmortgagerates.ch
 swissmortgages.ch
 swissmortgagetokens.ch
+swissmos.ch
 swissmosaic.ch
 swissmosaics.ch
 swissmosca.ch
@@ -23065,6 +23075,7 @@ swissotticashop.ch
 swissou.ch
 swissouc.ch
 swissoui.ch
+swissoul.ch
 swissound.ch
 swissoundstore.ch
 swissourcing.ch
@@ -23094,6 +23105,7 @@ swissoverall.ch
 swissoverlander.ch
 swissovit.ch
 swissowl.ch
+swissowned.ch
 swissowners.ch
 swissox.ch
 swissoximed.ch
@@ -25120,6 +25132,7 @@ swissrecht.ch
 swissrecognition.ch
 swissrecom.ch
 swissrecon.ch
+swissreconnaissance.ch
 swissrecords.ch
 swissrecordsmanagement.ch
 swissrecovery.ch
@@ -25409,6 +25422,7 @@ swissrhythm.ch
 swissrhythmicgymnastics.ch
 swissri.ch
 swissrican.ch
+swissriconoscimento.ch
 swissride-sarl.ch
 swissride.ch
 swissride24.ch
@@ -25505,6 +25519,7 @@ swissrobotskills.ch
 swissroboz.ch
 swissroc-club.ch
 swissroc-properties.ch
+swissroc-real-estate-investment-management.ch
 swissroc.ch
 swissrocclub.ch
 swissrock-finance.ch
@@ -25522,6 +25537,7 @@ swissrockstars.ch
 swissrockyroads.ch
 swissrockys.ch
 swissrocproperties.ch
+swissrocrealestateinvestmentmanagement.ch
 swissrodi.ch
 swissrohnerboots.ch
 swissrohr.ch
@@ -26169,6 +26185,7 @@ swisssocialresearch.ch
 swisssocietyparaplegia.ch
 swisssocks.ch
 swisssoft.ch
+swisssoftdevelopment.ch
 swisssoftware.ch
 swisssoftware24.ch
 swisssoftwareacademy.ch
@@ -30119,6 +30136,7 @@ swn-sogaplanning.ch
 swn.ch
 swnc.ch
 swnet.ch
+swnetz.ch
 swno.ch
 swnr.ch
 swns.ch

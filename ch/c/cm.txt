@@ -491,6 +491,7 @@ cmd.ch
 cmdata.ch
 cmdatabase.ch
 cmdavos.ch
+cmdb-as-code.ch
 cmdbalex.ch
 cmdbalexert.ch
 cmdbp.ch
@@ -859,6 +860,7 @@ cmne.ch
 cmnendaz.ch
 cmnet.ch
 cmnettoyage.ch
+cmnexa.ch
 cmnfy.ch
 cmng.ch
 cmnh.ch
@@ -1144,6 +1146,7 @@ cmsp.ch
 cmspa.ch
 cmsphotography.ch
 cmspi.ch
+cmspoerri.ch
 cmsport.ch
 cmsportal.ch
 cmsportreisen.ch
