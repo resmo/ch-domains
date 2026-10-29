@@ -600,10 +600,8 @@ ns01.vtx.ch
 ns01.webswitch.ch
 ns01.winterthur.ch
 ns01.wonderpass.ch
-ns01.xn--zrisee-informatik-22b.ch
 ns01.xn--zriseeit-65a.ch
 ns01.zem.ch
-ns01.zuerisee-informatik.ch
 ns01.zueriseeit.ch
 ns01.zumgfell.ch
 ns02.a4y.ch
@@ -658,10 +656,8 @@ ns02.vtx.ch
 ns02.webswitch.ch
 ns02.winterthur.ch
 ns02.wonderpass.ch
-ns02.xn--zrisee-informatik-22b.ch
 ns02.xn--zriseeit-65a.ch
 ns02.zem.ch
-ns02.zuerisee-informatik.ch
 ns02.zueriseeit.ch
 ns02.zumgfell.ch
 ns03-1.akros.ch
@@ -725,6 +721,7 @@ ns1.80edays.ch
 ns1.911-motors.ch
 ns1.a-gov.ch
 ns1.a-la-ferme.ch
+ns1.a1-tec.ch
 ns1.a3bau.ch
 ns1.a3erlebnismanufaktur.ch
 ns1.a4agentur.ch
@@ -2494,7 +2491,6 @@ ns1.maralco.ch
 ns1.marco-salzmann.ch
 ns1.marcory.ch
 ns1.marinmueller.ch
-ns1.markattack.ch
 ns1.markethiq.ch
 ns1.marketingfire.ch
 ns1.marktideen.ch
@@ -2578,6 +2574,7 @@ ns1.mietauto24.ch
 ns1.mikroelek.ch
 ns1.milkycloud.ch
 ns1.mints-hosting.ch
+ns1.mio-dominio.ch
 ns1.miomedia.ch
 ns1.mipla.ch
 ns1.miramedia.ch
@@ -3062,7 +3059,6 @@ ns1.pyropac.ch
 ns1.pyxis.ch
 ns1.qboys.ch
 ns1.qid.ch
-ns1.qit-cloud.ch
 ns1.qlns.ch
 ns1.qnetcore.ch
 ns1.qsv.ch
@@ -3084,6 +3080,7 @@ ns1.raagold.ch
 ns1.raan-thai.ch
 ns1.rabbitnet.ch
 ns1.rabiya.ch
+ns1.rackone.ch
 ns1.radiogwen.ch
 ns1.radlosservice.ch
 ns1.railtour.ch
@@ -3528,6 +3525,7 @@ ns1.swissnetzwerk.ch
 ns1.swissns.ch
 ns1.swissphilanthropyacademy.ch
 ns1.swissplaza.ch
+ns1.swissrezension.ch
 ns1.swissteddy.ch
 ns1.swisstrans.ch
 ns1.swizzonicmail.ch
@@ -4084,6 +4082,7 @@ ns2.8305.e-server.ch
 ns2.911-motors.ch
 ns2.a-gov.ch
 ns2.a-la-ferme.ch
+ns2.a1-tec.ch
 ns2.a4agentur.ch
 ns2.a4interactive.ch
 ns2.aare-ortho.ch
@@ -5787,7 +5786,6 @@ ns2.manuelfritschi.ch
 ns2.marco-salzmann.ch
 ns2.marcory.ch
 ns2.marinmueller.ch
-ns2.markattack.ch
 ns2.markethiq.ch
 ns2.marketingfire.ch
 ns2.marktideen.ch
@@ -5863,6 +5861,7 @@ ns2.midix.ch
 ns2.mikroelek.ch
 ns2.milkycloud.ch
 ns2.mints-hosting.ch
+ns2.mio-dominio.ch
 ns2.miomedia.ch
 ns2.mipla.ch
 ns2.miramedia.ch
@@ -6321,7 +6320,6 @@ ns2.pyropac.ch
 ns2.pyxis.ch
 ns2.qboys.ch
 ns2.qid.ch
-ns2.qit-cloud.ch
 ns2.qlns.ch
 ns2.qnetcore.ch
 ns2.qsv.ch
@@ -6342,6 +6340,7 @@ ns2.r1e.ch
 ns2.raagold.ch
 ns2.raan-thai.ch
 ns2.rabbitnet.ch
+ns2.rackone.ch
 ns2.radlosservice.ch
 ns2.railtronic.ch
 ns2.ralphschuler.ch
@@ -6779,6 +6778,7 @@ ns2.swissns.ch
 ns2.swissphilanthropyacademy.ch
 ns2.swissplaza.ch
 ns2.swissregister.ch
+ns2.swissrezension.ch
 ns2.swisstrans.ch
 ns2.swissvon.ch
 ns2.switch.ch
