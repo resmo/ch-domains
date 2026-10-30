@@ -1,6 +1,7 @@
 gx-code.ch
 gx-folienwerk.ch
 gx-inventory.ch
+gx-lane.ch
 gx-market.ch
 gx-primarymarket.ch
 gx-tech.ch
@@ -55,6 +56,7 @@ gxpert.ch
 gxperten.ch
 gxperts.ch
 gxpeters.ch
+gxplane.ch
 gxpmanager.ch
 gxr.ch
 gxracing.ch

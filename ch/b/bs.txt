@@ -263,7 +263,6 @@ bs16.ch
 bs1893.ch
 bs1974.ch
 bs1x1.ch
-bs2.ch
 bs24-switzerland.ch
 bs24.ch
 bs25999.ch
@@ -785,6 +784,7 @@ bsi-crm.ch
 bsi-exam.ch
 bsi-fs.ch
 bsi-holding.ch
+bsi-monitor.ch
 bsi-ms.ch
 bsi-newsmail.ch
 bsi-partner.ch

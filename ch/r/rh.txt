@@ -13,10 +13,10 @@ rh-autoservice.ch
 rh-autotechnik.ch
 rh-avocats.ch
 rh-barren.ch
-rh-bauelemente.ch
 rh-bauleitung.ch
 rh-brillenglas.ch
 rh-car-performance.ch
+rh-caravan.ch
 rh-coaching.ch
 rh-communications.ch
 rh-competences.ch
@@ -2002,7 +2002,6 @@ rhy-blitz.ch
 rhy-carrosserie.ch
 rhy-chind.ch
 rhy-elektro.ch
-rhy-event.ch
 rhy-events.ch
 rhy-express.ch
 rhy-facility.ch
@@ -2095,6 +2094,7 @@ rhydorf.ch
 rhydorfpraxis.ch
 rhydraulik.ch
 rhydroite.ch
+rhydurscht.ch
 rhyelektro.ch
 rhyestate.ch
 rhyevents.ch
@@ -2313,8 +2313,6 @@ rhyrockruethi.ch
 rhyruf.ch
 rhysafe.ch
 rhysauna.ch
-rhysaunaboot.ch
-rhysaunafloss.ch
 rhyscampbell.ch
 rhyschaenzli-gruppe.ch
 rhyschaenzli.ch

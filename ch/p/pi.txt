@@ -1066,7 +1066,6 @@ pic-et-collect.ch
 pic-gmbh.ch
 pic-immobilier.ch
 pic-me.ch
-pic-mundial.ch
 pic-nic.ch
 pic-o-bello.ch
 pic-objectif.ch
@@ -1237,6 +1236,7 @@ piccadillycard.ch
 piccadillymode.ch
 piccadillypizzeria.ch
 piccadillys.ch
+piccadillysix.ch
 piccand-legal.ch
 piccand-vins.ch
 piccand.ch
@@ -1799,6 +1799,7 @@ pickrecords.ch
 picks.ch
 picksea.ch
 pickshop.ch
+pickside.ch
 picksworld.ch
 picksy.ch
 pickte.ch
@@ -1883,7 +1884,6 @@ picmon.ch
 picmonkey.ch
 picmotion.ch
 picmous-naturgaerten.ch
-picmundial.ch
 picmyplace.ch
 picmysport.ch
 picmyway.ch
@@ -2128,7 +2128,6 @@ picthemis.ch
 pictit.ch
 picto.ch
 pictobello.ch
-pictobot.ch
 pictogram.ch
 pictogramme-securite.ch
 pictogrammes.ch
@@ -3439,7 +3438,6 @@ pif.ch
 pifactory.ch
 pifag.ch
 pifax.ch
-pifbistro.ch
 pifeltro.ch
 pifetpaf.ch
 piff.ch
@@ -4478,6 +4476,7 @@ pilateszurich.ch
 pilatez-vous.ch
 pilatheo.ch
 pilathuus.ch
+pilatis.ch
 pilatitude.ch
 pilato.ch
 pilatos360.ch
@@ -6233,7 +6232,6 @@ pingpongdojo.ch
 pingpongevents.ch
 pingpongfreunde.ch
 pingponghalle.ch
-pingpongkarte.ch
 pingpongklub.ch
 pingpongliga.ch
 pingponglong.ch
@@ -6274,7 +6272,6 @@ pinguboerse.ch
 pingucreas.ch
 pingufest.ch
 pingufis.ch
-pingui.ch
 pinguin-escort.ch
 pinguin-industries.ch
 pinguin-pc.ch
@@ -8637,6 +8634,7 @@ pisteguide.ch
 pistehuettli.ch
 pistekiste.ch
 pisteljic.ch
+pisteloc.ch
 pistelog.ch
 pisten-bericht.ch
 pisten-bully.ch
@@ -8654,6 +8652,7 @@ pistenbeizli.ch
 pistenbericht.ch
 pistenberichte.ch
 pistenbock.ch
+pistenbound.ch
 pistenbully.ch
 pistenexpress.ch
 pistenfahrzeuge.ch
@@ -10054,6 +10053,7 @@ pixelotte.ch
 pixelove.ch
 pixeloxid.ch
 pixeloxyd.ch
+pixelpack.ch
 pixelpad.ch
 pixelpager.ch
 pixelpaint.ch
@@ -10154,12 +10154,10 @@ pixelrun.ch
 pixelrunner.ch
 pixels-and-bits.ch
 pixels-and-bones.ch
-pixels-application.ch
 pixels-association.ch
 pixels-bar.ch
 pixels-media.ch
 pixels-points.ch
-pixels-supplychain.ch
 pixels-zombies.ch
 pixels-zombits.ch
 pixels.ch
@@ -11085,7 +11083,6 @@ pizza-mia-express.ch
 pizza-mia-fribourg.ch
 pizza-mia-strengelbach.ch
 pizza-mia.ch
-pizza-michelangelo.ch
 pizza-milano-zh.ch
 pizza-milano.ch
 pizza-milanos-lausanne.ch
@@ -11141,6 +11138,7 @@ pizza-plus.ch
 pizza-podcast.ch
 pizza-poldo.ch
 pizza-popeye-italia.ch
+pizza-portafoglio.ch
 pizza-portal.ch
 pizza-porter.ch
 pizza-post.ch
@@ -11241,6 +11239,7 @@ pizza-werk.ch
 pizza-winterthur.ch
 pizza-yolo.ch
 pizza-yoyo.ch
+pizza-ziegelei.ch
 pizza-zone-belfaux.ch
 pizza-zone.ch
 pizza-zorro.ch
@@ -11844,6 +11843,7 @@ pizzamesso.ch
 pizzamessoburger.ch
 pizzametro.ch
 pizzamia-geneve.ch
+pizzamia-strengelbach.ch
 pizzamia.ch
 pizzamiafribourg.ch
 pizzamichele.ch
@@ -11960,6 +11960,7 @@ pizzapoint.ch
 pizzaponzo.ch
 pizzapop.ch
 pizzapopolo.ch
+pizzaportafoglio.ch
 pizzaporter.ch
 pizzapos.ch
 pizzapost.ch

@@ -1147,7 +1147,6 @@ ns1.c-hub.ch
 ns1.c2i.ch
 ns1.c2r.ch
 ns1.caduff.ch
-ns1.cageholding.ch
 ns1.cahiersaufeu.ch
 ns1.caissedepargnedenyon.ch
 ns1.call-up.ch
@@ -1574,7 +1573,6 @@ ns1.ecowalldesign.ch
 ns1.ecowave.ch
 ns1.ecoweb.ch
 ns1.edebuser.ch
-ns1.educase.ch
 ns1.edunetwork.ch
 ns1.edv-consulting.ch
 ns1.edv-systeme.ch
@@ -1601,7 +1599,6 @@ ns1.elena-nails.ch
 ns1.elitework.ch
 ns1.eliver.ch
 ns1.ello.ch
-ns1.elposnordwest.ch
 ns1.emailto.ch
 ns1.emation.ch
 ns1.emilfrey.ch
@@ -2407,7 +2404,6 @@ ns1.lipogen.ch
 ns1.lisgmail.ch
 ns1.lisgtest.ch
 ns1.litapro.ch
-ns1.liveinfo.ch
 ns1.livemedia.ch
 ns1.livenet.ch
 ns1.livingsense.ch
@@ -2564,7 +2560,6 @@ ns1.mhd.ch
 ns1.miaxcom.ch
 ns1.micell.ch
 ns1.michael-handel.ch
-ns1.michaelminelli.ch
 ns1.microdyn.ch
 ns1.microexpert.ch
 ns1.micromusic.ch
@@ -2610,7 +2605,6 @@ ns1.mount10.ch
 ns1.mountain.ch
 ns1.mountaincloud.ch
 ns1.movehosting.ch
-ns1.movie2go.ch
 ns1.mowgli.ch
 ns1.mp-renovations.ch
 ns1.mpch.ch
@@ -2851,6 +2845,7 @@ ns1.owebdesign.ch
 ns1.owlet.ch
 ns1.owmit-dns.ch
 ns1.ownspace.ch
+ns1.oxyhelp.ch
 ns1.oyez-oyez.ch
 ns1.ozg-hygiene.ch
 ns1.p31.ch
@@ -3018,7 +3013,6 @@ ns1.privat.ch
 ns1.privatekosmetikerin.ch
 ns1.privatemedia.ch
 ns1.privatnet.ch
-ns1.prixbioterra.ch
 ns1.proceed.ch
 ns1.prodosia.ch
 ns1.profectis.ch
@@ -3201,7 +3195,6 @@ ns1.sagar.ch
 ns1.sagitservices.ch
 ns1.sagservices.ch
 ns1.sahac.anniv.ch
-ns1.sahlidom01.ch
 ns1.sakogroup.ch
 ns1.saldia.ch
 ns1.salverte.ch
@@ -3255,7 +3248,6 @@ ns1.scottishfold.ch
 ns1.scoutmediovedeggio.ch
 ns1.scs-ns.ch
 ns1.scuolainfattoria.ch
-ns1.sdgs.ch
 ns1.sdhost.ch
 ns1.sdns.ch
 ns1.seabix.ch
@@ -4012,9 +4004,7 @@ ns10.seedshop.ch
 ns10.sio.ch
 ns10.wnry.ch
 ns101.ihoster.ch
-ns101.mobi-net.ch
 ns102.ihoster.ch
-ns102.mobi-net.ch
 ns103.ihoster.ch
 ns11.akb.ch
 ns11.bucher-walt.ch
@@ -4044,6 +4034,7 @@ ns13.dnsserver.ch
 ns13.nte.ch
 ns13.ocac.ch
 ns13.wuschl.ch
+ns14.ocac.ch
 ns14.q-digital.ch
 ns15.axpr.ch
 ns16.axpr.ch
@@ -4490,7 +4481,6 @@ ns2.c-hub.ch
 ns2.c2i.ch
 ns2.cabinetpodologie.ch
 ns2.caduff.ch
-ns2.cageholding.ch
 ns2.cahiersaufeu.ch
 ns2.caissedepargnedenyon.ch
 ns2.calibour.ch
@@ -4897,7 +4887,6 @@ ns2.ecothermsolar.ch
 ns2.ecowalldesign.ch
 ns2.ecoweb.ch
 ns2.edebuser.ch
-ns2.educase.ch
 ns2.edunetwork.ch
 ns2.edv-consulting.ch
 ns2.edv-systeme.ch
@@ -4924,7 +4913,6 @@ ns2.elena-nails.ch
 ns2.elitework.ch
 ns2.eliver.ch
 ns2.ello.ch
-ns2.elposnordwest.ch
 ns2.email4.ch
 ns2.emailto.ch
 ns2.emation.ch
@@ -5709,7 +5697,6 @@ ns2.lipogen.ch
 ns2.lisgmail.ch
 ns2.lisgtest.ch
 ns2.litapro.ch
-ns2.liveinfo.ch
 ns2.livemedia.ch
 ns2.livenet.ch
 ns2.lm-renovations-lebrun.ch
@@ -5853,7 +5840,6 @@ ns2.mgit.ch
 ns2.mhd.ch
 ns2.miaxcom.ch
 ns2.micell.ch
-ns2.michaelminelli.ch
 ns2.microexpert.ch
 ns2.micromusic.ch
 ns2.microosoft.ch
@@ -5893,7 +5879,6 @@ ns2.mount10.ch
 ns2.mountain.ch
 ns2.mountaincloud.ch
 ns2.movehosting.ch
-ns2.movie2go.ch
 ns2.mp-renovations.ch
 ns2.mpch.ch
 ns2.mphotos.ch
@@ -6120,6 +6105,7 @@ ns2.owcd.ch
 ns2.owebdesign.ch
 ns2.owmit-dns.ch
 ns2.ownspace.ch
+ns2.oxyhelp.ch
 ns2.oyez-oyez.ch
 ns2.ozg-hygiene.ch
 ns2.p31.ch
@@ -6277,7 +6263,6 @@ ns2.privat.ch
 ns2.privatekosmetikerin.ch
 ns2.privatemedia.ch
 ns2.privatnet.ch
-ns2.prixbioterra.ch
 ns2.proceed.ch
 ns2.prodosia.ch
 ns2.profectis.ch
@@ -6452,7 +6437,6 @@ ns2.sagar.ch
 ns2.sagitservices.ch
 ns2.sagservices.ch
 ns2.sahac.anniv.ch
-ns2.sahlidom01.ch
 ns2.sakogroup.ch
 ns2.saldia.ch
 ns2.salverte.ch
@@ -6503,7 +6487,6 @@ ns2.scottishfold.ch
 ns2.scoutmediovedeggio.ch
 ns2.scs-ns.ch
 ns2.scuolainfattoria.ch
-ns2.sdgs.ch
 ns2.sdhost.ch
 ns2.sdns.ch
 ns2.seabix.ch

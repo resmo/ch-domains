@@ -1,5 +1,4 @@
 hb-101.ch
-hb-535.ch
 hb-536.ch
 hb-902.ch
 hb-adventure.ch
@@ -43,7 +42,6 @@ hb-foodcourt.ch
 hb-gaestehaus.ch
 hb-gartenbau.ch
 hb-gartenschutzanlagen.ch
-hb-geruestbau.ch
 hb-gipser.ch
 hb-grafik.ch
 hb-group.ch
@@ -127,7 +125,6 @@ hb-werdenberg.ch
 hb-winterdienst.ch
 hb-worldwide.ch
 hb-yacht.ch
-hb-ypr.ch
 hb-zuerich.ch
 hb1.ch
 hb10gbt.ch
@@ -478,6 +475,7 @@ hb9irx.ch
 hb9it.ch
 hb9itg.ch
 hb9iti.ch
+hb9itj.ch
 hb9itz.ch
 hb9iui.ch
 hb9ius.ch
