@@ -213,6 +213,7 @@ e-basistheorie.ch
 e-bass.ch
 e-bassunterricht-luzern.ch
 e-bassunterricht.ch
+e-batiment.ch
 e-batterie.ch
 e-bau.ch
 e-baubewilligung.ch
@@ -566,6 +567,7 @@ e-carhunt24.ch
 e-carnaby.ch
 e-carpooling.ch
 e-carre.ch
+e-carrelage.ch
 e-carrosserie.ch
 e-cars-swiss.ch
 e-cars.ch
@@ -754,6 +756,7 @@ e-conomy.ch
 e-cons.ch
 e-conseil.ch
 e-consent.ch
+e-construction.ch
 e-consular.ch
 e-consult.ch
 e-consulting.ch
@@ -855,6 +858,7 @@ e-delwatt.ch
 e-democracy-aarau.ch
 e-demokratie-aarau.ch
 e-demokratie.ch
+e-demolition.ch
 e-dentic.ch
 e-dentika.ch
 e-dentity.ch
@@ -2280,6 +2284,7 @@ e-parkplatz.ch
 e-parktower.ch
 e-parl.ch
 e-parlament.ch
+e-parquet.ch
 e-partei.ch
 e-partizipation.ch
 e-partner.ch
@@ -2306,6 +2311,7 @@ e-pdf.ch
 e-peakgmbh.ch
 e-peas.ch
 e-peds.ch
+e-peinture.ch
 e-pension.ch
 e-peps.ch
 e-perfect.ch
@@ -2358,6 +2364,7 @@ e-planplus.ch
 e-planung.ch
 e-plastique.ch
 e-platform.ch
+e-platrerie.ch
 e-plattform.ch
 e-plattformwagen.ch
 e-pluggs.ch
@@ -2585,6 +2592,12 @@ e-remy.ch
 e-renaultmieten.ch
 e-renensest.ch
 e-renouvelable.ch
+e-renovation-appartement.ch
+e-renovation-cuisine.ch
+e-renovation-habitat.ch
+e-renovation-maison.ch
+e-renovation-piscine.ch
+e-renovation.ch
 e-rent.ch
 e-rentes.ch
 e-rep.ch
@@ -2921,7 +2934,6 @@ e-stavayer.ch
 e-steam.ch
 e-steel.ch
 e-steffen.ch
-e-steine.ch
 e-stellenmarkt.ch
 e-steuern.ch
 e-stim.ch
@@ -3254,7 +3266,6 @@ e-via-services.ch
 e-via.ch
 e-vice.ch
 e-vicus.ch
-e-vidence.ch
 e-video.ch
 e-view.ch
 e-viewer.ch

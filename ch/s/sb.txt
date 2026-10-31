@@ -54,6 +54,7 @@ sb-g.ch
 sb-gestion.ch
 sb-global.ch
 sb-gmbh.ch
+sb-gr.ch
 sb-graphicdesign.ch
 sb-graphicsolutions.ch
 sb-group-ag.ch
@@ -583,7 +584,6 @@ sbcloud.ch
 sbcluzern.ch
 sbcms.ch
 sbco.ch
-sbcoa.ch
 sbcoach.ch
 sbcoaching.ch
 sbcoffice.ch
@@ -804,6 +804,7 @@ sbi-ag.ch
 sbi-baselland.ch
 sbi-bern.ch
 sbi-nein.ch
+sbi-rating.ch
 sbi-security.ch
 sbi-services.ch
 sbi-swissbau.ch
@@ -854,6 +855,7 @@ sbinstitut.ch
 sbinvestment.ch
 sbio.ch
 sbiocos.ch
+sbirating.ch
 sbirchler.ch
 sbirchmeier.ch
 sbire.ch

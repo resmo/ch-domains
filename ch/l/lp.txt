@@ -218,7 +218,6 @@ lpg-guinot-bienne.ch
 lpg-keller.ch
 lpg-kontrolle.ch
 lpg-logistik.ch
-lpg-suisse.ch
 lpg-zug.ch
 lpg.ch
 lpgag.ch
@@ -412,6 +411,8 @@ lpswissbau.ch
 lpsystems.ch
 lpt.ch
 lpt1.ch
+lptab-compliance.ch
+lptabcompliance.ch
 lptattoo.ch
 lptde.ch
 lpte.ch

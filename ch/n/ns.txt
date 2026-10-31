@@ -314,7 +314,6 @@ ns.leontescu.ch
 ns.lernmechanik.ch
 ns.librevent.ch
 ns.lionsdelemont.ch
-ns.littlewit.ch
 ns.lnmanagement.ch
 ns.lsenet.ch
 ns.lw3.ch
@@ -1011,6 +1010,7 @@ ns1.bestewimpernseren.ch
 ns1.bestsear.ch
 ns1.beta-solutions.ch
 ns1.betasolutions.ch
+ns1.betboutique.ch
 ns1.beton-rc.ch
 ns1.bettens.ch
 ns1.bettle.ch
@@ -1268,7 +1268,6 @@ ns1.coiffurederya.ch
 ns1.coiffureenz.ch
 ns1.collegiopapio.ch
 ns1.coltellino.ch
-ns1.com2b.ch
 ns1.com2web.ch
 ns1.comasys.ch
 ns1.combrain.ch
@@ -2090,7 +2089,6 @@ ns1.iims3.ch
 ns1.ikaglobal.ch
 ns1.iliantaini.ch
 ns1.ilmionome.ch
-ns1.im-digitalen-raum.ch
 ns1.im-riet.ch
 ns1.imd.ch
 ns1.imediasolutions.ch
@@ -2138,6 +2136,7 @@ ns1.inprocom.ch
 ns1.inprodicon.ch
 ns1.insel.ch
 ns1.inseratedispo.ch
+ns1.inseratex.ch
 ns1.institut-la-vallee.ch
 ns1.insval.ch
 ns1.insyma.ch
@@ -2530,7 +2529,6 @@ ns1.mediatech2000.ch
 ns1.mediavail.ch
 ns1.mediawerft.ch
 ns1.medical-emergency.ch
-ns1.megamin.ch
 ns1.meganit.ch
 ns1.megavital.ch
 ns1.megaweb.ch
@@ -3500,7 +3498,6 @@ ns1.swisscaution.ch
 ns1.swisscloudhosting.ch
 ns1.swissclouds.ch
 ns1.swisscum.ch
-ns1.swissdigit.ch
 ns1.swissdyndns.ch
 ns1.swissfarming.ch
 ns1.swissfile.ch
@@ -4353,6 +4350,7 @@ ns2.bestewimpernseren.ch
 ns2.bestsear.ch
 ns2.beta-solutions.ch
 ns2.betasolutions.ch
+ns2.betboutique.ch
 ns2.beton-rc.ch
 ns2.bettens.ch
 ns2.bettle.ch
@@ -4604,7 +4602,6 @@ ns2.coiffurederya.ch
 ns2.coiffureenz.ch
 ns2.collegiopapio.ch
 ns2.coltellino.ch
-ns2.com2b.ch
 ns2.com2web.ch
 ns2.comasys.ch
 ns2.combrain.ch
@@ -5391,7 +5388,6 @@ ns2.iims3.ch
 ns2.ikaglobal.ch
 ns2.iliantaini.ch
 ns2.ilmionome.ch
-ns2.im-digitalen-raum.ch
 ns2.im-riet.ch
 ns2.imd.ch
 ns2.imediasolutions.ch
@@ -5441,6 +5437,7 @@ ns2.inprocom.ch
 ns2.inprodicon.ch
 ns2.insel.ch
 ns2.inseratedispo.ch
+ns2.inseratex.ch
 ns2.institut-la-vallee.ch
 ns2.insval.ch
 ns2.insyma.ch
@@ -5817,7 +5814,6 @@ ns2.mediavail.ch
 ns2.mediawerft.ch
 ns2.medical-emergency.ch
 ns2.medienpreis-ostschweiz.ch
-ns2.megamin.ch
 ns2.meganit.ch
 ns2.megavital.ch
 ns2.megaweb.ch
@@ -6742,7 +6738,6 @@ ns2.swisscaution.ch
 ns2.swisscloudhosting.ch
 ns2.swissclouds.ch
 ns2.swisscum.ch
-ns2.swissdigit.ch
 ns2.swissdyndns.ch
 ns2.swisselectricity.ch
 ns2.swissfarming.ch
@@ -7325,6 +7320,7 @@ ns3.bensolution.ch
 ns3.bergerhome.ch
 ns3.bergnetz.ch
 ns3.bergtouren.ch
+ns3.betboutique.ch
 ns3.bettens.ch
 ns3.bger.ch
 ns3.biehler-stiftungen.ch
@@ -7384,7 +7380,6 @@ ns3.cloudscale.ch
 ns3.clweb.ch
 ns3.codename.ch
 ns3.coltellino.ch
-ns3.com2b.ch
 ns3.com2web.ch
 ns3.comparis.ch
 ns3.compdesign.ch
@@ -8439,6 +8434,7 @@ ns9.goline.ch
 ns9.neotrend.ch
 ns91.rtnet.ch
 ns92.rtnet.ch
+nsa-acme.ch
 nsa-construction.ch
 nsa-eg.ch
 nsa-geneve.ch
@@ -8851,6 +8847,7 @@ nsu-club.ch
 nsu.ch
 nsuisse.ch
 nsur.ch
+nsurancy.ch
 nsure.ch
 nsuro80.ch
 nsus.ch

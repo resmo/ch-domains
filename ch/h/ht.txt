@@ -381,7 +381,6 @@ http3.ch
 http301.ch
 http418.ch
 httpd.ch
-httpdanauerba.ch
 httpdnet.ch
 httpid.ch
 httpjuerg-schlaepferch.ch
