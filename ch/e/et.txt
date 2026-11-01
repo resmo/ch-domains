@@ -266,11 +266,13 @@ etapack.ch
 etape-esta.ch
 etape-f.ch
 etape-gtj.ch
+etape-marly.ch
 etape.ch
 etapecm.ch
 etapedelourantze.ch
 etapef.ch
 etapefribourg.ch
+etapemarly.ch
 etapes-buissonnieres.ch
 etapes-de-vie.ch
 etapes-marocaines.ch
@@ -321,7 +323,6 @@ etatbrut.ch
 etatcivil.ch
 etatdame.ch
 etatdepose.ch
-etatdesiege.ch
 etatdeslieux.ch
 etatdeslieuxlausanne.ch
 etatdesprit.ch
@@ -953,7 +954,6 @@ ethdomains.ch
 ethdruckerei.ch
 ethdurability.ch
 ethec.ch
-etheera.ch
 etheiler-transporte.ch
 ethel-commons.ch
 ethel-dev.ch
@@ -1931,6 +1931,7 @@ etmike.ch
 etml-es.ch
 etml.ch
 etmlincognito.ch
+etmlstudents.ch
 etmnext.ch
 etmoi.ch
 etmoietmoi.ch
@@ -1943,7 +1944,6 @@ etna-consulting.ch
 etna-handels-ag.ch
 etna-lounge.ch
 etna-mobil.ch
-etna-pizza.ch
 etna-sila.ch
 etna.ch
 etna3340.ch

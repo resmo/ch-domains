@@ -1694,7 +1694,6 @@ ns1.fdux.ch
 ns1.feedodo.ch
 ns1.fegetz-allee.ch
 ns1.feierabendbier.ch
-ns1.felines.ch
 ns1.fermes-ouvertes.ch
 ns1.feusolidarite.ch
 ns1.fhvi.ch
@@ -5006,7 +5005,6 @@ ns2.fcz.ch
 ns2.fdka.ch
 ns2.fdux.ch
 ns2.feedodo.ch
-ns2.felines.ch
 ns2.fermes-ouvertes.ch
 ns2.feusolidarite.ch
 ns2.fhv.ch
@@ -5932,6 +5930,7 @@ ns2.n3t.ch
 ns2.nabiona.ch
 ns2.nacloud.ch
 ns2.nadesign.ch
+ns2.nadisand.ch
 ns2.naissances.ch
 ns2.namesrv.ch
 ns2.nana-doener.ch
@@ -7433,6 +7432,7 @@ ns3.dosim.ch
 ns3.dreamdiver.ch
 ns3.dreamhost.ch
 ns3.dsw-ag.ch
+ns3.dtct.ch
 ns3.dynabyte.ch
 ns3.e-future.ch
 ns3.e-park.ch
@@ -7705,6 +7705,7 @@ ns3.mysticindigo.ch
 ns3.mywebhost.ch
 ns3.n3network.ch
 ns3.nabiona.ch
+ns3.nadisand.ch
 ns3.namemaster.ch
 ns3.namesrv.ch
 ns3.nashire.ch
@@ -8145,6 +8146,7 @@ ns4.incide.ch
 ns4.infoconnect.ch
 ns4.infomaniak-test-migration-mailonly-deux.ch
 ns4.infraconsult.ch
+ns4.isanova.ch
 ns4.iteconomy.ch
 ns4.itrain.ch
 ns4.jabr.ch
@@ -8431,6 +8433,7 @@ ns9.b-source.ch
 ns9.bellinzonaweb.ch
 ns9.engitech.ch
 ns9.goline.ch
+ns9.isanova.ch
 ns9.neotrend.ch
 ns91.rtnet.ch
 ns92.rtnet.ch
@@ -8623,6 +8626,7 @@ nsh-peinture.ch
 nsh.ch
 nshconstruction.ch
 nshdesigns.ch
+nsherifi.ch
 nshift.ch
 nshillova.ch
 nshine-art.ch

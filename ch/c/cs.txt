@@ -120,7 +120,6 @@ cs-leckortung.ch
 cs-lenggenwil.ch
 cs-let.ch
 cs-liegenschaften.ch
-cs-lifestyle.ch
 cs-linth.ch
 cs-lischana-scuol.ch
 cs-lumi.ch
@@ -155,6 +154,7 @@ cs-productions.ch
 cs-pub.ch
 cs-pvpro.ch
 cs-pws.ch
+cs-qc.ch
 cs-r.ch
 cs-realestate.ch
 cs-reiat.ch
@@ -1438,6 +1438,7 @@ css-insurance.ch
 css-intern.ch
 css-it.ch
 css-jeanzsa.ch
+css-krankenkasse.ch
 css-krebs.ch
 css-lebenszeit.ch
 css-livecom.ch
