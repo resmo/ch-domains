@@ -912,7 +912,6 @@ my-ip.ch
 my-ipc.ch
 my-ipstore.ch
 my-iptv.ch
-my-iptvplus.ch
 my-iris.ch
 my-islam.ch
 my-island.ch
@@ -1770,6 +1769,7 @@ my-tangram.ch
 my-tardoc.ch
 my-tarpoint.ch
 my-tastenworld.ch
+my-tattoo.ch
 my-tattooconvention.ch
 my-tax-advisor.ch
 my-tax-agent.ch
@@ -2502,6 +2502,7 @@ myauditreport.ch
 myauer.ch
 myaugenarzt.ch
 myauktion.ch
+myaura.ch
 myauraspirit.ch
 myauris.ch
 myaurora.ch
@@ -2781,7 +2782,6 @@ mybellinzona.ch
 mybells.ch
 mybeloved.ch
 mybeloveddestinations.ch
-mybelovedlouise.ch
 mybelsoft.ch
 mybemo.ch
 mybenchly.ch
@@ -5366,6 +5366,7 @@ myfitsap.ch
 myfitshake.ch
 myfive.ch
 myfivetravel.ch
+myfivora.ch
 myfix.ch
 myfixio.ch
 myfixpoint.ch
@@ -6227,6 +6228,7 @@ myhip.ch
 myhippyhome.ch
 myhirslanden.ch
 myhistory.ch
+myhistudio.ch
 myhit.ch
 myhive.ch
 myhlcmedia.ch
@@ -8066,7 +8068,6 @@ mymp.ch
 mymp3.ch
 mympa.ch
 mympk.ch
-mymri.ch
 myms.ch
 mymsctradefinance.ch
 mymsd.ch
@@ -8473,6 +8474,7 @@ myofascialrelease.ch
 myofascialtaping.ch
 myofascix.ch
 myoffer.ch
+myoffer24.ch
 myoffers.ch
 myofferta.ch
 myofferte.ch
@@ -9713,6 +9715,7 @@ myrentgo.ch
 myrenzbox.ch
 myrepair.ch
 myreport.ch
+myreporter.ch
 myreports.ch
 myrepose.ch
 myres.ch
@@ -10353,7 +10356,6 @@ mysexadvisor.ch
 mysexaffair.ch
 mysexyhomepage.ch
 mysexypartner.ch
-mysexyswitzerland.ch
 mysf.ch
 mysfb.ch
 mysfd.ch
@@ -10906,18 +10908,21 @@ mysteredelune.ch
 mysteres.ch
 mysteresadomicile.ch
 mysteresauxormonts.ch
+mysteresdelasuisse.ch
 mysteresduflon.ch
 mysteresdulac.ch
 mysteri-house.ch
 mysteri.ch
 mysteria.ch
 mysteriaevent.ch
+mysteriahelvetica.ch
 mysteriar.ch
 mysterie.ch
 mysteriendramen.ch
 mysteriendramenensemble-basel.ch
 mysterienschule.ch
 mysteriesdasoriginal.ch
+mysteriesofswitzerland.ch
 mysterio.ch
 mysterion.ch
 mysterioso.ch
@@ -11019,6 +11024,7 @@ mysteryroom.ch
 mysteryrooms.ch
 mysterys-games.ch
 mysterys.ch
+mysteryschool.ch
 mysterysear.ch
 mysteryshisha.ch
 mysteryshop.ch
@@ -11676,6 +11682,7 @@ mytaply.ch
 mytas.ch
 mytasty.ch
 mytatil.ch
+mytattoo.ch
 mytattooconvention.ch
 mytauchshop.ch
 mytavolata.ch
@@ -11899,6 +11906,7 @@ mythenschloss.ch
 mythenschmuck.ch
 mythenschule.ch
 mythenshop.ch
+mythensport.ch
 mythensquash.ch
 mythenstahl.ch
 mythensteel.ch
@@ -12756,6 +12764,7 @@ mywebserver.ch
 mywebshop.ch
 mywebsite-localsearch.ch
 mywebsite.ch
+mywebsite24.ch
 mywebsites.ch
 mywebstore.ch
 mywebstyle.ch

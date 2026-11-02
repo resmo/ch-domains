@@ -913,7 +913,6 @@ ns1.atrix-consult-gmbh.ch
 ns1.audiogen.ch
 ns1.aurafilm.ch
 ns1.aurelisferrum.ch
-ns1.auroranet.ch
 ns1.aussteiger-info.ch
 ns1.autorenwerkstatt.ch
 ns1.avaloq-sourcing.ch
@@ -1483,7 +1482,6 @@ ns1.dnsguardian.ch
 ns1.dnshub.ch
 ns1.dnsking.ch
 ns1.dnsproxy.ch
-ns1.dnssec.ch
 ns1.dnssecure.ch
 ns1.dnssecurity.ch
 ns1.dnsserver.ch
@@ -3625,7 +3623,6 @@ ns1.tousdescons.ch
 ns1.toutypasse.ch
 ns1.tozoo.ch
 ns1.tr-webdesign.ch
-ns1.traber-web.ch
 ns1.tradesystem.ch
 ns1.tradeup.ch
 ns1.train4it.ch
@@ -4254,7 +4251,6 @@ ns2.atrix-consult-gmbh.ch
 ns2.audiogen.ch
 ns2.aurafilm.ch
 ns2.aurelisferrum.ch
-ns2.auroranet.ch
 ns2.aussteiger-info.ch
 ns2.autorenwerkstatt.ch
 ns2.autorodel.ch
@@ -4803,7 +4799,6 @@ ns2.dnsguardian.ch
 ns2.dnshub.ch
 ns2.dnsking.ch
 ns2.dnsproxy.ch
-ns2.dnssec.ch
 ns2.dnssecure.ch
 ns2.dnssecurity.ch
 ns2.dnsserver.ch
@@ -7288,7 +7283,6 @@ ns3.askben.ch
 ns3.assistancepc.ch
 ns3.asstra.ch
 ns3.aurafilm.ch
-ns3.auroranet.ch
 ns3.autorenwerkstatt.ch
 ns3.autorodel.ch
 ns3.avalisnt.ch
@@ -8054,7 +8048,6 @@ ns4.apexis.ch
 ns4.arjun.ch
 ns4.as2.ch
 ns4.aurafilm.ch
-ns4.auroranet.ch
 ns4.avalisnt.ch
 ns4.avaloq-sourcing.ch
 ns4.avaloq.ch
@@ -8821,6 +8814,7 @@ nstcm.ch
 nstcr.ch
 nste.ch
 nstech.ch
+nstein.ch
 nsteity.ch
 nstemporary.ch
 nsterki.ch
