@@ -79,6 +79,7 @@ ec-play.ch
 ec-powerkurier.ch
 ec-regiobahk.ch
 ec-reglobahk.ch
+ec-regobahk.ch
 ec-rental.ch
 ec-reqiobahk.ch
 ec-rheinfelden.ch
@@ -1855,6 +1856,8 @@ eclipseboundaries.ch
 eclipsecars.ch
 eclipsecircle.ch
 eclipsecross.ch
+eclipsecrown.ch
+eclipsecrowncasino.ch
 eclipsedesign.ch
 eclipsefilm.ch
 eclipsefilms.ch
@@ -2481,6 +2484,7 @@ eco-viridis.ch
 eco-vivo.ch
 eco-voiturage.ch
 eco-voiture.ch
+eco-volta.ch
 eco-vorhang.ch
 eco-voyance.ch
 eco-vr.ch
@@ -3008,6 +3012,7 @@ ecofashion.ch
 ecofashionlab.ch
 ecofass.ch
 ecofeed.ch
+ecofelt.ch
 ecofen.ch
 ecofenster.ch
 ecofer.ch

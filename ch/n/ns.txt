@@ -1736,7 +1736,6 @@ ns1.floor.ch
 ns1.floowedit.ch
 ns1.florv.ch
 ns1.flosing.ch
-ns1.flow.ch
 ns1.flyforfun.ch
 ns1.flyingservers.ch
 ns1.focus-it.ch
@@ -1760,6 +1759,7 @@ ns1.frankie.ch
 ns1.freebrain.ch
 ns1.freesites.ch
 ns1.freiberger-pferde.ch
+ns1.freiheitundliebe.ch
 ns1.frequency.ch
 ns1.fretcom.ch
 ns1.frey-net.ch
@@ -3050,7 +3050,6 @@ ns1.qboys.ch
 ns1.qid.ch
 ns1.qlns.ch
 ns1.qnetcore.ch
-ns1.qsv.ch
 ns1.qsv02.ch
 ns1.qsv1.ch
 ns1.quadiant.ch
@@ -3086,7 +3085,6 @@ ns1.rc-timing.ch
 ns1.rcop.ch
 ns1.rda.ch
 ns1.reachup.ch
-ns1.ready4lap.ch
 ns1.realness.ch
 ns1.rebelduck.ch
 ns1.reci.ch
@@ -3478,7 +3476,6 @@ ns1.swiprode.ch
 ns1.swiss-bike-training.ch
 ns1.swiss-dt.ch
 ns1.swiss-farmers.ch
-ns1.swiss-media360.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
 ns1.swiss-server.ch
@@ -5043,7 +5040,6 @@ ns2.flm-immo.ch
 ns2.floor.ch
 ns2.floowedit.ch
 ns2.flosing.ch
-ns2.flow.ch
 ns2.flyingservers.ch
 ns2.focus-it.ch
 ns2.fogdns.ch
@@ -5066,6 +5062,7 @@ ns2.frankie.ch
 ns2.freesites.ch
 ns2.freewifi.ch
 ns2.freiberger-pferde.ch
+ns2.freiheitundliebe.ch
 ns2.frequency.ch
 ns2.fretcom.ch
 ns2.frey-net.ch
@@ -6297,7 +6294,6 @@ ns2.qboys.ch
 ns2.qid.ch
 ns2.qlns.ch
 ns2.qnetcore.ch
-ns2.qsv.ch
 ns2.qsv02.ch
 ns2.qsv1.ch
 ns2.quadiant.ch
@@ -6330,7 +6326,6 @@ ns2.rc-timing.ch
 ns2.rcop.ch
 ns2.rda.ch
 ns2.reachup.ch
-ns2.ready4lap.ch
 ns2.real-stein.ch
 ns2.realness.ch
 ns2.rebelduck.ch
@@ -6716,7 +6711,6 @@ ns2.swiss-dt.ch
 ns2.swiss-electricity.ch
 ns2.swiss-farmers.ch
 ns2.swiss-made-store.ch
-ns2.swiss-media360.ch
 ns2.swiss-pc.ch
 ns2.swiss-portal.ch
 ns2.swiss-server.ch
