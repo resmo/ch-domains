@@ -399,7 +399,6 @@ mdgconsulting.ch
 mdgdesk.ch
 mdge.ch
 mdgestion.ch
-mdgfog.ch
 mdggreen.ch
 mdgm.ch
 mdgmassagen.ch
@@ -589,6 +588,7 @@ mdn-bau.ch
 mdn-gu.ch
 mdn.ch
 mdna.ch
+mdnet.ch
 mdnettoyage.ch
 mdnettoyages.ch
 mdneurologie.ch
@@ -705,6 +705,9 @@ mds-bau.ch
 mds-bex.ch
 mds-demo.ch
 mds-design.ch
+mds-digital-ag.ch
+mds-digital-isms.ch
+mds-digital-qms.ch
 mds-digital.ch
 mds-drive.ch
 mds-entertainment.ch
@@ -717,6 +720,7 @@ mds-groupe.ch
 mds-gym.ch
 mds-haustechnik.ch
 mds-immobilien.ch
+mds-isms.ch
 mds-lueftungsreinigung.ch
 mds-media.ch
 mds-mediaproduction.ch
@@ -728,6 +732,7 @@ mds-nutrition.ch
 mds-online.ch
 mds-plattform-schweiz.ch
 mds-plattform.ch
+mds-qms.ch
 mds-ruch.ch
 mds-sa.ch
 mds-serrurerie.ch
@@ -755,6 +760,12 @@ mdscoaching.ch
 mdsconsultant.ch
 mdscredits.ch
 mdsdental.ch
+mdsdigital-ag.ch
+mdsdigital-isms.ch
+mdsdigital-qms.ch
+mdsdigitalag.ch
+mdsdigitalisms.ch
+mdsdigitalqms.ch
 mdse-consulting.ch
 mdsec.ch
 mdsec365.ch
@@ -778,6 +789,7 @@ mdsign.ch
 mdsilva.ch
 mdsimmobilien.ch
 mdsinformatique.ch
+mdsisms.ch
 mdsk.ch
 mdskiweekend.ch
 mdslancy.ch
@@ -793,6 +805,7 @@ mdspeinture.ch
 mdsprogrammation.ch
 mdsproject.ch
 mdsprojects.ch
+mdsqms.ch
 mdsreinigung.ch
 mdsrenobat.ch
 mdsro.ch

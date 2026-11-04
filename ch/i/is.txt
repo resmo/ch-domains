@@ -364,6 +364,7 @@ isabelle-edye.ch
 isabelle-egger.ch
 isabelle-engel.ch
 isabelle-engemann.ch
+isabelle-enneagramm.ch
 isabelle-et-marcos.ch
 isabelle-favre.ch
 isabelle-focusandflow.ch
@@ -389,6 +390,7 @@ isabelle-kaspar.ch
 isabelle-keller.ch
 isabelle-kern.ch
 isabelle-koenig.ch
+isabelle-lang.ch
 isabelle-leclercq.ch
 isabelle-ledergerber.ch
 isabelle-lehmann.ch
@@ -980,7 +982,6 @@ isaya.ch
 isayahwear.ch
 isayana.ch
 isaymedical.ch
-isaypierre.ch
 isayyes.ch
 isaz-solutions.ch
 isaz.ch
@@ -1440,7 +1441,6 @@ iselidesign.ch
 iselielectric.ch
 iselieng.ch
 iseligemuese.ch
-iselihanspeter.ch
 iselihof.ch
 iselin-ag.ch
 iselin-architekten.ch
@@ -1682,7 +1682,6 @@ isfteh.ch
 isfv.ch
 isfvzh.ch
 isfw-sg.ch
-isg-ag.ch
 isg-akademie.ch
 isg-blockade.ch
 isg-congress.ch
@@ -2546,6 +2545,8 @@ ismr.ch
 isms-27001.ch
 isms-cloud.ch
 isms-maps.ch
+isms-mds.ch
+isms-mdsdigital.ch
 isms-plus.ch
 isms-software.ch
 isms-werkbank.ch
@@ -2671,6 +2672,7 @@ iso-swisstechnick.ch
 iso-swisstechnik.ch
 iso-system.ch
 iso-tec.ch
+iso-tech.ch
 iso-technik-ef.ch
 iso-technik.ch
 iso-technique.ch
@@ -3655,7 +3657,6 @@ israelim.ch
 israelinfo.ch
 israeliran.ch
 israelitisches-wochenblatt.ch
-israelkleingruppe.ch
 israelmarathon.ch
 israelmuseum.ch
 israelnetz.ch

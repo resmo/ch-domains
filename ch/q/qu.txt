@@ -3174,7 +3174,6 @@ queens-house.ch
 queens-ice-tea.ch
 queens-mode.ch
 queens-of-cruise.ch
-queens-palace.ch
 queens-ranch.ch
 queens-tattoo.ch
 queens-work.ch
@@ -4537,6 +4536,7 @@ quickpage.ch
 quickpagex.ch
 quickpaid.ch
 quickpanier.ch
+quickpark.ch
 quickparts.ch
 quickpass.ch
 quickpay.ch
@@ -4634,6 +4634,7 @@ quicksoup.ch
 quickspace.ch
 quickspark.ch
 quickspeed.ch
+quickspot.ch
 quickssl.ch
 quickstaff.ch
 quickstamp.ch
@@ -5532,6 +5533,7 @@ qunav.ch
 qundis.ch
 qundq.ch
 qunex.ch
+qunexo.ch
 quni.ch
 qunik.ch
 quniq.ch

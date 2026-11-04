@@ -1,13 +1,17 @@
 qm-arztpraxis.ch
 qm-berater.ch
 qm-beratung.ch
+qm-biomass-dh-plants.ch
 qm-chauffage-bois.ch
 qm-chauffages-bois.ch
+qm-chauffagesaubois.ch
 qm-consulting.ch
 qm-holzheizwerke.ch
 qm-impianti-legna.ch
+qm-impiantialegna.ch
 qm-insider.ch
 qm-lebensmittelrecht.ch
+qm-legna.ch
 qm-lehmann.ch
 qm-meier.ch
 qm-montagen.ch
@@ -126,6 +130,8 @@ qmreseauxthermique.ch
 qmrop.ch
 qms-apotheke.ch
 qms-gastrosophie.ch
+qms-mds.ch
+qms-mdsdigital.ch
 qms-medicosmetics.ch
 qms-pharma.ch
 qms-pharmacie.ch
@@ -136,6 +142,7 @@ qms.ch
 qmsagency.ch
 qmsbase.ch
 qmservice.ch
+qmsmds.ch
 qmsmedicosmetics.ch
 qmsoftware.ch
 qmsolar.ch

@@ -413,7 +413,6 @@ lobyrin.ch
 loc-ai.ch
 loc-altitude.ch
 loc-ams.ch
-loc-auto.ch
 loc-elevateur.ch
 loc-est.ch
 loc-event.ch
@@ -1315,8 +1314,10 @@ locarnocampagna.ch
 locarnocard.ch
 locarnocasino.ch
 locarnocinema.ch
+locarnocittadelcinema.ch
 locarnocittadellapace.ch
 locarnocityguide.ch
+locarnocityoffilm.ch
 locarnocitytours.ch
 locarnocultura.ch
 locarnoevent.ch
@@ -1808,6 +1809,7 @@ locauxmqp.ch
 locav.ch
 locavio.ch
 locaviva.ch
+locavo.ch
 locaweb.ch
 locawing.ch
 locaya.ch
@@ -2638,6 +2640,7 @@ loeffelkiste.ch
 loeffelliste.ch
 loeffelmahlzeit.ch
 loeffelnuss.ch
+loeffelps.ch
 loeffels.ch
 loeffelsberg.ch
 loeffelschmiede.ch
@@ -3505,6 +3508,7 @@ loftamseearosa.ch
 loftandmore.ch
 loftark.ch
 loftart.ch
+loftat.ch
 loftbahnhofstrasse.ch
 loftbahnhofstrasse63.ch
 loftbau.ch
@@ -3983,6 +3987,7 @@ logicdev.ch
 logicdivision.ch
 logiceco.ch
 logicfinder.ch
+logicforge.ch
 logicfusion.ch
 logicgroupag.ch
 logichain.ch
@@ -4076,6 +4081,7 @@ logics.ch
 logicsale.ch
 logicsolution.ch
 logicsolutions.ch
+logicswissfinder.ch
 logictide-cloud.ch
 logictide-computer.ch
 logictide-gmbh.ch
@@ -5399,6 +5405,7 @@ logx.ch
 logxon.ch
 logxy.ch
 logy.ch
+logya.ch
 logyflow.ch
 logyplan.ch
 logystem.ch
@@ -5809,8 +5816,6 @@ loi-e-id-non.ch
 loi-e-id-oui.ch
 loi-eid-non.ch
 loi-eid-oui.ch
-loi-electricite-non.ch
-loi-electricite-oui.ch
 loi-electricite.ch
 loi-energie-non.ch
 loi-energie-vd-non.ch
@@ -6001,6 +6006,7 @@ loire-weine.ch
 loire.ch
 loirien.ch
 loirotec-swiss.ch
+loiru.ch
 lois.ch
 loisachtaler-hundenaturkost.ch
 loisachtaler.ch
@@ -8205,6 +8211,7 @@ lookiero.ch
 lookiesuisse.ch
 lookin3d.ch
 lookinfinity.ch
+looking-for.ch
 looking.ch
 looking4booking.ch
 looking4camping.ch
@@ -8458,7 +8465,6 @@ loopaero.ch
 loopag.ch
 loopai.ch
 loopalia.ch
-loopalty.ch
 loopandluxe.ch
 loopandmore.ch
 looparch.ch
@@ -8800,7 +8806,6 @@ loperadelacoiffure.ch
 loperetti.ch
 loperfido.ch
 lopes-baur.ch
-lopes-bkp.ch
 lopes-facility.ch
 lopes-monteiro.ch
 lopes-pena.ch
@@ -10024,6 +10029,7 @@ lorquecvc.ch
 lorraine-butty.ch
 lorraine-drive.ch
 lorraine-dupont-therapeute.ch
+lorraine-hauenstein.ch
 lorraine-holstein.ch
 lorraine-holsteins.ch
 lorraine-lacht.ch
@@ -13332,6 +13338,7 @@ loviq.ch
 loviriaco.ch
 loviro.ch
 lovis-ar.ch
+lovis-beauty.ch
 lovis-microtec.ch
 lovis-sa.ch
 lovis.ch
@@ -13564,7 +13571,6 @@ lowfy.ch
 lowgd.ch
 lowgile.ch
 lowgo.ch
-lowhistamin.ch
 lowhost.ch
 lowi-kids.ch
 lowi.ch

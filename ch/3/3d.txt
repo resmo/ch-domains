@@ -375,6 +375,7 @@
 3d-puzzle.ch
 3d-puzzles.ch
 3d-radio.ch
+3d-relief.ch
 3d-rendering.ch
 3d-rise.ch
 3d-roads.ch
@@ -905,6 +906,7 @@
 3dlabs.ch
 3dlampe.ch
 3dland.ch
+3dlandkarte.ch
 3dlaser.ch
 3dlaserprint.ch
 3dlaserscanning.ch
@@ -1128,6 +1130,7 @@
 3dreforge.ch
 3dreforged.ch
 3drelief.ch
+3dreliefkarte.ch
 3drender.ch
 3drendering.ch
 3droads.ch

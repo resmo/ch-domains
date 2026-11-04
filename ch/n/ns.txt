@@ -823,7 +823,6 @@ ns1.alpha-projects.ch
 ns1.alphabeta-hosting.ch
 ns1.alphanet.ch
 ns1.alphaoffice.ch
-ns1.alphaomega-kinesiologie.ch
 ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
@@ -1027,6 +1026,7 @@ ns1.biel-bienne.ch
 ns1.billharz.ch
 ns1.binarycloud.ch
 ns1.bind.ch
+ns1.bingusch.ch
 ns1.bintelix.ch
 ns1.binuk.ch
 ns1.bio-inspecta.ch
@@ -1189,7 +1189,6 @@ ns1.cen.ch
 ns1.center.ch
 ns1.centinated.ch
 ns1.cer.ch
-ns1.cernievillers.ch
 ns1.cf-vs.ch
 ns1.cfarm.ch
 ns1.cgicorner.ch
@@ -1926,6 +1925,7 @@ ns1.handloeten.ch
 ns1.handytecswiss.ch
 ns1.hanhartweb.ch
 ns1.hardest30.ch
+ns1.harzi.ch
 ns1.hasa.ch
 ns1.hasenbrau.ch
 ns1.haslbeck.ch
@@ -2086,6 +2086,7 @@ ns1.iims3.ch
 ns1.ikaglobal.ch
 ns1.iliantaini.ch
 ns1.ilmionome.ch
+ns1.im-digitalen-raum.ch
 ns1.im-riet.ch
 ns1.imd.ch
 ns1.imediasolutions.ch
@@ -2388,6 +2389,7 @@ ns1.libracore.ch
 ns1.libralures.ch
 ns1.lichtensteiger.ch
 ns1.lichtquelle.ch
+ns1.liebeundfreiheit.ch
 ns1.lifehost.ch
 ns1.lightshining.ch
 ns1.likebets.ch
@@ -3243,6 +3245,7 @@ ns1.scs-ns.ch
 ns1.scuolainfattoria.ch
 ns1.sdhost.ch
 ns1.sdns.ch
+ns1.se-be.ch
 ns1.seabix.ch
 ns1.seantis.ch
 ns1.sebrasoft.ch
@@ -3464,6 +3467,7 @@ ns1.sunsite.ch
 ns1.sunyata.ch
 ns1.superserver.ch
 ns1.suphattrathaimassage.ch
+ns1.support-telefon.ch
 ns1.sushisan.ch
 ns1.susoft.ch
 ns1.suva.ch
@@ -3476,6 +3480,7 @@ ns1.swiprode.ch
 ns1.swiss-bike-training.ch
 ns1.swiss-dt.ch
 ns1.swiss-farmers.ch
+ns1.swiss-media360.ch
 ns1.swiss-pc.ch
 ns1.swiss-portal.ch
 ns1.swiss-server.ch
@@ -4359,6 +4364,7 @@ ns2.bigweb.ch
 ns2.billharz.ch
 ns2.binarycloud.ch
 ns2.bind.ch
+ns2.bingusch.ch
 ns2.bintelix.ch
 ns2.bio-inspecta.ch
 ns2.biontron.ch
@@ -4514,7 +4520,6 @@ ns2.cen.ch
 ns2.center.ch
 ns2.centinated.ch
 ns2.cer.ch
-ns2.cernievillers.ch
 ns2.cf-vs.ch
 ns2.cfarm.ch
 ns2.cgicorner.ch
@@ -5226,6 +5231,7 @@ ns2.handloeten.ch
 ns2.handytecswiss.ch
 ns2.hanhartweb.ch
 ns2.hardest30.ch
+ns2.harzi.ch
 ns2.hasa.ch
 ns2.haslbeck.ch
 ns2.hasler4u.ch
@@ -5378,6 +5384,7 @@ ns2.iims3.ch
 ns2.ikaglobal.ch
 ns2.iliantaini.ch
 ns2.ilmionome.ch
+ns2.im-digitalen-raum.ch
 ns2.im-riet.ch
 ns2.imd.ch
 ns2.imediasolutions.ch
@@ -5670,6 +5677,7 @@ ns2.libracore.ch
 ns2.libralures.ch
 ns2.lichtensteiger.ch
 ns2.lichtquelle.ch
+ns2.liebeundfreiheit.ch
 ns2.lifehost.ch
 ns2.lightshining.ch
 ns2.likebets.ch
@@ -6474,6 +6482,7 @@ ns2.scs-ns.ch
 ns2.scuolainfattoria.ch
 ns2.sdhost.ch
 ns2.sdns.ch
+ns2.se-be.ch
 ns2.seabix.ch
 ns2.seantis.ch
 ns2.sebrasoft.ch
@@ -6697,6 +6706,7 @@ ns2.sunsite.ch
 ns2.sunyata.ch
 ns2.superserver.ch
 ns2.suphattrathaimassage.ch
+ns2.support-telefon.ch
 ns2.sushisan.ch
 ns2.susoft.ch
 ns2.suva.ch
@@ -7894,6 +7904,7 @@ ns3.sumasoft.ch
 ns3.sunrise.ch
 ns3.superns.ch
 ns3.swiss-dt.ch
+ns3.swiss-media360.ch
 ns3.swisscloudhosting.ch
 ns3.swissfintechinnovationlab.ch
 ns3.swissinform.ch
@@ -8828,7 +8839,6 @@ nstratfin.ch
 nstre.ch
 nstream.ch
 nstreuhand.ch
-nstsolar.ch
 nstucki.ch
 nstuder.ch
 nstweb.ch

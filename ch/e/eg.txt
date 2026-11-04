@@ -57,7 +57,6 @@ eg-rorschach.ch
 eg-sanitaire.ch
 eg-schangnau.ch
 eg-slg.ch
-eg-soft.ch
 eg-studio.ch
 eg-treuhand.ch
 eg-utzigenrain.ch
@@ -1148,6 +1147,7 @@ egli-film.ch
 egli-fischer.ch
 egli-fleisch.ch
 egli-forst.ch
+egli-forstarbeiten.ch
 egli-futter.ch
 egli-gartenbau.ch
 egli-gartenpflege.ch
@@ -1627,6 +1627,7 @@ egly.ch
 egm-app.ch
 egm-eramet.ch
 egm-immobilien.ch
+egm-personal.ch
 egm-solarcarport.ch
 egm-solarterrassendach.ch
 egm-strom.ch
@@ -1961,6 +1962,7 @@ egres.ch
 egress.ch
 egret.ch
 egretail.ch
+egrevia.ch
 egrevision.ch
 egrholding.ch
 egricayir.ch
