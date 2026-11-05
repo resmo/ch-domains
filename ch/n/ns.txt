@@ -584,6 +584,7 @@ ns01.ploing.ch
 ns01.pst-smartcity.ch
 ns01.pyle.ch
 ns01.rifit.ch
+ns01.rymedia.ch
 ns01.sbs.ch
 ns01.schulen-huenenberg.ch
 ns01.sednait.ch
@@ -641,6 +642,7 @@ ns02.ploing.ch
 ns02.pst-smartcity.ch
 ns02.pyle.ch
 ns02.rifit.ch
+ns02.rymedia.ch
 ns02.sbs.ch
 ns02.sednait.ch
 ns02.server-base.ch
@@ -705,6 +707,7 @@ ns1.2care.ch
 ns1.2fast4u.ch
 ns1.2gethr.ch
 ns1.2za.ch
+ns1.365premiumsupport.ch
 ns1.3kweb.ch
 ns1.3me.ch
 ns1.3wpower.ch
@@ -964,6 +967,7 @@ ns1.baumer.ch
 ns1.bbcom.ch
 ns1.bbconsulting.ch
 ns1.bbx.ch
+ns1.bbzwinf.ch
 ns1.bc-net.ch
 ns1.bcts.ch
 ns1.bcv.ch
@@ -1397,6 +1401,7 @@ ns1.dd-informatic.ch
 ns1.ddis.ch
 ns1.de-la-ferme.ch
 ns1.decogil.ch
+ns1.defaultgw.ch
 ns1.deimos.ch
 ns1.deinhost.ch
 ns1.delfdalf-test.ch
@@ -3312,6 +3317,7 @@ ns1.sharebox.ch
 ns1.shareout.ch
 ns1.shinhosting.ch
 ns1.shins.ch
+ns1.shinymail.ch
 ns1.shkb.ch
 ns1.shopondemand.ch
 ns1.showcookingpaellas.ch
@@ -3360,6 +3366,7 @@ ns1.slueoend.ch
 ns1.sly.ch
 ns1.smart-staging.ch
 ns1.smartfenster.ch
+ns1.smartlabs.ch
 ns1.smartmoneymatch.ch
 ns1.smgi.ch
 ns1.smilla.ch
@@ -4052,6 +4059,7 @@ ns2.2bit.ch
 ns2.2care.ch
 ns2.2fast4u.ch
 ns2.2gethr.ch
+ns2.365premiumsupport.ch
 ns2.3kweb.ch
 ns2.3me.ch
 ns2.3wpower.ch
@@ -4729,6 +4737,7 @@ ns2.ddis.ch
 ns2.de-la-ferme.ch
 ns2.dearsolidaritesuisse.ch
 ns2.decogil.ch
+ns2.defaultgw.ch
 ns2.defect.ch
 ns2.deimos.ch
 ns2.deinhost.ch
@@ -6552,6 +6561,7 @@ ns2.sharebox.ch
 ns2.shareout.ch
 ns2.shinhosting.ch
 ns2.shins.ch
+ns2.shinymail.ch
 ns2.shkb.ch
 ns2.shopondemand.ch
 ns2.showcookingpaellas.ch
@@ -6599,6 +6609,7 @@ ns2.sleepndgo.ch
 ns2.slf.ch
 ns2.slueoend.ch
 ns2.smart-staging.ch
+ns2.smartlabs.ch
 ns2.smartmoneymatch.ch
 ns2.smgi.ch
 ns2.smilla.ch

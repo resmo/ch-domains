@@ -2,7 +2,6 @@ nf-aarau.ch
 nf-altstetten.ch
 nf-apartement.ch
 nf-attitude.ch
-nf-automotive.ch
 nf-beauty.ch
 nf-bill.ch
 nf-check.ch
@@ -77,7 +76,6 @@ nfannonces.ch
 nfas.ch
 nfattitude.ch
 nfauto.ch
-nfautomotive.ch
 nfb-frei.ch
 nfb-gmbh.ch
 nfb-healthcare.ch
@@ -113,6 +111,7 @@ nfcapital.ch
 nfcard.ch
 nfcbusinesscard.ch
 nfcconnect.ch
+nfccontact.ch
 nfcgate.ch
 nfcgeneva.ch
 nfcheck.ch
