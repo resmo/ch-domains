@@ -9,7 +9,6 @@ wo-bisch.ch
 wo-bist-du.ch
 wo-drueckt-der-schuh.ch
 wo-du-beginnst.ch
-wo-du-steht.ch
 wo-events.ch
 wo-finde-ich.ch
 wo-food.ch
@@ -292,6 +291,7 @@ wochenbettbaden.ch
 wochenbettbasel.ch
 wochenbettbaselland.ch
 wochenbettbegleitung.ch
+wochenbettberatung.ch
 wochenbettbern.ch
 wochenbettbetreuung-bern.ch
 wochenbettbetreuung-daheim.ch
@@ -3348,6 +3348,7 @@ wohnungsraeumung-zug.ch
 wohnungsraeumung.ch
 wohnungsraeumung24-zurich.ch
 wohnungsraeumung24.ch
+wohnungsraeumungaargau.ch
 wohnungsraeumungbern.ch
 wohnungsraeumungen-aargau.ch
 wohnungsraeumungen-glarus.ch
@@ -5129,6 +5130,7 @@ womaninbalance.ch
 womaninflow.ch
 womaninmusic.ch
 womaninsales.ch
+womaninsync.ch
 womanintheyard-lefilm.ch
 womaniser.ch
 womanitou.ch
@@ -5332,6 +5334,7 @@ womeninsales.ch
 womeninshape.ch
 womeninsound.ch
 womeninsurgery.ch
+womeninsync.ch
 womenintech.ch
 womeninthecity-geneva.ch
 womeninvest.ch
@@ -5391,6 +5394,7 @@ womens-hub.ch
 womens-inspiration.ch
 womens-league.ch
 womens-place.ch
+womens-schweiz.ch
 womens-spirit.ch
 womens.ch
 womensafespace.ch
@@ -5459,6 +5463,7 @@ womensroom.ch
 womensrugby.ch
 womensrun.ch
 womenssailingtrip.ch
+womensschweiz.ch
 womenssocietymarketing.ch
 womensspirit.ch
 womenssports.ch
@@ -6595,8 +6600,6 @@ woodtlyyannick.ch
 woodtoolgrinder.ch
 woodtoys.ch
 woodtrade.ch
-woodtrail.ch
-woodtrails.ch
 woodtrick.ch
 woodtub.ch
 woodturner.ch
@@ -8146,6 +8149,7 @@ workorder.ch
 workos.ch
 workout-gym.ch
 workout-regensdorf.ch
+workout-timer.ch
 workout.ch
 workoutacademy.ch
 workoutandmore.ch

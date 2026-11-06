@@ -670,6 +670,7 @@ my-fn.ch
 my-fnb.ch
 my-fo.ch
 my-foil.ch
+my-folding.ch
 my-folio.ch
 my-fon.ch
 my-fondue.ch
@@ -1058,7 +1059,6 @@ my-lona.ch
 my-longevity.ch
 my-look.ch
 my-love.ch
-my-lovegan.ch
 my-loveshop.ch
 my-lovesong.ch
 my-loyalty.ch
@@ -1091,6 +1091,7 @@ my-march.ch
 my-market.ch
 my-marketplace.ch
 my-mart.ch
+my-marwa.ch
 my-massage.ch
 my-massages.ch
 my-massagetraum.ch
@@ -1577,7 +1578,6 @@ my-silver-mind.ch
 my-silvermind.ch
 my-simplycity.ch
 my-site.ch
-my-sites.ch
 my-six.ch
 my-ski.ch
 my-skill-box.ch
@@ -3885,6 +3885,7 @@ mycoachtime.ch
 mycoancestral.ch
 mycoaster.ch
 mycobalt.ch
+mycobase.ch
 mycobiome.ch
 mycobiovitalite.ch
 mycobot.ch
@@ -4946,7 +4947,6 @@ myemr.ch
 myemredu.ch
 myenb.ch
 myenchant.ch
-myendlesslove.ch
 myenergetics.ch
 myenergi.ch
 myenergie.ch
@@ -5442,6 +5442,7 @@ myfocuson.ch
 myfodmap.ch
 myfoglio.ch
 myfokuswerk.ch
+myfolding.ch
 myfolia.ch
 myfoliatec.ch
 myfolio.ch
@@ -5908,7 +5909,6 @@ mygreenergy.ch
 mygreenfee.ch
 mygreengarden.ch
 mygreenglass.ch
-mygreenhome.ch
 mygreenit.ch
 mygreenjob.ch
 mygreenjobs.ch
@@ -6733,7 +6733,6 @@ myjbfinanz.ch
 myjcos.ch
 myjdd.ch
 myjdmt.ch
-myjeans.ch
 myjeep.ch
 myjelmoli.ch
 myjesus.ch
@@ -7741,6 +7740,7 @@ mymars.ch
 mymarshmallow.ch
 mymarshmallows.ch
 mymarta.ch
+mymarwa.ch
 mymasimo.ch
 mymasjid.ch
 mymask.ch
@@ -8538,6 +8538,7 @@ myomega.ch
 myomegabalance.ch
 myomegawatches.ch
 myomektomie.ch
+myomeris.ch
 myomino.ch
 myomnia.ch
 myomnicheck.ch
@@ -9205,7 +9206,6 @@ mypointofsale.ch
 mypoints.ch
 mypoison.ch
 mypoke.ch
-mypokebowl.ch
 mypokebowlmyrules.ch
 mypokefi.ch
 mypoker.ch

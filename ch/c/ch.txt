@@ -111,6 +111,7 @@ ch-chance.ch
 ch-chanson.ch
 ch-chat.ch
 ch-chauffeur.ch
+ch-check.ch
 ch-chm.ch
 ch-christbaum.ch
 ch-chtrade.ch
@@ -459,6 +460,7 @@ ch-rauchstop.ch
 ch-reber.ch
 ch-rechnungen.ch
 ch-records.ch
+ch-regio.ch
 ch-regionalprodukte.ch
 ch-registrar.ch
 ch-reifen.ch
@@ -488,7 +490,6 @@ ch-rocks.ch
 ch-romandie.ch
 ch-roulettino.ch
 ch-rp.ch
-ch-ru.ch
 ch-rueckbau.ch
 ch-saelbergmacht.ch
 ch-safemail.ch
@@ -1490,6 +1491,7 @@ chainsecurity.ch
 chainstaff.ch
 chainstate.ch
 chainstit.ch
+chainstrikestudio.ch
 chainswiss.ch
 chaintax.ch
 chaintec.ch
@@ -1726,7 +1728,6 @@ chalchrain-14.ch
 chalchrain.ch
 chalchsteibraecher.ch
 chalcio.ch
-chalechalpha.ch
 chaled.ch
 chaledo.ch
 chalehuegel.ch
@@ -1878,6 +1879,7 @@ chalet-bruenigen.ch
 chalet-brunegg.ch
 chalet-brunnuhues.ch
 chalet-bubenberg.ch
+chalet-budokan.ch
 chalet-buerchen.ch
 chalet-buljes.ch
 chalet-butterfly.ch
@@ -2454,6 +2456,7 @@ chaletalouer.ch
 chaletalp.ch
 chaletalpengruss.ch
 chaletalpenlotus.ch
+chaletalpine.ch
 chaletalpinelux.ch
 chaletalpinlux.ch
 chaletaltitude.ch
@@ -7127,6 +7130,7 @@ chassenature.ch
 chasseneige.ch
 chasseoupas.ch
 chasseral-10.ch
+chasseral-controle-electrique.ch
 chasseral-controle.ch
 chasseral-events.ch
 chasseral-festival.ch
@@ -7164,6 +7168,7 @@ chasseur-tresor.ch
 chasseur-vaudois.ch
 chasseur.ch
 chasseurappart.ch
+chasseurdappart.ch
 chasseurdebiens.ch
 chasseurdeprimes.ch
 chasseurdimmo.ch
@@ -8600,6 +8605,7 @@ chb.ch
 chb1.ch
 chb2.ch
 chb2b.ch
+chba.ch
 chbackup.ch
 chbaer.ch
 chbaerlocher.ch
@@ -9898,6 +9904,8 @@ chefredaktor.ch
 chefredaktoren.ch
 chefrefil.ch
 chefrefill.ch
+chefrep.ch
+chefreps.ch
 chefs-choice.ch
 chefs-culinar.ch
 chefs-lieux.ch
@@ -12910,6 +12918,7 @@ chiaramilano.ch
 chiaramonn.ch
 chiaramueller.ch
 chiaranaldi.ch
+chiaranovakinteriors.ch
 chiarapelossi.ch
 chiarapeyer.ch
 chiararimoldi.ch
@@ -15036,6 +15045,7 @@ chinderliederland.ch
 chinderliederwelt.ch
 chinderliedli.ch
 chindermaerli.ch
+chindermobile.ch
 chindernest.ch
 chindernetz-ai.ch
 chindernetz-ar.ch
@@ -18667,6 +18677,7 @@ choristes-fevi2019.ch
 chority.ch
 chorizo-playground.ch
 chorizo.ch
+chorizon.ch
 chorizos.ch
 chorjoyoflife.ch
 chorkeepintouch.ch
@@ -19162,6 +19173,7 @@ chregelii.ch
 chreges-schwimmschule.ch
 chregg.ch
 chreggus-golfshop.ch
+chregio.ch
 chregionalmedien.ch
 chregishobbyegge.ch
 chregisphotoart.ch
@@ -21624,6 +21636,7 @@ christinawillimann.ch
 christinawitzig.ch
 christinayoga.ch
 christinaz.ch
+christinazcleaning.ch
 christinazech.ch
 christinazehnder.ch
 christinazhang.ch
@@ -23235,6 +23248,7 @@ chrome.ch
 chromeaesthetic.ch
 chromebooks.ch
 chromebox.ch
+chromec.ch
 chromecast.ch
 chromedia-suisse.ch
 chromedia.ch
@@ -24652,6 +24666,7 @@ church-in-basel.ch
 church-league.ch
 church-mountain-gospel.ch
 church-mountain-open.ch
+church-nights.ch
 church-of-christ.ch
 church-to-go.ch
 church-web.ch
@@ -24705,6 +24720,7 @@ churchmountainopen.ch
 churchmusic.ch
 churchnet.ch
 churchnews.ch
+churchnights.ch
 churchofbrun.ch
 churchofjesuschrist.ch
 churchoflambofgod.ch
@@ -24992,7 +25008,6 @@ chvirtualsnotary.ch
 chvital.ch
 chvk.ch
 chvkg.ch
-chvm.ch
 chvn.ch
 chvndler.ch
 chvo.ch

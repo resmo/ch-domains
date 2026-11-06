@@ -165,6 +165,7 @@ oui-a-la-famille.ch
 oui-a-la-recherche.ch
 oui-a-la-suettaz.ch
 oui-a-la-vie.ch
+oui-a-transports45.ch
 oui-accord-electricite.ch
 oui-accords-bilateraux.ch
 oui-aeroport-valais.ch
@@ -227,11 +228,13 @@ oui-sncf.ch
 oui-soins-dentaires.ch
 oui-suettaz.ch
 oui-tech.ch
+oui-transports45.ch
 oui-voie-bilaterale.ch
 oui.ch
 oui13erente.ch
 oui2026.ch
 oui2027.ch
+oui45.ch
 ouiaccordelectricite.ch
 ouiai.ch
 ouialabiodiversite.ch
@@ -304,6 +307,7 @@ ouistiti-svp.ch
 ouistiti.ch
 ouisuel.ch
 ouitranslate.ch
+ouitransports45.ch
 ouitupeux.ch
 ouizdom.ch
 ouizeropub.ch
@@ -496,6 +500,7 @@ ourea.ch
 oureapulse.ch
 oureka.ch
 ourfamily.ch
+ourfamilywizard.ch
 ourfanclub.ch
 ourfarmers.ch
 ourfield.ch
@@ -743,6 +748,7 @@ out-worked.ch
 out.ch
 out4art.ch
 out4fun.ch
+outa.ch
 outabout.ch
 outage.ch
 outahead.ch
@@ -751,6 +757,7 @@ outandabout.ch
 outandin-consulting.ch
 outandin.ch
 outannabout.ch
+outanutrition.ch
 outar.ch
 outarc.ch
 outark-products.ch
@@ -1629,7 +1636,6 @@ outlet-animo.ch
 outlet-aubonne.ch
 outlet-autoservice.ch
 outlet-b.ch
-outlet-bettencenter.ch
 outlet-bike.ch
 outlet-bikes.ch
 outlet-boot.ch

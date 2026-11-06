@@ -509,6 +509,7 @@ ns.zerodemo.ch
 ns.ziegelei-schumacher.ch
 ns.zlg.futurelab.ch
 ns0.7asecond.ch
+ns0.bourmault.ch
 ns0.bscloud.ch
 ns0.calnet.ch
 ns0.cantusnet.ch
@@ -826,6 +827,7 @@ ns1.alpha-projects.ch
 ns1.alphabeta-hosting.ch
 ns1.alphanet.ch
 ns1.alphaoffice.ch
+ns1.alphaomega-kinesiologie.ch
 ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
@@ -845,6 +847,7 @@ ns1.ancoristagesstruktur.ch
 ns1.andersartig.ch
 ns1.anderthalb.ch
 ns1.andreas-horvath.ch
+ns1.andreish.ch
 ns1.anixa.ch
 ns1.anniv.ch
 ns1.anrac.ch
@@ -1085,6 +1088,7 @@ ns1.bornoese.ch
 ns1.bossinfo.ch
 ns1.bostit.ch
 ns1.boukarabila.ch
+ns1.bourmault.ch
 ns1.box.beemail.ch
 ns1.box.fakegmail.ch
 ns1.box.hishams.ch
@@ -1387,7 +1391,6 @@ ns1.datenverkehr.ch
 ns1.datimo.ch
 ns1.davidmarsden.ch
 ns1.davinci-pizzeria.ch
-ns1.davitals.ch
 ns1.dbg.ch
 ns1.dc-visual.ch
 ns1.dc1.ch
@@ -1486,6 +1489,7 @@ ns1.dnsguardian.ch
 ns1.dnshub.ch
 ns1.dnsking.ch
 ns1.dnsproxy.ch
+ns1.dnssec.ch
 ns1.dnssecure.ch
 ns1.dnssecurity.ch
 ns1.dnsserver.ch
@@ -2294,6 +2298,7 @@ ns1.kirtz.ch
 ns1.kiubic.ch
 ns1.klamath.ch
 ns1.klarsicht-webdesign.ch
+ns1.klartext-analyse.ch
 ns1.klassenkasse.ch
 ns1.klausdurrer.ch
 ns1.klpb.ch
@@ -2533,6 +2538,7 @@ ns1.mediatech2000.ch
 ns1.mediavail.ch
 ns1.mediawerft.ch
 ns1.medical-emergency.ch
+ns1.meerschweinchenhotel-zuerich.ch
 ns1.meganit.ch
 ns1.megavital.ch
 ns1.megaweb.ch
@@ -3635,7 +3641,6 @@ ns1.tr-webdesign.ch
 ns1.tradesystem.ch
 ns1.tradeup.ch
 ns1.train4it.ch
-ns1.traiteur-kreol.ch
 ns1.transfert-geneve-aeroport.ch
 ns1.transnorm.ch
 ns1.traussniggweb.ch
@@ -4190,6 +4195,7 @@ ns2.anaconsol.ch
 ns2.ancoristagesstruktur.ch
 ns2.andersartig.ch
 ns2.anderthalb.ch
+ns2.andreish.ch
 ns2.anixa.ch
 ns2.anniv.ch
 ns2.anrac.ch
@@ -4724,7 +4730,6 @@ ns2.dataxa.ch
 ns2.datcom.ch
 ns2.datenpark.ch
 ns2.davinci-pizzeria.ch
-ns2.davitals.ch
 ns2.dbg.ch
 ns2.dc-visual.ch
 ns2.dc1.ch
@@ -4810,6 +4815,7 @@ ns2.dnsguardian.ch
 ns2.dnshub.ch
 ns2.dnsking.ch
 ns2.dnsproxy.ch
+ns2.dnssec.ch
 ns2.dnssecure.ch
 ns2.dnssecurity.ch
 ns2.dnsserver.ch
@@ -5594,6 +5600,7 @@ ns2.kinoexil.ch
 ns2.kirchenweb.ch
 ns2.kirtz.ch
 ns2.klarsicht-webdesign.ch
+ns2.klartext-analyse.ch
 ns2.klassenkasse.ch
 ns2.klausdurrer.ch
 ns2.klpb.ch
@@ -5821,6 +5828,7 @@ ns2.mediavail.ch
 ns2.mediawerft.ch
 ns2.medical-emergency.ch
 ns2.medienpreis-ostschweiz.ch
+ns2.meerschweinchenhotel-zuerich.ch
 ns2.meganit.ch
 ns2.megavital.ch
 ns2.megaweb.ch
@@ -6881,7 +6889,6 @@ ns2.tracenet.ch
 ns2.tradesystem.ch
 ns2.tradeup.ch
 ns2.train4it.ch
-ns2.traiteur-kreol.ch
 ns2.transfert-geneve-aeroport.ch
 ns2.transnorm.ch
 ns2.traussniggweb.ch
