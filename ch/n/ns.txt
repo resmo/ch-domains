@@ -941,7 +941,6 @@ ns1.aytec.ch
 ns1.azuris.ch
 ns1.b23.ch
 ns1.baanchantrathaimassage.ch
-ns1.babbocomptoircorse.ch
 ns1.babyshiatsu-zuerioberland.ch
 ns1.bachmann-bbb.ch
 ns1.backbone.ch
@@ -1027,6 +1026,7 @@ ns1.bfk-edv-consulting.ch
 ns1.bgbsa.ch
 ns1.bgint.ch
 ns1.bhvconseils.ch
+ns1.biasbox.ch
 ns1.bictechag.ch
 ns1.biehler-stiftungen.ch
 ns1.biel-bienne.ch
@@ -1908,7 +1908,6 @@ ns1.gulacotschen.ch
 ns1.gurken-zucht.ch
 ns1.gurkenzucht.ch
 ns1.gut-werbung.ch
-ns1.guthrie.ch
 ns1.gutzi-computer.ch
 ns1.guyswithcams.ch
 ns1.gvs.ch
@@ -2179,7 +2178,6 @@ ns1.irionkollewijn.ch
 ns1.iroot.ch
 ns1.is-alpina.ch
 ns1.is-consult.ch
-ns1.isaandjames.ch
 ns1.isamueller.ch
 ns1.ischweiz.ch
 ns1.iscore-ad.ch
@@ -2226,7 +2224,6 @@ ns1.izcomputer.ch
 ns1.jaald.ch
 ns1.jabr.ch
 ns1.jakobsbrunnen.ch
-ns1.jamesguthrie.ch
 ns1.jamhosting.ch
 ns1.jamhosting1.ch
 ns1.jamhosting2.ch
@@ -2422,7 +2419,6 @@ ns1.loadtheweb.ch
 ns1.local-host.ch
 ns1.lockpfosten.ch
 ns1.locuscloud.ch
-ns1.loeen.ch
 ns1.loetkompetenz.ch
 ns1.loewingert.ch
 ns1.logeva.ch
@@ -4291,7 +4287,6 @@ ns2.b23.ch
 ns2.b2b-consult.ch
 ns2.b2bconsult.ch
 ns2.baanchantrathaimassage.ch
-ns2.babbocomptoircorse.ch
 ns2.babs2.ch
 ns2.babyshiatsu-zuerioberland.ch
 ns2.bachmann-bbb.ch
@@ -4371,6 +4366,7 @@ ns2.beyondcorporation.ch
 ns2.bger.ch
 ns2.bgint.ch
 ns2.bhvconseils.ch
+ns2.biasbox.ch
 ns2.bictechag.ch
 ns2.biehler-stiftungen.ch
 ns2.biel-bienne.ch
@@ -5221,7 +5217,6 @@ ns2.gurken-zucht.ch
 ns2.gurkenzucht.ch
 ns2.gut-immo.ch
 ns2.gut-werbung.ch
-ns2.guthrie.ch
 ns2.gutzi-computer.ch
 ns2.guyswithcams.ch
 ns2.gvs.ch
@@ -5483,7 +5478,6 @@ ns2.irganic.ch
 ns2.irionkollewijn.ch
 ns2.iroot.ch
 ns2.is-alpina.ch
-ns2.isaandjames.ch
 ns2.isamueller.ch
 ns2.ischweiz.ch
 ns2.iscore-ad.ch
@@ -5530,7 +5524,6 @@ ns2.jaald.ch
 ns2.jabr.ch
 ns2.jacquespiller.ch
 ns2.jakobsbrunnen.ch
-ns2.jamesguthrie.ch
 ns2.jamhosting.ch
 ns2.jamhosting1.ch
 ns2.jamhosting2.ch
@@ -5718,7 +5711,6 @@ ns2.loadtheweb.ch
 ns2.local-host.ch
 ns2.lockpfosten.ch
 ns2.locuscloud.ch
-ns2.loeen.ch
 ns2.loetkompetenz.ch
 ns2.loewingert.ch
 ns2.logeva.ch
