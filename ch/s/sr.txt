@@ -233,7 +233,6 @@ src-kurs.ch
 src-kurse.ch
 src-realis.ch
 src-treuhand.ch
-src-verein.ch
 src-wald.ch
 src.ch
 srca.ch
@@ -1070,6 +1069,7 @@ srtp-tls.ch
 srtp.ch
 srtr-group.ch
 srtraffic.ch
+srtravels.ch
 srtreuhand.ch
 srtrgroup.ch
 srtrockenmauern.ch

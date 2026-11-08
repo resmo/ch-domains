@@ -324,6 +324,7 @@ example-company.ch
 example-consulting.ch
 example-corp.ch
 example-domain.ch
+example-holding.ch
 example-treuhand.ch
 example.ch
 examples.ch
@@ -1701,7 +1702,6 @@ exhistand.ch
 exhit.ch
 exho.ch
 exhodon.ch
-exhora.ch
 exhoschibur.ch
 exhuawei.ch
 exhubersuhner.ch
@@ -3635,7 +3635,6 @@ expertis-fiduciaire.ch
 expertis.ch
 expertisa.ch
 expertise-amiante-yersin.ch
-expertise-backend.ch
 expertise-batiment.ch
 expertise-bijoux-bise.ch
 expertise-confiance.ch
@@ -3644,7 +3643,6 @@ expertise-dentaire.ch
 expertise-en-construction-metallique.ch
 expertise-en-psychologie-du-trafic.ch
 expertise-energetique.ch
-expertise-energie.ch
 expertise-fissures.ch
 expertise-geobiologie.ch
 expertise-geobiologique.ch
@@ -5740,7 +5738,6 @@ extramarketing.ch
 extramatik.ch
 extramed.ch
 extramedia.ch
-extramedien.ch
 extrameile.ch
 extramet.ch
 extramile-sailing.ch

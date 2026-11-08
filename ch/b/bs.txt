@@ -192,6 +192,7 @@ bs-rollen.ch
 bs-root-zug.ch
 bs-s.ch
 bs-san.ch
+bs-sanitaire-app.ch
 bs-sanitaire.ch
 bs-schluesseldienst.ch
 bs-schreiner.ch
@@ -1342,7 +1343,6 @@ bsv-aarau.ch
 bsv-ag.ch
 bsv-andelfingen.ch
 bsv-association.ch
-bsv-avocat.ch
 bsv-bern.ch
 bsv-brugg.ch
 bsv-buelach.ch

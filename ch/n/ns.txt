@@ -557,6 +557,7 @@ ns01.dpnl.ch
 ns01.ender-informatics.ch
 ns01.fides.ch
 ns01.fis-he.ch
+ns01.ginta.ch
 ns01.globalpoint.ch
 ns01.gryn.ch
 ns01.gscr.ch
@@ -620,6 +621,7 @@ ns02.dpnl.ch
 ns02.ender-informatics.ch
 ns02.fides.ch
 ns02.fis-he.ch
+ns02.ginta.ch
 ns02.globalpoint.ch
 ns02.gscr.ch
 ns02.gva.ch
@@ -806,7 +808,6 @@ ns1.akb.ch
 ns1.akbern.ch
 ns1.albacoiffure.ch
 ns1.album-larinascita.ch
-ns1.albysky.ch
 ns1.alchemists.ch
 ns1.alessandrozaramella.ch
 ns1.alfahost.ch
@@ -834,7 +835,6 @@ ns1.alpinedns.ch
 ns1.alpost.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
-ns1.alvarez-it.ch
 ns1.alwicom.ch
 ns1.alyce.ch
 ns1.am-server.ch
@@ -862,7 +862,6 @@ ns1.anwesend.ch
 ns1.anycastdns.ch
 ns1.ap-soft.ch
 ns1.apclick.ch
-ns1.aplusagentur.ch
 ns1.apm-group.ch
 ns1.applicare.ch
 ns1.apps724.ch
@@ -1856,7 +1855,6 @@ ns1.globalmar.ch
 ns1.globalnetsystem.ch
 ns1.globalpower.ch
 ns1.globus.ch
-ns1.gloeggli.ch
 ns1.gluc.ch
 ns1.glweb.ch
 ns1.glxy.ch
@@ -3930,7 +3928,6 @@ ns1.xtra-hosting.ch
 ns1.xxxl-restaurant.ch
 ns1.yakaconception.ch
 ns1.yakaconceptions.ch
-ns1.yaxo.ch
 ns1.ycn.ch
 ns1.ycu.ch
 ns1.yfx.ch
@@ -4152,7 +4149,6 @@ ns2.akb.ch
 ns2.akbern.ch
 ns2.albacoiffure.ch
 ns2.album-larinascita.ch
-ns2.albysky.ch
 ns2.alessandrozaramella.ch
 ns2.alfahost.ch
 ns2.algorithma-it.ch
@@ -4178,7 +4174,6 @@ ns2.alpinedns.ch
 ns2.alpost.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
-ns2.alvarez-it.ch
 ns2.alwicom.ch
 ns2.alyce.ch
 ns2.am-server.ch
@@ -4206,7 +4201,6 @@ ns2.anwesend.ch
 ns2.anycastdns.ch
 ns2.ap-soft.ch
 ns2.apclick.ch
-ns2.aplusagentur.ch
 ns2.apm-group.ch
 ns2.apps724.ch
 ns2.appstart.ch
@@ -7158,7 +7152,6 @@ ns2.xxxl-restaurant.ch
 ns2.yabalu.ch
 ns2.yakaconception.ch
 ns2.yakaconceptions.ch
-ns2.yaxo.ch
 ns2.ycn.ch
 ns2.ycu.ch
 ns2.yfx.ch

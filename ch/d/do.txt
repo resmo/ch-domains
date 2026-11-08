@@ -369,7 +369,6 @@ doc-media.ch
 doc-meets-dorf.ch
 doc-mm.ch
 doc-net-rhone.ch
-doc-o-mat.ch
 doc-objects.ch
 doc-office.ch
 doc-on-duty.ch
@@ -408,7 +407,6 @@ doc-vet.ch
 doc-weingart.ch
 doc-world.ch
 doc-xpert.ch
-doc-yourself.ch
 doc.ch
 doc1.ch
 doc24.ch
@@ -3406,6 +3404,7 @@ dojo-rorschach.ch
 dojo-rothenburg.ch
 dojo-schaies.ch
 dojo-seibukan.ch
+dojo-seifen.ch
 dojo-singa.ch
 dojo-studio.ch
 dojo-tanren.ch
@@ -5359,7 +5358,6 @@ domainedesloyettes.ch
 domainedesmarnes.ch
 domainedesmesanges.ch
 domainedesmoulins.ch
-domainedesmuriers.ch
 domainedesmuses.ch
 domainedesoleure.ch
 domainedesolveig.ch
@@ -7241,6 +7239,7 @@ domino-gt.ch
 domino-haarkosmetik.ch
 domino-hairstyle.ch
 domino-hairstyling.ch
+domino-home.ch
 domino-immobilien.ch
 domino-kostuem.ch
 domino-modul.ch
@@ -7366,6 +7365,7 @@ domislic.ch
 domisoins.ch
 domisol.ch
 domisontour.ch
+domisora.ch
 domistart.ch
 domistiftung.ch
 domiswiss.ch
@@ -7916,7 +7916,6 @@ domus-historicus.ch
 domus-immo.ch
 domus-immobilier.ch
 domus-invest.ch
-domus-investment.ch
 domus-lachen.ch
 domus-ldg.ch
 domus-lengnau.ch
@@ -7998,7 +7997,6 @@ domusimperium.ch
 domusincolis.ch
 domusinterior.ch
 domusinvest.ch
-domusinvestment.ch
 domusisodicht.ch
 domuslagomaggiore.ch
 domuslex.ch
@@ -9500,6 +9498,7 @@ dopg-finance.ch
 dopheide.ch
 dophis.ch
 dopi-immobilien.ch
+dopi.ch
 doping-anwalt.ch
 doping-energy.ch
 doping.ch
