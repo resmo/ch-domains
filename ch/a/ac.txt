@@ -2047,7 +2047,6 @@ account-spawelt.ch
 account-support-finma.ch
 account-verify-finma.ch
 account-verify.ch
-account-viseca.ch
 account-ws-greiner-test.ch
 account-x.ch
 account.ch
@@ -4362,6 +4361,7 @@ acme-corp.ch
 acme-corporation.ch
 acme-dc.ch
 acme-dns.ch
+acme-grobelar.ch
 acme-helper-swiss-cloud.ch
 acme-helper.ch
 acme-labs.ch
@@ -5737,7 +5737,6 @@ acsteiner.ch
 acsti.ch
 acstore.ch
 acstoren.ch
-acstroche.ch
 acstudio.ch
 acsuissegourmet.ch
 acsupervisions.ch

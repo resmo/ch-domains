@@ -399,7 +399,6 @@ ns.rm-networks.ch
 ns.rollenspiel.ch
 ns.rptd.ch
 ns.ruedunord.ch
-ns.s2.werner-bernhard.ch
 ns.sbb.ch
 ns.schmidelnet.ch
 ns.schnyder-kerzen.ch
@@ -509,7 +508,6 @@ ns.zerodemo.ch
 ns.ziegelei-schumacher.ch
 ns.zlg.futurelab.ch
 ns0.7asecond.ch
-ns0.bourmault.ch
 ns0.bscloud.ch
 ns0.calnet.ch
 ns0.cantusnet.ch
@@ -843,7 +841,6 @@ ns1.amenic.ch
 ns1.amerco.ch
 ns1.amirakasri.ch
 ns1.anaconsol.ch
-ns1.ancoristagesstruktur.ch
 ns1.andersartig.ch
 ns1.anderthalb.ch
 ns1.andreas-horvath.ch
@@ -1087,7 +1084,6 @@ ns1.bornoese.ch
 ns1.bossinfo.ch
 ns1.bostit.ch
 ns1.boukarabila.ch
-ns1.bourmault.ch
 ns1.box.beemail.ch
 ns1.box.fakegmail.ch
 ns1.box.hishams.ch
@@ -3163,7 +3159,6 @@ ns1.roninf.ch
 ns1.ronubas.ch
 ns1.rooftopcats.ch
 ns1.room518.ch
-ns1.rothcom.ch
 ns1.routeway.ch
 ns1.rowa.ch
 ns1.rqm.ch
@@ -3630,7 +3625,6 @@ ns1.tortiegidio.ch
 ns1.tournelaroue.ch
 ns1.tousdescons.ch
 ns1.toutypasse.ch
-ns1.tozoo.ch
 ns1.tr-webdesign.ch
 ns1.tradesystem.ch
 ns1.tradeup.ch
@@ -3964,6 +3958,7 @@ ns1.zen-rollers.ch
 ns1.zenis.ch
 ns1.zenvoo.ch
 ns1.zerodemo.ch
+ns1.zerolegacy.ch
 ns1.zerspanungspartner.ch
 ns1.zh.hostbin.ch
 ns1.zhaw.ch
@@ -4183,7 +4178,6 @@ ns2.amerco.ch
 ns2.amipeonweb.ch
 ns2.amirakasri.ch
 ns2.anaconsol.ch
-ns2.ancoristagesstruktur.ch
 ns2.andersartig.ch
 ns2.anderthalb.ch
 ns2.andreish.ch
@@ -6403,7 +6397,6 @@ ns2.roninf.ch
 ns2.ronubas.ch
 ns2.rooftopcats.ch
 ns2.room518.ch
-ns2.rothcom.ch
 ns2.routeway.ch
 ns2.rowa.ch
 ns2.rqm.ch
@@ -7184,6 +7177,7 @@ ns2.zem-emc.ch
 ns2.zen-rollers.ch
 ns2.zenis.ch
 ns2.zenvoo.ch
+ns2.zerolegacy.ch
 ns2.zerspanungspartner.ch
 ns2.zh.hostbin.ch
 ns2.zhaw.ch
@@ -7268,7 +7262,6 @@ ns3.alto-port.ch
 ns3.alyce.ch
 ns3.am-server.ch
 ns3.amipeonweb.ch
-ns3.ancoristagesstruktur.ch
 ns3.antanet.ch
 ns3.anthonydieperink.ch
 ns3.apexis.ch
