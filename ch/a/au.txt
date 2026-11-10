@@ -1,4 +1,3 @@
-au-20.ch
 au-22.ch
 au-32.ch
 au-3d-druck.ch
@@ -37,6 +36,7 @@ au-checkliste.ch
 au-chemin-vers-soi.ch
 au-cheval-blanc.ch
 au-cigare.ch
+au-clairdelune.ch
 au-cochon-rose.ch
 au-coeur-de-bienne.ch
 au-coeur-de-l-ame.ch
@@ -206,6 +206,7 @@ au-sourire.ch
 au-st-barth.ch
 au-suisse.ch
 au-taquet.ch
+au-tech.ch
 au-the-magique.ch
 au-to-ha.ch
 au-top.ch
@@ -233,7 +234,6 @@ au1807.ch
 au1865.ch
 au1er.ch
 au1erciel.ch
-au20.ch
 au22.ch
 au24.ch
 au29.ch
@@ -804,6 +804,7 @@ aucara.ch
 aucare.ch
 aucarillondelenclume.ch
 aucarillondor.ch
+aucarnavaldubourg.ch
 aucarrenoir.ch
 aucarrousel.ch
 aucasou.ch
@@ -1178,7 +1179,6 @@ audaz.ch
 audbyte.ch
 audco.ch
 audcoitaliana.ch
-aude-harlaut.ch
 aude-jewelry.ch
 aude-nutrition.ch
 aude-sagefemme.ch
@@ -1687,7 +1687,6 @@ audioanlage.ch
 audioarchitekt.ch
 audioart.ch
 audioarts.ch
-audioauktion.ch
 audiobalance.ch
 audioballs.ch
 audiobande.ch
@@ -1859,7 +1858,6 @@ audiolac.ch
 audiolager.ch
 audioleman.ch
 audiolernen.ch
-audiolesibellinzona.ch
 audioleso.ch
 audiolevel6.ch
 audiolibrix.ch
@@ -2346,7 +2344,6 @@ auditplaner.ch
 auditplatform.ch
 auditplus.ch
 auditprestige.ch
-auditpro.ch
 auditr.ch
 auditradar.ch
 auditradition.ch
@@ -3050,7 +3047,6 @@ aufildescimes.ch
 aufildescouleurs.ch
 aufildescreations.ch
 aufildesdents.ch
-aufildesfees.ch
 aufildeshygienistes.ch
 aufildesjardins.ch
 aufildeslunes.ch
@@ -3816,7 +3812,6 @@ augen-seefeld.ch
 augen-sehtest.ch
 augen-sg.ch
 augen-spezialist.ch
-augen-stampfenbach.ch
 augen-stemmle.ch
 augen-tagesklinik-buelach.ch
 augen-tagesklinik-luzern.ch
@@ -6736,6 +6731,7 @@ auralispilates.ch
 auralith.ch
 auralive.ch
 auraliving.ch
+aurallinx-partner.ch
 auralog.ch
 auralogie.ch
 auralounge.ch
@@ -7159,6 +7155,7 @@ aurelian-immobilien.ch
 aurelian-properties.ch
 aurelianabachmann.ch
 aurelianadangelo.ch
+aureliangroup.ch
 aureliaoum.ch
 aureliapeter.ch
 aureliapuglia.ch
@@ -7772,6 +7769,7 @@ aurora-digital.ch
 aurora-edelmetall.ch
 aurora-edelmetalle.ch
 aurora-energie.ch
+aurora-fahrweid.ch
 aurora-falera.ch
 aurora-ferien.ch
 aurora-festival.ch
@@ -8327,6 +8325,7 @@ ausbildung-czv.ch
 ausbildung-deutschtrainer.ch
 ausbildung-faltenunterspritzung.ch
 ausbildung-fbv.ch
+ausbildung-finanzberater.ch
 ausbildung-fussreflexzonen.ch
 ausbildung-gaertner.ch
 ausbildung-gesundheit.ch
@@ -8683,7 +8682,6 @@ ausgang24.ch
 ausgangheute.ch
 ausgangsapp.ch
 ausgangsbeschraenkung.ch
-ausgangsfuehrer.ch
 ausgangslage.ch
 ausgangzuerich.ch
 ausgeackert.ch
@@ -14939,6 +14937,7 @@ automarke.ch
 automarken.ch
 automarket.ch
 automarket24.ch
+automarket74.ch
 automarketveicoli.ch
 automarkise.ch
 automarkt-24.ch
@@ -16505,7 +16504,6 @@ autorin-andrea-sauter.ch
 autorin-tabea-koenig.ch
 autorinnenverlag.ch
 autorinori.ch
-autorinsylviabaechle.ch
 autorio.ch
 autorisation-de-sejour.ch
 autorisation-energetique.ch
@@ -17006,7 +17004,6 @@ autoskaufen.ch
 autoskaut.ch
 autoskaut24.ch
 autoskeny.ch
-autosking.ch
 autoskool.ch
 autoskosmetik.ch
 autoskrebs.ch
@@ -17525,6 +17522,7 @@ autotrans-logistik.ch
 autotrans.ch
 autotrans24.ch
 autotransfer.ch
+autotransport-europa.ch
 autotransport-gretener.ch
 autotransport-lepore.ch
 autotransport-schweiz.ch

@@ -401,7 +401,6 @@ ns.rptd.ch
 ns.ruedunord.ch
 ns.sbb.ch
 ns.schmidelnet.ch
-ns.schnyder-kerzen.ch
 ns.scriptwriter.ch
 ns.seiz.ch
 ns.sektorz.ch
@@ -430,7 +429,6 @@ ns.steffo.ch
 ns.steiger-catering.ch
 ns.steigercatering.ch
 ns.stellata.ch
-ns.sternengarage-ag.ch
 ns.stiftungprovida.ch
 ns.streetfoto.ch
 ns.strich-acht.ch
@@ -702,7 +700,6 @@ ns1.11b.ch
 ns1.1868.ch
 ns1.1a-reseller.ch
 ns1.1ahostingpro.ch
-ns1.1m1.ch
 ns1.2bit.ch
 ns1.2care.ch
 ns1.2fast4u.ch
@@ -1379,7 +1376,6 @@ ns1.dataschweiz.ch
 ns1.datasource.ch
 ns1.datawire.ch
 ns1.dataworld-consulting.ch
-ns1.dataxa.ch
 ns1.datcom.ch
 ns1.datenpark.ch
 ns1.datenverkehr.ch
@@ -1781,7 +1777,6 @@ ns1.fuchs-rasenmaeher.ch
 ns1.fuderer.ch
 ns1.fuform.ch
 ns1.funisante.ch
-ns1.funkstille.ch
 ns1.funktionierts.ch
 ns1.furrerundpartner.ch
 ns1.futurelab.ch
@@ -3159,6 +3154,7 @@ ns1.roninf.ch
 ns1.ronubas.ch
 ns1.rooftopcats.ch
 ns1.room518.ch
+ns1.rothcom.ch
 ns1.routeway.ch
 ns1.rowa.ch
 ns1.rqm.ch
@@ -4047,7 +4043,6 @@ ns2.11b.ch
 ns2.1868.ch
 ns2.1a-reseller.ch
 ns2.1ahostingpro.ch
-ns2.1m1.ch
 ns2.2bit.ch
 ns2.2care.ch
 ns2.2fast4u.ch
@@ -4710,7 +4705,6 @@ ns2.dataschweiz.ch
 ns2.datasource.ch
 ns2.datawire.ch
 ns2.dataworld-consulting.ch
-ns2.dataxa.ch
 ns2.datcom.ch
 ns2.datenpark.ch
 ns2.davinci-pizzeria.ch
@@ -5085,7 +5079,6 @@ ns2.fuchs-rasenmaeher.ch
 ns2.fuderer.ch
 ns2.fuform.ch
 ns2.funisante.ch
-ns2.funkstille.ch
 ns2.funktionierts.ch
 ns2.furrerundpartner.ch
 ns2.futureweb.ch
@@ -6397,6 +6390,7 @@ ns2.roninf.ch
 ns2.ronubas.ch
 ns2.rooftopcats.ch
 ns2.room518.ch
+ns2.rothcom.ch
 ns2.routeway.ch
 ns2.rowa.ch
 ns2.rqm.ch
@@ -7392,7 +7386,6 @@ ns3.cyberdog.ch
 ns3.cyberlink.ch
 ns3.darryl.ch
 ns3.dataperformance.ch
-ns3.dataxa.ch
 ns3.ddis.ch
 ns3.dearsolidaritesuisse.ch
 ns3.deimos.ch
@@ -7650,6 +7643,7 @@ ns3.makats.ch
 ns3.malermolinari.ch
 ns3.manarasoft.ch
 ns3.manuelfritschi.ch
+ns3.marco-salzmann.ch
 ns3.masterhomepage.ch
 ns3.matrixserver.ch
 ns3.mawood.ch

@@ -483,6 +483,7 @@ ctrl-shift-c.ch
 ctrl-space.ch
 ctrl-t.ch
 ctrl-tissieres.ch
+ctrl-touch.ch
 ctrl-tower.ch
 ctrl-up.ch
 ctrl-v.ch
@@ -515,6 +516,7 @@ ctrlprint.ch
 ctrls.ch
 ctrlstudio.ch
 ctrlt.ch
+ctrltouch.ch
 ctrlv.ch
 ctrlxctrlv.ch
 ctrlz-geneve.ch

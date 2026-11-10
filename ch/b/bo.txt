@@ -236,7 +236,6 @@ boardchapter.ch
 boardchapters.ch
 boardcircle.ch
 boardcircles.ch
-boardclinic.ch
 boardclub.ch
 boardcode.ch
 boardcompact.ch
@@ -1871,19 +1870,16 @@ bodenleger-nenzlingen.ch
 bodenleger-nidwalden.ch
 bodenleger-offerte.ch
 bodenleger-offerten.ch
-bodenleger-olten.ch
 bodenleger-parkett.ch
 bodenleger-preise.ch
 bodenleger-reinach-bl.ch
 bodenleger-rheintal.ch
-bodenleger-schaffhausen.ch
 bodenleger-schweiz.ch
 bodenleger-service-bern.ch
 bodenleger-sh.ch
 bodenleger-sissach.ch
 bodenleger-solothurn.ch
 bodenleger-therwil.ch
-bodenleger-thun.ch
 bodenleger-vergleich.ch
 bodenleger-zentralschweiz.ch
 bodenleger.ch
@@ -3172,6 +3168,9 @@ bodyhoop.ch
 bodyhour.ch
 bodyhouse.ch
 bodyhub.ch
+bodyhypnotic.ch
+bodyhypnotical.ch
+bodyhypnoticalmethode.ch
 bodyident.ch
 bodyimage.ch
 bodyimageclinic.ch
@@ -3675,7 +3674,6 @@ bodyzone-basel.ch
 bodyzone.ch
 bodzio.ch
 boe-archiv.ch
-boe-ing.ch
 boe-karikaturen.ch
 boe-media.ch
 boe-nela.ch
@@ -5936,6 +5934,7 @@ boldorduleman.ch
 boldormirabaud.ch
 boldoundpartner.ch
 boldozer.ch
+boldracing.ch
 boldreghini.ch
 boldride.ch
 boldrin.ch
@@ -6819,6 +6818,7 @@ bombay-restaurant.ch
 bombay.ch
 bombayalley.ch
 bombaybirds.ch
+bombaybrasserie.ch
 bombaycafe.ch
 bombaydarbar-wallisellen.ch
 bombaydarbar.ch
@@ -7883,6 +7883,7 @@ boni-immobilien.ch
 boni-make-it.ch
 boni-partner.ch
 boni.ch
+boniaa.ch
 bonial.ch
 boniamo.ch
 boniatelier.ch
@@ -8586,6 +8587,7 @@ bonstetten60plus.ch
 bonstettengut.ch
 bonstettenschule.ch
 bonstettiana.ch
+bonsuivi.ch
 bonsvalaisans.ch
 bonsvital.ch
 bonsvivants.ch
@@ -9407,6 +9409,7 @@ booking-switzerland.ch
 booking-system.ch
 booking-tip.ch
 booking-tipp.ch
+booking-tool.ch
 booking-tutti.ch
 booking-valais.ch
 booking-wallis.ch
@@ -9578,15 +9581,12 @@ bookmenow.ch
 bookmi.ch
 bookmycar.ch
 bookmycoach.ch
-bookmycourt.ch
-bookmycourtapp.ch
 bookmydj.ch
 bookmydocs.ch
 bookmyhouse.ch
 bookmyluxury.ch
 bookmyman.ch
 bookmyname.ch
-bookmypadel.ch
 bookmyroom.ch
 bookmyte.ch
 bookmyteacher.ch
@@ -11859,6 +11859,7 @@ borismueller.ch
 borismuscheidt.ch
 borisnadjaloetscher.ch
 borisnikitin.ch
+borisnoethe.ch
 borisova-nails.ch
 borisprivilege.ch
 borisrannou.ch
@@ -12858,6 +12859,7 @@ bosglobalpartner.ch
 bosgoed.ch
 bosgp.ch
 boshi.ch
+boshitech.ch
 bosholding.ch
 boshops.ch
 boshtraj.ch
@@ -14096,7 +14098,6 @@ bottelpack.ch
 bottem.ch
 bottemcaffe.ch
 bottemkafe.ch
-bottemobilityconfort.ch
 bottens.ch
 bottens24.ch
 bottenstein.ch
@@ -14386,7 +14387,9 @@ boucherie-al-madina.ch
 boucherie-anciencomte.ch
 boucherie-art-de-vivre.ch
 boucherie-aubonne.ch
+boucherie-bellerine.ch
 boucherie-bertschy.ch
+boucherie-bex.ch
 boucherie-boisson.ch
 boucherie-bonzon.ch
 boucherie-bovier.ch
@@ -14906,6 +14909,7 @@ boulangerie-geneve.ch
 boulangerie-golay.ch
 boulangerie-granges-paccot.ch
 boulangerie-grangier.ch
+boulangerie-grin.ch
 boulangerie-guillaume.ch
 boulangerie-guisolan.ch
 boulangerie-hofmann.ch
@@ -15960,7 +15964,6 @@ boutique-tandem.ch
 boutique-terroir-fribourg.ch
 boutique-tops.ch
 boutique-travel.ch
-boutique-trias.ch
 boutique-tricot-the.ch
 boutique-trips.ch
 boutique-trontze.ch
@@ -15980,7 +15983,6 @@ boutique-zigarren.ch
 boutique.ch
 boutique1.ch
 boutique1931.ch
-boutique20.ch
 boutique21.ch
 boutique22.ch
 boutique24.ch
@@ -16146,6 +16148,7 @@ boutiquemode.ch
 boutiquemodelle.ch
 boutiquemoto.ch
 boutiquemyown.ch
+boutiquemystere.ch
 boutiquen.ch
 boutiquenatureenscene.ch
 boutiquenazar.ch

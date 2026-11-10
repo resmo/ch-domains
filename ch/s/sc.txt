@@ -1767,6 +1767,7 @@ scbloop.ch
 scbm.ch
 scbn.ch
 scbo.ch
+scboenigen.ch
 scbois.ch
 scboldies.ch
 scbonstetten.ch
@@ -1841,6 +1842,7 @@ sccandle.ch
 sccap.ch
 sccapitalholding.ch
 sccapriasca.ch
+sccarbon.ch
 sccastrisch.ch
 sccb-coffee.ch
 sccb.ch
@@ -3539,6 +3541,7 @@ schaerzlaw.ch
 schaerzouber.ch
 schaetti-ag.ch
 schaetti-baumanagement.ch
+schaetti-it.ch
 schaetti-lehmann.ch
 schaetti-leuchten.ch
 schaetti-technik.ch
@@ -6755,6 +6758,7 @@ scheppach.ch
 scheppan-service.ch
 scheppan.ch
 schepperle.ch
+scheppler-digital-solutions.ch
 scheppler-holzbau.ch
 scheppler-holzhandwerk.ch
 scheppler.ch
@@ -8892,7 +8896,6 @@ schindler-sais.ch
 schindler-scheibling.ch
 schindler-solutions.ch
 schindler-spenglereisanitaer.ch
-schindler-tech.ch
 schindler-technik.ch
 schindler-test.ch
 schindler-treuhand.ch
@@ -8981,6 +8984,8 @@ schinkosystems.ch
 schinks.ch
 schinnas.ch
 schinner.ch
+schinnerl-engineering.ch
+schinnerls.ch
 schinoo.ch
 schinootours.ch
 schinser.ch
@@ -9165,7 +9170,6 @@ schizarmonie.ch
 schizas.ch
 schizawards.ch
 schizer.ch
-schizinfo.ch
 schizo-geneve.ch
 schizo-vaud.ch
 schizo.ch
@@ -9473,12 +9477,14 @@ schlafbar.ch
 schlafbeere.ch
 schlafbeeren.ch
 schlafberater.ch
+schlafberaterausbildung.ch
 schlafberatung-bern.ch
 schlafberatung-online.ch
 schlafberatung-schweiz.ch
 schlafberatung-zuerich.ch
 schlafberatung.ch
 schlafberatungen.ch
+schlafberatungscoaching.ch
 schlafbeschwerden.ch
 schlafbesser.ch
 schlafbett.ch
@@ -9696,6 +9702,7 @@ schlafratgeber.ch
 schlafraum-gmbh.ch
 schlafraum.ch
 schlafrechner.ch
+schlafrevolution.ch
 schlafsack-baby-wolle.ch
 schlafsack-hotel.ch
 schlafsack.ch
@@ -14753,6 +14760,7 @@ schmitta-raron.ch
 schmitta.ch
 schmittax.ch
 schmittcom.ch
+schmitte-auenstein.ch
 schmitte-bachmann.ch
 schmitte-balsthal.ch
 schmitte-bar.ch
@@ -15472,12 +15480,10 @@ schmutzgestion.ch
 schmutzi.ch
 schmutzig.ch
 schmutzige-hoeschen.ch
-schmutzige-vergangenheit.ch
 schmutzigehoeschen.ch
 schmutzigerdonnerstag.ch
 schmutzigesgeheimnis.ch
 schmutzigesseniorendating.ch
-schmutzigevergangenheit.ch
 schmutzimmo.ch
 schmutzkampagne.ch
 schmutzless.ch
@@ -16149,7 +16155,6 @@ schneeschuhtouren-engelberg.ch
 schneeschuhtouren-mit-segelschiff.ch
 schneeschuhtouren-pilatus.ch
 schneeschuhtouren.ch
-schneeschuhtourmithund.ch
 schneeschuhtrails.ch
 schneeschuhtrekking.ch
 schneeschuhwandern-engadin.ch
@@ -18202,7 +18207,6 @@ schochbaukeramik.ch
 schochbrothers.ch
 schochcloud.ch
 schochcoaching.ch
-schochcom.ch
 schochconsulting.ch
 schochcosmetic.ch
 schochdev.ch
@@ -19955,6 +19959,7 @@ schoolsininformationsociety.ch
 schoolspace.ch
 schoolsport.ch
 schoolstore.ch
+schoolstuff.ch
 schoolsuite.ch
 schoolswitzerland.ch
 schooltab.ch
@@ -20847,7 +20852,6 @@ schreibgenosse.ch
 schreibgeraet.ch
 schreibgeraete.ch
 schreibgeraetesammeln.ch
-schreibgeraeteshop.ch
 schreibgewandt.ch
 schreibgruppe-lebensgeschichten.ch
 schreibgut.ch
@@ -21010,7 +21014,6 @@ schreibweisungen.ch
 schreibweiter.ch
 schreibwelle.ch
 schreibwelt.ch
-schreibwelten.ch
 schreibwerk-ost.ch
 schreibwerk.ch
 schreibwerkstatt-kraus.ch
@@ -21837,7 +21840,6 @@ schreinerei-troxler.ch
 schreinerei-truffer.ch
 schreinerei-trutmann.ch
 schreinerei-uebeschi.ch
-schreinerei-uebler.ch
 schreinerei-ulrich.ch
 schreinerei-urech.ch
 schreinerei-uri.ch
@@ -23960,7 +23962,6 @@ schuhreparaturen.ch
 schuhreparaturenbasel.ch
 schuhrost.ch
 schuhschachtel.ch
-schuhschluessel-nemes.ch
 schuhschmuck.ch
 schuhschopschweiz.ch
 schuhschraenke.ch
@@ -24001,6 +24002,7 @@ schuhwerkstatt.ch
 schuhwerkstattbern.ch
 schuhz.ch
 schuhzeit.ch
+schui.ch
 schuiki.ch
 schuitemaker.ch
 schuiza.ch
@@ -27080,6 +27082,7 @@ schulz-electronic.ch
 schulz-frueh.ch
 schulz-good.ch
 schulz-importexport.ch
+schulz-info.ch
 schulz-informatik.ch
 schulz-key.ch
 schulz-kreativ.ch
@@ -27089,6 +27092,7 @@ schulz-orbe.ch
 schulz-solutions.ch
 schulz-sportreisen.ch
 schulz-system.ch
+schulz-zug.ch
 schulz.ch
 schulzahnarzt-gommiswald.ch
 schulzahnarzt-muensingen.ch
@@ -27628,13 +27632,11 @@ schutzloser.ch
 schutzmarke.ch
 schutzmaske-schweiz.ch
 schutzmaske.ch
-schutzmasken-ch.ch
 schutzmasken-onlineshop.ch
 schutzmasken-schweiz.ch
 schutzmasken.ch
 schutzmasken1.ch
 schutzmasken24.ch
-schutzmaskench.ch
 schutzmaskenshop.ch
 schutzmaskenverkaufschweiz.ch
 schutzmassnahmen-schweiz.ch
@@ -30275,6 +30277,7 @@ schweizer-fanartikel.ch
 schweizer-fans.ch
 schweizer-fanshop.ch
 schweizer-farbstoffe.ch
+schweizer-fasnacht.ch
 schweizer-feh.ch
 schweizer-fehklub.ch
 schweizer-feiertage.ch
@@ -31123,7 +31126,6 @@ schweizer-wallfahrt.ch
 schweizer-wanderleiter.ch
 schweizer-wanderwege.ch
 schweizer-wanderwochen.ch
-schweizer-warentests.ch
 schweizer-wasser.ch
 schweizer-wasserbau.ch
 schweizer-wasserkraft.ch
@@ -34484,6 +34486,7 @@ schwizgebel.ch
 schwizi.ch
 schwiziell.ch
 schwizis.ch
+schwizkey.ch
 schwizkocht.ch
 schwizshow.ch
 schwizwit.ch
@@ -36086,6 +36089,7 @@ scooluxus.ch
 scooly.ch
 scoom.ch
 scooms.ch
+scoonie.ch
 scoop-classicalpilates.ch
 scoop-holding.ch
 scoop-production.ch
@@ -36439,7 +36443,6 @@ scorm.ch
 scormlab.ch
 scormtb.ch
 scorp.ch
-scorpia-shop.ch
 scorpia.ch
 scorpico.ch
 scorpinon.ch

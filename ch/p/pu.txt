@@ -31,7 +31,6 @@ pub-ascot.ch
 pub-bar.ch
 pub-blaueraff.ch
 pub-brienz.ch
-pub-buddy.ch
 pub-cap.ch
 pub-conseils.ch
 pub-crawl.ch
@@ -108,7 +107,6 @@ pubblisystem.ch
 pubblitaxi.ch
 pubboost.ch
 pubbox.ch
-pubbuddy.ch
 pubcenter.ch
 pubcentral.ch
 pubchoir.ch
@@ -275,6 +273,7 @@ public-safety-equipment.ch
 public-safety.ch
 public-sector.ch
 public-server-cloud.ch
+public-service-ai.ch
 public-service-transformation.ch
 public-service.ch
 public-services.ch
@@ -870,7 +869,6 @@ pubnet.ch
 pubnub.ch
 puboncars.ch
 pubonline.ch
-pubpasblabla.ch
 pubpfiff.ch
 pubprint.ch
 pubpuzzle.ch
@@ -1845,6 +1843,8 @@ pulse-fiduciaire.ch
 pulse-fiduciary.ch
 pulse-football-backend.ch
 pulse-football.ch
+pulse-formation.ch
+pulse-formations.ch
 pulse-geneva.ch
 pulse-hesge.ch
 pulse-hotelperformance.ch
@@ -3178,6 +3178,7 @@ puplingebasket.ch
 puplingebouge.ch
 puplingeclassique.ch
 puplnride.ch
+puplu.ch
 pupnet.ch
 pupnyx.ch
 pupo.ch
@@ -3198,6 +3199,7 @@ puppen.ch
 puppenakademie.ch
 puppenatelier.ch
 puppenboerse.ch
+puppenbuehne-wildhaus.ch
 puppenbuehne.ch
 puppendoktor.ch
 puppenhaeuser.ch
@@ -3992,6 +3994,7 @@ purecare.ch
 purecars.ch
 purecasa.ch
 purecashmere.ch
+purecasual.ch
 purecatering.ch
 purecbdswiss.ch
 purecell.ch
@@ -4279,6 +4282,7 @@ purely-sweet.ch
 purely-you.ch
 purely.ch
 purelybe.ch
+purelycasual.ch
 purelycats.ch
 purelydogs.ch
 purelyhealth.ch
@@ -6173,6 +6177,7 @@ puzzledimension.ch
 puzzledream.ch
 puzzleevolution.ch
 puzzlefin.ch
+puzzlefux.ch
 puzzleitc.ch
 puzzleland.ch
 puzzlemanagement.ch

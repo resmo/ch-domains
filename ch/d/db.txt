@@ -151,7 +151,6 @@ db-swiss.ch
 db-sys.ch
 db-t.ch
 db-tec.ch
-db-tech.ch
 db-trade.ch
 db-treuhand.ch
 db-tschopp.ch
@@ -408,6 +407,7 @@ dbh-buchhandel.ch
 dbh-treuhand.ch
 dbh.ch
 dbhaustech.ch
+dbhaustechnik.ch
 dbhbuch.ch
 dbhbuchhandel.ch
 dbhelp.ch
@@ -434,7 +434,6 @@ dbinfo.ch
 dbingenieure.ch
 dbintermodal.ch
 dbinvest.ch
-dbiplastics.ch
 dbird.ch
 dbirec.ch
 dbischof.ch

@@ -179,6 +179,7 @@ bfcollection.ch
 bfcommodities.ch
 bfcompta.ch
 bfconcepts.ch
+bfconstruction.ch
 bfconsult.ch
 bfconsulting.ch
 bfcosmetics.ch
@@ -386,7 +387,6 @@ bfl-langenthal.ch
 bfl-leman.ch
 bfl-service.ch
 bfl.ch
-bfl2010.ch
 bflat.ch
 bflatsharp.ch
 bflaw.ch
