@@ -980,6 +980,7 @@ planaction.ch
 planad.ch
 planaenderig.ch
 planaevents.ch
+planaflowers.ch
 planag.ch
 planagchur.ch
 planagend.ch
@@ -2197,6 +2198,7 @@ plankompetenz.ch
 plankonstrukt.ch
 plankontext.ch
 plankonzept.ch
+plankopf.ch
 plankopie.ch
 plankopien.ch
 plankopierwerk.ch
@@ -4300,7 +4302,6 @@ plattenlager.ch
 plattenlegen.ch
 plattenlegeprofis.ch
 plattenleger-5vor12.ch
-plattenleger-aargau.ch
 plattenleger-allschwil.ch
 plattenleger-amriswil.ch
 plattenleger-appenzell.ch
@@ -5544,6 +5545,7 @@ playslots.ch
 playslotz.ch
 playsmart.ch
 playsmartersports.ch
+playsnacks.ch
 playsnowboards.ch
 playsound.ch
 playspace.ch
@@ -6483,6 +6485,7 @@ plimswiss.ch
 plin.ch
 pline.ch
 pling.ch
+plingli.ch
 plingspot.ch
 plinio.ch
 pliniomartini.ch
@@ -6846,7 +6849,6 @@ plombierdepannage.ch
 plombierfribourg.ch
 plombiergashi.ch
 plombiergeneve-hs.ch
-plombiergeneve.ch
 plombiergeneve24.ch
 plombiergeneveplus.ch
 plombiergenevesuper.ch
@@ -7262,6 +7264,7 @@ plr-genthod.ch
 plr-gland.ch
 plr-glane.ch
 plr-glane2026.ch
+plr-gordola.ch
 plr-grafiche.ch
 plr-grand-saconnex.ch
 plr-grandchasseral.ch
@@ -7279,6 +7282,7 @@ plr-landeron.ch
 plr-latena.ch
 plr-latene.ch
 plr-lavallee.ch
+plr-lavaux-oron.ch
 plr-lelocle.ch
 plr-lens.ch
 plr-lesliberaux-radicaux.ch
@@ -7290,6 +7294,7 @@ plr-losone.ch
 plr-lucens.ch
 plr-lugano.ch
 plr-lumino.ch
+plr-lutry.ch
 plr-maggia.ch
 plr-magliaso.ch
 plr-martigny.ch
@@ -7307,6 +7312,7 @@ plr-montreux.ch
 plr-morat.ch
 plr-morbioinferiore.ch
 plr-morges.ch
+plr-moudon.ch
 plr-moutier.ch
 plr-muralto.ch
 plr-novaggio.ch
@@ -7314,6 +7320,7 @@ plr-novazzano.ch
 plr-nyon.ch
 plr-ollon.ch
 plr-onex.ch
+plr-orbe.ch
 plr-origlio.ch
 plr-orselina.ch
 plr-payerne.ch
@@ -7327,7 +7334,9 @@ plr-pully.ch
 plr-reconvilier.ch
 plr-rivasanvitale.ch
 plr-riviera.ch
+plr-rjc.ch
 plr-rochefort.ch
+plr-rolle.ch
 plr-saint-sulpice.ch
 plr-saintblaise.ch
 plr-salvan.ch
@@ -7368,6 +7377,7 @@ plr-vouvry.ch
 plr-vuadens.ch
 plr-vully-vd.ch
 plr-vully.ch
+plr-yvonand.ch
 plr.ch
 plr2026.ch
 plr2027.ch
@@ -7452,6 +7462,7 @@ plrvilleneuvehautlac.ch
 plrvionnaz.ch
 plrvionnaztorgon2030.ch
 plrvm.ch
+plrvolleges.ch
 plrvouvry.ch
 plrvs.ch
 plrvt2030.ch
@@ -7828,6 +7839,7 @@ plumineuse.ch
 plumlive.ch
 plumlune.ch
 plumnet.ch
+plumo.ch
 plumon.ch
 plumond.ch
 plumor-novimex.ch

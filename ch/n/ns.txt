@@ -642,7 +642,6 @@ ns02.pst-smartcity.ch
 ns02.pyle.ch
 ns02.rifit.ch
 ns02.rymedia.ch
-ns02.sbs.ch
 ns02.sednait.ch
 ns02.server-base.ch
 ns02.skvnet.ch
@@ -819,6 +818,7 @@ ns1.allstore.ch
 ns1.alltronserviceshop.ch
 ns1.allware.ch
 ns1.alpasana.ch
+ns1.alpenzagros.ch
 ns1.alpha-projects.ch
 ns1.alphabeta-hosting.ch
 ns1.alphanet.ch
@@ -943,7 +943,6 @@ ns1.bagnoud.ch
 ns1.baillet.ch
 ns1.bailong.ch
 ns1.baldesberger.ch
-ns1.balschun.ch
 ns1.balzer-technik.ch
 ns1.band.ch
 ns1.bandgenossenschaft.ch
@@ -1777,6 +1776,7 @@ ns1.fuchs-rasenmaeher.ch
 ns1.fuderer.ch
 ns1.fuform.ch
 ns1.funisante.ch
+ns1.funkraum.ch
 ns1.funktionierts.ch
 ns1.furrerundpartner.ch
 ns1.futurelab.ch
@@ -3308,7 +3308,6 @@ ns1.sharebox.ch
 ns1.shareout.ch
 ns1.shinhosting.ch
 ns1.shins.ch
-ns1.shinymail.ch
 ns1.shkb.ch
 ns1.shopondemand.ch
 ns1.showcookingpaellas.ch
@@ -3355,7 +3354,6 @@ ns1.sleepndgo.ch
 ns1.slf.ch
 ns1.slueoend.ch
 ns1.sly.ch
-ns1.smart-staging.ch
 ns1.smartfenster.ch
 ns1.smartlabs.ch
 ns1.smartmoneymatch.ch
@@ -3701,6 +3699,7 @@ ns1.verapet.ch
 ns1.vereinshosting.ch
 ns1.verges.ch
 ns1.verifdoc.ch
+ns1.verteilungsmonitor.ch
 ns1.vertis.ch
 ns1.verveweb.ch
 ns1.verzeichnisdienst.ch
@@ -4154,6 +4153,7 @@ ns2.allstore.ch
 ns2.alltronserviceshop.ch
 ns2.allware.ch
 ns2.alpasana.ch
+ns2.alpenzagros.ch
 ns2.alpha-projects.ch
 ns2.alphabeta-hosting.ch
 ns2.alphanet.ch
@@ -4278,7 +4278,6 @@ ns2.baconniere.ch
 ns2.baeuerinnenportal.ch
 ns2.bagnoud.ch
 ns2.bailong.ch
-ns2.balschun.ch
 ns2.band.ch
 ns2.bandgenossenschaft.ch
 ns2.bangladeshembassy.ch
@@ -5079,6 +5078,7 @@ ns2.fuchs-rasenmaeher.ch
 ns2.fuderer.ch
 ns2.fuform.ch
 ns2.funisante.ch
+ns2.funkraum.ch
 ns2.funktionierts.ch
 ns2.furrerundpartner.ch
 ns2.futureweb.ch
@@ -5800,7 +5800,6 @@ ns2.mediatech2000.ch
 ns2.mediavail.ch
 ns2.mediawerft.ch
 ns2.medical-emergency.ch
-ns2.medienpreis-ostschweiz.ch
 ns2.meerschweinchenhotel-zuerich.ch
 ns2.meganit.ch
 ns2.megavital.ch
@@ -6542,7 +6541,6 @@ ns2.sharebox.ch
 ns2.shareout.ch
 ns2.shinhosting.ch
 ns2.shins.ch
-ns2.shinymail.ch
 ns2.shkb.ch
 ns2.shopondemand.ch
 ns2.showcookingpaellas.ch
@@ -6589,7 +6587,6 @@ ns2.skyte.ch
 ns2.sleepndgo.ch
 ns2.slf.ch
 ns2.slueoend.ch
-ns2.smart-staging.ch
 ns2.smartlabs.ch
 ns2.smartmoneymatch.ch
 ns2.smgi.ch
@@ -6934,6 +6931,7 @@ ns2.verapet.ch
 ns2.vereinshosting.ch
 ns2.verges.ch
 ns2.verifdoc.ch
+ns2.verteilungsmonitor.ch
 ns2.vertis.ch
 ns2.verveweb.ch
 ns2.verzeichnisdienst.ch
@@ -7654,7 +7652,6 @@ ns3.media-tenor.ch
 ns3.mediaformers.ch
 ns3.mediaktion.ch
 ns3.mediavail.ch
-ns3.medienpreis-ostschweiz.ch
 ns3.mfkey.ch
 ns3.mgehosting.ch
 ns3.mgeweb.ch
@@ -8355,6 +8352,7 @@ ns5.swissrack.ch
 ns5.threema.ch
 ns5.uhot.ch
 ns50.kbsd.ch
+ns500.royaldns.ch
 ns56kreativmedia.ch
 ns59.tophost.ch
 ns6.another.ch
