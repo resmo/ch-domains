@@ -399,6 +399,7 @@ ns.rm-networks.ch
 ns.rollenspiel.ch
 ns.rptd.ch
 ns.ruedunord.ch
+ns.s2.werner-bernhard.ch
 ns.sbb.ch
 ns.schmidelnet.ch
 ns.scriptwriter.ch
@@ -818,7 +819,6 @@ ns1.allstore.ch
 ns1.alltronserviceshop.ch
 ns1.allware.ch
 ns1.alpasana.ch
-ns1.alpenzagros.ch
 ns1.alpha-projects.ch
 ns1.alphabeta-hosting.ch
 ns1.alphanet.ch
@@ -2533,7 +2533,6 @@ ns1.meineinternetseite.ch
 ns1.melowerbung.ch
 ns1.memhost1.ch
 ns1.mensi.ch
-ns1.menspowerumzug.ch
 ns1.merak2.ch
 ns1.merkisoft.ch
 ns1.messer-scheren.ch
@@ -2628,7 +2627,6 @@ ns1.musiksyndikat.ch
 ns1.musikzielke.ch
 ns1.mvos.ch
 ns1.mx-academy.ch
-ns1.mx3hin.ch
 ns1.mxcloud.ch
 ns1.my-doctor.ch
 ns1.my-namaste.ch
@@ -4153,7 +4151,6 @@ ns2.allstore.ch
 ns2.alltronserviceshop.ch
 ns2.allware.ch
 ns2.alpasana.ch
-ns2.alpenzagros.ch
 ns2.alpha-projects.ch
 ns2.alphabeta-hosting.ch
 ns2.alphanet.ch
@@ -5810,7 +5807,6 @@ ns2.meineinternetseite.ch
 ns2.melowerbung.ch
 ns2.memhost1.ch
 ns2.mensi.ch
-ns2.menspowerumzug.ch
 ns2.merak2.ch
 ns2.messer-scheren.ch
 ns2.metrohmcomtest.ch
@@ -5895,7 +5891,6 @@ ns2.musikzielke.ch
 ns2.mvos.ch
 ns2.mw-design.ch
 ns2.mx-academy.ch
-ns2.mx3hin.ch
 ns2.my-doctor.ch
 ns2.my-namaste.ch
 ns2.my-soft.ch
@@ -8434,6 +8429,7 @@ nsa.next-view.ch
 nsa1.nts.ch
 nsa2.nts.ch
 nsaa.ch
+nsaaa.ch
 nsadmin.ch
 nsadvisory.ch
 nsaf.ch

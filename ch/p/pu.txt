@@ -1600,6 +1600,7 @@ pullparts.ch
 pulls.ch
 pullsafe.ch
 pullsh.ch
+pullster.ch
 pulltaps.ch
 pulltec.ch
 pulltex.ch
@@ -1887,7 +1888,6 @@ pulsecareer.ch
 pulsecast.ch
 pulsecheck.ch
 pulsecollective.ch
-pulsecomm.ch
 pulseconsulting.ch
 pulsecours.ch
 pulsed-power.ch
@@ -3067,6 +3067,7 @@ puntomedico.ch
 puntonave.ch
 puntonero.ch
 puntonet.ch
+puntonutrizione.ch
 puntopacco.ch
 puntopasta.ch
 puntopittura.ch
@@ -4242,6 +4243,7 @@ purelements.ch
 purelens.ch
 pureli.ch
 purelia.ch
+purelialux.ch
 purelif.ch
 purelife-coaching.ch
 purelife.ch
@@ -4285,7 +4287,6 @@ purely-you.ch
 purely.ch
 purelybe.ch
 purelycasual.ch
-purelycats.ch
 purelydogs.ch
 purelyhealth.ch
 purelyorganic.ch
