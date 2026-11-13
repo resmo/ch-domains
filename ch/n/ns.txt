@@ -830,6 +830,7 @@ ns1.alpinedns.ch
 ns1.alpost.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
+ns1.alvarez-it.ch
 ns1.alwicom.ch
 ns1.alyce.ch
 ns1.am-server.ch
@@ -952,7 +953,6 @@ ns1.bargnac.ch
 ns1.barium.ch
 ns1.barmettler-ict-hosting.ch
 ns1.basel-landschaft.ch
-ns1.basicsindesign.ch
 ns1.basler.ch
 ns1.basx.ch
 ns1.bauern-portal.ch
@@ -1132,7 +1132,6 @@ ns1.businessbox.ch
 ns1.butinfo.ch
 ns1.bvb.ch
 ns1.bw-server.ch
-ns1.bw-solutions.ch
 ns1.bwcloud.ch
 ns1.bwenri.ch
 ns1.byebyehotelmama.ch
@@ -1595,7 +1594,6 @@ ns1.elitework.ch
 ns1.eliver.ch
 ns1.ello.ch
 ns1.emailto.ch
-ns1.emation.ch
 ns1.emilfrey.ch
 ns1.emmewebhosting.ch
 ns1.emmi.ch
@@ -1882,6 +1880,7 @@ ns1.gregorich.ch
 ns1.grellhost.ch
 ns1.gretlerintermedia.ch
 ns1.grhosting.ch
+ns1.gridmarshal.ch
 ns1.gridware.ch
 ns1.gringo.ch
 ns1.grmail.ch
@@ -2109,7 +2108,6 @@ ns1.infinity.ch
 ns1.infinityweb.ch
 ns1.infolibre.ch
 ns1.infomaniak.ch
-ns1.infomanika.ch
 ns1.infonaute.ch
 ns1.infopage.ch
 ns1.informatics.ch
@@ -2304,7 +2302,6 @@ ns1.kommunikationspunkt.ch
 ns1.konkret-werbung.ch
 ns1.konkretpartner.ch
 ns1.konsumgut.ch
-ns1.kontrollschild.ch
 ns1.kosmetik-institutsseite-p1.ch
 ns1.kosmetischefavoriten.ch
 ns1.kosmetischerituale.ch
@@ -3402,7 +3399,6 @@ ns1.sscloud.ch
 ns1.stabilionet.ch
 ns1.stadtundland.ch
 ns1.staempfli.ch
-ns1.staempfliserver.ch
 ns1.stafin.ch
 ns1.stagecolor.ch
 ns1.stageone.ch
@@ -3462,7 +3458,6 @@ ns1.sunyata.ch
 ns1.superserver.ch
 ns1.suphattrathaimassage.ch
 ns1.support-telefon.ch
-ns1.sushisan.ch
 ns1.susoft.ch
 ns1.suva.ch
 ns1.suxessnet.ch
@@ -4161,6 +4156,7 @@ ns2.alpinedns.ch
 ns2.alpost.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
+ns2.alvarez-it.ch
 ns2.alwicom.ch
 ns2.alyce.ch
 ns2.am-server.ch
@@ -4282,7 +4278,6 @@ ns2.baratta.ch
 ns2.bargnac.ch
 ns2.barium.ch
 ns2.barmettler-ict-hosting.ch
-ns2.basicsindesign.ch
 ns2.basler.ch
 ns2.basx.ch
 ns2.bauern-portal.ch
@@ -4453,7 +4448,6 @@ ns2.burgers.ch
 ns2.businessbox.ch
 ns2.butinfo.ch
 ns2.bvb.ch
-ns2.bw-solutions.ch
 ns2.bwcloud.ch
 ns2.bwenri.ch
 ns2.byebyehotelmama.ch
@@ -4897,7 +4891,6 @@ ns2.eliver.ch
 ns2.ello.ch
 ns2.email4.ch
 ns2.emailto.ch
-ns2.emation.ch
 ns2.emilfrey.ch
 ns2.emmewebhosting.ch
 ns2.emmi.ch
@@ -5180,6 +5173,7 @@ ns2.gregorich.ch
 ns2.grellhost.ch
 ns2.gretlerintermedia.ch
 ns2.grhosting.ch
+ns2.gridmarshal.ch
 ns2.gridware.ch
 ns2.gringo.ch
 ns2.grmail.ch
@@ -5402,7 +5396,6 @@ ns2.infinity.ch
 ns2.infinityweb.ch
 ns2.infolibre.ch
 ns2.infomaniak.ch
-ns2.infomanika.ch
 ns2.infonaute.ch
 ns2.infopage.ch
 ns2.informatics.ch
@@ -5589,7 +5582,6 @@ ns2.koljaweb.ch
 ns2.kommunikationspunkt.ch
 ns2.konkret-werbung.ch
 ns2.konkretpartner.ch
-ns2.kontrollschild.ch
 ns2.kos.ch
 ns2.kosmetik-institutsseite-p1.ch
 ns2.kosmetischefavoriten.ch
@@ -6634,7 +6626,6 @@ ns2.sry-myls.ch
 ns2.sscloud.ch
 ns2.stabilionet.ch
 ns2.stadtundland.ch
-ns2.staempfliserver.ch
 ns2.stafin.ch
 ns2.stagecolor.ch
 ns2.stageone.ch
@@ -6691,7 +6682,6 @@ ns2.sunyata.ch
 ns2.superserver.ch
 ns2.suphattrathaimassage.ch
 ns2.support-telefon.ch
-ns2.sushisan.ch
 ns2.susoft.ch
 ns2.suva.ch
 ns2.suxessnet.ch
@@ -7327,7 +7317,6 @@ ns3.bsource.ch
 ns3.bst-ag.ch
 ns3.buffs.ch
 ns3.burgers.ch
-ns3.bw-solutions.ch
 ns3.bwcloud.ch
 ns3.bytefarm.ch
 ns3.bytelink.ch
@@ -7432,7 +7421,6 @@ ns3.elektro-andres.ch
 ns3.eliver.ch
 ns3.ello.ch
 ns3.email4.ch
-ns3.emation.ch
 ns3.emmewebhosting.ch
 ns3.energyprojects.ch
 ns3.ervocom.ch
@@ -8031,6 +8019,7 @@ ns4.alimpex.ch
 ns4.alstom.ch
 ns4.alto-port.ch
 ns4.alyce.ch
+ns4.anthonydieperink.ch
 ns4.apexis.ch
 ns4.arjun.ch
 ns4.as2.ch
@@ -8080,7 +8069,6 @@ ns4.easydnssec.ch
 ns4.edvlns.ch
 ns4.eliver.ch
 ns4.ello.ch
-ns4.emation.ch
 ns4.emmewebhosting.ch
 ns4.energyprojects.ch
 ns4.ervocom.ch
@@ -8308,7 +8296,6 @@ ns5.creativeagent.ch
 ns5.demicomp.ch
 ns5.dizmo.ch
 ns5.dnshub.ch
-ns5.emation.ch
 ns5.ezns.ch
 ns5.fhnw.ch
 ns5.fuchair.ch

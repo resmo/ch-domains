@@ -1480,6 +1480,7 @@ aklb.ch
 aklegal.ch
 aklei.ch
 aklief.ch
+akliegenschaftspflege.ch
 aklin-intern.ch
 aklin-kran.ch
 aklin-mietkran.ch
@@ -1740,6 +1741,8 @@ akps.ch
 akpsoftware.ch
 akpswiss.ch
 akpsy.ch
+akpullis.ch
+akpullover.ch
 akpz.ch
 akq.ch
 akqa.ch
@@ -3156,7 +3159,6 @@ akupunktur-psychosomatik.ch
 akupunktur-radloff.ch
 akupunktur-rapperswil.ch
 akupunktur-reichmuth.ch
-akupunktur-rueti.ch
 akupunktur-saladin.ch
 akupunktur-salehy.ch
 akupunktur-sarnen.ch
@@ -3321,7 +3323,6 @@ akupunkturtcmluzern.ch
 akupunkturthalwil.ch
 akupunkturthun.ch
 akupunkturtierarzt.ch
-akupunkturuster.ch
 akupunkturvergleich.ch
 akupunkturwang.ch
 akupunkturwinti.ch
@@ -3687,7 +3688,7 @@ akzentforum.ch
 akzentforumbasel.ch
 akzenthotel.ch
 akzenthotels.ch
-akzentimmo.ch
+akzenthub.ch
 akzentimmobilien.ch
 akzentinvest.ch
 akzentkuechen.ch

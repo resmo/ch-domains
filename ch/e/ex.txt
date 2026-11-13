@@ -1227,6 +1227,7 @@ exec-reader.ch
 exec-solution.ch
 exec-solutions.ch
 exec.ch
+execaiops.ch
 execal.ch
 execbridge.ch
 execdelta.ch
@@ -2318,12 +2319,10 @@ exor-schweiz.ch
 exor-switzerland.ch
 exor.ch
 exora-car.ch
-exora-cars.ch
 exora-holding.ch
 exora-tech.ch
 exora-technologie.ch
 exora.ch
-exoracars.ch
 exorama.ch
 exoramedia.ch
 exorbet.ch
@@ -2393,6 +2392,7 @@ exosys.ch
 exosystem.ch
 exosysteme.ch
 exot.ch
+exotaquatica.ch
 exotarium.ch
 exotax.ch
 exote.ch
@@ -2719,6 +2719,7 @@ expatspsychologist.ch
 expatspsychologists.ch
 expatsswiss.ch
 expatsswitzerland.ch
+expatstart.ch
 expatstax.ch
 expatsupport.ch
 expatsvizzera.ch
@@ -3732,6 +3733,7 @@ expertlegal.ch
 expertleuenberger.ch
 expertlife.ch
 expertline.ch
+expertlinkedin.ch
 expertlogis.ch
 expertlumina.ch
 expertly.ch

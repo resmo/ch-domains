@@ -1345,6 +1345,7 @@ eigenmietwert-check.ch
 eigenmietwert-ja.ch
 eigenmietwert-nein.ch
 eigenmietwert-nicht-abschaffen.ch
+eigenmietwert-rechner.ch
 eigenmietwert.ch
 eigenmietwertnein.ch
 eigenmietwertnichtabschaffen.ch
@@ -1743,6 +1744,7 @@ eignerschreibt.ch
 eignerstrategie.ch
 eignis.ch
 eignisse.ch
+eignum.ch
 eignung.ch
 eignungs-check.ch
 eignungsabklaerung.ch
