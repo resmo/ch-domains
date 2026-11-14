@@ -894,6 +894,7 @@ ns1.askben.ch
 ns1.askjad.ch
 ns1.asp-cloud.ch
 ns1.aspkom.ch
+ns1.aspservice.ch
 ns1.assetalpin.ch
 ns1.assistancepc.ch
 ns1.assistances.ch
@@ -2850,6 +2851,7 @@ ns1.pamplemousse.ch
 ns1.pandapic.ch
 ns1.pannel.ch
 ns1.panthere.ch
+ns1.pape-messebau.ch
 ns1.papenetdns.ch
 ns1.papierart.ch
 ns1.parallel.ch
@@ -3164,7 +3166,6 @@ ns1.rtk.ch
 ns1.rtpdns.ch
 ns1.rubansdor.ch
 ns1.ruckzuck-design.ch
-ns1.rudolflemcke.ch
 ns1.rundb.ch
 ns1.rutishauser.ch
 ns1.rxr.ch
@@ -3619,7 +3620,6 @@ ns1.train4it.ch
 ns1.transfert-geneve-aeroport.ch
 ns1.transnorm.ch
 ns1.traussniggweb.ch
-ns1.travelio.ch
 ns1.travelix.ch
 ns1.travelmail.ch
 ns1.traxxnet.ch
@@ -4222,6 +4222,7 @@ ns2.askben.ch
 ns2.askjad.ch
 ns2.asp-cloud.ch
 ns2.aspkom.ch
+ns2.aspservice.ch
 ns2.assistancepc.ch
 ns2.assistances.ch
 ns2.assistancesplus.ch
@@ -6089,6 +6090,7 @@ ns2.pageconcept.ch
 ns2.pagecontrol.ch
 ns2.pagemacher.ch
 ns2.pannel.ch
+ns2.pape-messebau.ch
 ns2.papenetdns.ch
 ns2.paraplegie.ch
 ns2.parfumaktion.ch
@@ -6391,7 +6393,6 @@ ns2.rtk.ch
 ns2.rtpdns.ch
 ns2.rubansdor.ch
 ns2.ruckzuck-design.ch
-ns2.rudolflemcke.ch
 ns2.rundb.ch
 ns2.rxr.ch
 ns2.s-informatik.ch
@@ -6847,7 +6848,6 @@ ns2.train4it.ch
 ns2.transfert-geneve-aeroport.ch
 ns2.transnorm.ch
 ns2.traussniggweb.ch
-ns2.travelio.ch
 ns2.travelix.ch
 ns2.travelmail.ch
 ns2.traxxnet.ch
