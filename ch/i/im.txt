@@ -1376,6 +1376,7 @@ imbiss-bim-chruezer.ch
 imbiss-bude.ch
 imbiss-guide.ch
 imbiss-kazim.ch
+imbiss-laufen.ch
 imbiss-luzern.ch
 imbiss-memo.ch
 imbiss-riviera.ch
@@ -11933,6 +11934,7 @@ impot-declaration.ch
 impot-fr.ch
 impot-franco-suisse.ch
 impot-fribourg.ch
+impot-frontalier-geneve.ch
 impot-frontalier.ch
 impot-frontaliers.ch
 impot-ge.ch
@@ -11949,6 +11951,7 @@ impot-quasi-resident.ch
 impot-reel-non.ch
 impot-serein.ch
 impot-socialiste-non.ch
+impot-source-frontalier.ch
 impot-source.ch
 impot-successions-non.ch
 impot-successions.ch
