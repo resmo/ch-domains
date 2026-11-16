@@ -1595,6 +1595,7 @@ audio-jo.ch
 audio-kabel-shop.ch
 audio-kabel.ch
 audio-kabelshop.ch
+audio-kalender.ch
 audio-kitchen.ch
 audio-klassiker.ch
 audio-kompass.ch
@@ -1838,6 +1839,7 @@ audiojungle.ch
 audiokabel-shop.ch
 audiokabel.ch
 audiokabelshop.ch
+audiokalender.ch
 audiokanzlei.ch
 audiokassette.ch
 audiokids.ch
@@ -6525,6 +6527,7 @@ auraarbeit.ch
 auraarbor.ch
 auraarchitektur.ch
 auraarts.ch
+auraautomobile.ch
 aurabalance.ch
 aurabalancing.ch
 aurabeauty.ch
@@ -9751,8 +9754,6 @@ auswuchten.ch
 auswuchter.ch
 auswuchtservice.ch
 auswuchtwelt.ch
-ausy-switzerland.ch
-ausy-technologies.ch
 ausy.ch
 auszaehlen.ch
 auszahlung-de.ch
@@ -9979,7 +9980,6 @@ autarklab.ch
 autarkleben.ch
 autarkmachtstark.ch
 autarkpower.ch
-autarksolar.ch
 autarkstore.ch
 autarkswiss.ch
 autarksys.ch
@@ -15022,6 +15022,7 @@ automated-photography.ch
 automated-trading.ch
 automated.ch
 automatedboxes.ch
+automatedbygui.ch
 automateddemocracy.ch
 automatedlogic.ch
 automatedmobilitysummit.ch
@@ -18309,6 +18310,7 @@ autsors.ch
 autspec.ch
 autstadt.ch
 autstick.ch
+auttransport.ch
 autullo.ch
 autumn-bright.ch
 autumn.ch
@@ -18396,7 +18398,6 @@ auviso-systems.ch
 auviso.ch
 auvisocloud.ch
 auvisoevent.ch
-auvisoevents.ch
 auvisory.ch
 auvisosystems.ch
 auvital.ch
