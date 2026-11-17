@@ -827,6 +827,7 @@ ns1.alphaomega-kinesiologie.ch
 ns1.alpinecare.ch
 ns1.alpinedc.ch
 ns1.alpinedns.ch
+ns1.alpiron.ch
 ns1.alpost.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
@@ -1409,8 +1410,6 @@ ns1.delweb.ch
 ns1.dentalmcenter.ch
 ns1.derholzbauer.ch
 ns1.derhost.ch
-ns1.dermapuzzle.ch
-ns1.dermavegas.ch
 ns1.dermsearch.ch
 ns1.derpublizist.ch
 ns1.designheit.ch
@@ -1721,6 +1720,7 @@ ns1.fishnfun.ch
 ns1.fistat.ch
 ns1.fitimschritt.ch
 ns1.fivezone.ch
+ns1.fjkl.ch
 ns1.flashcable.ch
 ns1.flashillusion.ch
 ns1.flatee.ch
@@ -2558,7 +2558,6 @@ ns1.mietauto24.ch
 ns1.mikroelek.ch
 ns1.milkycloud.ch
 ns1.mints-hosting.ch
-ns1.mio-dominio.ch
 ns1.miomedia.ch
 ns1.mipla.ch
 ns1.miramedia.ch
@@ -3193,7 +3192,6 @@ ns1.sarom.ch
 ns1.saschadonati.ch
 ns1.satorite.ch
 ns1.sauvegarde-geneve.ch
-ns1.saveyourskin.ch
 ns1.savvy.ch
 ns1.sb-akademie.ch
 ns1.sbakademie.ch
@@ -4149,6 +4147,7 @@ ns2.alphaoffice.ch
 ns2.alpinecare.ch
 ns2.alpinedc.ch
 ns2.alpinedns.ch
+ns2.alpiron.ch
 ns2.alpost.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
@@ -4722,8 +4721,6 @@ ns2.deltateam.ch
 ns2.deluk.ch
 ns2.delweb.ch
 ns2.derhost.ch
-ns2.dermapuzzle.ch
-ns2.dermavegas.ch
 ns2.dermsearch.ch
 ns2.derpublizist.ch
 ns2.designheit.ch
@@ -5013,6 +5010,7 @@ ns2.fistat.ch
 ns2.fitimschritt.ch
 ns2.fiveinfo.ch
 ns2.fivezone.ch
+ns2.fjkl.ch
 ns2.flashcable.ch
 ns2.flashillusion.ch
 ns2.flatee.ch
@@ -5814,7 +5812,6 @@ ns2.midix.ch
 ns2.mikroelek.ch
 ns2.milkycloud.ch
 ns2.mints-hosting.ch
-ns2.mio-dominio.ch
 ns2.miomedia.ch
 ns2.mipla.ch
 ns2.miramedia.ch
@@ -6412,7 +6409,6 @@ ns2.sarom.ch
 ns2.saschadonati.ch
 ns2.satorite.ch
 ns2.sauvegarde-geneve.ch
-ns2.saveyourskin.ch
 ns2.savvy.ch
 ns2.sb-akademie.ch
 ns2.sbakademie.ch
@@ -8804,6 +8800,7 @@ nstratfin.ch
 nstre.ch
 nstream.ch
 nstreuhand.ch
+nstri.ch
 nstucki.ch
 nstuder.ch
 nstweb.ch

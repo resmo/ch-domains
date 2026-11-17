@@ -1116,7 +1116,6 @@ msg-speicher.ch
 msg-sports.ch
 msg-systems.ch
 msg-uffikon.ch
-msg-wassersport.ch
 msg-werbetechnik.ch
 msg-zuerich.ch
 msg-zurich.ch
@@ -1182,7 +1181,6 @@ msgto.ch
 msguggisberg.ch
 msgunzgen.ch
 msgvending.ch
-msgwassersport.ch
 msgx.ch
 msgyk.ch
 msgym.ch
@@ -1193,6 +1191,7 @@ msh-heizung.ch
 msh-negotiation.ch
 msh-office.ch
 msh-projekt.ch
+msh-servicespro.ch
 msh.ch
 msha.ch
 mshabitat.ch
@@ -1324,7 +1323,6 @@ msjlive.ch
 msjmanagement.ch
 msjolie.ch
 msjolimont-thunersee.ch
-msju.ch
 msjura.ch
 msk-construction-site.ch
 msk-embolisation.ch

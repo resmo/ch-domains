@@ -23,7 +23,6 @@ db-b.ch
 db-bahn.ch
 db-band.ch
 db-bau.ch
-db-baudicht-fugentechnik.ch
 db-baudicht.ch
 db-bauleitung.ch
 db-beratung.ch
@@ -418,6 +417,7 @@ dbhomes.ch
 dbi-framework.ch
 dbi-it.ch
 dbi-services.ch
+dbi-zg.ch
 dbi.ch
 dbia.ch
 dbianchi.ch

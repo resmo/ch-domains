@@ -589,10 +589,8 @@ skateparkthun.ch
 skateparkvanja.ch
 skatepower.ch
 skatepro.ch
-skater-hockey.ch
 skater.ch
 skaterboy.ch
-skaterhockey.ch
 skaters.ch
 skaterschuhe.ch
 skaterz.ch
@@ -2278,6 +2276,7 @@ skill-king.ch
 skill-link.ch
 skill-lynx.ch
 skill-manager.ch
+skill-match.ch
 skill-matcher.ch
 skill-portal.ch
 skill-profil.ch
@@ -2816,6 +2815,7 @@ skin-match.ch
 skin-med.ch
 skin-needler.ch
 skin-nova.ch
+skin-odys.ch
 skin-packing.ch
 skin-pass.ch
 skin-perfection.ch
@@ -3223,6 +3223,7 @@ skinnyspritz.ch
 skinnyunshaven.ch
 skinnywonder.ch
 skino.ch
+skinodys.ch
 skinofficial.ch
 skinova-beauty-and-skin.ch
 skinova-beauty.ch
@@ -4087,6 +4088,7 @@ skiworld.ch
 skiworldcup-cransmontana.ch
 skiworldcup-stmoritz.ch
 skiworldcup.ch
+skiworldcuptransfers.ch
 skiworldcupwengen.ch
 skix.ch
 skixbike.ch
@@ -4487,7 +4489,6 @@ skool.ch
 skoolers.ch
 skoolgain.ch
 skoolina.ch
-skoolio.ch
 skoolix.ch
 skooly.ch
 skoolzz.ch
@@ -5587,10 +5588,15 @@ skyflight.ch
 skyflix.ch
 skyfloor-air.ch
 skyfloor-bs.ch
+skyfloor-glasboden.ch
+skyfloor-international.ch
+skyfloor-oberlicht.ch
+skyfloor-shop.ch
 skyfloor-skylight.ch
 skyfloor.ch
 skyfloorair.ch
 skyfloorbs.ch
+skyfloorinternational.ch
 skyfloors.ch
 skyflor.ch
 skyflow.ch
@@ -5626,6 +5632,7 @@ skygate.ch
 skygates.ch
 skygazer.ch
 skygear.ch
+skygen.ch
 skygeneva.ch
 skygenius.ch
 skygit.ch

@@ -1088,7 +1088,6 @@ ich-sehe-deine-seele.ch
 ich-sehe-dich.ch
 ich-sehe-was-das-du-nicht-siehst.ch
 ich-selbst-sein.ch
-ich-selbst-werden.ch
 ich-singe-mit.ch
 ich-sorge-vor.ch
 ich-spare.ch
@@ -1130,7 +1129,6 @@ ich-weiss-nicht.ch
 ich-weiss-wo.ch
 ich-werde-escort.ch
 ich-werde.ch
-ich-werden.ch
 ich-will-6.ch
 ich-will-bleiben.ch
 ich-will-boot-fahren.ch
@@ -1144,7 +1142,6 @@ ich-will-in-die-antarktis.ch
 ich-will-ins-ausland.ch
 ich-will-jassen.ch
 ich-will-kiten.ch
-ich-will-kuehe.ch
 ich-will-leistung.ch
 ich-will-mein-nutzfahrzeug-verkaufen.ch
 ich-will-mich-scheiden.ch
@@ -1635,7 +1632,6 @@ ichwillheiraten.ch
 ichwillhelfen.ch
 ichwillinput.ch
 ichwillknutsen.ch
-ichwillkuehe.ch
 ichwillleistung.ch
 ichwillmehrenergie.ch
 ichwillmeinautoloswerden.ch
@@ -2061,7 +2057,6 @@ iconcad.ch
 iconcard.ch
 iconcards.ch
 iconcept.ch
-iconcert.ch
 iconcierge.ch
 iconclub.ch
 iconconsulting.ch
@@ -2330,6 +2325,7 @@ icowat.ch
 icows.ch
 icoya.ch
 icp-education.ch
+icp-impact.ch
 icp-it.ch
 icp-manager.ch
 icp-ms.ch
@@ -2352,6 +2348,7 @@ icpglobal.ch
 icph.ch
 icpi.ch
 icpic.ch
+icpimpact.ch
 icpkp.ch
 icplaner.ch
 icplog.ch
