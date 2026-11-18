@@ -746,7 +746,6 @@ hydrogen-world.ch
 hydrogen.ch
 hydrogen24.ch
 hydrogen2heat.ch
-hydrogenbattery.ch
 hydrogenbox.ch
 hydrogendrink.ch
 hydrogenenaturel.ch
@@ -756,12 +755,10 @@ hydrogenfund.ch
 hydrogengroup.ch
 hydrogenmobility.ch
 hydrogenorg.ch
-hydrogenpanel.ch
 hydrogenportfolio.ch
 hydrogenpower.ch
 hydrogensolutions.ch
 hydrogenstation.ch
-hydrogenstorage.ch
 hydrogensupplement.ch
 hydrogenswiss.ch
 hydrogentabs.ch
@@ -1730,6 +1727,7 @@ hyper-performance.ch
 hyper-physio-mobil.ch
 hyper-promo.ch
 hyper-pulse.ch
+hyper-shell.ch
 hyper-software.ch
 hyper-super.ch
 hyper-tech.ch
@@ -4717,6 +4715,7 @@ hyver.ch
 hyveri.ch
 hyvert.ch
 hyvestar.ch
+hyvexa.ch
 hyvia.ch
 hyvido.ch
 hyvimmo.ch

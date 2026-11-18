@@ -336,7 +336,6 @@ im-team.ch
 im-tec-ag.ch
 im-technik.ch
 im-test.ch
-im-theodorshof.ch
 im-tiergarten.ch
 im-translate.ch
 im-trauerfall.ch
@@ -2667,6 +2666,7 @@ imkerverein-aegerital.ch
 imkerverein-ar-mittelland.ch
 imkerverein-bolligen.ch
 imkerverein-bremgarten.ch
+imkerverein-egnach.ch
 imkerverein-haeggenschwil.ch
 imkerverein-hochdorf.ch
 imkerverein-innerschwyz.ch
@@ -8378,6 +8378,7 @@ immomaent.ch
 immomag.ch
 immomagazin.ch
 immomagazine.ch
+immomagnet.ch
 immomai.ch
 immomail.ch
 immomailbox.ch
@@ -8920,6 +8921,7 @@ immorapido.ch
 immorare.ch
 immorat.ch
 immorate.ch
+immoratgeber.ch
 immorauber.ch
 immoraum.ch
 immorchestra.ch
@@ -10567,7 +10569,6 @@ impact-concept.ch
 impact-conseil.ch
 impact-consult.ch
 impact-consulting.ch
-impact-cooperative.ch
 impact-credits.ch
 impact-culture.ch
 impact-davos.ch
@@ -10750,7 +10751,6 @@ impactconnect.ch
 impactconseil.ch
 impactconsult.ch
 impactconsulting.ch
-impactcooperative.ch
 impactculture.ch
 impactd.ch
 impactdancestudio.ch
@@ -11180,6 +11180,7 @@ imperialunited.ch
 imperialwealth.ch
 imperialwins.ch
 imperialworkout.ch
+imperialy.ch
 imperialyt.ch
 imperian-group.ch
 imperian.ch
@@ -11779,6 +11780,7 @@ import-optic.ch
 import-optik.ch
 import-pilot.ch
 import-racing.ch
+import-radar.ch
 import-schweiz.ch
 import-scooters.ch
 import-sepia.ch
@@ -11864,6 +11866,7 @@ importoswiss.ch
 importparfumerie.ch
 importpilot.ch
 importpneus.ch
+importradar.ch
 importraits.ch
 importreifen.ch
 imports-manor.ch
@@ -11876,9 +11879,11 @@ importstapler.ch
 importstroh.ch
 importstrohpellets.ch
 importsupport.ch
+importsverbots-initiative.ch
 importswiss.ch
 importverbot-stopfleber-ja.ch
 importverbot-stopfleber-nein.ch
+importverbots-initiative.ch
 importware.ch
 importwaren.ch
 importwine.ch
@@ -13516,7 +13521,6 @@ imvestir.ch
 imvestland.ch
 imvestlend.ch
 imvestline.ch
-imvestsuisse.ch
 imvi.ch
 imviadukt.ch
 imviadukt5.ch

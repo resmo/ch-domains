@@ -921,7 +921,6 @@ scan-ne.ch
 scan-netmanage.ch
 scan-pay-go.ch
 scan-pegasuspartners.ch
-scan-pension.ch
 scan-pix.ch
 scan-plast.ch
 scan-plus.ch
@@ -1291,7 +1290,6 @@ scanpartner.ch
 scanpayandgo.ch
 scanpaygo.ch
 scanpaystay.ch
-scanpension.ch
 scanpi.ch
 scanpiii.ch
 scanpipe.ch
@@ -3795,6 +3793,7 @@ schaffhauser-wanderwege.ch
 schaffhauser-wein.ch
 schaffhauser-wochenblatt.ch
 schaffhauser-wochenmarkt.ch
+schaffhauser-zeitung.ch
 schaffhauser.ch
 schaffhauserag.ch
 schaffhauseraz.ch
@@ -3836,6 +3835,7 @@ schaffhauserweine.ch
 schaffhauserwirtschaft.ch
 schaffhauserwoche.ch
 schaffhauserzahnarzt.ch
+schaffhauserzeitung.ch
 schaffhauserzungen.ch
 schaffhausgang.ch
 schaffhausundgarten.ch
@@ -5948,6 +5948,7 @@ scheidung-anwalt.ch
 scheidung-basel.ch
 scheidung-beratung-24.ch
 scheidung-beratung-online.ch
+scheidung-das-spiel.ch
 scheidung-divorce.ch
 scheidung-einfach.ch
 scheidung-einreichen-bern.ch
@@ -9234,12 +9235,20 @@ schlaba.ch
 schlabberland.ch
 schlabs.ch
 schlacher.ch
+schlacht-am-morgarten.ch
+schlacht-bei-grandson.ch
+schlacht-bei-marignano.ch
+schlacht-bei-nancy.ch
+schlacht-bei-sempach.ch
+schlacht-bein-dijon.ch
+schlacht-von-dijon.ch
 schlacht.ch
 schlacht3r.ch
 schlachtabrechnung.ch
 schlachtanlage-walterswil.ch
 schlachtanlagewalterswil.ch
 schlachtbild.ch
+schlachten-von-villmergen.ch
 schlachten.ch
 schlachter-ag.ch
 schlachter-entruempelung.ch
@@ -10039,7 +10048,6 @@ schlagerfreunde-rheintal.ch
 schlagerfunken.ch
 schlagergipfel.ch
 schlagerhirsch.ch
-schlagerhitreise.ch
 schlagerhochzeit.ch
 schlagerhotel.ch
 schlagerhuette.ch
@@ -10889,12 +10897,10 @@ schlepp.ch
 schleppboot-zephyr.ch
 schleppen.ch
 schlepper.ch
-schlepperfixx.ch
 schlepperkalender.ch
 schleppfischen.ch
 schleppfischer.ch
 schleppfix.ch
-schleppfixx.ch
 schleppi-clean.ch
 schleppi.ch
 schleppiclean.ch
@@ -19482,6 +19488,7 @@ schokoladenkurs.ch
 schokoladenkurse.ch
 schokoladenlabor.ch
 schokoladenmail.ch
+schokoladenmandeln.ch
 schokoladenmanufaktur.ch
 schokoladenmassage-basel.ch
 schokoladenmekka.ch
@@ -19512,6 +19519,7 @@ schokolato.ch
 schokolo.ch
 schokologo.ch
 schokolux.ch
+schokomandeln.ch
 schokomann.ch
 schokomil.ch
 schokopack.ch
@@ -21032,7 +21040,6 @@ schreibwerkstatt-kraus.ch
 schreibwerkstatt.ch
 schreibwert.ch
 schreibwiese.ch
-schreibwirkung.ch
 schreibwoche.ch
 schreibworkshops.ch
 schreibwort.ch
@@ -21351,6 +21358,7 @@ schreinerei-boog.ch
 schreinerei-bopp.ch
 schreinerei-bossard.ch
 schreinerei-bosshard.ch
+schreinerei-bracher.ch
 schreinerei-brack.ch
 schreinerei-braegger.ch
 schreinerei-braun.ch
@@ -22900,6 +22908,7 @@ schubkraft-protection.ch
 schubkraft.ch
 schubkultur.ch
 schublade.ch
+schubladelos.ch
 schublademitdampf.ch
 schubladen-fertigung.ch
 schubladen-konfigurator.ch
@@ -23016,7 +23025,6 @@ schuegueband.ch
 schuehkiste-schwiiz.ch
 schuehle.ch
 schueho.ch
-schuehschachtle.ch
 schueka.ch
 schuel-au.ch
 schuel-muure.ch
@@ -24302,6 +24310,7 @@ schuldeninfo.ch
 schuldeninkasso.ch
 schuldenklar.ch
 schuldenkrise.ch
+schuldenlos.ch
 schuldenmodul.ch
 schuldenregulierung.ch
 schuldenruf-online.ch
@@ -27734,6 +27743,7 @@ schutzstelle.ch
 schutzstrahl.ch
 schutzstrategie.ch
 schutzsysteme.ch
+schutztechnik-ag.ch
 schutztechnik-gmbh.ch
 schutztechnik.ch
 schutztrafo.ch
@@ -30349,6 +30359,7 @@ schweizer-forst.ch
 schweizer-fotograf.ch
 schweizer-fotografie.ch
 schweizer-foundation.ch
+schweizer-franken.ch
 schweizer-frauenfussball.ch
 schweizer-frauenlauf.ch
 schweizer-frauenlaufserie.ch
@@ -30642,6 +30653,7 @@ schweizer-landtechnik.ch
 schweizer-landwirtschaft.ch
 schweizer-landwirtschaftsbetriebe.ch
 schweizer-laufhund.ch
+schweizer-leben.ch
 schweizer-lebensberatung.ch
 schweizer-lebenshilfe.ch
 schweizer-leckerli.ch
@@ -32354,6 +32366,7 @@ schweizerpollen.ch
 schweizerpoloundpferdezentrum.ch
 schweizerpolozentrum.ch
 schweizerportal.ch
+schweizerpost.ch
 schweizerpostadresse.ch
 schweizerposter.ch
 schweizerpoulet.ch
@@ -32756,6 +32769,7 @@ schweizerwohnraum.ch
 schweizerwohntage.ch
 schweizerwolke.ch
 schweizerwunder.ch
+schweizerwurst.ch
 schweizeryogaverband.ch
 schweizeryogazentrum.ch
 schweizerzahlenbuch.ch
@@ -32893,6 +32907,7 @@ schweizland.ch
 schweizlanglauf.ch
 schweizleasing.ch
 schweizleben.ch
+schweizlernen.ch
 schweizletsplay.ch
 schweizliebe.ch
 schweizlive.ch
@@ -35399,6 +35414,7 @@ scilacci.ch
 scild.ch
 scileri.ch
 sciletics.ch
+sciliastay.ch
 sciliftprato.ch
 scilimati.ch
 scilla.ch
@@ -35541,6 +35557,7 @@ scitec-media.ch
 scitec-sciage.ch
 scitec.ch
 scitech-solutions.ch
+scitech.ch
 scitechdrogerie.ch
 scitechequans.ch
 scitechsol.ch
@@ -36768,6 +36785,7 @@ scoutdb.ch
 scoutdoor.ch
 scoutduevette.ch
 scoute.ch
+scoute24.ch
 scouted.ch
 scouten.ch
 scouter.ch
