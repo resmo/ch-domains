@@ -954,7 +954,6 @@ ns1.barium.ch
 ns1.barmettler-ict-hosting.ch
 ns1.basel-landschaft.ch
 ns1.basler.ch
-ns1.basx.ch
 ns1.bauern-portal.ch
 ns1.bauernportal.ch
 ns1.baumer.ch
@@ -1657,7 +1656,6 @@ ns1.f6link.ch
 ns1.f6mail.ch
 ns1.fabioforni.ch
 ns1.fabrica-capricorn.ch
-ns1.facturaplus.ch
 ns1.fahlab.ch
 ns1.fahrzeugtechnikmueller.ch
 ns1.fairmail.ch
@@ -3035,6 +3033,7 @@ ns1.pussy-slips.ch
 ns1.puteus.ch
 ns1.pyropac.ch
 ns1.pyxis.ch
+ns1.qbic3.ch
 ns1.qboys.ch
 ns1.qid.ch
 ns1.qlns.ch
@@ -3175,6 +3174,7 @@ ns1.sagar.ch
 ns1.sagitservices.ch
 ns1.sagservices.ch
 ns1.sahac.anniv.ch
+ns1.sahlidom01.ch
 ns1.sakogroup.ch
 ns1.saldia.ch
 ns1.salverte.ch
@@ -3430,6 +3430,7 @@ ns1.stromkompass.ch
 ns1.strompower.ch
 ns1.struzek.ch
 ns1.studerholzbau.ch
+ns1.studio-fam.ch
 ns1.studio-internet.ch
 ns1.stzh.ch
 ns1.suckerpun.ch
@@ -3725,7 +3726,6 @@ ns1.vr-technics.ch
 ns1.vritec.ch
 ns1.vs-creative.ch
 ns1.vs.ch
-ns1.vsm-nettoyage.ch
 ns1.vtspace.ch
 ns1.vyma.ch
 ns1.w-4.ch
@@ -4270,7 +4270,6 @@ ns2.bargnac.ch
 ns2.barium.ch
 ns2.barmettler-ict-hosting.ch
 ns2.basler.ch
-ns2.basx.ch
 ns2.bauern-portal.ch
 ns2.bauernportal.ch
 ns2.baumer.ch
@@ -4948,7 +4947,6 @@ ns2.f1rstlevel.ch
 ns2.f6link.ch
 ns2.f6mail.ch
 ns2.fabioforni.ch
-ns2.facturaplus.ch
 ns2.fahlab.ch
 ns2.fahrzeugtechnikmueller.ch
 ns2.fairmail.ch
@@ -6261,6 +6259,7 @@ ns2.puteus.ch
 ns2.pylonsoft.ch
 ns2.pyropac.ch
 ns2.pyxis.ch
+ns2.qbic3.ch
 ns2.qboys.ch
 ns2.qid.ch
 ns2.qlns.ch
@@ -6391,6 +6390,7 @@ ns2.sagar.ch
 ns2.sagitservices.ch
 ns2.sagservices.ch
 ns2.sahac.anniv.ch
+ns2.sahlidom01.ch
 ns2.sakogroup.ch
 ns2.saldia.ch
 ns2.salverte.ch
@@ -6941,7 +6941,6 @@ ns2.vs-creative.ch
 ns2.vs.ch
 ns2.vsag.ch
 ns2.vshn.ch
-ns2.vsm-nettoyage.ch
 ns2.vtspace.ch
 ns2.vyan.ch
 ns2.vyma.ch

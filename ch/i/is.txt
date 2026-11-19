@@ -391,7 +391,6 @@ isabelle-kaspar.ch
 isabelle-keller.ch
 isabelle-kern.ch
 isabelle-koenig.ch
-isabelle-lang.ch
 isabelle-leclercq.ch
 isabelle-ledergerber.ch
 isabelle-lehmann.ch
@@ -1557,7 +1556,6 @@ iseni-is.ch
 iseni.ch
 isenia.ch
 isenibau.ch
-isenigarage.ch
 isenimotors.ch
 isening.ch
 iseniors.ch
@@ -3930,6 +3928,7 @@ isswas.ch
 issweihnachtsanlass.ch
 isswitzerland.ch
 issworld.ch
+issworldgroup.ch
 issxconference.ch
 issyla.ch
 issystems.ch
@@ -4282,6 +4281,7 @@ isumi.ch
 isun.ch
 isunskincare.ch
 isuntu.ch
+isuo.ch
 isup.ch
 isuppapers.ch
 isupport.ch

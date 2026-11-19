@@ -60,6 +60,7 @@ ki-anfragesystem.ch
 ki-anonymisierer.ch
 ki-anrufbeantworter.ch
 ki-antwort.ch
+ki-antworten.ch
 ki-anwaelte-schweiz.ch
 ki-anwaelte.ch
 ki-anwalt.ch
@@ -271,6 +272,7 @@ ki-emma.ch
 ki-emmental.ch
 ki-empfang.ch
 ki-empfehlung.ch
+ki-empfohlen.ch
 ki-engineering.ch
 ki-entwickler.ch
 ki-entwicklung.ch
@@ -278,6 +280,7 @@ ki-erbteilung.ch
 ki-erfolg.ch
 ki-erfolgssystem.ch
 ki-erp.ch
+ki-erwaehnungen.ch
 ki-etf.ch
 ki-ethik.ch
 ki-event.ch
@@ -312,6 +315,8 @@ ki-filmfestival.ch
 ki-films.ch
 ki-filmstudio.ch
 ki-finanzen.ch
+ki-findbar.ch
+ki-finden.ch
 ki-finder.ch
 ki-firma.ch
 ki-firmen.ch
@@ -363,6 +368,7 @@ ki-fuer-unternehmen.ch
 ki-game.ch
 ki-garage.ch
 ki-gecheckt.ch
+ki-gefunden.ch
 ki-gemeindekommunikation.ch
 ki-gemeindeverwaltung.ch
 ki-generalist.ch
@@ -378,6 +384,7 @@ ki-gestaltung.ch
 ki-gesundheit.ch
 ki-gesundheitsanalyse.ch
 ki-gesundheitscheck.ch
+ki-gipfel-swiss.ch
 ki-go.ch
 ki-gov.ch
 ki-governance.ch
@@ -1105,7 +1112,6 @@ ki-websichtbar.ch
 ki-website-erstellen.ch
 ki-website-schweiz.ch
 ki-website.ch
-ki-websites.ch
 ki-wegweiser.ch
 ki-weiterbildung-vergleich.ch
 ki-weiterbildung.ch
@@ -1452,6 +1458,8 @@ kiatelier.ch
 kiatlas.ch
 kiatoria-sushi.ch
 kiatoria.ch
+kiatoriabasel.ch
+kiatoriasushi.ch
 kiatsu.ch
 kiatsua.ch
 kiatwork.ch
@@ -1762,7 +1770,6 @@ kick4all.ch
 kick4cause.ch
 kick4kids.ch
 kick77.ch
-kickaarau.ch
 kickadvisor.ch
 kickandcare.ch
 kickandflow.ch
@@ -2515,6 +2522,7 @@ kidscan.ch
 kidscanfoundation.ch
 kidscard.ch
 kidscare-events.ch
+kidscare-gr.ch
 kidscare-switzerland.ch
 kidscare.ch
 kidscareathome.ch
@@ -3832,6 +3840,7 @@ kigent.ch
 kigesetz.ch
 kigger.ch
 kigips.ch
+kigito.ch
 kignein.ch
 kignh.ch
 kigo-schweiz.ch
@@ -4021,6 +4030,7 @@ kikai-shiatsu.ch
 kikai.ch
 kikaj-consulting.ch
 kikaj.ch
+kikajconsulting.ch
 kikajon.ch
 kikal.ch
 kikan.ch
@@ -4863,7 +4873,6 @@ kimberley.ch
 kimberly-beauty.ch
 kimberly-clark.ch
 kimberly-desserts.ch
-kimberly-shop.ch
 kimberly.ch
 kimberlybucher.ch
 kimberlyclark.ch
@@ -8229,7 +8238,6 @@ kindervilla-wilchingen.ch
 kindervilla.ch
 kindervillakunterbunt.ch
 kindervillas.ch
-kindervitamine.ch
 kindervorhaenge.ch
 kindervorhang.ch
 kindervorhangnachmass.ch
@@ -8571,7 +8579,6 @@ kinderzirkuswocheburgdorf.ch
 kinderzmittag.ch
 kinderzoo.ch
 kinderzuhausepflegen.ch
-kinderzukunft.ch
 kinderzulage-rechner.ch
 kinderzulage.ch
 kinderzulagen-rechner.ch
@@ -9045,6 +9052,7 @@ kineo.ch
 kineoase.ch
 kineocentre.ch
 kineon.ch
+kineos-energetics-gmbh.ch
 kineos.ch
 kineost.ch
 kineplus.ch
@@ -9922,6 +9930,7 @@ kinevolution.ch
 kinevoyame.ch
 kinew.ch
 kineweg.ch
+kinewerk.ch
 kinewi.ch
 kinewilli.ch
 kinews.ch
@@ -11511,6 +11520,7 @@ kipit.ch
 kipitpro.ch
 kipka.ch
 kipkark.ch
+kipkora.ch
 kipla.ch
 kipley.ch
 kipli.ch
@@ -12845,7 +12855,6 @@ kirezeptionist.ch
 kirfa.ch
 kirgis.ch
 kirgistanreisen.ch
-kirgistantravel.ch
 kirgiz.ch
 kirgnar.ch
 kirgo-casino.ch
@@ -13458,6 +13467,7 @@ kissenstyle.ch
 kissenstyling.ch
 kissenuniversum.ch
 kissenurnen.ch
+kissenwelt.ch
 kissenwelt24.ch
 kissenzumkuessen.ch
 kisser.ch
@@ -13597,7 +13607,6 @@ kisstheracoon.ch
 kissui.ch
 kissuisse.ch
 kisswallet.ch
-kissysolorzanobeauty.ch
 kist-hr.ch
 kist.ch
 kista-bau.ch
@@ -14849,6 +14858,7 @@ kitawaschbaer.ch
 kitawasen.ch
 kitaweb.ch
 kitawebdesign.ch
+kitawellenherz.ch
 kitawelt.ch
 kitawelten.ch
 kitawerk.ch

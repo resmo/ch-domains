@@ -422,6 +422,7 @@ loc-events.ch
 loc-halles.ch
 loc-invest.ch
 loc-it.ch
+loc-kitchen.ch
 loc-line.ch
 loc-mariages.ch
 loc-remorque-frigo.ch
@@ -763,6 +764,7 @@ localcore.ch
 localcosmos.ch
 localcoties.ch
 localcraft.ch
+localcrafts.ch
 localcreators.ch
 localcuties.ch
 localdeal.ch
@@ -836,6 +838,8 @@ localfoodstories.ch
 localfoot.ch
 localforge.ch
 localfrequence.ch
+localfrequency.ch
+localfreuquency.ch
 localfriend.ch
 localfriends.ch
 localfrog.ch
@@ -1164,6 +1168,7 @@ localtrends.ch
 localtrust.ch
 localtube.ch
 localtv.ch
+localtwin-staging.ch
 localunderground.ch
 localundsearch.ch
 localup.ch
@@ -1380,7 +1385,6 @@ locasandco.ch
 locascio.ch
 locascoot.ch
 locascore.ch
-locasecurite.ch
 locaservice.ch
 locaservices.ch
 locashare.ch
@@ -4493,6 +4497,7 @@ logisticsacademy.ch
 logisticscamplus.ch
 logisticscampus.ch
 logisticsdigital.ch
+logisticsgmbh.ch
 logisticshalloffame.ch
 logisticsinnovation-schmid.ch
 logisticsinnovation.ch
@@ -5119,6 +5124,7 @@ logopaedie-jobs.ch
 logopaedie-kinder-jugendliche.ch
 logopaedie-kuesnacht.ch
 logopaedie-lerchenbuehl.ch
+logopaedie-lindeneck.ch
 logopaedie-linthgebiet.ch
 logopaedie-lohnt-sich.ch
 logopaedie-mathis.ch
@@ -6319,7 +6325,6 @@ lokaler-solarstrom.ch
 lokalereinkauf.ch
 lokalerenergiemarkt.ch
 lokalergenialer.ch
-lokalero.ch
 lokalersolarstrom.ch
 lokalerstrom.ch
 lokalerwein.ch
@@ -6644,9 +6649,11 @@ lokomotiveletten.ch
 lokomotiven.ch
 lokomotiveooo.ch
 lokomotivfuehrer.ch
+lokos-media.ch
 lokos.ch
 lokosalseros.ch
 lokosana.ch
+lokosmedia.ch
 lokosolutions.ch
 lokpersonal.ch
 lokpilot.ch
@@ -10250,6 +10257,7 @@ los-seeland.ch
 los-tacos-hermanos-lausanne.ch
 los-tacos-hermanos-malley.ch
 los-tampanolas.ch
+los-tostaderos.ch
 los-ultra.ch
 los-zuegellos.ch
 los.ch
@@ -12455,6 +12463,7 @@ love-life.ch
 love-live-laugh.ch
 love-live.ch
 love-locks.ch
+love-lounge.ch
 love-love-love.ch
 love-mallorca.ch
 love-map.ch

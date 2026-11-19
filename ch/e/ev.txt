@@ -2156,6 +2156,7 @@ event-organizer.ch
 event-os.ch
 event-ost.ch
 event-ostschweiz.ch
+event-page.ch
 event-party-dj.ch
 event-pe.ch
 event-pearl.ch
@@ -2164,6 +2165,7 @@ event-personal.ch
 event-photobox.ch
 event-photographer-zurich.ch
 event-photographer.ch
+event-photos.ch
 event-picture.ch
 event-pilot.ch
 event-pl.ch
@@ -2189,6 +2191,7 @@ event-pros.ch
 event-protection.ch
 event-pulse.ch
 event-raclette.ch
+event-radar.ch
 event-rapperswil.ch
 event-raum.ch
 event-rechner.ch
@@ -3539,6 +3542,7 @@ events-thurgau.ch
 events-ticketing.ch
 events-timeline.ch
 events-toggenburger.ch
+events-troodi.ch
 events-und-design.ch
 events-und-transporte.ch
 events-unibe.ch
@@ -5669,7 +5673,6 @@ evolty.ch
 evoltys.ch
 evolu-bau.ch
 evolu-one.ch
-evolu.ch
 evolua.ch
 evolubloc.ch
 evolubois-design.ch
