@@ -829,6 +829,7 @@ ns1.alpinedc.ch
 ns1.alpinedns.ch
 ns1.alpiron.ch
 ns1.alpost.ch
+ns1.alsig.ch
 ns1.alticherzi.ch
 ns1.alto-port.ch
 ns1.alvarez-it.ch
@@ -2077,6 +2078,7 @@ ns1.iims2.ch
 ns1.iims3.ch
 ns1.ikaglobal.ch
 ns1.iliantaini.ch
+ns1.illyria-dns.ch
 ns1.ilmionome.ch
 ns1.im-digitalen-raum.ch
 ns1.im-riet.ch
@@ -3387,6 +3389,7 @@ ns1.sponsoring24.ch
 ns1.spreng.ch
 ns1.sputniks.ch
 ns1.spyapp.ch
+ns1.srhdns.ch
 ns1.sry-myls.ch
 ns1.sscloud.ch
 ns1.stabilionet.ch
@@ -3726,6 +3729,7 @@ ns1.vr-technics.ch
 ns1.vritec.ch
 ns1.vs-creative.ch
 ns1.vs.ch
+ns1.vsm-nettoyage.ch
 ns1.vtspace.ch
 ns1.vyma.ch
 ns1.w-4.ch
@@ -3964,7 +3968,6 @@ ns10.behost.ch
 ns10.bucher-walt.ch
 ns10.cbm.ch
 ns10.crimanet.ch
-ns10.def.ch
 ns10.fast-lta.ch
 ns10.hcweb.ch
 ns10.hostingmanager.ch
@@ -4146,6 +4149,7 @@ ns2.alpinedc.ch
 ns2.alpinedns.ch
 ns2.alpiron.ch
 ns2.alpost.ch
+ns2.alsig.ch
 ns2.alticherzi.ch
 ns2.alto-port.ch
 ns2.alvarez-it.ch
@@ -6606,6 +6610,7 @@ ns2.spinazze.ch
 ns2.sponsoring24.ch
 ns2.sprachnachweis.ch
 ns2.sputniks.ch
+ns2.srhdns.ch
 ns2.sry-myls.ch
 ns2.sscloud.ch
 ns2.stabilionet.ch
@@ -6941,6 +6946,7 @@ ns2.vs-creative.ch
 ns2.vs.ch
 ns2.vsag.ch
 ns2.vshn.ch
+ns2.vsm-nettoyage.ch
 ns2.vtspace.ch
 ns2.vyan.ch
 ns2.vyma.ch
@@ -7161,7 +7167,6 @@ ns2.zynex.ch
 ns20.bucher-walt.ch
 ns20.cbm.ch
 ns20.dand.ch
-ns20.def.ch
 ns20.inaya.ch
 ns20.kbsd.ch
 ns20.martinoni.ch
@@ -7518,6 +7523,7 @@ ns3.idiap.ch
 ns3.idv.ch
 ns3.ievolution.ch
 ns3.ify.ch
+ns3.illyria-dns.ch
 ns3.imp.ch
 ns3.implog.ch
 ns3.incide.ch
@@ -7978,6 +7984,7 @@ ns30.ch
 ns30.inaya.ch
 ns30.kbsd.ch
 ns30.martinoni.ch
+ns30.produktiv.ch
 ns31.maxschaer.ch
 ns31.mentras.ch
 ns3x.layer9.ch
@@ -8375,6 +8382,7 @@ ns8.dizmo.ch
 ns8.engitech.ch
 ns8.goline.ch
 ns8.itu.ch
+ns8.srhdns.ch
 ns8.virtualhosts.ch
 ns8.vs.ch
 ns9.b-source.ch
