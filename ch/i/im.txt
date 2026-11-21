@@ -389,8 +389,6 @@ im3sdriver.ch
 im3sprod.ch
 im4-varm.ch
 im43.ch
-im4g3.ch
-im4g3s.ch
 im5berntalks.ch
 im5i.ch
 im5jule-metzger.ch
@@ -3741,6 +3739,7 @@ immo-help.ch
 immo-helvetica-mar.ch
 immo-helvetica.ch
 immo-henze.ch
+immo-hermann.ch
 immo-heroes.ch
 immo-herrmann.ch
 immo-herz.ch
@@ -6409,6 +6408,7 @@ immobilienpics.ch
 immobilienpionier.ch
 immobilienplan.ch
 immobilienplanung.ch
+immobilienplattform.ch
 immobilienplatz.ch
 immobilienplugin.ch
 immobilienpodium.ch
@@ -8690,6 +8690,7 @@ immopartners.ch
 immopartnerswiss.ch
 immoparts-sa.ch
 immopassage.ch
+immopasst.ch
 immopay.ch
 immopeak.ch
 immopedevilla.ch
@@ -9397,7 +9398,6 @@ immoswiss24.ch
 immoswissag.ch
 immoswissalps.ch
 immoswissassets.ch
-immoswissbiel.ch
 immoswissedifice.ch
 immoswissgate.ch
 immoswisshome.ch
@@ -10362,6 +10362,7 @@ imolog.ch
 imologag.ch
 imomalergeschaeft.ch
 imomap.ch
+imomea.ch
 imoment.ch
 imomi.ch
 imomohub.ch
@@ -12693,6 +12694,7 @@ impuls-bienenweide.ch
 impuls-bude.ch
 impuls-buehne.ch
 impuls-c21.ch
+impuls-check.ch
 impuls-chor.ch
 impuls-coach.ch
 impuls-coaches.ch
@@ -12853,6 +12855,7 @@ impulsboll.ch
 impulsbot.ch
 impulsbox.ch
 impulscafe.ch
+impulscheck.ch
 impulscoaching.ch
 impulscompas.ch
 impulscompass.ch

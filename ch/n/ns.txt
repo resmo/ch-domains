@@ -1349,6 +1349,7 @@ ns1.cynatic.ch
 ns1.cyon.ch
 ns1.cyprovider.ch
 ns1.cypulse.ch
+ns1.d-dns.ch
 ns1.d-solutions.ch
 ns1.dalco.ch
 ns1.dalla-campagna.ch
@@ -1671,7 +1672,6 @@ ns1.fantasticservices.ch
 ns1.farmaciainternazionale.ch
 ns1.fasnachts-comite.ch
 ns1.fastfoodclub.ch
-ns1.fattorie-aperte.ch
 ns1.fauschwebsolutions.ch
 ns1.favey.ch
 ns1.fbone.ch
@@ -1684,7 +1684,6 @@ ns1.fdux.ch
 ns1.feedodo.ch
 ns1.fegetz-allee.ch
 ns1.feierabendbier.ch
-ns1.fermes-ouvertes.ch
 ns1.feusolidarite.ch
 ns1.fhvi.ch
 ns1.fibreshape.ch
@@ -1715,7 +1714,6 @@ ns1.fisharm.ch
 ns1.fisherpayroll.ch
 ns1.fishnfun.ch
 ns1.fistat.ch
-ns1.fitimschritt.ch
 ns1.fivezone.ch
 ns1.fjkl.ch
 ns1.flashcable.ch
@@ -2770,7 +2768,6 @@ ns1.ochm.ch
 ns1.oeles-webdesign.ch
 ns1.oetiker.ch
 ns1.offene-forschung.ch
-ns1.offene-hoftueren.ch
 ns1.offertube.ch
 ns1.office-max.ch
 ns1.oglasi24.ch
@@ -2988,7 +2985,6 @@ ns1.praxis-unfallchirurgie.ch
 ns1.praxis-weissenstein.ch
 ns1.predesnoyers.ch
 ns1.premiumcontent.ch
-ns1.premotec.ch
 ns1.presence-plus.ch
 ns1.pri.ch
 ns1.prime-host.ch
@@ -4965,7 +4961,6 @@ ns2.familleoggier.ch
 ns2.fantasticservices.ch
 ns2.farmaciainternazionale.ch
 ns2.fasnachts-comite.ch
-ns2.fattorie-aperte.ch
 ns2.fauschwebsolutions.ch
 ns2.favey.ch
 ns2.fbone.ch
@@ -4974,7 +4969,6 @@ ns2.fcz.ch
 ns2.fdka.ch
 ns2.fdux.ch
 ns2.feedodo.ch
-ns2.fermes-ouvertes.ch
 ns2.feusolidarite.ch
 ns2.fhv.ch
 ns2.fibreshape.ch
@@ -5004,7 +4998,6 @@ ns2.fischereiarm.ch
 ns2.fisharm.ch
 ns2.fisherpayroll.ch
 ns2.fistat.ch
-ns2.fitimschritt.ch
 ns2.fiveinfo.ch
 ns2.fivezone.ch
 ns2.fjkl.ch
@@ -6008,7 +6001,6 @@ ns2.ochm.ch
 ns2.oeles-webdesign.ch
 ns2.oetiker.ch
 ns2.offene-forschung.ch
-ns2.offene-hoftueren.ch
 ns2.office-max.ch
 ns2.oglasi24.ch
 ns2.ohcysp.ch
@@ -6214,7 +6206,6 @@ ns2.prax.ch
 ns2.praxis-unfallchirurgie.ch
 ns2.predesnoyers.ch
 ns2.premiumcontent.ch
-ns2.premotec.ch
 ns2.presence-plus.ch
 ns2.pri.ch
 ns2.prime-host.ch
@@ -7746,7 +7737,6 @@ ns3.polyoperation-test.ch
 ns3.polyoperation.ch
 ns3.popnet.ch
 ns3.populaer.ch
-ns3.premotec.ch
 ns3.prime-host.ch
 ns3.profectis.ch
 ns3.profinet.ch
@@ -8187,7 +8177,6 @@ ns4.polyatlas.ch
 ns4.polyoperation-test.ch
 ns4.polyoperation.ch
 ns4.popnet.ch
-ns4.premotec.ch
 ns4.profectis.ch
 ns4.profinet.ch
 ns4.progressive.ch

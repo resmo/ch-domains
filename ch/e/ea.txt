@@ -948,7 +948,6 @@ eas-db-construction.ch
 eas-ev.ch
 eas-experimental.ch
 eas-harpe.ch
-eas-it.ch
 eas-schweiz.ch
 eas-schwyz.ch
 eas-solution.ch
@@ -990,6 +989,7 @@ easeebill.ch
 easeeup.ch
 easeflow.ch
 easeformula.ch
+easeguard.ch
 easeli.ch
 easell.ch
 easely.ch
@@ -1724,7 +1724,6 @@ easy-promotion.ch
 easy-prompt.ch
 easy-property.ch
 easy-proprietaire.ch
-easy-protection-juridique.ch
 easy-prozess.ch
 easy-psy.ch
 easy-pump.ch
@@ -4173,6 +4172,7 @@ eatfreda.ch
 eatfresh.ch
 eatfrood.ch
 eatg.ch
+eatgo.ch
 eatgood.ch
 eatgoodfeelgood.ch
 eatgourmet.ch
